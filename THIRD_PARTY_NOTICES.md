@@ -35,7 +35,11 @@ TinyCC archives by SHA-256/size. `tools/upstream_sources.py` preserves original
 bytes and extracts license/notice texts without unpacking or executing sources.
 External source references are not counted as collected archives. Transitive
 npm/Maven notice completeness, modified WebKit/Bun relink validation and full compatibility
-review remain open; `fullReleaseAuditComplete` remains false.
-Before external distribution, generate the full transitive dependency/SBOM inventory and
-include the applicable licence texts plus the corresponding source/build materials for
-copyleft components. This inventory is a development record, not a completed release audit.
+review are tracked in `docs/DEPENDENCY_NOTICES.md`; `fullReleaseAuditComplete` remains false.
+The APK contains Maven/npm notice archives. The actual 68 unique release artifacts
+are paired by binary SHA-256 with complete published source JARs and POMs in
+`third_party/maven-sources.lock.json`. A manifest dependency superset, original
+font metadata/OFL text, packaged grants and pinned repository supplements are also
+retained. Declaration-only items remain explicit review cases, not inferred approvals.
+Source/notice delivery and the broader compatibility review are distinct; this
+development inventory is not a completed release audit.

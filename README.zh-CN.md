@@ -56,6 +56,8 @@ python tools/prepare_terminal.py
 powershell -ExecutionPolicy Bypass -File tools/build-opencode.ps1 -Abi arm64-v8a
 # 按 docs/DEVELOPER_PACK.md 构建干净的开发套件 rootfs 后：
 python tools/bundle_developer.py
+# 分发构建还需按 docs/DEPENDENCY_NOTICES.md 准备 Maven/npm 说明与源码材料。
+# Linux/WSL：bash tools/ci_prepare_notices.sh
 .\gradlew.bat assembleDebug lintDebug
 python tools/check_apk.py app/build/outputs/apk/debug/app-debug.apk --abi arm64-v8a
 ```
@@ -86,3 +88,5 @@ adb -s <serial> shell am instrument -w -e includeNetwork true io.github.opencode
 ARM64 16 KB 实机验证；真实模型驱动的 Agent 工程开发与恢复；终端和桌面 IME/TUI/外设交互矩阵；真实 GitHub 登录/远端推送、LSP 配置与语言覆盖；AndroidBridge 长时间/系统回收压力与完整文件操作矩阵；桌面 Chromium 沙箱兼容与隔离评估；真实平板、折叠屏和外接显示器的多面板验收；跨设备/provider/长期压力下的备份恢复矩阵；Android 10–16 生命周期与压力验证；发布签名与许可证清单审计。
 
 本项目以 GPL-3.0-or-later 提供新代码。参考与复用组件的版权、许可证见 [第三方说明](THIRD_PARTY_NOTICES.md)。OpenCode 保留上游 MIT 许可证，Debian 内各软件包保留其各自许可证。
+
+APK 内嵌 Maven/npm 说明归档，发布材料还包含实际 Android 运行库的完整 source JAR、OpenCode 清单依赖超集与原始字体署名。仅有许可证声明的条目及未完成审查范围见 [依赖材料](docs/DEPENDENCY_NOTICES.md)，不将工程预发布等同于完整审计通过。

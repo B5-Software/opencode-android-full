@@ -70,6 +70,7 @@ The complete recipe is in [.github/workflows/android.yml](.github/workflows/andr
 export ANDROID_NDK="$ANDROID_HOME/ndk/29.0.14206865"
 bash tools/ci_prepare_assets.sh
 python3 tools/package_native_sources.py
+bash tools/ci_prepare_notices.sh
 bash gradlew assembleDebug assembleDebugAndroidTest assembleRelease testDebugUnitTest lintDebug lintRelease --no-daemon
 python3 tools/check_apk.py app/build/outputs/apk/debug/app-debug.apk --sdk "$ANDROID_HOME"
 ```
@@ -83,6 +84,8 @@ Caches, downloaded sources, runtime packs, APKs, device data, and signing keys a
 Pushes and pull requests build the ARM64 runtime and APKs and run host tests, lint, and packaging checks. Version tags additionally sign the APK and OpenCode update/feed packages and publish an engineering prerelease using repository signing secrets. CI success covers host checks and does not certify the device matrix.
 
 Release assets include checksums, a public signing-certificate record, build metadata, project/native source archives, dependency records, Debian SPDX inventory and license texts, and exact Debian source files with descriptors and distribution patches. The source collector verifies pinned archive signatures, index hashes, exact versions, sizes, and SHA-256 checksums. See [Debian inventory and source delivery](docs/DEBIAN_INVENTORY.md).
+
+The APK also includes Maven/npm notice archives. Release materials retain the exact Android library source JARs, a manifest-based OpenCode dependency notice superset, and original font attribution records. Declaration-only cases and review boundaries are explicit in [dependency notices](docs/DEPENDENCY_NOTICES.md).
 
 [OpenCode updates](docs/OPENCODE_UPDATES.md) update the matching frontend/backend pair together, with publisher authentication and explicit installation. [Backups](docs/BACKUP_RESTORE.md) encrypt persistent runtime/project state and restore it transactionally.
 

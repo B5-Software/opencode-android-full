@@ -27,6 +27,7 @@ android {
     buildFeatures { compose = true; buildConfig = true }
     androidResources { noCompress += "pack" }
     sourceSets.getByName("main").assets.srcDir("runtime-assets/" + if (providers.gradleProperty("diagnosticX86").orNull == "true") "x86_64" else "arm64-v8a")
+    sourceSets.getByName("main").assets.srcDir(layout.buildDirectory.dir("generated/dependency-notices"))
     sourceSets.getByName("debug").java.srcDir(rootProject.file("diagnostics-protocol/src/main/java"))
     packaging {
         jniLibs { useLegacyPackaging = true; keepDebugSymbols += "**/libproot*.so" }
@@ -38,6 +39,31 @@ android {
     lint { abortOnError = true }
 }
 kotlin { compilerOptions { jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17) } }
+
+// Private local paths are inputs to the notice collector, never release metadata.
+tasks.register("exportReleaseArtifactInputs") {
+    val destination = rootProject.layout.projectDirectory.file(".cache/maven-release-artifacts.json")
+    outputs.file(destination)
+    outputs.upToDateWhen { false }
+    doLast {
+        val artifacts = configurations.getByName("releaseRuntimeClasspath").resolvedConfiguration.resolvedArtifacts
+        val records = artifacts.map { artifact ->
+            val id = artifact.moduleVersion.id
+            val checksum = MessageDigest.getInstance("SHA-256")
+            artifact.file.inputStream().use { input ->
+                val buffer = ByteArray(1024 * 1024)
+                while (true) { val count = input.read(buffer); if (count < 0) break; checksum.update(buffer, 0, count) }
+            }
+            mapOf("group" to id.group, "name" to id.name, "version" to id.version,
+                "file" to artifact.file.absolutePath, "sha256" to checksum.digest().joinToString("") { "%02x".format(it) },
+                "size" to artifact.file.length(), "extension" to artifact.extension)
+        }.distinctBy { "${it["group"]}:${it["name"]}:${it["version"]}:${it["extension"]}:${it["sha256"]}" }
+            .sortedBy { "${it["group"]}:${it["name"]}:${it["version"]}:${it["extension"]}" }
+        destination.asFile.parentFile.mkdirs()
+        destination.asFile.writeText(groovy.json.JsonOutput.prettyPrint(groovy.json.JsonOutput.toJson(records)) + "\n", Charsets.UTF_8)
+        println("Resolved ${records.size} release artifacts for source/notice collection")
+    }
+}
 
 val verifyBundledRuntime by tasks.registering {
     doLast {

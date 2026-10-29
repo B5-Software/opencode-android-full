@@ -19,6 +19,7 @@ files=(artifacts/opencode-android-full-arm64.apk artifacts/opencode-android-full
 files+=(artifacts/debian-components.spdx.json artifacts/debian-inventory-coverage.json artifacts/debian-source-requests.json artifacts/debian-license-texts.zip)
 files+=(artifacts/debian-source-archive-lock.json artifacts/debian-source-collection.json artifacts/debian-source-delivery.json artifacts/SHA256SUMS-debian-sources.txt artifacts/debian-source-part-*.tar.gz)
 files+=(artifacts/bun-source.tar.gz artifacts/bun-tinycc-source.tar.gz artifacts/bun-webkit-source.tar.gz artifacts/opencode-source.tar.gz artifacts/upstream-source-delivery.json artifacts/upstream-license-texts.zip)
+files+=(artifacts/maven-source-delivery.json artifacts/maven-sources.zip artifacts/maven-license-texts.zip artifacts/npm-notice-inventory.json artifacts/npm-components.spdx.json artifacts/npm-license-texts.zip)
 if gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --json isDraft >/dev/null 2>&1; then
     echo 'This tag already has a release; its assets were preserved. Use a new reviewed tag.' >&2
     exit 1

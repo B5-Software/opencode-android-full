@@ -262,3 +262,12 @@ K30 更新包验证层新增 7 项、9.458 秒通过，含以已安装 APK 证�
 - debug／unsigned release 构建、两种 lint、13 项 JVM 和 17 项 Python 检查通过；实际 APK 的 ARM64、min29／target36、16KiB 静态打包／ELF 对齐及内置官方程序证明签名检查通过。物理设备仍为 4KiB，不构成 16KiB 真机验收。
 - 新启动图标已接入 adaptive icon 与 Android 13 monochrome 图层；原生 Android 12+ 动态强调色和深浅色跟随系统。官方前端源码未改动。
 - 实际交付 APK 的 Debian 清单在 `artifacts/debian-inventory-system-arm64/`，SPDX 官方 schema 校验通过。只覆盖 Debian 部分，完整发行审计与对应源码交付仍未完成。
+
+
+## 2026-10-30 首次托管 CI 成功与分发材料追加
+
+公开仓库 main 的 `2343ed3b486b4fb7d58746c434c958441613dfae` 已通过 [Actions 40928314682](https://github.com/B5-Software/opencode-android-full/actions/runs/40928314682)：ARM64 运行包、源码检查、实际 APK 编译/单元测试/lint/静态契约、485 个 Debian 源包的 2209 个文件，以及四个上游归档均完成。标签签名任务在 main 上按设计跳过；此记录不代表签名 Release 已发布或完整设备矩阵已通过。
+
+随后追加本地分发材料验证：68 个唯一 release 运行库的二进制摘要与 POM/source JAR 配对，收集 4329 份原始说明/版权头；官方清单依赖超集的 Linux ARM64 production 输入产生 685 条记录，其中四项为明示的标准声明审查项；两份字体元数据和 r26b/r29 NDK 原始说明也按摘要配对。43 项 Python 测试、Android debug/release 构建、既有 JVM 单元测试、lintDebug/lintRelease 通过，实际两份 APK 的新增内嵌材料契约、ABI/SDK/对齐检查通过。npm SPDX 清单通过已固定的官方 2.3 Schema。证据在 `.cache/evidence/dependency-notices-*.txt`、`ci-canonical-export-tests.txt` 与对应 artifacts 下；新增分发流程仍需下一轮托管 CI 验证。
+
+完整许可证适用性/兼容性结论、修改 WebKit/Bun 的重链接链路及 M0–M5 中其他设备/真实服务/压力验收继续保持未完成状态，不将材料收集与完整审计混同。

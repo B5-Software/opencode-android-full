@@ -17,6 +17,7 @@ parser.add_argument("apk", type=pathlib.Path)
 parser.add_argument("--abi", choices=["arm64-v8a", "x86_64"], default="arm64-v8a")
 parser.add_argument("--sdk", default=os.environ.get("ANDROID_HOME"))
 parser.add_argument("--require-core-proof", action="store_true")
+parser.add_argument("--require-license-materials", action="store_true")
 args = parser.parse_args()
 with zipfile.ZipFile(args.apk) as archive:
     native = [n for n in archive.namelist() if n.startswith("lib/") and n.endswith(".so")]
@@ -61,6 +62,15 @@ with zipfile.ZipFile(args.apk) as archive:
         print(f"PASS matching official OpenCode dev pack: {record['version']}")
     else:
         raise AssertionError("APK has no official OpenCode dev executable")
+    if args.require_license_materials:
+        from notice_contract import check_notices
+        notice_lock=json.loads((pathlib.Path(__file__).resolve().parents[1]/'third_party/maven-sources.lock.json').read_text(encoding='utf-8'))
+        check_notices(archive,pack['opencode']['commit'],notice_lock)
+        toolchain_lock=json.loads((pathlib.Path(__file__).resolve().parents[1]/'third_party/toolchain-notices.lock.json').read_text(encoding='utf-8'))
+        for notice in toolchain_lock['notices']:
+            data=archive.read(notice['asset'])
+            assert len(data)==notice['size'] and hashlib.sha256(data).hexdigest()==notice['sha256'], 'Packaged toolchain notice differs from its source pin'
+        print('PASS embedded Maven/npm notice archives and official source identity')
 assert args.sdk, "Set ANDROID_HOME or --sdk to validate the manifest"
 tools = pathlib.Path(args.sdk) / "build-tools/36.0.0"
 suffix = ".exe" if os.name == "nt" else ""

@@ -1,0 +1,575 @@
+{
+  "format": 1,
+  "supplements": [
+    {
+      "repository": "sigstore/sigstore-js",
+      "commit": "c1dc7d4778a450787fc72b083f2490ad02b714c6",
+      "url": "https://raw.githubusercontent.com/sigstore/sigstore-js/c1dc7d4778a450787fc72b083f2490ad02b714c6/LICENSE",
+      "sha256": "364a130d2ca340bd56eb1e6d045fc6929bb0f9d0aa018f2c1949b29517e1cdd0",
+      "size": 11351,
+      "packages": [
+        {
+          "name": "@sigstore/verify",
+          "version": "3.1.1"
+        }
+      ]
+    },
+    {
+      "repository": "redis/node-redis",
+      "commit": "9d522569db428322b10afeb7757c95bdb4d13a9b",
+      "url": "https://raw.githubusercontent.com/redis/node-redis/9d522569db428322b10afeb7757c95bdb4d13a9b/LICENSE",
+      "sha256": "a57b250a5bf03d7afe55b74063313f2adb7b00d546c0ab149a89398333fe3cc8",
+      "size": 1074,
+      "packages": [
+        {
+          "name": "redis",
+          "version": "6.2.1"
+        },
+        {
+          "name": "@redis/time-series",
+          "version": "6.2.1"
+        },
+        {
+          "name": "@redis/client",
+          "version": "6.2.1"
+        },
+        {
+          "name": "@redis/search",
+          "version": "6.2.1"
+        },
+        {
+          "name": "@redis/json",
+          "version": "6.2.1"
+        },
+        {
+          "name": "@redis/bloom",
+          "version": "6.2.1"
+        }
+      ]
+    },
+    {
+      "repository": "rsms/js-lru",
+      "commit": "5373f60c42259bca06a99d2bb10d872ebe4ae72b",
+      "url": "https://raw.githubusercontent.com/rsms/js-lru/5373f60c42259bca06a99d2bb10d872ebe4ae72b/LICENSE.txt",
+      "sha256": "e56e8761e8eb0576edcf9e0cd68f41c78cb6db84f63740cb051d68af1d847be6",
+      "size": 1101,
+      "packages": [
+        {
+          "name": "lru_map",
+          "version": "0.4.1"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "MIT"
+    },
+    {
+      "repository": "rollup/rollup",
+      "commit": "ddc4ffab628944e45dbb8d66d58aae818015440f",
+      "url": "https://raw.githubusercontent.com/rollup/rollup/ddc4ffab628944e45dbb8d66d58aae818015440f/LICENSE.md",
+      "sha256": "fa1bd040c5bdeefe65b3821cebf474f2733ce65df13089bd151dda1778e62fe8",
+      "size": 35231,
+      "packages": [
+        {
+          "name": "@rollup/rollup-openbsd-x64",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-x64-musl",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-x64-gnu",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-freebsd-x64",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-win32-x64-msvc",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-win32-x64-gnu",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-darwin-x64",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-s390x-gnu",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-ppc64-musl",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-ppc64-gnu",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-win32-ia32-msvc",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-arm-musleabihf",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-arm-gnueabihf",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-android-arm-eabi",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-arm64-musl",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-linux-arm64-gnu",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-freebsd-arm64",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-win32-arm64-msvc",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-android-arm64",
+          "version": "4.62.4"
+        },
+        {
+          "name": "@rollup/rollup-darwin-arm64",
+          "version": "4.62.4"
+        }
+      ]
+    },
+    {
+      "repository": "evanw/esbuild",
+      "commit": "208f539945b145e7c9d6d844290f81c3fe5af320",
+      "url": "https://raw.githubusercontent.com/evanw/esbuild/208f539945b145e7c9d6d844290f81c3fe5af320/LICENSE.md",
+      "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+      "size": 1069,
+      "packages": [
+        {
+          "name": "@esbuild/win32-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/win32-ia32",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/win32-arm64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/sunos-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/openbsd-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/openbsd-arm64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/linux-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/linux-s390x",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/linux-ppc64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/linux-ia32",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/linux-arm64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/linux-arm",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/freebsd-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/freebsd-arm64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/darwin-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/darwin-arm64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/android-x64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/android-arm64",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/android-arm",
+          "version": "0.25.12"
+        },
+        {
+          "name": "@esbuild/aix-ppc64",
+          "version": "0.25.12"
+        }
+      ]
+    },
+    {
+      "repository": "electron/extract-zip",
+      "commit": "275c2936837e0231267a7203c1a136de65c6ed2e",
+      "url": "https://raw.githubusercontent.com/electron/extract-zip/275c2936837e0231267a7203c1a136de65c6ed2e/LICENSE",
+      "sha256": "edab8abb78d9c5b36944c3e00aebf6a90eb32378993f49ac8a3904007029c629",
+      "size": 1088,
+      "packages": [
+        {
+          "name": "@electron-internal/extract-zip",
+          "version": "1.0.5"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "MIT"
+    },
+    {
+      "repository": "komagata/eastasianwidth",
+      "commit": "1cae8a1e507ad6bd5da2e9a01c0f6c90131699bf",
+      "url": "https://raw.githubusercontent.com/komagata/eastasianwidth/1cae8a1e507ad6bd5da2e9a01c0f6c90131699bf/LICENSE-NOTES.md",
+      "sha256": "652d0486b433ecd1e91c2a933f6d320f651bda1d7bb32ba50a48cf7329bb81b3",
+      "size": 1977,
+      "packages": [
+        {
+          "name": "eastasianwidth",
+          "version": "0.2.0"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "NOASSERTION"
+    },
+    {
+      "repository": "aws/aws-sdk-js-v3",
+      "commit": "40bf3f7265779672735e0023a6e37e931e82af2f",
+      "url": "https://raw.githubusercontent.com/aws/aws-sdk-js-v3/40bf3f7265779672735e0023a6e37e931e82af2f/LICENSE",
+      "sha256": "edea91454b811f127fbdea3d86f378f6719bd372ed440abf82b232f6fca06c3d",
+      "size": 11352,
+      "packages": [
+        {
+          "name": "@aws-sdk/nested-clients",
+          "version": "3.997.43"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "Apache-2.0"
+    },
+    {
+      "repository": "aws/aws-sdk-js-v3",
+      "commit": "40bf3f7265779672735e0023a6e37e931e82af2f",
+      "url": "https://raw.githubusercontent.com/aws/aws-sdk-js-v3/40bf3f7265779672735e0023a6e37e931e82af2f/LICENSE",
+      "sha256": "edea91454b811f127fbdea3d86f378f6719bd372ed440abf82b232f6fca06c3d",
+      "size": 11352,
+      "packages": [
+        {
+          "name": "@aws-sdk/credential-provider-login",
+          "version": "3.972.76"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "Apache-2.0"
+    },
+    {
+      "repository": "aws/aws-sdk-js-v3",
+      "commit": "40bf3f7265779672735e0023a6e37e931e82af2f",
+      "url": "https://raw.githubusercontent.com/aws/aws-sdk-js-v3/40bf3f7265779672735e0023a6e37e931e82af2f/LICENSE",
+      "sha256": "edea91454b811f127fbdea3d86f378f6719bd372ed440abf82b232f6fca06c3d",
+      "size": 11352,
+      "packages": [
+        {
+          "name": "@aws-sdk/credential-provider-http",
+          "version": "3.972.71"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "Apache-2.0"
+    },
+    {
+      "repository": "remeda/remeda",
+      "commit": "0fde627fc4ca8a19ab93f000fe931f22d4472338",
+      "url": "https://raw.githubusercontent.com/remeda/remeda/0fde627fc4ca8a19ab93f000fe931f22d4472338/LICENSE",
+      "sha256": "acf30083045d768ce20640237313ee31a45d548d66ef76df5bb5fb0745479535",
+      "size": 1063,
+      "packages": [
+        {
+          "name": "remeda",
+          "version": "2.26.0"
+        }
+      ]
+    },
+    {
+      "repository": "anomalyco/opentunnel",
+      "commit": "de890fb77c8c5df6185504e7647d818ead517749",
+      "url": "https://raw.githubusercontent.com/anomalyco/opentunnel/de890fb77c8c5df6185504e7647d818ead517749/LICENSE",
+      "sha256": "1056918b403bb849f0c71b49f603c5178824fa72642cf34c46ca9c27b6f79fb9",
+      "size": 1067,
+      "packages": [
+        {
+          "name": "@opentunnel/client",
+          "version": "0.6.1"
+        },
+        {
+          "name": "@opentunnel/protocol",
+          "version": "0.6.1"
+        }
+      ],
+      "sourceRelationship": "exact version tag",
+      "detectedLicense": "MIT"
+    },
+    {
+      "repository": "vercel/ai",
+      "commit": "1afa510dcdb5eed5d4670c825d490627e1c8809e",
+      "url": "https://raw.githubusercontent.com/vercel/ai/1afa510dcdb5eed5d4670c825d490627e1c8809e/LICENSE",
+      "sha256": "b4f9adb7c568904834d0dd6cc98d16c390d21ca32fc17ae7a267715269bd5529",
+      "size": 552,
+      "packages": [
+        {
+          "name": "@ai-sdk/provider-utils",
+          "version": "4.0.23"
+        },
+        {
+          "name": "@ai-sdk/provider-utils",
+          "version": "4.0.23"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "NOASSERTION"
+    },
+    {
+      "repository": "aws/aws-sdk-js-v3",
+      "commit": "674fae6e8d61eeb463576cb37dabfe5c61bcef98",
+      "url": "https://raw.githubusercontent.com/aws/aws-sdk-js-v3/674fae6e8d61eeb463576cb37dabfe5c61bcef98/LICENSE",
+      "sha256": "edea91454b811f127fbdea3d86f378f6719bd372ed440abf82b232f6fca06c3d",
+      "size": 11352,
+      "packages": [
+        {
+          "name": "@aws-sdk/nested-clients",
+          "version": "3.933.0"
+        }
+      ],
+      "sourceRelationship": "exact version tag",
+      "detectedLicense": "Apache-2.0"
+    },
+    {
+      "repository": "aws/aws-sdk-js-v3",
+      "commit": "c28f46d9d0ceff80f1123bcd76ff65b4dbfef93c",
+      "url": "https://raw.githubusercontent.com/aws/aws-sdk-js-v3/c28f46d9d0ceff80f1123bcd76ff65b4dbfef93c/LICENSE",
+      "sha256": "edea91454b811f127fbdea3d86f378f6719bd372ed440abf82b232f6fca06c3d",
+      "size": 11352,
+      "packages": [
+        {
+          "name": "@aws-sdk/core",
+          "version": "3.932.0"
+        },
+        {
+          "name": "@aws-sdk/credential-provider-http",
+          "version": "3.932.0"
+        }
+      ],
+      "sourceRelationship": "exact version tag",
+      "detectedLicense": "Apache-2.0"
+    },
+    {
+      "repository": "Sebmaster/tr46.js",
+      "commit": "bd303c13dc7ebc716c232f03cb80c79071e7a7f7",
+      "url": "https://raw.githubusercontent.com/Sebmaster/tr46.js/bd303c13dc7ebc716c232f03cb80c79071e7a7f7/LICENSE.md",
+      "sha256": "499d6d466d064e0460427967a344e2a32fcb86ea8c6cd1a285ec4f1fa03fba67",
+      "size": 1076,
+      "packages": [
+        {
+          "name": "tr46",
+          "version": "0.0.3"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "MIT"
+    },
+    {
+      "repository": "anycable/anycable-client",
+      "commit": "a18503aeaf452d2b223a3753a1300ccf3df9801e",
+      "url": "https://raw.githubusercontent.com/anycable/anycable-client/a18503aeaf452d2b223a3753a1300ccf3df9801e/MIT-LICENSE",
+      "sha256": "19071e84a83a543809f5093f3ec010b2f6c1f53de3e3acaa5dcb0e796358f4e6",
+      "size": 1063,
+      "packages": [
+        {
+          "name": "@anycable/core",
+          "version": "0.9.2"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "MIT"
+    },
+    {
+      "repository": "drizzle-team/drizzle-orm",
+      "commit": "eab8bedbb65d5429c54e612ddbd88aa23091d398",
+      "url": "https://raw.githubusercontent.com/drizzle-team/drizzle-orm/eab8bedbb65d5429c54e612ddbd88aa23091d398/LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "size": 11357,
+      "packages": [
+        {
+          "name": "drizzle-orm",
+          "version": "1.0.0-rc.5-169397b"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "Apache-2.0"
+    },
+    {
+      "repository": "cloudflare/workerd",
+      "commit": "cb2347a6d775061a2ccdbf0e48ccc025f8681574",
+      "url": "https://raw.githubusercontent.com/cloudflare/workerd/cb2347a6d775061a2ccdbf0e48ccc025f8681574/LICENSE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "size": 10174,
+      "packages": [
+        {
+          "name": "@cloudflare/workers-types",
+          "version": "4.20251008.0"
+        }
+      ]
+    },
+    {
+      "repository": "dmtrKovalenko/fff",
+      "commit": "459ebcdbdba094843fe5339a1a7f7dae4ced2d82",
+      "url": "https://raw.githubusercontent.com/dmtrKovalenko/fff/459ebcdbdba094843fe5339a1a7f7dae4ced2d82/LICENSE",
+      "sha256": "f8264de82db188834a5711d7e348dc08c33db14f79bb587ccb42616fd694ee81",
+      "size": 1074,
+      "packages": [
+        {
+          "name": "@ff-labs/fff-node",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-win32-x64",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-win32-arm64",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-linux-x64-musl",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-linux-x64-gnu",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-linux-arm64-musl",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-linux-arm64-gnu",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-darwin-x64",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-darwin-arm64",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bin-android-arm64",
+          "version": "0.10.5"
+        },
+        {
+          "name": "@ff-labs/fff-bun",
+          "version": "0.10.5"
+        }
+      ]
+    },
+    {
+      "repository": "vercel/ai",
+      "commit": "1afa510dcdb5eed5d4670c825d490627e1c8809e",
+      "url": "https://raw.githubusercontent.com/vercel/ai/1afa510dcdb5eed5d4670c825d490627e1c8809e/LICENSE",
+      "sha256": "b4f9adb7c568904834d0dd6cc98d16c390d21ca32fc17ae7a267715269bd5529",
+      "size": 552,
+      "packages": [
+        {
+          "name": "@ai-sdk/provider-utils",
+          "version": "4.0.21"
+        }
+      ],
+      "sourceRelationship": "current repository license; version metadata retained separately",
+      "detectedLicense": "NOASSERTION"
+    }
+  ],
+  "standardTexts": [
+    {
+      "id": "MIT",
+      "file": "MIT.txt",
+      "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5",
+      "size": 1078,
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt"
+    },
+    {
+      "id": "ISC",
+      "file": "ISC.txt",
+      "sha256": "521c6f0ed8e64736684f89843d16a4df6b4b7449acbcfc6ca6630a3037ca8c53",
+      "size": 737,
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISC.txt"
+    },
+    {
+      "id": "Apache-2.0",
+      "file": "Apache-2.0.txt",
+      "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff",
+      "size": 10280,
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-2.0.txt"
+    },
+    {
+      "id": "CC0-1.0",
+      "file": "CC0-1.0.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "size": 7048,
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC0-1.0.txt"
+    },
+    {
+      "id": "CC-BY-3.0",
+      "file": "CC-BY-3.0.txt",
+      "sha256": "e6bc9e9c474700b708f568bac9e5a8a9bcb2b1dad53442f5ba449fcb848b8e76",
+      "size": 19467,
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0.txt"
+    },
+    {
+      "id": "OFL-1.1",
+      "file": "OFL-1.1.txt",
+      "sha256": "8eea8287e5876b539670cadb82e99f9a7afddec6f6730811be1daf25d2e9bcfd",
+      "size": 4016,
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.1.txt"
+    }
+  ],
+  "fullReleaseAuditComplete": false
+}

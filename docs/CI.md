@@ -41,6 +41,8 @@ Actions 的 Android artifact 包含 APK、完整构建输入记录、SHA256SUMS�
 
 Debian 源码阶段对实际 unsigned APK 的 629 个二进制包重新映射源码，使用 APK 中的固定归档公钥校验三份固定 InRelease，再校验 Sources 索引和精确源包版本。完整源码图必须匹配 `runtime/debian-source-archive-lock.json`，包括请求清单摘要、源文件大小与 SHA-256。每次构建的 rootfs 摘要保留在生成清单中；不假定含包管理器生成数据的 rootfs 跨宿主字节一致。归档收集成功后按约 512 MiB 分卷，和描述符、上游源码、Debian 补丁、验证脚本与签名索引一起作为发布资产。失败会阻止上传该轮 APK 产物及标签发布。
 
+Android 编译前还执行 `ci_prepare_notices.sh`：从实际 release classpath 导出并校验库摘要，收集固定 Maven source JAR/POM，另以禁止生命周期脚本的独立 OpenCode 检出生成清单依赖超集的说明 ZIP。两份 ZIP 进入实际 APK，三个 APK 检查入口均要求材料存在且与当前来源配对；详细范围、字体记录和仅声明项见 [依赖材料](DEPENDENCY_NOTICES.md)。
+
 `.ocaupdate` 的格式与当前边界见 [独立更新包](OPENCODE_UPDATES.md)。已接入原生确认、状态快照、切换、真实启动检查及失败恢复；线上下载和不同 Host/schema 的完整矩阵尚未完成。签名步骤先用相同 keystore/alias 签署内置完整程序证明，注入未签名 APK 后再 zipalign/sign；JDK 21 的 `VerifyCoreProof.java` 通过 apksig 验证实际 APK 证书及证明签名，静态脚本检查 APK 内完整运行包的摘要、大小、版本和提交对应。拒绝将证明追加到已签名 APK。
 
 ## 本地验证与限制

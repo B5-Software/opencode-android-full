@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "scope": "Original fixed build-toolchain notices; superset also covers tools not redistributed in APK",
+  "notices": [
+    {
+      "asset": "assets/licenses/toolchains/android-ndk-r29-NOTICE.txt",
+      "version": "29.0.14206865",
+      "sha256": "faf0dc52cf6ce9ab09a04b0c074a378dd2565ee1ed9bc1179d83793bcdba012e",
+      "size": 516438,
+      "sourceArchiveSha256": "4abbbcdc842f3d4879206e9695d52709603e52dd68d3c1fff04b3b5e7a308ecf",
+      "source": "https://dl.google.com/android/repository/android-ndk-r29-linux.zip"
+    },
+    {
+      "asset": "assets/licenses/toolchains/android-ndk-r26b-NOTICE.txt",
+      "version": "26.1.10909125",
+      "sha256": "8ef75b1329afc86cc26b44fd38a4ece8c78266581a32c5e57d6e7b11721183e1",
+      "size": 505569,
+      "source": "Installed fixed-version Android SDK package; includes compiler/runtime and tool notices"
+    }
+  ]
+}

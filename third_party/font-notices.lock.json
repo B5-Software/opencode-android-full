@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "scope": "Verbatim embedded font name/attribution/license records from the fixed official assets",
+  "fonts": [
+    {
+      "path": "packages/ui/src/assets/fonts/Inter.ttf",
+      "sha256": "0be2399ea925f1f83ff974764761da9860ec50742ed29a5d4c1ffd0c5c7ac3a8",
+      "size": 874708,
+      "nameRecords": [
+        {
+          "nameId": 0,
+          "text": "Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)"
+        },
+        {
+          "nameId": 1,
+          "text": "Inter"
+        },
+        {
+          "nameId": 5,
+          "text": "Version 4.001;git-66647c0bb"
+        },
+        {
+          "nameId": 8,
+          "text": "rsms"
+        },
+        {
+          "nameId": 9,
+          "text": "Rasmus Andersson"
+        },
+        {
+          "nameId": 11,
+          "text": "https://rsms.me/"
+        },
+        {
+          "nameId": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+        },
+        {
+          "nameId": 14,
+          "text": "https://openfontlicense.org"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "path": "packages/ui/src/assets/fonts/JetBrainsMonoNerdFontMono-Regular.woff2",
+      "sha256": "587236ebb19a2da874c459d14bbe7785a5eb7e1d87969db9574454d09ea50d1c",
+      "size": 1060580,
+      "nameRecords": [
+        {
+          "nameId": 0,
+          "text": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)"
+        },
+        {
+          "nameId": 1,
+          "text": "JetBrainsMono NFM"
+        },
+        {
+          "nameId": 5,
+          "text": "Version 2.304; ttfautohint (v1.8.4.7-5d5b);Nerd Fonts 3.4.0"
+        },
+        {
+          "nameId": 8,
+          "text": "JetBrains"
+        },
+        {
+          "nameId": 9,
+          "text": "Philipp Nurullin, Konstantin Bulenkov"
+        },
+        {
+          "nameId": 11,
+          "text": "https://www.jetbrains.com"
+        },
+        {
+          "nameId": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+        },
+        {
+          "nameId": 14,
+          "text": "https://scripts.sil.org/OFL"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION"
+    }
+  ],
+  "fullReleaseAuditComplete": false
+}

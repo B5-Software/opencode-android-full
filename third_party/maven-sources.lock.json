@@ -1,0 +1,1230 @@
+{
+  "format": 1,
+  "scope": "Resolved releaseRuntimeClasspath artifacts; original published POM and source JAR for each component",
+  "components": [
+    {
+      "group": "androidx.activity",
+      "name": "activity-compose",
+      "version": "1.10.1",
+      "extension": "aar",
+      "binarySha256": "f89af1b26ccc834634387c857c2dd4f4654d37650890039c527c2fed07db6a61",
+      "binarySize": 1061221,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-compose/1.10.1/activity-compose-1.10.1.pom",
+        "sha256": "e64db6b7126fb512394bc3cf4332a38828009daa8dd56ecbe6c0c7300b2127f5",
+        "size": 4289
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-compose/1.10.1/activity-compose-1.10.1-sources.jar",
+        "sha256": "d90a2c22431fcd2bdad4b2f3637c831ec8ea124376f46a9a341e98c969e0f9e0",
+        "size": 16146
+      }
+    },
+    {
+      "group": "androidx.activity",
+      "name": "activity-ktx",
+      "version": "1.10.1",
+      "extension": "aar",
+      "binarySha256": "f396f58dbd772c065b873696b74a3d4d087554b3766280e63b49b25dbb53ab16",
+      "binarySize": 5568,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-ktx/1.10.1/activity-ktx-1.10.1.pom",
+        "sha256": "4213490e4ce2b5750e4445246dfe9de4f6655c2123c04a79a8248cc8893e2bf4",
+        "size": 2905
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-ktx/1.10.1/activity-ktx-1.10.1-sources.jar",
+        "sha256": "e3201cf6c56fade2fc70e2f70408260992b83ddf0ccf4b69221a98ae26c02d74",
+        "size": 4406
+      }
+    },
+    {
+      "group": "androidx.activity",
+      "name": "activity",
+      "version": "1.10.1",
+      "extension": "aar",
+      "binarySha256": "b62b528c917de9be497eb6f88830197c20e9d21267c3916c613492e5ee837d4d",
+      "binarySize": 226433,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.10.1/activity-1.10.1.pom",
+        "sha256": "0ae4de888974f5cef982660900ec32a33f10968750db7afa9438daec183f14e7",
+        "size": 4588
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.10.1/activity-1.10.1-sources.jar",
+        "sha256": "3764981c7fdc58dd1a4e1321eebafb31b052768ee85096592eb29620a67b89d3",
+        "size": 62543
+      }
+    },
+    {
+      "group": "androidx.annotation",
+      "name": "annotation-experimental",
+      "version": "1.4.1",
+      "extension": "aar",
+      "binarySha256": "6bd4c7c7476f8260cd3bdbb81183583e93fc9f790c27dea7dc314181cbf87aa0",
+      "binarySize": 39841,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1.pom",
+        "sha256": "fe57b228417f4d7c677903dc61fb4a7cf993d603499de26d8d8113e477cc4f1b",
+        "size": 2031
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1-sources.jar",
+        "sha256": "783a221a7c1093ff8932053998a69a24489f7930806a32b55366108146d29c1d",
+        "size": 5257
+      }
+    },
+    {
+      "group": "androidx.annotation",
+      "name": "annotation-jvm",
+      "version": "1.9.1",
+      "extension": "jar",
+      "binarySha256": "1e343917ebf27ba96fe4dc52b1cad7fd32b738fbc6355bb6cd5b3b305d7212d0",
+      "binarySize": 60577,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-jvm/1.9.1/annotation-jvm-1.9.1.pom",
+        "sha256": "89b99c218d60019316b50aab79816707bc21696c896a030e1b1ae038961bcb8e",
+        "size": 1826
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-jvm/1.9.1/annotation-jvm-1.9.1-sources.jar",
+        "sha256": "c6ae897fbfb73ca09d4ae31a24bfff85c652097ad10644cdbb738488728cb39b",
+        "size": 71470
+      }
+    },
+    {
+      "group": "androidx.arch.core",
+      "name": "core-common",
+      "version": "2.2.0",
+      "extension": "jar",
+      "binarySha256": "65308a06b1c00ee186cb9e19321383f043b993813f1522c47f4a3e3303bdba41",
+      "binarySize": 11657,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-common/2.2.0/core-common-2.2.0.pom",
+        "sha256": "1e17d4af8d6425be2a69f8af4d654a87e0456259a9eef1542869bcb023547e28",
+        "size": 1704
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-common/2.2.0/core-common-2.2.0-sources.jar",
+        "sha256": "563d430880d847890029234386ef03adb95403c34f3c9dec3a7002e2f4007ae4",
+        "size": 5684
+      }
+    },
+    {
+      "group": "androidx.arch.core",
+      "name": "core-runtime",
+      "version": "2.2.0",
+      "extension": "aar",
+      "binarySha256": "a1be5e0caa2b07623862af6ae21b3ab0718123245184d0e30dea81b53f990a47",
+      "binarySize": 7577,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-runtime/2.2.0/core-runtime-2.2.0.pom",
+        "sha256": "0f953706598140d9d8735cdd5aeb1fa35933f4e2f31c0bf3eb81a053a4c8c1a5",
+        "size": 1920
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/arch/core/core-runtime/2.2.0/core-runtime-2.2.0-sources.jar",
+        "sha256": "4adaab3a8ab711634d566d2e239e199af8b5ac92c1de85540dc34c7040754e96",
+        "size": 4715
+      }
+    },
+    {
+      "group": "androidx.autofill",
+      "name": "autofill",
+      "version": "1.0.0",
+      "extension": "aar",
+      "binarySha256": "c9468f56e05006ea151a426c54957cd0799b8b83a579d2846dd22061f33e5ecd",
+      "binarySize": 4280,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/autofill/autofill/1.0.0/autofill-1.0.0.pom",
+        "sha256": "3677abead5d4e06cf76cbacb954151e051779c2274494451fb424e375aa9e450",
+        "size": 1324
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/autofill/autofill/1.0.0/autofill-1.0.0-sources.jar",
+        "sha256": "05d18219a30b897f96b2eed2480329ce48da34cfba6416ecfde1289674a1f35f",
+        "size": 3715
+      }
+    },
+    {
+      "group": "androidx.collection",
+      "name": "collection-jvm",
+      "version": "1.5.0",
+      "extension": "jar",
+      "binarySha256": "70b35924e4babcdffa37d0e575ee039c56a2d97123342624c48b603233704341",
+      "binarySize": 877998,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/collection/collection-jvm/1.5.0/collection-jvm-1.5.0.pom",
+        "sha256": "11c415864d3402f61d426e67210158dce1b04680412526a994f1823ecd3cb388",
+        "size": 2383
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/collection/collection-jvm/1.5.0/collection-jvm-1.5.0-sources.jar",
+        "sha256": "bcc6197ec5fb349e86ae3ba6c94b164d3a9ac5a03d9f9c235d7c4eb24e5878b3",
+        "size": 288386
+      }
+    },
+    {
+      "group": "androidx.collection",
+      "name": "collection-ktx",
+      "version": "1.5.0",
+      "extension": "jar",
+      "binarySha256": "939b4a8697640e77d83e4e8b4c4a9d18f8130198c5961194af8dd9db9dc7c353",
+      "binarySize": 4799,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/collection/collection-ktx/1.5.0/collection-ktx-1.5.0.pom",
+        "sha256": "983f8d0630d072d5bfcd166a498ac7213f3a44a98c09051004ce96429d867cea",
+        "size": 2086
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/collection/collection-ktx/1.5.0/collection-ktx-1.5.0-sources.jar",
+        "sha256": "335a9cd93dcb4afab7c4daa34d5d4e24b38443ccef4ae5fffdfd6cf4f718b01e",
+        "size": 4426
+      }
+    },
+    {
+      "group": "androidx.compose.animation",
+      "name": "animation-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "788eeac00159aaedd97f685067cf2c87cbf114c21746732653970e3055231322",
+      "binarySize": 1448016,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/animation/animation-android/1.9.0/animation-android-1.9.0.pom",
+        "sha256": "fbeda14eb5e1d3c5c12fd123fd2824dcb69ea553062e209cd3fde90423d72d32",
+        "size": 5067
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/animation/animation-android/1.9.0/animation-android-1.9.0-sources.jar",
+        "sha256": "405fd93c11445e842b03bc862efd23edf7186a1ec08077299adf44328af66520",
+        "size": 84626
+      }
+    },
+    {
+      "group": "androidx.compose.animation",
+      "name": "animation-core-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "5f90fa63a7cf526dde0ed37e3b65bd18674989006e4beb6d38056c85364401e0",
+      "binarySize": 1341412,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/animation/animation-core-android/1.9.0/animation-core-android-1.9.0.pom",
+        "sha256": "ff12055e45ba9c404a8013d3bfc3b9b993a30715913becb088550748ec8a4e55",
+        "size": 4671
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/animation/animation-core-android/1.9.0/animation-core-android-1.9.0-sources.jar",
+        "sha256": "3954eebe794b5070d395b2ad8f7d5ca9ed54158e48480964a4788e876ebdeea6",
+        "size": 115006
+      }
+    },
+    {
+      "group": "androidx.compose.foundation",
+      "name": "foundation-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "691ba463d1e0a5b32d94f0448d692572faadf7a10a9c7460af41b2c430b36782",
+      "binarySize": 5154110,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/foundation/foundation-android/1.9.0/foundation-android-1.9.0.pom",
+        "sha256": "841e5a8f9f1c470078e6cb29a364533c2e125beae6ae62bd64a6002c190e88d4",
+        "size": 7645
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/foundation/foundation-android/1.9.0/foundation-android-1.9.0-sources.jar",
+        "sha256": "d0e54de471b18a9259527613687ab454f7195e4a0f74f0ef09d6bfb814a53586",
+        "size": 1044820
+      }
+    },
+    {
+      "group": "androidx.compose.foundation",
+      "name": "foundation-layout-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "9354b415148840ccbaf216b53161ff2c55ccbec90a94d3466e5e573b4b41f34e",
+      "binarySize": 590371,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/foundation/foundation-layout-android/1.9.0/foundation-layout-android-1.9.0.pom",
+        "sha256": "220a72f250fca1f5a23ace281064ef3892dfc0a6be4de6f05a4f27394cbc8ce9",
+        "size": 4250
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/foundation/foundation-layout-android/1.9.0/foundation-layout-android-1.9.0-sources.jar",
+        "sha256": "0eb54d12eea32a1fdeb120417f7ea3f8def0e9707673bc752e2dab508b7023d8",
+        "size": 108196
+      }
+    },
+    {
+      "group": "androidx.compose.material3",
+      "name": "material3-android",
+      "version": "1.3.2",
+      "extension": "aar",
+      "binarySha256": "847666d9fc2d4348b6ec76a6a6094f14fb60de631ee4f6992004ec71a4f44336",
+      "binarySize": 4965387,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material3/material3-android/1.3.2/material3-android-1.3.2.pom",
+        "sha256": "6f7aa2f96e971fab29637c01e1427116deed4f01b9be6ffb465a67520d9bdf74",
+        "size": 8001
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material3/material3-android/1.3.2/material3-android-1.3.2-sources.jar",
+        "sha256": "e58d105a4fcf1f65a6b2838ca8a6fe40b5784b5dba9ddcf27aabcdfc92b3e4e2",
+        "size": 508852
+      }
+    },
+    {
+      "group": "androidx.compose.material",
+      "name": "material-icons-core-android",
+      "version": "1.7.8",
+      "extension": "aar",
+      "binarySha256": "332c06b25e662cc417fb087e76b8faa5cb249f4992ffa3360084a3d4ab882284",
+      "binarySize": 823515,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material/material-icons-core-android/1.7.8/material-icons-core-android-1.7.8.pom",
+        "sha256": "df671e1144120b43f83464e1e94ff828d0ded8132b3b15b86de07f1b82d0d932",
+        "size": 3295
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material/material-icons-core-android/1.7.8/material-icons-core-android-1.7.8-sources.jar",
+        "sha256": "14db888d2f698178799a4c18a58bb134b3e98063c6748c443b339044e0145432",
+        "size": 284036
+      }
+    },
+    {
+      "group": "androidx.compose.material",
+      "name": "material-ripple-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "e09fd2c7e7d11005b07699502f778884b8cb9bf1409b10b0d2ee03cd903ce11a",
+      "binarySize": 96342,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material/material-ripple-android/1.9.0/material-ripple-android-1.9.0.pom",
+        "sha256": "687b0b8f446de8fbae0254277787c7992f7b271d2af0beaab885a1c3ade616ea",
+        "size": 3162
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/material/material-ripple-android/1.9.0/material-ripple-android-1.9.0-sources.jar",
+        "sha256": "7ec7d1d2136078edeadd3b01ab10af49b79f3d8b9b498a0ecf49416ebda7d252",
+        "size": 30931
+      }
+    },
+    {
+      "group": "androidx.compose.runtime",
+      "name": "runtime-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "6a7036a07bd63778a50d224713a503d11e3a7a42259b5c54a8a46da09d2e5ed7",
+      "binarySize": 2455919,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.9.0/runtime-android-1.9.0.pom",
+        "sha256": "128a25e2a7efd92d799de7ff0ee7125e9d8f86bddb161d820fcaf6deec12f580",
+        "size": 4902
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.9.0/runtime-android-1.9.0-sources.jar",
+        "sha256": "258b1d76ff1de5bb1edea83bf1181fafdd93495fc2737eb25a5e34ff2a744217",
+        "size": 452289
+      }
+    },
+    {
+      "group": "androidx.compose.runtime",
+      "name": "runtime-annotation-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "3fba9d6be5307d998403038f6dfaa3fedd924c5618cb45a49f56a5bf6282509d",
+      "binarySize": 9072,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-annotation-android/1.9.0/runtime-annotation-android-1.9.0.pom",
+        "sha256": "c2d8cbd8ecbefdfd193cd3dc68a3d03086544354c584b80c8148c97f13068383",
+        "size": 3514
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-annotation-android/1.9.0/runtime-annotation-android-1.9.0-sources.jar",
+        "sha256": "7295f7ea24a5d238eca4cfa6e5aa009436870b1607cd554d39e4981de976c374",
+        "size": 11556
+      }
+    },
+    {
+      "group": "androidx.compose.runtime",
+      "name": "runtime-saveable-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "26efa54576534271d65c5bdf93c34ee9c89dbeca345873730b8f1ac923da3faa",
+      "binarySize": 1032386,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-saveable-android/1.9.0/runtime-saveable-android-1.9.0.pom",
+        "sha256": "d5efd6d272f606ad523ea35b81ec412a80e0aa2062ab31181b0180b7accdaeb0",
+        "size": 4540
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-saveable-android/1.9.0/runtime-saveable-android-1.9.0-sources.jar",
+        "sha256": "cf443b19a239099c7431cb4b04106e936e5c04d5867c553a70071350fc98c07f",
+        "size": 22236
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "1393c820e9ae061b58aaddb034003fa9a0e01786928ac628a2e12d2826fbde43",
+      "binarySize": 5734820,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-android/1.9.0/ui-android-1.9.0.pom",
+        "sha256": "e776707b0bfe056867c3a88b9ad6b94394234dca385cedb9a157eebc5e00c22e",
+        "size": 17059
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-android/1.9.0/ui-android-1.9.0-sources.jar",
+        "sha256": "55558bf2fb922b7f5614877590e0ef8a9c2b890478512274609fa83b1a269271",
+        "size": 938483
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-geometry-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "41c5fa42c90fc24b4d656e837f83cefe0410acc7d114ad78c62bac45098ac6a4",
+      "binarySize": 59151,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-geometry-android/1.9.0/ui-geometry-android-1.9.0.pom",
+        "sha256": "7f7a261770971c1089c84eabe390eef7aaf38d844c26b06865b42686b2b18f92",
+        "size": 5860
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-geometry-android/1.9.0/ui-geometry-android-1.9.0-sources.jar",
+        "sha256": "8b4ab7f4776d1e1d78fbdde46637bfe51f01e365d13d5253b905bf3f0361b0e0",
+        "size": 25602
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-graphics-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "d015cda06cdb03ab5471a63960e424941e5f217e6f87e339abd7ceee3929209a",
+      "binarySize": 1675815,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-graphics-android/1.9.0/ui-graphics-android-1.9.0.pom",
+        "sha256": "01351dabd0e9f1975786fe01e2d1679c9c29de7bd29aeced4864e2e81af538af",
+        "size": 9684
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-graphics-android/1.9.0/ui-graphics-android-1.9.0-sources.jar",
+        "sha256": "b988250c2f60bf85cedc8a45692b8350be3b1d5a1ca455bdc6811c4c6aaadb5e",
+        "size": 272280
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-text-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "2605e2406625ff0338c888937da22c437af653a2f42afadacaad2174717f5e82",
+      "binarySize": 802456,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-text-android/1.9.0/ui-text-android-1.9.0.pom",
+        "sha256": "7806a7c568f6fb576d6d6a56fdfca1d533d42ade8012b69bd13ec9a1e4a2355f",
+        "size": 7488
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-text-android/1.9.0/ui-text-android-1.9.0-sources.jar",
+        "sha256": "3e798b64144ddaa89b29b40c7d3b02dfed972e4337432ed309c2b8bf89a06bd3",
+        "size": 339410
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-tooling-preview-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "ca47281d9181230a78f8a31d7e5745a295cbcd7b7dac397cd3d53198cd91c5a6",
+      "binarySize": 21157,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-tooling-preview-android/1.9.0/ui-tooling-preview-android-1.9.0.pom",
+        "sha256": "eed9f65824493c324623878d5ce34a224032599c4d55638550e2e01ea93d8555",
+        "size": 5734
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-tooling-preview-android/1.9.0/ui-tooling-preview-android-1.9.0-sources.jar",
+        "sha256": "922e9679a33469ab2058961a00fb2093fa5ab365c58ce202a557b8ad16e223c4",
+        "size": 15837
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-unit-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "dbeda1aaea03bbd2da1f4df10180346e32cbe8a58239a24f9b8b8cb24202fd8c",
+      "binarySize": 98887,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-unit-android/1.9.0/ui-unit-android-1.9.0.pom",
+        "sha256": "9ce0e894490118667aa891f78be37052bb39ae12cfea2aefdd8371065d1a1917",
+        "size": 6643
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-unit-android/1.9.0/ui-unit-android-1.9.0-sources.jar",
+        "sha256": "59140e3bd9540ff99f40c92874f54e5cfc92735c3c0a68acc7a01e0d0b07e525",
+        "size": 45495
+      }
+    },
+    {
+      "group": "androidx.compose.ui",
+      "name": "ui-util-android",
+      "version": "1.9.0",
+      "extension": "aar",
+      "binarySha256": "9376cbd1ddf0655e7105886637ea1451461fcfd3a3ceeecffecceaeebb53410b",
+      "binarySize": 22837,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-util-android/1.9.0/ui-util-android-1.9.0.pom",
+        "sha256": "5236bac3e74a20fc32acd71e49cdd32226483d72f936726d8ca649b6c0c77f02",
+        "size": 5644
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/compose/ui/ui-util-android/1.9.0/ui-util-android-1.9.0-sources.jar",
+        "sha256": "8a3779a18972952ce0834057c39bbe75c4d703c3a334fb687bc0fce81ab6b892",
+        "size": 19697
+      }
+    },
+    {
+      "group": "androidx.concurrent",
+      "name": "concurrent-futures",
+      "version": "1.1.0",
+      "extension": "jar",
+      "binarySha256": "0ce067c514a0d1049d1bebdf709e344ed3266fe9744275682937cdcb13334e9e",
+      "binarySize": 25987,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/concurrent/concurrent-futures/1.1.0/concurrent-futures-1.1.0.pom",
+        "sha256": "748a34eb5d13d19d187adecaea82667fded5f1b0b98a655e13ed2e4a8b3d8ae6",
+        "size": 1888
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/concurrent/concurrent-futures/1.1.0/concurrent-futures-1.1.0-sources.jar",
+        "sha256": "cc06fb6045a6c066f50e237a3c2126bc88c16d358a57b3612ba633c9f530b0a0",
+        "size": 19716
+      }
+    },
+    {
+      "group": "androidx.core",
+      "name": "core-ktx",
+      "version": "1.16.0",
+      "extension": "aar",
+      "binarySha256": "1766dbd82f64a12dcd359ecb6f15f3cf35db4d66d22961a7c51b2ffc6468314c",
+      "binarySize": 175736,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/core/core-ktx/1.16.0/core-ktx-1.16.0.pom",
+        "sha256": "4660cfb606ed89828ba3e10f79b29809ffb677ee5d2346fe9bcb03dfc4b9b645",
+        "size": 2586
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/core/core-ktx/1.16.0/core-ktx-1.16.0-sources.jar",
+        "sha256": "1aadd1028ab3bad23c90cfed674d660e0743056db16076d7d35a99f9827c4d42",
+        "size": 73838
+      }
+    },
+    {
+      "group": "androidx.core",
+      "name": "core-viewtree",
+      "version": "1.0.0",
+      "extension": "aar",
+      "binarySha256": "dc1b678d58ebcf2bfa1587be68ff826694ce3d221251b9ef30d4d4b36297e6de",
+      "binarySize": 6980,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/core/core-viewtree/1.0.0/core-viewtree-1.0.0.pom",
+        "sha256": "d4f2ed1176fa8c5612b80f74c952a8799142a9ed36022a1a238fde5b140580d9",
+        "size": 2107
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/core/core-viewtree/1.0.0/core-viewtree-1.0.0-sources.jar",
+        "sha256": "7026f2086f667720c43d4ca6bc58ab016d122ae0a404ca94e5fef6a7090e0984",
+        "size": 6342
+      }
+    },
+    {
+      "group": "androidx.core",
+      "name": "core",
+      "version": "1.16.0",
+      "extension": "aar",
+      "binarySha256": "6bf03d39dbe3744acce227d3b697374c3625aae1025fbec8ad9fd7bd58bce431",
+      "binarySize": 1377184,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/core/core/1.16.0/core-1.16.0.pom",
+        "sha256": "074974a1550221af7aa85ded6903c3d84c9bdedf9e6b4ff3b0cb471329b5ac77",
+        "size": 4341
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/core/core/1.16.0/core-1.16.0-sources.jar",
+        "sha256": "ed8ec0b5d74352b852c5eda44a6f21cdb726fd2a94293dc2609219330136b207",
+        "size": 972131
+      }
+    },
+    {
+      "group": "androidx.customview",
+      "name": "customview-poolingcontainer",
+      "version": "1.0.0",
+      "extension": "aar",
+      "binarySha256": "3584102fc49bf399c56e3b7be4bfe12000c46112320cd8cf85cc0a8f93f3e752",
+      "binarySize": 6608,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/customview/customview-poolingcontainer/1.0.0/customview-poolingcontainer-1.0.0.pom",
+        "sha256": "9fa62196c4c4e79b6a58dbb38a8c022bef8db21989d7dae2da0f6f5b66289a9c",
+        "size": 2068
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/customview/customview-poolingcontainer/1.0.0/customview-poolingcontainer-1.0.0-sources.jar",
+        "sha256": "0715571baa86e8f7683fcc1d59fe2881c5e8603af9ff212c82423ae098d34c62",
+        "size": 2651
+      }
+    },
+    {
+      "group": "androidx.emoji2",
+      "name": "emoji2",
+      "version": "1.4.0",
+      "extension": "aar",
+      "binarySha256": "433febd3434a45667176c76a64f3f205ca6335a6b544c5b5d57f25a38a375242",
+      "binarySize": 143546,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2/1.4.0/emoji2-1.4.0.pom",
+        "sha256": "1f67221484f7d1260eb6e2b490cd4e7046bf5cb536276d79f972ad3f198b474d",
+        "size": 3339
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/emoji2/emoji2/1.4.0/emoji2-1.4.0-sources.jar",
+        "sha256": "5db44eec9cee653ba403f0e88a02ce41ab6301a0b7dd7cb35fc32f9747f2228b",
+        "size": 57705
+      }
+    },
+    {
+      "group": "androidx.graphics",
+      "name": "graphics-path",
+      "version": "1.0.1",
+      "extension": "aar",
+      "binarySha256": "8ca4032b6d79b351f0b59ad4b580eddbb9423e1652f7c958830687f1eee2ec03",
+      "binarySize": 39380,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/graphics/graphics-path/1.0.1/graphics-path-1.0.1.pom",
+        "sha256": "866fb357c7146f5f7678ad44e4bc6c2823d568defce1ed2805bb6c899606b228",
+        "size": 2051
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/graphics/graphics-path/1.0.1/graphics-path-1.0.1-sources.jar",
+        "sha256": "9f1b5995b9577a8876525c3411ebb2a49f9ef0e875f6aec3059e807596dc6ca6",
+        "size": 9908
+      }
+    },
+    {
+      "group": "androidx.interpolator",
+      "name": "interpolator",
+      "version": "1.0.0",
+      "extension": "aar",
+      "binarySha256": "33193135a64fe21fa2c35eec6688f1a76e512606c0fc83dc1b689e37add7732a",
+      "binarySize": 7669,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0.pom",
+        "sha256": "0ddc07cc39699f48ecd9ec894b5830c0f09e22e82959294edf37217224c88b7b",
+        "size": 1608
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/interpolator/interpolator/1.0.0/interpolator-1.0.0-sources.jar",
+        "sha256": "fa13ada71fe7bd9461f622f418e7c16a18e85da7708fb505c75229a9b8830345",
+        "size": 6655
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-common-java8",
+      "version": "2.9.2",
+      "extension": "jar",
+      "binarySha256": "497dd84de9f2fd46324f25f9a3af032d3a23d087e87af515c4b19435f6d6a651",
+      "binarySize": 4839,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-java8/2.9.2/lifecycle-common-java8-2.9.2.pom",
+        "sha256": "512bc9d7d9878f686b817f3376cfc2a0df69b421358ec57f1eb1613dc059434e",
+        "size": 5425
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-java8/2.9.2/lifecycle-common-java8-2.9.2-sources.jar",
+        "sha256": "895e71679cd319db8140664d650af6695b0530f5896be9b8ecccd24cc4f6674f",
+        "size": 4452
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-common-jvm",
+      "version": "2.9.2",
+      "extension": "jar",
+      "binarySha256": "37d89b2101f074ac6c260917dabb185607645ee200aa3018c7c5bde70edcf184",
+      "binarySize": 60804,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.pom",
+        "sha256": "8d0dcab36497c34ab4f46dc79be7025ac40359d0d42bf48bd69a9a6ba1734272",
+        "size": 5906
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2-sources.jar",
+        "sha256": "5764b2618dfb88b98668e5e84bec8e5af0e0c168d714687a0a3b3591f669846c",
+        "size": 32061
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-livedata-core",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "0dbd1c903f4c31b816ed0f4962d09f259be12fe2c2a2bd2b311d8a4c5b5ef75b",
+      "binarySize": 34182,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata-core/2.9.2/lifecycle-livedata-core-2.9.2.pom",
+        "sha256": "e1c299fdf5a39dba555fa6778519cc9d0017aec19fc1560a8cab02ab3ae612c5",
+        "size": 6139
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-livedata-core/2.9.2/lifecycle-livedata-core-2.9.2-sources.jar",
+        "sha256": "c01b92cdc3d62ca3621ab3ffa98346253c4f6ccfa855bb57d53b654241a01a82",
+        "size": 12289
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-process",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "ecb1944b84bf2b02074aac7e304f8d6feab110320568d24a51ef7eff6a6f5f31",
+      "binarySize": 19920,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-process/2.9.2/lifecycle-process-2.9.2.pom",
+        "sha256": "434cb905ea9c1d7928c872a85dd7647e887459f758a3e98f2281315eef1fd329",
+        "size": 5956
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-process/2.9.2/lifecycle-process-2.9.2-sources.jar",
+        "sha256": "3591d371c62f87ff407b3bc303689b33e1fd813aa5a799d02abbec92b8a4f2b0",
+        "size": 9772
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-runtime-android",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "e18f67429cf8c99957db3682d66c59e6c857c172c62f20775b51068592fe369a",
+      "binarySize": 82853,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-android/2.9.2/lifecycle-runtime-android-2.9.2.pom",
+        "sha256": "223a0ab21c62e9210143349914859b87ed77d59bb40bd939ff005fffc5d36123",
+        "size": 8358
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-android/2.9.2/lifecycle-runtime-android-2.9.2-sources.jar",
+        "sha256": "df2a5880a320144ece50e794a75fa45a87802d92a033fd3d283503c07a718b67",
+        "size": 23063
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-runtime-compose-android",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "7bbfd1041a852c2768001bb30f9e4019df39dd2d761ba7df854f3ff68375a032",
+      "binarySize": 1020079,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-compose-android/2.9.2/lifecycle-runtime-compose-android-2.9.2.pom",
+        "sha256": "0467acb44721ea38721c23e44d62808a9c94006aaddbef8bd6819881ba3ed94f",
+        "size": 5841
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-compose-android/2.9.2/lifecycle-runtime-compose-android-2.9.2-sources.jar",
+        "sha256": "60f77ad98798c212db32fc534e3e481f7f517b002ab293a31ba36f749dc7e8d1",
+        "size": 15314
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-runtime-ktx-android",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "adb14b0565bb4c0bdc567b729213459a6170ce88578c7cd3c3709ffeecf8c4e4",
+      "binarySize": 5765,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-ktx-android/2.9.2/lifecycle-runtime-ktx-android-2.9.2.pom",
+        "sha256": "8933e518b55ea81c16bb1f5f627aa7172e55a4246681f58cd94ef1d7f9f557b6",
+        "size": 6019
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-runtime-ktx-android/2.9.2/lifecycle-runtime-ktx-android-2.9.2-sources.jar",
+        "sha256": "c5df5b7bfa9c6d61ef14047bd9de207db688188c0d5d7b5f5c4ad6613806b1fc",
+        "size": 4448
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-viewmodel-android",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "b362fec3dce121493acb8eb34532d8ff56b34bfaa949ea5a83acf5f4c3576f3e",
+      "binarySize": 65736,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-android/2.9.2/lifecycle-viewmodel-android-2.9.2.pom",
+        "sha256": "d5de841c6188b1bee81010ddeea8b667fd458620a06d591adf4092fcea5bbdb8",
+        "size": 6643
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-android/2.9.2/lifecycle-viewmodel-android-2.9.2-sources.jar",
+        "sha256": "7fc71221f470885593b974fe086e5b14ee24669a94c010254de1c64fb4c2218d",
+        "size": 42786
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-viewmodel-ktx",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "c5a275a28e2798cdef6fb66024163d6e94d619881a9e4b772664e240d5505faa",
+      "binarySize": 5810,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-ktx/2.9.2/lifecycle-viewmodel-ktx-2.9.2.pom",
+        "sha256": "915cd843dd10bd3d5a3e0acd510f7db5937ff14f681dbe86ade3e304e4683065",
+        "size": 5806
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-ktx/2.9.2/lifecycle-viewmodel-ktx-2.9.2-sources.jar",
+        "sha256": "f15c9fbd9ade832f04d2deed9cdc1732697e63b8c34ffae0ada712197abcc6ec",
+        "size": 4456
+      }
+    },
+    {
+      "group": "androidx.lifecycle",
+      "name": "lifecycle-viewmodel-savedstate-android",
+      "version": "2.9.2",
+      "extension": "aar",
+      "binarySha256": "18f033d6268084096e9cdeaf93b1f97256bde48899518f34648d712e8782dbdd",
+      "binarySize": 57515,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-savedstate-android/2.9.2/lifecycle-viewmodel-savedstate-android-2.9.2.pom",
+        "sha256": "105ca80124dea942afc355bcba841d311b0ce00cad64b87ce65729f7c2480c4f",
+        "size": 7648
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-viewmodel-savedstate-android/2.9.2/lifecycle-viewmodel-savedstate-android-2.9.2-sources.jar",
+        "sha256": "743019a7d172beaa5823675df52affcef66ccc4ef8716e4494fd46bf5a315a13",
+        "size": 30198
+      }
+    },
+    {
+      "group": "androidx.profileinstaller",
+      "name": "profileinstaller",
+      "version": "1.4.0",
+      "extension": "aar",
+      "binarySha256": "d502141fcce902430f62b674c32aecd0f75262e7ee2cd15c74adb617cd13130a",
+      "binarySize": 53890,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/profileinstaller/profileinstaller/1.4.0/profileinstaller-1.4.0.pom",
+        "sha256": "d5fe39981a3b4b7c39585130da0bfc93835054c834a438d3e63e065e5f78be55",
+        "size": 2477
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/profileinstaller/profileinstaller/1.4.0/profileinstaller-1.4.0-sources.jar",
+        "sha256": "7b8637080b47188656fd54dab66e9270334242d277d2a8e3c46691c3afa152a0",
+        "size": 44238
+      }
+    },
+    {
+      "group": "androidx.savedstate",
+      "name": "savedstate-android",
+      "version": "1.3.1",
+      "extension": "aar",
+      "binarySha256": "45dbbd54dc986f17b260ffae74e3d224e2ca64498fd0c02e5b584a569f79dce8",
+      "binarySize": 141149,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-android/1.3.1/savedstate-android-1.3.1.pom",
+        "sha256": "8d9bbcd2f6c2d19e4c48178eb9bbea5ff20093c82363fbb2510b71feaf8e50d1",
+        "size": 4997
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-android/1.3.1/savedstate-android-1.3.1-sources.jar",
+        "sha256": "6749d720e67c3bcfef3380ba4b98ccafb6a9a57d9298d8abaa17242351a53224",
+        "size": 55260
+      }
+    },
+    {
+      "group": "androidx.savedstate",
+      "name": "savedstate-compose-android",
+      "version": "1.3.1",
+      "extension": "aar",
+      "binarySha256": "173e2078d570ea6fa8841da4a487fadbd2cd178a433fdd19dcc06b0fede8758b",
+      "binarySize": 16913,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose-android/1.3.1/savedstate-compose-android-1.3.1.pom",
+        "sha256": "28fe19199dc6919011bd4c62751891867e69171e5ff1041f2d00f3740d3c6033",
+        "size": 3337
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose-android/1.3.1/savedstate-compose-android-1.3.1-sources.jar",
+        "sha256": "e5e73c5468cb23da524156e64051417342e21c9bcfdefc1ae3a939a54c7ad5f5",
+        "size": 12210
+      }
+    },
+    {
+      "group": "androidx.savedstate",
+      "name": "savedstate-ktx",
+      "version": "1.3.1",
+      "extension": "aar",
+      "binarySha256": "215539d8ce445a25aaba2a85eba4474bcabb3d70afced495252893c4b212ab3d",
+      "binarySize": 5763,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-ktx/1.3.1/savedstate-ktx-1.3.1.pom",
+        "sha256": "14cec91f73dde4d4c7a11ec660b6c5d083dddf30ef412cf6a1743dc10a62a5b8",
+        "size": 2604
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-ktx/1.3.1/savedstate-ktx-1.3.1-sources.jar",
+        "sha256": "b1e8d78600a68fb3c0029793146ac07ea0335819f813554e85c568caa35cb5e4",
+        "size": 4426
+      }
+    },
+    {
+      "group": "androidx.startup",
+      "name": "startup-runtime",
+      "version": "1.1.1",
+      "extension": "aar",
+      "binarySha256": "e0a6329a371262fe4c450372b70fdaf33b769ef6917094723787cfce896b1dd3",
+      "binarySize": 19371,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/startup/startup-runtime/1.1.1/startup-runtime-1.1.1.pom",
+        "sha256": "f4114b5c6859bb1bc3caf281cb6d6f25998fa7f7292c64ceaea74a93210e746b",
+        "size": 1949
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/startup/startup-runtime/1.1.1/startup-runtime-1.1.1-sources.jar",
+        "sha256": "53e03bc065b26b2227b5fdca6776cbfa0d1a69afb8f3c1e96c1743fa54320196",
+        "size": 6839
+      }
+    },
+    {
+      "group": "androidx.tracing",
+      "name": "tracing",
+      "version": "1.2.0",
+      "extension": "aar",
+      "binarySha256": "6faa90390d1fdbf0adb9a99bf99de67b94c6c6f35aea9510593a9d17973736a2",
+      "binarySize": 6060,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/tracing/tracing/1.2.0/tracing-1.2.0.pom",
+        "sha256": "f34bec4eb58871d31002901377108aaa1ebfe77fa6d882b8b86200b158e26ea1",
+        "size": 1968
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/tracing/tracing/1.2.0/tracing-1.2.0-sources.jar",
+        "sha256": "3daf3a210e213f1675e6ea9ae2a9c0b9c837b42805835b65d999eca58fbddc90",
+        "size": 6669
+      }
+    },
+    {
+      "group": "androidx.versionedparcelable",
+      "name": "versionedparcelable",
+      "version": "1.1.1",
+      "extension": "aar",
+      "binarySha256": "57e8d93260d18d5b9007c9eed3c64ad159de90c8609ebfc74a347cbd514535a4",
+      "binarySize": 31061,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1.pom",
+        "sha256": "5f51e65873ca612de3838fa90d2ee95b8d040efd31b9c390a19bf94d615cdb2f",
+        "size": 1643
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/versionedparcelable/versionedparcelable/1.1.1/versionedparcelable-1.1.1-sources.jar",
+        "sha256": "135016af471acf4cd9583d36ceb779710c6b46812ccaaef7c526d5d60eae6b0b",
+        "size": 21164
+      }
+    },
+    {
+      "group": "androidx.webkit",
+      "name": "webkit",
+      "version": "1.14.0",
+      "extension": "aar",
+      "binarySha256": "265604786ea1c9679e3f860f7f13072375c141f46db9092ed8ef5ecd599a516d",
+      "binarySize": 228280,
+      "pom": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/webkit/webkit/1.14.0/webkit-1.14.0.pom",
+        "sha256": "230b7ba1631c5f6baad08f3915f9db6d550d215b3658c82eb38ceb2dff72cad1",
+        "size": 2534
+      },
+      "sources": {
+        "url": "https://dl.google.com/dl/android/maven2/androidx/webkit/webkit/1.14.0/webkit-1.14.0-sources.jar",
+        "sha256": "714bc9cebdba29d5e336e026367c50ff235bd0090e1949efcbd81537a213176e",
+        "size": 238710
+      }
+    },
+    {
+      "group": "com.google.code.findbugs",
+      "name": "jsr305",
+      "version": "3.0.2",
+      "extension": "jar",
+      "binarySha256": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+      "binarySize": 19936,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom",
+        "sha256": "19889dbdf1b254b2601a5ee645b8147a974644882297684c798afe5d63d78dfe",
+        "size": 4286
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar",
+        "sha256": "1c9e85e272d0708c6a591dc74828c71603053b48cc75ae83cce56912a2aa063b",
+        "size": 18102
+      }
+    },
+    {
+      "group": "com.google.code.gson",
+      "name": "gson",
+      "version": "2.13.2",
+      "extension": "jar",
+      "binarySha256": "dd0ce1b55a3ed2080cb70f9c655850cda86c206862310009dcb5e5c95265a5e0",
+      "binarySize": 289901,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.13.2/gson-2.13.2.pom",
+        "sha256": "3aa06aa7c0f9af092961a42d09578e4324be146348a0ee6ed47857f7c2677b76",
+        "size": 13490
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.13.2/gson-2.13.2-sources.jar",
+        "sha256": "058974b69cb7b0a04712278e11870e84ee8cd8fb5f551bd8401e72ba6638bfef",
+        "size": 207421
+      }
+    },
+    {
+      "group": "com.google.crypto.tink",
+      "name": "tink-android",
+      "version": "1.24.0",
+      "extension": "jar",
+      "binarySha256": "86ff5d879d4ac5e827ae3974c90fce1a25e7c2698538af833ed824efbfe4c06e",
+      "binarySize": 3508938,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/crypto/tink/tink-android/1.24.0/tink-android-1.24.0.pom",
+        "sha256": "ccaabd3e92984057efbe19ed02db93affbfa2770111a36b82eb9893b72093546",
+        "size": 4083
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/crypto/tink/tink-android/1.24.0/tink-android-1.24.0-sources.jar",
+        "sha256": "2391f70aaf3ae470bde35101240a7f55ddeeb93844ab43da2ebce6c6661559d4",
+        "size": 5567605
+      }
+    },
+    {
+      "group": "com.google.errorprone",
+      "name": "error_prone_annotations",
+      "version": "2.41.0",
+      "extension": "jar",
+      "binarySha256": "a56e782b5b50811ac204073a355a21d915a2107fce13ec711331ad036f660fcc",
+      "binarySize": 20389,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.pom",
+        "sha256": "a151df1e2e0b48618d8b06a180748a29b3abb39b1b2396f6a1c879a727488c6e",
+        "size": 4252
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0-sources.jar",
+        "sha256": "8885bccb4277d4de785da8e5cd9b8610cc12fb3740776741555639afb92ec849",
+        "size": 40096
+      }
+    },
+    {
+      "group": "com.google.guava",
+      "name": "listenablefuture",
+      "version": "1.0",
+      "extension": "jar",
+      "binarySha256": "e4ad7607e5c0477c6f890ef26a49cb8d1bb4dffb650bab4502afee64644e3069",
+      "binarySize": 3149,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0.pom",
+        "sha256": "53873caf26bc1ed8a567ea6c939ab2aaa3f47a5e32d5cade95ddf5080d23238a",
+        "size": 2226
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0-sources.jar",
+        "sha256": "3d1bd8d4a39b293612a40e547ec51d9ce34fa638d7adeae83871cdbe2923b161",
+        "size": 4021
+      }
+    },
+    {
+      "group": "commons-codec",
+      "name": "commons-codec",
+      "version": "1.17.1",
+      "extension": "jar",
+      "binarySha256": "f9f6cb103f2ddc3c99a9d80ada2ae7bf0685111fd6bffccb72033d1da4e6ff23",
+      "binarySize": 372687,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.pom",
+        "sha256": "7fa0db4d8150daf932958b8aea89ee24abb4d18e2316a5de535278fc131512a0",
+        "size": 17776
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1-sources.jar",
+        "sha256": "2283aff7f425dff23ebdb7a8fc0f03ae21b4ced7a43aacba47cedae126dc5d4a",
+        "size": 372647
+      }
+    },
+    {
+      "group": "commons-io",
+      "name": "commons-io",
+      "version": "2.16.1",
+      "extension": "jar",
+      "binarySha256": "f41f7baacd716896447ace9758621f62c1c6b0a91d89acee488da26fc477c84f",
+      "binarySize": 508826,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1.pom",
+        "sha256": "5777d292251c7895c04a4c57015683ec3b353a12486c9b3e7178e9b0b3c38fff",
+        "size": 19623
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.16.1/commons-io-2.16.1-sources.jar",
+        "sha256": "fcfe84e39fb44e38a0ea0ab0815b53adea6fff89c7b72535bc42495f400cb9a1",
+        "size": 527696
+      }
+    },
+    {
+      "group": "org.apache.commons",
+      "name": "commons-compress",
+      "version": "1.27.1",
+      "extension": "jar",
+      "binarySha256": "293d80f54b536b74095dcd7ea3cf0a29bbfc3402519281332495f4420d370d16",
+      "binarySize": 1087319,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.pom",
+        "sha256": "df8cc1a8387d4ce842363b7209fdc6d35df9763839fd3fcab558a0f83f9d841c",
+        "size": 23045
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1-sources.jar",
+        "sha256": "90839ce19b8afb8ee50db75c84aa7555ebc054ba1bd43fdb2202cbf094c77f81",
+        "size": 901466
+      }
+    },
+    {
+      "group": "org.apache.commons",
+      "name": "commons-lang3",
+      "version": "3.16.0",
+      "extension": "jar",
+      "binarySha256": "08709dd74d602b705ce4017d26544210056a4ba583d5b20c09373406fe7a00f8",
+      "binarySize": 674238,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.16.0/commons-lang3-3.16.0.pom",
+        "sha256": "e280383956c2e72c1deb3a307b3b75f05ee43649b7d43f0215f7b6c7b15eea2c",
+        "size": 31259
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.16.0/commons-lang3-3.16.0-sources.jar",
+        "sha256": "268058f1ce33558da48f07b5f5dae4ae6433357bf07e1bbd0f1d864adda1269c",
+        "size": 728193
+      }
+    },
+    {
+      "group": "org.jetbrains.kotlin",
+      "name": "kotlin-stdlib",
+      "version": "2.2.10",
+      "extension": "jar",
+      "binarySha256": "9c67cc79efd6b9215b49d2a4308f5f3433537376c7c88e89bdd6729bd096e61a",
+      "binarySize": 1750374,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10.pom",
+        "sha256": "454ba507a3d36b4ac253df6df96f8739bd26ea19df3f332b10b13f2c5715f787",
+        "size": 2322
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10-sources.jar",
+        "sha256": "2983f21e626325f256bc4443c7fe45a83912bba077be119142f68210c0548173",
+        "size": 698990
+      }
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-coroutines-android",
+      "version": "1.10.2",
+      "extension": "jar",
+      "binarySha256": "e713f1f874244115a07571065cffa0f24f5e78300e9720fea16de3af1d75fd41",
+      "binarySize": 17826,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2/kotlinx-coroutines-android-1.10.2.pom",
+        "sha256": "b92d3672e7f9e8f4c4e2ab187c3e31fecc506496396f4a5f27ee1c957a42b319",
+        "size": 2193
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2/kotlinx-coroutines-android-1.10.2-sources.jar",
+        "sha256": "e903e0f46b8c5337816f2492ac3f9f543cb21ebf6b80fd0dbfe8cf38d1f3ebcf",
+        "size": 7783
+      }
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-coroutines-core-jvm",
+      "version": "1.10.2",
+      "extension": "jar",
+      "binarySha256": "5ca175b38df331fd64155b35cd8cae1251fa9ee369709b36d42e0a288ccce3fd",
+      "binarySize": 1479317,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.10.2/kotlinx-coroutines-core-jvm-1.10.2.pom",
+        "sha256": "658f576b96c832e7382406adb197d64d8e2e97de10e96dfa3700decfa2a60def",
+        "size": 2167
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.10.2/kotlinx-coroutines-core-jvm-1.10.2-sources.jar",
+        "sha256": "cd86e9635cc7ac1b7d9854ed589e3041fb11cc67d2273e7d312278ba5628e2c8",
+        "size": 409492
+      }
+    },
+    {
+      "group": "org.jetbrains.kotlinx",
+      "name": "kotlinx-serialization-core-jvm",
+      "version": "1.7.3",
+      "extension": "jar",
+      "binarySha256": "f0adde45864144475385cf4aa7e0b7feb27f61fcf9472665ed98cc971b06b1eb",
+      "binarySize": 390987,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.pom",
+        "sha256": "734f5f749208dd0bef3d98caa594cf9222afdf0fee5b6843347a8fe64e240427",
+        "size": 2044
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3-sources.jar",
+        "sha256": "d084ce9bf130919d4b899db09896531440d1e330919187c7932d7fe0fa5257b8",
+        "size": 106717
+      }
+    },
+    {
+      "group": "org.jetbrains",
+      "name": "annotations",
+      "version": "23.0.0",
+      "extension": "jar",
+      "binarySha256": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
+      "binarySize": 29371,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.pom",
+        "sha256": "c9490f655132328df2cfbcfdf743f53fc3916d6c1d10437175a6ca6e3a67771c",
+        "size": 1354
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0-sources.jar",
+        "sha256": "ff2309b42f7584520497bb48bc609aca04c9886cf48708f14be83f00423ec144",
+        "size": 37462
+      }
+    },
+    {
+      "group": "org.jspecify",
+      "name": "jspecify",
+      "version": "1.0.0",
+      "extension": "jar",
+      "binarySha256": "1fad6e6be7557781e4d33729d49ae1cdc8fdda6fe477bb0cc68ce351eafdfbab",
+      "binarySize": 3819,
+      "pom": {
+        "url": "https://repo.maven.apache.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.pom",
+        "sha256": "cdab929a3b95211f43d2090c5e2d0dfe8465960e378bc32b35841dab324433a6",
+        "size": 1511
+      },
+      "sources": {
+        "url": "https://repo.maven.apache.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0-sources.jar",
+        "sha256": "adf0898191d55937fb3192ba971826f4f294292c4a960740f3c27310e7b70296",
+        "size": 11996
+      }
+    }
+  ]
+}
