@@ -69,9 +69,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends qemu-user-static binfmt-support make curl xz-utils
           set +o pipefail
-          yes | sdkmanager --licenses >/dev/null
+          yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses >/dev/null
           set -o pipefail
-          sdkmanager 'ndk;29.0.14206865'
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'ndk;29.0.14206865'
       - name: Build immutable source inputs
         if: steps.runtime-cache.outputs.cache-hit != 'true'
         run: |
@@ -119,9 +119,9 @@ jobs:
       - name: Prepare SDK
         run: |
           set +o pipefail
-          yes | sdkmanager --licenses >/dev/null
+          yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses >/dev/null
           set -o pipefail
-          sdkmanager 'platforms;android-36' 'build-tools;36.0.0' 'ndk;26.1.10909125' 'cmake;3.22.1'
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'platforms;android-36' 'build-tools;36.0.0' 'ndk;26.1.10909125' 'cmake;3.22.1'
       - name: Record replayable build inputs
         id: version
         env:
@@ -203,9 +203,9 @@ jobs:
       - name: Prepare signing SDK
         run: |
           set +o pipefail
-          yes | sdkmanager --licenses >/dev/null
+          yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses >/dev/null
           set -o pipefail
-          sdkmanager 'build-tools;36.0.0'
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" 'build-tools;36.0.0'
       - name: Sign APK
         env:
           ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
