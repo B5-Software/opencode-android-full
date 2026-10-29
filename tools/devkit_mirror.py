@@ -10,6 +10,7 @@ import json
 import pathlib
 import re
 import shlex
+import shutil
 import time
 import urllib.parse
 import urllib.request
@@ -59,7 +60,21 @@ def indexes():
         directory = MIRROR / archive / "dists" / suite
         inrelease = directory / "InRelease"
         key = f"{archive}/{suite}"
-        checksum = acquire(f"{base}/dists/{suite}/InRelease", inrelease, previous.get(key, {}).get("inReleaseSha256"))
+        pinned = ROOT / 'runtime/apt-metadata' / archive / suite / 'InRelease'
+        if previous:
+            # Snapshot imports can expose a later signed envelope at the same
+            # timestamp URL. Retain the already authenticated envelope; apt and
+            # the source collector still verify its signatures and index hashes.
+            expected_release = previous[key]['inReleaseSha256']
+            checksum = hashlib.sha256(pinned.read_bytes()).hexdigest()
+            if checksum != expected_release: raise ValueError('Vendored InRelease differs from its immutable pin')
+            inrelease.parent.mkdir(parents=True, exist_ok=True)
+            if inrelease.exists():
+                if hashlib.sha256(inrelease.read_bytes()).hexdigest() != checksum: raise ValueError('Cached InRelease differs from its immutable pin')
+            else:
+                partial = inrelease.with_suffix('.partial'); shutil.copyfile(pinned, partial); partial.replace(inrelease)
+        else:
+            checksum = acquire(f"{base}/dists/{suite}/InRelease", inrelease)
         text = inrelease.read_text(encoding="utf-8")
         index_name = "main/binary-arm64/Packages.xz"
         match = re.search(r"^\s+([a-f0-9]{64})\s+(\d+)\s+" + re.escape(index_name) + r"\s*$", text, re.MULTILINE)
