@@ -31,6 +31,31 @@ class UpstreamSourceTest(unittest.TestCase):
             path.write_bytes(gzip.compress(data,compresslevel=level,mtime=0));sources.verify_git_archive(path,record)
         path.write_bytes(gzip.compress(data+b'changed',mtime=0))
         with self.assertRaises(ValueError):sources.verify_git_archive(path,record)
+
+    def test_icu_release_has_a_separate_fixed_publisher_origin(self):
+        record={'name':'bun-icu','repository':'unicode-org/icu','version':'78.3','releaseTag':'release-78.3','file':'bun-icu-source.tar.gz','url':'https://github.com/unicode-org/icu/releases/download/release-78.3/icu4c-78.3-sources.tgz','sha256':'a'*64,'size':100}
+        sources.validate(record)
+        for change in [{'repository':'other/icu'},{'url':'https://github.com/unicode-org/icu/releases/latest/download/source.tgz'},{'releaseTag':'main'},{'commit':'b'*40},{'size':False}]:
+            with self.assertRaises(ValueError):sources.validate(dict(record,**change))
+
+    def test_webkit_requires_build_recipes_and_the_icu_pin_in_its_source(self):
+        path=self.work/'webkit.tar.gz'
+        lock={'sources':[{'name':'bun-icu','version':'78.3','sha256':'a'*64}],'gitSources':[{'name':'bun-webkit','paths':list(sources.WEBKIT_BUILD_PATHS)}]}
+        def archive(omit=None):
+            files={'icu/source.json':json.dumps({'version':'78.3','sha256':'a'*64}),'.github/scripts/lanes.mjs':'build recipe','scripts/mirror-gcc13-debs.sh':'source recipe','CMakeLists.txt':'cmake','Dockerfile':'COPY icu/ /icu-bun/'}
+            with tarfile.open(path,'w:gz') as tar:
+                for name,text in files.items():
+                    if name==omit:continue
+                    data=text.encode();entry=tarfile.TarInfo('bun-webkit/'+name);entry.size=len(data);tar.addfile(entry,io.BytesIO(data))
+        archive();sources.verify_webkit_source(path,lock)
+        archive('icu/source.json')
+        with self.assertRaises(ValueError):sources.verify_webkit_source(path,lock)
+        archive('.github/scripts/lanes.mjs')
+        with self.assertRaises(ValueError):sources.verify_webkit_source(path,lock)
+        archive();lock['sources'][0]['sha256']='b'*64
+        with self.assertRaises(ValueError):sources.verify_webkit_source(path,lock)
+        lock['sources'][0]['sha256']='a'*64;lock['gitSources'][0]['paths'].remove('icu')
+        with self.assertRaises(ValueError):sources.verify_webkit_source(path,lock)
     def test_bun_dependency_commits_are_read_from_the_acquired_source(self):
         lock={'bunVersion':'1.4.4','sources':[{'name':'bun-tinycc','commit':'c'*40}],'gitSources':[{'name':'bun-webkit','commit':'d'*40}]}
         path=self.work/'bun.tar.gz'

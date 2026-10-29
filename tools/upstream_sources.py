@@ -21,6 +21,7 @@ import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
 MAX=1536*1024**2
+WEBKIT_BUILD_PATHS=('Source','Tools','WebKitLibraries','.github','Configurations','icu','macos-cross','metadata','resources','scripts','WebKit.xcworkspace')
 
 def source_git_environment(base=None):
     environment=dict(os.environ if base is None else base)
@@ -40,14 +41,26 @@ def digest(path):
 
 def validate(record):
     if not re.fullmatch(r'[a-z0-9-]+',record['name']) or record['file']!=record['name']+'-source.tar.gz':raise ValueError('Invalid source filename')
-    if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+',record['repository']) or not re.fullmatch(r'[a-f0-9]{40}',record['commit']):raise ValueError('Invalid upstream source pin')
-    if record['url']!=f'https://codeload.github.com/{record["repository"]}/tar.gz/{record["commit"]}':raise ValueError('Unexpected archive URL')
+    if 'releaseTag' in record:
+        version=record.get('version','')
+        if record['name']!='bun-icu' or record['repository']!='unicode-org/icu' or not re.fullmatch(r'[0-9]+\.[0-9]+',version) or record['releaseTag']!='release-'+version or 'commit' in record:raise ValueError('Invalid ICU release source pin')
+        expected=f'https://github.com/unicode-org/icu/releases/download/release-{version}/icu4c-{version}-sources.tgz'
+    else:
+        if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+',record['repository']) or not re.fullmatch(r'[a-f0-9]{40}',record['commit']):raise ValueError('Invalid upstream source pin')
+        expected=f'https://codeload.github.com/{record["repository"]}/tar.gz/{record["commit"]}'
+    if record['url']!=expected:raise ValueError('Unexpected archive URL')
     if not re.fullmatch(r'[a-f0-9]{64}',record['sha256']) or type(record['size']) is not int or not 0<record['size']<=MAX:raise ValueError('Invalid source checksum/size')
 
 class SourceRedirect(HTTPRedirectHandler):
     def redirect_request(self,request,fp,code,message,headers,newurl):
         parsed=urlsplit(newurl)
         if parsed.scheme!='https' or parsed.hostname!='codeload.github.com' or parsed.username or parsed.password or parsed.port not in (None,443):raise ValueError('Unexpected source redirect')
+        return super().redirect_request(request,fp,code,message,headers,newurl)
+
+class ReleaseSourceRedirect(HTTPRedirectHandler):
+    def redirect_request(self,request,fp,code,message,headers,newurl):
+        parsed=urlsplit(newurl)
+        if parsed.scheme!='https' or parsed.hostname not in ('github.com','release-assets.githubusercontent.com') or parsed.username or parsed.password or parsed.port not in (None,443):raise ValueError('Unexpected release source redirect')
         return super().redirect_request(request,fp,code,message,headers,newurl)
 
 def acquire(record,cache):
@@ -58,7 +71,8 @@ def acquire(record,cache):
         return target
     temporary=None
     try:
-        with build_opener(SourceRedirect()).open(Request(record['url'],headers={'Accept-Encoding':'identity'}),timeout=60) as response,tempfile.NamedTemporaryFile(dir=cache,suffix='.partial',delete=False) as output:
+        redirect=ReleaseSourceRedirect() if 'releaseTag' in record else SourceRedirect()
+        with build_opener(redirect).open(Request(record['url'],headers={'Accept-Encoding':'identity'}),timeout=60) as response,tempfile.NamedTemporaryFile(dir=cache,suffix='.partial',delete=False) as output:
             temporary=Path(output.name);count=0;checksum=hashlib.sha256()
             while block:=response.read(1024**2):
                 count+=len(block)
@@ -99,7 +113,7 @@ def acquire_git(record,cache):
         def git(*arguments,**kwargs):return subprocess.run(source_git_command(repo,*arguments),env=environment,check=True,**kwargs)
         git('init',stdout=subprocess.DEVNULL);git('remote','add','origin','https://github.com/oven-sh/WebKit.git')
         git('fetch','--no-tags','--depth=1','--filter=blob:none','origin',record['commit'])
-        git('sparse-checkout','init','--cone');git('sparse-checkout','set',*record['paths'][:3]);git('checkout','--detach',record['commit'])
+        git('sparse-checkout','init','--cone');git('sparse-checkout','set',*[p for p in record['paths'] if p in WEBKIT_BUILD_PATHS]);git('checkout','--detach',record['commit'])
         temporary=target.with_suffix(target.suffix+'.partial')
         try:
             with temporary.open('xb') as raw,gzip.GzipFile(filename='',fileobj=raw,mode='wb',mtime=0,compresslevel=1) as output:
@@ -132,6 +146,20 @@ def verify_bun_source(archive,lock):
         match=re.search(r'const '+constant+r'\s*=\s*"([a-f0-9]{40})"',found[file])
         if not match or match.group(1)!=records[name]['commit']:raise ValueError('Bun dependency source pin differs from its actual build script')
 
+def verify_webkit_source(archive,lock):
+    record=next(r for r in lock['gitSources'] if r['name']=='bun-webkit')
+    if not set(WEBKIT_BUILD_PATHS).issubset(record['paths']):raise ValueError('WebKit source selection omits build inputs')
+    wanted={'icu/source.json','.github/scripts/lanes.mjs','scripts/mirror-gcc13-debs.sh','CMakeLists.txt','Dockerfile'};found={}
+    with tarfile.open(archive,'r|gz') as source:
+        for entry in source:
+            name='/'.join(PurePosixPath(entry.name).parts[1:])
+            if name not in wanted:continue
+            if name in found or not entry.isfile() or entry.size>256*1024:raise ValueError('Invalid WebKit build metadata')
+            found[name]=source.extractfile(entry).read()
+    if set(found)!=wanted:raise ValueError('WebKit archive omits required build recipes')
+    icu=json.loads(found['icu/source.json']);paired=next((r for r in lock['sources'] if r['name']=='bun-icu'),None)
+    if paired is None or paired.get('version')!=icu['version'] or paired.get('sha256')!=icu['sha256']:raise ValueError('ICU sources differ from the WebKit build pin')
+
 def notices(archive,component,output):
     count=total=0
     with tarfile.open(archive,'r|gz') as source:
@@ -162,10 +190,10 @@ def collect(lock,cache,output):
             shutil.copyfile(archive,output/record['file']);records.append(dict(record,licenseTextFiles=count))
         for record in lock.get('gitSources',[]):
             if record['name'] in names:raise ValueError('Duplicate Git source component')
-            names.add(record['name']);archive=acquire_git(record,cache);count=notices(archive,record['name'],license_zip)
+            names.add(record['name']);archive=acquire_git(record,cache);verify_webkit_source(archive,lock);count=notices(archive,record['name'],license_zip)
             shutil.copyfile(archive,output/record['file']);git_records.append(dict(record,licenseTextFiles=count,sha256=digest(archive),size=archive.stat().st_size))
     result=dict(lock,sources=records,gitSources=git_records,sourceArchivesCollected=len(records)+len(git_records),fullReleaseAuditComplete=False)
-    (output/'upstream-source-delivery.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
+    (output/'upstream-source-delivery.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8',newline='\n')
     print(json.dumps({'sourceArchivesCollected':len(records)+len(git_records),'licenseTextFiles':sum(r['licenseTextFiles'] for r in records+git_records),'externalSourceReferences':len(lock.get('externalSourceReferences',[]))}))
 
 if __name__=='__main__':

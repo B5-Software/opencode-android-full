@@ -281,3 +281,11 @@ K30 更新包验证层新增 7 项、9.458 秒通过，含以已安装 APK 证�
 正式 APK 为 627,750,491 字节，SHA-256 `cdc35f96e865f55da5477934f752717be2c5ab2956ac47c8a901fbbd5a9ca9db`。下载证据在 `.cache/evidence/published-v0.1.0-beta.1-verification.json` 与 `published-v0.1.0-beta.1-apksigner.txt`；本地原始下载位于 `artifacts/release-v0.1.0-beta.1/`。工程发布保留 485 个 Debian 源包/2209 个文件、68 份唯一 Maven 配对以及 685 条 npm 清单超集的范围记录，四项声明审查仍显式保留。
 
 这些是宿主与分发验证，不新增正式签名 APK 的真机安装证据；已安装的开发签名版本和用户数据保持保留。完整许可证兼容性、修改运行库重链接及其余 M0–M5 验收继续未完成。
+
+## 2026-10-30 重建准备与构建源码材料修正
+
+在独立 WSL 缓存展开已发布 Bun、TinyCC、WebKit 源码，分别核对原归档及 WebKit 原始 tar 摘要；所有 109726 个条目均展开，未跳过链接夹具。准备固定 LLVM 23.1.1、Rust nightly-2026-09-15、CMake 3.30.5；使用 Bun 自身描述中的 OCI 镜像、glibc 开发包和 22 个 GCC 包构建 ARM64/glibc 编译根目录，全部核对固定 SHA-256，不启动 Docker daemon。真实 C++20 程序编译为 AArch64 ELF，并在构建主机 QEMU 返回 `RELINK_AARCH64_SYSROOT_OK`。Bun 本地 WebKit 的 `linux-aarch64-gnu` 配置通过，产生 23 依赖、228 codegen、1195 对象的构建图；尚不构成完整重链接或 Android 运行验收。
+
+源码检查发现旧 WebKit 分发集合没有纳入构建脚本及 `icu/source.json`，后者固定了实际 ICU 78.3 源码。因此扩展 WebKit 的构建配置/资源目录，另保留原始 ICU 源码；将归档内 ICU 描述与实际发布源摘要交叉验证，缺少配方或不匹配时拒绝交付。新 WebKit 原始 tar 为 1,405,962,240 字节、SHA-256 `0b1e16e1f31dff5224501cc52093e676cbffd3a55324b7bceef98b039b498819`。实际收集五份归档、179 份原始说明；45 项 Python 检查、脚本语法和 actionlint 通过，真实 ICU HTTPS 重定向与摘要验证通过，旧归档在新增配方检查下按预期拒绝。既有 beta.1 发布内容保留，此追加材料仍需托管 CI 和后续版本分发验证。
+
+证据位于 `.cache/evidence/relink-source-preparation.json`、`relink-tools.json`、`relink-sysroot-inputs.json`、`relink-sysroot-preparation.json`、`relink-aarch64-smoke.json`、`relink-third-configure.txt` 与 `source-build-materials-tests.txt`，完整本地材料位于 `artifacts/upstream-source-delivery-expanded/`。官方 OpenCode 前端未修改，`modifiedRuntimeRelinkVerified` 和完整项目验收标记继续为 false。
