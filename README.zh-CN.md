@@ -99,3 +99,5 @@ ARM64 16 KB 实机验证；真实模型驱动的 Agent 工程开发与恢复；�
 本项目以 GPL-3.0-or-later 提供新代码。参考与复用组件的版权、许可证见 [第三方说明](THIRD_PARTY_NOTICES.md)。OpenCode 保留上游 MIT 许可证，Debian 内各软件包保留其各自许可证。
 
 APK 内嵌 Maven/npm 说明归档，发布材料还包含实际 Android 运行库的完整 source JAR、OpenCode 清单依赖超集与原始字体署名。仅有许可证声明的条目及未完成审查范围见 [依赖材料](docs/DEPENDENCY_NOTICES.md)，不将工程预发布等同于完整审计通过。
+
+首个预发布另提供[上游构建源码补充包](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip)，包含五份 Bun/TinyCC/WebKit/ICU/OpenCode 归档、179 份原始说明及校验脚本，补齐初版遗漏的 WebKit 构建/ICU 配方和 ICU 78.3 源码。[源码与重链接进度](docs/BUN_SOURCES.md)记录验证范围。

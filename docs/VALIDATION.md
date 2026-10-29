@@ -289,3 +289,11 @@ K30 更新包验证层新增 7 项、9.458 秒通过，含以已安装 APK 证�
 源码检查发现旧 WebKit 分发集合没有纳入构建脚本及 `icu/source.json`，后者固定了实际 ICU 78.3 源码。因此扩展 WebKit 的构建配置/资源目录，另保留原始 ICU 源码；将归档内 ICU 描述与实际发布源摘要交叉验证，缺少配方或不匹配时拒绝交付。新 WebKit 原始 tar 为 1,405,962,240 字节、SHA-256 `0b1e16e1f31dff5224501cc52093e676cbffd3a55324b7bceef98b039b498819`。实际收集五份归档、179 份原始说明；45 项 Python 检查、脚本语法和 actionlint 通过，真实 ICU HTTPS 重定向与摘要验证通过，旧归档在新增配方检查下按预期拒绝。既有 beta.1 发布内容保留，此追加材料仍需托管 CI 和后续版本分发验证。
 
 证据位于 `.cache/evidence/relink-source-preparation.json`、`relink-tools.json`、`relink-sysroot-inputs.json`、`relink-sysroot-preparation.json`、`relink-aarch64-smoke.json`、`relink-third-configure.txt` 与 `source-build-materials-tests.txt`，完整本地材料位于 `artifacts/upstream-source-delivery-expanded/`。官方 OpenCode 前端未修改，`modifiedRuntimeRelinkVerified` 和完整项目验收标记继续为 false。
+
+## 2026-10-30 构建源码补充交付与 ICU 编译
+
+扩展收集器的 main [Actions 40958670405](https://github.com/B5-Software/opencode-android-full/actions/runs/40958670405) 通过；随后 `3e973b8` 的 Android [Actions 40963319702](https://github.com/B5-Software/opencode-android-full/actions/runs/40963319702) 与官网部署也通过。向现有 beta.1 添加单个 [上游构建源码补充包](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip)，629,303,584 字节，SHA-256 `269cb1cd5981499da11aef9f7483a2ff2b904238c5e5ff8f32807a8b04988b70`。其五份源码、179 份原始说明、新目录内置校验器及发布后下载的摘要均实际核对；原 35 个附件的 ID、长度和摘要保留。证据：`.cache/evidence/published-source-supplement-verification.json`。
+
+在独立 WSL 目录实际编译 ICU 78.3 宿主工具、带上游解压 hook 的 ARM64 静态库，按上游规则过滤 315 项、保留 3,990 项资源和三种可达算法编号 locale，并生成 12,249,374 字节的压缩数据静态库。Node 26.3.0 的 gzip 包匹配 Bun 源码固定 SHA；Zstd 1.5.7 匹配发布者 SHA；目标数据对象确认为 AArch64。证据：`relink-icu-host-result.json`、`relink-icu-arm64-result.json`、`relink-node.json`、`relink-zstd.json`，均在 `.cache/evidence/`。
+
+完整构建发现上游 local 模式会覆盖 GNU 目标参数并选择系统 ICU；独立验证副本保留 ARM64/sysroot，指定新编译 ICU 和数据解压源，并加入固定 VM 标记。Cargo 官方索引连续超时后，在任务独立 Cargo 目录使用可达的稀疏镜像，保留原 Cargo.lock 和校验值；Rust 编译已实际推进。完整 WebKit → Bun → OpenCode → Android 执行仍待完成，两个完成标记保持 false。

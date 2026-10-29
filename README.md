@@ -93,6 +93,8 @@ Pushes and pull requests build the ARM64 runtime and APKs and run host tests, li
 
 Release assets include checksums, a public signing-certificate record, build metadata, project/native source archives, dependency records, Debian SPDX inventory and license texts, and exact Debian source files with descriptors and distribution patches. The source collector verifies pinned archive signatures, index hashes, exact versions, sizes, and SHA-256 checksums. See [Debian inventory and source delivery](docs/DEBIAN_INVENTORY.md).
 
+The first prerelease also has an [upstream build-source supplement](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip): five Bun/TinyCC/WebKit/ICU/OpenCode archives, 179 original notices, and a verifier. It adds omitted WebKit build/ICU recipes and ICU 78.3 sources. See [source materials and relinking status](docs/BUN_SOURCES.md).
+
 The APK also includes Maven/npm notice archives. Release materials retain the exact Android library source JARs, a manifest-based OpenCode dependency notice superset, and original font attribution records. Declaration-only cases and review boundaries are explicit in [dependency notices](docs/DEPENDENCY_NOTICES.md).
 
 [OpenCode updates](docs/OPENCODE_UPDATES.md) update the matching frontend/backend pair together, with publisher authentication and explicit installation. [Backups](docs/BACKUP_RESTORE.md) encrypt persistent runtime/project state and restore it transactionally.

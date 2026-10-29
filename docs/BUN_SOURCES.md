@@ -18,11 +18,19 @@ The first engineering release's collection contained four archives and 177 verba
 
 ## Modified runtime relinking / 修改后的运行时重链接
 
+The [published beta.1 build-source supplement](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip) now delivers the expanded five-archive collection and 179 original notices in one file. It is 629,303,584 bytes, SHA-256 `269cb1cd5981499da11aef9f7483a2ff2b904238c5e5ff8f32807a8b04988b70`. Extract into a new directory and run `python VERIFY.py`. Fresh extraction checks the archive hashes/lengths, canonical WebKit tar, actual Bun dependency pins and WebKit ICU descriptor without executing acquired source. The uploaded file was downloaded again and matched; all 35 original release assets retain their IDs, lengths and digests.
+
+[beta.1 构建源码补充包](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip)现已把补齐的五份归档和 179 份原始说明作为一个文件交付，大小与 SHA-256 见上文。解压到新目录后运行 `python VERIFY.py`；新目录校验及发布后实际下载的摘要验证已通过。原 35 个附件的身份、长度和摘要均保留。该补充只修正上游构建源码交付，不构成完整发行审查或重链接验收。
+
 2026-10-30 preparation: the delivered Bun/TinyCC/WebKit sources were expanded in a separate WSL directory, with no omitted fixture links. LLVM 23.1.1, Rust `nightly-2026-09-15`, CMake 3.30.5 and the pinned ARM64 glibc/GCC sysroot were prepared in task-owned caches. A C++20 AArch64 executable compiled and ran under build-host QEMU; Bun's `release-local`, `linux-aarch64-gnu` configuration then succeeded with local WebKit (23 dependencies, 228 codegen steps, 1195 objects). This establishes build preparation, not completed compilation or Android execution. The first preparation attempt exposed the missing build/ICU source materials described above; the expanded collector now verifies five archives and 179 original notice files.
 
 2026-10-30 准备记录：在独立 WSL 目录从已交付归档展开 Bun/TinyCC/WebKit，没有跳过夹具链接；独立缓存中准备了固定 LLVM、Rust、CMake 与 ARM64 glibc/GCC 编译根目录。C++20 AArch64 程序在构建主机 QEMU 运行通过，Bun 的本地 WebKit/ARM64 GNU 配置成功。该结果仅证明构建准备，不代表完整编译或 Android 执行。准备过程发现了上述构建/ICU 材料缺口，补齐后收集器实际验证五份归档、179 份原始说明。
 
 Bun's upstream instructions describe placing the pinned WebKit checkout in `vendor/WebKit`, synchronizing the source pin, and running `bun run build:local`. The delivered Bun archive includes its build scripts and TinyCC patches. Its ordinary external build dependencies are described in that source.
+
+Further build evidence: ICU 78.3 host tools and ARM64 static libraries compiled from the delivered source. The target data applies the shipped decompression-hook patch, removes 315 unused items, retains 3,990 items and the reachable `ja`/`zh`/`zh_Hant` numbering resources, and is repacked with Node 26.3.0 and Zstd 1.5.7 after checking their published/source-pinned hashes. The compressed data archive is 12,249,374 bytes and its object is AArch64. A separate validation copy adds a fixed VM diagnostic marker and adjusts GNU cross-build/ICU parameters that the upstream local-mode flags otherwise overwrite. Full Bun/WebKit compilation is in progress; there is no completed Android result yet.
+
+后续构建证据：已从交付源码编译 ICU 78.3 宿主工具和 ARM64 静态库，应用上游解压 hook、过滤及压缩配方，保留算法编号所需资源；数据归档的目标对象为 AArch64。独立验证副本加入固定 VM 标记，并调整上游本地模式覆盖 GNU 交叉编译参数及 ICU 选择的问题。完整 Bun/WebKit 编译正在进行，仍无 Android 重链接通过结论。
 
 上游说明通过 `vendor/WebKit`、`bun sync-webkit-source`、`bun run build:local` 构建修改后的 Bun；交付的 Bun 源码保留了构建脚本与 TinyCC 补丁。其他构建依赖以该固定版本源码为准。
 
