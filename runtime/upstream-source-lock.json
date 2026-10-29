@@ -75,8 +75,8 @@
         "vcpkg-configuration.json",
         "vcpkg.json"
       ],
-      "tarSha256": "1a284a9da675dcbd2e2a80726d2e4abd341e61b2231a6dde8b278aacf0ad9bef",
-      "tarSize": 1426841600,
+      "tarSha256": "49c124221988569f9334d07460ea2978c4f9a124b201426784106c1141c86a8a",
+      "tarSize": 1403084800,
       "scope": "Bun JavaScriptCore build source: Source, Tools, WebKitLibraries and root files; unrelated top-level test/site trees omitted",
       "modifiedRuntimeRelinkVerified": false
     }

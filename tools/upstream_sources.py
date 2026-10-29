@@ -22,6 +22,19 @@ import zipfile
 ROOT=Path(__file__).resolve().parents[1]
 MAX=1536*1024**2
 
+def source_git_environment(base=None):
+    environment=dict(os.environ if base is None else base)
+    # Git archive applies checkout conversions. Inherited Git configuration
+    # must not change the exported source bytes, permissions or attributes.
+    for key in list(environment):
+        if key in ('GIT_CONFIG_PARAMETERS','GIT_CONFIG_COUNT','GIT_DIR','GIT_WORK_TREE','GIT_INDEX_FILE','GIT_OBJECT_DIRECTORY','GIT_ALTERNATE_OBJECT_DIRECTORIES') or key.startswith(('GIT_CONFIG_KEY_','GIT_CONFIG_VALUE_')):
+            environment.pop(key)
+    environment.update(GIT_CONFIG_GLOBAL=os.devnull,GIT_CONFIG_NOSYSTEM='1',GIT_ATTR_NOSYSTEM='1',GIT_TERMINAL_PROMPT='0')
+    return environment
+
+def source_git_command(repo,*arguments):
+    return ['git','-c','core.longpaths=true','-c','core.autocrlf=false','-c','core.eol=lf','-c','core.attributesFile='+os.devnull,'-c','tar.umask=0002','-c','credential.helper=','-C',str(repo),*arguments]
+
 def digest(path):
     with path.open('rb') as stream:return hashlib.file_digest(stream,'sha256').hexdigest()
 
@@ -65,7 +78,7 @@ def verify_git_archive(path,record):
             count+=len(block)
             if count>record['tarSize']:raise ValueError('Git source tar exceeds its pin')
             checksum.update(block)
-    if count!=record['tarSize'] or checksum.hexdigest()!=record['tarSha256']:raise ValueError('Git source tar differs from its pin')
+    if count!=record['tarSize'] or checksum.hexdigest()!=record['tarSha256']:raise ValueError(f'Git source tar differs from its pin: bytes={count}, sha256={checksum.hexdigest()}')
 
 def acquire_git(record,cache):
     if record['name']!='bun-webkit' or record['repository']!='oven-sh/WebKit' or record['file']!='bun-webkit-source.tar.gz':raise ValueError('Unexpected Git source')
@@ -73,23 +86,24 @@ def acquire_git(record,cache):
     if record['paths'][:3]!=['Source','Tools','WebKitLibraries'] or len(record['paths'])>100:raise ValueError('Invalid Git source selection')
     for path in record['paths']:
         if not re.fullmatch(r'[A-Za-z0-9_.-]+',path) or path in ('.','..'):raise ValueError('Unsafe Git source selector')
-    cache.mkdir(parents=True,exist_ok=True);target=cache/record['file']
+    cache.mkdir(parents=True,exist_ok=True);target=cache/'git'/record['tarSha256']/record['file']
+    target.parent.mkdir(parents=True,exist_ok=True)
     if target.exists():verify_git_archive(target,record);return target
     # Follow Bun's documented public Git source path; no source code is run.
     # Ignore personal Git filters/hooks and credential helpers in this isolated
     # acquisition checkout. The original blob bytes come from git archive.
-    environment=dict(os.environ,GIT_CONFIG_GLOBAL=os.devnull,GIT_CONFIG_NOSYSTEM='1',GIT_TERMINAL_PROMPT='0')
+    environment=source_git_environment()
     with tempfile.TemporaryDirectory(prefix='webkit-source-',dir=cache,ignore_cleanup_errors=True) as directory:
         repo=Path(directory)
         repo.resolve().relative_to(cache.resolve())
-        def git(*arguments,**kwargs):return subprocess.run(['git','-c','core.longpaths=true','-c','credential.helper=','-C',str(repo),*arguments],env=environment,check=True,**kwargs)
+        def git(*arguments,**kwargs):return subprocess.run(source_git_command(repo,*arguments),env=environment,check=True,**kwargs)
         git('init',stdout=subprocess.DEVNULL);git('remote','add','origin','https://github.com/oven-sh/WebKit.git')
         git('fetch','--no-tags','--depth=1','--filter=blob:none','origin',record['commit'])
         git('sparse-checkout','init','--cone');git('sparse-checkout','set',*record['paths'][:3]);git('checkout','--detach',record['commit'])
-        temporary=cache/(record['file']+'.partial')
+        temporary=target.with_suffix(target.suffix+'.partial')
         try:
             with temporary.open('xb') as raw,gzip.GzipFile(filename='',fileobj=raw,mode='wb',mtime=0,compresslevel=1) as output:
-                process=subprocess.Popen(['git','-C',str(repo),'archive','--format=tar','--prefix=bun-webkit/',record['commit'],'--',*record['paths']],stdout=subprocess.PIPE,env=environment)
+                process=subprocess.Popen(source_git_command(repo,'archive','--format=tar','--prefix=bun-webkit/',record['commit'],'--',*record['paths']),stdout=subprocess.PIPE,env=environment)
                 try:
                     count=0
                     while block:=process.stdout.read(1024**2):

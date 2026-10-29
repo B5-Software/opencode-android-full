@@ -51,7 +51,7 @@ jobs:
             app/src/main/jniLibs/arm64-v8a
             app/src/main/assets/terminal/vendor
             .cache/ci-native-sources.tar.gz
-          key: runtime-v1-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('runtime/**', 'native-host/**', 'tools/build_opencode.py', 'tools/bundle_*.py', 'tools/prepare_*.py', 'tools/devkit_*', 'tools/register_arm64_binfmt.py', 'tools/verify_ci_assets.py', 'tools/ci_prepare_assets.sh', 'tools/package_native_sources.py', '.github/workflows/android.yml') }}
+          key: runtime-v2-ndk29-jdk21-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('runtime/**', '!runtime/debian-source-archive-lock.json', '!runtime/debian-source-policy.json', '!runtime/upstream-source-lock.json', 'native-host/**', 'tools/build_opencode.py', 'tools/bundle_*.py', 'tools/prepare_*.py', 'tools/devkit_*', 'tools/register_arm64_binfmt.py', 'tools/verify_ci_assets.py', 'tools/ci_prepare_assets.sh', 'tools/package_native_sources.py') }}
       - name: Read locked Bun version
         id: bun
         if: steps.runtime-cache.outputs.cache-hit != 'true'

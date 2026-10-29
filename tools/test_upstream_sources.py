@@ -3,8 +3,10 @@ import gzip
 import hashlib
 import io
 import json
+import os
 from pathlib import Path
 import tempfile
+import subprocess
 import tarfile
 import unittest
 import upstream_sources as sources
@@ -12,7 +14,7 @@ import upstream_sources as sources
 class UpstreamSourceTest(unittest.TestCase):
     def setUp(self):
         cache=sources.ROOT/'.cache';cache.mkdir(exist_ok=True)
-        self.temporary=tempfile.TemporaryDirectory(prefix='upstream-source-test-',dir=cache)
+        self.temporary=tempfile.TemporaryDirectory(prefix='upstream-source-test-',dir=cache,ignore_cleanup_errors=True)
         self.work=Path(self.temporary.name).resolve();self.work.relative_to(cache.resolve())
     def tearDown(self):
         self.work.relative_to((sources.ROOT/'.cache').resolve());self.temporary.cleanup()
@@ -42,5 +44,27 @@ class UpstreamSourceTest(unittest.TestCase):
         with self.assertRaises(ValueError):sources.verify_bun_source(path,lock)
         lock['gitSources'][0]['commit']='d'*40;archive('9.9.9')
         with self.assertRaises(ValueError):sources.verify_bun_source(path,lock)
+
+    def test_git_export_ignores_host_eol_attributes_and_permissions(self):
+        repo=self.work/'repo';repo.mkdir()
+        environment=sources.source_git_environment()
+        def git(*args,**kwargs):return subprocess.run(sources.source_git_command(repo,*args),env=environment,check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE,**kwargs).stdout
+        git('init')
+        data=b'original source\nsecond line\n';(repo/'LICENSE.txt').write_bytes(data)
+        git('add','LICENSE.txt');git('-c','user.name=Source fixture','-c','user.email=fixture@localhost','-c','commit.gpgsign=false','commit','-m','Fixture')
+        baseline=git('archive','--format=tar','HEAD')
+        hostile_attributes=self.work/'host.attributes';hostile_attributes.write_text('*.txt export-ignore\n',encoding='utf-8')
+        for name,value in [('core.autocrlf','true'),('core.eol','crlf'),('core.attributesFile',str(hostile_attributes)),('tar.umask','0077')]:git('config',name,value)
+        candidate=git('archive','--format=tar','HEAD')
+        self.assertEqual(baseline,candidate)
+        with tarfile.open(fileobj=io.BytesIO(candidate)) as tar:
+            self.assertEqual(data,tar.extractfile('LICENSE.txt').read())
+            self.assertEqual(0o664,tar.getmember('LICENSE.txt').mode)
+
+    def test_inherited_git_configuration_is_removed(self):
+        environment=sources.source_git_environment({'PATH':'fixture','GIT_CONFIG_COUNT':'1','GIT_CONFIG_KEY_0':'core.autocrlf','GIT_CONFIG_VALUE_0':'true','GIT_CONFIG_PARAMETERS':'fixture','GIT_DIR':'private-repo'})
+        self.assertEqual('fixture',environment['PATH'])
+        self.assertEqual(os.devnull,environment['GIT_CONFIG_GLOBAL'])
+        self.assertFalse(any(name in environment for name in ['GIT_CONFIG_COUNT','GIT_CONFIG_KEY_0','GIT_CONFIG_VALUE_0','GIT_CONFIG_PARAMETERS','GIT_DIR']))
 
 if __name__=='__main__':unittest.main()

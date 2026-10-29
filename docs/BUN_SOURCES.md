@@ -8,9 +8,13 @@ The official OpenCode executable embeds Bun. Its source delivery is separate fro
 
 OpenCode、Bun、TinyCC 的原始归档按大小与 SHA-256 保留。WebKit 的归档接口返回 HTTP 422 后，按 Bun 官方说明使用公开 Git 来源取得固定提交，仅归档 `Source`、`Tools`、`WebKitLibraries` 与根目录文件，略去无关的顶层测试和网站树。锁定的是原始 Git tar 的大小和 SHA-256；不同宿主的 gzip 压缩可不同，但接受的源码字节必须相同。收集器不执行取得的源码。
 
-The local engineering collection contains four archives and 177 verbatim license/notice texts. The WebKit build-source tar is 1,426,841,600 bytes before compression; the local gzip is 425,183,015 bytes. Release delivery metadata records each actual distributed archive hash and size. This is not a completed transitive npm/Maven license compatibility review.
+The local engineering collection contains four archives and 177 verbatim license/notice texts. The canonical WebKit build-source tar is 1,403,084,800 bytes before compression; the local gzip is 422,963,227 bytes. Release delivery metadata records each actual distributed archive hash and size. This is not a completed transitive npm/Maven license compatibility review.
 
-本地工程试包已形成四个上游源码归档、177 份原始许可证/版权说明。WebKit 构建源码 tar 为 1,426,841,600 字节，本地 gzip 为 425,183,015 字节。线上产物会记录其实际归档摘要；这些材料不代表 npm/Maven 的传递许可证兼容性审查已结束。
+本地工程试包已形成四个上游源码归档、177 份原始许可证/版权说明。固定导出设置下的 WebKit 构建源码 tar 为 1,403,084,800 字节，本地 gzip 为 422,963,227 字节。线上产物会记录其实际归档摘要；这些材料不代表 npm/Maven 的传递许可证兼容性审查已结束。
+
+2026-10-30: the first Windows export inherited system `core.autocrlf=true`, while CI ignored system Git configuration. Git archive applied different line-ending conversions. Acquisition/export now explicitly disables automatic conversion, fixes LF defaults and tar permissions, and ignores host attributes/configuration. Upstream committed `.gitattributes` still applies. The source commit and selected paths are unchanged. Regression checks compare exports under conflicting host settings, preserve original LF source text, and retain exact tar-size/SHA-256 verification.
+
+2026-10-30：首次 Windows 导出继承了系统的 `core.autocrlf=true`，CI 则不读取系统 Git 配置，Git 归档因此进行了不同的换行转换。现对获取和导出明确固定自动转换、默认 LF、tar 权限及宿主属性/配置边界；保留上游提交的 `.gitattributes`。源码提交和选择路径未变。回归测试覆盖相冲突的宿主设置、原始 LF 文本和严格的 tar 大小/摘要校验。
 
 ## Modified runtime relinking / 修改后的运行时重链接
 
