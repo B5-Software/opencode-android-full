@@ -1,0 +1,11 @@
+# Android 启动图标
+
+图标用于本项目的非官方 Android 移植。品牌参考来自 [OpenCode 官方品牌页](https://opencode.ai/brand)，参考图使用本项目锁定的官方源码中的 `packages/desktop/icons/prod/128x128@2x.png`。
+
+最终资源：`app/src/main/res/drawable-nodpi/launcher_generated_foreground.png`。使用内置 `image_gen.imagegen` 工具生成，未使用 API/CLI 后备方式，也没有对生成的 PNG 做绘图或像素修饰。文件为 1254 × 1254 RGBA，874487 字节；透明背景保留在资源中。
+
+启动器采用 Android adaptive icon：独立炭黑背景、生成的前景和 16% 的前景留白。主要不透明图形在 Android 66dp 安全圆内，适配圆形与圆角矩形裁切。Android 13 及以上另外提供方正空心 O 的 monochrome 图层，让支持主题图标的启动器使用系统配色。
+
+生成提示词：
+
+> Use case: logo-brand. Asset: a finished Android adaptive launcher icon FOREGROUND for an unofficial OpenCode Android development workstation. Use the supplied OFFICIAL OpenCode desktop icon as the visual identity reference. Create ONE beautiful, production-quality 1024x1024 square RGBA asset, with genuinely transparent background outside the central emblem. Preserve the unmistakable OpenCode brand mark: one upright, precisely rectangular, square-cornered hollow O, outer width:height exactly 4:5, with a rectangular 2:3 inner opening and even substantial border thickness. Match the supplied mark's silhouette and black/white/gray brand palette faithfully. Refine the emblem into a crisp warm-white satin ceramic / finely machined light aluminum frame, with extremely restrained bevels, subtle upper-left illumination, precise edges, a dark graphite recessed rectangular center and a gently lighter smoky gray lower interior as in the reference. Front-facing orthographic view, perfectly symmetrical geometry, no perspective tilt. Modern, minimal, tactile, premium, exceptionally legible at 48 pixels. Composition: the entire outer emblem is centered and occupies approximately 45 percent of the canvas width and 56.25 percent of canvas height; all other pixels remain transparent so Android can provide its own charcoal background and safe adaptive clipping. Only a very small subtle close-contact shadow directly around the emblem is allowed. Do not include the original rounded black icon tile; produce the emblem on transparent alpha only. No text, no words, no extra letters, no Android robot, no terminal chevron, no code brackets, no badges, no green/blue/neon accents, no glow, no busy details, no background rectangle, no fake checkerboard, no mockup scene, no multiple variants.

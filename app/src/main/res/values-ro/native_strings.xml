@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Spațiu de lucru pentru dezvoltare</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">O singură pagină</string>
+    <string name="native_651ae6ea52ae" formatted="false">Restabiliți vizualizarea divizată</string>
+    <string name="native_d7e97cfac66f" formatted="false">Aspect spațiu de lucru</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Lărgiți fereastra pentru a vizualiza mai multe panouri împreună.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Afișați fișierele de proiect</string>
+    <string name="native_712d956931d1" formatted="false">Afișați terminalul</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal de mai jos</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal din dreapta</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Panourile se prăbușesc atunci când spațiul este limitat și rămân accesibile din meniul plutitor. Terminalul lateral apare în ferestre mai largi. Trageți separatoarele pentru a redimensiona panourile.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt stânga: 1–5 pagini · Fișiere B · Terminal T · M Desktop · Introduceți unic/divizat · \\\\ Aspect</string>
+    <string name="native_7a129a94c6ff" formatted="false">Gata</string>
+    <string name="native_bcec2218fc21" formatted="false">Resetează proporțiile</string>
+    <string name="native_da88c62d1217">Afișați %1$s într-o singură pagină</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Divizor de fișiere de proiect</string>
+    <string name="native_707c0891a0e6" formatted="false">Divizor terminal</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode și divizor desktop</string>
+    <string name="native_50407ad8dfa8" formatted="false">Reduceți panoul anterior</string>
+    <string name="native_b72c5c02a666" formatted="false">Măriți panoul anterior</string>
+    <string name="native_3f3685e8d731" formatted="false">Prea multe link-uri PRoot pentru acest format de arhivă</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux hard link-urile necesită un rootfs complet</string>
+    <string name="native_f336f1e17596" formatted="false">Imbricarea directorului de rezervă este prea profundă</string>
+    <string name="native_b6f744737a45" formatted="false">Lungimea parolei de rezervă nevalidă</string>
+    <string name="native_13bde5dd1812" formatted="false">Parola de rezervă trebuie să conţină cel puţin 12 caractere</string>
+    <string name="native_be02cbd55932" formatted="false">Format de rezervă neacceptat</string>
+    <string name="native_7a91a3d586ae" formatted="false">Antet de rezervă nevalid</string>
+    <string name="native_2bbd318a5667" formatted="false">Parametrii de criptare de rezervă neacceptați</string>
+    <string name="native_18868da27841" formatted="false">Parolă de rezervă incorectă sau fișier deteriorat</string>
+    <string name="native_e41d6440468d" formatted="false">Înregistrarea de recuperare este prea mare</string>
+    <string name="native_282692502f14" formatted="false">Metadatele de rezervă sunt prea mari</string>
+    <string name="native_61fdca8d6c82" formatted="false">Imbricarea metadatelor de rezervă este prea profundă</string>
+    <string name="native_8cefb30732d4" formatted="false">Metadate de rezervă nevalide</string>
+    <string name="native_5d3037708cad" formatted="false">Setări native neacceptate</string>
+    <string name="native_81a57c382f9d" formatted="false">Nu s-au putut salva setările native</string>
+    <string name="native_50603e683d4a" formatted="false">Director părinte invalid în calea de rezervă</string>
+    <string name="native_c3f838a46b8e" formatted="false">Rădăcina stației de lucru nu trebuie să fie o legătură simbolică</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Un fișier modificat în timpul copiei de rezervă</string>
+    <string name="native_77e1e85147db" formatted="false">Format de date pentru stația de lucru neacceptat</string>
+    <string name="native_a927b5a565af" formatted="false">Backup-ul conține date suplimentare</string>
+    <string name="native_c2b886d508f2" formatted="false">Backup-ul conține căi duplicate</string>
+    <string name="native_3dab8cd60102" formatted="false">Backup-ul conține setări de rulare care nu pot fi migrate</string>
+    <string name="native_f45ba674a630" formatted="false">Backup-ul este prea mare sau stocarea este insuficientă</string>
+    <string name="native_140073e8e77b" formatted="false">Nu s-au putut restabili marcajele temporale ale linkurilor simbolice</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nu s-au putut restaura marcajele de timp ale conductei denumite</string>
+    <string name="native_0daee8026db1" formatted="false">Copiere de rezervă și restaurare pentru stația de lucru</string>
+    <string name="native_1acc18928c5f" formatted="false">Include Debian, instrumente pentru dezvoltatori, proiecte, acasă, sesiuni și setări OpenCode, date ale browserului Linux și setări native de aspect.</string>
+    <string name="native_62254d31a535" formatted="false">Fișierele temporare și copiile de rezervă vechi sunt excluse. Stocarea Android WebView și schițele netrimise rămân pe acest dispozitiv și nu sunt transferate cu această copie de rezervă.</string>
+    <string name="native_808eabc7811f" formatted="false">Creați o copie de rezervă criptată</string>
+    <string name="native_201c10b38296" formatted="false">Importați backup</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Salvați mai întâi modificările în editorul de fișiere.</string>
+    <string name="native_0559cd596453" formatted="false">Opriți OpenCode, terminale și desktop</string>
+    <string name="native_fdf2be8e3b93" formatted="false">O operație de mediu este incompletă. Recuperează-l mai întâi.</string>
+    <string name="native_185f58156330" formatted="false">Recuperați operațiunea incompletă</string>
+    <string name="native_20831b6f67a7" formatted="false">Anulați ultima restaurare a mediului</string>
+    <string name="native_4f392d5d6141">Copie locală criptată: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Salvați în fișier</string>
+    <string name="native_f09619351eb9" formatted="false">Ștergeți copia locală</string>
+    <string name="native_85c686eb9841">Procesat %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Anulați sarcina de rezervă</string>
+    <string name="native_66c9d896407b" formatted="false">Criptați backup pentru stația de lucru</string>
+    <string name="native_548cd9f0831e" formatted="false">Decriptați și verificați backupul</string>
+    <string name="native_d248f5eca9a5" formatted="false">Backup-urile pot conține chei private SSH, chei API și date de cont. Utilizați cel puțin 12 caractere. O parolă uitată nu poate fi recuperată.</string>
+    <string name="native_f249422b9ec1" formatted="false">Backup-ul este decriptat și verificat într-un director privat. Mediul dumneavoastră este înlocuit numai după ce confirmați restaurarea.</string>
+    <string name="native_e7be6841703a" formatted="false">Parola de rezervă</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Repetați parola</string>
+    <string name="native_eafdc5cd4882" formatted="false">Porniți criptarea</string>
+    <string name="native_2986b88beade" formatted="false">Decriptați și verificați</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Anulează</string>
+    <string name="native_f46c5ed7412d" formatted="false">Restaurați întregul mediu anterior?</string>
+    <string name="native_33eda0946a5b" formatted="false">Ștergeți copia locală criptată?</string>
+    <string name="native_26db24150f2e" formatted="false">Proiectele, home, Debian și sesiunile vor reveni la starea lor înainte de ultima restaurare. Lucrările mai recente vor rămâne într-o copie de rezervă privată în interiorul aplicației.</string>
+    <string name="native_1153b30d51d5" formatted="false">Numai copia locală criptată din interiorul aplicației este ștearsă. Fișierele salvate în altă parte rămân disponibile.</string>
+    <string name="native_427a78a4e69a" formatted="false">Confirmați</string>
+    <string name="native_7af46d7ee003" formatted="false">Restabiliți această copie de rezervă a stației de lucru?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s intrări · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Backup-ul conține software Linux executabil. Confirmați că aveți încredere în sursa acesteia. Restaurarea înlocuiește întregul mediu și verifică serviciile locale; mediul anterior este păstrat pentru recuperare.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Backup verificat. Se așteaptă confirmarea restaurării.</string>
+    <string name="native_97076078c749" formatted="false">Activați și modul de compatibilitate Chromium (dezactivează sandbox-ul procesului Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Dezactivat implicit. Îl puteți activa mai târziu în setările desktopului.</string>
+    <string name="native_ddf09383413c" formatted="false">Confirmați restaurarea</string>
+    <string name="native_8e6056b0f629" formatted="false">Anulați importul</string>
+    <string name="native_63a895901c76" formatted="false">Mediul stației de lucru s-a schimbat</string>
+    <string name="native_a4c994348a39" formatted="false">Redeschideți spațiul de lucru</string>
+    <string name="native_774947f0653e" formatted="false">Anulați sarcina</string>
+    <string name="native_e09a22b18445" formatted="false">Sarcina a fost întreruptă. Selectați din nou o operațiune și introduceți parola.</string>
+    <string name="native_38c5fcc634db" formatted="false">Salvați mai întâi editările fișierelor în toate ferestrele. Anulați un import existent înainte de a încerca din nou.</string>
+    <string name="native_029bfa8ff772" formatted="false">Restaurarea stației de lucru și verificarea programelor</string>
+    <string name="native_e4f04df818f8" formatted="false">Se procesează operația de rezervă selectată</string>
+    <string name="native_8206f072d5ee" formatted="false">Opriți OpenCode, terminale și desktop, apoi așteptați ca operațiunile cu fișiere să se termine.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nu s-a putut porni sarcina de rezervă. Reîncercați cu aplicația în prim-plan.</string>
+    <string name="native_1553b714941d" formatted="false">Decriptarea și verificarea copiei de rezervă. Mediul inițial rămâne recuperabil...</string>
+    <string name="native_dafd005e953e" formatted="false">Backup verificat. Confirmați restaurarea în aplicație.</string>
+    <string name="native_9fb236184596" formatted="false">A șters copia locală criptată din interiorul aplicației.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operațiunea anulată. Datele originale de mediu păstrate.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operațiune incompletă. Verificați parola, integritatea copiei de rezervă, versiunea gazdă și spațiul liber. Datele originale de mediu păstrate.</string>
+    <string name="native_29deabd28960" formatted="false">Se creează backup criptat pentru stația de lucru...</string>
+    <string name="native_3d137e243806" formatted="false">Copiere de rezervă criptată creată. Alegeți unde să îl salvați.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Restaurarea mediului și verificarea serviciilor locale. Păstrați datele aplicației intacte...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Stație de lucru restaurată. Mediul anterior rămâne într-o copie de rezervă privată. Redeschideți spațiul de lucru.</string>
+    <string name="native_0392cd6152d2" formatted="false">Verificările de restaurare au eșuat. Revenit la mediul anterior; datele importate rămân într-o copie de rezervă privată.</string>
+    <string name="native_5dc7410b600e" formatted="false">Restaurarea este incompletă. Toate directoarele de date sunt păstrate. Păstrați datele aplicației și reîncercați recuperarea.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Se restabilește mediul anterior al stației de lucru...</string>
+    <string name="native_15821323ff89" formatted="false">Mediul anterior a fost restaurat. Lucrările mai recente rămân într-o copie de rezervă privată. Redeschideți spațiul de lucru.</string>
+    <string name="native_56dd94f47870" formatted="false">Nu se poate anula această restaurare. Mediul actual și backup-urile păstrate.</string>
+    <string name="native_93530f3fa029" formatted="false">Anulare este incompletă. Toate directoarele de date sunt păstrate. Păstrați datele aplicației și reîncercați recuperarea.</string>
+    <string name="native_f12963c80def" formatted="false">Se salvează backup criptat...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Salvare de rezervă criptată. Puteți salva din nou copia locală sau o puteți șterge manual.</string>
+    <string name="native_d660cccf65e0" formatted="false">Se curăță un import neconfirmat...</string>
+    <string name="native_800592163979" formatted="false">Import anulat. Mediul original neschimbat.</string>
+    <string name="native_5a90367eb834" formatted="false">Import anulat. Mediul original neschimbat; unele date de import temporar rămân în directorul privat al aplicației.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Se pregătește decriptarea și verificarea...</string>
+    <string name="native_e9f2bea3118c" formatted="false">Se pregătește backup criptat...</string>
+    <string name="native_7bd5a0c93818" formatted="false">Nu s-a putut porni serviciul de rezervă. Reîncercați în prim-plan.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Recuperați mai întâi operațiunea de mediu incompletă</string>
+    <string name="native_f14aea7c819c" formatted="false">Înregistrare de recuperare nevalidă</string>
+    <string name="native_7c284c55ee08" formatted="false">Lipsește directorul de recuperare</string>
+    <string name="native_bfc4792df15b" formatted="false">Setările native depășesc limita de înregistrare de recuperare</string>
+    <string name="native_8d93770ba8c9">Lipsește directorul de mediu anterior: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Etapă de recuperare necunoscută</string>
+    <string name="native_20c5124fe175" formatted="false">Operație de recuperare necunoscută</string>
+    <string name="native_1c457322b624" formatted="false">Niciun mediu anterior nu este disponibil pentru restaurare</string>
+    <string name="native_30db1666c8e5" formatted="false">Această copie de rezervă aparține unei alte aplicații</string>
+    <string name="native_6687d1c64d75" formatted="false">Arhitectura procesorului de rezervă nu se potrivește</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Actualizați mai întâi gazda Android la versiunea folosită de această copie de rezervă</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Directorul de rezervă este incomplet</string>
+    <string name="native_66106ab3e254" formatted="false">Vechea copie de rezervă nu are o dovadă verificabilă a editorului OpenCode. Porniți mediul original cu această gazdă înainte de a-l face din nou o copie de rezervă.</string>
+    <string name="native_bec13cc92982" formatted="false">Acțiuni ale sistemului de mediu de dezvoltare</string>
+    <string name="native_65de80229626" formatted="false">Debian a solicitat o acțiune de sistem</string>
+    <string name="native_5e38581cf19c" formatted="false">Atingeți pentru a examina și gestiona cererea</string>
+    <string name="native_749d406d2c67" formatted="false">Din mediul de dezvoltare Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Deschideți browserul de sistem?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Deschideți o previzualizare a proiectului local?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Citiți clipboard-ul?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Copierea în clipboard-ul sistemului?</string>
+    <string name="native_77f761eb70aa" formatted="false">Trimiți o notificare locală?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Partajați un fișier de proiect?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Import fișiere de sistem?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Exportați un fișier de proiect?</string>
+    <string name="native_7ac295421c6d" formatted="false">Deschideți în browser</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Deschide previzualizarea</string>
+    <string name="native_14792d6cd7a6" formatted="false">Permite citirea</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Copiați în clipboard</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Trimiteți o notificare</string>
+    <string name="native_88152a09fa02" formatted="false">Alegeți o aplicație de partajare</string>
+    <string name="native_7a49a79c57f9" formatted="false">Alegeți fișierele</string>
+    <string name="native_99d9f87419c5" formatted="false">Alegeți unde să salvați</string>
+    <string name="native_23e5bb2090aa">%1$s\nSe deschide cu datele browserului izolate de OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Oferiți text din clipboard-ul sistemului programului Debian curent.</string>
+    <string name="native_dcc6bec24e43">Alegeți fișierele de importat în %1$s. Fișierele existente sunt păstrate și duplicatele sunt redenumite.</string>
+    <string name="native_efdb26088f68" formatted="false">Mod browser Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">Modul de compatibilitate folosește un profil separat de browser și dezactivează sandbox-ul de proces Linux al Chromium. Browserul poate accesa în continuare fișierele din această aplicație. Evitați site-urile web neîncrezătoare și utilizați browserul sistemului Android pentru conturi importante. Redeschideți Chromium după schimbarea modurilor.</string>
+    <string name="native_a4317f2699a2" formatted="false">Sistemul de nisip standard Linux este activat în mod implicit. Dacă Chromium nu poate porni, puteți selecta modul de compatibilitate. Dezactivează sandbox-ul procesului Linux și utilizează un profil separat, păstrând în același timp accesul la fișierele aplicației. Evita site-urile web nede încredere; utilizați browserul sistemului Android pentru conturi importante.</string>
+    <string name="native_3a2596fa9517" formatted="false">Restabiliți modul standard</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Activați modul de compatibilitate</string>
+    <string name="native_9a45442649f5" formatted="false">Desktop Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Partajat /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Prima instalare descarcă componente grafice. După instalare, desktopul poate porni și opri independent de OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">Oglinda USTC</string>
+    <string name="native_41e865941e16" formatted="false">Oglindă oficială Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Rezoluție inițială</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Desktopul continuă să ruleze când comutați între pagini. Opriți-l din Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Opriți sarcina desktop</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Porniți desktopul</string>
+    <string name="native_ea27a25e5114" formatted="false">Instalați componente desktop</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: modul de compatibilitate</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: modul standard</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Instalați mai întâi instrumentele de dezvoltare Debian din Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Jurnal de activitate</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nu s-a putut deschide folderul proiectului. Verificați dacă directorul există.</string>
+    <string name="native_83c76743b29d" formatted="false">Recuperarea operațiunii de mediu întrerupte</string>
+    <string name="native_739a730ae247" formatted="false">Întreținerea mediului</string>
+    <string name="native_049281329843" formatted="false">Așteptați întreținerea actualizării sau finalizarea sarcinii curente.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Așteptați ca sarcina curentă a mediului de dezvoltare să se termine</string>
+    <string name="native_83099168971c" formatted="false">Instalarea desktopului</string>
+    <string name="native_85e0c18dde8d" formatted="false">Pornirea desktopului</string>
+    <string name="native_9a48f8196d8f" formatted="false">Necesită atenție</string>
+    <string name="native_75470fb13121" formatted="false">Oprit</string>
+    <string name="native_51a53c8109d5" formatted="false">Nu se poate citi sau salva înregistrarea activității. Reparați-l din Runtime sau eliberați spațiu de stocare.</string>
+    <string name="native_d36a018cc619" formatted="false">Instalați mai întâi mediul de dezvoltare Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Conectați-vă mai întâi la o rețea</string>
+    <string name="native_a065d81014b1" formatted="false">Instalarea desktop este incompletă. Reîncercați instalarea.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop instalat. Porniți-l când este necesar.</string>
+    <string name="native_6c1c52771115" formatted="false">Instalați mai întâi componentele desktop</string>
+    <string name="native_693d90a47827" formatted="false">Operarea desktopului a eșuat. Detaliile sunt prea lungi sau indisponibile.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nu s-a putut termina salvarea marcatorului de oprire. Curățarea procesului a continuat.</string>
+    <string name="native_06083621a6ce" formatted="false">Nu s-a putut finaliza salvarea înregistrării activității. Următoarea lansare va trata acest lucru ca pe o întrerupere.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop rulează</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Funcționarea desktopului a expirat. Examinați jurnalul și reîncercați.</string>
+    <string name="native_e70d328a3ca9">Procesul desktop a ieșit (%1$s). Consultați jurnalul de activitate.</string>
+    <string name="native_df5c878f2852" formatted="false">Spațiu de lucru grafic local</string>
+    <string name="native_7b0455a8daa4" formatted="false">Opriți desktopul</string>
+    <string name="native_a62123cde9c7" formatted="false">Sarcini întrerupte și recuperare</string>
+    <string name="native_279308947a14" formatted="false">Nu se poate citi înregistrarea activității. Repair păstrează o copie a înregistrării deteriorate și păstrează proiectele, sesiunile și mediul Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Înregistrarea activității de reparații</string>
+    <string name="native_6b43650c2c82" formatted="false">Sarcina sa încheiat în mod neașteptat.</string>
+    <string name="native_acb0c970aaa6">%1$s terminale nu au fost închise în mod normal. Comenzile lor de rulare au fost întrerupte.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Repornirea confirmată. Comenzile anterioare nu au fost redate.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Proiectele și sesiunile salvate sunt păstrate. Redeschideți terminalele manual; comenzile neterminate nu se vor relua automat.</string>
+    <string name="native_fa9669296762" formatted="false">Reporniți OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Desktop-ul nu va reporni automat. Porniți-l din nou de pe pagina Desktop.</string>
+    <string name="native_644f8f44251f" formatted="false">Deschideți fișierul</string>
+    <string name="native_9dfb5569d609" formatted="false">Partajați fișier</string>
+    <string name="native_a4500cff3a86" formatted="false">Directorul de lucru nu trebuie să fie o legătură simbolică</string>
+    <string name="native_8657d27661bd" formatted="false">Cale de director de lucru nevalidă</string>
+    <string name="native_02b702a9adff" formatted="false">Selectați un fișier</string>
+    <string name="native_924874b746cc" formatted="false">Gestionați legăturile simbolice în terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Nume de fișier nevalid\nDirectorul</string>
+    <string name="native_c4989dc37aab" formatted="false">nu există</string>
+    <string name="native_d613dba39b44" formatted="false">Directorul de destinație nu există</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Nu se poate plasa un folder în interiorul său sau în descendenții săi</string>
+    <string name="native_c3acd5a3254c" formatted="false">Proiectul conține dispozitive sau prize speciale și nu poate fi copiat</string>
+    <string name="native_6c36955b068b" formatted="false">Selectați un fișier obișnuit</string>
+    <string name="native_49191d7d489f" formatted="false">Acest fișier depășește 2 MB. Editați-l cu OpenCode sau terminalul.</string>
+    <string name="native_ee42414d36c2" formatted="false">Fișierul este prea mare</string>
+    <string name="native_f0a979f87157" formatted="false">Exportați fișiere binare pentru a le deschide într-o altă aplicație</string>
+    <string name="native_88a9c82651fc" formatted="false">Editați fișierele care nu sunt UTF-8 cu OpenCode sau terminalul</string>
+    <string name="native_0189a5c3418c" formatted="false">Un alt instrument a schimbat acest fișier. Redeschideți-l înainte de editare.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Directorul original nu mai există. Restaurați-l mai întâi.</string>
+    <string name="native_46eae321049e" formatted="false">Nu este disponibilă nicio aplicație de partajare</string>
+    <string name="native_87d699d3a26c" formatted="false">Coș de gunoi</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Fișiere de proiect</string>
+    <string name="native_4dcf914f0b64" formatted="false">Fișierele șterse pot fi restaurate în directoarele lor originale</string>
+    <string name="native_c5b81b02354f" formatted="false">Înapoi</string>
+    <string name="native_e56b99379169">Au fost copiate %1$s fișiere · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Se copiează...</string>
+    <string name="native_85199bb36b04" formatted="false">Anulați operațiunea</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Închidere</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Sesiune nouă</string>
+    <string name="native_23c250cc8e0b" formatted="false">Începeți o sesiune OpenCode aici\nTerminal</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Modificări nesalvate</string>
+    <string name="native_2266227605c4" formatted="false">Salvați</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Coșul de gunoi este gol</string>
+    <string name="native_a9e739b13e52" formatted="false">Restaurare</string>
+    <string name="native_45985dc2183e" formatted="false">Mutare:</string>
+    <string name="native_31214130b5b7" formatted="false">Copiere:</string>
+    <string name="native_07e5c3158f35" formatted="false">Pastă</string>
+    <string name="native_831b4e0fb574" formatted="false">Nou</string>
+    <string name="native_ff65a22d7087" formatted="false">Dosar nou</string>
+    <string name="native_71faed44a86c" formatted="false">Fișier nou</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Reîmprospătare</string>
+    <string name="native_ac9d73843736" formatted="false">Căutați în acest director</string>
+    <string name="native_21eef82963ee" formatted="false">Acest director este gol. Importați fișiere sau creați un proiect.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Niciun fișier care se potrivește</string>
+    <string name="native_d674bc0f86b8" formatted="false">Acțiuni ale fișierului</string>
+    <string name="native_d04a47c87cc8" formatted="false">Legătură simbolică</string>
+    <string name="native_e0ba66f5246a" formatted="false">Folder</string>
+    <string name="native_f170b42599e8" formatted="false">Redenumiți</string>
+    <string name="native_4cdacf57ead2" formatted="false">Copiere</string>
+    <string name="native_124aa030694e" formatted="false">Mutați la...</string>
+    <string name="native_ac990518ed87" formatted="false">Deschideți terminalul aici</string>
+    <string name="native_87bc93932d8a" formatted="false">Exportați în fișierele de sistem</string>
+    <string name="native_dd37f132172f" formatted="false">Mutați în coșul de gunoi</string>
+    <string name="native_7318746d337c" formatted="false">Mutați în coșul de gunoi?</string>
+    <string name="native_2b5ee3f10a56">Puteți restabili „%1$s” din coșul de gunoi.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Mutare</string>
+    <string name="native_4e47aaa113fc" formatted="false">Renunțați la modificările nesalvate?</string>
+    <string name="native_63b75399ef1a" formatted="false">Renunțați la modificări</string>
+    <string name="native_d9618f7b8d25" formatted="false">Continuați editarea</string>
+    <string name="native_76ce6aef5479" formatted="false">Nume</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Mediu restaurat. Redeschideți spațiul de lucru.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Terminați mai întâi recuperarea operațiunii întrerupte în Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Întreținerea mediului este în desfășurare. Reîncercați mai târziu.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operațiunea anulată</string>
+    <string name="native_c508721eb3cd" formatted="false">Există deja un fișier cu acest nume. Alege alt nume.</string>
+    <string name="native_1e8274fe468a" formatted="false">Fișierul nu mai există. Reîmprospătați directorul.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Permisiune de acces la fișier refuzată</string>
+    <string name="native_cd808e4c321e" formatted="false">Operația nu a putut fi finalizată</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operațiune incompletă. Verificați spațiul de stocare disponibil sau selectați din nou fișierele.</string>
+    <string name="native_3f9983126fd7" formatted="false">Verificați starea de pornire OpenCode în Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nu s-a putut deschide un nou terminal. Verificați numărul de sesiuni.</string>
+    <string name="native_2160fde3813a" formatted="false">Gestionați legăturile simbolice în terminal. Managerul de fișiere nu urmărește linkuri.</string>
+    <string name="native_7a844e9d4017" formatted="false">Mutare finalizată</string>
+    <string name="native_573877894fcf" formatted="false">Copiere finalizată</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Mutat în coșul de gunoi</string>
+    <string name="native_862330af933f" formatted="false">Restaurat în directorul original</string>
+    <string name="native_beda23c9d52b" formatted="false">A avut loc întreținerea sau înlocuirea mediului. Redeschideți spațiul de lucru înainte de editare.</string>
+    <string name="native_678c6953bb2b" formatted="false">Salvat</string>
+    <string name="native_8063159f2178" formatted="false">Nu se poate citi fișierul selectat</string>
+    <string name="native_4cdc2180d2ac">Au importat %1$s fișiere</string>
+    <string name="native_e98763643b93" formatted="false">Nu se poate scrie în locația selectată</string>
+    <string name="native_5afd173be7fa" formatted="false">Export finalizat</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Cod și sesiuni</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Spațiu de lucru grafic\nFișierele</string>
+    <string name="native_770d49c5f689" formatted="false">Fișiere</string>
+    <string name="native_6a9b6480b58f" formatted="false">Runtime</string>
+    <string name="native_b561fe9204cc" formatted="false">Servicii și instrumente pentru dezvoltatori</string>
+    <string name="native_70850bdeeabd" formatted="false">Închide meniul paginii</string>
+    <string name="native_b4549acb48e8" formatted="false">Spațiu de lucru</string>
+    <string name="native_3d3551f4660f">Opacitatea butonului flotant %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Valorile mai mici fac butonul plutitor mai transparent</string>
+    <string name="native_e031beabfc9a" formatted="false">Deschide meniul paginii</string>
+    <string name="native_106ee775b538" formatted="false">Se conectează la OpenCode local...</string>
+    <string name="native_a021adc1f449" formatted="false">Conexiunea locală necesită recuperare</string>
+    <string name="native_dacb8837471c" formatted="false">Reconectați</string>
+    <string name="native_17584aa60ae6" formatted="false">Nu s-a putut pregăti memoria cache a resurselor locale</string>
+    <string name="native_3b3b80064ccb" formatted="false">Se pregătește OpenCode local...</string>
+    <string name="native_2560ee8fdd16" formatted="false">Reîncercați</string>
+    <string name="native_b07809340403" formatted="false">Locația spațiului de lucru nu a fost salvată încă. Reîncercați mai târziu.</string>
+    <string name="native_e4ab10392d05" formatted="false">Serviciul local se pregătește. Spațiul dvs. de lucru se va deschide automat odată conectat.</string>
+    <string name="native_20ea15973287" formatted="false">Executarea anterioară a fost întreruptă. Reporniți din Runtime; comenzile terminalului nu vor fi redate automat.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Porniți OpenCode din Runtime pentru a deschide codul și sesiunile.</string>
+    <string name="native_abbac5c22111" formatted="false">Ieși din aplicație?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Mediul de dezvoltare poate continua să ruleze în fundal. Reveniți mai târziu de la notificare.</string>
+    <string name="native_814a8fb24b62" formatted="false">Ieși din spațiul de lucru actual?</string>
+    <string name="native_a76464945c2d" formatted="false">De asemenea, opriți mediul de dezvoltare</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Ieșire</string>
+    <string name="native_b00143b08ff1" formatted="false">Stație de lucru de dezvoltare gata</string>
+    <string name="native_51bca456a350" formatted="false">Stația dvs. de lucru de dezvoltare Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">Alergă</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Pornire</string>
+    <string name="native_44da7f6a451d" formatted="false">Oprire</string>
+    <string name="native_b7e1503a7239" formatted="false">Reparați mediul de dezvoltare</string>
+    <string name="native_7c91bd67ff14" formatted="false">Instalați mediul de dezvoltare</string>
+    <string name="native_cfd73bb04860" formatted="false">Opriți mediul</string>
+    <string name="native_e7ec95694dce" formatted="false">Porniți OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Verificați mediul</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Actualizați instrumentele pentru dezvoltatori Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Salvarea mediului anterioară, proiectele și datele sesiunii sunt păstrate.</string>
+    <string name="native_eb3114155716" formatted="false">Instalați/actualizați serverele de limbă</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) și Python (pylsp), instalate online din depozitele Debian semnate. Opriți mai întâi OpenCode și desktopul.</string>
+    <string name="native_2c7251cce661" formatted="false">Atingeți butonul plutitor pentru a comuta între pagini. Trageți-l pentru a-l repoziționa.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Informațiile despre runtime apar aici după pornire.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Versiune APK inclusă</string>
+    <string name="native_e6b986511faf" formatted="false">Actualizări OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Importați un .ocaupdate semnat de editorul acestei aplicații. Actualizarea oficială a frontului și a backend-ului împreună.</string>
+    <string name="native_8aad48b0508d" formatted="false">Sursă de actualizare (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Verificați sursa de actualizare</string>
+    <string name="native_f73973cfadbb">Versiune semnată: %1$s\nAngajare: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Descărcați și verificați</string>
+    <string name="native_f2ef7965bf12" formatted="false">Selectați pachetul de actualizare</string>
+    <string name="native_165111adfe2c">Gata de instalare: %1$s\nAngajare: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Instalați această actualizare</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Restaurați versiunea și sesiunile de înainte de actualizare</string>
+    <string name="native_6864335de653" formatted="false">Anulați actualizarea</string>
+    <string name="native_5e3472cf084e" formatted="false">Instalați actualizarea OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Restabiliți starea de dinainte de actualizare?</string>
+    <string name="native_11beb4a42abc">Instalați %1$s. Aplicația salvează un instantaneu de sesiune, verifică programul semnat și restaurează versiunea anterioară dacă nu reușește. Fișierele proiectului sunt păstrate.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sesiunile revin la starea lor înainte de această actualizare. Sesiunile mai recente rămân într-o copie de rezervă privată. Fișierele proiectului sunt păstrate.</string>
+    <string name="native_def5e273616d" formatted="false">Confirmați instalarea</string>
+    <string name="native_369d2eefccde" formatted="false">Nu s-au putut izola datele de previzualizare ale browserului. Redeschideți previzualizarea.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Nu s-a putut încărca pagina proiectului. Verificați serverul de dezvoltare din terminalul dvs.</string>
+    <string name="native_6e7408950cf5" formatted="false">Previzualizează site-ul web al proiectului</string>
+    <string name="native_bfb4951e071d" formatted="false">Previzualizarea proiectului</string>
+    <string name="native_f80652913d06" formatted="false">Porniți un server de dezvoltare în terminal, apoi introduceți portul local. Previzualizarea datelor din browser sunt izolate de OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Introduceți un port de dezvoltare de la 1024 la 65535, excluzând OpenCode și serviciile desktop.</string>
+    <string name="native_7311a9dfea51" formatted="false">Nu se aude nimic pe acest port. Verificați serviciul în terminalul dvs.</string>
+    <string name="native_4f8d84105475" formatted="false">Se verifică...</string>
+    <string name="native_4923c272b68e" formatted="false">Portul de dezvoltare trebuie să fie un număr întreg</string>
+    <string name="native_04a87026e81f" formatted="false">Alegeți un port de dezvoltare a proiectului valid</string>
+    <string name="native_a8a305819e54" formatted="false">Sesiune de dezvoltare OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Instalarea mediului de dezvoltare</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Actualizare Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Repararea mediului de dezvoltare</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Verificarea mediului de dezvoltare</string>
+    <string name="native_9612d4419bb6" formatted="false">Instalare server de limbă</string>
+    <string name="native_f72fba77f87a" formatted="false">Recuperarea mediului</string>
+    <string name="native_7c8162195c7c" formatted="false">Instalare desktop</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Executarea anterioară a fost întreruptă. Reporniți în mod explicit din Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">O sarcină de dezvoltare de acest tip încă rulează</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Repararea înregistrării activității</string>
+    <string name="native_b66749ed72ea" formatted="false">Proces a ieșit</string>
+    <string name="native_6b25042064e2" formatted="false">Terminat prin semnal</string>
+    <string name="native_d6febdf1752b" formatted="false">Recuperat din cauza memoriei reduse</string>
+    <string name="native_1d13790f3c89" formatted="false">Prădere aplicație</string>
+    <string name="native_28db94d1850d" formatted="false">Avarie proces nativ</string>
+    <string name="native_86919539f7f1" formatted="false">Aplicația nu răspunde</string>
+    <string name="native_90fb8d6098a5" formatted="false">Inițializarea a eșuat</string>
+    <string name="native_38c60ab6654c" formatted="false">Permisiunile au fost modificate</string>
+    <string name="native_6d2a6c71334d" formatted="false">Limită de resurse</string>
+    <string name="native_19b2090b01a8" formatted="false">Oprire cerută de utilizator</string>
+    <string name="native_120d96445f1a" formatted="false">Oprit de utilizator</string>
+    <string name="native_3c8af14f66bc" formatted="false">Proces dependent ieșit</string>
+    <string name="native_ca0941ce04ae" formatted="false">Alt motiv de sistem</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Proces de congelare</string>
+    <string name="native_0d48373023a8" formatted="false">Starea aplicației s-a schimbat</string>
+    <string name="native_c752307db26b" formatted="false">Actualizare aplicație</string>
+    <string name="native_b5015951cbdf" formatted="false">Sistemul nu a furnizat un motiv de ieșire</string>
+    <string name="native_b62737b826ad">Ieșire din sistem (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nu s-a putut deschide directorul proiectului</string>
+    <string name="native_faf5d983c13e" formatted="false">Nu s-a putut crea o sesiune OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">Directorul de sesiune OpenCode nu se potrivește</string>
+    <string name="native_ac19736908a2" formatted="false">Nu s-a putut citi sesiunea OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Întreținerea mediului</string>
+    <string name="native_f992d735d932" formatted="false">Opriți OpenCode, terminale și desktopul Debian, apoi așteptați ca operațiunile cu fișiere să se termine</string>
+    <string name="native_489f137f1080" formatted="false">Blocarea pentru întreținerea mediului nu mai este valabilă</string>
+    <string name="native_42380e2567fc" formatted="false">Operație întreruptă recuperată. Redeschideți spațiul de lucru.</string>
+    <string name="native_17b00cac2b91" formatted="false">Recuperarea conexiunii locale a eșuat. Reîncercați din Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Întreținerea mediului este în desfășurare. Reîncercați mai târziu.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Opriți desktopul Debian înainte de a actualiza mediul de dezvoltare</string>
+    <string name="native_548085b144c9" formatted="false">Operație întreruptă recuperată. Puteți porni mediul de dezvoltare.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Executarea anterioară a fost întreruptă. Comenzile terminalului nu se vor reda automat. Reporniți în mod explicit din Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Curățarea temporară a configurației conexiunii este incompletă. Curățarea procesului a continuat.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nu s-a putut crea spațiul de lucru helloworld. Verificați directorul și spațiul disponibil.</string>
+    <string name="native_68301868225a" formatted="false">Directorul anterior al spațiului de lucru nu este disponibil. S-a deschis helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Proiectul implicit nu este încă gata. Reîncercați din Fișiere.</string>
+    <string name="native_45d6ab452622" formatted="false">Instalați servere de limbă</string>
+    <string name="native_9793c4a83295" formatted="false">Serverele de limbaj C/C++ și Python sunt gata. Porniți OpenCode pentru a utiliza LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Înregistrarea activității terminalului nu a fost salvată. Creați un nou terminal după terminarea procesului.</string>
+    <string name="native_1978b311a9ff" formatted="false">Nu s-a putut finaliza salvarea înregistrării de ieșire a terminalului.</string>
+    <string name="native_66dee11c3194" formatted="false">Descărcare actualizare OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Se conectează la sursa de actualizare...</string>
+    <string name="native_8c39baf28e08" formatted="false">Nu se poate conecta la sursa de actualizare. Verificați rețeaua, semnătura editorului, versiunea gazdă și spațiul liber.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Descărcarea a expirat</string>
+    <string name="native_f75850093535">Descărcare: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Se verifică semnătura editorului...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Se descarcă pachetul de actualizare...</string>
+    <string name="native_2f9cd52dc66a">Semnătură validă a editorului: %1$s. Verificați înainte de descărcare.</string>
+    <string name="native_17548865632c" formatted="false">Descărcați, lansați metadatele și semnătura pachetului verificată. Confirmați instalarea.</string>
+    <string name="native_180cec958e7a" formatted="false">Descărcare anulată. Versiunea originală păstrată.</string>
+    <string name="native_8df045f8ac12" formatted="false">Descărcarea s-a oprit. Versiunea originală păstrată.</string>
+    <string name="native_778803f1c6bb" formatted="false">Anulați descărcarea</string>
+    <string name="native_2958898ce6f4" formatted="false">Noua versiune a eșuat verificările locale de pornire, versiune sau autentificare. Versiunea anterioară va fi restaurată.</string>
+    <string name="native_cc876dfbb261" formatted="false">Procesul de încercare încă se încheie. Așteptați recuperarea înainte de a reîncerca.</string>
+    <string name="native_adf977dcb47e" formatted="false">Identificator de înregistrare de actualizare nevalid</string>
+    <string name="native_5207cac670b7" formatted="false">Dimensiunea OpenCode autonomă instalată nu se potrivește</string>
+    <string name="native_cf5b81887589" formatted="false">Suma de verificare OpenCode autonomă instalată nu se potrivește. Restaurați versiunea anterioară.</string>
+    <string name="native_393049b506cc" formatted="false">Programul original nu are nicio dovadă de editor. Stare anterioară neschimbată.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Recuperați mai întâi actualizarea anterioară întreruptă</string>
+    <string name="native_91d8da5525fa" formatted="false">Pachetul de actualizare sa schimbat după confirmare</string>
+    <string name="native_093f2c091a30" formatted="false">Stocare insuficientă. Versiunea originală neschimbată.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Nicio copie de rezervă pentru actualizare nu este disponibilă pentru restaurare</string>
+    <string name="native_a9f4d9903c14" formatted="false">Backup-ul nu se potrivește cu versiunea de rulare</string>
+    <string name="native_6caa23763a42" formatted="false">Verificarea programului anterior a eșuat. Sesiunile curente neschimbate.</string>
+    <string name="native_c8b71b876695" formatted="false">O actualizare ulterioară APK sau Debian a înlocuit programul inclus. Backup-ul original al sesiunii este păstrat; restaurați mai întâi programul corespunzător.</string>
+    <string name="native_c443df40964b" formatted="false">Operație de recuperare a actualizării nevalidă</string>
+    <string name="native_9071f05d58b3" formatted="false">Se pregătește actualizarea OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">Opriți OpenCode, terminale și desktop, apoi așteptați ca acestea să iasă.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Salvarea stării, verificarea programelor și schimbarea versiunilor</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nu s-a putut porni serviciul de întreținere a actualizării.</string>
+    <string name="native_f7b560c8c820" formatted="false">Se verifică și se pune în scenă programul oficial...</string>
+    <string name="native_9606191c82dc" formatted="false">Se păstrează programul original și semnătura editorului...</string>
+    <string name="native_5c0d7787ee51" formatted="false">Se salvează instantaneul stării sesiunii...</string>
+    <string name="native_0c8cf4632889" formatted="false">Schimbarea versiunilor și verificarea serviciului local...</string>
+    <string name="native_3e81ea691a4a" formatted="false">Se restabilește versiunea și sesiunile dinainte de actualizare...</string>
+    <string name="native_856de41d3bf3" formatted="false">Restaurarea OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Se actualizează OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">S-au restaurat versiunea și sesiunile anterioare. Sesiunile mai recente rămân într-o copie de rezervă privată.</string>
+    <string name="native_07367ff18068" formatted="false">Actualizare OpenCode finalizată. Pornirea va folosi interfața și backend-ul oficial corespunzătoare.</string>
+    <string name="native_4693930f5802" formatted="false">Actualizare anulată. Confirmarea faptului că starea inițială a fost restabilită.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Actualizare incompletă. Recuperarea acum; backup-urile originale ale programului și ale sesiunii sunt păstrate.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Recuperarea este incompletă. Toate directoarele de stat sunt păstrate. Păstrați-vă datele și încercați din nou pornirea pentru a le recupera.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Recuperarea sesiunii a fost finalizată. Starea mai recentă rămâne într-o copie de rezervă.</string>
+    <string name="native_67c08a2911e1" formatted="false">Recuperarea nu a putut continua cu acest program de rezervă sau original. Sesiunile curente și copiile de rezervă neschimbate.</string>
+    <string name="native_976d8c169cfa" formatted="false">Actualizare anulată sau eșuată. Versiunea originală și sesiunile restaurate.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Se verifică semnătura și integritatea pachetului de actualizare...</string>
+    <string name="native_0aa018b7337b" formatted="false">Nu se poate citi fișierul selectat</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Pachetul de actualizare este prea mare</string>
+    <string name="native_f068b83f40bf" formatted="false">Semnătură și pachet verificat. Verificați versiunea înainte de instalare.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nu se poate importa: fișier nevalid, semnătură nepotrivită, versiune gazdă incompatibilă sau stocare insuficientă.</string>
+    <string name="native_616412e65df4" formatted="false">Programul oficial nu se potrivește cu dovada editorului</string>
+    <string name="native_4bf19a158f27" formatted="false">Pachetele de rulare autonome acceptă numai ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Semnătura actualizării nu aparține acestui APK</string>
+    <string name="native_c7273354727f" formatted="false">Fișierul de actualizare depășește dimensiunea declarată</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Suma de verificare a programului de actualizare nu se potrivește</string>
+    <string name="native_dd619076d456" formatted="false">Dimensiunea pachetului de actualizare nevalidă</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Dimensiunea pachetului de actualizare comprimată nu se potrivește</string>
+    <string name="native_1de24edffcf5" formatted="false">Pachetul de actualizare conține intrări suplimentare</string>
+    <string name="native_c5b339aa77e8" formatted="false">Origine sau arhitectură de actualizare incompatibilă</string>
+    <string name="native_89d585f3661f" formatted="false">Actualizați aplicația Android înainte de a instala această actualizare</string>
+    <string name="native_800df084dea0" formatted="false">Suma de verificare a arhivei de actualizare nu se potrivește</string>
+    <string name="native_ddf1a005e310" formatted="false">Acest format de semnare APK nu acceptă actualizări de rulare independente</string>
+    <string name="native_172e063db474" formatted="false">Intrare nevalidă în pachetul de actualizare</string>
+    <string name="native_1c08780aa99f" formatted="false">Metadatele de actualizare trebuie să utilizeze numere întregi</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Programul de actualizare nu este un Linux ELF pe 64 de biți</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Programul de actualizare nu îndeplinește alinierea ELF de 16 KiB</string>
+    <string name="native_3afa3741911b" formatted="false">Programului de actualizare lipsește încărcătorul Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Introduceți o sursă de actualizare HTTPS validă</string>
+    <string name="native_c274c7dd5900" formatted="false">Sursele de actualizare necesită adrese URL HTTPS fără acreditări de utilizator</string>
+    <string name="native_f459f5ec9dac" formatted="false">Câmp sursă de actualizare nevalid</string>
+    <string name="native_bde2a736e30a" formatted="false">Mai întâi faceți upgrade la gazda Android</string>
+    <string name="native_b980fd021bef" formatted="false">Director de actualizare nevalid</string>
+    <string name="native_c0e96727553e" formatted="false">Fișier de actualizare nevalid</string>
+    <string name="native_86ff542c68ed" formatted="false">Nu se pot schimba directoarele de actualizare în această stare</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Starea sesiunii se referă la un director extern. Actualizarea nu poate fi testată în siguranță.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Stocare insuficientă. Stare inițială neschimbată.</string>
+    <string name="native_099801d672b1" formatted="false">Descărcare anulată</string>
+    <string name="native_f1304f707ec9" formatted="false">Prea multe redirecționări de actualizare</string>
+    <string name="native_0d07f458b607" formatted="false">Serverul de actualizare nu a transferat octeții originali</string>
+    <string name="native_de331dfd8908" formatted="false">Lungimea fișierului de actualizare nu se potrivește</string>
+    <string name="native_416b8c87e69e" formatted="false">Fișierul de actualizare nu a fost descărcat complet</string>
+    <string name="native_e1e74b76c427" formatted="false">Serverul de actualizare nu a returnat fișierul complet</string>
+    <string name="native_6afcf03cb130" formatted="false">Spațiu insuficient de pregătire a actualizării</string>
+    <string name="native_be1c695d9241" formatted="false">Fișierul de actualizare SHA-256 nu se potrivește</string>
+    <string name="native_a0133d117bb0" formatted="false">Pachetul de actualizare nu se potrivește cu informațiile de lansare confirmate</string>
+    <string name="native_8635a43ce28a" formatted="false">Director proiect nevalid</string>
+    <string name="native_d32ab8b004e6" formatted="false">Nu s-a putut salva locația spațiului de lucru</string>
+    <string name="native_43a5447014fd" formatted="false">Porniți mediul de dezvoltare din Runtime înainte de a deschide un terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Terminal nou</string>
+    <string name="native_b3b7108a568f" formatted="false">Închidere curent</string>
+    <string name="native_0e822affd5da">Director inițial: %1$s</string>
+    <string name="native_72d769e3888d">Director nou terminal: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Selectorul de fișiere de sistem nu este disponibil</string>
+    <string name="native_179a57921f91" formatted="false">Setări de randare WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Viteza de redare a cadrelor</string>
+    <string name="native_55b6d7f645f3" formatted="false">Prefer 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Urmăriți rata de reîmprospătare a afișajului</string>
+    <string name="native_d4ecf38c341d" formatted="false">Preferați 60 Hz pentru a reduce sarcina de redare pe afișajele cu rată mare de reîmprospătare. Urmărirea afișajului permite programării cadrelor sistemului. Se aplică numai pentru fereastra acestei aplicații.</string>
+    <string name="native_bf0d3a407418" formatted="false">Nu este instalat</string>
+    <string name="native_2fb8edc75b25" formatted="false">Gata</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Se verifică încărcătorul</string>
+    <string name="native_d1017c1eac80" formatted="false">Instalarea Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Mediu de dezvoltare locală</string>
+    <string name="native_55aa84065de2" formatted="false">Sesiune de dezvoltare locală Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">Oprire</string>
+    <string name="native_5f73a4e1e494" formatted="false">Instalat</string>
+    <string name="native_147e90d2ec02" formatted="false">Recuperare</string>
+</resources>

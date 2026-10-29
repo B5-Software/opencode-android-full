@@ -1,0 +1,3308 @@
+[
+  {
+    "file": "debian/pool/main/libt/libtext-charwidth-perl/libtext-charwidth-perl_0.04-11+b4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libt/libtext-charwidth-perl/libtext-charwidth-perl_0.04-11+b4_arm64.deb",
+    "size": 9652,
+    "sha256": "72a9c2131b8dc3a124b778d1e7a606201388bf20203f12b571f4ea58ee362880"
+  },
+  {
+    "file": "debian/pool/main/libt/libtext-wrapi18n-perl/libtext-wrapi18n-perl_0.06-10_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libt/libtext-wrapi18n-perl/libtext-wrapi18n-perl_0.06-10_all.deb",
+    "size": 8808,
+    "sha256": "17f98c7c09af8ac3bdbfd5a5dad32f3f51c71b02cdfc411366f49092a395de85"
+  },
+  {
+    "file": "debian/pool/main/n/ncurses/libncursesw6_6.5+20250216-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/ncurses/libncursesw6_6.5+20250216-2_arm64.deb",
+    "size": 124048,
+    "sha256": "72121aeb08be2d915da321ddfae74f62a0764286f336279b2c2609ba07496d6d"
+  },
+  {
+    "file": "debian/pool/main/p/procps/libproc2-0_4.0.4-9_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/procps/libproc2-0_4.0.4-9_arm64.deb",
+    "size": 62752,
+    "sha256": "e81069b58fe82223c71fcd74c760cb0fd3b0e61792fbaf2e5675fd948dc16dba"
+  },
+  {
+    "file": "debian/pool/main/p/procps/procps_4.0.4-9_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/procps/procps_4.0.4-9_arm64.deb",
+    "size": 871348,
+    "sha256": "9afd4ad2e8da92322715114fb9555c63ce92f6c72bf72867e76ab2d6a7a3b541"
+  },
+  {
+    "file": "debian/pool/main/s/sensible-utils/sensible-utils_0.0.25_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/s/sensible-utils/sensible-utils_0.0.25_all.deb",
+    "size": 24992,
+    "sha256": "873a9b73c3478cc3148cdbf5cc2084949a0a8e4fa16131d1cbc895d2f1f3470e"
+  },
+  {
+    "file": "debian/pool/main/u/ucf/ucf_3.0052_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/u/ucf/ucf_3.0052_all.deb",
+    "size": 43296,
+    "sha256": "ab5a6d5a621ad07034ce29d0c2587e6e267ecd2975458b2c8a7d0ada77dcb95b"
+  },
+  {
+    "file": "debian/pool/main/e/elfutils/libdebuginfod-common_0.192-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/e/elfutils/libdebuginfod-common_0.192-4_all.deb",
+    "size": 23700,
+    "sha256": "3c775d164b26fc5e8fb1a3606b3de99875cf8ee6e2d9a90018c4d82de2d47f7b"
+  },
+  {
+    "file": "debian-security/pool/updates/main/e/expat/libexpat1_2.9.0-1~deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/e/expat/libexpat1_2.9.0-1~deb13u1_arm64.deb",
+    "size": 113920,
+    "sha256": "d9e1c50fcdad079fe16d77f1578adcc763be1bf7f2da7fa8adca7010b0c84c83"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/libpython3.13-minimal_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/libpython3.13-minimal_3.13.5-2+deb13u5_arm64.deb",
+    "size": 856328,
+    "sha256": "3655ef258b19142cf6fe38ef89731d5c630b2cf3309632494a720b28c1cfcd85"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/python3.13-minimal_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/python3.13-minimal_3.13.5-2+deb13u5_arm64.deb",
+    "size": 2008016,
+    "sha256": "95237a3ad99bf9366308e16f7c79449c9371c4cff9c883772fb7c254652467eb"
+  },
+  {
+    "file": "debian/pool/main/p/python3-defaults/python3-minimal_3.13.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3-defaults/python3-minimal_3.13.5-1_arm64.deb",
+    "size": 27244,
+    "sha256": "b1dff61d3e68c83c747b03399356ba707d491bcaf6e495b575d46be3143cdec8"
+  },
+  {
+    "file": "debian/pool/main/m/media-types/media-types_13.0.0_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/media-types/media-types_13.0.0_all.deb",
+    "size": 29336,
+    "sha256": "0788e4b0b72db1bcf74a19cb24c3511e7770ad0b341f0f30e361701c3072f53e"
+  },
+  {
+    "file": "debian/pool/main/n/netbase/netbase_6.5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/netbase/netbase_6.5_all.deb",
+    "size": 12436,
+    "sha256": "76bafa92947ebd37b0a6f9ec6570412041f56edebc1c66d323731216d318471e"
+  },
+  {
+    "file": "debian/pool/main/libf/libffi/libffi8_3.4.8-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libf/libffi/libffi8_3.4.8-2_arm64.deb",
+    "size": 21260,
+    "sha256": "d84a783b818f2386627604e64b793eb4ac5bb9ea1ba321a194a1c9c82fe09a01"
+  },
+  {
+    "file": "debian/pool/main/r/readline/readline-common_8.2-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/readline/readline-common_8.2-6_all.deb",
+    "size": 69360,
+    "sha256": "f77e8aa0bf0de618f11cb0b21658a4ed60f177d63b3cf26d7fc3706b6d0eaaa9"
+  },
+  {
+    "file": "debian/pool/main/r/readline/libreadline8t64_8.2-6_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/readline/libreadline8t64_8.2-6_arm64.deb",
+    "size": 159264,
+    "sha256": "f78ff432b2a627bc04f7eef0e6e2696501c9e06feca748a5b741d5e594429033"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/libpython3.13-stdlib_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/libpython3.13-stdlib_3.13.5-2+deb13u5_arm64.deb",
+    "size": 1894712,
+    "sha256": "d1178d24e4d143cc6c577d9dc0f26dd982efccc2e600d25ce86361f168a22be0"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/python3.13_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/python3.13_3.13.5-2+deb13u5_arm64.deb",
+    "size": 757492,
+    "sha256": "3d027394c6afd08a2663c3da588824aa9ee0c54e3c2b4382bb9f644584bc99a1"
+  },
+  {
+    "file": "debian/pool/main/p/python3-defaults/libpython3-stdlib_3.13.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3-defaults/libpython3-stdlib_3.13.5-1_arm64.deb",
+    "size": 10180,
+    "sha256": "0e5b09b3c90f34399a357c32e1be08a3f31b39d3c615464f00354b309f82e732"
+  },
+  {
+    "file": "debian/pool/main/p/python3-defaults/python3_3.13.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3-defaults/python3_3.13.5-1_arm64.deb",
+    "size": 28244,
+    "sha256": "8d5be256bf3bb4f07afce1aa86f0595c6939e1a6c2ea939bdcb7b36351cbe021"
+  },
+  {
+    "file": "debian/pool/main/a/adduser/adduser_3.152_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/a/adduser/adduser_3.152_all.deb",
+    "size": 190932,
+    "sha256": "e50984d2e1ef6300e3fd51303839842189a077b10cb5cadff1923df10c61c493"
+  },
+  {
+    "file": "debian/pool/main/l/less/less_668-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/less/less_668-1_arm64.deb",
+    "size": 156476,
+    "sha256": "dbce2dd7c649fc7a4273f173c8260fc595b05c56cc2ea859298fbb96d6749fed"
+  },
+  {
+    "file": "debian/pool/main/n/nano/nano_8.4-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/nano/nano_8.4-1+deb13u1_arm64.deb",
+    "size": 636080,
+    "sha256": "b82e53bd61cfedc848e4582837b5c7ea9dabf25ad263e3d98a69ef8858bb6e8b"
+  },
+  {
+    "file": "debian/pool/main/v/vim/vim-common_9.1.1230-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/v/vim/vim-common_9.1.1230-2_all.deb",
+    "size": 420760,
+    "sha256": "bcf7e3e675cbc4eed1f444ea3a6dfbf420eae141615b0d35cee24cf23e18aa18"
+  },
+  {
+    "file": "debian/pool/main/v/vim/vim-tiny_9.1.1230-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/v/vim/vim-tiny_9.1.1230-2_arm64.deb",
+    "size": 708888,
+    "sha256": "1b2c9db8269961cdb55ab4c1e91994013a33825bc6d5d5d40a5f6136a8687992"
+  },
+  {
+    "file": "debian/pool/main/b/bzip2/bzip2_1.0.8-6_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/bzip2/bzip2_1.0.8-6_arm64.deb",
+    "size": 39492,
+    "sha256": "9fa8514c3fb3f363e7fa8bc85f699aaf15e747afaf220c57b978e9b74fd568bc"
+  },
+  {
+    "file": "debian-security/pool/updates/main/o/openssl/openssl_3.5.7-1~deb13u3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/o/openssl/openssl_3.5.7-1~deb13u3_arm64.deb",
+    "size": 1472692,
+    "sha256": "68f226057a7a1c1f23e2ffde0075ea16e27e646d829c8d3c63414c49b839c258"
+  },
+  {
+    "file": "debian-security/pool/updates/main/c/ca-certificates/ca-certificates_20250419+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/c/ca-certificates/ca-certificates_20250419+deb13u1_all.deb",
+    "size": 160720,
+    "sha256": "c10585ac22c7f617a73d394eea29ba71d0356f350ae973b19043d1b017f80f54"
+  },
+  {
+    "file": "debian/pool/main/f/file/libmagic-mgc_5.46-5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/f/file/libmagic-mgc_5.46-5_arm64.deb",
+    "size": 337800,
+    "sha256": "3b09b5391373b137ea8c881fafdf708d621816c27cd546edaaf559204490ab5d"
+  },
+  {
+    "file": "debian/pool/main/f/file/libmagic1t64_5.46-5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/f/file/libmagic1t64_5.46-5_arm64.deb",
+    "size": 103244,
+    "sha256": "c37244e188d63139b0e7d175a1d8e81253a6b505dac7b5c14e2fd9142f1f5672"
+  },
+  {
+    "file": "debian/pool/main/f/file/file_5.46-5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/f/file/file_5.46-5_arm64.deb",
+    "size": 43660,
+    "sha256": "6160ce90e6246a12eb644685dde480d6d7383bb733fa3b3e16b171348d05ba26"
+  },
+  {
+    "file": "debian/pool/main/libe/libedit/libedit2_3.1-20250104-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libe/libedit/libedit2_3.1-20250104-1_arm64.deb",
+    "size": 89296,
+    "sha256": "496c31df89fac9cb7e98102fcc21daf887376dcd9914f6322c86dd5bd4360ff1"
+  },
+  {
+    "file": "debian/pool/main/libc/libcbor/libcbor0.10_0.10.2-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libc/libcbor/libcbor0.10_0.10.2-2_arm64.deb",
+    "size": 27372,
+    "sha256": "5e129095192ff766884e5ed13260644e510d20ed6b4facc47809bf2cb630117d"
+  },
+  {
+    "file": "debian/pool/main/libf/libfido2/libfido2-1_1.15.0-1+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libf/libfido2/libfido2-1_1.15.0-1+b1_arm64.deb",
+    "size": 74348,
+    "sha256": "510f81957f2905c57d3d8681c3ed9bf68a17bfb254d721a578c88edd8158477c"
+  },
+  {
+    "file": "debian/pool/main/k/krb5/libkrb5support0_1.21.3-5+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/k/krb5/libkrb5support0_1.21.3-5+deb13u1_arm64.deb",
+    "size": 32508,
+    "sha256": "6381bcb54e58854f9ebac2dfa580c3d6112d01b4ca3f725e7263b9374f79608e"
+  },
+  {
+    "file": "debian/pool/main/e/e2fsprogs/libcom-err2_1.47.2-3+b12_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/e/e2fsprogs/libcom-err2_1.47.2-3+b12_arm64.deb",
+    "size": 24932,
+    "sha256": "1acba7e14a17a3f4b8008454e1a75840a5cdff4259d3c1d369092d82089ea0d8"
+  },
+  {
+    "file": "debian/pool/main/k/krb5/libk5crypto3_1.21.3-5+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/k/krb5/libk5crypto3_1.21.3-5+deb13u1_arm64.deb",
+    "size": 81416,
+    "sha256": "2453e8d4fa3b91b868d5bc10e84a15ad9c7bc4e4cb49379cb1f560bdce50db4a"
+  },
+  {
+    "file": "debian/pool/main/k/keyutils/libkeyutils1_1.6.3-6_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/k/keyutils/libkeyutils1_1.6.3-6_arm64.deb",
+    "size": 9716,
+    "sha256": "5e680f317a6613161986417fb3ed63007c9228343f5ac2348551b103cc7fd7b4"
+  },
+  {
+    "file": "debian/pool/main/k/krb5/libkrb5-3_1.21.3-5+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/k/krb5/libkrb5-3_1.21.3-5+deb13u1_arm64.deb",
+    "size": 308256,
+    "sha256": "1f5c46480abf894f662d894696c8a6c6510c2b20616cd453e88b27b11d3be25d"
+  },
+  {
+    "file": "debian/pool/main/k/krb5/libgssapi-krb5-2_1.21.3-5+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/k/krb5/libgssapi-krb5-2_1.21.3-5+deb13u1_arm64.deb",
+    "size": 127624,
+    "sha256": "70803e8f5b9dd0a7167671bdd0b3cd05642384c1fc49e8270d340d85bf6c7d4c"
+  },
+  {
+    "file": "debian/pool/main/o/openssh/openssh-client_10.0p1-7+deb13u4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/o/openssh/openssh-client_10.0p1-7+deb13u4_arm64.deb",
+    "size": 926832,
+    "sha256": "e900c13c9a5267714fc2c2c1f369fe4a667c7dd4031266b1480250320f0bfcfb"
+  },
+  {
+    "file": "debian/pool/main/p/perl/perl-modules-5.40_5.40.1-6+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/perl/perl-modules-5.40_5.40.1-6+deb13u1_all.deb",
+    "size": 3013728,
+    "sha256": "4c46cdd8f3135aa1c95f07e817f8e5d9be590687441ac1c27e3a8c49400f35ce"
+  },
+  {
+    "file": "debian/pool/main/g/gdbm/libgdbm6t64_1.24-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gdbm/libgdbm6t64_1.24-2_arm64.deb",
+    "size": 74028,
+    "sha256": "329efe726e24a413b9933e298ce24d255973ec111eea0ca721157968fd24156a"
+  },
+  {
+    "file": "debian/pool/main/g/gdbm/libgdbm-compat4t64_1.24-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gdbm/libgdbm-compat4t64_1.24-2_arm64.deb",
+    "size": 50320,
+    "sha256": "266b9a9e8d1ecc4393ebd29bec7e7c0fe1505b1d8755033af9e15df161316627"
+  },
+  {
+    "file": "debian/pool/main/p/perl/libperl5.40_5.40.1-6+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/perl/libperl5.40_5.40.1-6+deb13u1_arm64.deb",
+    "size": 4137968,
+    "sha256": "b3cf688efb6096b2f3d95e96ad5b216602146ad11f792c1f3b2f66b5556241d9"
+  },
+  {
+    "file": "debian/pool/main/p/perl/perl_5.40.1-6+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/perl/perl_5.40.1-6+deb13u1_arm64.deb",
+    "size": 267732,
+    "sha256": "7f15c34267346a0da41b9fe36d509d70dfb8d39561d275c4f4c53d429290f6d2"
+  },
+  {
+    "file": "debian/pool/main/libu/libunistring/libunistring5_1.3-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libu/libunistring/libunistring5_1.3-2_arm64.deb",
+    "size": 452856,
+    "sha256": "4847467a0e47039837895e88f5a99a4a86a3d8266be40c3c896fc7c10d552dc7"
+  },
+  {
+    "file": "debian/pool/main/libi/libidn2/libidn2-0_2.3.8-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libi/libidn2/libidn2-0_2.3.8-2_arm64.deb",
+    "size": 107232,
+    "sha256": "d2e5cef812f15db1eeb35f0a193158ee102a9e94284036c0e293521f2761d2d7"
+  },
+  {
+    "file": "debian/pool/main/p/p11-kit/libp11-kit0_0.25.5-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/p11-kit/libp11-kit0_0.25.5-3_arm64.deb",
+    "size": 409108,
+    "sha256": "78bfc746e68a5217e845f488f69100ed89d10c8886fbd3ffce937acb6a7d88fb"
+  },
+  {
+    "file": "debian/pool/main/libt/libtasn1-6/libtasn1-6_4.20.0-2+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libt/libtasn1-6/libtasn1-6_4.20.0-2+deb13u1_arm64.deb",
+    "size": 47304,
+    "sha256": "e421da949cd26245f24c594265d6a01900b5e060e80793f68b977f7bfaa009ef"
+  },
+  {
+    "file": "debian/pool/main/g/gnutls28/libgnutls30t64_3.8.9-3+deb13u4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gnutls28/libgnutls30t64_3.8.9-3+deb13u4_arm64.deb",
+    "size": 1378804,
+    "sha256": "337ef41ab360015d051d6a07f85f8aa6706b35712e3dea23157eba9c902196e2"
+  },
+  {
+    "file": "debian/pool/main/libp/libpsl/libpsl5t64_0.21.2-1.1+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libp/libpsl/libpsl5t64_0.21.2-1.1+b1_arm64.deb",
+    "size": 57076,
+    "sha256": "7ea03d8a7d16edce7b1b1e94980c058c0f1fb3c595eb9154b0e8590d0e7f75af"
+  },
+  {
+    "file": "debian/pool/main/w/wget/wget_1.25.0-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/w/wget/wget_1.25.0-2_arm64.deb",
+    "size": 970348,
+    "sha256": "b5232cda342e4b6d6f5ebf309d4b1639e722837dd9fa0574997029302288c43b"
+  },
+  {
+    "file": "debian-security/pool/updates/main/x/xz-utils/xz-utils_5.8.1-1+deb13u2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/x/xz-utils/xz-utils_5.8.1-1+deb13u2_arm64.deb",
+    "size": 657952,
+    "sha256": "d2151cc127dfc9948255ed40c271ff0683d9cf9553933a8b94cb29068ab5e715"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/libsframe1_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/libsframe1_2.44-3_arm64.deb",
+    "size": 77772,
+    "sha256": "d4a90764fa79858347aaa3197bc4489404f005d9cdbea9b2ec75a607ea5ff518"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/binutils-common_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/binutils-common_2.44-3_arm64.deb",
+    "size": 2508772,
+    "sha256": "f2d6b7d0b5521c4c90fc105e32819cd5268c1aa69104173b3fb856595f898249"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/libbinutils_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/libbinutils_2.44-3_arm64.deb",
+    "size": 660392,
+    "sha256": "c51c0cc0272202d00fc3e6da8b96bfed2a428c239b689363abddd3bac6bd7a02"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/libgprofng0_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/libgprofng0_2.44-3_arm64.deb",
+    "size": 667648,
+    "sha256": "4642014c84f3d070d889725900fbd23165189597d45deddc7bdcf9928de9e32e"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/libctf-nobfd0_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/libctf-nobfd0_2.44-3_arm64.deb",
+    "size": 152088,
+    "sha256": "7b1894cbd09bd59507af259ba680a1f5d3b68c6ba9e5d69508ea2d75b3f01be6"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/libctf0_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/libctf0_2.44-3_arm64.deb",
+    "size": 84232,
+    "sha256": "12cb7df9eafd965c00c38a8720c5b78e7b0106390f69fe180a3b3589f407d550"
+  },
+  {
+    "file": "debian/pool/main/j/jansson/libjansson4_2.14-2+b3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/j/jansson/libjansson4_2.14-2+b3_arm64.deb",
+    "size": 39228,
+    "sha256": "7938472b1ddfa8b0c8f58d5f44406ae7a77a342dbb502a02f6bf292b4f853ab0"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/binutils-aarch64-linux-gnu_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/binutils-aarch64-linux-gnu_2.44-3_arm64.deb",
+    "size": 820124,
+    "sha256": "79cbf1459118bce3535133ffbf1fd2adbd57af65271f95c829af5cfa7f474168"
+  },
+  {
+    "file": "debian/pool/main/b/binutils/binutils_2.44-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/binutils/binutils_2.44-3_arm64.deb",
+    "size": 261580,
+    "sha256": "7228716cad15e78d1571f1cd4ec7141f64608790d0fbcba23a07f2eda6298272"
+  },
+  {
+    "file": "debian/pool/main/g/glibc/libc-dev-bin_2.41-12+deb13u4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/glibc/libc-dev-bin_2.41-12+deb13u4_arm64.deb",
+    "size": 59092,
+    "sha256": "cd4b3bdf404a01792003f4ca400bc602252ab24e0a8c53e45d474d1818dc02e3"
+  },
+  {
+    "file": "debian-security/pool/updates/main/l/linux/linux-libc-dev_6.12.113-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/l/linux/linux-libc-dev_6.12.113-1_all.deb",
+    "size": 3021244,
+    "sha256": "b2d475e01aaf0030c72bd3a0300d311f8be64aa9e82d82eae5da1a04f4010071"
+  },
+  {
+    "file": "debian/pool/main/libx/libxcrypt/libcrypt-dev_4.4.38-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libx/libxcrypt/libcrypt-dev_4.4.38-1_arm64.deb",
+    "size": 123160,
+    "sha256": "eec6d4658495cdb8ce505cad91e0918edb8086677f280f3851c07ccd70543054"
+  },
+  {
+    "file": "debian/pool/main/r/rpcsvc-proto/rpcsvc-proto_1.4.3-1+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rpcsvc-proto/rpcsvc-proto_1.4.3-1+b1_arm64.deb",
+    "size": 60468,
+    "sha256": "6ae3c216e6c7d8e042ad3f122b8aa89aff56b2b5174b1c5780a7841b3becd61c"
+  },
+  {
+    "file": "debian/pool/main/g/glibc/libc6-dev_2.41-12+deb13u4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/glibc/libc6-dev_2.41-12+deb13u4_arm64.deb",
+    "size": 1624488,
+    "sha256": "71e373cb5e9da975b02fb4af555929cb1977560e2dd8245de4eb8a7b03677a08"
+  },
+  {
+    "file": "debian/pool/main/i/isl/libisl23_0.27-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/i/isl/libisl23_0.27-1_arm64.deb",
+    "size": 600836,
+    "sha256": "21c490db3fa5f0a517c55090a199334da6164589772ebd922dff1e569c78515d"
+  },
+  {
+    "file": "debian/pool/main/m/mpfr4/libmpfr6_4.2.2-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/mpfr4/libmpfr6_4.2.2-1_arm64.deb",
+    "size": 685000,
+    "sha256": "628a4ef58cc6815880f72e9d3953984a379a017e4042bc575f1fcbf3954d79ac"
+  },
+  {
+    "file": "debian/pool/main/m/mpclib3/libmpc3_1.3.1-1+b3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/mpclib3/libmpc3_1.3.1-1+b3_arm64.deb",
+    "size": 50480,
+    "sha256": "d4cfe026a624e51641c80ef2af77387185714f62f3b5c87035e62d9ed8d9eec1"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/cpp-14-aarch64-linux-gnu_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/cpp-14-aarch64-linux-gnu_14.2.0-19_arm64.deb",
+    "size": 9168888,
+    "sha256": "8e588ac3efe06f7784b08feac584c70e6965b74c045bae7e4e80bb42938f7dbe"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/cpp-14_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/cpp-14_14.2.0-19_arm64.deb",
+    "size": 1276,
+    "sha256": "0b440241f7c3e2e87f2d0f1dd36792c4e2705d38a699ed331818799f21ef9437"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-defaults/cpp-aarch64-linux-gnu_14.2.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-defaults/cpp-aarch64-linux-gnu_14.2.0-1_arm64.deb",
+    "size": 4832,
+    "sha256": "bd9c9f4536a0aea285c4735d2dfedff624f8457b8f1bb3d15ab924e029cd7aff"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-defaults/cpp_14.2.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-defaults/cpp_14.2.0-1_arm64.deb",
+    "size": 1568,
+    "sha256": "88b702b0fa5942a4ee52c27f1ccf6316b831357e86693b709d216ba43348172e"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libcc1-0_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libcc1-0_14.2.0-19_arm64.deb",
+    "size": 42164,
+    "sha256": "f5e390b5fd65432b820afa403a61ab4d6286948fc07ca3aacb4d230a81f5c9a5"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libgomp1_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libgomp1_14.2.0-19_arm64.deb",
+    "size": 123520,
+    "sha256": "43e84cb7971d8a4d8870cab6204e998ea4f23ee1339bb0ff556dd881bac82d25"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libitm1_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libitm1_14.2.0-19_arm64.deb",
+    "size": 24192,
+    "sha256": "d6f0255b498af876ab7bf4420672e43cbe58dcd577f0711131cbfbcbee283cdb"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libatomic1_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libatomic1_14.2.0-19_arm64.deb",
+    "size": 10128,
+    "sha256": "7ccff90234484bf21ae5ecb79d25b6a84b2f4038f65dd139085b2e3a937cd8dc"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libasan8_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libasan8_14.2.0-19_arm64.deb",
+    "size": 2577836,
+    "sha256": "5621bd583a3390b45726a8eebe23601f7fad86a25193e5349976cbf17e2bc9ad"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/liblsan0_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/liblsan0_14.2.0-19_arm64.deb",
+    "size": 1161132,
+    "sha256": "488a54a5fe01a926ae16d73dc7ea9f530f1bf63fae73640f741695eec2541a38"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libtsan2_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libtsan2_14.2.0-19_arm64.deb",
+    "size": 2383440,
+    "sha256": "c767c05f3dade13b5780478366029f2ff32e44bea852c6a4d7a1f93f1363d3e3"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libubsan1_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libubsan1_14.2.0-19_arm64.deb",
+    "size": 1038924,
+    "sha256": "b5539003465ea1e60f66b9e3a1019da182e826c82d480944f3656b12351c74c8"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libhwasan0_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libhwasan0_14.2.0-19_arm64.deb",
+    "size": 1442000,
+    "sha256": "5a758db399fafd354b6488c4f250b7670fb1f61c31b4e4f329d0fbb750a17084"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libgcc-14-dev_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libgcc-14-dev_14.2.0-19_arm64.deb",
+    "size": 2358568,
+    "sha256": "64b8ebc7182a69aa9525df6eab5e7eb849b947e350d821549f8a8a3e9b19e5ba"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/gcc-14-aarch64-linux-gnu_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/gcc-14-aarch64-linux-gnu_14.2.0-19_arm64.deb",
+    "size": 17686496,
+    "sha256": "5ff736a332ba5d60ad463355ed25c8c39da1281acf9155cc2f8a55fc1d478be8"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/gcc-14_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/gcc-14_14.2.0-19_arm64.deb",
+    "size": 529264,
+    "sha256": "f4ba77903d7efc3c64c69a8a98c7efa8ea1ae4331521bb74abd76bcc43f1b576"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-defaults/gcc-aarch64-linux-gnu_14.2.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-defaults/gcc-aarch64-linux-gnu_14.2.0-1_arm64.deb",
+    "size": 1440,
+    "sha256": "c8390408ed90cc96d4fead68e313ed5ce147f1654807c23235818d535d2d7d7e"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-defaults/gcc_14.2.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-defaults/gcc_14.2.0-1_arm64.deb",
+    "size": 5136,
+    "sha256": "f543b52e29a6780a78c73cf08e551e8e524d623c1092c477cfd8beb5285a86f5"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libstdc++-14-dev_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libstdc++-14-dev_14.2.0-19_arm64.deb",
+    "size": 2294728,
+    "sha256": "8760122d044cd8eb8c69426311d6b5ce7bb8f0f76e9cda1944d153ae878138f8"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/g++-14-aarch64-linux-gnu_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/g++-14-aarch64-linux-gnu_14.2.0-19_arm64.deb",
+    "size": 10059100,
+    "sha256": "411dac8f1c1d0293e58deddeb170c641ad82c56d51a95f056ee12ba02c24288b"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/g++-14_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/g++-14_14.2.0-19_arm64.deb",
+    "size": 22540,
+    "sha256": "f4813643994aa96c527e687c9c7d01855aa5fdd86e63cc8bd05c63ecc9373796"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-defaults/g++-aarch64-linux-gnu_14.2.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-defaults/g++-aarch64-linux-gnu_14.2.0-1_arm64.deb",
+    "size": 1200,
+    "sha256": "655d9a7cb70b0342f5f1bf4f2a7b0241df15d49ab9a2567445c785b7592122f9"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-defaults/g++_14.2.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-defaults/g++_14.2.0-1_arm64.deb",
+    "size": 1332,
+    "sha256": "e4b8f8fae7c838c40b9db29251b152c9af03a4d4463388d69efdda66c4e97e79"
+  },
+  {
+    "file": "debian/pool/main/m/make-dfsg/make_4.4.1-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/make-dfsg/make_4.4.1-2_arm64.deb",
+    "size": 452396,
+    "sha256": "043219839669c431def9bb410c4a827f115ee5bf377469d55c4ed905f81f73be"
+  },
+  {
+    "file": "debian/pool/main/d/dpkg/libdpkg-perl_1.22.22_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/d/dpkg/libdpkg-perl_1.22.22_all.deb",
+    "size": 650808,
+    "sha256": "b41eaeb4879091023f8c1a058510844a244d3d0bd0f437e0e05d58213e36fd9f"
+  },
+  {
+    "file": "debian/pool/main/p/patch/patch_2.8-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/patch/patch_2.8-2_arm64.deb",
+    "size": 128220,
+    "sha256": "182ad723623dcd02dfe5054f3515a26d8bf4a9cce717f03e3e514c02cb9e59e8"
+  },
+  {
+    "file": "debian/pool/main/d/dpkg/dpkg-dev_1.22.22_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/d/dpkg/dpkg-dev_1.22.22_all.deb",
+    "size": 1337268,
+    "sha256": "6d4020421740a70e1fb9c41b07f8bb8306d93aef6fea1a8ce11a1f839921f414"
+  },
+  {
+    "file": "debian/pool/main/b/build-essential/build-essential_12.12_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/build-essential/build-essential_12.12_arm64.deb",
+    "size": 4624,
+    "sha256": "3278c93c699f9c12b6f7fe8e03393aa50d1c6b1c4b35da8f15b1c7bae67dc961"
+  },
+  {
+    "file": "debian-security/pool/updates/main/b/brotli/libbrotli1_1.1.0-2+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/b/brotli/libbrotli1_1.1.0-2+deb13u1_arm64.deb",
+    "size": 293896,
+    "sha256": "a8caceeddd3a407888234ef488e0a773299e05fac703c8695166a0a9bc86587f"
+  },
+  {
+    "file": "debian/pool/main/c/cyrus-sasl2/libsasl2-modules-db_2.1.28+dfsg1-9_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/c/cyrus-sasl2/libsasl2-modules-db_2.1.28+dfsg1-9_arm64.deb",
+    "size": 20144,
+    "sha256": "ed6eb05f8ded71ab16a0369845805b373fc8a71c0e7d33f73fa2fb11e83a1977"
+  },
+  {
+    "file": "debian/pool/main/c/cyrus-sasl2/libsasl2-2_2.1.28+dfsg1-9_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/c/cyrus-sasl2/libsasl2-2_2.1.28+dfsg1-9_arm64.deb",
+    "size": 55628,
+    "sha256": "6431628c62524c8397255c1c4a7c7ef63661b801f3be9a59ad41e7a2e46e6210"
+  },
+  {
+    "file": "debian/pool/main/o/openldap/libldap2_2.6.10+dfsg-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/o/openldap/libldap2_2.6.10+dfsg-1_arm64.deb",
+    "size": 179312,
+    "sha256": "38fae6af20d41e4b0a8ea1b96d0b81a7a5551a61595bc866c9af870eadfdf1bd"
+  },
+  {
+    "file": "debian/pool/main/n/nghttp2/libnghttp2-14_1.64.0-1.1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/nghttp2/libnghttp2-14_1.64.0-1.1+deb13u1_arm64.deb",
+    "size": 71604,
+    "sha256": "ca222b98d5bef2193c05a1e736d0619798ba7a8f8e92526f3e1d06edcd0bf751"
+  },
+  {
+    "file": "debian/pool/main/n/nghttp3/libnghttp3-9_1.8.0-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/nghttp3/libnghttp3-9_1.8.0-1_arm64.deb",
+    "size": 63232,
+    "sha256": "26bfb8d1bead043f57d95663bab02f7611e7078fb7cf71383fa480c4b4c24d81"
+  },
+  {
+    "file": "debian/pool/main/r/rtmpdump/librtmp1_2.4+20151223.gitfa8646d.1-2+b5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rtmpdump/librtmp1_2.4+20151223.gitfa8646d.1-2+b5_arm64.deb",
+    "size": 56840,
+    "sha256": "20d52d20c4834158e956ae8e1d42a61d22330062052116d5422daa2d3b1d433b"
+  },
+  {
+    "file": "debian/pool/main/libs/libssh2/libssh2-1t64_1.11.1-1+deb13u2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libs/libssh2/libssh2-1t64_1.11.1-1+deb13u2_arm64.deb",
+    "size": 236268,
+    "sha256": "245565f4ce5493d67a3c54e26bc3d9cf28b1b70eeb912de7cda61af52268017d"
+  },
+  {
+    "file": "debian-security/pool/updates/main/c/curl/libcurl4t64_8.14.1-2+deb13u7_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/c/curl/libcurl4t64_8.14.1-2+deb13u7_arm64.deb",
+    "size": 361184,
+    "sha256": "264718feb6d2466fff82da4dd783a1f221ae73031fbda7a9e398cc5861fd2303"
+  },
+  {
+    "file": "debian/pool/main/h/http-parser/libhttp-parser2.9_2.9.4-6+b2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/h/http-parser/libhttp-parser2.9_2.9.4-6+b2_arm64.deb",
+    "size": 20212,
+    "sha256": "b83c393474812e969b6eb8847e2d8a6210f0f5708c21f5e9b94971127f0bdae4"
+  },
+  {
+    "file": "debian/pool/main/m/mbedtls/libmbedcrypto16_3.6.6-0.1~deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/mbedtls/libmbedcrypto16_3.6.6-0.1~deb13u1_arm64.deb",
+    "size": 351428,
+    "sha256": "5b30446d96fac946849bfc74c67c85b0d30c1f760eea0bd08a2ee14956f304c7"
+  },
+  {
+    "file": "debian/pool/main/m/mbedtls/libmbedx509-7_3.6.6-0.1~deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/mbedtls/libmbedx509-7_3.6.6-0.1~deb13u1_arm64.deb",
+    "size": 153712,
+    "sha256": "e3650fb2652a32e415d2518811b76b57056c07680eef868ba84313997c5b03cf"
+  },
+  {
+    "file": "debian/pool/main/m/mbedtls/libmbedtls21_3.6.6-0.1~deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/m/mbedtls/libmbedtls21_3.6.6-0.1~deb13u1_arm64.deb",
+    "size": 232280,
+    "sha256": "8a7d2124f53a7162f309f5fe7a882b885884e0dd0fb95ba3da7170e4a72005e8"
+  },
+  {
+    "file": "debian/pool/main/libg/libgit2/libgit2-1.9_1.9.0+ds-2+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libg/libgit2/libgit2-1.9_1.9.0+ds-2+deb13u1_arm64.deb",
+    "size": 517584,
+    "sha256": "067cf8d040b279c244ce9c9e4b5aa112e628b643dbccb60caa595d91414c4bdf"
+  },
+  {
+    "file": "debian/pool/main/libx/libxml2/libxml2_2.12.7+dfsg+really2.9.14-2.1+deb13u3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libx/libxml2/libxml2_2.12.7+dfsg+really2.9.14-2.1+deb13u3_arm64.deb",
+    "size": 631428,
+    "sha256": "a66b9c960acef8ed9653223cbd00b155a92ebb758ea13a788c41609246c23bc7"
+  },
+  {
+    "file": "debian/pool/main/z/z3/libz3-4_4.13.3-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/z/z3/libz3-4_4.13.3-1_arm64.deb",
+    "size": 7506868,
+    "sha256": "29a7b924a5a38c9ac4e2a64aa11586a9c54f26b579b18e4f75adf8f7c1106e45"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/libllvm19_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/libllvm19_19.1.7-3+b1_arm64.deb",
+    "size": 23285344,
+    "sha256": "8a48e1a49f7fcc3be74e697767d72902f4b03041401d1529bcfad1849df39148"
+  },
+  {
+    "file": "debian/pool/main/r/rustc/libstd-rust-1.85_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rustc/libstd-rust-1.85_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "size": 16981260,
+    "sha256": "e3edb07a8e8f6e428f07bf366f1006f00223d204a5ff9938675ff192e9dde3a7"
+  },
+  {
+    "file": "debian/pool/main/r/rustc/libstd-rust-dev_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rustc/libstd-rust-dev_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "size": 37696188,
+    "sha256": "176facb3ae2ee70d8f7e3a7c2f6c2b0fca16211ae2edadad9e6ce133dedd2ad1"
+  },
+  {
+    "file": "debian/pool/main/r/rustc/rustc_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rustc/rustc_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "size": 3441312,
+    "sha256": "0c718093e5fc52ab45d1f76ae87906e4640983c6b226951beb4b961d2414bd40"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/libclang-cpp19_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/libclang-cpp19_19.1.7-3+b1_arm64.deb",
+    "size": 11983120,
+    "sha256": "9c0465b890bc962467043fa47dd0fc4dbb278422c3fdf7f7f0e1c3e6e8a13620"
+  },
+  {
+    "file": "debian/pool/main/libg/libgc/libgc1_8.2.8-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libg/libgc/libgc1_8.2.8-1_arm64.deb",
+    "size": 241044,
+    "sha256": "58747952e7bd66396023aa8bf53f5039217fddd750b337dfa13352d4fc07f528"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libobjc4_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libobjc4_14.2.0-19_arm64.deb",
+    "size": 39376,
+    "sha256": "2c402e31c3636f8c5be1f1c4a4716e9335e570862b7e393ade1e63bde9ff933c"
+  },
+  {
+    "file": "debian/pool/main/g/gcc-14/libobjc-14-dev_14.2.0-19_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gcc-14/libobjc-14-dev_14.2.0-19_arm64.deb",
+    "size": 166276,
+    "sha256": "b248dc482ad75e0dbe64e70a468ce61b2c167fe63420185290dd441b28cd1357"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/libclang-common-19-dev_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/libclang-common-19-dev_19.1.7-3+b1_arm64.deb",
+    "size": 740064,
+    "sha256": "fc0f2c5ffd2b2d7cd0119ed4fb1050c5757d0ed20a4f5c0964d8d737c73b0843"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/llvm-19-linker-tools_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/llvm-19-linker-tools_19.1.7-3+b1_arm64.deb",
+    "size": 1099620,
+    "sha256": "2538a8ea604718a02cae7ffab7ee2d537fab2e5eed256584a0bd475bddc3da39"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/libclang1-19_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/libclang1-19_19.1.7-3+b1_arm64.deb",
+    "size": 6865736,
+    "sha256": "e0719cbb2bd6bb3b91f471d1fa41b364eae0604774db56a7b3dd8d24738a5f20"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/clang-19_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/clang-19_19.1.7-3+b1_arm64.deb",
+    "size": 112840,
+    "sha256": "4cb5d48c887e0c1071a058ae8eb30540db77379be50388fcd6b3f9ad1016d54c"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-defaults/clang_19.0-63_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-defaults/clang_19.0-63_arm64.deb",
+    "size": 6244,
+    "sha256": "a9fca67115f164c782fc9acbefeffbc723b8a65efcfe97714440635c3cb4bb11"
+  },
+  {
+    "file": "debian/pool/main/r/rustc/cargo_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rustc/cargo_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "size": 5599756,
+    "sha256": "4d30794490c7db799216f35e09fcf84cc05a198efd0c013f498bc4674dac6c4a"
+  },
+  {
+    "file": "debian/pool/main/c/cmake/cmake-data_3.31.6-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/c/cmake/cmake-data_3.31.6-2_all.deb",
+    "size": 2268208,
+    "sha256": "d9060145be892f43cd1888024114ceab019c81479d4b0a3383fe14cebe2295cb"
+  },
+  {
+    "file": "debian/pool/main/liba/libarchive/libarchive13t64_3.7.4-4+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/liba/libarchive/libarchive13t64_3.7.4-4+deb13u1_arm64.deb",
+    "size": 324064,
+    "sha256": "9dc7897bc1c83b03a69c581018010fbd9723ce199b99433639343d8b3a5bcf81"
+  },
+  {
+    "file": "debian/pool/main/libj/libjsoncpp/libjsoncpp26_1.9.6-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libj/libjsoncpp/libjsoncpp26_1.9.6-3_arm64.deb",
+    "size": 72912,
+    "sha256": "346da1614a66ae07549243f2abf1dc5fdcc590a4ccb408458b5ea7ef7997477d"
+  },
+  {
+    "file": "debian/pool/main/r/rhash/librhash1_1.4.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rhash/librhash1_1.4.5-1_arm64.deb",
+    "size": 128888,
+    "sha256": "3bee5b995ee3219779d0f50b2622b0fbc05bb89c69fa833c83d685a3c88aa73d"
+  },
+  {
+    "file": "debian/pool/main/libu/libuv1/libuv1t64_1.50.0-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libu/libuv1/libuv1t64_1.50.0-2_arm64.deb",
+    "size": 147988,
+    "sha256": "a9be0f24d7686ba94a6ef4f3c638079c6b39c4263306860d51046c4125d065f4"
+  },
+  {
+    "file": "debian/pool/main/c/cmake/cmake_3.31.6-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/c/cmake/cmake_3.31.6-2_arm64.deb",
+    "size": 9905888,
+    "sha256": "983aa00debd072f7bfae69f93b1b9e4628da0a914c3745b9022e4cd60215493b"
+  },
+  {
+    "file": "debian-security/pool/updates/main/c/curl/curl_8.14.1-2+deb13u7_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/c/curl/curl_8.14.1-2+deb13u7_arm64.deb",
+    "size": 262796,
+    "sha256": "74ebbb84889bc8f06cdf62e1b4bd34a1d08a6a17a0451e53ec1a04e31af52648"
+  },
+  {
+    "file": "debian/pool/main/n/node-fast-deep-equal/node-fast-deep-equal_3.1.3-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fast-deep-equal/node-fast-deep-equal_3.1.3-3_all.deb",
+    "size": 5768,
+    "sha256": "9fcfecf2513719e2fa7ff9b2ed2ca8a409c6b1120e548a3a684ab2eb2e5dd8cd"
+  },
+  {
+    "file": "debian/pool/main/n/node-json-schema-traverse/node-json-schema-traverse_1.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-json-schema-traverse/node-json-schema-traverse_1.0.0-3_all.deb",
+    "size": 6308,
+    "sha256": "8c45a3726b39b17f1892b7179ecbeafd9318753e9490cce8a5513b2ffda83e65"
+  },
+  {
+    "file": "debian/pool/main/n/node-jsonify/node-jsonify_0.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-jsonify/node-jsonify_0.0.1-1_all.deb",
+    "size": 8704,
+    "sha256": "7488086201b07d7c68333cfe82fd9b9cd1ec8406e5c01099c0c7bfac24c690b4"
+  },
+  {
+    "file": "debian/pool/main/n/node-json-stable-stringify/node-json-stable-stringify_1.0.2+repack1+~cs1.0.34-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-json-stable-stringify/node-json-stable-stringify_1.0.2+repack1+~cs1.0.34-2_all.deb",
+    "size": 9496,
+    "sha256": "cfd3e7fdf7abdd3d242e2b5c3974bf8e9d85c6cd345e91194010f36182f38a04"
+  },
+  {
+    "file": "debian/pool/main/n/node-punycode/node-punycode_2.3.1+~2.1.4-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-punycode/node-punycode_2.3.1+~2.1.4-1_all.deb",
+    "size": 10832,
+    "sha256": "e235e972cef1e04512bdb777edc338570eddf8eff3f8a5b7848d3fd245560a77"
+  },
+  {
+    "file": "debian/pool/main/n/node-uri-js/node-uri-js_4.4.0+dfsg-8_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-uri-js/node-uri-js_4.4.0+dfsg-8_all.deb",
+    "size": 47276,
+    "sha256": "8cd1e1ca3cc7146760ccd117a4da8d43ca3518adc30c7ca2c1d35f86928432d0"
+  },
+  {
+    "file": "debian/pool/main/c/c-ares/libcares2_1.34.5-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/c/c-ares/libcares2_1.34.5-1+deb13u1_arm64.deb",
+    "size": 92408,
+    "sha256": "138f3224f7ee18555bdcd20424b7d9de723095f8eca8379e6722ad070c4dd089"
+  },
+  {
+    "file": "debian/pool/main/i/icu/libicu76_76.1-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/i/icu/libicu76_76.1-4_arm64.deb",
+    "size": 9523672,
+    "sha256": "62eb15577c881b7d02aa861e3eb860902335630cc8174daf525b48c2fa39298f"
+  },
+  {
+    "file": "debian/pool/main/n/node-xtend/node-xtend_4.0.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-xtend/node-xtend_4.0.2-3_all.deb",
+    "size": 3932,
+    "sha256": "c64e37fbea40de012b59adbfa61e703b52c12713f34cbfd2d4049ebcc549f270"
+  },
+  {
+    "file": "debian/pool/main/a/acorn/node-acorn_8.8.1+ds+~cs25.17.7-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/a/acorn/node-acorn_8.8.1+ds+~cs25.17.7-2_all.deb",
+    "size": 128252,
+    "sha256": "5c6814cf6536892b3a93cc72a0a3792beb0d3f6be3d69f499ca7d764583479a9"
+  },
+  {
+    "file": "debian/pool/main/n/node-cjs-module-lexer/node-cjs-module-lexer_1.2.3+dfsg-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-cjs-module-lexer/node-cjs-module-lexer_1.2.3+dfsg-1_all.deb",
+    "size": 30560,
+    "sha256": "db5edbd534306c633cd8c0639adb9fc723ec5c6961eee9f9721475db74474959"
+  },
+  {
+    "file": "debian/pool/main/n/node-balanced-match/node-balanced-match_2.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-balanced-match/node-balanced-match_2.0.0-1_all.deb",
+    "size": 4872,
+    "sha256": "98a1c466bff6baf6780c4b765ec665e684424bf7907439939b5fb1160ede039c"
+  },
+  {
+    "file": "debian/pool/main/n/node-brace-expansion/node-brace-expansion_2.0.1+~1.1.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-brace-expansion/node-brace-expansion_2.0.1+~1.1.0-2_all.deb",
+    "size": 8012,
+    "sha256": "c06d940bf95617cfd5c5ccbf0bf2ea864f41f36f317f21b4c8b21a3bf9668821"
+  },
+  {
+    "file": "debian/pool/main/n/node-minimatch/node-minimatch_9.0.3-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-minimatch/node-minimatch_9.0.3-6_all.deb",
+    "size": 76780,
+    "sha256": "732998416eadffcdbf4e7e697200eb28d42963d1540fff2a3b485b5499805db6"
+  },
+  {
+    "file": "debian/pool/main/n/node-undici/node-undici_7.3.0+dfsg1+~cs24.12.11-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-undici/node-undici_7.3.0+dfsg1+~cs24.12.11-1_all.deb",
+    "size": 332608,
+    "sha256": "7f10cf9c79cf4dae6c1117ca1c8181d2d4d184b82bbd59dd0eeec554994161c4"
+  },
+  {
+    "file": "debian-security/pool/updates/main/n/nodejs/libnode115_20.19.2+dfsg-1+deb13u3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/n/nodejs/libnode115_20.19.2+dfsg-1+deb13u3_arm64.deb",
+    "size": 10902960,
+    "sha256": "5ac5229d5cb4c2b5fd4416878bea5833e5ad6ef6b01eb228d25ae1f8ca6a15ba"
+  },
+  {
+    "file": "debian/pool/main/n/node-corepack/node-corepack_0.24.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-corepack/node-corepack_0.24.0-5_all.deb",
+    "size": 711724,
+    "sha256": "76fc252799fe76c1dcd63d95cc556e11d5ac226902cf41c1963a2a45f830efa0"
+  },
+  {
+    "file": "debian-security/pool/updates/main/n/nodejs/nodejs_20.19.2+dfsg-1+deb13u3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/n/nodejs/nodejs_20.19.2+dfsg-1+deb13u3_arm64.deb",
+    "size": 354892,
+    "sha256": "a92077b99707d2199342a197a58f4a8aa78b213ff7e0906653c958f42da163e2"
+  },
+  {
+    "file": "debian/pool/main/n/node-ajv/node-ajv_8.12.0~ds+~2.1.1-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ajv/node-ajv_8.12.0~ds+~2.1.1-5_all.deb",
+    "size": 181912,
+    "sha256": "9426fe85cbe3116009c32ea1d726c70939af0a173ee678b7289f05e081c609b7"
+  },
+  {
+    "file": "debian/pool/main/n/node-inherits/libjs-inherits_2.0.4-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-inherits/libjs-inherits_2.0.4-6_all.deb",
+    "size": 3548,
+    "sha256": "3f51ebfd3f84bd0788defaa55652e772c316801d8424526cbebc4d890c7808c1"
+  },
+  {
+    "file": "debian/pool/main/n/node-inherits/node-inherits_2.0.4-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-inherits/node-inherits_2.0.4-6_all.deb",
+    "size": 4548,
+    "sha256": "288f79288807a033f67693709f56162645f07685d9f3270a018b8984a8ac6ccc"
+  },
+  {
+    "file": "debian/pool/main/n/node-core-util-is/node-core-util-is_1.0.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-core-util-is/node-core-util-is_1.0.3-1_all.deb",
+    "size": 4072,
+    "sha256": "227ff823e6ede9ae4fb632fb11469dcb66766ea1d95e46d635c12943ff3df6be"
+  },
+  {
+    "file": "debian/pool/main/n/node-safe-buffer/node-safe-buffer_5.2.1+~cs2.1.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-safe-buffer/node-safe-buffer_5.2.1+~cs2.1.2-3_all.deb",
+    "size": 15544,
+    "sha256": "92f5049ab886f5f7975c6ff41719675606640ee1381e08fce9f23566676d205b"
+  },
+  {
+    "file": "debian/pool/main/n/node-string-decoder/node-string-decoder_1.3.0-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-string-decoder/node-string-decoder_1.3.0-6_all.deb",
+    "size": 7180,
+    "sha256": "df09535d7ada19ebcc59b0393c879fb6c900a5f676574542f7233fb434195617"
+  },
+  {
+    "file": "debian/pool/main/n/node-process-nextick-args/node-process-nextick-args_2.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-process-nextick-args/node-process-nextick-args_2.0.1-3_all.deb",
+    "size": 3816,
+    "sha256": "e34faad6b4e66f69d30388f1d82a38922e22f0cd788383193dcea3d57498213d"
+  },
+  {
+    "file": "debian/pool/main/n/node-util-deprecate/node-util-deprecate_1.0.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-util-deprecate/node-util-deprecate_1.0.2-3_all.deb",
+    "size": 4436,
+    "sha256": "6513d86949de642eeb3eb6e69c05e7be51548c8e5f2d61cfee4841c2ece92495"
+  },
+  {
+    "file": "debian/pool/main/n/node-isarray/node-isarray_2.0.5-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-isarray/node-isarray_2.0.5-4_all.deb",
+    "size": 4040,
+    "sha256": "ca23e017abe39c1f296d9b78e15fed1b369f8dc17e805f7cf41edc25da42e3e7"
+  },
+  {
+    "file": "debian/pool/main/n/node-readable-stream/node-readable-stream_3.6.0+~cs3.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-readable-stream/node-readable-stream_3.6.0+~cs3.0.0-4_all.deb",
+    "size": 32044,
+    "sha256": "dd4f2d17325e5a40c80926a02ec40a427598f3c51a53cb288f45b72802db9c72"
+  },
+  {
+    "file": "debian/pool/main/n/node-typedarray/node-typedarray_0.0.7-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-typedarray/node-typedarray_0.0.7-1_all.deb",
+    "size": 11400,
+    "sha256": "1046e38a91eb0dd89f4f2c870b664a7f0cd3742770e62e56c540ea491250f728"
+  },
+  {
+    "file": "debian/pool/main/n/node-concat-stream/node-concat-stream_2.0.0+~2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-concat-stream/node-concat-stream_2.0.0+~2.0.0-2_all.deb",
+    "size": 6388,
+    "sha256": "c4bf0a86b4a5ab489c44705704adfa08b7e81f90bd813d561b8275fb55f6cf91"
+  },
+  {
+    "file": "debian/pool/main/n/node-ms/node-ms_2.1.3+~cs0.7.31-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ms/node-ms_2.1.3+~cs0.7.31-3_all.deb",
+    "size": 5648,
+    "sha256": "71c9a9f8b53cc1545b88735dc4f487f2deb2b5a423cbd95144ea18d1c3187de7"
+  },
+  {
+    "file": "debian/pool/main/n/node-debug/node-debug_4.3.4+~cs4.1.7-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-debug/node-debug_4.3.4+~cs4.1.7-1_all.deb",
+    "size": 18144,
+    "sha256": "bd0709fb1f6fe1e3b2550d44ab9016af7e7b60dfcde841236a98e9473552e1b4"
+  },
+  {
+    "file": "debian/pool/main/n/node-esutils/node-esutils_2.0.3+~2.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-esutils/node-esutils_2.0.3+~2.0.0-1_all.deb",
+    "size": 12364,
+    "sha256": "c73f3d6225517d17255c7bd2e57177953e5569278e7ed8f60c8ee191fc4d7260"
+  },
+  {
+    "file": "debian/pool/main/n/node-doctrine/node-doctrine_3.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-doctrine/node-doctrine_3.0.0-4_all.deb",
+    "size": 19940,
+    "sha256": "319264aa42a67f4c6eb379a134efbe873159c7dffb97dceb61528e4a3f3d9bf2"
+  },
+  {
+    "file": "debian/pool/main/n/node-eslint-visitor-keys/node-eslint-visitor-keys_3.3.0+~1.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-eslint-visitor-keys/node-eslint-visitor-keys_3.3.0+~1.0.0-1_all.deb",
+    "size": 17084,
+    "sha256": "c2e40bc461ea2644fc9ad42ee59b958ff3303e72c825974183f46b01e14bfddb"
+  },
+  {
+    "file": "debian/pool/main/n/node-estraverse/node-estraverse_5.3.0+ds+~5.1.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-estraverse/node-estraverse_5.3.0+ds+~5.1.1-1_all.deb",
+    "size": 11564,
+    "sha256": "4d458b371205aff8fad00c4d04741d5080c3074134d0eeeba537dcabe77ddc49"
+  },
+  {
+    "file": "debian/pool/main/n/node-object-assign/node-object-assign_4.1.1-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-object-assign/node-object-assign_4.1.1-7_all.deb",
+    "size": 4684,
+    "sha256": "f3d4fd84ba5a3d3ab0f65df9adb4cfde64ee5d0aa712d2345981d34f549d856c"
+  },
+  {
+    "file": "debian/pool/main/n/node-esrecurse/node-esrecurse_4.3.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-esrecurse/node-esrecurse_4.3.0-2_all.deb",
+    "size": 6048,
+    "sha256": "828cd5622150c5d5a868a83387ff5e8a2a30a7cf72ecdcad8efffe465116915f"
+  },
+  {
+    "file": "debian/pool/main/n/node-eslint-scope/node-eslint-scope_7.1.1+~3.7.4-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-eslint-scope/node-eslint-scope_7.1.1+~3.7.4-1_all.deb",
+    "size": 35596,
+    "sha256": "50d619d48663ce3badfce5a4bb2af3ff0d3c16cf1785130a94d22a8c13a2b180"
+  },
+  {
+    "file": "debian/pool/main/n/node-espree/node-espree_9.4.1~dfsg-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-espree/node-espree_9.4.1~dfsg-2_all.deb",
+    "size": 41108,
+    "sha256": "6085d8fd445f99ece00ed7b84af1c4659027eff48dcea8b3606ea3fc705a4193"
+  },
+  {
+    "file": "debian/pool/main/n/node-esquery/node-esquery_1.4.2~ds-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-esquery/node-esquery_1.4.2~ds-1_all.deb",
+    "size": 24948,
+    "sha256": "940a307801aa8c32a3eb6990ccc8fd19f0da3f76d9b43275965b1ebaddb8da55"
+  },
+  {
+    "file": "debian/pool/main/n/node-eslint-utils/node-eslint-utils_3.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-eslint-utils/node-eslint-utils_3.0.0-3_all.deb",
+    "size": 15452,
+    "sha256": "5313c25e6c0c0a6476cf716788294918e0cb0c5fc16594ee4aa0712cb682ffc8"
+  },
+  {
+    "file": "debian/pool/main/n/node-flatted/node-flatted_3.2.7~ds-1+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-flatted/node-flatted_3.2.7~ds-1+deb13u1_all.deb",
+    "size": 10336,
+    "sha256": "22639d742cd662da911d1f32e8d07fa13385eeec19724d0db7277999c7cdad77"
+  },
+  {
+    "file": "debian/pool/main/n/node-fs.realpath/node-fs.realpath_1.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fs.realpath/node-fs.realpath_1.0.0-3_all.deb",
+    "size": 6172,
+    "sha256": "e525d02f4c115cfac5676f095668b572cd84b447860f7d7d14bf9e1687bc33d1"
+  },
+  {
+    "file": "debian/pool/main/n/node-wrappy/node-wrappy_1.0.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-wrappy/node-wrappy_1.0.2-3_all.deb",
+    "size": 3776,
+    "sha256": "ee6236595b8c54503d44816bd19f56f37e39ed59f93a03c7ee8d0ba1f89cfa7a"
+  },
+  {
+    "file": "debian/pool/main/n/node-once/node-once_1.4.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-once/node-once_1.4.1-1_all.deb",
+    "size": 4624,
+    "sha256": "039aee0f9781f05df5fe3e36b460c1d0ce57d7cec50b773f78f003710ceda0e4"
+  },
+  {
+    "file": "debian/pool/main/n/node-inflight/node-inflight_1.0.6-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-inflight/node-inflight_1.0.6-2_all.deb",
+    "size": 3952,
+    "sha256": "76198db71e0b9b301a66162e65bb6ac71a56f37abad4153939678f28d22320bf"
+  },
+  {
+    "file": "debian/pool/main/n/node-glob/node-glob_8.1.0+~cs8.5.15-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-glob/node-glob_8.1.0+~cs8.5.15-1_all.deb",
+    "size": 133900,
+    "sha256": "a2bead8dd0fe1663d1dbdaee5aec974a9f49a4c493aff1d3afbab610b5d2e497"
+  },
+  {
+    "file": "debian/pool/main/n/node-rimraf/node-rimraf_3.0.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-rimraf/node-rimraf_3.0.2-2_all.deb",
+    "size": 11064,
+    "sha256": "69282e8eded9b4b3eddbb9315f98978c41733e5d35de6ff642fdc520b9942682"
+  },
+  {
+    "file": "debian/pool/main/n/node-file-entry-cache/node-write_2.0.0~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-file-entry-cache/node-write_2.0.0~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1_all.deb",
+    "size": 17864,
+    "sha256": "709cf3e55156cf3c4e89fdb725ff52c6fa2117266ed781cc8082701a8fce2b1c"
+  },
+  {
+    "file": "debian/pool/main/n/node-file-entry-cache/node-flat-cache_3.0.4~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-file-entry-cache/node-flat-cache_3.0.4~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1_all.deb",
+    "size": 20164,
+    "sha256": "abef52ba5745838270760486c3ed0e4d822af9e84b8bbac12b22a0bdc1d9d024"
+  },
+  {
+    "file": "debian/pool/main/n/node-file-entry-cache/node-file-entry-cache_6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-file-entry-cache/node-file-entry-cache_6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1_all.deb",
+    "size": 15348,
+    "sha256": "a19916fe29b17ac631e8aaab941d1013e64966377c9516343693a67843575866"
+  },
+  {
+    "file": "debian/pool/main/n/node-functional-red-black-tree/node-functional-red-black-tree_1.0.1+20181105-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-functional-red-black-tree/node-functional-red-black-tree_1.0.1+20181105-7_all.deb",
+    "size": 14100,
+    "sha256": "3111417b832a829bac41335295a4b59f5d8f20d336f2db1a60828a843aaed577"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-extglob/node-is-extglob_2.1.1-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-extglob/node-is-extglob_2.1.1-5_all.deb",
+    "size": 4612,
+    "sha256": "7688e9669a66d63cef2e9ee4fbfab1cbc05999766d5520683ff98d7b78336cb5"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-glob/node-is-glob_4.0.3-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-glob/node-is-glob_4.0.3-2_all.deb",
+    "size": 6620,
+    "sha256": "701b15e7b1549c87a12244173b22ca741a32af217a8efe4e24079f31f6bb1b82"
+  },
+  {
+    "file": "debian/pool/main/n/node-path-dirname/node-path-dirname_1.0.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-path-dirname/node-path-dirname_1.0.2-2_all.deb",
+    "size": 4312,
+    "sha256": "3e1fd1554463ad64f076bc6890910376441823c3cf8f639720e838706ea95ff6"
+  },
+  {
+    "file": "debian/pool/main/n/node-glob-parent/node-glob-parent_6.0.2+~5.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-glob-parent/node-glob-parent_6.0.2+~5.1.1-2_all.deb",
+    "size": 8784,
+    "sha256": "ad03357e2890076faf085183fc7170222a32eef5cde3a5f0d2a4f57af1d006c9"
+  },
+  {
+    "file": "debian/pool/main/n/node-globals/node-globals_13.23.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-globals/node-globals_13.23.0-1_all.deb",
+    "size": 11332,
+    "sha256": "55f831a745b779e57b4bf333b7da6cff07a02b5fd4adfaecc36a18615d67f2a4"
+  },
+  {
+    "file": "debian/pool/main/n/node-resolve-from/node-resolve-from_5.0.0+~3.1.0+~3.3.0+~2.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-resolve-from/node-resolve-from_5.0.0+~3.1.0+~3.3.0+~2.0.0-1_all.deb",
+    "size": 7292,
+    "sha256": "d794c1cbe57007dad251e40a17f83001ba5d4646801aed02cab768051b4ee69b"
+  },
+  {
+    "file": "debian/pool/main/n/node-imurmurhash/node-imurmurhash_0.1.4+dfsg+~0.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-imurmurhash/node-imurmurhash_0.1.4+dfsg+~0.1.1-2_all.deb",
+    "size": 8412,
+    "sha256": "1fe48340caa9b23834a105c9540a7ddd43c4a0a9198c357eab6ddea8926827c8"
+  },
+  {
+    "file": "debian/pool/main/n/node-ignore/node-ignore_5.2.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ignore/node-ignore_5.2.1-1_all.deb",
+    "size": 26396,
+    "sha256": "cd8fb6d5b0530e50671846f5a9f439f9cf0e1f150ed847f7f275ffe35baed410"
+  },
+  {
+    "file": "debian/pool/main/n/node-prelude-ls/node-prelude-ls_1.2.1+dfsg-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-prelude-ls/node-prelude-ls_1.2.1+dfsg-3_all.deb",
+    "size": 11344,
+    "sha256": "51747fa2517ea9dbf896ca7fe46d4f16cf82d099d7c9f1ec3f7354204c9152e3"
+  },
+  {
+    "file": "debian/pool/main/n/node-type-check/node-type-check_0.4.0+dfsg-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-type-check/node-type-check_0.4.0+dfsg-3_all.deb",
+    "size": 9184,
+    "sha256": "e5ec6ef096c2d9c2417b9f732d141e42c49efc75cc740c38f3c775fee39dda60"
+  },
+  {
+    "file": "debian/pool/main/n/node-levn/node-levn_0.4.1+dfsg-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-levn/node-levn_0.4.1+dfsg-2_all.deb",
+    "size": 10176,
+    "sha256": "03e6e04856d38d474ac4e9d12d2300191797c8f9e92788f9065b0e85e83aecb5"
+  },
+  {
+    "file": "debian/pool/main/n/node-lodash/node-lodash_4.17.21+dfsg+~cs8.31.198.20210220-9+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-lodash/node-lodash_4.17.21+dfsg+~cs8.31.198.20210220-9+deb13u1_all.deb",
+    "size": 462184,
+    "sha256": "7ccc3bacec8feea01f4b311d7bb000bd3e065e69c7697deece64dba85b7178f2"
+  },
+  {
+    "file": "debian/pool/main/n/node-memfs/node-memfs_3.4.12+~cs1.0.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-memfs/node-memfs_3.4.12+~cs1.0.3-1_all.deb",
+    "size": 46796,
+    "sha256": "abec107d93bc173cd4b125d15af5cd82e961885b7e3c0f3a0e62a77e632cff36"
+  },
+  {
+    "file": "debian/pool/main/n/node-mkdirp/node-mkdirp_2.1.6+~cs5.2.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-mkdirp/node-mkdirp_2.1.6+~cs5.2.1-2_all.deb",
+    "size": 24128,
+    "sha256": "04b503dc0e30e0447a2c47eec7a7f8b24a195c51ebe988e67addfc053856bfac"
+  },
+  {
+    "file": "debian/pool/main/n/node-deep-is/node-deep-is_0.1.4-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-deep-is/node-deep-is_0.1.4-1_all.deb",
+    "size": 5136,
+    "sha256": "9fd072798350307f42c073f60fa37a5a247fd5c799a9fb3c2f05495163d8ae42"
+  },
+  {
+    "file": "debian/pool/main/n/node-fast-levenshtein/node-fast-levenshtein_2.0.6+ds-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fast-levenshtein/node-fast-levenshtein_2.0.6+ds-3_all.deb",
+    "size": 6040,
+    "sha256": "862e7a885d5a3d353598ac58b109a0d538c58a063105aef6b8c0e49397724e4f"
+  },
+  {
+    "file": "debian/pool/main/n/node-optionator/node-optionator_0.9.1+dfsg+~cs1.2.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-optionator/node-optionator_0.9.1+dfsg+~cs1.2.3-1_all.deb",
+    "size": 17624,
+    "sha256": "4cc135706c0a4646fe6ee11b09ff876c26ce93bdddb1fa080fdd75057f852894"
+  },
+  {
+    "file": "debian/pool/main/n/node-progress/node-progress_2.0.3-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-progress/node-progress_2.0.3-2_all.deb",
+    "size": 8256,
+    "sha256": "72f407b733d63dd6d60b5d98e3426cf97fdfbe72e7c4d8711db59032a97265c9"
+  },
+  {
+    "file": "debian/pool/main/n/node-regenerate/libjs-regenerate_1.4.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regenerate/libjs-regenerate_1.4.2-3_all.deb",
+    "size": 14340,
+    "sha256": "632ee5216aad32301cfb664c6f112aabd3fe3161caae6cd8472345537e6837c2"
+  },
+  {
+    "file": "debian/pool/main/n/node-regenerate/node-regenerate_1.4.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regenerate/node-regenerate_1.4.2-3_all.deb",
+    "size": 7388,
+    "sha256": "57aa4a5bc403ac7c6216857229841597f56e02927ff007f68e203456efa084e4"
+  },
+  {
+    "file": "debian/pool/main/n/node-regenerate-unicode-properties/node-regenerate-unicode-properties_10.1.0+ds-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regenerate-unicode-properties/node-regenerate-unicode-properties_10.1.0+ds-1_all.deb",
+    "size": 50680,
+    "sha256": "fdc9e936b51d6e617f7bc896b00e53e4a89d74c1cd6daa97fa77b6cc52956788"
+  },
+  {
+    "file": "debian/pool/main/n/node-regexpp/node-regexpp_3.2.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regexpp/node-regexpp_3.2.0-5_all.deb",
+    "size": 27012,
+    "sha256": "221f814f04c87669d6eb650e67212c64f733a8bfcb672e9c624780c66a96c255"
+  },
+  {
+    "file": "debian/pool/main/n/node-lru-cache/node-lru-cache_10.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-lru-cache/node-lru-cache_10.0.1-3_all.deb",
+    "size": 62608,
+    "sha256": "7dc7740e2a39e00bfba14776f492930d63c067e84ed8376446f7645ed2905699"
+  },
+  {
+    "file": "debian/pool/main/n/node-semver/node-semver_7.6.1+~7.5.8-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-semver/node-semver_7.6.1+~7.5.8-2_all.deb",
+    "size": 49508,
+    "sha256": "9803f537bc5da49ca5a632d94d7df519c364c4aa3db9484eaf0443197cd20cf9"
+  },
+  {
+    "file": "debian/pool/main/n/node-strip-json-comments/node-strip-json-comments_4.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-strip-json-comments/node-strip-json-comments_4.0.0-4_all.deb",
+    "size": 5668,
+    "sha256": "5db8c2fda953d0c1f21f4cab6d92e5ae79944dbbf430f21e3afe3e1bf61ef94a"
+  },
+  {
+    "file": "debian/pool/main/n/node-json-schema/node-json-schema_0.4.0+~7.0.11-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-json-schema/node-json-schema_0.4.0+~7.0.11-1_all.deb",
+    "size": 13080,
+    "sha256": "4314792716c804ac32f5a373df15665b4ad0b4e2173cbbcac2f4354b68d1241c"
+  },
+  {
+    "file": "debian/pool/main/n/node-v8-compile-cache/node-v8-compile-cache_2.4.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-v8-compile-cache/node-v8-compile-cache_2.4.0-2_all.deb",
+    "size": 8544,
+    "sha256": "f4560a83d0230cd1fe0c7b376fd447973385230a85c2b4a254d7ae7b5d08dd5e"
+  },
+  {
+    "file": "debian/pool/main/e/eslint/eslint_6.4.0~dfsg+~6.1.9-12_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/e/eslint/eslint_6.4.0~dfsg+~6.1.9-12_all.deb",
+    "size": 606112,
+    "sha256": "1e02789fcf75daf94b2f800804c419bf970f6611aa1a995d209a90049de497ef"
+  },
+  {
+    "file": "debian/pool/main/r/rust-fd-find/fd-find_10.2.0-1+b5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rust-fd-find/fd-find_10.2.0-1+b5_arm64.deb",
+    "size": 901384,
+    "sha256": "f29605eb3a63303af941fd2d8e9f40ad0c0d2c3f46089522c39132680e6d19b8"
+  },
+  {
+    "file": "debian/pool/main/e/elfutils/libelf1t64_0.192-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/e/elfutils/libelf1t64_0.192-4_arm64.deb",
+    "size": 189080,
+    "sha256": "815b4265c7d6c89c5bbad456bdeed7af893da6912c9d16cf4c581001927c0e37"
+  },
+  {
+    "file": "debian/pool/main/e/elfutils/libdw1t64_0.192-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/e/elfutils/libdw1t64_0.192-4_arm64.deb",
+    "size": 236836,
+    "sha256": "67efcbd99255a3468f6612a7719083ea1bed967d0bfae39863b5f0e190e0c5ec"
+  },
+  {
+    "file": "debian/pool/main/g/glib2.0/libglib2.0-0t64_2.84.4-3~deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/glib2.0/libglib2.0-0t64_2.84.4-3~deb13u5_arm64.deb",
+    "size": 1428508,
+    "sha256": "d446f0ea85fb9dc411219ce861e59e5eabe1981c796918771a7d2aa97cc72481"
+  },
+  {
+    "file": "debian/pool/main/b/babeltrace/libbabeltrace1_1.5.11-4+b2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/b/babeltrace/libbabeltrace1_1.5.11-4+b2_arm64.deb",
+    "size": 164104,
+    "sha256": "464ce803819f55c3368fac02eee326c07b95d3b7686af4c2cf52dbba6860fb02"
+  },
+  {
+    "file": "debian/pool/main/n/ngtcp2/libngtcp2-16_1.11.0-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/ngtcp2/libngtcp2-16_1.11.0-1+deb13u1_arm64.deb",
+    "size": 121080,
+    "sha256": "1ced2874229e4a503060c244730baf75e61b1d5444472b10e5022f1594f4ab88"
+  },
+  {
+    "file": "debian/pool/main/n/ngtcp2/libngtcp2-crypto-gnutls8_1.11.0-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/ngtcp2/libngtcp2-crypto-gnutls8_1.11.0-1+deb13u1_arm64.deb",
+    "size": 28404,
+    "sha256": "4a220245385ec7222f4a20e444532808b90139b70ea9c7eeab179c927a27b37f"
+  },
+  {
+    "file": "debian-security/pool/updates/main/c/curl/libcurl3t64-gnutls_8.14.1-2+deb13u7_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/c/curl/libcurl3t64-gnutls_8.14.1-2+deb13u7_arm64.deb",
+    "size": 354256,
+    "sha256": "313b1cc327ea0233b15e601f267c13a4922839fed8758eb0283553d335e4a0aa"
+  },
+  {
+    "file": "debian/pool/main/j/json-c/libjson-c5_0.18+ds-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/j/json-c/libjson-c5_0.18+ds-1_arm64.deb",
+    "size": 45216,
+    "sha256": "f631829107005b15c2ca5c48ac74bc2df437c7eb608756eb865b147985f7bb45"
+  },
+  {
+    "file": "debian/pool/main/e/elfutils/libdebuginfod1t64_0.192-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/e/elfutils/libdebuginfod1t64_0.192-4_arm64.deb",
+    "size": 31272,
+    "sha256": "f7259adcf1bd66808dde3d36eb47958542ad0e4b2074cf9ca97f7ba82be243c2"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/libpython3.13_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/libpython3.13_3.13.5-2+deb13u5_arm64.deb",
+    "size": 1977160,
+    "sha256": "d79db845c37478273d6d9097daafc568199e1475742e18678c5d0781a7293074"
+  },
+  {
+    "file": "debian/pool/main/s/source-highlight/libsource-highlight-common_3.1.9-4.3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/s/source-highlight/libsource-highlight-common_3.1.9-4.3_all.deb",
+    "size": 77484,
+    "sha256": "4914dbff96bc9558e467239719fd64f27faaf0c26e5b8cc63cbb460484781e2d"
+  },
+  {
+    "file": "debian/pool/main/s/source-highlight/libsource-highlight4t64_3.1.9-4.3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/s/source-highlight/libsource-highlight4t64_3.1.9-4.3+b1_arm64.deb",
+    "size": 294340,
+    "sha256": "bac0141f19cd66546afd4d262d97f2192572793076ad6444f0f7d2a894ce48d4"
+  },
+  {
+    "file": "debian/pool/main/g/gdb/gdb_16.3-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gdb/gdb_16.3-1_arm64.deb",
+    "size": 4551600,
+    "sha256": "bcebc0f6453202b7eb96673cac53d2469e9a6b4097f0a0bef36a88ba4591020a"
+  },
+  {
+    "file": "debian/pool/main/g/gh/gh_2.46.0-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gh/gh_2.46.0-3_arm64.deb",
+    "size": 6578096,
+    "sha256": "4f17755b8325f60cf970ef651c712a39f75aee5766b8fdeb736a1cfa29ccdafa"
+  },
+  {
+    "file": "debian/pool/main/libe/liberror-perl/liberror-perl_0.17030-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libe/liberror-perl/liberror-perl_0.17030-1_all.deb",
+    "size": 26872,
+    "sha256": "06110a972bdc52f6c6d6615dddbe97f836c61d0e36c685ef4107c2eaa81f871f"
+  },
+  {
+    "file": "debian/pool/main/g/git/git-man_2.47.3-0+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/git/git-man_2.47.3-0+deb13u1_all.deb",
+    "size": 2204692,
+    "sha256": "b58306b60e1dff920e1e18bc7e1e499f2ef75184190ab3d98657b165969bf7c9"
+  },
+  {
+    "file": "debian/pool/main/g/git/git_2.47.3-0+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/git/git_2.47.3-0+deb13u1_arm64.deb",
+    "size": 8665568,
+    "sha256": "8c6b1e96b226211260d7814472215a8a1ed38ee37400c421d454391c1807cb5a"
+  },
+  {
+    "file": "debian/pool/main/p/python-packaging/python3-packaging_25.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python-packaging/python3-packaging_25.0-1_all.deb",
+    "size": 56568,
+    "sha256": "d70c8469f6e9c6105e1ebcd3ebdc963f11dadbeddd89d2d1a2a3cb1c97d2ecbc"
+  },
+  {
+    "file": "debian/pool/main/g/gyp/gyp_0.16.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/g/gyp/gyp_0.16.2-2_all.deb",
+    "size": 254992,
+    "sha256": "967925252d47cf4b4bb8f40bc6f7c96ede1ae709ed57a934144aae51db806dbb"
+  },
+  {
+    "file": "debian/pool/main/n/node-neo-async/node-neo-async_2.6.2+~cs3.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-neo-async/node-neo-async_2.6.2+~cs3.0.0-3_all.deb",
+    "size": 41792,
+    "sha256": "2292d579bad218aac77db95758ada9b487bddec16441cd84da9a98454e734d13"
+  },
+  {
+    "file": "debian/pool/main/n/node-arrify/node-arrify_2.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-arrify/node-arrify_2.0.1-3_all.deb",
+    "size": 3700,
+    "sha256": "984f30355021c59775c4424e9f0aacfd4e62e18c58cfc3801450c235c073521d"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-plain-obj/node-is-plain-obj_3.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-plain-obj/node-is-plain-obj_3.0.0-2_all.deb",
+    "size": 3972,
+    "sha256": "d32feddea0a24c031e5b47dfe6abd6c7d1447568b63f2553087938ea1d41d09f"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-buffer/node-is-buffer_2.0.5-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-buffer/node-is-buffer_2.0.5-2_all.deb",
+    "size": 4112,
+    "sha256": "3c16d0f16e22a30b9379bf3d3cf7f2b490286b1867f8b0db718e6601b6ca204e"
+  },
+  {
+    "file": "debian/pool/main/n/node-kind-of/node-kind-of_6.0.3+dfsg-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-kind-of/node-kind-of_6.0.3+dfsg-2_all.deb",
+    "size": 10172,
+    "sha256": "2db7c8944d2bed2e60a99c2548c272842ec062f5abe3947564fb98d4d84600fc"
+  },
+  {
+    "file": "debian/pool/main/n/node-minimist/node-minimist_1.2.8+~cs5.3.5-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-minimist/node-minimist_1.2.8+~cs5.3.5-1_all.deb",
+    "size": 15880,
+    "sha256": "6ed9d31cc9212d38d5228d27f0635b8ed6db789d82f2102515867ab879f0d732"
+  },
+  {
+    "file": "debian/pool/main/n/node-wordwrap/node-wordwrap_1.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-wordwrap/node-wordwrap_1.0.0-4_all.deb",
+    "size": 4628,
+    "sha256": "f9dd8b5aa0d773aaf88e2f69bed2ce85816f752b47249be88554c4996de2f519"
+  },
+  {
+    "file": "debian/pool/main/n/node-optimist/node-optimist_0.6.1+~0.0.30-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-optimist/node-optimist_0.6.1+~0.0.30-2_all.deb",
+    "size": 13516,
+    "sha256": "32ec93c2148b2e56c56520a95f4aaa346a75dd912f67b83d75a689a9d4a00642"
+  },
+  {
+    "file": "debian/pool/main/n/node-source-map/libjs-source-map_0.7.0++dfsg2+really.0.6.1-15_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-source-map/libjs-source-map_0.7.0++dfsg2+really.0.6.1-15_all.deb",
+    "size": 29628,
+    "sha256": "af9fe59a185f8f8e305a675bb2b7e794e1d0c3fce752782cdc15636ef66210b3"
+  },
+  {
+    "file": "debian/pool/main/n/node-source-map/node-source-map_0.7.0++dfsg2+really.0.6.1-15_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-source-map/node-source-map_0.7.0++dfsg2+really.0.6.1-15_all.deb",
+    "size": 41672,
+    "sha256": "8f546e3b41c69cafe78f59a3a276ea6954cbfd61ef80053743b7dd3804550de2"
+  },
+  {
+    "file": "debian/pool/main/n/node-handlebars/handlebars_4.7.7+~4.1.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-handlebars/handlebars_4.7.7+~4.1.0-1_all.deb",
+    "size": 198656,
+    "sha256": "9fbb7a9e6b72371914caef099ac8574b066c4ba0e28a854ff2965b860aad93f0"
+  },
+  {
+    "file": "debian/pool/main/libo/libonig/libonig5_6.9.9-1+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libo/libonig/libonig5_6.9.9-1+b1_arm64.deb",
+    "size": 180512,
+    "sha256": "137e708575c0622d347815d19cb471a107546b16e9602805ee27afad7bba107f"
+  },
+  {
+    "file": "debian-security/pool/updates/main/j/jq/libjq1_1.7.1-6+deb13u4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/j/jq/libjq1_1.7.1-6+deb13u4_arm64.deb",
+    "size": 151980,
+    "sha256": "400a7367f8acf48d48776a877a8d08b237804546ab598affd0fe15e6e7ab84e5"
+  },
+  {
+    "file": "debian-security/pool/updates/main/j/jq/jq_1.7.1-6+deb13u4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/j/jq/jq_1.7.1-6+deb13u4_arm64.deb",
+    "size": 78424,
+    "sha256": "5d77ae282441d3ef0560141d55b4ac562d2cba7a873eb9ad7572ccfe69471ebf"
+  },
+  {
+    "file": "debian-security/pool/updates/main/libe/libevent/libevent-core-2.1-7t64_2.1.13-stable-1~deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/libe/libevent/libevent-core-2.1-7t64_2.1.13-stable-1~deb13u1_arm64.deb",
+    "size": 126560,
+    "sha256": "6e278da8ab4c1b4e15689483a0727f76146d7b9d9b11df4cd53f90034a649517"
+  },
+  {
+    "file": "debian-security/pool/updates/main/e/expat/libexpat1-dev_2.9.0-1~deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/e/expat/libexpat1-dev_2.9.0-1~deb13u1_arm64.deb",
+    "size": 170916,
+    "sha256": "d8bc76e2628931aff14bebc69fcfdc1597e0f467db56a3cabb98ce544c6dea75"
+  },
+  {
+    "file": "debian/pool/main/j/jemalloc/libjemalloc2_5.3.0-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/j/jemalloc/libjemalloc2_5.3.0-3_arm64.deb",
+    "size": 216460,
+    "sha256": "437c48a6d591579bc812fc583ff0f28ac34a7d5c36b7d4e9f4f8809650430f3e"
+  },
+  {
+    "file": "debian/pool/main/n/node-events/libjs-events_3.3.0+~3.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-events/libjs-events_3.3.0+~3.0.0-3_all.deb",
+    "size": 11284,
+    "sha256": "8cdddb62c3dc513175289ee3a8d1ea9faa2932b321180b5b2a3e9837f1341f53"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-typedarray/libjs-is-typedarray_1.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-typedarray/libjs-is-typedarray_1.0.0-4_all.deb",
+    "size": 3816,
+    "sha256": "0ccb6bb883eadaa3f0da86d15683b5fd38e1e55cbe61a8f2c7359d52bee4678f"
+  },
+  {
+    "file": "debian/pool/main/n/node-jquery/libjs-jquery_3.6.1+dfsg+~3.5.14-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-jquery/libjs-jquery_3.6.1+dfsg+~3.5.14-1_all.deb",
+    "size": 326128,
+    "sha256": "a58c9ff6afe96c769cb6535754c909410760e4efa1e1540236194e489adcfb25"
+  },
+  {
+    "file": "debian/pool/main/p/prettify.js/libjs-prettify_2015.12.04+dfsg-1.1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/prettify.js/libjs-prettify_2015.12.04+dfsg-1.1_all.deb",
+    "size": 41720,
+    "sha256": "14d41a0dde607d259997a4c625b5408b8e6017c0f3d67cc050eaa65f1ee545db"
+  },
+  {
+    "file": "debian/pool/main/u/underscore/libjs-underscore_1.13.4~dfsg+~1.11.4-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/u/underscore/libjs-underscore_1.13.4~dfsg+~1.11.4-3_all.deb",
+    "size": 115632,
+    "sha256": "4a0fbc90e7f62ea50c4ac7453352721fa60bb5eac87e9f39a027908faff29015"
+  },
+  {
+    "file": "debian/pool/main/s/sphinx/libjs-sphinxdoc_8.1.3-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/s/sphinx/libjs-sphinxdoc_8.1.3-5_all.deb",
+    "size": 30464,
+    "sha256": "ec764abfb43e5e8b86bd78ea0d5a97253131ba373e50c28c7d9c08cd1b8a8e3e"
+  },
+  {
+    "file": "debian/pool/main/n/node-sprintf-js/libjs-sprintf-js_1.1.2+ds1+~1.1.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-sprintf-js/libjs-sprintf-js_1.1.2+ds1+~1.1.2-1_all.deb",
+    "size": 12752,
+    "sha256": "2e9ce04e71af9e267c3e2514a94bb4c1900851afb1ea754ae8e60859e75cfef4"
+  },
+  {
+    "file": "debian/pool/main/n/node-typedarray-to-buffer/libjs-typedarray-to-buffer_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-typedarray-to-buffer/libjs-typedarray-to-buffer_4.0.0-2_all.deb",
+    "size": 4668,
+    "sha256": "1bd2e64ea5b51cbff972f7c1beaa090d3bc68319227ababd92398357ebedd556"
+  },
+  {
+    "file": "debian/pool/main/n/node-lodash/node-lodash-packages_4.17.21+dfsg+~cs8.31.198.20210220-9+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-lodash/node-lodash-packages_4.17.21+dfsg+~cs8.31.198.20210220-9+deb13u1_all.deb",
+    "size": 179116,
+    "sha256": "4930724b4b0c519394c2e56b85fc9bad279efb3db59b4cd5347cb26fd213a8d2"
+  },
+  {
+    "file": "debian/pool/main/n/node-function-bind/node-function-bind_1.1.2+~cs2.1.14-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-function-bind/node-function-bind_1.1.2+~cs2.1.14-1_all.deb",
+    "size": 24648,
+    "sha256": "71e6eb6b5aa31805a9c5048ce4a24fb9728321a80e6a954b197d0f21a368dfa7"
+  },
+  {
+    "file": "debian/pool/main/n/node-object-inspect/node-object-inspect_1.12.2+~cs1.8.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-object-inspect/node-object-inspect_1.12.2+~cs1.8.1-1_all.deb",
+    "size": 20820,
+    "sha256": "e322ce2b0e91f2b79c513343cae934e1acc14bdeac42162f75f8528baa45b41a"
+  },
+  {
+    "file": "debian/pool/main/n/node-es-abstract/node-es-abstract_1.20.4+~cs26.27.47-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-es-abstract/node-es-abstract_1.20.4+~cs26.27.47-2_all.deb",
+    "size": 137164,
+    "sha256": "b3ebf9bafd1beabf485e42e6a1b9292fad978bd04d874ee5e3678f08b459953a"
+  },
+  {
+    "file": "debian/pool/main/n/node-resolve/node-resolve_1.22.8+~cs5.34.15-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-resolve/node-resolve_1.22.8+~cs5.34.15-2_all.deb",
+    "size": 29788,
+    "sha256": "ec99ccf1ae0d56893e18c06bc62b32e3bec29604c091f2bdda9933e9f166847e"
+  },
+  {
+    "file": "debian/pool/main/n/node-define-properties/node-define-properties_1.2.1+~cs2.2.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-define-properties/node-define-properties_1.2.1+~cs2.2.3-1_all.deb",
+    "size": 9080,
+    "sha256": "81238abb996550d5a654b2fd511ad397700ce34b4f3444802608421fdae300fa"
+  },
+  {
+    "file": "debian/pool/main/n/node-debbundle-es-to-primitive/node-debbundle-es-to-primitive_1.2.1+~cs9.7.25-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-debbundle-es-to-primitive/node-debbundle-es-to-primitive_1.2.1+~cs9.7.25-2_all.deb",
+    "size": 39892,
+    "sha256": "6cbf5bcfa0e63067ded4c9da24b5e835c6b11921d2a7226232e5365ef674decb"
+  },
+  {
+    "file": "debian/pool/main/n/node-isobject/node-isobject_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-isobject/node-isobject_4.0.0-2_all.deb",
+    "size": 5332,
+    "sha256": "3a85d41512385149737433b4d34a90b954cf7acb8a74a5c5a636c5685ed543a1"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-descriptor/node-is-descriptor_3.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-descriptor/node-is-descriptor_3.0.0-2_all.deb",
+    "size": 5556,
+    "sha256": "4281c5ff247c622d003717ff28f5ff708835200d7e0d6f2e6f19f7f9e6ecd7e4"
+  },
+  {
+    "file": "debian/pool/main/n/node-define-property/node-define-property_2.0.2+really+2.0.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-define-property/node-define-property_2.0.2+really+2.0.2-3_all.deb",
+    "size": 6820,
+    "sha256": "8013a448d926f2938eab04110429c96784ebdf8f598423b60baf3bbcf5f1b3ee"
+  },
+  {
+    "file": "debian/pool/main/n/node-defined/node-defined_1.0.1+~1.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-defined/node-defined_1.0.1+~1.0.0-1_all.deb",
+    "size": 6776,
+    "sha256": "3b6b1eb2eb13455e7441db56e5054852cca542b4f60195a3800c24dc514bc654"
+  },
+  {
+    "file": "debian/pool/main/n/node-abbrev/node-abbrev_1.1.1+~1.1.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-abbrev/node-abbrev_1.1.1+~1.1.2-1_all.deb",
+    "size": 5692,
+    "sha256": "0224d3fa352743fbaaaa07084f5a61a0a6f3937c8e00d3cfb525053c66587fc5"
+  },
+  {
+    "file": "debian/pool/main/n/node-archy/node-archy_1.0.0-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-archy/node-archy_1.0.0-6_all.deb",
+    "size": 4556,
+    "sha256": "c43798ad1a8264309438d755e39b874ca81deca2fa16a994a15ff37a655384e7"
+  },
+  {
+    "file": "debian/pool/main/n/node-async/node-async_3.2.6+dfsg-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-async/node-async_3.2.6+dfsg-2_all.deb",
+    "size": 96392,
+    "sha256": "4533d9488ef4d215fce0fe64768d68cba3eb267a665501a338d94890cd964e4d"
+  },
+  {
+    "file": "debian/pool/main/n/node-convert-source-map/node-convert-source-map_1.9.0+~1.5.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-convert-source-map/node-convert-source-map_1.9.0+~1.5.2-1_all.deb",
+    "size": 8176,
+    "sha256": "06646ea47ac71d2b3f4b59f1b95e92cc7bbdc3ad68a6621e43ebcdde1d02b39d"
+  },
+  {
+    "file": "debian/pool/main/n/node-decamelize/node-decamelize_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-decamelize/node-decamelize_4.0.0-2_all.deb",
+    "size": 4080,
+    "sha256": "fd677929bbcee34ff8210156d61459105dbcd2d1dc9cc27acb3a3b559eb1da03"
+  },
+  {
+    "file": "debian/pool/main/n/node-es6-error/node-es6-error_4.1.1-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-es6-error/node-es6-error_4.1.1-5_all.deb",
+    "size": 6148,
+    "sha256": "9a2e4c8718ee0ac52372b7f577a0f8645fd6d1dd43a032f5ba89df939a7f8ff7"
+  },
+  {
+    "file": "debian/pool/main/n/node-esprima/node-esprima_4.0.1+ds+~4.0.3-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-esprima/node-esprima_4.0.1+ds+~4.0.3-2_all.deb",
+    "size": 69336,
+    "sha256": "eea11b0c6045cae16e4d2ff3c4fcbb13794a396919921853f2ce45bce66708be"
+  },
+  {
+    "file": "debian/pool/main/n/node-escodegen/node-escodegen_2.1.0+dfsg+~0.0.8-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-escodegen/node-escodegen_2.1.0+dfsg+~0.0.8-1_all.deb",
+    "size": 22952,
+    "sha256": "a9dab2997239c24c3841a81b2122216667631c4a9c86dff6317c4dce8ecd894d"
+  },
+  {
+    "file": "debian/pool/main/n/node-commondir/node-commondir_1.0.1+~1.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-commondir/node-commondir_1.0.1+~1.0.0-1_all.deb",
+    "size": 4388,
+    "sha256": "a4f935318dd030c307bc61b2fc9f586bbb1d5367d4940f664168d98e4428599a"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-number/node-is-number_7.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-number/node-is-number_7.0.0-4_all.deb",
+    "size": 6020,
+    "sha256": "973bca3f4d110183e521d86d99850f6a969dbe4e545a0ca8ac577047c68dd34d"
+  },
+  {
+    "file": "debian/pool/main/n/node-repeat-string/node-repeat-string_1.6.1+repack-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-repeat-string/node-repeat-string_1.6.1+repack-1_all.deb",
+    "size": 5600,
+    "sha256": "24b13bee7b293c1fbe76279a46a46dfebc5d61caed2eca34528db428dfc9211f"
+  },
+  {
+    "file": "debian/pool/main/n/node-to-regex-range/node-to-regex-range_5.0.1-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-to-regex-range/node-to-regex-range_5.0.1-4_all.deb",
+    "size": 10512,
+    "sha256": "391d64dbf3d25d5d05fe10adac197b94919f903593799899b3589a5ac88d0673"
+  },
+  {
+    "file": "debian/pool/main/n/node-fill-range/node-fill-range_7.1.1+~7.0.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fill-range/node-fill-range_7.1.1+~7.0.3-1_all.deb",
+    "size": 8768,
+    "sha256": "d8359d366a8ae72e47f2920b43b7df7681f22284cf15a911f2453446671d925a"
+  },
+  {
+    "file": "debian/pool/main/n/node-braces/node-braces_3.0.3+~3.0.5-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-braces/node-braces_3.0.3+~3.0.5-1_all.deb",
+    "size": 20644,
+    "sha256": "ddf64b81f533344939103bf1f8b7c220fd35ef6be1a76a53f0b6f116e008fcfe"
+  },
+  {
+    "file": "debian/pool/main/n/node-normalize-path/node-normalize-path_3.0.0+~3.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-normalize-path/node-normalize-path_3.0.0+~3.0.0-1_all.deb",
+    "size": 6608,
+    "sha256": "c43ad1928eb686e2b33375dff84e3c209a2bf4cea023e8797fbd3856f9587695"
+  },
+  {
+    "file": "debian/pool/main/n/node-anymatch/node-anymatch_3.1.3+~cs4.6.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-anymatch/node-anymatch_3.1.3+~cs4.6.1-2_all.deb",
+    "size": 33364,
+    "sha256": "b29a079ceebac1aefb5793c91cfa21f2aaef91203c5586f3476267f82cf868b3"
+  },
+  {
+    "file": "debian/pool/main/n/node-micromatch/node-micromatch_4.0.7+~4.0.9-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-micromatch/node-micromatch_4.0.7+~4.0.9-1_all.deb",
+    "size": 26040,
+    "sha256": "b105969b54125e32f10173477e981a30a8f8ab183de74d7ea09002c2fa31b30e"
+  },
+  {
+    "file": "debian/pool/main/n/node-pify/node-pify_5.0.0+~cs5.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-pify/node-pify_5.0.0+~cs5.0.1-1_all.deb",
+    "size": 7072,
+    "sha256": "3bbac05a9f1b353aec10d98ee5a939e4cb2a116980b69430e51a3e601ef222bb"
+  },
+  {
+    "file": "debian/pool/main/n/node-path-type/node-path-type_4.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-path-type/node-path-type_4.0.0-3_all.deb",
+    "size": 3944,
+    "sha256": "ac7c2c0fbdcecc29fb8ffd255245d1297231fa9e56f445ed13b933d0f1e19d2e"
+  },
+  {
+    "file": "debian/pool/main/n/node-n3/node-n3_1.16.3+~1.2.3+~1.10.4-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-n3/node-n3_1.16.3+~1.2.3+~1.10.4-1_all.deb",
+    "size": 37012,
+    "sha256": "c332368613c0a326169b4ecb0b34b86dc9af80f6b6d72de2f5976f2f5a15fcee"
+  },
+  {
+    "file": "debian/pool/main/n/node-slash/node-slash_4.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-slash/node-slash_4.0.0-3_all.deb",
+    "size": 4292,
+    "sha256": "f5e6d4a23ceaa9086bc5e7d9b1b663b87dd993c181b07c93f01f3065aae86b6b"
+  },
+  {
+    "file": "debian/pool/main/n/node-globby/node-globby_13.1.3+~cs16.25.40-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-globby/node-globby_13.1.3+~cs16.25.40-3_all.deb",
+    "size": 40492,
+    "sha256": "c585d79b733e7424cc64d5eddb972dde71d17e7a5dd202ac0ef89ec6e54eb67f"
+  },
+  {
+    "file": "debian/pool/main/n/node-graceful-fs/node-graceful-fs_4.2.10-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-graceful-fs/node-graceful-fs_4.2.10-1_all.deb",
+    "size": 14388,
+    "sha256": "91e6625e820e20cf93532980a1ced1c0bd31a233f9c2304721f48ce7b4f575c9"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-path-cwd/node-is-path-cwd_2.2.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-path-cwd/node-is-path-cwd_2.2.0-2_all.deb",
+    "size": 3672,
+    "sha256": "479883e090cc829d1313d47811161ec5958ab084607500e5ffa85ce98fec4e99"
+  },
+  {
+    "file": "debian/pool/main/n/node-path-is-inside/node-path-is-inside_1.0.2+~1.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-path-is-inside/node-path-is-inside_1.0.2+~1.0.0-1_all.deb",
+    "size": 5072,
+    "sha256": "04fd682f0125697e586fdff0bdb5a39c9707496845a6be1e129ca651108b4111"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-path-inside/node-is-path-inside_3.0.3-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-path-inside/node-is-path-inside_3.0.3-2_all.deb",
+    "size": 3980,
+    "sha256": "6cf38ab364830438a8ec19e68b38a6524142a39ef609c689ba50b9c14613e6de"
+  },
+  {
+    "file": "debian/pool/main/n/node-escape-string-regexp/node-escape-string-regexp_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-escape-string-regexp/node-escape-string-regexp_4.0.0-2_all.deb",
+    "size": 4296,
+    "sha256": "92319d456de35527be3314c891b2f980cef11723929f53d24ab0cb3da19bdfaf"
+  },
+  {
+    "file": "debian/pool/main/n/node-indent-string/node-indent-string_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-indent-string/node-indent-string_4.0.0-2_all.deb",
+    "size": 4144,
+    "sha256": "a33e844a7df2005d6525579b07d9bb40d2ca066c23ce3b3e4d07d389e95a7b2d"
+  },
+  {
+    "file": "debian/pool/main/n/node-p-map/node-p-map_4.0.0+~3.1.0+~3.0.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-p-map/node-p-map_4.0.0+~3.1.0+~3.0.1-2_all.deb",
+    "size": 7904,
+    "sha256": "79d057f11cba7d199514f4115dead729c7a5e040fb2828d5dd8423989be12f07"
+  },
+  {
+    "file": "debian/pool/main/n/node-del/node-del_7.1.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-del/node-del_7.1.0-1_all.deb",
+    "size": 8020,
+    "sha256": "6e3ad07c5c3911e5185b3207f9d03988b0f25218bb9139560154f21f5a4a4934"
+  },
+  {
+    "file": "debian/pool/main/n/node-make-dir/node-make-dir_3.1.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-make-dir/node-make-dir_3.1.0-3_all.deb",
+    "size": 6040,
+    "sha256": "fbba506b02c6c057c776fcad3f7e3ee5ee8e13c96f0189e0eb2da5ba22fa2be7"
+  },
+  {
+    "file": "debian/pool/main/n/node-p-limit/node-p-limit_4.0.0+~cs4.0.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-p-limit/node-p-limit_4.0.0+~cs4.0.0-5_all.deb",
+    "size": 7576,
+    "sha256": "174f6c5e448c5429c4be8e7c1fda47fddd5016630ffe62a0a6be65d64d302a1a"
+  },
+  {
+    "file": "debian/pool/main/n/node-p-locate/node-p-locate_6.0.0-12_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-p-locate/node-p-locate_6.0.0-12_all.deb",
+    "size": 5752,
+    "sha256": "c14496fe5b85710882ee137469faa150f50b4012057defa4e5dbb2ff56479c17"
+  },
+  {
+    "file": "debian/pool/main/n/node-locate-path/node-locate-path_7.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-locate-path/node-locate-path_7.1.1-2_all.deb",
+    "size": 5584,
+    "sha256": "f341cf9804be4019e6112392b40abb98e7d03f4d5413ff35272f8edc8844f277"
+  },
+  {
+    "file": "debian/pool/main/n/node-path-exists/node-path-exists_5.0.0-8_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-path-exists/node-path-exists_5.0.0-8_all.deb",
+    "size": 4732,
+    "sha256": "d8f7d9b94409606df4dd13c019142ee414afb7e0d2accb84a5c5d2d92eb458a0"
+  },
+  {
+    "file": "debian/pool/main/n/node-find-up/node-find-up_6.3.0-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-find-up/node-find-up_6.3.0-7_all.deb",
+    "size": 9388,
+    "sha256": "6d529f3f0e05158b997af3cebcf52cbd2e779c21f67177e8d7653cbaf1b7c154"
+  },
+  {
+    "file": "debian/pool/main/n/node-pkg-dir/node-pkg-dir_5.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-pkg-dir/node-pkg-dir_5.0.0-2_all.deb",
+    "size": 4260,
+    "sha256": "022f47656e44e4a3e30cfffcd171fe09a19138b68227871b947f2c3aeeac1c54"
+  },
+  {
+    "file": "debian/pool/main/n/node-find-cache-dir/node-find-cache-dir_3.3.2+~3.2.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-find-cache-dir/node-find-cache-dir_3.3.2+~3.2.1-1_all.deb",
+    "size": 6152,
+    "sha256": "3a9d6708b041386b7952b351bd313e9323a676b7892f0bfa87ce5acd136dd8ca"
+  },
+  {
+    "file": "debian/pool/main/n/node-signal-exit/node-signal-exit_4.1.0-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-signal-exit/node-signal-exit_4.1.0-7_all.deb",
+    "size": 14400,
+    "sha256": "219f7b7a11744c13b48d8594ac159a801b946e81907ad64cc296d0180dcb56c5"
+  },
+  {
+    "file": "debian/pool/main/n/node-foreground-child/node-foreground-child_3.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-foreground-child/node-foreground-child_3.1.1-2_all.deb",
+    "size": 13344,
+    "sha256": "93824f6eb7cb34d473130c354780de9897ae3b91b621c4e5fc9dd8633da07784"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-stream/node-is-stream_3.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-stream/node-is-stream_3.0.0-4_all.deb",
+    "size": 5076,
+    "sha256": "72905c7264217913b5c9884b7e359373b8d5aa672047641f96cd1d0324b62aea"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-windows/node-is-windows_1.0.2+~cs1.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-windows/node-is-windows_1.0.2+~cs1.0.0-1_all.deb",
+    "size": 5936,
+    "sha256": "23d066457e8c52265552b307a2046590eda757da419517ad002e2040dc917535"
+  },
+  {
+    "file": "debian/pool/main/n/node-ampproject-remapping/node-ampproject-remapping_2.2.0+~cs5.15.37-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ampproject-remapping/node-ampproject-remapping_2.2.0+~cs5.15.37-1_all.deb",
+    "size": 59408,
+    "sha256": "a93ab6323e438bfdde6083da053ea33a427a37cd4fceb9e6148ab3022e6f1cbb"
+  },
+  {
+    "file": "debian/pool/main/n/node-sprintf-js/node-sprintf-js_1.1.2+ds1+~1.1.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-sprintf-js/node-sprintf-js_1.1.2+ds1+~1.1.2-1_all.deb",
+    "size": 4024,
+    "sha256": "07cfc9e43940fef4c8fa2679af551daad277122673888c97e0959bbba95b8024"
+  },
+  {
+    "file": "debian/pool/main/n/node-argparse/node-argparse_2.0.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-argparse/node-argparse_2.0.1-2_all.deb",
+    "size": 34596,
+    "sha256": "f952b9c2d1a381996c7f1ddbfd4194615f085e68b24516bd58215fa34830301a"
+  },
+  {
+    "file": "debian/pool/main/n/node-js-yaml/node-js-yaml_4.1.0+dfsg+~4.0.5-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-js-yaml/node-js-yaml_4.1.0+dfsg+~4.0.5-7_all.deb",
+    "size": 66644,
+    "sha256": "7ff36c5c2924287094355442e5bbd926241e6bf6916ec056c66e7884f22b1bb0"
+  },
+  {
+    "file": "debian/pool/main/n/node-nopt/node-nopt_5.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-nopt/node-nopt_5.0.0-4_all.deb",
+    "size": 12064,
+    "sha256": "c153a924d112eab6bab2bf9aed0ad9342697dea3580928f5f3fb27fe177bbfe0"
+  },
+  {
+    "file": "debian/pool/main/n/node-npm-run-path/node-npm-run-path_5.1.0+~4.0.0-8_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-npm-run-path/node-npm-run-path_5.1.0+~4.0.0-8_all.deb",
+    "size": 6276,
+    "sha256": "dc136f2d837edd00d8c91106f134694a02feeba347655b11908ad7eaa3e6d84c"
+  },
+  {
+    "file": "debian/pool/main/n/node-shebang-regex/node-shebang-regex_3.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-shebang-regex/node-shebang-regex_3.0.0-2_all.deb",
+    "size": 3528,
+    "sha256": "db436769a61f89674320c7095ea17f03f9b5cd510c817abd231c4fb07b137a6d"
+  },
+  {
+    "file": "debian/pool/main/n/node-shebang-command/node-shebang-command_2.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-shebang-command/node-shebang-command_2.0.0-1_all.deb",
+    "size": 3500,
+    "sha256": "4db6cc0ac7df2e1e9e4d4c0f9caf0e8015b5b8e013ab0735861e9d56ceb8682f"
+  },
+  {
+    "file": "debian/pool/main/n/node-strip-bom/node-strip-bom_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-strip-bom/node-strip-bom_4.0.0-2_all.deb",
+    "size": 4144,
+    "sha256": "8e696c3ff7f4c8d8611cace49239d81c516b36db113c700d682a0942f643f660"
+  },
+  {
+    "file": "debian/pool/main/n/node-has-flag/node-has-flag_5.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-has-flag/node-has-flag_5.0.1-1_all.deb",
+    "size": 4404,
+    "sha256": "a78586ac05233eeda85fbc61f50949e6a15a67b7f1ebe62875acea8adbaf1d0e"
+  },
+  {
+    "file": "debian/pool/main/n/node-supports-color/node-supports-color_8.1.1+~8.1.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-supports-color/node-supports-color_8.1.1+~8.1.1-1_all.deb",
+    "size": 6920,
+    "sha256": "9763a40876eda02926deb573dbe87044414c891c18b59652265cb9c39ca04565"
+  },
+  {
+    "file": "debian/pool/main/n/node-util/node-util_0.12.5+~1.0.10-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-util/node-util_0.12.5+~1.0.10-1_all.deb",
+    "size": 5700,
+    "sha256": "a97ec97b1306a0ce29b26af1023c021967b23ca61bd4c1d6db6b5d9a198ca282"
+  },
+  {
+    "file": "debian/pool/main/n/node-assert/node-assert_2.0.0+~cs3.9.8-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-assert/node-assert_2.0.0+~cs3.9.8-2_all.deb",
+    "size": 26788,
+    "sha256": "e96c18280a6c770738076e561be16d3babf1cef5f91f401568c8d4ea4de9aeff"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel-plugin-add-module-exports/node-babel-plugin-add-module-exports_1.0.4+dfsg1~cs5.8.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel-plugin-add-module-exports/node-babel-plugin-add-module-exports_1.0.4+dfsg1~cs5.8.0-4_all.deb",
+    "size": 8672,
+    "sha256": "b722b91c889eb29314ab9d9eaf32c3b459183f2e482f112369e8967ff3e0d8fc"
+  },
+  {
+    "file": "debian/pool/main/n/node-regenerator/node-regenerator-runtime_0.15.2+~0.10.8-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regenerator/node-regenerator-runtime_0.15.2+~0.10.8-1_all.deb",
+    "size": 10712,
+    "sha256": "73bbf5d279a86b7cf119f5ec66344a88d1788fe4e158291b43f2c596267d0ca8"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel7/node-babel7-runtime_7.20.15+ds1+~cs214.269.168-8_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel7/node-babel7-runtime_7.20.15+ds1+~cs214.269.168-8_all.deb",
+    "size": 116176,
+    "sha256": "edb9894b24522adab233ac048a4f56decb535ecf02b39ac6a66a9bec4bf5291e"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel-polyfills/node-babel-helper-define-polyfill-provider_0.3.3~0~20220913+ds1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel-polyfills/node-babel-helper-define-polyfill-provider_0.3.3~0~20220913+ds1-1_all.deb",
+    "size": 27412,
+    "sha256": "04d6318d18035e43c5d91df41c1ceb54e3dccba897d0fc81174f970b4b38fb46"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel-polyfills/node-babel-plugin-polyfill-corejs2_0.3.3~0~20220913+ds1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel-polyfills/node-babel-plugin-polyfill-corejs2_0.3.3~0~20220913+ds1-1_all.deb",
+    "size": 17148,
+    "sha256": "e48db97cd830a82400742381828d0fbf0382149413645fe83625f7d8b205352e"
+  },
+  {
+    "file": "debian/pool/main/n/node-caniuse-lite/node-caniuse-lite_1.0.30001723+dfsg+~1.0.5-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-caniuse-lite/node-caniuse-lite_1.0.30001723+dfsg+~1.0.5-1_all.deb",
+    "size": 254596,
+    "sha256": "4ee7c814d5ffda67bbf70527da20587dda020a2826c64716cdefb67ddb057d3b"
+  },
+  {
+    "file": "debian/pool/main/n/node-electron-to-chromium/node-electron-to-chromium_1.5.166-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-electron-to-chromium/node-electron-to-chromium_1.5.166-1_all.deb",
+    "size": 20896,
+    "sha256": "047ae83a75387d9a5f6a90dfcb24504fa30dd22f3b8cdc154197e02572ac18a5"
+  },
+  {
+    "file": "debian/pool/main/n/node-picocolors/node-picocolors_1.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-picocolors/node-picocolors_1.0.0-4_all.deb",
+    "size": 6652,
+    "sha256": "aa57d5f2c10614c5f8d4c0c92124136e8dbd636a011f50230367b2f3ea059f95"
+  },
+  {
+    "file": "debian/pool/main/n/node-browserslist/node-browserslist_4.25.0+~cs6.3.22-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-browserslist/node-browserslist_4.25.0+~cs6.3.22-1_all.deb",
+    "size": 72296,
+    "sha256": "4d384e4594acd96d1ac2e4e7479471bc5d99aec2ec596b85c521339fc34f2bdb"
+  },
+  {
+    "file": "debian/pool/main/n/node-core-js/node-core-js-compat_3.33.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-core-js/node-core-js-compat_3.33.2-1_all.deb",
+    "size": 78492,
+    "sha256": "ca4c1370df14ff55ef60ef04cc22d7fa533eb65eacc003301581eb555a6218d2"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel-polyfills/node-babel-plugin-polyfill-corejs3_0.6.0~0~20220913+ds1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel-polyfills/node-babel-plugin-polyfill-corejs3_0.6.0~0~20220913+ds1-1_all.deb",
+    "size": 29504,
+    "sha256": "ac1191a44572db610aff41941e83d653eecea8d809de98649ed1a4d3b5536943"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel-polyfills/node-babel-plugin-polyfill-regenerator_0.4.1~0~20220913+ds1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel-polyfills/node-babel-plugin-polyfill-regenerator_0.4.1~0~20220913+ds1-1_all.deb",
+    "size": 5036,
+    "sha256": "2c04f63580d994750a98d285bdb6793452a007a78f755f9176c33dc25ddd75f3"
+  },
+  {
+    "file": "debian/pool/main/n/node-color-name/node-color-name_1.1.4+~1.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-color-name/node-color-name_1.1.4+~1.1.1-2_all.deb",
+    "size": 5920,
+    "sha256": "42b54407ccb4aa6b20abf0b739bbb83f1c34ec835f8e5484f71020aba82b6734"
+  },
+  {
+    "file": "debian/pool/main/n/node-color-convert/node-color-convert_2.0.1+~cs2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-color-convert/node-color-convert_2.0.1+~cs2.0.0-2_all.deb",
+    "size": 13064,
+    "sha256": "42f3f4fe7f3571cdc505427e2cd68b47db7c78ea01709d74697a60be78fb6c06"
+  },
+  {
+    "file": "debian/pool/main/n/node-ansi-styles/node-ansi-styles_6.2.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ansi-styles/node-ansi-styles_6.2.1-3_all.deb",
+    "size": 8716,
+    "sha256": "8bad951c31c1427b8f31aa6e0ad56a69d33ec5abd9f9c6c1107694904cde03c2"
+  },
+  {
+    "file": "debian/pool/main/n/node-chalk/node-chalk_5.3.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-chalk/node-chalk_5.3.0-1_all.deb",
+    "size": 18208,
+    "sha256": "e1c5d4ecd6df3857ad4467f6dda8c98396ffe08813dac41c669aa15d677cfe70"
+  },
+  {
+    "file": "debian/pool/main/n/node-for-in/node-for-in_1.0.2-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-for-in/node-for-in_1.0.2-4_all.deb",
+    "size": 4840,
+    "sha256": "097218ad13532ef87a238ece0f310db003e9f1b805f2d8ef4c3f467a742ea63b"
+  },
+  {
+    "file": "debian/pool/main/n/node-for-own/node-for-own_1.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-for-own/node-for-own_1.0.0-3_all.deb",
+    "size": 4800,
+    "sha256": "ccaf0e74e4e6398e56a3627808e5ea5f4b8556b99a0e4d208c7c2dc2b64690f1"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-plain-object/node-is-plain-object_5.0.0-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-plain-object/node-is-plain-object_5.0.0-7_all.deb",
+    "size": 6108,
+    "sha256": "5dbc4f09984e435ebea3db11a42be44ae9a1fd92432e4c3114949d396e0eeb7b"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-extendable/node-is-extendable_1.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-extendable/node-is-extendable_1.0.1-3_all.deb",
+    "size": 5228,
+    "sha256": "ddb42c0d591b4d9faa2410e8904a89fc1414ab2ed3bdc469e83e5db9015d76ce"
+  },
+  {
+    "file": "debian/pool/main/n/node-clone-deep/node-clone-deep_4.0.1+~cs7.0.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-clone-deep/node-clone-deep_4.0.1+~cs7.0.2-1_all.deb",
+    "size": 6720,
+    "sha256": "77c5555933f19dc98c8168bd80594be08868cd1919b683e668051e3c5e8091d1"
+  },
+  {
+    "file": "debian/pool/main/n/node-commander/node-commander_9.4.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-commander/node-commander_9.4.1-1_all.deb",
+    "size": 65344,
+    "sha256": "0364add6ee045692680438188419425a6c66f12774eb0d0dd3038b5d9b83edf5"
+  },
+  {
+    "file": "debian/pool/main/n/node-core-js/node-core-js_3.33.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-core-js/node-core-js_3.33.2-1_all.deb",
+    "size": 300872,
+    "sha256": "8ce0004bbf83e8df000f3ec10908f11248b40623da045e54b0d85d62e2cd30ad"
+  },
+  {
+    "file": "debian/pool/main/n/node-core-js/node-core-js-pure_3.33.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-core-js/node-core-js-pure_3.33.2-1_all.deb",
+    "size": 281712,
+    "sha256": "09d3a2c725b290cc4717053c2582d7e59f54fa7574a6fd3c68af6c9f7d3a06b0"
+  },
+  {
+    "file": "debian/pool/main/n/node-fs-readdir-recursive/node-fs-readdir-recursive_1.1.0+~1.1.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fs-readdir-recursive/node-fs-readdir-recursive_1.1.0+~1.1.0-1_all.deb",
+    "size": 4540,
+    "sha256": "0eee8abc0a72a59a865e29e058c94847679fdab5f60bda045a0e90ea8bdc6581"
+  },
+  {
+    "file": "debian/pool/main/n/node-js-tokens/node-js-tokens_8.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-js-tokens/node-js-tokens_8.0.0-2_all.deb",
+    "size": 14940,
+    "sha256": "0d8e65e7c01f817d406c84c22df00abb71f1c8dc11a193a58025f40954f6a4b9"
+  },
+  {
+    "file": "debian/pool/main/n/node-jsesc/node-jsesc_3.0.2+~3.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-jsesc/node-jsesc_3.0.2+~3.0.1-1_all.deb",
+    "size": 17644,
+    "sha256": "2f892fe20d56df1d88791f0cbec8b8b41ec7af7258ffd838ae55d3e4a61c3ff3"
+  },
+  {
+    "file": "debian/pool/main/n/node-json5/node-json5_2.2.3+dfsg-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-json5/node-json5_2.2.3+dfsg-1_all.deb",
+    "size": 25576,
+    "sha256": "79a040727bc23fdbb62975389f7d28e869aaf72ccd64291511c155ad0b855cb5"
+  },
+  {
+    "file": "debian/pool/main/n/node-quick-lru/node-quick-lru_6.1.1-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-quick-lru/node-quick-lru_6.1.1-4_all.deb",
+    "size": 8076,
+    "sha256": "38edf8e9ce8f1728cfdf884775fe7660a772cda9bf3d0d2c39fa0e9adb364501"
+  },
+  {
+    "file": "debian/pool/main/n/node-regenerator/node-regenerator-transform_0.15.2+~0.10.8-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regenerator/node-regenerator-transform_0.15.2+~0.10.8-1_all.deb",
+    "size": 24884,
+    "sha256": "fed5ebb243bfb6d0b15a5ea637f2305b3dd20c8acadeb5dc546eaa1bb4f9fe66"
+  },
+  {
+    "file": "debian/pool/main/n/node-regjsgen/node-regjsgen_0.7.1+ds-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regjsgen/node-regjsgen_0.7.1+ds-1_all.deb",
+    "size": 6968,
+    "sha256": "cab3cb1f8ef4b42f4fc77bc86c214314f866c5dfac3206e9c982a32b611e8be1"
+  },
+  {
+    "file": "debian/pool/main/n/node-regjsparser/node-regjsparser_0.9.1+ds-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regjsparser/node-regjsparser_0.9.1+ds-2_all.deb",
+    "size": 22128,
+    "sha256": "6cd0c28cb90ea5b99d4fc33a5009de3f55ad8ad9e29baf1f128f91bfdeaacac6"
+  },
+  {
+    "file": "debian/pool/main/n/node-unicode-canonical-property-names-ecmascript/node-unicode-canonical-property-names-ecmascript_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-unicode-canonical-property-names-ecmascript/node-unicode-canonical-property-names-ecmascript_2.0.0-2_all.deb",
+    "size": 4540,
+    "sha256": "4018255244ed975d9dfd715a693b4971a1f6b05b50f5fe651128773ae2b4a6ff"
+  },
+  {
+    "file": "debian/pool/main/n/node-unicode-property-aliases-ecmascript/node-unicode-property-aliases-ecmascript_2.1.0+ds-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-unicode-property-aliases-ecmascript/node-unicode-property-aliases-ecmascript_2.1.0+ds-1_all.deb",
+    "size": 5256,
+    "sha256": "5062063e82a182f6c5f9cb2673d05ec9da32ccbc785d7102effb136b0e3749c6"
+  },
+  {
+    "file": "debian/pool/main/n/node-unicode-match-property-ecmascript/node-unicode-match-property-ecmascript_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-unicode-match-property-ecmascript/node-unicode-match-property-ecmascript_2.0.0-2_all.deb",
+    "size": 4440,
+    "sha256": "94b7c376ce2ec39e098e41e6f3c8a07d48d3e885b4cb50b3f01f45b6a6757da2"
+  },
+  {
+    "file": "debian/pool/main/n/node-unicode-match-property-value-ecmascript/node-unicode-match-property-value-ecmascript_2.1.0+ds-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-unicode-match-property-value-ecmascript/node-unicode-match-property-value-ecmascript_2.1.0+ds-1_all.deb",
+    "size": 7272,
+    "sha256": "cbdc5ada230e9c0b1f90d2d16eb1dc24bdf5671fa8e670b1c5d1f7ec0ce2683e"
+  },
+  {
+    "file": "debian/pool/main/n/node-regexpu-core/node-regexpu-core_5.2.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-regexpu-core/node-regexpu-core_5.2.2-3_all.deb",
+    "size": 13928,
+    "sha256": "45a94f616e7f37aa52051b8721d462218e3f1b84673c9af7001acad41ee2acfc"
+  },
+  {
+    "file": "debian/pool/main/n/node-source-map-support/node-source-map-support_0.5.21+ds+~0.5.10-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-source-map-support/node-source-map-support_0.5.21+ds+~0.5.10-1_all.deb",
+    "size": 15328,
+    "sha256": "46bc8d5e25487bd345242187651c1af6dc2d4df3f9110963373053140265d6c0"
+  },
+  {
+    "file": "debian/pool/main/n/node-to-fast-properties/node-to-fast-properties_3.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-to-fast-properties/node-to-fast-properties_3.0.1-3_all.deb",
+    "size": 4332,
+    "sha256": "606fa7a95deba1ff522819d70beb53eea2b32cd191e9fbb3ce61847e12410d9d"
+  },
+  {
+    "file": "debian/pool/main/n/node-v8flags/node-v8flags_3.2.0+~3.1.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-v8flags/node-v8flags_3.2.0+~3.1.1-1_all.deb",
+    "size": 7612,
+    "sha256": "aaab4c1bd87f5ec2930ef61e4f9d8068f664f1380f6ea952690372b7723ccf9e"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel7/node-babel7_7.20.15+ds1+~cs214.269.168-8_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel7/node-babel7_7.20.15+ds1+~cs214.269.168-8_all.deb",
+    "size": 708568,
+    "sha256": "b476153389068ca77b0cd2cdfde816b24f05805070694083ba560f5db86ad95b"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-arrayish/node-is-arrayish_0.3.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-arrayish/node-is-arrayish_0.3.2-3_all.deb",
+    "size": 3960,
+    "sha256": "54667ec3159a9034e647932b22d6ebed236f86ebb21fdeaa03326377a1dd811c"
+  },
+  {
+    "file": "debian/pool/main/n/node-error-ex/node-error-ex_1.3.2-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-error-ex/node-error-ex_1.3.2-4_all.deb",
+    "size": 5656,
+    "sha256": "83d060e08cb518b8daa2af517fbbbe0f364fd672b2adc19a0eb8e66490d1f3ec"
+  },
+  {
+    "file": "debian/pool/main/n/node-json-parse-better-errors/node-json-parse-better-errors_1.0.2+~cs3.3.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-json-parse-better-errors/node-json-parse-better-errors_1.0.2+~cs3.3.1-3_all.deb",
+    "size": 7724,
+    "sha256": "1cc93395cbb32cf39af459c9d9f6bcd2e4d247e8d5c06484dd17faa52c038e62"
+  },
+  {
+    "file": "debian/pool/main/n/node-parse-json/node-parse-json_5.2.0+~cs5.1.7-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-parse-json/node-parse-json_5.2.0+~cs5.1.7-2_all.deb",
+    "size": 7304,
+    "sha256": "b92dd2e5f626f20316eba6f2c06271b5d6068d80ea8b2bdcce953f7387e92767"
+  },
+  {
+    "file": "debian/pool/main/n/node-hosted-git-info/node-hosted-git-info_6.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-hosted-git-info/node-hosted-git-info_6.1.1-2_all.deb",
+    "size": 12556,
+    "sha256": "c89e7d95bc9203687313fe89b2cc09a5237385261d86b9245ae045a7f2039e59"
+  },
+  {
+    "file": "debian/pool/main/n/node-spdx-license-ids/node-spdx-license-ids_3.0.12-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-spdx-license-ids/node-spdx-license-ids_3.0.12-1_all.deb",
+    "size": 6276,
+    "sha256": "0837fd1957fea3c9d0c1814e349294ca61cf20140c829b75aa7ca4bf2acb6429"
+  },
+  {
+    "file": "debian/pool/main/n/node-spdx-exceptions/node-spdx-exceptions_2.3.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-spdx-exceptions/node-spdx-exceptions_2.3.0-2_all.deb",
+    "size": 3992,
+    "sha256": "4ed1920f05793a2e386aebefcfb68f6737d94caed1a78bd8937ba08203b6acb0"
+  },
+  {
+    "file": "debian/pool/main/n/node-spdx-expression-parse/node-spdx-expression-parse_3.0.1+~3.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-spdx-expression-parse/node-spdx-expression-parse_3.0.1+~3.0.1-1_all.deb",
+    "size": 7532,
+    "sha256": "760254a23f99c05249f9da47b9c44571fa4747fc9ebb3ebf6a864e934ce7d2be"
+  },
+  {
+    "file": "debian/pool/main/n/node-spdx-correct/node-spdx-correct_3.1.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-spdx-correct/node-spdx-correct_3.1.1-2_all.deb",
+    "size": 5464,
+    "sha256": "a5edd5baf13101e637989284195f79b41cd25888c2c0e39425dc7412a1971397"
+  },
+  {
+    "file": "debian/pool/main/n/node-validate-npm-package-license/node-validate-npm-package-license_3.0.4-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-validate-npm-package-license/node-validate-npm-package-license_3.0.4-2_all.deb",
+    "size": 4280,
+    "sha256": "3f70f5fd781d227714292e0a9c2c33ab827f96334939ae118c22d32675193dd7"
+  },
+  {
+    "file": "debian/pool/main/n/node-normalize-package-data/node-normalize-package-data_4.0.1+~2.4.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-normalize-package-data/node-normalize-package-data_4.0.1+~2.4.1-1_all.deb",
+    "size": 13648,
+    "sha256": "d5f1634248944291dbc5a3451fd47c4a5f156e73500e81dff5bc7fbd90341761"
+  },
+  {
+    "file": "debian/pool/main/n/node-read-pkg/node-read-pkg_5.2.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-read-pkg/node-read-pkg_5.2.0-2_all.deb",
+    "size": 23988,
+    "sha256": "82e708394429a854c3de0957dc6575aa7384f4bed939bd0669e7c0f90abf80bd"
+  },
+  {
+    "file": "debian/pool/main/n/node-uuid/node-uuid_8.3.2+~8.3.4-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-uuid/node-uuid_8.3.2+~8.3.4-1_all.deb",
+    "size": 44452,
+    "sha256": "3580e6620557cda9331bb50e372b9b9817c4990a0fb01c75cb503c71cee7800c"
+  },
+  {
+    "file": "debian/pool/main/n/node-isexe/node-isexe_2.0.0+~2.0.1-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-isexe/node-isexe_2.0.0+~2.0.1-5_all.deb",
+    "size": 6084,
+    "sha256": "2e05a31d02477d547ff1c6bbd413a6e0aaf6be9d5cf1337631531ee0310287b1"
+  },
+  {
+    "file": "debian/pool/main/n/node-which/node-which_2.0.2+~cs1.3.2-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-which/node-which_2.0.2+~cs1.3.2-3_all.deb",
+    "size": 8368,
+    "sha256": "019a19da8189bb663e381d69b3b7c977f1ce15be6185911527f4ce67c8bc814c"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-typedarray/node-is-typedarray_1.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-typedarray/node-is-typedarray_1.0.0-4_all.deb",
+    "size": 3292,
+    "sha256": "b13b58e8bb22dbe46a6e3332df4fe429d39462ff95bececcfa7877fa55a627c5"
+  },
+  {
+    "file": "debian/pool/main/n/node-typedarray-to-buffer/node-typedarray-to-buffer_4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-typedarray-to-buffer/node-typedarray-to-buffer_4.0.0-2_all.deb",
+    "size": 3380,
+    "sha256": "8ce9a67c04502046561998e64c53613337d3cb4e5cd3f5d2b593df280d922ab1"
+  },
+  {
+    "file": "debian/pool/main/n/node-write-file-atomic/node-write-file-atomic_4.0.2+~4.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-write-file-atomic/node-write-file-atomic_4.0.2+~4.0.0-2_all.deb",
+    "size": 9308,
+    "sha256": "171c2835a9686a87c1d57479364c54e3049ec5869b74a683e0a2b9450ac30192"
+  },
+  {
+    "file": "debian/pool/main/n/node-slice-ansi/node-slice-ansi_5.0.0+~cs9.0.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-slice-ansi/node-slice-ansi_5.0.0+~cs9.0.0-5_all.deb",
+    "size": 8788,
+    "sha256": "78c23ce33842ab642c069e8a8b2ceafff8a72edf4b3e26b7ea07af8e3daf5367"
+  },
+  {
+    "file": "debian/pool/main/n/node-ansi-regex/node-ansi-regex_5.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ansi-regex/node-ansi-regex_5.0.1-1_all.deb",
+    "size": 4912,
+    "sha256": "2c5c21c7b51d656cd246f02e7e4c2e36716a0480a92eaeec5057e5900ca05a7c"
+  },
+  {
+    "file": "debian/pool/main/n/node-strip-ansi/node-strip-ansi_6.0.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-strip-ansi/node-strip-ansi_6.0.1-2_all.deb",
+    "size": 4120,
+    "sha256": "0e1c24c2c1a1cfcf6c57d63f19d758beefe63cb891ef7f976e5d338686b4a176"
+  },
+  {
+    "file": "debian/pool/main/n/node-clone/node-clone_2.1.2+~2.1.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-clone/node-clone_2.1.2+~2.1.2-1_all.deb",
+    "size": 9140,
+    "sha256": "68ea0dbc67a0a47c02d8908b044efb1092d5abdd69e77e873d3a92154e637c55"
+  },
+  {
+    "file": "debian/pool/main/n/node-defaults/node-defaults_1.0.4+~1.0.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-defaults/node-defaults_1.0.4+~1.0.3-1_all.deb",
+    "size": 4400,
+    "sha256": "5c128696c4b3e38aed638efb6b7b757ec0dd44aa4e7108ede901c89e32028a0c"
+  },
+  {
+    "file": "debian/pool/main/n/node-wcwidth.js/node-wcwidth.js_1.0.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-wcwidth.js/node-wcwidth.js_1.0.2-2_all.deb",
+    "size": 7088,
+    "sha256": "b90b7944f97c6ccd848038aabf2cc9b8de0f5efab59b473f97f599d0c7b548b3"
+  },
+  {
+    "file": "debian/pool/main/n/node-string-width/node-string-width_4.2.3+~cs13.2.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-string-width/node-string-width_4.2.3+~cs13.2.3-1_all.deb",
+    "size": 10684,
+    "sha256": "700622fb5c1f58c3fa5e27ffe6beba4a0eb542db11d7ba5cb2553bdcdc345df6"
+  },
+  {
+    "file": "debian/pool/main/n/node-wrap-ansi/node-wrap-ansi_8.0.1+~8.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-wrap-ansi/node-wrap-ansi_8.0.1+~8.0.1-3_all.deb",
+    "size": 11780,
+    "sha256": "176bb434dae1a577548454a63865d44506fbf22f40728fea954c13850684621b"
+  },
+  {
+    "file": "debian/pool/main/n/node-cliui/node-cliui_7.0.4+repack+1+~cs1.4.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-cliui/node-cliui_7.0.4+repack+1+~cs1.4.2-2_all.deb",
+    "size": 21620,
+    "sha256": "d50243c67c08f1cc62cc06c7f68381b369c992493437fa47ac4995bf817d1101"
+  },
+  {
+    "file": "debian/pool/main/n/node-get-caller-file/node-get-caller-file_2.0.5+~cs1.1.1-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-get-caller-file/node-get-caller-file_2.0.5+~cs1.1.1-4_all.deb",
+    "size": 5728,
+    "sha256": "f1116136df2d8a4d7d19651ebabecd24e06ab856476f95ab73efec81cd440b26"
+  },
+  {
+    "file": "debian/pool/main/n/node-require-directory/node-require-directory_2.1.1+~2.1.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-require-directory/node-require-directory_2.1.1+~2.1.2-1_all.deb",
+    "size": 7092,
+    "sha256": "016671ade909cdfb733331e5d69956acd6b00eb87f850c1ba0b40df115c4fb6a"
+  },
+  {
+    "file": "debian/pool/main/n/node-y18n/node-y18n_5.0.8+~5.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-y18n/node-y18n_5.0.8+~5.0.0-3_all.deb",
+    "size": 10152,
+    "sha256": "f54c63847892acf577e7342b585a0396aad619b509bd4de60ec12245ad73ac51"
+  },
+  {
+    "file": "debian/pool/main/n/node-camelcase/node-camelcase_7.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-camelcase/node-camelcase_7.0.0-3_all.deb",
+    "size": 6032,
+    "sha256": "e0c4dcc9e1541f21af943d05bf63008e47e5cc6571c83bd2dcddc11977f0f83d"
+  },
+  {
+    "file": "debian/pool/main/n/node-yargs-parser/node-yargs-parser_21.1.1+~21.0.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-yargs-parser/node-yargs-parser_21.1.1+~21.0.0-4_all.deb",
+    "size": 28372,
+    "sha256": "98893e42d7744d738460f0a6fb6ad8d845d744880166a68a4f4ba6d9b9869f0b"
+  },
+  {
+    "file": "debian/pool/main/n/node-yargs/node-yargs_16.2.0+~16.0.4-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-yargs/node-yargs_16.2.0+~16.0.4-7_all.deb",
+    "size": 127736,
+    "sha256": "bc3d3c720045892b785df23480f97b10f0f92e8d30999db2480b9d66df8a452f"
+  },
+  {
+    "file": "debian/pool/main/n/node-istanbul/node-istanbul_0.4.5+repack10+~cs98.25.59-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-istanbul/node-istanbul_0.4.5+repack10+~cs98.25.59-3_all.deb",
+    "size": 210972,
+    "sha256": "283dee274e3b8cb05b870baa1db6f9ecb3a74fdbf8485954f80986c33f455342"
+  },
+  {
+    "file": "debian/pool/main/n/node-through/node-through_2.3.8+~cs0.0.30-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-through/node-through_2.3.8+~cs0.0.30-1_all.deb",
+    "size": 5452,
+    "sha256": "e101d8fc8672b10c06a1602a436bdc60c715c5df9731fb5ab8a4fb3c4b7f0d0b"
+  },
+  {
+    "file": "debian/pool/main/n/node-resumer/node-resumer_0.0.0-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-resumer/node-resumer_0.0.0-6_all.deb",
+    "size": 4144,
+    "sha256": "323fd68451287af5c4761fdf97ccc59f3549e80509a9ac7bef044acf27f85b01"
+  },
+  {
+    "file": "debian/pool/main/n/node-tape/node-tape_5.6.1+~cs8.20.19-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-tape/node-tape_5.6.1+~cs8.20.19-3_all.deb",
+    "size": 71044,
+    "sha256": "ce6231b8afab05058d7280c5b8f40c7a861f09bcc019468e14371a16801f473a"
+  },
+  {
+    "file": "debian/pool/main/n/node-deep-equal/node-deep-equal_2.2.3+~cs43.15.94-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-deep-equal/node-deep-equal_2.2.3+~cs43.15.94-1_all.deb",
+    "size": 130604,
+    "sha256": "1027cc6b3484068e29d43ef13bd54553981d8e521b52145dbce88e218782f44e"
+  },
+  {
+    "file": "debian/pool/main/n/node-util/libjs-util_0.12.5+~1.0.10-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-util/libjs-util_0.12.5+~1.0.10-1_all.deb",
+    "size": 15952,
+    "sha256": "24655dd30ab1e87d2bd69a3427f4f77dfe766aa2785f915d752d1e3786711b9f"
+  },
+  {
+    "file": "debian-security/pool/updates/main/o/openssl/libssl-dev_3.5.7-1~deb13u3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/o/openssl/libssl-dev_3.5.7-1~deb13u3_arm64.deb",
+    "size": 3398620,
+    "sha256": "ee3ce1214925d3905a8ad54ea1250b016438322f73a9719474fcd0ece6243a8e"
+  },
+  {
+    "file": "debian/pool/main/libu/libuv1/libuv1-dev_1.50.0-2_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/libu/libuv1/libuv1-dev_1.50.0-2_arm64.deb",
+    "size": 186476,
+    "sha256": "200e87135257be04cd52abc47f0842e04a3551b2251fa1e52c2f0d3e6b07287b"
+  },
+  {
+    "file": "debian-security/pool/updates/main/n/nodejs/libnode-dev_20.19.2+dfsg-1+deb13u3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z/pool/updates/main/n/nodejs/libnode-dev_20.19.2+dfsg-1+deb13u3_arm64.deb",
+    "size": 538540,
+    "sha256": "cbcf4c7729b7044bfd2e62e952ade5dd043e9c26dfddcad6e3c36dc70fee79db"
+  },
+  {
+    "file": "debian/pool/main/p/pkgconf/libpkgconf3_1.8.1-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/pkgconf/libpkgconf3_1.8.1-4_arm64.deb",
+    "size": 35324,
+    "sha256": "8a9477ed7af47d7ddefa1fe02bf9f87d6778e8cc59062064f1b076880a7a14a5"
+  },
+  {
+    "file": "debian/pool/main/z/zlib/zlib1g-dev_1.3.dfsg+really1.3.1-1+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/z/zlib/zlib1g-dev_1.3.dfsg+really1.3.1-1+b1_arm64.deb",
+    "size": 916612,
+    "sha256": "745ebcf1fa115e230af76216355d7290a24f1790fe3780249b519c0e4d30534f"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/libpython3.13-dev_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/libpython3.13-dev_3.13.5-2+deb13u5_arm64.deb",
+    "size": 4932808,
+    "sha256": "cd8e73644d319576d8cf02ab63ccd6b1fb8eb12637b5f59114b520a9b3d4741e"
+  },
+  {
+    "file": "debian/pool/main/p/python3-defaults/libpython3-dev_3.13.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3-defaults/libpython3-dev_3.13.5-1_arm64.deb",
+    "size": 10448,
+    "sha256": "c5475e33344f1f40375de63bedb02fadb532180de140d37aca9fbd69756642b5"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-toolchain-19/lld-19_19.1.7-3+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-toolchain-19/lld-19_19.1.7-3+b1_arm64.deb",
+    "size": 1238784,
+    "sha256": "e7d180df5b58c9da4571ad0105ae22277df5a33d68f72a417f85ca75d849934a"
+  },
+  {
+    "file": "debian/pool/main/l/llvm-defaults/lld_19.0-63_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/l/llvm-defaults/lld_19.0-63_arm64.deb",
+    "size": 5896,
+    "sha256": "4887628f9475305ffddd36cf5fec8db5175d69e01d679cbd0ed309cbc8311ee0"
+  },
+  {
+    "file": "debian/pool/main/n/ninja-build/ninja-build_1.12.1-1+b1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/ninja-build/ninja-build_1.12.1-1+b1_arm64.deb",
+    "size": 130056,
+    "sha256": "4afc3194ca4d4f051893f169daa48ba9eac769d76f3f13839e5ad0a9688b5fe6"
+  },
+  {
+    "file": "debian/pool/main/n/node-proxy-agents/node-agent-base_7.1.1~0~2024040606-6+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-proxy-agents/node-agent-base_7.1.1~0~2024040606-6+deb13u1_all.deb",
+    "size": 11640,
+    "sha256": "4f961cf265815051dd2d67b59b6a498eb00e64064b583fa64e7d2a906e94b1b0"
+  },
+  {
+    "file": "debian/pool/main/n/node-ajv-keywords/node-ajv-keywords_5.1.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ajv-keywords/node-ajv-keywords_5.1.0-4_all.deb",
+    "size": 32348,
+    "sha256": "844b0a660a9fa8e42e0b8eef266b899c2da58c2fdbd8284a38342767349cce44"
+  },
+  {
+    "file": "debian/pool/main/n/node-ansi-escapes/node-ansi-escapes_5.0.0+really.4.3.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ansi-escapes/node-ansi-escapes_5.0.0+really.4.3.1-1_all.deb",
+    "size": 8896,
+    "sha256": "d6485e03b45aefb594902993fe8555e849711279c54ac7fd0a19f0bc88d73523"
+  },
+  {
+    "file": "debian/pool/main/n/node-aproba/node-aproba_2.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-aproba/node-aproba_2.0.0-3_all.deb",
+    "size": 5844,
+    "sha256": "d48b0ed57ba1c8a0ef5252798ab06f32820d5db20265d956144a20a081753631"
+  },
+  {
+    "file": "debian/pool/main/n/node-delegates/node-delegates_1.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-delegates/node-delegates_1.0.0-3_all.deb",
+    "size": 4528,
+    "sha256": "d691b3c336d146fc773d0496b8f2a34695e19243e32f6b1a76d636c098aaac73"
+  },
+  {
+    "file": "debian/pool/main/n/node-are-we-there-yet/node-are-we-there-yet_3.0.1+~1.1.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-are-we-there-yet/node-are-we-there-yet_3.0.1+~1.1.0-1_all.deb",
+    "size": 10040,
+    "sha256": "9d9705a27c195c402341ba459e8b7202f12f899e632e08f941caefaea98511ee"
+  },
+  {
+    "file": "debian/pool/main/n/node-async-each/node-async-each_1.0.3-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-async-each/node-async-each_1.0.3-3_all.deb",
+    "size": 4292,
+    "sha256": "9da69626cc52e2c707f8cc69f514001178656f698b1fb3909c3e9cedff4d4f79"
+  },
+  {
+    "file": "debian/pool/main/n/node-babel-plugin-lodash/node-babel-plugin-lodash_3.3.4+~cs2.0.1-7_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-babel-plugin-lodash/node-babel-plugin-lodash_3.3.4+~cs2.0.1-7_all.deb",
+    "size": 11028,
+    "sha256": "e317c5106283202d4c25fb240ca00fda5305dc30880f2a94b15b7446d27f94f3"
+  },
+  {
+    "file": "debian/pool/main/n/node-base64-js/node-base64-js_1.5.1+dfsg+~1.3.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-base64-js/node-base64-js_1.5.1+dfsg+~1.3.0-2_all.deb",
+    "size": 7140,
+    "sha256": "23cbf2f1cbb1a178056d815429e51ba857fee868f149fe2e5fd21affefaae785"
+  },
+  {
+    "file": "debian/pool/main/n/node-binary-extensions/node-binary-extensions_2.2.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-binary-extensions/node-binary-extensions_2.2.0-2_all.deb",
+    "size": 4408,
+    "sha256": "3fd0e34f6865cd780a2f9a8ea23ddf45d99514cdda93cbfe5e6a01c3f6968c1c"
+  },
+  {
+    "file": "debian/pool/main/n/node-builtins/node-builtins_5.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-builtins/node-builtins_5.0.1-1_all.deb",
+    "size": 4072,
+    "sha256": "79246a3ad20a351d7c8fb0b0a75eeaa699a891fdf0729b8caaaa03f4afbf51e5"
+  },
+  {
+    "file": "debian/pool/main/n/node-chownr/node-chownr_2.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-chownr/node-chownr_2.0.0-3_all.deb",
+    "size": 4312,
+    "sha256": "2d294e7c6d8df520ac812d3ac1913913015b39c1303ec8545c12f218e38287e3"
+  },
+  {
+    "file": "debian/pool/main/n/node-iconv-lite/node-iconv-lite_0.6.3-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-iconv-lite/node-iconv-lite_0.6.3-3_all.deb",
+    "size": 115036,
+    "sha256": "1a1a0f5f8d4e5b41652bdfc851275b0830f8199b9ba54f302fa9fdacad2879cc"
+  },
+  {
+    "file": "debian/pool/main/n/node-encoding/node-encoding_0.1.13-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-encoding/node-encoding_0.1.13-2_all.deb",
+    "size": 4400,
+    "sha256": "dd96e1dca2eb94603addf9f2e144ab4bde18e8a9a73d63229e07750f5f0f9a71"
+  },
+  {
+    "file": "debian/pool/main/n/node-jsonparse/node-jsonparse_1.3.1-10_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-jsonparse/node-jsonparse_1.3.1-10_all.deb",
+    "size": 8020,
+    "sha256": "f50c1035bfead258e8aa855bfdaad80fadde15b1452542a15300514b9ea47416"
+  },
+  {
+    "file": "debian/pool/main/n/node-yallist/node-yallist_4.0.0+~4.0.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-yallist/node-yallist_4.0.0+~4.0.1-1_all.deb",
+    "size": 8172,
+    "sha256": "c43a55c9be7188f1fca39dc1b5cbc49ef47e1b595d673c0f8005da90189c3c9c"
+  },
+  {
+    "file": "debian/pool/main/n/node-minipass/node-minipass_5.0.0+~cs10.3.21-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-minipass/node-minipass_5.0.0+~cs10.3.21-3_all.deb",
+    "size": 46932,
+    "sha256": "7b9dda676972f621b572642defdc9c68050255be50f14c3bb8d64ecacab14b50"
+  },
+  {
+    "file": "debian/pool/main/n/node-iferr/node-iferr_1.0.2+~1.0.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-iferr/node-iferr_1.0.2+~1.0.2-1_all.deb",
+    "size": 4588,
+    "sha256": "46e8a73b4da951c9dd5a0ad32a0f6731651d1e8bcefcb6816375265ca7253c7e"
+  },
+  {
+    "file": "debian/pool/main/n/node-fs-write-stream-atomic/node-fs-write-stream-atomic_1.0.10-6_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fs-write-stream-atomic/node-fs-write-stream-atomic_1.0.10-6_all.deb",
+    "size": 5316,
+    "sha256": "0e95a48b3c6ad590e98876928c78b65293a89eb2e30b2b4d7d7826d654a5f375"
+  },
+  {
+    "file": "debian/pool/main/n/node-run-queue/node-run-queue_2.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-run-queue/node-run-queue_2.0.0-3_all.deb",
+    "size": 5156,
+    "sha256": "86baee1c4f069b0b40791873f21752b14b3be2867ecb97b4a3554f7759498683"
+  },
+  {
+    "file": "debian/pool/main/n/node-copy-concurrently/node-copy-concurrently_1.0.5-9_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-copy-concurrently/node-copy-concurrently_1.0.5-9_all.deb",
+    "size": 7100,
+    "sha256": "03bf14a098bdbd07d97fb9765e050d01a135d80775b86435dcb40fbf39db96b1"
+  },
+  {
+    "file": "debian/pool/main/n/node-move-concurrently/node-move-concurrently_1.0.1-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-move-concurrently/node-move-concurrently_1.0.1-5_all.deb",
+    "size": 5152,
+    "sha256": "57ce0c5f4240e7f4b33a6c2e02c456cbf1e4711f50f1c3b7ff742d5a280cb3ec"
+  },
+  {
+    "file": "debian/pool/main/n/node-promise-inflight/node-promise-inflight_1.0.1+~1.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-promise-inflight/node-promise-inflight_1.0.1+~1.0.0-1_all.deb",
+    "size": 4864,
+    "sha256": "5ca00c1e7ac895bd06ad9de4ae22e09abf75b30a6c15a6d823dd5a56db660f7b"
+  },
+  {
+    "file": "debian/pool/main/n/node-ssri/node-ssri_9.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ssri/node-ssri_9.0.1-3_all.deb",
+    "size": 18080,
+    "sha256": "de6a183b47f6324fe700923f2bf1f3d2425e8a93553bbf6ed20f505334f2a363"
+  },
+  {
+    "file": "debian/pool/main/n/node-unique-filename/node-unique-filename_1.1.1+ds-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-unique-filename/node-unique-filename_1.1.1+ds-2_all.deb",
+    "size": 4032,
+    "sha256": "3d2d11e61e16d03c191f5d2c835ca116f48aa2823f43b3b1079d19448b02b787"
+  },
+  {
+    "file": "debian/pool/main/n/node-cacache/node-cacache_17.0.3+~cs10.3.7-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-cacache/node-cacache_17.0.3+~cs10.3.7-2_all.deb",
+    "size": 45192,
+    "sha256": "9231361def1001e1f9b3392f4b264c9997affb29effb833859f9a2999ea68c98"
+  },
+  {
+    "file": "debian/pool/main/n/node-is-binary-path/node-is-binary-path_2.1.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-is-binary-path/node-is-binary-path_2.1.0-5_all.deb",
+    "size": 3684,
+    "sha256": "9eb275be2091503b6779a28bdbda24008e17731e77d2bf8b86775e964b561a95"
+  },
+  {
+    "file": "debian/pool/main/n/node-path-is-absolute/node-path-is-absolute_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-path-is-absolute/node-path-is-absolute_2.0.0-2_all.deb",
+    "size": 4068,
+    "sha256": "349cfe75b0a9b6454eee7026489ff36cdf87f277eb9595c95cc77ed75530495e"
+  },
+  {
+    "file": "debian/pool/main/n/node-set-immediate-shim/node-set-immediate-shim_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-set-immediate-shim/node-set-immediate-shim_2.0.0-2_all.deb",
+    "size": 3740,
+    "sha256": "4718934ce555d1e2846967806a547b2bd2e592f481ee3adcc9e46ed98b5f18e8"
+  },
+  {
+    "file": "debian/pool/main/n/node-readdirp/node-readdirp_3.6.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-readdirp/node-readdirp_3.6.0-1_all.deb",
+    "size": 11468,
+    "sha256": "eaac13e138b03e3f342e14bb18c7febd2514a4feb4923f00669503aab7886541"
+  },
+  {
+    "file": "debian/pool/main/n/node-chokidar/node-chokidar_3.6.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-chokidar/node-chokidar_3.6.0-3_all.deb",
+    "size": 32372,
+    "sha256": "60828a37736a5655d32f35e3c506da3be72607d46f8497c8b99b3e4000db62a3"
+  },
+  {
+    "file": "debian/pool/main/n/node-tslib/node-tslib_2.4.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-tslib/node-tslib_2.4.1-1_all.deb",
+    "size": 19488,
+    "sha256": "e9a1572770033843b7960a6019ad89bc7e67a6c09b5458f734ddea41f6b02f9d"
+  },
+  {
+    "file": "debian/pool/main/n/node-chrome-trace-event/node-chrome-trace-event_1.0.3-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-chrome-trace-event/node-chrome-trace-event_1.0.3-2_all.deb",
+    "size": 6984,
+    "sha256": "4a0ceadfec9c9d57e9b48710be871b45be20b0f04acbd7007c83c00bff6028c7"
+  },
+  {
+    "file": "debian/pool/main/n/node-ci-info/node-ci-info_4.0.0+~cs1.1.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ci-info/node-ci-info_4.0.0+~cs1.1.0-1_all.deb",
+    "size": 12512,
+    "sha256": "4cc653a89dee298ca322a020b049566c0a3d02abc04f2c5a0f85a9511960e14a"
+  },
+  {
+    "file": "debian/pool/main/c/colors.js/node-colors_1.4.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/c/colors.js/node-colors_1.4.0-4_all.deb",
+    "size": 11868,
+    "sha256": "15d577f21352262f89326ba3f44e6beb75a0852246733a4d777ea856dbcb6229"
+  },
+  {
+    "file": "debian/pool/main/n/node-cli-table/node-cli-table_0.3.11+~cs0.13.4-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-cli-table/node-cli-table_0.3.11+~cs0.13.4-3_all.deb",
+    "size": 23568,
+    "sha256": "5559d1479c3e60ed372a5481cb13fb4ee977aa202462098bb3aa9f6dca21d55d"
+  },
+  {
+    "file": "debian/pool/main/n/node-columnify/node-columnify_1.6.0+~1.5.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-columnify/node-columnify_1.6.0+~1.5.1-1_all.deb",
+    "size": 12412,
+    "sha256": "6ed43ba40978232e1a32401507d013353b6f8ca1bdddc1ee81b9c6ba261ebb11"
+  },
+  {
+    "file": "debian/pool/main/n/node-console-control-strings/node-console-control-strings_1.1.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-console-control-strings/node-console-control-strings_1.1.0-3_all.deb",
+    "size": 5564,
+    "sha256": "0718909dd6f11b61062c91f0f884ea54d8b03602c26c14e0056213f82af20574"
+  },
+  {
+    "file": "debian/pool/main/n/node-css-selector-tokenizer/node-css-selector-tokenizer_0.8.0+~cs4.8.3-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-css-selector-tokenizer/node-css-selector-tokenizer_0.8.0+~cs4.8.3-1_all.deb",
+    "size": 13000,
+    "sha256": "9881ee4fb0704c1c1c67f2ee7ecd68e2c667a6fa7d361ee5c3bedf39185efece"
+  },
+  {
+    "file": "debian/pool/main/n/node-postcss/node-postcss_8.4.49+~cs9.2.32-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-postcss/node-postcss_8.4.49+~cs9.2.32-1_all.deb",
+    "size": 189292,
+    "sha256": "615bf5c88c37bae268ef972bfa109ae8abc2eb7541e1c4d80f024b189f6d358e"
+  },
+  {
+    "file": "debian/pool/main/n/node-icss-utils/node-icss-utils_5.1.0+~5.1.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-icss-utils/node-icss-utils_5.1.0+~5.1.0-1_all.deb",
+    "size": 7564,
+    "sha256": "9fcfe802c4e422c8a4431eac9ebaf7521c5569eed6b1e48340019ba9fadd3946"
+  },
+  {
+    "file": "debian/pool/main/n/node-postcss-modules-extract-imports/node-postcss-modules-extract-imports_3.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-postcss-modules-extract-imports/node-postcss-modules-extract-imports_3.0.0-2_all.deb",
+    "size": 6584,
+    "sha256": "2c51007af27efbb86ee14bdee5b5068cebbbec1389cebb896e4494137f05d2a5"
+  },
+  {
+    "file": "debian/pool/main/n/node-postcss-modules-values/node-postcss-modules-values_4.0.0+~4.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-postcss-modules-values/node-postcss-modules-values_4.0.0+~4.0.0-1_all.deb",
+    "size": 7180,
+    "sha256": "fbbe88fd9f85a4e501cecb7011b52133d86c04a8dfc5696c31a0aa85b527ee2d"
+  },
+  {
+    "file": "debian/pool/main/n/node-postcss-value-parser/node-postcss-value-parser_4.2.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-postcss-value-parser/node-postcss-value-parser_4.2.0-1_all.deb",
+    "size": 10372,
+    "sha256": "63fc4289f5123d78d9819c2dc7957e6a8f1eee0853c5e90a1c2577bd18fb3f51"
+  },
+  {
+    "file": "debian/pool/main/n/node-prr/node-prr_1.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-prr/node-prr_1.0.1-3_all.deb",
+    "size": 4352,
+    "sha256": "ac2205456c74a318f3e74fa2d6586a97fa6cfd782a5222b41e65f6ffb651816d"
+  },
+  {
+    "file": "debian/pool/main/n/node-errno/node-errno_1.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-errno/node-errno_1.0.0-3_all.deb",
+    "size": 7736,
+    "sha256": "c72dd667328dbe395e4b9c7469f5575000c9e808632ab79ca8d1fb45ef60f717"
+  },
+  {
+    "file": "debian/pool/main/n/node-memory-fs/node-memory-fs_0.5.0+~0.3.3-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-memory-fs/node-memory-fs_0.5.0+~0.3.3-2_all.deb",
+    "size": 7676,
+    "sha256": "4defe54ea0a4d3bfefb3175ce45fb32bbc855f2d2b3f50877b6eb6f446a49296"
+  },
+  {
+    "file": "debian/pool/main/n/node-tapable/node-tapable_2.2.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-tapable/node-tapable_2.2.1-3_all.deb",
+    "size": 13532,
+    "sha256": "5a8da47932fb13f9c4f119a51c0cde92b97cb5d479dc6437c4ce5b2986f5b4c8"
+  },
+  {
+    "file": "debian/pool/main/n/node-enhanced-resolve/node-enhanced-resolve_5.15.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-enhanced-resolve/node-enhanced-resolve_5.15.0-1_all.deb",
+    "size": 36416,
+    "sha256": "2450889e91c23e37e84c6da7bf25ea79b7855ca721b23ec897dcc3d5415b52b0"
+  },
+  {
+    "file": "debian/pool/main/n/node-es-module-lexer/node-es-module-lexer_1.1.0+dfsg-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-es-module-lexer/node-es-module-lexer_1.1.0+dfsg-3_all.deb",
+    "size": 19804,
+    "sha256": "6c43744b5cd19ab9cf1e351d8918a90dcaeed0705c8e183a14aa849c505b8d13"
+  },
+  {
+    "file": "debian/pool/main/n/node-events/node-events_3.3.0+~3.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-events/node-events_3.3.0+~3.0.0-3_all.deb",
+    "size": 5888,
+    "sha256": "22396d96e79cb7b6d052831f8083a036042cff4e43ab52bb0beeb66c090f4792"
+  },
+  {
+    "file": "debian/pool/main/n/node-resolve-cwd/node-resolve-cwd_3.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-resolve-cwd/node-resolve-cwd_3.0.0-2_all.deb",
+    "size": 4212,
+    "sha256": "3c8f5f58bb667d3d50c7bd91fa9de4ec2bad8387a24a538b768a60f9e4ae94b2"
+  },
+  {
+    "file": "debian/pool/main/n/node-jest/node-jest-debbundle_29.6.2~ds1+~cs73.45.28-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-jest/node-jest-debbundle_29.6.2~ds1+~cs73.45.28-5_all.deb",
+    "size": 134568,
+    "sha256": "2ca978547d33d71a518d3966129a845120d4b89245a603eddd3a9f90954a8a43"
+  },
+  {
+    "file": "debian/pool/main/n/node-interpret/node-interpret_2.2.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-interpret/node-interpret_2.2.0-3_all.deb",
+    "size": 7660,
+    "sha256": "529362af6248b026b1f8a328041e8e0422075e213c8582d126d9cecfa7993003"
+  },
+  {
+    "file": "debian/pool/main/n/node-merge-stream/node-merge-stream_2.0.0+~1.1.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-merge-stream/node-merge-stream_2.0.0+~1.1.2-2_all.deb",
+    "size": 5124,
+    "sha256": "f3417bfa3d7b770b87f709c7c3ea602066e1f589baae68038388f4b9dacee189"
+  },
+  {
+    "file": "debian/pool/main/n/node-jest/node-jest-worker_29.6.2~ds1+~cs73.45.28-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-jest/node-jest-worker_29.6.2~ds1+~cs73.45.28-5_all.deb",
+    "size": 116416,
+    "sha256": "3b7a7d0e4548cdc8710c30c3504f78e93603eda1188fb5ed9661f88d5b253586"
+  },
+  {
+    "file": "debian/pool/main/n/node-loader-runner/node-loader-runner_4.3.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-loader-runner/node-loader-runner_4.3.0-1_all.deb",
+    "size": 7644,
+    "sha256": "a6113d8ef6e899751b7104ab8246d04ed2fa9ad8e795c2c3228460b8745b4663"
+  },
+  {
+    "file": "debian/pool/main/n/node-mime/node-mime_3.0.0+dfsg+~cs6.97.2-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-mime/node-mime_3.0.0+dfsg+~cs6.97.2-2_all.deb",
+    "size": 40252,
+    "sha256": "15a02a726c7141946509c070c4c19cad7fd9ae61e617f89a8e3ef57278774aa5"
+  },
+  {
+    "file": "debian/pool/main/n/node-mime-types/node-mime-types_2.1.35-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-mime-types/node-mime-types_2.1.35-2_all.deb",
+    "size": 8752,
+    "sha256": "a63c5695153ec35c4a5420eaf9bce7d0e07d5b63b144a6ca59c00fc7dffe8a79"
+  },
+  {
+    "file": "debian/pool/main/n/node-rechoir/node-rechoir_0.8.0+~0.6.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-rechoir/node-rechoir_0.8.0+~0.6.1-2_all.deb",
+    "size": 6628,
+    "sha256": "82424fe0cfb4ff9a9da8207dea2089d14febeebe505c6ef67227a5197d75fb7f"
+  },
+  {
+    "file": "debian/pool/main/n/node-schema-utils/node-schema-utils_4.2.0~ds-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-schema-utils/node-schema-utils_4.2.0~ds-3_all.deb",
+    "size": 21956,
+    "sha256": "a7ae440515b812a1273d4e772f682716007ac648ad1108c79dcc958795f9554e"
+  },
+  {
+    "file": "debian/pool/main/n/node-randombytes/node-randombytes_2.1.0+~2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-randombytes/node-randombytes_2.1.0+~2.0.0-2_all.deb",
+    "size": 4852,
+    "sha256": "b34e94f7f909cf939e071769fa852b332a6cc466046b987458ab7be5c7b2c47c"
+  },
+  {
+    "file": "debian/pool/main/n/node-serialize-javascript/node-serialize-javascript_6.0.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-serialize-javascript/node-serialize-javascript_6.0.2-1_all.deb",
+    "size": 13048,
+    "sha256": "36d82591e45714849ab0edcb3cf78460d6287a27bab719e64debaf4869f2e34f"
+  },
+  {
+    "file": "debian/pool/main/n/node-watchpack/node-watchpack_2.4.0+~cs2.8.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-watchpack/node-watchpack_2.4.0+~cs2.8.1-1_all.deb",
+    "size": 20244,
+    "sha256": "74ddbb32cda91c686e9b91e713841eb0eb08f2b1997c21bdfd140d11eda0bdb2"
+  },
+  {
+    "file": "debian/pool/main/n/node-webassemblyjs/node-webassemblyjs_1.11.4+dfsg+~cs10.11.17-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-webassemblyjs/node-webassemblyjs_1.11.4+dfsg+~cs10.11.17-2_all.deb",
+    "size": 139492,
+    "sha256": "11be9be51588c1b8844c3ecec38883a64c081f496908980da0ef751e676013d0"
+  },
+  {
+    "file": "debian/pool/main/n/node-source-list-map/node-source-list-map_2.0.1+dfsg+~0.1.2-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-source-list-map/node-source-list-map_2.0.1+dfsg+~0.1.2-1_all.deb",
+    "size": 10104,
+    "sha256": "19b753e484f44cb944b3fa99b393d89eea9dbe92cd9aa00cdeb4377cb75ec2a6"
+  },
+  {
+    "file": "debian/pool/main/n/node-webpack-sources/node-webpack-sources_3.2.3+~3.2.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-webpack-sources/node-webpack-sources_3.2.3+~3.2.0-2_all.deb",
+    "size": 23236,
+    "sha256": "385fb65d45e36e3e1adc706dc15e0fe9f2cd4e75ee96cf2026b04efdc350720c"
+  },
+  {
+    "file": "debian/pool/main/n/node-terser/node-terser_5.38.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-terser/node-terser_5.38.0-1_all.deb",
+    "size": 220448,
+    "sha256": "b7fefc70b789e06c7fdefd13e602cb5b1738b34801c7046eab015dea570b9c97"
+  },
+  {
+    "file": "debian/pool/main/n/node-terser/terser_5.38.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-terser/terser_5.38.0-1_all.deb",
+    "size": 19416,
+    "sha256": "cb981be01064c175c5033e3e84d855df91a2b983eda414df4a29f7582e7e56c8"
+  },
+  {
+    "file": "debian/pool/main/n/node-get-stream/node-get-stream_8.0.1-11_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-get-stream/node-get-stream_8.0.1-11_all.deb",
+    "size": 11632,
+    "sha256": "d76208d8d214e82c354b4541a9b876c6673739ff33ae29f348d6655ae5aed650"
+  },
+  {
+    "file": "debian/pool/main/n/node-mimic-fn/node-mimic-fn_4.0.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-mimic-fn/node-mimic-fn_4.0.0-5_all.deb",
+    "size": 5492,
+    "sha256": "41984322268c13e61ecc732b6204ebd084e82c9742cdff18216e8b60a16d5977"
+  },
+  {
+    "file": "debian/pool/main/n/node-strip-eof/node-strip-eof_3.0.0-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-strip-eof/node-strip-eof_3.0.0-5_all.deb",
+    "size": 4656,
+    "sha256": "74c60edfff9ed26c303686c2ad1b3e39f320f4ddaee407d723092ebc8c69c58b"
+  },
+  {
+    "file": "debian/pool/main/n/node-execa/node-execa_8.0.1+dfsg1+~cs12.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-execa/node-execa_8.0.1+dfsg1+~cs12.0.0-1_all.deb",
+    "size": 43948,
+    "sha256": "3203e93361af3f70de87da4149e3a171177d310419de3e949d0e40bb3bae0ad2"
+  },
+  {
+    "file": "debian/pool/main/n/node-envinfo/node-envinfo_7.11.0+~cs14.3.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-envinfo/node-envinfo_7.11.0+~cs14.3.0-3_all.deb",
+    "size": 32576,
+    "sha256": "86b86ea17cb89dd647dc7ca877f459025b9ede2338cd9a96a4752c46be44e012"
+  },
+  {
+    "file": "debian/pool/main/n/node-webpack/webpack_5.97.1+dfsg1+~cs11.18.27-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-webpack/webpack_5.97.1+dfsg1+~cs11.18.27-3_all.deb",
+    "size": 810140,
+    "sha256": "1f7f6c41d0a5cfd30bdea4946de8377c4b92e3fe5fc0691ff7a80648b86d3fa4"
+  },
+  {
+    "file": "debian/pool/main/n/node-css-loader/node-css-loader_6.8.1+~cs14.0.17-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-css-loader/node-css-loader_6.8.1+~cs14.0.17-1_all.deb",
+    "size": 74540,
+    "sha256": "7e6fd4d6052d27561b9a2cb97eb0c628ad9e6eb0d63a83e637e3752952d1bfd0"
+  },
+  {
+    "file": "debian/pool/main/n/node-proxy-agents/node-data-uri-to-buffer_6.0.2~0~2024040606-6+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-proxy-agents/node-data-uri-to-buffer_6.0.2~0~2024040606-6+deb13u1_all.deb",
+    "size": 9180,
+    "sha256": "ca4e6ab7f84aee76f322c8c8a5a62182b93e7e22b6d7ff247adde3801dcf3116"
+  },
+  {
+    "file": "debian/pool/main/n/node-mimic-response/node-mimic-response_3.1.0-9_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-mimic-response/node-mimic-response_3.1.0-9_all.deb",
+    "size": 5424,
+    "sha256": "aa48e60aee7b87017278137bdece9f9b35a3d8d2c482bcfcd06dca9094bdf4ea"
+  },
+  {
+    "file": "debian/pool/main/n/node-decompress-response/node-decompress-response_6.0.0-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-decompress-response/node-decompress-response_6.0.0-3_all.deb",
+    "size": 4656,
+    "sha256": "1e4392aca66fd7a0f89aa0511a2a11b681b9717fb3454ec41c8af21f4c5287c6"
+  },
+  {
+    "file": "debian/pool/main/n/node-depd/node-depd_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-depd/node-depd_2.0.0-2_all.deb",
+    "size": 11216,
+    "sha256": "e7cf2188b38f2f421a3e355611c1a690e6b7f7379030446e3e673000579838d4"
+  },
+  {
+    "file": "debian/pool/main/n/node-diff/node-diff_5.0.0~dfsg+~5.0.1-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-diff/node-diff_5.0.0~dfsg+~5.0.1-4_all.deb",
+    "size": 69692,
+    "sha256": "e7e957d7a2406c02801502736045ceddb1c2a22e837a10e4368c25cbf14d4ab9"
+  },
+  {
+    "file": "debian/pool/main/n/node-err-code/node-err-code_2.0.3+dfsg-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-err-code/node-err-code_2.0.3+dfsg-3_all.deb",
+    "size": 4884,
+    "sha256": "67d7dee96cdcefafd061d90fb710477cfa7ca8b5166bc819569a19681a43056c"
+  },
+  {
+    "file": "debian/pool/main/n/node-time-stamp/node-time-stamp_2.2.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-time-stamp/node-time-stamp_2.2.0-2_all.deb",
+    "size": 6016,
+    "sha256": "458e9be0074dd78bf5ee66b803c07d7ddf0f371258dd60ed31e1f1d37149ba1a"
+  },
+  {
+    "file": "debian/pool/main/n/node-fancy-log/node-fancy-log_1.3.3+~cs1.3.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fancy-log/node-fancy-log_1.3.3+~cs1.3.1-2_all.deb",
+    "size": 7940,
+    "sha256": "cafb68422aaeecc032917a54fd12398878ad3bb11265de6a3f7e39d09d2ece99"
+  },
+  {
+    "file": "debian/pool/main/n/node-fetch/node-fetch_3.3.2+~cs11.4.11-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-fetch/node-fetch_3.3.2+~cs11.4.11-3_all.deb",
+    "size": 212820,
+    "sha256": "ed11e80f569e2ddb0f1e6b4740bebac20e148cbd9b38086f98c97e6ce72e5c64"
+  },
+  {
+    "file": "debian/pool/main/n/node-has-unicode/node-has-unicode_2.0.1-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-has-unicode/node-has-unicode_2.0.1-5_all.deb",
+    "size": 3992,
+    "sha256": "685983db3998f88d16699298c236aee498e3c0e53239ef8a1e2b1950228743b5"
+  },
+  {
+    "file": "debian/pool/main/n/node-wide-align/node-wide-align_1.1.3-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-wide-align/node-wide-align_1.1.3-4_all.deb",
+    "size": 4244,
+    "sha256": "c0345837e7d4642dc4f7f4a02c28ece90568d605d19127b6f96b42fa3aa6f3fb"
+  },
+  {
+    "file": "debian/pool/main/n/node-gauge/node-gauge_4.0.4-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-gauge/node-gauge_4.0.4-2_all.deb",
+    "size": 19652,
+    "sha256": "671125b3be252ac096eea372eb0a1a0755a0243626b5bab2295bc53e5800d41c"
+  },
+  {
+    "file": "debian/pool/main/n/node-lowercase-keys/node-lowercase-keys_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-lowercase-keys/node-lowercase-keys_2.0.0-2_all.deb",
+    "size": 3768,
+    "sha256": "2f45d24d574eea94cb8afedc95391ffcd9019a70dfec2d0f5bedf3434d09035a"
+  },
+  {
+    "file": "debian/pool/main/n/node-json-buffer/node-json-buffer_3.0.1+~3.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-json-buffer/node-json-buffer_3.0.1+~3.0.0-1_all.deb",
+    "size": 4536,
+    "sha256": "06bad8ce3b1cb4d803bc760bea3ab9e0aa134f6d057d66c8962cbe2fb70a2442"
+  },
+  {
+    "file": "debian/pool/main/n/node-p-cancelable/node-p-cancelable_2.1.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-p-cancelable/node-p-cancelable_2.1.1-1_all.deb",
+    "size": 7272,
+    "sha256": "459e964fddedaaf18ee0b9ab47f68931e023eee949edeab8a403cc69840aa787"
+  },
+  {
+    "file": "debian/pool/main/n/node-got/node-got_11.8.5+~cs58.13.36-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-got/node-got_11.8.5+~cs58.13.36-5_all.deb",
+    "size": 120976,
+    "sha256": "5d5937ae8530de3e1380c97e77d889617b8cb7bb9c9200226d8a222df27697fd"
+  },
+  {
+    "file": "debian/pool/main/n/node-proxy-agents/node-https-proxy-agent_7.0.4~0~2024040606-6+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-proxy-agents/node-https-proxy-agent_7.0.4~0~2024040606-6+deb13u1_all.deb",
+    "size": 13704,
+    "sha256": "15792556bce5146c62de0e83e6088dfc59e6ec9e47f5766c849b51878811061e"
+  },
+  {
+    "file": "debian/pool/main/n/node-set-blocking/node-set-blocking_2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-set-blocking/node-set-blocking_2.0.0-2_all.deb",
+    "size": 4248,
+    "sha256": "703128a63c5a2c2083e9e76d74f650001ebbf2e59c82a43ad67c6369dc4a2584"
+  },
+  {
+    "file": "debian/pool/main/n/node-npmlog/node-npmlog_7.0.1+~4.1.4-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-npmlog/node-npmlog_7.0.1+~4.1.4-1_all.deb",
+    "size": 11436,
+    "sha256": "237d67f5174bfdbbcc73dbc8c78867e1836f732a4a8bf7c034fab316fd550a44"
+  },
+  {
+    "file": "debian/pool/main/n/node-osenv/node-osenv_0.1.5+~0.1.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-osenv/node-osenv_0.1.5+~0.1.1-1_all.deb",
+    "size": 5884,
+    "sha256": "dfeab02e1d6422f8dc94751d59f06f46a52e3a7d1c475319c95dac05f8adb891"
+  },
+  {
+    "file": "debian/pool/main/n/node-tar/node-tar_6.2.1+~cs7.0.8-1+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-tar/node-tar_6.2.1+~cs7.0.8-1+deb13u1_all.deb",
+    "size": 52744,
+    "sha256": "aad13a5e831e5defe4027f25d3f23d1dfe8f529c290777be75651dca8fdd747b"
+  },
+  {
+    "file": "debian/pool/main/n/node-gyp/node-gyp_11.1.0+~5.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-gyp/node-gyp_11.1.0+~5.0.0-1_all.deb",
+    "size": 67636,
+    "sha256": "28a68d4b01e3a8ffe9b56761dbb91901ca80372c21c4e0643a636ef63b07651e"
+  },
+  {
+    "file": "debian/pool/main/n/node-proxy-agents/node-http-proxy-agent_7.0.2~0~2024040606-6+deb13u1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-proxy-agents/node-http-proxy-agent_7.0.2~0~2024040606-6+deb13u1_all.deb",
+    "size": 10804,
+    "sha256": "8f75fdaf0b96f6c8aecb8f0d255036e6825d184406b1e76f531adf072135ce9f"
+  },
+  {
+    "file": "debian/pool/main/n/node-ieee754/node-ieee754_1.2.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ieee754/node-ieee754_1.2.1-3_all.deb",
+    "size": 5268,
+    "sha256": "df1b80a80df88d8981485d26e79de024eb3d0ff5a4e1e3c5485cf96bde41008b"
+  },
+  {
+    "file": "debian/pool/main/n/node-ini/node-ini_3.0.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ini/node-ini_3.0.1-2_all.deb",
+    "size": 6928,
+    "sha256": "074f3bba0ee7c49df98944efd72821a183c62a6548f2228361003affb73bad0e"
+  },
+  {
+    "file": "debian/pool/main/n/node-ip/node-ip_2.0.1+~1.1.3-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ip/node-ip_2.0.1+~1.1.3-3_all.deb",
+    "size": 8616,
+    "sha256": "4ac2cbc15cd98933f7456b59bb1b3eb0dab4db0c8b23af8071cc3e30a5340a4d"
+  },
+  {
+    "file": "debian/pool/main/n/node-ip-regex/node-ip-regex_4.3.0+~4.1.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-ip-regex/node-ip-regex_4.3.0+~4.1.1-1_all.deb",
+    "size": 5188,
+    "sha256": "e379e83a786601eb0b7548a8aa77172089b59b6c2b040ffc9ef8348ae58ac28a"
+  },
+  {
+    "file": "debian/pool/main/n/node-mute-stream/node-mute-stream_0.0.8+~0.0.1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-mute-stream/node-mute-stream_0.0.8+~0.0.1-3_all.deb",
+    "size": 6232,
+    "sha256": "c5acf524ab3d1730ea9f7616b0b8ebd2dc037bbbd3446514d300d8c50f780faa"
+  },
+  {
+    "file": "debian/pool/main/n/node-negotiator/node-negotiator_0.6.3+~0.6.1-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-negotiator/node-negotiator_0.6.3+~0.6.1-1_all.deb",
+    "size": 10756,
+    "sha256": "7479caa3ae29fb8eba255062008a1e39e01eb780837fc1bef61f935f4cdabb88"
+  },
+  {
+    "file": "debian/pool/main/n/node-read-package-json/node-read-package-json_5.0.2+~2.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-read-package-json/node-read-package-json_5.0.2+~2.0.0-2_all.deb",
+    "size": 11604,
+    "sha256": "34daf39d827256d4b3e8f4fca4f2815226ec11a43d3b670f1848f571e05cbca2"
+  },
+  {
+    "file": "debian/pool/main/n/node-npm-bundled/node-npm-bundled_2.0.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-npm-bundled/node-npm-bundled_2.0.1-2_all.deb",
+    "size": 6408,
+    "sha256": "43e4fe8715866e9af83fb851c37fbf7ff6fbc045b7aa64179813e09550b05519"
+  },
+  {
+    "file": "debian/pool/main/n/node-validate-npm-package-name/node-validate-npm-package-name_5.0.0+~4.0.0-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-validate-npm-package-name/node-validate-npm-package-name_5.0.0+~4.0.0-1_all.deb",
+    "size": 7444,
+    "sha256": "7ad41424f56fd13d73aec1831c38160e2297fd97dcaf0d2cf654bafa32f767d0"
+  },
+  {
+    "file": "debian/pool/main/n/node-npm-package-arg/node-npm-package-arg_10.0.0+~3.0.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-npm-package-arg/node-npm-package-arg_10.0.0+~3.0.0-2_all.deb",
+    "size": 11356,
+    "sha256": "ae557b5ce3c5b1c01f1b4b8f31a65c5e106d5e7d5fb7af756ef52dad57dda0e2"
+  },
+  {
+    "file": "debian/pool/main/n/node-retry/node-retry_0.13.1.+~cs2.19.16-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-retry/node-retry_0.13.1.+~cs2.19.16-1_all.deb",
+    "size": 14188,
+    "sha256": "c6657e899f6f17611f556d6aadba7a2448f74aadf518dfe00f5c1d7007a99df8"
+  },
+  {
+    "file": "debian/pool/main/n/node-promise-retry/node-promise-retry_2.0.1-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-promise-retry/node-promise-retry_2.0.1-4_all.deb",
+    "size": 5016,
+    "sha256": "4bafb7ca67567aec176bd511f7531eb47e476849d43e049da8aaf817de535420"
+  },
+  {
+    "file": "debian/pool/main/n/node-read/node-read_1.0.7-5_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-read/node-read_1.0.7-5_all.deb",
+    "size": 5388,
+    "sha256": "4fcd48cefc5df4bb7374065411b943d822619c0ebc6d601878139949af973e17"
+  },
+  {
+    "file": "debian/pool/main/n/node-promzard/node-promzard_0.3.0-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-promzard/node-promzard_0.3.0-2_all.deb",
+    "size": 6788,
+    "sha256": "7c8042d0e1e1556a288367bfea76ee80ca28e8b22ee5eecb007d1b8f4beacb01"
+  },
+  {
+    "file": "debian/pool/main/n/node-text-table/node-text-table_0.2.0-4_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/node-text-table/node-text-table_0.2.0-4_all.deb",
+    "size": 4736,
+    "sha256": "f040097ed7ef710127396bec92882992551a99dc7d76775b53fcb0e9801b36a1"
+  },
+  {
+    "file": "debian/pool/main/n/npm/npm_9.2.0~ds1-3_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/n/npm/npm_9.2.0~ds1-3_all.deb",
+    "size": 668616,
+    "sha256": "1dda3b5d8ebcd9c88de0a697f2c7b3d893fd130d9bd2bafb7f237ce46aec9271"
+  },
+  {
+    "file": "debian/pool/main/p/pkgconf/pkgconf-bin_1.8.1-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/pkgconf/pkgconf-bin_1.8.1-4_arm64.deb",
+    "size": 29636,
+    "sha256": "bce0638102650b61224901da320c2f867a91cfc133532a5fb526d2ce05465fe6"
+  },
+  {
+    "file": "debian/pool/main/p/pkgconf/pkgconf_1.8.1-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/pkgconf/pkgconf_1.8.1-4_arm64.deb",
+    "size": 26148,
+    "sha256": "aaf89947e9a5a6d980d14f43dfde8d0ad4e869b5cd33567321ca8baeb7ee7740"
+  },
+  {
+    "file": "debian/pool/main/p/pkgconf/pkg-config_1.8.1-4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/pkgconf/pkg-config_1.8.1-4_arm64.deb",
+    "size": 13968,
+    "sha256": "fef9662964fa4ff2ebbeefe076adffad79374f744274085c8ce931d5feb462a1"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/python3.13-dev_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/python3.13-dev_3.13.5-2+deb13u5_arm64.deb",
+    "size": 504376,
+    "sha256": "607bd60baca0ce82ba6fafc3bba3914a98127cd208764eb791eb6f5d4e85f107"
+  },
+  {
+    "file": "debian/pool/main/p/python3-defaults/python3-dev_3.13.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3-defaults/python3-dev_3.13.5-1_arm64.deb",
+    "size": 26072,
+    "sha256": "3d7ef44b68d9d9cd8b33d9f1fa9238a9a608a247e9d3d1dff66699a479825f61"
+  },
+  {
+    "file": "debian/pool/main/w/wheel/python3-wheel_0.46.1-2_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/w/wheel/python3-wheel_0.46.1-2_all.deb",
+    "size": 21672,
+    "sha256": "17b788ad15f8231e5058ed386cd6841d42b31937075b56caf4cf63263910e992"
+  },
+  {
+    "file": "debian/pool/main/p/python-pip/python3-pip_25.1.1+dfsg-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python-pip/python3-pip_25.1.1+dfsg-1_all.deb",
+    "size": 1456608,
+    "sha256": "065695050e5fe10f162201a5bbe8759837427c76c95b5fe57b0701bcd6070c56"
+  },
+  {
+    "file": "debian/pool/main/p/python-pip/python3-pip-whl_25.1.1+dfsg-1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python-pip/python3-pip-whl_25.1.1+dfsg-1_all.deb",
+    "size": 1507328,
+    "sha256": "e65351935aa4af2b10ae2abb5744f5059e9abad51aea6cd0cb825702010763f7"
+  },
+  {
+    "file": "debian/pool/main/s/setuptools/python3-setuptools-whl_78.1.1-0.1_all.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/s/setuptools/python3-setuptools-whl_78.1.1-0.1_all.deb",
+    "size": 1268108,
+    "sha256": "0caf134e73ab90ffeaa5ce2529d73ea7d48078b2a9251ed9d1b7b514a61e9483"
+  },
+  {
+    "file": "debian/pool/main/p/python3.13/python3.13-venv_3.13.5-2+deb13u5_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3.13/python3.13-venv_3.13.5-2+deb13u5_arm64.deb",
+    "size": 5476,
+    "sha256": "bc37518ea1eb198d635be16ba234239263b66daf823f3a5cb02316805b88beba"
+  },
+  {
+    "file": "debian/pool/main/p/python3-defaults/python3-venv_3.13.5-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/p/python3-defaults/python3-venv_3.13.5-1_arm64.deb",
+    "size": 1180,
+    "sha256": "08d23753825316cbffb69011c9cda39a6cc4adc4d51ea808c8d68d9981573dda"
+  },
+  {
+    "file": "debian/pool/main/r/rust-ripgrep/ripgrep_14.1.1-1+b4_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rust-ripgrep/ripgrep_14.1.1-1+b4_arm64.deb",
+    "size": 1247232,
+    "sha256": "9b4f347ba2320b22cba217cc4b078536596cc6a1409df001fc560ad3fa396609"
+  },
+  {
+    "file": "debian/pool/main/r/rustc/rustfmt_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/r/rustc/rustfmt_1.85.1+dfsg1-1+deb13u1_arm64.deb",
+    "size": 1908632,
+    "sha256": "18a89256265ba8ba2de5165101787aecdc71019ae78a2757007aeed0db5689cb"
+  },
+  {
+    "file": "debian/pool/main/s/strace/strace_6.13+ds-1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/s/strace/strace_6.13+ds-1_arm64.deb",
+    "size": 1295248,
+    "sha256": "d793af70a104eb0bd5be466c3043b512f549e7cb27971320a7c9b8f4c6165e55"
+  },
+  {
+    "file": "debian/pool/main/t/tmux/tmux_3.5a-3_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/t/tmux/tmux_3.5a-3_arm64.deb",
+    "size": 454600,
+    "sha256": "835d23b320f5d0457f7a695d90d1c5cca5c2b4a6481fa28b06ad14b18dcabff2"
+  },
+  {
+    "file": "debian/pool/main/u/unzip/unzip_6.0-29+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/u/unzip/unzip_6.0-29+deb13u1_arm64.deb",
+    "size": 163616,
+    "sha256": "b455bc70ff59f790c619802f921fc5bd22ab25acb6394fd7505f34b93c5b2cdb"
+  },
+  {
+    "file": "debian/pool/main/z/zip/zip_3.0-15+deb13u1_arm64.deb",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z/pool/main/z/zip/zip_3.0-15+deb13u1_arm64.deb",
+    "size": 227476,
+    "sha256": "0cc7c9eaa48a761918e2e419693f4d1baf56ea5f6166c06c7e0c63ad551c87c0"
+  }
+]

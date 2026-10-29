@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">סביבת עבודה לפיתוח</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + שולחן עבודה</string>
+    <string name="native_7f1c02616d60" formatted="false">עמוד בודד</string>
+    <string name="native_651ae6ea52ae" formatted="false">שחזר תצוגה מפוצלת</string>
+    <string name="native_d7e97cfac66f" formatted="false">פריסת סביבת עבודה</string>
+    <string name="native_2a03e2ed30f9" formatted="false">הרחב את החלון כדי להציג לוחות מרובים יחד.</string>
+    <string name="native_e792dd4cfa78" formatted="false">הצג קבצי פרויקט</string>
+    <string name="native_712d956931d1" formatted="false">הצג מסוף</string>
+    <string name="native_073cc20d9ed9" formatted="false">מסוף למטה</string>
+    <string name="native_5de225480fa7" formatted="false">מסוף מימין</string>
+    <string name="native_35cdb3eacdc6" formatted="false">לוחות קורסים כאשר המקום מוגבל ונשארים נגישים מהתפריט הצף. הטרמינל הצדדי מופיע בחלונות רחבים יותר. גרור מחיצות כדי לשנות את גודל החלוניות.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt שמאלה: 1–5 עמודים · B קבצים · T Terminal · M Desktop · הזן יחיד/פיצול · \\\\ פריסה</string>
+    <string name="native_7a129a94c6ff" formatted="false">בוצע</string>
+    <string name="native_bcec2218fc21" formatted="false">אפס פרופורציות</string>
+    <string name="native_da88c62d1217">הצג %1$s בעמוד בודד</string>
+    <string name="native_1b4b3afbe52d" formatted="false">מחלק קבצי פרויקט</string>
+    <string name="native_707c0891a0e6" formatted="false">מחלק מסוף</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode ומחלק שולחן העבודה</string>
+    <string name="native_50407ad8dfa8" formatted="false">כווץ את הלוח הקודם</string>
+    <string name="native_b72c5c02a666" formatted="false">הגדל את הלוח הקודם</string>
+    <string name="native_3f3685e8d731" formatted="false">יותר מדי קישורי PRoot עבור פורמט ארכיון זה</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux קישורים קשיחים דורשים rootfs מלא</string>
+    <string name="native_f336f1e17596" formatted="false">קינון ספריית הגיבוי עמוק מדי</string>
+    <string name="native_b6f744737a45" formatted="false">אורך סיסמת גיבוי לא חוקי</string>
+    <string name="native_13bde5dd1812" formatted="false">סיסמת הגיבוי חייבת להכיל לפחות 12 תווים</string>
+    <string name="native_be02cbd55932" formatted="false">פורמט גיבוי לא נתמך</string>
+    <string name="native_7a91a3d586ae" formatted="false">כותרת גיבוי לא חוקית</string>
+    <string name="native_2bbd318a5667" formatted="false">פרמטרי הצפנת גיבוי לא נתמכים</string>
+    <string name="native_18868da27841" formatted="false">סיסמת גיבוי שגויה או קובץ פגום</string>
+    <string name="native_e41d6440468d" formatted="false">רשומת השחזור גדולה מדי</string>
+    <string name="native_282692502f14" formatted="false">מטא נתונים של גיבוי גדולים מדי</string>
+    <string name="native_61fdca8d6c82" formatted="false">קינון מטא נתונים של גיבוי עמוק מדי</string>
+    <string name="native_8cefb30732d4" formatted="false">מטא נתונים לא חוקיים של גיבוי</string>
+    <string name="native_5d3037708cad" formatted="false">הגדרות מקוריות לא נתמכות</string>
+    <string name="native_81a57c382f9d" formatted="false">לא ניתן לשמור הגדרות מקוריות</string>
+    <string name="native_50603e683d4a" formatted="false">ספריית אב לא חוקית בנתיב הגיבוי</string>
+    <string name="native_c3f838a46b8e" formatted="false">שורש תחנת העבודה לא חייב להיות קישור סמלי</string>
+    <string name="native_9ddd2d8280c8" formatted="false">קובץ השתנה במהלך הגיבוי</string>
+    <string name="native_77e1e85147db" formatted="false">פורמט נתוני תחנת עבודה לא נתמך</string>
+    <string name="native_a927b5a565af" formatted="false">הגיבוי מכיל נתונים נוספים</string>
+    <string name="native_c2b886d508f2" formatted="false">הגיבוי מכיל נתיבים כפולים</string>
+    <string name="native_3dab8cd60102" formatted="false">הגיבוי מכיל הגדרות זמן ריצה שלא ניתן להעביר</string>
+    <string name="native_f45ba674a630" formatted="false">הגיבוי גדול מדי או שהאחסון אינו מספיק</string>
+    <string name="native_140073e8e77b" formatted="false">לא ניתן לשחזר חותמות זמן סימבוליות של קישורים</string>
+    <string name="native_b0d411aaf62c" formatted="false">לא ניתן לשחזר חותמות זמן של צינור עם שם</string>
+    <string name="native_0daee8026db1" formatted="false">גיבוי ושחזור של תחנת עבודה</string>
+    <string name="native_1acc18928c5f" formatted="false">כולל Debian, כלים למפתחים, פרויקטים, בית, הפעלות והגדרות OpenCode, נתוני דפדפן Linux והגדרות פריסה מקורית.</string>
+    <string name="native_62254d31a535" formatted="false">קבצים זמניים וגיבויים ישנים אינם נכללים. אחסון Android WebView וטיוטות שלא נשלחו נשארים במכשיר הזה ואינם מועברים עם הגיבוי הזה.</string>
+    <string name="native_808eabc7811f" formatted="false">צור גיבוי מוצפן</string>
+    <string name="native_201c10b38296" formatted="false">ייבוא גיבוי</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">שמור תחילה את השינויים שלך בעורך הקבצים.</string>
+    <string name="native_0559cd596453" formatted="false">עצור את OpenCode, מסופים ושולחן עבודה</string>
+    <string name="native_fdf2be8e3b93" formatted="false">פעולת סביבה אינה שלמה. שחזר אותו קודם.</string>
+    <string name="native_185f58156330" formatted="false">שחזור פעולה לא שלמה</string>
+    <string name="native_20831b6f67a7" formatted="false">בטל את שחזור הסביבה האחרון</string>
+    <string name="native_4f392d5d6141">עותק מקומי מוצפן: %1$s</string>
+    <string name="native_80077c694212" formatted="false">שמור לקובץ</string>
+    <string name="native_f09619351eb9" formatted="false">מחק עותק מקומי</string>
+    <string name="native_85c686eb9841">עובד %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">בטל את משימת הגיבוי</string>
+    <string name="native_66c9d896407b" formatted="false">הצפין גיבוי של תחנת עבודה</string>
+    <string name="native_548cd9f0831e" formatted="false">פענוח ואמת גיבוי</string>
+    <string name="native_d248f5eca9a5" formatted="false">גיבויים עשויים להכיל מפתחות SSH פרטיים, מפתחות API ונתוני חשבון. השתמש ב-12 תווים לפחות. לא ניתן לשחזר סיסמה שנשכחה.</string>
+    <string name="native_f249422b9ec1" formatted="false">הגיבוי מפוענח ומאומת בספרייה פרטית. הסביבה שלך מוחלפת רק לאחר שתאשר את השחזור.</string>
+    <string name="native_e7be6841703a" formatted="false">סיסמת גיבוי</string>
+    <string name="native_9f6aeedc5a00" formatted="false">חזור על הסיסמה</string>
+    <string name="native_eafdc5cd4882" formatted="false">התחל בהצפנה</string>
+    <string name="native_2986b88beade" formatted="false">פענוח ואמת</string>
+    <string name="native_0eddf4ad9b94" formatted="false">בטל</string>
+    <string name="native_f46c5ed7412d" formatted="false">לשחזר את כל הסביבה הקודמת?</string>
+    <string name="native_33eda0946a5b" formatted="false">למחוק את העותק המקומי המוצפן?</string>
+    <string name="native_26db24150f2e" formatted="false">פרויקטים, בית, Debian והפעלות יחזרו למצבם לפני השחזור האחרון. עבודה עדכנית יותר תישאר בגיבוי פרטי בתוך האפליקציה.</string>
+    <string name="native_1153b30d51d5" formatted="false">רק העותק המקומי המוצפן בתוך האפליקציה נמחק. קבצים שנשמרו במקום אחר נשארים זמינים.</string>
+    <string name="native_427a78a4e69a" formatted="false">אשר</string>
+    <string name="native_7af46d7ee003" formatted="false">לשחזר את הגיבוי של תחנת העבודה?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s ערכים · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">הגיבוי מכיל תוכנת Linux הניתנת להפעלה. אשר שאתה סומך על המקור שלו. שיקום מחליף את כל הסביבה ובודק שירותים מקומיים; הסביבה הקודמת נשמרת להתאוששות.</string>
+    <string name="native_c3d74ed0c054" formatted="false">הגיבוי אומת. ממתין לאישור שחזור.</string>
+    <string name="native_97076078c749" formatted="false">אפשר גם מצב תאימות Chromium (משבית את ארגז החול של תהליך Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">כבוי כברירת מחדל. אתה יכול להפעיל אותו מאוחר יותר בהגדרות שולחן העבודה.</string>
+    <string name="native_ddf09383413c" formatted="false">אשר שחזור</string>
+    <string name="native_8e6056b0f629" formatted="false">בטל את הייבוא</string>
+    <string name="native_63a895901c76" formatted="false">סביבת תחנת העבודה השתנתה</string>
+    <string name="native_a4c994348a39" formatted="false">פתח מחדש את סביבת העבודה</string>
+    <string name="native_774947f0653e" formatted="false">בטל משימה</string>
+    <string name="native_e09a22b18445" formatted="false">המשימה נקטעה. בחר שוב פעולה והזן את הסיסמה.</string>
+    <string name="native_38c5fcc634db" formatted="false">שמור תחילה עריכות של קבצים בכל החלונות. בטל ייבוא ​​קיים לפני ניסיון חוזר.</string>
+    <string name="native_029bfa8ff772" formatted="false">שחזור תחנת העבודה ואימות תוכניות</string>
+    <string name="native_e4f04df818f8" formatted="false">מעבד את פעולת הגיבוי שבחרת</string>
+    <string name="native_8206f072d5ee" formatted="false">עצור את OpenCode, מסופים ושולחן העבודה, ואז המתן לסיום פעולות הקובץ.</string>
+    <string name="native_1a5cde18c609" formatted="false">לא ניתן היה להתחיל את משימת הגיבוי. נסה שוב עם האפליקציה בחזית.</string>
+    <string name="native_1553b714941d" formatted="false">פענוח ואימות הגיבוי. הסביבה המקורית נותרה ניתנת לשחזור...</string>
+    <string name="native_dafd005e953e" formatted="false">הגיבוי אומת. אשר את השחזור באפליקציה.</string>
+    <string name="native_9fb236184596" formatted="false">מחק את העותק המקומי המוצפן בתוך האפליקציה.</string>
+    <string name="native_f98e9ac348b6" formatted="false">הפעולה בוטלה. נתוני הסביבה המקוריים נשמרו.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">הפעולה לא הושלמה. בדוק את הסיסמה, תקינות הגיבוי, גרסת המארח והשטח הפנוי. נתוני הסביבה המקוריים נשמרו.</string>
+    <string name="native_29deabd28960" formatted="false">יוצר גיבוי מוצפן של תחנת עבודה...</string>
+    <string name="native_3d137e243806" formatted="false">נוצר גיבוי מוצפן. בחר היכן לשמור אותו.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">שחזור הסביבה ובדיקת שירותים מקומיים. שמור את נתוני האפליקציה ללא פגע...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">תחנת העבודה שוחזרה. הסביבה הקודמת נשארת בגיבוי פרטי. פתח מחדש את סביבת העבודה.</string>
+    <string name="native_0392cd6152d2" formatted="false">בדיקות השחזור נכשלו. חזר לסביבה הקודמת; הנתונים המיובאים נשארים בגיבוי פרטי.</string>
+    <string name="native_5dc7410b600e" formatted="false">השחזור לא הושלם. כל ספריות הנתונים נשמרות. שמור את נתוני האפליקציה ונסה שוב לשחזר.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">משחזר את סביבת תחנת העבודה הקודמת...</string>
+    <string name="native_15821323ff89" formatted="false">הסביבה הקודמת שוחזרה. עבודה עדכנית יותר נשארת בגיבוי פרטי. פתח מחדש את סביבת העבודה.</string>
+    <string name="native_56dd94f47870" formatted="false">לא ניתן לבטל את השחזור הזה. הסביבה הנוכחית והגיבויים נשמרו.</string>
+    <string name="native_93530f3fa029" formatted="false">הביטול אינו שלם. כל ספריות הנתונים נשמרות. שמור את נתוני האפליקציה ונסה שוב לשחזר.</string>
+    <string name="native_f12963c80def" formatted="false">שומר גיבוי מוצפן...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">גיבוי מוצפן נשמר. אתה יכול לשמור את העותק המקומי שוב או למחוק אותו באופן ידני.</string>
+    <string name="native_d660cccf65e0" formatted="false">מנקה ייבוא לא מאושר...</string>
+    <string name="native_800592163979" formatted="false">הייבוא בוטל. הסביבה המקורית ללא שינוי.</string>
+    <string name="native_5a90367eb834" formatted="false">הייבוא ​​בוטל. הסביבה המקורית ללא שינוי; חלק מנתוני הייבוא ​​הזמניים נשארים בספרייה הפרטית של האפליקציה.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">מכין פענוח ואימות...</string>
+    <string name="native_e9f2bea3118c" formatted="false">מכין גיבוי מוצפן...</string>
+    <string name="native_7bd5a0c93818" formatted="false">לא ניתן היה להפעיל את שירות הגיבוי. נסה שוב בחזית.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">שחזר תחילה את פעולת הסביבה הלא שלמה</string>
+    <string name="native_f14aea7c819c" formatted="false">רשומת שחזור לא חוקית</string>
+    <string name="native_7c284c55ee08" formatted="false">חסרה ספריית שחזור</string>
+    <string name="native_bfc4792df15b" formatted="false">הגדרות מקוריות חורגות ממגבלת רשומת השחזור</string>
+    <string name="native_8d93770ba8c9">חסר ספריית סביבה קודמת: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">שלב התאוששות לא ידוע</string>
+    <string name="native_20c5124fe175" formatted="false">פעולת שחזור לא ידועה</string>
+    <string name="native_1c457322b624" formatted="false">אין סביבה קודמת זמינה לשחזור</string>
+    <string name="native_30db1666c8e5" formatted="false">גיבוי זה שייך לאפליקציה אחרת</string>
+    <string name="native_6687d1c64d75" formatted="false">ארכיטקטורת מעבד הגיבוי אינה תואמת</string>
+    <string name="native_b9b37d57fe6b" formatted="false">עדכן תחילה את המארח Android לגרסה המשמשת את הגיבוי הזה</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">ספריית הגיבוי אינה שלמה</string>
+    <string name="native_66106ab3e254" formatted="false">לגיבוי הישן אין הוכחה ניתנת לאימות של OpenCode. הפעל את הסביבה המקורית עם המארח הזה לפני שתגבה אותו שוב.</string>
+    <string name="native_bec13cc92982" formatted="false">פעולות מערכת סביבת פיתוח</string>
+    <string name="native_65de80229626" formatted="false">Debian ביקשה פעולת מערכת</string>
+    <string name="native_5e38581cf19c" formatted="false">הקש כדי לבדוק ולטפל בבקשה</string>
+    <string name="native_749d406d2c67" formatted="false">מסביבת הפיתוח Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">לפתוח את דפדפן המערכת?</string>
+    <string name="native_ce9491abbc6c" formatted="false">האם לפתוח תצוגה מקדימה של פרויקט מקומי?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">לקרוא את הלוח?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">להעתיק ללוח המערכת?</string>
+    <string name="native_77f761eb70aa" formatted="false">לשלוח הודעה מקומית?</string>
+    <string name="native_e6b29e80abb7" formatted="false">לשתף קובץ פרויקט?</string>
+    <string name="native_9d36f698b3c1" formatted="false">לייבא קבצי מערכת?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">לייצא קובץ פרויקט?</string>
+    <string name="native_7ac295421c6d" formatted="false">פתח בדפדפן</string>
+    <string name="native_bbdb6043b5e9" formatted="false">פתח את התצוגה המקדימה</string>
+    <string name="native_14792d6cd7a6" formatted="false">אפשר קריאה</string>
+    <string name="native_b4caf8b99ddd" formatted="false">העתק ללוח</string>
+    <string name="native_4b3361a8c3a3" formatted="false">שלח הודעה</string>
+    <string name="native_88152a09fa02" formatted="false">בחר אפליקציית שיתוף</string>
+    <string name="native_7a49a79c57f9" formatted="false">בחר קבצים</string>
+    <string name="native_99d9f87419c5" formatted="false">בחר היכן לשמור</string>
+    <string name="native_23e5bb2090aa">%1$s\nנפתח עם נתוני דפדפן מבודדים מ-OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">תן טקסט מלוח המערכת לתוכנית Debian הנוכחית.</string>
+    <string name="native_dcc6bec24e43">בחר קבצים לייבא אל %1$s. הקבצים הקיימים נשמרים ושם של כפילויות שונה.</string>
+    <string name="native_efdb26088f68" formatted="false">מצב דפדפן Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">מצב תאימות משתמש בפרופיל דפדפן נפרד ומשבית את ארגז החול של תהליך Linux של Chromium. הדפדפן עדיין יכול לגשת לקבצים בתוך האפליקציה הזו. הימנע מאתרים לא מהימנים והשתמש בדפדפן מערכת Android עבור חשבונות חשובים. פתח מחדש את Chromium לאחר שינוי המצבים.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standard Linux ארגז חול מופעל כברירת מחדל. אם Chromium לא יכול להפעיל, אתה יכול לבחור במצב תאימות. זה משבית את ארגז החול של תהליך Linux ומשתמש בפרופיל נפרד, תוך שמירה על גישה לקבצי האפליקציה. הימנע מאתרים לא מהימנים; השתמש בדפדפן המערכת Android עבור חשבונות חשובים.</string>
+    <string name="native_3a2596fa9517" formatted="false">שחזור מצב סטנדרטי</string>
+    <string name="native_eeb5e46d62ae" formatted="false">אפשר מצב תאימות</string>
+    <string name="native_9a45442649f5" formatted="false">Debian שולחני</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · משותף /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">ההתקנה הראשונה מורידה רכיבים גרפיים. לאחר ההתקנה, שולחן העבודה יכול להתחיל ולעצור ללא תלות ב-OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">מראה USTC</string>
+    <string name="native_41e865941e16" formatted="false">מראה Debian הרשמית</string>
+    <string name="native_ea341b8a102b" formatted="false">רזולוציה ראשונית</string>
+    <string name="native_ff1cde9ba35d" formatted="false">שולחן העבודה ממשיך לפעול כאשר אתה מחליף דפים. עצור את זה מ-Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">הפסק את המשימה בשולחן העבודה</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">התחל את שולחן העבודה</string>
+    <string name="native_ea27a25e5114" formatted="false">התקן רכיבי שולחן עבודה</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: מצב תאימות</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: מצב סטנדרטי</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">התקן תחילה את כלי המפתחים של Debian מ-Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">יומן פעילות</string>
+    <string name="native_bfaa904aa4d4" formatted="false">לא ניתן היה לפתוח את תיקיית הפרויקט. בדוק שהספרייה קיימת.</string>
+    <string name="native_83c76743b29d" formatted="false">שחזור פעולת הסביבה שנקטעה</string>
+    <string name="native_739a730ae247" formatted="false">תחזוקת איכות הסביבה</string>
+    <string name="native_049281329843" formatted="false">המתן עד שתחזוקת העדכון או שהמשימה הנוכחית תסתיים.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">המתן עד שמשימת סביבת הפיתוח הנוכחית תסתיים</string>
+    <string name="native_83099168971c" formatted="false">התקנת שולחן העבודה</string>
+    <string name="native_85e0c18dde8d" formatted="false">הפעלת שולחן העבודה</string>
+    <string name="native_9a48f8196d8f" formatted="false">זקוק לתשומת לב</string>
+    <string name="native_75470fb13121" formatted="false">נעצר</string>
+    <string name="native_51a53c8109d5" formatted="false">לא ניתן לקרוא או לשמור את רשומת הפעילות. תקן אותו מ-Runtime או שחרר שטח אחסון.</string>
+    <string name="native_d36a018cc619" formatted="false">התקן תחילה את סביבת הפיתוח Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">התחבר תחילה לרשת</string>
+    <string name="native_a065d81014b1" formatted="false">התקנת שולחן העבודה לא הושלמה. נסה שוב להתקין.</string>
+    <string name="native_721c38b32c35" formatted="false">שולחן העבודה מותקן. התחל אותו כשצריך.</string>
+    <string name="native_6c1c52771115" formatted="false">התקן תחילה את רכיבי שולחן העבודה</string>
+    <string name="native_693d90a47827" formatted="false">פעולת שולחן העבודה נכשלה. הפרטים ארוכים מדי או לא זמינים.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">לא ניתן היה לסיים את שמירת סמן העצירה. ניקוי התהליך נמשך.</string>
+    <string name="native_06083621a6ce" formatted="false">לא ניתן היה לסיים את שמירת רשומת הפעילות. ההשקה הבאה תתייחס לזה כאל הפרעה.\n[[0187] שולחן העבודה פועל</string>
+    <string name="native_04d721a3819a" formatted="false">שולחן העבודה פועל</string>
+    <string name="native_c3f0acaf7a73" formatted="false">הזמן הקצוב לפעולת שולחן העבודה. עיין ביומן ונסה שוב.</string>
+    <string name="native_e70d328a3ca9">תהליך שולחן העבודה יצא (%1$s). עיין ביומן הפעילות.</string>
+    <string name="native_df5c878f2852" formatted="false">סביבת עבודה גרפית מקומית</string>
+    <string name="native_7b0455a8daa4" formatted="false">עצור את שולחן העבודה</string>
+    <string name="native_a62123cde9c7" formatted="false">משימות מופרעות והתאוששות</string>
+    <string name="native_279308947a14" formatted="false">אין אפשרות לקרוא את רשומת הפעילות. תיקון שומר עותק של הרשומה הפגומה ומשמר פרויקטים, הפעלות וסביבת Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">שיא פעילות תיקון</string>
+    <string name="native_6b43650c2c82" formatted="false">המשימה הסתיימה באופן בלתי צפוי.</string>
+    <string name="native_acb0c970aaa6">המסופים של %1$s לא נסגרו כרגיל. פקודות הריצה שלהם נקטעו.</string>
+    <string name="native_4ba153d8dff5" formatted="false">ההפעלה מחדש אושרה. פקודות קודמות לא הושמעו מחדש.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">פרויקטים והפעלות שמורים נשמרים. פתח מחדש מסופים באופן ידני; פקודות לא גמורות לא יחזרו אוטומטית.</string>
+    <string name="native_fa9669296762" formatted="false">הפעל מחדש את OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">שולחן העבודה לא יופעל מחדש באופן אוטומטי. הפעל אותו שוב מדף שולחן העבודה.</string>
+    <string name="native_644f8f44251f" formatted="false">פתח את הקובץ</string>
+    <string name="native_9dfb5569d609" formatted="false">שתף קובץ</string>
+    <string name="native_a4500cff3a86" formatted="false">ספריית העבודה אינה יכולה להיות קישור סמלי</string>
+    <string name="native_8657d27661bd" formatted="false">נתיב ספריית עבודה לא חוקי</string>
+    <string name="native_02b702a9adff" formatted="false">בחר קובץ</string>
+    <string name="native_924874b746cc" formatted="false">נהל קישורים סמליים בטרמינל</string>
+    <string name="native_efea6e422a54" formatted="false">שם קובץ לא חוקי</string>
+    <string name="native_c4989dc37aab" formatted="false">ספרייה לא קיימת</string>
+    <string name="native_d613dba39b44" formatted="false">ספריית היעד לא קיימת</string>
+    <string name="native_4f9b3fb4920b" formatted="false">לא ניתן למקם תיקיה בתוך עצמה או צאצאיה</string>
+    <string name="native_c3acd5a3254c" formatted="false">הפרויקט מכיל מכשירים או שקעים מיוחדים ואינו ניתן להעתקה</string>
+    <string name="native_6c36955b068b" formatted="false">בחר קובץ רגיל</string>
+    <string name="native_49191d7d489f" formatted="false">קובץ זה עולה על 2 MB. ערוך אותו עם OpenCode או המסוף.</string>
+    <string name="native_ee42414d36c2" formatted="false">הקובץ גדול מדי</string>
+    <string name="native_f0a979f87157" formatted="false">ייצא קבצים בינאריים כדי לפתוח אותם באפליקציה אחרת</string>
+    <string name="native_88a9c82651fc" formatted="false">ערוך קבצים שאינם UTF-8 עם OpenCode או המסוף</string>
+    <string name="native_0189a5c3418c" formatted="false">כלי אחר שינה את הקובץ הזה. פתח אותו מחדש לפני העריכה.</string>
+    <string name="native_0ce79256f4ac" formatted="false">הספרייה המקורית כבר לא קיימת. שחזר אותו קודם.</string>
+    <string name="native_46eae321049e" formatted="false">אין אפליקציית שיתוף זמינה</string>
+    <string name="native_87d699d3a26c" formatted="false">אשפה</string>
+    <string name="native_d0a8c03d6c07" formatted="false">קבצי פרויקט</string>
+    <string name="native_4dcf914f0b64" formatted="false">ניתן לשחזר קבצים שנמחקו לספריות המקוריות שלהם</string>
+    <string name="native_c5b81b02354f" formatted="false">חזרה</string>
+    <string name="native_e56b99379169">העתיקו %1$s קבצים · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">מעתיק...</string>
+    <string name="native_85199bb36b04" formatted="false">בטל פעולה</string>
+    <string name="native_e9dc52d1c24b" formatted="false">סגור</string>
+    <string name="native_4e1e5aacac7f" formatted="false">סשן חדש</string>
+    <string name="native_23c250cc8e0b" formatted="false">התחל סשן OpenCode כאן</string>
+    <string name="native_f22da21fd54f" formatted="false">טרמינל</string>
+    <string name="native_3645f30b3412" formatted="false">שינויים שלא נשמרו</string>
+    <string name="native_2266227605c4" formatted="false">שמור</string>
+    <string name="native_064fbc7ad3f3" formatted="false">האשפה ריקה</string>
+    <string name="native_a9e739b13e52" formatted="false">שחזור</string>
+    <string name="native_45985dc2183e" formatted="false">העבר:</string>
+    <string name="native_31214130b5b7" formatted="false">העתק:</string>
+    <string name="native_07e5c3158f35" formatted="false">הדבק</string>
+    <string name="native_831b4e0fb574" formatted="false">חדש</string>
+    <string name="native_ff65a22d7087" formatted="false">תיקייה חדשה</string>
+    <string name="native_71faed44a86c" formatted="false">קובץ חדש</string>
+    <string name="native_8dddd460f6ae" formatted="false">ייבוא</string>
+    <string name="native_d85825123e60" formatted="false">רענן</string>
+    <string name="native_ac9d73843736" formatted="false">חפש בספרייה זו</string>
+    <string name="native_21eef82963ee" formatted="false">ספרייה זו ריקה. יבא קבצים או צור פרויקט.</string>
+    <string name="native_e8a4cecaa371" formatted="false">אין קבצים תואמים</string>
+    <string name="native_d674bc0f86b8" formatted="false">פעולות קובץ</string>
+    <string name="native_d04a47c87cc8" formatted="false">קישור סמלי</string>
+    <string name="native_e0ba66f5246a" formatted="false">תיקייה</string>
+    <string name="native_f170b42599e8" formatted="false">שנה שם</string>
+    <string name="native_4cdacf57ead2" formatted="false">העתק</string>
+    <string name="native_124aa030694e" formatted="false">עבור אל...</string>
+    <string name="native_ac990518ed87" formatted="false">פתח את הטרמינל כאן</string>
+    <string name="native_87bc93932d8a" formatted="false">ייצוא לקבצי מערכת</string>
+    <string name="native_dd37f132172f" formatted="false">העבר לאשפה</string>
+    <string name="native_7318746d337c" formatted="false">להעביר לאשפה?</string>
+    <string name="native_2b5ee3f10a56">אתה יכול לשחזר את \"%1$s\" מהאשפה.</string>
+    <string name="native_e49730c9e7e1" formatted="false">העבר</string>
+    <string name="native_4e47aaa113fc" formatted="false">למחוק שינויים שלא נשמרו?</string>
+    <string name="native_63b75399ef1a" formatted="false">בטל שינויים</string>
+    <string name="native_d9618f7b8d25" formatted="false">המשך לערוך</string>
+    <string name="native_76ce6aef5479" formatted="false">שם</string>
+    <string name="native_35b0fc30b909" formatted="false">בסדר</string>
+    <string name="native_11b319774788" formatted="false">הסביבה שוחזרה. פתח מחדש את סביבת העבודה.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">תחילה סיים לשחזר את הפעולה שנקטעה בזמן ריצה</string>
+    <string name="native_f29af06e7c99" formatted="false">תחזוקת הסביבה מתבצעת. נסה שוב מאוחר יותר.</string>
+    <string name="native_3bd28258feb0" formatted="false">הפעולה בוטלה</string>
+    <string name="native_c508721eb3cd" formatted="false">קובץ בשם זה כבר קיים. בחר שם אחר.</string>
+    <string name="native_1e8274fe468a" formatted="false">הקובץ כבר לא קיים. רענן את הספרייה.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">הרשאת גישה לקובץ נדחתה</string>
+    <string name="native_cd808e4c321e" formatted="false">לא ניתן להשלים את הפעולה</string>
+    <string name="native_01cbe9be8b9f" formatted="false">הפעולה לא הושלמה. בדוק את האחסון הפנוי או בחר שוב את הקבצים.</string>
+    <string name="native_3f9983126fd7" formatted="false">בדוק את סטטוס האתחול של OpenCode בזמן ריצה</string>
+    <string name="native_6ed9fe2281bb" formatted="false">לא ניתן היה לפתוח מסוף חדש. בדוק את מספר הפגישות.</string>
+    <string name="native_2160fde3813a" formatted="false">נהל קישורים סמליים בטרמינל. מנהל הקבצים אינו עוקב אחר קישורים.</string>
+    <string name="native_7a844e9d4017" formatted="false">ההעברה הושלמה</string>
+    <string name="native_573877894fcf" formatted="false">העותק הושלם</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">הועבר לאשפה</string>
+    <string name="native_862330af933f" formatted="false">שוחזר לספרייה המקורית</string>
+    <string name="native_beda23c9d52b" formatted="false">התרחשה תחזוקה או החלפה של הסביבה. פתח מחדש את סביבת העבודה לפני העריכה.</string>
+    <string name="native_678c6953bb2b" formatted="false">נשמר</string>
+    <string name="native_8063159f2178" formatted="false">לא ניתן לקרוא את הקובץ שנבחר</string>
+    <string name="native_4cdc2180d2ac">%1$s קבצים יובאו</string>
+    <string name="native_e98763643b93" formatted="false">לא ניתן לכתוב למיקום הנבחר</string>
+    <string name="native_5afd173be7fa" formatted="false">הייצוא הושלם</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">קוד והפעלות</string>
+    <string name="native_8745ed51cadd" formatted="false">שולחן עבודה</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">סביבת עבודה גרפית</string>
+    <string name="native_770d49c5f689" formatted="false">קבצים</string>
+    <string name="native_6a9b6480b58f" formatted="false">זמן ריצה</string>
+    <string name="native_b561fe9204cc" formatted="false">שירותים וכלי מפתחים</string>
+    <string name="native_70850bdeeabd" formatted="false">תפריט סגור עמודים</string>
+    <string name="native_b4549acb48e8" formatted="false">סביבת עבודה</string>
+    <string name="native_3d3551f4660f">אטימות לחצן צף %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">ערכים נמוכים יותר הופכים את הכפתור הצף לשקוף יותר</string>
+    <string name="native_e031beabfc9a" formatted="false">פתח את תפריט העמודים</string>
+    <string name="native_106ee775b538" formatted="false">מתחבר ל-OpenCode מקומי...</string>
+    <string name="native_a021adc1f449" formatted="false">חיבור מקומי זקוק לשחזור</string>
+    <string name="native_dacb8837471c" formatted="false">התחבר מחדש</string>
+    <string name="native_17584aa60ae6" formatted="false">לא ניתן היה להכין את מטמון המשאבים המקומי</string>
+    <string name="native_3b3b80064ccb" formatted="false">מכין OpenCode מקומי...</string>
+    <string name="native_2560ee8fdd16" formatted="false">נסה שוב</string>
+    <string name="native_b07809340403" formatted="false">מיקום סביבת העבודה לא נשמר עדיין. נסה שוב מאוחר יותר.</string>
+    <string name="native_e4ab10392d05" formatted="false">השירות המקומי מתכונן. סביבת העבודה שלך תיפתח אוטומטית ברגע שתתחבר.</string>
+    <string name="native_20ea15973287" formatted="false">הריצה הקודמת נקטעה. הפעל מחדש מזמן ריצה; פקודות מסוף לא יופעלו אוטומטית.</string>
+    <string name="native_f2f2f6d32544" formatted="false">הפעל את OpenCode מ-Runtime כדי לפתוח קוד והפעלות.</string>
+    <string name="native_abbac5c22111" formatted="false">לצאת מהאפליקציה?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">סביבת הפיתוח יכולה להמשיך לרוץ ברקע. חזור מאוחר יותר מההודעה.</string>
+    <string name="native_814a8fb24b62" formatted="false">לצאת מסביבת העבודה הנוכחית?</string>
+    <string name="native_a76464945c2d" formatted="false">עצור גם את סביבת הפיתוח</string>
+    <string name="native_b814fd8d6bc5" formatted="false">יציאה</string>
+    <string name="native_b00143b08ff1" formatted="false">תחנת עבודה לפיתוח מוכנה</string>
+    <string name="native_51bca456a350" formatted="false">תחנת העבודה שלך לפיתוח Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">ריצה</string>
+    <string name="native_cb40c67e7cb1" formatted="false">מתחיל</string>
+    <string name="native_44da7f6a451d" formatted="false">עצירה</string>
+    <string name="native_b7e1503a7239" formatted="false">תיקון סביבת פיתוח</string>
+    <string name="native_7c91bd67ff14" formatted="false">התקן סביבת פיתוח</string>
+    <string name="native_cfd73bb04860" formatted="false">סביבת עצירה</string>
+    <string name="native_e7ec95694dce" formatted="false">הפעל את OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">בדוק את הסביבה</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">עדכון כלי מפתח Debian</string>
+    <string name="native_c114ec62712b" formatted="false">גיבוי סביבה, פרויקטים ונתוני הפעלה קודמים נשמרים.</string>
+    <string name="native_eb3114155716" formatted="false">התקן / עדכן שרתי שפה</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) ו-Python (pylsp), מותקנים מקוונים ממאגרי Debian חתומים. עצור תחילה את OpenCode ואת שולחן העבודה.\nעדכון</string>
+    <string name="native_2c7251cce661" formatted="false">הקש על הכפתור הצף כדי להחליף עמודים. גרור אותו כדי למקם אותו מחדש.</string>
+    <string name="native_dcef145e6a9b" formatted="false">מידע על זמן ריצה מופיע כאן לאחר ההפעלה.</string>
+    <string name="native_a8243a4e0d22" formatted="false">פתח את זמן ריצה</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">גרסת APK מצורפת</string>
+    <string name="native_e6b986511faf" formatted="false">עדכוני OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">ייבא ‎.ocaupdate חתום על ידי המפרסם של האפליקציה הזו. החזית הרשמי ו-backend מתעדכנים יחד.</string>
+    <string name="native_8aad48b0508d" formatted="false">מקור עדכון (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">בדוק את מקור העדכון</string>
+    <string name="native_f73973cfadbb">שחרור חתום: %1$s\nהתחייבות: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">הורד ואמת</string>
+    <string name="native_f2ef7965bf12" formatted="false">בחר חבילת עדכון</string>
+    <string name="native_165111adfe2c">מוכן להתקנה: %1$s\nהתחייבות: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">התקן את העדכון הזה</string>
+    <string name="native_f9432c4d9b1e" formatted="false">שחזר את הגרסה וההפעלות מלפני העדכון</string>
+    <string name="native_6864335de653" formatted="false">בטל עדכון</string>
+    <string name="native_5e3472cf084e" formatted="false">האם להתקין עדכון OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">לשחזר את המצב מלפני העדכון?</string>
+    <string name="native_11beb4a42abc">התקן %1$s. האפליקציה שומרת תמונת מצב של הפעלה, בודקת את התוכנית החתומה ומשחזרת את הגרסה הקודמת אם היא נכשלת. קבצי הפרויקט נשמרים.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">הפעלות חוזרות למצב שלהן לפני עדכון זה. הפעלות אחרונות יותר נשארות בגיבוי פרטי. קבצי הפרויקט נשמרים.</string>
+    <string name="native_def5e273616d" formatted="false">אשר את ההתקנה</string>
+    <string name="native_369d2eefccde" formatted="false">לא ניתן היה לבודד נתוני דפדפן תצוגה מקדימה. פתח מחדש את התצוגה המקדימה.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">לא ניתן היה לטעון את דף הפרויקט. בדוק את שרת הפיתוח בטרמינל שלך.</string>
+    <string name="native_6e7408950cf5" formatted="false">תצוגה מקדימה של אתר הפרויקט</string>
+    <string name="native_bfb4951e071d" formatted="false">תצוגה מקדימה של הפרויקט</string>
+    <string name="native_f80652913d06" formatted="false">הפעל שרת פיתוח בטרמינל, ואז הזן את היציאה המקומית שלו. נתוני דפדפן תצוגה מקדימה מבודדים מ-OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">נמל</string>
+    <string name="native_77c3a828a5c5" formatted="false">הזן יציאת פיתוח מ-1024 עד 65535, לא כולל שירותי OpenCode ושולחן העבודה.</string>
+    <string name="native_7311a9dfea51" formatted="false">שום דבר לא מאזין ביציאה הזו. בדוק את השירות בטרמינל שלך.</string>
+    <string name="native_4f8d84105475" formatted="false">בודק...</string>
+    <string name="native_4923c272b68e" formatted="false">יציאת הפיתוח חייבת להיות מספר שלם</string>
+    <string name="native_04a87026e81f" formatted="false">בחר יציאת פיתוח פרויקט חוקית</string>
+    <string name="native_a8a305819e54" formatted="false">מפגש פיתוח OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">התקנת סביבת פיתוח</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">תיקון סביבת פיתוח</string>
+    <string name="native_0ddf3d4297eb" formatted="false">בדיקת סביבת פיתוח</string>
+    <string name="native_9612d4419bb6" formatted="false">התקנת שרת שפה</string>
+    <string name="native_f72fba77f87a" formatted="false">התאוששות סביבתית</string>
+    <string name="native_7c8162195c7c" formatted="false">התקנת שולחן העבודה</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">הריצה הקודמת נקטעה. הפעל מחדש באופן מפורש מ-Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">משימת פיתוח מסוג זה עדיין פועלת</string>
+    <string name="native_95a56e0a3fe2" formatted="false">תיקון רשומת הפעילות</string>
+    <string name="native_b66749ed72ea" formatted="false">התהליך יצא</string>
+    <string name="native_6b25042064e2" formatted="false">הסתיים על ידי אות</string>
+    <string name="native_d6febdf1752b" formatted="false">נתבע עקב זיכרון נמוך</string>
+    <string name="native_1d13790f3c89" formatted="false">קריסת אפליקציה</string>
+    <string name="native_28db94d1850d" formatted="false">קריסת תהליך מקורי</string>
+    <string name="native_86919539f7f1" formatted="false">האפליקציה לא מגיבה</string>
+    <string name="native_90fb8d6098a5" formatted="false">האתחול נכשל</string>
+    <string name="native_38c60ab6654c" formatted="false">ההרשאות השתנו</string>
+    <string name="native_6d2a6c71334d" formatted="false">הגבלת משאבים</string>
+    <string name="native_19b2090b01a8" formatted="false">המשתמש ביקש עצירה</string>
+    <string name="native_120d96445f1a" formatted="false">נעצר על ידי משתמש</string>
+    <string name="native_3c8af14f66bc" formatted="false">התהליך התלוי יצא</string>
+    <string name="native_ca0941ce04ae" formatted="false">סיבה מערכת אחרת</string>
+    <string name="native_2df1ac3c1d38" formatted="false">הקפאת תהליך</string>
+    <string name="native_0d48373023a8" formatted="false">מצב האפליקציה השתנה</string>
+    <string name="native_c752307db26b" formatted="false">עדכון אפליקציה</string>
+    <string name="native_b5015951cbdf" formatted="false">המערכת לא סיפקה סיבת יציאה</string>
+    <string name="native_b62737b826ad">יציאת מערכת (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">לא ניתן היה לפתוח את ספריית הפרויקט</string>
+    <string name="native_faf5d983c13e" formatted="false">לא ניתן ליצור הפעלת OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">ספריית הפעלות של OpenCode אינה תואמת</string>
+    <string name="native_ac19736908a2" formatted="false">לא ניתן היה לקרוא את הפעלת OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">תחזוקת איכות הסביבה</string>
+    <string name="native_f992d735d932" formatted="false">עצור את OpenCode, מסופים ושולחן העבודה Debian, ואז המתן לסיום פעולות הקובץ</string>
+    <string name="native_489f137f1080" formatted="false">מנעול תחזוקת הסביבה אינו תקף עוד</string>
+    <string name="native_42380e2567fc" formatted="false">הפעולה שהופסקה שוחזרה. פתח מחדש את סביבת העבודה.</string>
+    <string name="native_17b00cac2b91" formatted="false">שחזור חיבור מקומי נכשל. נסה שוב מ-Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">תחזוקת הסביבה מתבצעת. נסה שוב מאוחר יותר.</string>
+    <string name="native_dbaebe3ce243" formatted="false">עצור את שולחן העבודה Debian לפני עדכון סביבת הפיתוח</string>
+    <string name="native_548085b144c9" formatted="false">הפעולה שהופסקה שוחזרה. אתה יכול להתחיל את סביבת הפיתוח.</string>
+    <string name="native_b4a1531f9eac" formatted="false">הריצה הקודמת נקטעה. פקודות מסוף לא יופעלו אוטומטית. הפעל מחדש באופן מפורש מ-Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">ניקוי תצורת החיבור הזמני לא הושלם. ניקוי התהליך נמשך.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">לא ניתן ליצור את סביבת העבודה של helloworld. בדוק את הספרייה ואת השטח הפנוי.</string>
+    <string name="native_68301868225a" formatted="false">ספריית סביבת העבודה הקודמת אינה זמינה. פתח את helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">פרויקט ברירת המחדל עדיין לא מוכן. נסה שוב מקבצים.</string>
+    <string name="native_45d6ab452622" formatted="false">התקן שרתי שפה</string>
+    <string name="native_9793c4a83295" formatted="false">שרתי שפות C/C++ ו-Python מוכנים. הפעל את OpenCode כדי להשתמש ב-LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">רשומת פעילות הטרמינל לא נשמרה. צור מסוף חדש לאחר סיום התהליך.</string>
+    <string name="native_1978b311a9ff" formatted="false">לא ניתן היה לסיים את שמירת רשומת היציאה מהמסוף.</string>
+    <string name="native_66dee11c3194" formatted="false">הורדת עדכון OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">מתחבר למקור העדכון...</string>
+    <string name="native_8c39baf28e08" formatted="false">לא ניתן להתחבר למקור העדכון. בדוק את הרשת, חתימת המפרסם, גרסת המארח והשטח הפנוי.</string>
+    <string name="native_0bedbc8d185d" formatted="false">תם הזמן הקצוב להורדה</string>
+    <string name="native_f75850093535">הורדה: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">מאמת את חתימת בעל האתר...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">מוריד את חבילת העדכון...</string>
+    <string name="native_2f9cd52dc66a">חתימת מפרסם חוקית: %1$s. בדוק לפני ההורדה.</string>
+    <string name="native_17548865632c" formatted="false">הורדה, שחרור מטא נתונים וחתימת חבילה אומתו. אשר את ההתקנה.</string>
+    <string name="native_180cec958e7a" formatted="false">ההורדה בוטלה. הגרסה המקורית נשמרה.</string>
+    <string name="native_8df045f8ac12" formatted="false">ההורדה הופסקה. הגרסה המקורית נשמרה.</string>
+    <string name="native_778803f1c6bb" formatted="false">בטל הורדה</string>
+    <string name="native_2958898ce6f4" formatted="false">הגרסה החדשה נכשלה בבדיקות הפעלה מקומיות, גירסה או אימות. הגרסה הקודמת תשוחזר.</string>
+    <string name="native_cc876dfbb261" formatted="false">תהליך הניסיון עדיין ביציאה. המתן להתאוששות לפני שתנסה שוב.</string>
+    <string name="native_adf977dcb47e" formatted="false">מזהה רשומת עדכון לא חוקי</string>
+    <string name="native_5207cac670b7" formatted="false">גודל ה-OpenCode העצמאי המותקן אינו תואם</string>
+    <string name="native_cf5b81887589" formatted="false">סכום הבדיקה העצמאי המותקן של OpenCode אינו תואם. שחזר את הגרסה הקודמת.</string>
+    <string name="native_393049b506cc" formatted="false">לתוכנית המקורית אין הוכחה תואמת של מפרסם. המצב הקודם ללא שינוי.</string>
+    <string name="native_c5853bcfd56c" formatted="false">שחזר תחילה את העדכון הקודם שהופסק</string>
+    <string name="native_91d8da5525fa" formatted="false">חבילת העדכון השתנתה לאחר האישור</string>
+    <string name="native_093f2c091a30" formatted="false">אחסון לא מספיק. הגרסה המקורית ללא שינוי.</string>
+    <string name="native_fc9bc82e0872" formatted="false">אין גיבוי עדכונים זמין לשחזור</string>
+    <string name="native_a9f4d9903c14" formatted="false">הגיבוי אינו תואם לגרסה הפועלת</string>
+    <string name="native_6caa23763a42" formatted="false">אימות התוכנית הקודמת נכשל. המפגשים הנוכחיים ללא שינוי.</string>
+    <string name="native_c8b71b876695" formatted="false">עדכון APK או Debian מאוחר יותר החליף את התוכנית המצורפת. גיבוי ההפעלה המקורי נשמר; שחזר תחילה את התוכנית המתאימה.</string>
+    <string name="native_c443df40964b" formatted="false">פעולת שחזור עדכון לא חוקית</string>
+    <string name="native_9071f05d58b3" formatted="false">מכין עדכון OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">עצור את OpenCode, מסופים ושולחן העבודה, ואז המתן עד שהם ייצאו.</string>
+    <string name="native_90c07b54f8f8" formatted="false">מצב שמירה, אימות תוכניות והחלפת גרסאות</string>
+    <string name="native_5fc065ef6f50" formatted="false">לא ניתן היה להפעיל את שירות תחזוקת העדכונים.</string>
+    <string name="native_f7b560c8c820" formatted="false">מאמת ומעלה את התוכנית הרשמית...</string>
+    <string name="native_9606191c82dc" formatted="false">שמירה על התוכנית המקורית וחתימת המוציא לאור...</string>
+    <string name="native_5c0d7787ee51" formatted="false">שומר תמונת מצב של הפעלה...</string>
+    <string name="native_0c8cf4632889" formatted="false">החלפת גרסאות ואימות השירות המקומי...</string>
+    <string name="native_3e81ea691a4a" formatted="false">משחזר את הגרסה וההפעלות מלפני העדכון...</string>
+    <string name="native_856de41d3bf3" formatted="false">שחזור OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">עדכון OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">שחזר את הגרסה וההפעלות הקודמים. הפעלות אחרונות יותר נשארות בגיבוי פרטי.</string>
+    <string name="native_07367ff18068" formatted="false">עדכון OpenCode הושלם. ההפעלה תשתמש ב-frontend הרשמי וב-backend התואמים.</string>
+    <string name="native_4693930f5802" formatted="false">העדכון בוטל. אישור שהמצב המקורי שוחזר.</string>
+    <string name="native_d0e37bc26edd" formatted="false">העדכון לא הושלם. מתאושש עכשיו; גיבויי התוכנית וההפעלה המקוריים נשמרים.</string>
+    <string name="native_9a32d6c2d207" formatted="false">השחזור אינו שלם. כל ספריות המדינה נשמרות. שמור את הנתונים שלך ונסה אתחול מחדש כדי לשחזר.</string>
+    <string name="native_49ad3eeae83d" formatted="false">שחזור הפגישה הושלם. מצב עדכני יותר נשאר בגיבוי.</string>
+    <string name="native_67c08a2911e1" formatted="false">השחזור לא יכול היה להמשיך עם הגיבוי הזה או התוכנית המקורית. הפעלות נוכחיות וגיבויים ללא שינוי.</string>
+    <string name="native_976d8c169cfa" formatted="false">העדכון בוטל או נכשל. הגרסה המקורית וההפעלות שוחזרו.</string>
+    <string name="native_7ac77d1513fc" formatted="false">מאמת את החתימה ואת תקינות חבילת העדכון...</string>
+    <string name="native_0aa018b7337b" formatted="false">לא ניתן לקרוא את הקובץ שנבחר</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">חבילת העדכון גדולה מדי</string>
+    <string name="native_f068b83f40bf" formatted="false">חתימה וחבילה אומתו. סקור את הגרסה לפני ההתקנה.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">לא ניתן לייבא: קובץ לא חוקי, אי התאמה בחתימה, גרסת מארח לא תואמת או אחסון לא מספיק.</string>
+    <string name="native_616412e65df4" formatted="false">התוכנית הרשמית אינה תואמת את הוכחת המפרסם שלה</string>
+    <string name="native_4bf19a158f27" formatted="false">חבילות זמן ריצה עצמאיות תומכות ב-ARM64 בלבד</string>
+    <string name="native_63b1fc6fffc9" formatted="false">חתימת העדכון אינה שייכת ל-APK זה</string>
+    <string name="native_c7273354727f" formatted="false">קובץ העדכון חורג מהגודל המוצהר שלו</string>
+    <string name="native_2aa6c8e74abb" formatted="false">סכום הבדיקה של עדכון התוכנית אינו תואם</string>
+    <string name="native_dd619076d456" formatted="false">גודל חבילת עדכון לא חוקי</string>
+    <string name="native_20c5bdfeffc0" formatted="false">גודל חבילת העדכון הדחוס אינו תואם</string>
+    <string name="native_1de24edffcf5" formatted="false">חבילת העדכון מכילה ערכים נוספים</string>
+    <string name="native_c5b339aa77e8" formatted="false">מקור עדכון או ארכיטקטורה לא תואמים</string>
+    <string name="native_89d585f3661f" formatted="false">שדרג את אפליקציית Android לפני התקנת עדכון זה</string>
+    <string name="native_800df084dea0" formatted="false">סכום הבדיקה של עדכון הארכיון אינו תואם</string>
+    <string name="native_ddf1a005e310" formatted="false">פורמט החתימה של APK זה אינו תומך בעדכוני זמן ריצה עצמאיים</string>
+    <string name="native_172e063db474" formatted="false">ערך חבילת עדכון לא חוקי</string>
+    <string name="native_1c08780aa99f" formatted="false">מטא נתונים של עדכון חייבים להשתמש במספרים שלמים</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">תוכנית העדכון אינה 64-bit Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">תוכנית העדכון אינה עומדת ביישור ELF של 16 KiB</string>
+    <string name="native_3afa3741911b" formatted="false">לתוכנית העדכון חסר מטעין glibc של Debian</string>
+    <string name="native_6b0b9e864f5b" formatted="false">הזן מקור עדכון HTTPS חוקי</string>
+    <string name="native_c274c7dd5900" formatted="false">מקורות עדכון דורשים כתובות URL של HTTPS ללא אישורי משתמש</string>
+    <string name="native_f459f5ec9dac" formatted="false">שדה מקור עדכון לא חוקי</string>
+    <string name="native_bde2a736e30a" formatted="false">שדרג תחילה את המארח Android</string>
+    <string name="native_b980fd021bef" formatted="false">ספריית עדכונים לא חוקית</string>
+    <string name="native_c0e96727553e" formatted="false">קובץ עדכון לא חוקי</string>
+    <string name="native_86ff542c68ed" formatted="false">לא ניתן להחליף ספריות עדכונים במצב זה</string>
+    <string name="native_fbf82dc7ef22" formatted="false">מצב הפעלה מתייחס לספרייה חיצונית. לא ניתן לבדוק את העדכון בבטחה.</string>
+    <string name="native_796dc6b7ca29" formatted="false">אחסון לא מספיק. המצב המקורי ללא שינוי.</string>
+    <string name="native_099801d672b1" formatted="false">ההורדה בוטלה</string>
+    <string name="native_f1304f707ec9" formatted="false">יותר מדי הפניות עדכון</string>
+    <string name="native_0d07f458b607" formatted="false">שרת העדכונים לא העביר את הבייטים המקוריים</string>
+    <string name="native_de331dfd8908" formatted="false">אורך קובץ העדכון אינו תואם</string>
+    <string name="native_416b8c87e69e" formatted="false">קובץ העדכון לא הורד במלואו</string>
+    <string name="native_e1e74b76c427" formatted="false">שרת העדכונים לא החזיר את הקובץ המלא</string>
+    <string name="native_6afcf03cb130" formatted="false">אין מספיק מקום לעדכון</string>
+    <string name="native_be1c695d9241" formatted="false">קובץ העדכון SHA-256 אינו תואם</string>
+    <string name="native_a0133d117bb0" formatted="false">חבילת העדכון אינה תואמת את מידע הגרסה המאושר</string>
+    <string name="native_8635a43ce28a" formatted="false">ספריית פרויקט לא חוקית</string>
+    <string name="native_d32ab8b004e6" formatted="false">לא ניתן לשמור את מיקום סביבת העבודה</string>
+    <string name="native_43a5447014fd" formatted="false">הפעל את סביבת הפיתוח מ-Runtime לפני פתיחת מסוף.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ מסוף חדש</string>
+    <string name="native_b3b7108a568f" formatted="false">זרם סגירה</string>
+    <string name="native_0e822affd5da">ספרייה ראשונית: %1$s</string>
+    <string name="native_72d769e3888d">ספריית מסוף חדשה: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">בוחר קבצי המערכת אינו זמין</string>
+    <string name="native_179a57921f91" formatted="false">הגדרות עיבוד WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">קצב פריימים של רינדור</string>
+    <string name="native_55b6d7f645f3" formatted="false">העדיפו 60 הרץ</string>
+    <string name="native_66f8bafa9f7f" formatted="false">עקוב אחר קצב הרענון של התצוגה</string>
+    <string name="native_d4ecf38c341d" formatted="false">העדיפו 60 הרץ כדי להפחית את עומס העיבוד בתצוגות של קצב רענון גבוה. מעקב אחר התצוגה מאפשר למערכת לתזמן מסגרות. חל רק על חלון האפליקציה הזו.</string>
+    <string name="native_bf0d3a407418" formatted="false">לא מותקן</string>
+    <string name="native_2fb8edc75b25" formatted="false">מוכן</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">מטעין מאמת</string>
+    <string name="native_d1017c1eac80" formatted="false">התקנת Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">סביבת פיתוח מקומית</string>
+    <string name="native_55aa84065de2" formatted="false">מפגש פיתוח מקומי Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">עצור</string>
+    <string name="native_5f73a4e1e494" formatted="false">מותקן</string>
+    <string name="native_147e90d2ec02" formatted="false">מתאושש</string>
+</resources>

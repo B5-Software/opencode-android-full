@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Fejlesztő munkaterület</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + asztali számítógép</string>
+    <string name="native_7f1c02616d60" formatted="false">Egyoldalas</string>
+    <string name="native_651ae6ea52ae" formatted="false">Az osztott nézet visszaállítása</string>
+    <string name="native_d7e97cfac66f" formatted="false">Munkaterület elrendezés</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Szélesítse az ablakot több panel együttes megtekintéséhez.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Projektfájlok megjelenítése</string>
+    <string name="native_712d956931d1" formatted="false">Terminál megjelenítése</string>
+    <string name="native_073cc20d9ed9" formatted="false">csatlakozó alul</string>
+    <string name="native_5de225480fa7" formatted="false">terminál a jobb oldalon</string>
+    <string name="native_35cdb3eacdc6" formatted="false">A panelek összecsukódnak, ha korlátozott a hely, és továbbra is elérhetők maradnak a lebegő menüből. Az oldalsó terminál szélesebb ablakokban jelenik meg. Húzza az elválasztókat a panelek átméretezéséhez.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + bal oldali Alt: 1–5 oldal · B fájlok · T terminál · M asztal · Enter Single/Split · \\\\ Elrendezés</string>
+    <string name="native_7a129a94c6ff" formatted="false">Kész</string>
+    <string name="native_bcec2218fc21" formatted="false">Állítsa vissza az arányokat</string>
+    <string name="native_da88c62d1217">%1$s megjelenítése egyetlen oldalon</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projekt fájlelválasztó</string>
+    <string name="native_707c0891a0e6" formatted="false">Sorkapocsosztó</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode és asztali elválasztó</string>
+    <string name="native_50407ad8dfa8" formatted="false">Az előző panel zsugorítása</string>
+    <string name="native_b72c5c02a666" formatted="false">Előző panel nagyítása</string>
+    <string name="native_3f3685e8d731" formatted="false">Túl sok PRoot hivatkozás ehhez az archív formátumhoz</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux merev linkekhez teljes rootfs szükséges</string>
+    <string name="native_f336f1e17596" formatted="false">A biztonsági mentési könyvtár beágyazása túl mély</string>
+    <string name="native_b6f744737a45" formatted="false">Érvénytelen biztonsági mentési jelszó hossza</string>
+    <string name="native_13bde5dd1812" formatted="false">A biztonsági mentési jelszónak legalább 12 karakterből kell állnia</string>
+    <string name="native_be02cbd55932" formatted="false">Nem támogatott biztonsági mentési formátum</string>
+    <string name="native_7a91a3d586ae" formatted="false">Érvénytelen biztonsági mentési fejléc</string>
+    <string name="native_2bbd318a5667" formatted="false">Nem támogatott biztonsági mentési titkosítási paraméterek</string>
+    <string name="native_18868da27841" formatted="false">Hibás biztonsági mentési jelszó vagy sérült fájl</string>
+    <string name="native_e41d6440468d" formatted="false">A helyreállítási rekord túl nagy\nA</string>
+    <string name="native_282692502f14" formatted="false">biztonsági mentés metaadatai túl nagyok</string>
+    <string name="native_61fdca8d6c82" formatted="false">A biztonsági mentés metaadat-beágyazása túl mély</string>
+    <string name="native_8cefb30732d4" formatted="false">Érvénytelen biztonsági mentési metaadatok</string>
+    <string name="native_5d3037708cad" formatted="false">Nem támogatott natív beállítások</string>
+    <string name="native_81a57c382f9d" formatted="false">Nem sikerült menteni a natív beállításokat</string>
+    <string name="native_50603e683d4a" formatted="false">Érvénytelen szülőkönyvtár a biztonsági mentési útvonalon</string>
+    <string name="native_c3f838a46b8e" formatted="false">A munkaállomás gyökere nem lehet szimbolikus hivatkozás</string>
+    <string name="native_9ddd2d8280c8" formatted="false">A biztonsági mentés során megváltozott fájl</string>
+    <string name="native_77e1e85147db" formatted="false">Nem támogatott munkaállomás-adatformátum</string>
+    <string name="native_a927b5a565af" formatted="false">A biztonsági másolat további adatokat tartalmaz</string>
+    <string name="native_c2b886d508f2" formatted="false">A biztonsági másolat ismétlődő útvonalakat tartalmaz</string>
+    <string name="native_3dab8cd60102" formatted="false">A biztonsági másolat olyan futásidejű beállításokat tartalmaz, amelyeket nem lehet áttelepíteni</string>
+    <string name="native_f45ba674a630" formatted="false">A biztonsági másolat túl nagy, vagy a tárhely nem elegendő</string>
+    <string name="native_140073e8e77b" formatted="false">Nem sikerült visszaállítani a szimbolikus link időbélyegeit</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nem sikerült visszaállítani a megnevezett csövek időbélyegeit</string>
+    <string name="native_0daee8026db1" formatted="false">munkaállomás biztonsági mentés és visszaállítás</string>
+    <string name="native_1acc18928c5f" formatted="false">Tartalmazza a Debiant, fejlesztői eszközöket, projekteket, otthoni, OpenCode munkameneteket és beállításokat, Linux böngészőadatokat és natív elrendezési beállításokat.</string>
+    <string name="native_62254d31a535" formatted="false">Az ideiglenes fájlok és a régi biztonsági másolatok nem tartoznak ide. Az Android WebView tárhely és az el nem küldött piszkozatok ezen az eszközön maradnak, és nem kerülnek átvitelre ezzel a biztonsági másolattal.</string>
+    <string name="native_808eabc7811f" formatted="false">Titkosított biztonsági másolat készítése</string>
+    <string name="native_201c10b38296" formatted="false">Biztonsági mentés importálása</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Először mentse el a módosításokat a fájlszerkesztőben.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, terminálok és asztal</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Egy környezeti művelet nem fejeződött be. Először állítsa helyre.</string>
+    <string name="native_185f58156330" formatted="false">Hiányos működés helyreállítása</string>
+    <string name="native_20831b6f67a7" formatted="false">Az utolsó környezet-visszaállítás visszavonása</string>
+    <string name="native_4f392d5d6141">Titkosított helyi másolat: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Mentés fájlba</string>
+    <string name="native_f09619351eb9" formatted="false">Helyi másolat törlése</string>
+    <string name="native_85c686eb9841">Feldolgozva: %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">A biztonsági mentési feladat megszakítása</string>
+    <string name="native_66c9d896407b" formatted="false">A munkaállomás biztonsági másolatának titkosítása</string>
+    <string name="native_548cd9f0831e" formatted="false">Dekódolja és ellenőrizze a biztonsági másolatot\nA</string>
+    <string name="native_d248f5eca9a5" formatted="false">biztonsági másolatok SSH privát kulcsokat, API-kulcsokat és fiókadatokat tartalmazhatnak. Legalább 12 karaktert használjon. Az elfelejtett jelszót nem lehet visszaállítani.</string>
+    <string name="native_f249422b9ec1" formatted="false">A biztonsági másolat visszafejtése és ellenőrzése egy privát könyvtárban történik. A környezetet csak a visszaállítás megerősítése után cseréljük le.</string>
+    <string name="native_e7be6841703a" formatted="false">Biztonsági jelszó</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Ismételje meg a jelszót</string>
+    <string name="native_eafdc5cd4882" formatted="false">Indítsa el a titkosítást</string>
+    <string name="native_2986b88beade" formatted="false">Dekódolás és ellenőrzés</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Mégsem</string>
+    <string name="native_f46c5ed7412d" formatted="false">Visszaállítja a teljes korábbi környezetet?</string>
+    <string name="native_33eda0946a5b" formatted="false">Törli a titkosított helyi másolatot?</string>
+    <string name="native_26db24150f2e" formatted="false">A projektek, az otthoni, a Debian és a munkamenetek visszatérnek az utolsó visszaállítás előtti állapotukba. Az újabb munkák privát biztonsági másolatban maradnak az alkalmazáson belül.</string>
+    <string name="native_1153b30d51d5" formatted="false">Csak az alkalmazáson belüli titkosított helyi másolat törlődik. A máshol mentett fájlok elérhetők maradnak.</string>
+    <string name="native_427a78a4e69a" formatted="false">Erősítse meg</string>
+    <string name="native_7af46d7ee003" formatted="false">Visszaállítja a munkaállomás biztonsági másolatát?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s bejegyzés · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">A biztonsági másolat futtatható Linux szoftvert tartalmaz. Erősítse meg, hogy megbízik a forrásában. A helyreállítás a teljes környezetet lecseréli, és ellenőrzi a helyi szolgáltatásokat; a korábbi környezet a helyreállításhoz megmarad.</string>
+    <string name="native_c3d74ed0c054" formatted="false">A biztonsági mentés ellenőrizve. Várakozás a helyreállítás megerősítésére.</string>
+    <string name="native_97076078c749" formatted="false">Engedélyezze a Chromium kompatibilitási módot is (letiltja a Linux folyamat sandboxot)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Alapértelmezés szerint ki. Később engedélyezheti az asztali beállítások között.</string>
+    <string name="native_ddf09383413c" formatted="false">Erősítse meg a visszaállítást</string>
+    <string name="native_8e6056b0f629" formatted="false">Importálás megszakítása</string>
+    <string name="native_63a895901c76" formatted="false">A munkaállomás környezet megváltozott</string>
+    <string name="native_a4c994348a39" formatted="false">Nyissa meg újra a munkaterületet</string>
+    <string name="native_774947f0653e" formatted="false">Feladat megszakítása</string>
+    <string name="native_e09a22b18445" formatted="false">A feladat megszakadt. Válasszon újra egy műveletet, és adja meg a jelszót.</string>
+    <string name="native_38c5fcc634db" formatted="false">Először mentse a fájlszerkesztéseket az összes ablakban. Az újrapróbálkozás előtt szakítsa meg a meglévő importálást.</string>
+    <string name="native_029bfa8ff772" formatted="false">A munkaállomás visszaállítása és a programok ellenőrzése</string>
+    <string name="native_e4f04df818f8" formatted="false">A kiválasztott biztonsági mentési művelet feldolgozása</string>
+    <string name="native_8206f072d5ee" formatted="false">Állítsa le az OpenCode-ot, a terminálokat és az asztalt, majd várja meg, amíg a fájlműveletek befejeződnek.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nem sikerült elindítani a biztonsági mentési feladatot. Próbálja újra úgy, hogy az alkalmazás az előtérben legyen.</string>
+    <string name="native_1553b714941d" formatted="false">A biztonsági másolat visszafejtése és ellenőrzése. Az eredeti környezet visszaállítható…</string>
+    <string name="native_dafd005e953e" formatted="false">A biztonsági mentés ellenőrizve. Erősítse meg a visszaállítást az alkalmazásban.</string>
+    <string name="native_9fb236184596" formatted="false">Törölte a titkosított helyi másolatot az alkalmazásban.</string>
+    <string name="native_f98e9ac348b6" formatted="false">A művelet megszakadt. Az eredeti környezeti adatok megmaradtak.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">A művelet nem fejeződött be. Ellenőrizze a jelszót, a biztonsági mentés integritását, a gazdagép verzióját és a szabad helyet. Az eredeti környezeti adatok megmaradtak.</string>
+    <string name="native_29deabd28960" formatted="false">Titkosított munkaállomás biztonsági mentés készítése…</string>
+    <string name="native_3d137e243806" formatted="false">Titkosított biztonsági másolat létrehozva. Válassza ki, hová szeretné menteni.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">A környezet helyreállítása és a helyi szolgáltatások ellenőrzése. Tartsa érintetlenül az alkalmazás adatait…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">munkaállomás helyreállítva. Az előző környezet privát biztonsági másolatban marad. Nyissa meg újra a munkaterületet.</string>
+    <string name="native_0392cd6152d2" formatted="false">A visszaállítási ellenőrzések sikertelenek. Visszatért az előző környezetbe; az importált adatok privát biztonsági másolatban maradnak.</string>
+    <string name="native_5dc7410b600e" formatted="false">A helyreállítás nem teljes. Minden adatkönyvtár megmarad. Tartsa meg az alkalmazás adatait, és próbálkozzon újra a helyreállítással.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Az előző munkaállomás környezet visszaállítása…</string>
+    <string name="native_15821323ff89" formatted="false">Az előző környezet visszaállítva. Az újabb munkák privát biztonsági mentésben maradnak. Nyissa meg újra a munkaterületet.</string>
+    <string name="native_56dd94f47870" formatted="false">Ez a visszaállítás nem vonható vissza. A jelenlegi környezet és a biztonsági másolatok megmaradtak.</string>
+    <string name="native_93530f3fa029" formatted="false">A visszavonás nem fejeződött be. Minden adatkönyvtár megmarad. Tartsa meg az alkalmazás adatait, és próbálkozzon újra a helyreállítással.</string>
+    <string name="native_f12963c80def" formatted="false">Titkosított biztonsági mentés mentése…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Titkosított biztonsági másolat mentve. A helyi másolatot ismét elmentheti, vagy manuálisan törölheti.</string>
+    <string name="native_d660cccf65e0" formatted="false">Meg nem erősített import törlése…</string>
+    <string name="native_800592163979" formatted="false">Az importálás megszakítva. Eredeti környezet változatlan.</string>
+    <string name="native_5a90367eb834" formatted="false">Az importálás megszakítva. Az eredeti környezet változatlan; néhány ideiglenes importadat az alkalmazás privát könyvtárában marad.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Dekódolás és ellenőrzés előkészítése…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Titkosított biztonsági mentés előkészítése…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Nem sikerült elindítani a biztonsági mentési szolgáltatást. Próbálja újra az előtérben.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Először állítsa helyre a nem teljes környezeti műveletet</string>
+    <string name="native_f14aea7c819c" formatted="false">Érvénytelen helyreállítási rekord</string>
+    <string name="native_7c284c55ee08" formatted="false">Hiányzó helyreállítási könyvtár</string>
+    <string name="native_bfc4792df15b" formatted="false">A natív beállítások meghaladják a helyreállítási rekord határértékét</string>
+    <string name="native_8d93770ba8c9">Hiányzik az előző környezeti könyvtár: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Ismeretlen helyreállítási szakasz</string>
+    <string name="native_20c5124fe175" formatted="false">Ismeretlen helyreállítási művelet</string>
+    <string name="native_1c457322b624" formatted="false">Nincs visszaállítható korábbi környezet</string>
+    <string name="native_30db1666c8e5" formatted="false">Ez a biztonsági másolat egy másik alkalmazáshoz tartozik</string>
+    <string name="native_6687d1c64d75" formatted="false">A tartalék processzor architektúrája nem egyezik</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Először frissítse az Android gazdagépet a biztonsági másolat által használt verzióra</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">A biztonsági mentési könyvtár nem teljes</string>
+    <string name="native_66106ab3e254" formatted="false">A régi biztonsági másolatnak nincs ellenőrizhető OpenCode kiadói bizonyítéka. Indítsa el az eredeti környezetet ezzel a gazdagéppel, mielőtt ismét biztonsági másolatot készítene róla.</string>
+    <string name="native_bec13cc92982" formatted="false">Fejlesztői környezeti rendszerműveletek</string>
+    <string name="native_65de80229626" formatted="false">A Debian rendszerműveletet kért</string>
+    <string name="native_5e38581cf19c" formatted="false">Érintse meg a kérés áttekintéséhez és kezeléséhez</string>
+    <string name="native_749d406d2c67" formatted="false">A Debian fejlesztői környezetből</string>
+    <string name="native_4032d33b2afd" formatted="false">Megnyitja a rendszerböngészőt?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Megnyit egy helyi projekt előnézetet?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Olvassa a vágólapot?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Másolás a rendszer vágólapjára?</string>
+    <string name="native_77f761eb70aa" formatted="false">Helyi értesítést küld?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Megoszt egy projektfájlt?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Rendszerfájlok importálása?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Projektfájl exportálása?</string>
+    <string name="native_7ac295421c6d" formatted="false">Megnyitás a böngészőben</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Előnézet megnyitása</string>
+    <string name="native_14792d6cd7a6" formatted="false">Olvasás engedélyezése</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Másolás a vágólapra</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Értesítés küldése</string>
+    <string name="native_88152a09fa02" formatted="false">Válasszon megosztó alkalmazást</string>
+    <string name="native_7a49a79c57f9" formatted="false">Fájlok kiválasztása</string>
+    <string name="native_99d9f87419c5" formatted="false">Válassza ki a mentés helyét</string>
+    <string name="native_23e5bb2090aa">%1$s\nAz OpenCode-tól elkülönített böngészőadatokkal nyílik meg.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Adjon szöveget a rendszer vágólapjáról az aktuális Debian programnak.</string>
+    <string name="native_dcc6bec24e43">Válassza ki a %1$s-ba importálni kívánt fájlokat. A meglévő fájlokat a rendszer megtartja, a másolatokat pedig átnevezi.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium böngésző mód</string>
+    <string name="native_4767f37900f6" formatted="false">A kompatibilitási mód külön böngészőprofilt használ, és letiltja a Chromium Linux-folyamat homokozóját. A böngésző továbbra is hozzáférhet az alkalmazáson belüli fájlokhoz. Kerülje el a nem megbízható webhelyeket, és használja az Android rendszerböngészőt a fontos fiókokhoz. Üzemmódváltás után nyissa meg újra a Chromiumot.</string>
+    <string name="native_a4317f2699a2" formatted="false">A szabványos Linux sandbox alapértelmezés szerint engedélyezve van. Ha a Chromium nem indul el, kiválaszthatja a kompatibilitási módot. Letiltja a Linux folyamatok homokozóját, és külön profilt használ, miközben megtartja az alkalmazásfájlokhoz való hozzáférést. Kerülje a nem megbízható webhelyeket; használja az Android rendszerböngészőt a fontos fiókokhoz.</string>
+    <string name="native_3a2596fa9517" formatted="false">Normál mód visszaállítása</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Kompatibilitási mód engedélyezése</string>
+    <string name="native_9a45442649f5" formatted="false">Debian asztali számítógép</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Megosztott /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Az első telepítés grafikus komponenseket tölt le. A telepítés után az asztal az OpenCode-tól függetlenül elindulhat és leállhat.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC tükör</string>
+    <string name="native_41e865941e16" formatted="false">Hivatalos Debian tükör</string>
+    <string name="native_ea341b8a102b" formatted="false">Kezdeti felbontás</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Az asztal folyamatosan fut, amikor oldalt vált. Állítsa le a Runtime-ból.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Az asztali feladat leállítása</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Indítsa el az asztalt</string>
+    <string name="native_ea27a25e5114" formatted="false">Telepítse az asztali alkatrészeket</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: kompatibilitási mód</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: normál mód</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Először telepítse a Debian fejlesztői eszközöket a Runtime-ból.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Tevékenységi napló</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nem sikerült megnyitni a projektmappát. Ellenőrizze, hogy létezik-e a könyvtár.</string>
+    <string name="native_83c76743b29d" formatted="false">A megszakított környezeti működés helyreállítása</string>
+    <string name="native_739a730ae247" formatted="false">Környezet karbantartása</string>
+    <string name="native_049281329843" formatted="false">Várja meg a frissítési karbantartást vagy az aktuális feladat befejezését.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Várja meg, amíg az aktuális fejlesztői környezeti feladat befejeződik</string>
+    <string name="native_83099168971c" formatted="false">Asztali telepítése</string>
+    <string name="native_85e0c18dde8d" formatted="false">Asztali indítása</string>
+    <string name="native_9a48f8196d8f" formatted="false">Figyelmet igényel</string>
+    <string name="native_75470fb13121" formatted="false">Leállt</string>
+    <string name="native_51a53c8109d5" formatted="false">A tevékenységrekord nem olvasható vagy menthető. Javítsa meg a Runtime-ból, vagy szabadítson fel tárhelyet.</string>
+    <string name="native_d36a018cc619" formatted="false">Először telepítse a Debian fejlesztői környezetet</string>
+    <string name="native_80be4c2928a5" formatted="false">Először csatlakozzon a hálózathoz\nA</string>
+    <string name="native_a065d81014b1" formatted="false">Desktop telepítése nem fejeződött be. Próbálja újra a telepítést.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop telepítve. Indítsa el, amikor szükséges.</string>
+    <string name="native_6c1c52771115" formatted="false">Először telepítse az asztali alkatrészeket</string>
+    <string name="native_693d90a47827" formatted="false">Asztali művelet nem sikerült. A részletek túl hosszúak vagy nem állnak rendelkezésre.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nem sikerült befejezni a stopjelző mentését. A folyamat tisztítása folytatódott.</string>
+    <string name="native_06083621a6ce" formatted="false">Nem sikerült befejezni a tevékenységrekord mentését. A következő indítás ezt megszakításként kezeli.</string>
+    <string name="native_04d721a3819a" formatted="false">Asztali számítógép fut</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Az asztali számítógép működése időtúllépést szenvedett. Tekintse át a naplót, és próbálkozzon újra.</string>
+    <string name="native_e70d328a3ca9">Asztali folyamat kilépve (%1$s). Tekintse át a tevékenységnaplót.</string>
+    <string name="native_df5c878f2852" formatted="false">Helyi grafikus munkaterület</string>
+    <string name="native_7b0455a8daa4" formatted="false">Állítsa le az asztalt</string>
+    <string name="native_a62123cde9c7" formatted="false">Megszakadt feladatok és helyreállítás</string>
+    <string name="native_279308947a14" formatted="false">A tevékenységi rekord nem olvasható. A Repair megőrzi a sérült rekord másolatát, és megőrzi a projekteket, a munkameneteket és a Linux környezetet.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Javítási tevékenység rekord</string>
+    <string name="native_6b43650c2c82" formatted="false">A feladat váratlanul véget ért.</string>
+    <string name="native_acb0c970aaa6">%1$s terminálok nem zártak rendesen. Futóparancsaikat megszakították.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Újraindítás megerősítve. A korábbi parancsok nem lettek lejátszva.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">A mentett projektek és munkamenetek megmaradnak. Manuálisan nyissa újra a terminálokat; a befejezetlen parancsok nem folytatódnak automatikusan.</string>
+    <string name="native_fa9669296762" formatted="false">Indítsa újra az OpenCode-ot</string>
+    <string name="native_bd8130bec5d9" formatted="false">Az asztal nem indul újra automatikusan. Indítsa újra az Asztal oldaláról.</string>
+    <string name="native_644f8f44251f" formatted="false">Fájl megnyitása</string>
+    <string name="native_9dfb5569d609" formatted="false">Fájl megosztása</string>
+    <string name="native_a4500cff3a86" formatted="false">A munkakönyvtár nem lehet szimbolikus hivatkozás</string>
+    <string name="native_8657d27661bd" formatted="false">Érvénytelen munkakönyvtár elérési útja</string>
+    <string name="native_02b702a9adff" formatted="false">Válasszon ki egy fájlt</string>
+    <string name="native_924874b746cc" formatted="false">Szimbolikus hivatkozások kezelése a terminálon</string>
+    <string name="native_efea6e422a54" formatted="false">Érvénytelen fájlnév\nA</string>
+    <string name="native_c4989dc37aab" formatted="false">címtár nem létezik</string>
+    <string name="native_d613dba39b44" formatted="false">A célkönyvtár nem létezik</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Nem lehet mappát elhelyezni önmagában vagy leszármazottaiban</string>
+    <string name="native_c3acd5a3254c" formatted="false">A projekt speciális eszközöket vagy aljzatokat tartalmaz, és nem másolható</string>
+    <string name="native_6c36955b068b" formatted="false">Válasszon ki egy normál fájlt</string>
+    <string name="native_49191d7d489f" formatted="false">Ez a fájl meghaladja a 2 MB-ot. Szerkessze az OpenCode-al vagy a terminállal.</string>
+    <string name="native_ee42414d36c2" formatted="false">A fájl túl nagy</string>
+    <string name="native_f0a979f87157" formatted="false">Exportáljon bináris fájlokat, hogy megnyithassa őket egy másik alkalmazásban</string>
+    <string name="native_88a9c82651fc" formatted="false">Nem UTF-8 fájlok szerkesztése OpenCode vagy terminál segítségével</string>
+    <string name="native_0189a5c3418c" formatted="false">Egy másik eszköz módosította ezt a fájlt. Szerkesztés előtt nyissa meg újra.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Az eredeti könyvtár már nem létezik. Először állítsa vissza.</string>
+    <string name="native_46eae321049e" formatted="false">Nem érhető el megosztó alkalmazás</string>
+    <string name="native_87d699d3a26c" formatted="false">Kuka</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projektfájlok</string>
+    <string name="native_4dcf914f0b64" formatted="false">A törölt fájlok visszaállíthatók eredeti könyvtárukba</string>
+    <string name="native_c5b81b02354f" formatted="false">Hátul</string>
+    <string name="native_e56b99379169">%1$s fájl másolva · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Másolás…</string>
+    <string name="native_85199bb36b04" formatted="false">A művelet megszakítása</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Zárja be</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Új munkamenet</string>
+    <string name="native_23c250cc8e0b" formatted="false">Itt indíthat OpenCode munkamenetet</string>
+    <string name="native_f22da21fd54f" formatted="false">terminál</string>
+    <string name="native_3645f30b3412" formatted="false">Nem mentett változtatások</string>
+    <string name="native_2266227605c4" formatted="false">Mentés</string>
+    <string name="native_064fbc7ad3f3" formatted="false">A kuka üres</string>
+    <string name="native_a9e739b13e52" formatted="false">visszaállítás</string>
+    <string name="native_45985dc2183e" formatted="false">Mozgás:</string>
+    <string name="native_31214130b5b7" formatted="false">másolat:</string>
+    <string name="native_07e5c3158f35" formatted="false">paszta</string>
+    <string name="native_831b4e0fb574" formatted="false">Új</string>
+    <string name="native_ff65a22d7087" formatted="false">Új mappa</string>
+    <string name="native_71faed44a86c" formatted="false">Új fájl</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Frissítés</string>
+    <string name="native_ac9d73843736" formatted="false">Keresés ebben a könyvtárban</string>
+    <string name="native_21eef82963ee" formatted="false">Ez a könyvtár üres. Fájlok importálása vagy projekt létrehozása.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Nincsenek megfelelő fájlok</string>
+    <string name="native_d674bc0f86b8" formatted="false">Fájlműveletek</string>
+    <string name="native_d04a47c87cc8" formatted="false">Szimbolikus link</string>
+    <string name="native_e0ba66f5246a" formatted="false">mappa</string>
+    <string name="native_f170b42599e8" formatted="false">Átnevezés</string>
+    <string name="native_4cdacf57ead2" formatted="false">másolat</string>
+    <string name="native_124aa030694e" formatted="false">Áthelyezés…</string>
+    <string name="native_ac990518ed87" formatted="false">Itt nyissa ki a terminált</string>
+    <string name="native_87bc93932d8a" formatted="false">Exportálás rendszerfájlokba</string>
+    <string name="native_dd37f132172f" formatted="false">Áthelyezés a kukába</string>
+    <string name="native_7318746d337c" formatted="false">Áthelyezi a kukába?</string>
+    <string name="native_2b5ee3f10a56">A „%1$s” fájlt visszaállíthatja a kukából.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Mozgás</string>
+    <string name="native_4e47aaa113fc" formatted="false">Elveti a nem mentett módosításokat?</string>
+    <string name="native_63b75399ef1a" formatted="false">A változtatások elvetése</string>
+    <string name="native_d9618f7b8d25" formatted="false">Szerkesztés folytatása</string>
+    <string name="native_76ce6aef5479" formatted="false">Név</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">A környezet helyreállt. Nyissa meg újra a munkaterületet.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Először fejezze be a megszakított működés helyreállítását a Runtime-ban</string>
+    <string name="native_f29af06e7c99" formatted="false">A környezet karbantartása folyamatban van. Próbálja újra később.</string>
+    <string name="native_3bd28258feb0" formatted="false">A művelet megszakítva</string>
+    <string name="native_c508721eb3cd" formatted="false">Már létezik ilyen nevű fájl. Válasszon másik nevet.</string>
+    <string name="native_1e8274fe468a" formatted="false">A fájl már nem létezik. Frissítse a könyvtárat.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Fájl-hozzáférési engedély megtagadva</string>
+    <string name="native_cd808e4c321e" formatted="false">Nem sikerült befejezni a műveletet</string>
+    <string name="native_01cbe9be8b9f" formatted="false">A működés nem fejeződött be. Ellenőrizze a rendelkezésre álló tárhelyet, vagy válassza ki újra a fájlokat.</string>
+    <string name="native_3f9983126fd7" formatted="false">Ellenőrizze az OpenCode indítási állapotát a Runtime alkalmazásban</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nem sikerült új terminált nyitni. Ellenőrizze az ülések számát.</string>
+    <string name="native_2160fde3813a" formatted="false">Szimbolikus hivatkozások kezelése a terminálon. A fájlkezelő nem követi a hivatkozásokat.</string>
+    <string name="native_7a844e9d4017" formatted="false">Az áthelyezés befejeződött</string>
+    <string name="native_573877894fcf" formatted="false">A másolás befejeződött</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">A kukába helyezve</string>
+    <string name="native_862330af933f" formatted="false">Visszaállítva az eredeti könyvtárba</string>
+    <string name="native_beda23c9d52b" formatted="false">Környezeti karbantartás vagy csere történt. Szerkesztés előtt nyissa meg újra a munkaterületet.</string>
+    <string name="native_678c6953bb2b" formatted="false">Mentve</string>
+    <string name="native_8063159f2178" formatted="false">A kiválasztott fájl nem olvasható</string>
+    <string name="native_4cdc2180d2ac">%1$s fájl importált</string>
+    <string name="native_e98763643b93" formatted="false">Nem lehet írni a kiválasztott helyre</string>
+    <string name="native_5afd173be7fa" formatted="false">Az exportálás befejeződött</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kód és szekciók</string>
+    <string name="native_8745ed51cadd" formatted="false">asztali számítógép</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafikus munkaterület</string>
+    <string name="native_770d49c5f689" formatted="false">fájlok</string>
+    <string name="native_6a9b6480b58f" formatted="false">Futásidő</string>
+    <string name="native_b561fe9204cc" formatted="false">Szolgáltatások és fejlesztői eszközök</string>
+    <string name="native_70850bdeeabd" formatted="false">Oldalmenü bezárása</string>
+    <string name="native_b4549acb48e8" formatted="false">munkaterület</string>
+    <string name="native_3d3551f4660f">Lebegő gomb átlátszatlansága %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Az alacsonyabb értékek átláthatóbbá teszik a lebegő gombot</string>
+    <string name="native_e031beabfc9a" formatted="false">Oldalmenü megnyitása</string>
+    <string name="native_106ee775b538" formatted="false">Csatlakozás a helyi OpenCode-hoz…</string>
+    <string name="native_a021adc1f449" formatted="false">Helyi kapcsolat helyreállítása szükséges</string>
+    <string name="native_dacb8837471c" formatted="false">Csatlakoztassa újra</string>
+    <string name="native_17584aa60ae6" formatted="false">Nem sikerült előkészíteni a helyi erőforrás-gyorsítótárat</string>
+    <string name="native_3b3b80064ccb" formatted="false">Helyi OpenCode előkészítése…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Próbáld újra</string>
+    <string name="native_b07809340403" formatted="false">A munkaterület helye még nincs elmentve. Próbálja újra később.</string>
+    <string name="native_e4ab10392d05" formatted="false">A helyi szolgáltatás készülődik. A munkaterület automatikusan megnyílik a csatlakozás után.</string>
+    <string name="native_20ea15973287" formatted="false">Az előző futtatás megszakadt. Indítsa újra a Runtime-ból; A terminálparancsok nem játszódnak le automatikusan.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Indítsa el az OpenCode-ot a Runtime-ból a kód és a munkamenetek megnyitásához.</string>
+    <string name="native_abbac5c22111" formatted="false">Kilép az alkalmazásból?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">A fejlesztői környezet továbbra is futhat a háttérben. Vissza később az értesítésből.</string>
+    <string name="native_814a8fb24b62" formatted="false">Kilép az aktuális munkaterületről?</string>
+    <string name="native_a76464945c2d" formatted="false">A fejlesztői környezet leállítása is</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Kijárat</string>
+    <string name="native_b00143b08ff1" formatted="false">Fejlesztői munkaállomás készen áll</string>
+    <string name="native_51bca456a350" formatted="false">Az Ön Debian fejlesztői munkaállomása</string>
+    <string name="native_0c2acd0b6057" formatted="false">Futás</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Indítás</string>
+    <string name="native_44da7f6a451d" formatted="false">Megállás</string>
+    <string name="native_b7e1503a7239" formatted="false">Fejlesztői környezet javítása</string>
+    <string name="native_7c91bd67ff14" formatted="false">Fejlesztői környezet telepítése</string>
+    <string name="native_cfd73bb04860" formatted="false">Állítsa le a környezetet</string>
+    <string name="native_e7ec95694dce" formatted="false">Indítsa el az OpenCode-ot</string>
+    <string name="native_5d4600a269e9" formatted="false">Ellenőrizze a környezetet</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Frissítse a Debian fejlesztői eszközeit</string>
+    <string name="native_c114ec62712b" formatted="false">A korábbi környezeti biztonsági másolatok, projektek és munkamenetek adatai megmaradnak.</string>
+    <string name="native_eb3114155716" formatted="false">Nyelvi szerverek telepítése/frissítése</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) és Python (pylsp), online telepítve aláírt Debian-tárolókból. Először állítsa le az OpenCode-ot és az asztalt.</string>
+    <string name="native_2c7251cce661" formatted="false">Az oldalak közötti váltáshoz érintse meg a lebegő gombot. Húzza át az áthelyezéshez.</string>
+    <string name="native_dcef145e6a9b" formatted="false">A futásidejű információk itt jelennek meg az indítás után.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">A csomagban található APK-verzió</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode frissítések</string>
+    <string name="native_36ab16248f65" formatted="false">Az alkalmazás kiadója által aláírt .ocaupdate importálása. A hivatalos frontend és háttérfrissítés együtt.</string>
+    <string name="native_8aad48b0508d" formatted="false">Frissítési forrás (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Ellenőrizze a frissítés forrását</string>
+    <string name="native_f73973cfadbb">Aláírt kiadás: %1$s\nVégrehajtás: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Töltse le és ellenőrizze</string>
+    <string name="native_f2ef7965bf12" formatted="false">Válassza ki a frissítési csomagot</string>
+    <string name="native_165111adfe2c">Telepítésre kész: %1$s\nVégrehajtás: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Telepítse ezt a frissítést</string>
+    <string name="native_f9432c4d9b1e" formatted="false">A frissítés előtti verzió és munkamenetek visszaállítása</string>
+    <string name="native_6864335de653" formatted="false">A frissítés megszakítása</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode frissítés telepítése?</string>
+    <string name="native_816bf3635d53" formatted="false">Visszaállítja a frissítés előtti állapotot?</string>
+    <string name="native_11beb4a42abc">A %1$s telepítése. Az alkalmazás elmenti a munkamenet pillanatképet, ellenőrzi az aláírt programot, és visszaállítja az előző verziót, ha az meghiúsul. A projektfájlok megmaradnak.\nA</string>
+    <string name="native_bc7b4149e7d2" formatted="false">munkamenetek visszatérnek a frissítés előtti állapotba. Az újabb munkamenetek privát biztonsági mentésben maradnak. A projektfájlok megmaradnak.</string>
+    <string name="native_def5e273616d" formatted="false">Erősítse meg a telepítést</string>
+    <string name="native_369d2eefccde" formatted="false">Nem sikerült elkülöníteni az előnézeti böngészőadatokat. Nyissa meg újra az előnézetet.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Nem sikerült betölteni a projekt oldalát. Ellenőrizze a fejlesztői kiszolgálót a termináljában.</string>
+    <string name="native_6e7408950cf5" formatted="false">A projekt weboldalának előnézete</string>
+    <string name="native_bfb4951e071d" formatted="false">Projekt előnézet</string>
+    <string name="native_f80652913d06" formatted="false">Indítson el egy fejlesztőkiszolgálót a terminálon, majd adja meg a helyi portját. Az előnézeti böngészőadatok el vannak különítve az OpenCode-tól.</string>
+    <string name="native_2c41e85af61f" formatted="false">port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Adjon meg egy fejlesztői portot 1024 és 65535 között, az OpenCode és az asztali szolgáltatások kivételével.</string>
+    <string name="native_7311a9dfea51" formatted="false">Semmi sem hallható ezen a porton. Ellenőrizze a szolgáltatást a terminálján.</string>
+    <string name="native_4f8d84105475" formatted="false">Ellenőrzés…</string>
+    <string name="native_4923c272b68e" formatted="false">A fejlesztői portnak egész számnak kell lennie</string>
+    <string name="native_04a87026e81f" formatted="false">Válasszon ki egy érvényes projektfejlesztési portot</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode fejlesztői munkamenet</string>
+    <string name="native_e87a4529ab82" formatted="false">Fejlesztői környezet telepítése</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian frissítés</string>
+    <string name="native_0c6301bc295d" formatted="false">Fejlesztői környezet javítás</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Fejlesztői környezet ellenőrzése</string>
+    <string name="native_9612d4419bb6" formatted="false">Nyelvi szerver telepítése</string>
+    <string name="native_f72fba77f87a" formatted="false">Környezet-helyreállítás</string>
+    <string name="native_7c8162195c7c" formatted="false">Asztali telepítés</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Az előző futtatás megszakadt. Explicit újraindítás a Runtime-ból.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Egy ilyen típusú fejlesztési feladat még fut</string>
+    <string name="native_95a56e0a3fe2" formatted="false">A tevékenységi rekord javítása</string>
+    <string name="native_b66749ed72ea" formatted="false">A folyamat kilépve</string>
+    <string name="native_6b25042064e2" formatted="false">Jel által lezárva</string>
+    <string name="native_d6febdf1752b" formatted="false">A kevés memória miatt visszanyerték\nA</string>
+    <string name="native_1d13790f3c89" formatted="false">alkalmazás összeomlik</string>
+    <string name="native_28db94d1850d" formatted="false">A natív folyamat összeomlása</string>
+    <string name="native_86919539f7f1" formatted="false">Az alkalmazás nem válaszol</string>
+    <string name="native_90fb8d6098a5" formatted="false">Az inicializálás nem sikerült</string>
+    <string name="native_38c60ab6654c" formatted="false">Az engedélyek megváltoztak</string>
+    <string name="native_6d2a6c71334d" formatted="false">Erőforrás korlát</string>
+    <string name="native_19b2090b01a8" formatted="false">A felhasználó leállítást kért</string>
+    <string name="native_120d96445f1a" formatted="false">A felhasználó leállította</string>
+    <string name="native_3c8af14f66bc" formatted="false">A függő folyamat kilépve</string>
+    <string name="native_ca0941ce04ae" formatted="false">Egyéb rendszer ok</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Folyamat fagyasztás</string>
+    <string name="native_0d48373023a8" formatted="false">Az alkalmazás állapota megváltozott</string>
+    <string name="native_c752307db26b" formatted="false">App frissítés</string>
+    <string name="native_b5015951cbdf" formatted="false">A rendszer nem adott kilépési okot</string>
+    <string name="native_b62737b826ad">rendszerkilépés (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nem sikerült megnyitni a projektkönyvtárat</string>
+    <string name="native_faf5d983c13e" formatted="false">Nem sikerült OpenCode munkamenetet létrehozni\nA</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode munkamenet-könyvtár nem egyezik</string>
+    <string name="native_ac19736908a2" formatted="false">Nem sikerült beolvasni az OpenCode munkamenetet</string>
+    <string name="native_2642997cfeec" formatted="false">Környezet karbantartása</string>
+    <string name="native_f992d735d932" formatted="false">Állítsa le az OpenCode-ot, a terminálokat és a Debian asztalt, majd várja meg a fájlműveletek befejezését</string>
+    <string name="native_489f137f1080" formatted="false">A környezetkarbantartási zár már nem érvényes</string>
+    <string name="native_42380e2567fc" formatted="false">A megszakított működés helyreállt. Nyissa meg újra a munkaterületet.</string>
+    <string name="native_17b00cac2b91" formatted="false">A helyi kapcsolat helyreállítása nem sikerült. Próbálja újra a Runtime alkalmazásból.</string>
+    <string name="native_77e9ca4e944c" formatted="false">A környezet karbantartása folyamatban van. Próbálja újra később.</string>
+    <string name="native_dbaebe3ce243" formatted="false">A fejlesztői környezet frissítése előtt állítsa le a Debian asztalt</string>
+    <string name="native_548085b144c9" formatted="false">A megszakított működés helyreállt. Elindíthatja a fejlesztői környezetet.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Az előző futtatás megszakadt. A terminálparancsok nem játszódnak le automatikusan. Explicit újraindítás a Runtime-ból.</string>
+    <string name="native_295cafdfd512" formatted="false">Az ideiglenes kapcsolatkonfiguráció tisztítása nem fejeződött be. A folyamat tisztítása folytatódott.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nem sikerült létrehozni a helloworld munkaterületet. Ellenőrizze a könyvtárat és a rendelkezésre álló helyet.</string>
+    <string name="native_68301868225a" formatted="false">Az előző munkaterület-könyvtár nem érhető el. Megnyílt a helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Az alapértelmezett projekt még nem készült el. Próbálja újra a Fájlokból.</string>
+    <string name="native_45d6ab452622" formatted="false">Nyelvi szerverek telepítése\nA</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ és Python nyelvi szerverek készen állnak. Indítsa el az OpenCode-ot az LSP használatához.</string>
+    <string name="native_5ea1653deef8" formatted="false">A terminál tevékenységi rekordja nem lett elmentve. A folyamat leállítása után hozzon létre egy új terminált.</string>
+    <string name="native_1978b311a9ff" formatted="false">Nem sikerült befejezni a terminál kilépési rekordjának mentését.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode frissítés letöltése</string>
+    <string name="native_06f76cca8fb9" formatted="false">Csatlakozás a frissítési forráshoz…</string>
+    <string name="native_8c39baf28e08" formatted="false">Nem lehet csatlakozni a frissítési forráshoz. Ellenőrizze a hálózatot, a kiadói aláírást, a gazdagép verzióját és a szabad területet.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Letöltési időtúllépés</string>
+    <string name="native_f75850093535">Letöltés: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">A kiadói aláírás ellenőrzése…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Frissítőcsomag letöltése…</string>
+    <string name="native_2f9cd52dc66a">Érvényes kiadói aláírás: %1$s. Letöltés előtt tekintse át.</string>
+    <string name="native_17548865632c" formatted="false">A metaadatok letöltése, kiadása és a csomag aláírása ellenőrizve. Erősítse meg a telepítést.</string>
+    <string name="native_180cec958e7a" formatted="false">Letöltés megszakítva. Az eredeti verzió megtartva.</string>
+    <string name="native_8df045f8ac12" formatted="false">A letöltés leállt. Az eredeti verzió megtartva.</string>
+    <string name="native_778803f1c6bb" formatted="false">Letöltés megszakítása</string>
+    <string name="native_2958898ce6f4" formatted="false">Az új verzió nem felelt meg a helyi indítási, verzió- vagy hitelesítési ellenőrzéseken. Az előző verzió visszaáll.</string>
+    <string name="native_cc876dfbb261" formatted="false">A próbafolyamat még mindig befejeződik. Mielőtt újra próbálkozna, várja meg a helyreállítást.</string>
+    <string name="native_adf977dcb47e" formatted="false">Érvénytelen frissítési rekordazonosító</string>
+    <string name="native_5207cac670b7" formatted="false">A telepített önálló OpenCode mérete nem egyezik</string>
+    <string name="native_cf5b81887589" formatted="false">A telepített önálló OpenCode ellenőrző összeg nem egyezik. Állítsa vissza az előző verziót.</string>
+    <string name="native_393049b506cc" formatted="false">Az eredeti programnak nincs megfelelő kiadói bizonyítéka. Az előző állapot változatlan.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Először állítsa vissza az előző megszakított frissítést</string>
+    <string name="native_91d8da5525fa" formatted="false">A frissítési csomag megerősítést követően megváltozott</string>
+    <string name="native_093f2c091a30" formatted="false">Nincs elegendő tárhely. Eredeti változat változatlan.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Nem áll rendelkezésre frissítési biztonsági másolat a visszaállításhoz</string>
+    <string name="native_a9f4d9903c14" formatted="false">A biztonsági mentés nem egyezik a futó verzióval</string>
+    <string name="native_6caa23763a42" formatted="false">Az előző program ellenőrzése sikertelen. A jelenlegi munkamenetek változatlanok.</string>
+    <string name="native_c8b71b876695" formatted="false">Egy későbbi APK vagy Debian frissítés váltotta fel a mellékelt programot. A munkamenet eredeti biztonsági másolata megmarad; először állítsa vissza a megfelelő programot.</string>
+    <string name="native_c443df40964b" formatted="false">Érvénytelen frissítés-helyreállítási művelet</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode frissítés előkészítése…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Állítsa le az OpenCode-ot, a terminálokat és az asztalt, majd várja meg, amíg kilépnek.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Állapot mentése, programok ellenőrzése és verzióváltás</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nem sikerült elindítani a frissítési karbantartási szolgáltatást.</string>
+    <string name="native_f7b560c8c820" formatted="false">A hivatalos program ellenőrzése és rendezése…</string>
+    <string name="native_9606191c82dc" formatted="false">Az eredeti program és a kiadói aláírás megőrzése…</string>
+    <string name="native_5c0d7787ee51" formatted="false">A munkamenet állapotának pillanatképének mentése…</string>
+    <string name="native_0c8cf4632889" formatted="false">Verzióváltás és a helyi szolgáltatás ellenőrzése…</string>
+    <string name="native_3e81ea691a4a" formatted="false">A frissítés előtti verzió és munkamenetek visszaállítása…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode visszaállítása</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode frissítése</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Az előző verzió és a munkamenetek visszaállítása. Az újabb munkamenetek privát biztonsági mentésben maradnak.\nA</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode frissítése befejeződött. Az indítás a megfelelő hivatalos front- és háttérrendszert fogja használni.</string>
+    <string name="native_4693930f5802" formatted="false">Frissítés törölve. Az eredeti állapot visszaállításának megerősítése.</string>
+    <string name="native_d0e37bc26edd" formatted="false">A frissítés nem fejeződött be. most lábadozik; az eredeti program- és munkamenet biztonsági másolatok megmaradnak.</string>
+    <string name="native_9a32d6c2d207" formatted="false">A helyreállítás nem teljes. Az összes állami címtár megmarad. Tartsa meg adatait, és próbálja újra az indítást a helyreállításhoz.</string>
+    <string name="native_49ad3eeae83d" formatted="false">A munkamenet helyreállítása befejeződött. Az újabb állapot mentésben marad.</string>
+    <string name="native_67c08a2911e1" formatted="false">Ezzel a biztonsági mentéssel vagy az eredeti programmal nem sikerült a helyreállítás. A jelenlegi munkamenetek és biztonsági mentések változatlanok.</string>
+    <string name="native_976d8c169cfa" formatted="false">A frissítés megszakadt vagy meghiúsult. Az eredeti verzió és a munkamenetek visszaállítva.</string>
+    <string name="native_7ac77d1513fc" formatted="false">A frissítési csomag aláírásának és integritásának ellenőrzése…</string>
+    <string name="native_0aa018b7337b" formatted="false">A kiválasztott fájl nem olvasható\nA</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">frissítési csomag túl nagy</string>
+    <string name="native_f068b83f40bf" formatted="false">Az aláírás és a csomag ellenőrizve. Telepítés előtt ellenőrizze a verziót.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nem importálható: érvénytelen fájl, nem egyezik az aláírás, nem kompatibilis a gazdagép verziója vagy nincs elegendő tárhely.</string>
+    <string name="native_616412e65df4" formatted="false">A hivatalos program nem egyezik a kiadói bizonyítékkal</string>
+    <string name="native_4bf19a158f27" formatted="false">Az önálló futásidejű csomagok csak az ARM64-et támogatják</string>
+    <string name="native_63b1fc6fffc9" formatted="false">A frissítés aláírása nem ehhez az APK-hoz tartozik</string>
+    <string name="native_c7273354727f" formatted="false">A frissítési fájl meghaladja a megadott méretét</string>
+    <string name="native_2aa6c8e74abb" formatted="false">A frissítési program ellenőrző összege nem egyezik</string>
+    <string name="native_dd619076d456" formatted="false">Érvénytelen frissítési csomagméret</string>
+    <string name="native_20c5bdfeffc0" formatted="false">A tömörített frissítési csomag mérete nem egyezik</string>
+    <string name="native_1de24edffcf5" formatted="false">A frissítőcsomag extra bejegyzéseket tartalmaz</string>
+    <string name="native_c5b339aa77e8" formatted="false">Nem kompatibilis frissítési eredet vagy architektúra</string>
+    <string name="native_89d585f3661f" formatted="false">A frissítés telepítése előtt frissítse az Android alkalmazást</string>
+    <string name="native_800df084dea0" formatted="false">A frissítési archívum ellenőrző összege nem egyezik</string>
+    <string name="native_ddf1a005e310" formatted="false">Ez az APK-aláírási formátum nem támogatja az önálló futásidejű frissítéseket</string>
+    <string name="native_172e063db474" formatted="false">Érvénytelen frissítési csomag bejegyzés</string>
+    <string name="native_1c08780aa99f" formatted="false">A frissítési metaadatoknak egész számokat kell használniuk</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">A frissítőprogram nem egy 64 bites Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">A frissítő program nem felel meg a 16 KiB-os ELF igazításnak</string>
+    <string name="native_3afa3741911b" formatted="false">A frissítőprogramból hiányzik a Debian glibc betöltő</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Adjon meg egy érvényes HTTPS-frissítési forrást</string>
+    <string name="native_c274c7dd5900" formatted="false">A frissítési forrásokhoz felhasználói hitelesítési adatok nélküli HTTPS URL-címek szükségesek</string>
+    <string name="native_f459f5ec9dac" formatted="false">Érvénytelen frissítési forrás mező</string>
+    <string name="native_bde2a736e30a" formatted="false">Először frissítse az Android gazdagépet</string>
+    <string name="native_b980fd021bef" formatted="false">Érvénytelen frissítési könyvtár</string>
+    <string name="native_c0e96727553e" formatted="false">Érvénytelen frissítési fájl</string>
+    <string name="native_86ff542c68ed" formatted="false">Ebben az állapotban nem lehet váltani a frissítési könyvtárak között</string>
+    <string name="native_fbf82dc7ef22" formatted="false">A munkamenet állapota egy külső könyvtárra utal. A frissítés nem tesztelhető biztonságosan.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Nincs elegendő tárhely. Eredeti állapot változatlan.</string>
+    <string name="native_099801d672b1" formatted="false">Letöltés megszakítva</string>
+    <string name="native_f1304f707ec9" formatted="false">Túl sok frissítés-átirányítás</string>
+    <string name="native_0d07f458b607" formatted="false">A frissítési kiszolgáló nem vitte át az eredeti bájtokat</string>
+    <string name="native_de331dfd8908" formatted="false">A frissítési fájl hossza nem egyezik</string>
+    <string name="native_416b8c87e69e" formatted="false">A frissítési fájl nem lett teljesen letöltve</string>
+    <string name="native_e1e74b76c427" formatted="false">A frissítési kiszolgáló nem küldte vissza a teljes fájlt</string>
+    <string name="native_6afcf03cb130" formatted="false">Nincs elegendő frissítési állomáshely</string>
+    <string name="native_be1c695d9241" formatted="false">Az SHA-256 frissítési fájl nem egyezik</string>
+    <string name="native_a0133d117bb0" formatted="false">A frissítőcsomag nem egyezik a megerősített kiadási információkkal</string>
+    <string name="native_8635a43ce28a" formatted="false">Érvénytelen projektkönyvtár</string>
+    <string name="native_d32ab8b004e6" formatted="false">Nem sikerült menteni a munkaterület helyét</string>
+    <string name="native_43a5447014fd" formatted="false">Terminál megnyitása előtt indítsa el a fejlesztői környezetet a Runtime alkalmazásból.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Új terminál</string>
+    <string name="native_b3b7108a568f" formatted="false">Zárási áram</string>
+    <string name="native_0e822affd5da">Kezdeti könyvtár: %1$s</string>
+    <string name="native_72d769e3888d">Új terminálkönyvtár: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">A rendszerfájlválasztó nem érhető el</string>
+    <string name="native_179a57921f91" formatted="false">WebView megjelenítési beállítások</string>
+    <string name="native_3024ec603eb7" formatted="false">Megjelenítési képsebesség</string>
+    <string name="native_55b6d7f645f3" formatted="false">Inkább 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Kövesse a kijelző frissítési gyakoriságát</string>
+    <string name="native_d4ecf38c341d" formatted="false">A 60 Hz-et részesítse előnyben a nagy frissítési gyakoriságú képernyők renderelési terhelésének csökkentése érdekében. A képernyőt követve a rendszer ütemezheti a kereteket. Csak az alkalmazás ablakára vonatkozik.</string>
+    <string name="native_bf0d3a407418" formatted="false">Nincs telepítve</string>
+    <string name="native_2fb8edc75b25" formatted="false">Kész</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Ellenőrző rakodó</string>
+    <string name="native_d1017c1eac80" formatted="false">A Debian telepítése</string>
+    <string name="native_f863d955fa6e" formatted="false">Helyi fejlesztési környezet</string>
+    <string name="native_55aa84065de2" formatted="false">Helyi Debian fejlesztési munkamenet</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop</string>
+    <string name="native_5f73a4e1e494" formatted="false">telepítve</string>
+    <string name="native_147e90d2ec02" formatted="false">Helyreállítás</string>
+</resources>

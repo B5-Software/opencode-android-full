@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Kehitystyötila</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + työpöytä</string>
+    <string name="native_7f1c02616d60" formatted="false">Yksi sivu</string>
+    <string name="native_651ae6ea52ae" formatted="false">Palauta jaettu näkymä</string>
+    <string name="native_d7e97cfac66f" formatted="false">Työtilan asettelu</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Laajenna ikkunaa nähdäksesi useita paneeleja yhdessä.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Näytä projektitiedostot</string>
+    <string name="native_712d956931d1" formatted="false">Näytä pääte</string>
+    <string name="native_073cc20d9ed9" formatted="false">Liitin alla</string>
+    <string name="native_5de225480fa7" formatted="false">Liitin oikealla</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Paneelit romahtavat, kun tilaa on rajoitetusti, ja ne ovat käytettävissä kelluvasta valikosta. Sivuliitin näkyy leveämmissä ikkunoissa. Muuta paneelien kokoa vetämällä jakajia.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Vasen Alt: 1–5 sivua · B-tiedostot · T-pääte · M-työpöytä · Enter Single/Split · \\\\ Asettelu</string>
+    <string name="native_7a129a94c6ff" formatted="false">Valmis</string>
+    <string name="native_bcec2218fc21" formatted="false">Nollaa mittasuhteet</string>
+    <string name="native_da88c62d1217">Näytä %1$s yhdellä sivulla</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projektitiedostojen jakaja</string>
+    <string name="native_707c0891a0e6" formatted="false">Liittimen jakaja</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode ja työpöydän jakaja</string>
+    <string name="native_50407ad8dfa8" formatted="false">Kutista edellinen paneeli</string>
+    <string name="native_b72c5c02a666" formatted="false">Suurenna edellinen paneeli</string>
+    <string name="native_3f3685e8d731" formatted="false">Liian monta PRoot-linkkiä tälle arkistomuodolle</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux kovat linkit vaativat täydellisen rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Varmuuskopiohakemiston sisäkkäisyys on liian syvä</string>
+    <string name="native_b6f744737a45" formatted="false">Virheellinen varasalasanan pituus</string>
+    <string name="native_13bde5dd1812" formatted="false">Varasalasanan tulee sisältää vähintään 12 merkkiä</string>
+    <string name="native_be02cbd55932" formatted="false">Varmuuskopiomuotoa ei tueta</string>
+    <string name="native_7a91a3d586ae" formatted="false">Virheellinen varmuuskopion otsikko</string>
+    <string name="native_2bbd318a5667" formatted="false">Varmuuskopioiden salausparametreja ei tueta</string>
+    <string name="native_18868da27841" formatted="false">Väärä varmuuskopion salasana tai vahingoittunut tiedosto</string>
+    <string name="native_e41d6440468d" formatted="false">Palautustietue on liian suuri</string>
+    <string name="native_282692502f14" formatted="false">Varmuuskopion metatiedot ovat liian suuret</string>
+    <string name="native_61fdca8d6c82" formatted="false">Varmuuskopion metatietojen sisäkkäisyys on liian syvä</string>
+    <string name="native_8cefb30732d4" formatted="false">Virheelliset varmuuskopion metatiedot</string>
+    <string name="native_5d3037708cad" formatted="false">Natiiviasetuksia ei tueta</string>
+    <string name="native_81a57c382f9d" formatted="false">Alkuperäisiä asetuksia ei voitu tallentaa</string>
+    <string name="native_50603e683d4a" formatted="false">Virheellinen päähakemisto varmuuskopiopolussa</string>
+    <string name="native_c3f838a46b8e" formatted="false">Työaseman juuri ei saa olla symbolinen linkki</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Tiedostoa muutettiin varmuuskopioinnin aikana</string>
+    <string name="native_77e1e85147db" formatted="false">Työaseman tietomuotoa ei tueta</string>
+    <string name="native_a927b5a565af" formatted="false">Varmuuskopio sisältää lisätietoja</string>
+    <string name="native_c2b886d508f2" formatted="false">Varmuuskopio sisältää päällekkäisiä polkuja</string>
+    <string name="native_3dab8cd60102" formatted="false">Varmuuskopio sisältää ajonaikaisia asetuksia, joita ei voi siirtää</string>
+    <string name="native_f45ba674a630" formatted="false">Varmuuskopio on liian suuri tai tallennustila ei riitä</string>
+    <string name="native_140073e8e77b" formatted="false">Symbolisten linkkien aikaleimoja ei voitu palauttaa</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nimettyjä putken aikaleimoja ei voitu palauttaa</string>
+    <string name="native_0daee8026db1" formatted="false">Työaseman varmuuskopiointi ja palautus</string>
+    <string name="native_1acc18928c5f" formatted="false">Sisältää Debianin, kehittäjätyökalut, projektit, kodin, OpenCode-istunnot ja asetukset, Linux-selaintiedot ja alkuperäiset asetteluasetukset.</string>
+    <string name="native_62254d31a535" formatted="false">Väliaikaiset tiedostot ja vanhat varmuuskopiot eivät sisälly. Android WebView -tallennustila ja lähettämättömät luonnokset jäävät tälle laitteelle, eikä niitä siirretä tämän varmuuskopion mukana.</string>
+    <string name="native_808eabc7811f" formatted="false">Luo salattu varmuuskopio</string>
+    <string name="native_201c10b38296" formatted="false">Tuo varmuuskopio</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Tallenna muutokset ensin tiedostoeditoriin.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, päätteet ja työpöytä</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Ympäristötoiminto on kesken. Palauta se ensin.</string>
+    <string name="native_185f58156330" formatted="false">Palauta epätäydellinen toiminta</string>
+    <string name="native_20831b6f67a7" formatted="false">Kumoa viimeinen ympäristön palautus</string>
+    <string name="native_4f392d5d6141">Salattu paikallinen kopio: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Tallenna tiedostoon</string>
+    <string name="native_f09619351eb9" formatted="false">Poista paikallinen kopio</string>
+    <string name="native_85c686eb9841">Käsitelty %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Peruuta varmuuskopiointitehtävä</string>
+    <string name="native_66c9d896407b" formatted="false">Salaa työaseman varmuuskopio</string>
+    <string name="native_548cd9f0831e" formatted="false">Pura salaus ja tarkista varmuuskopio</string>
+    <string name="native_d248f5eca9a5" formatted="false">Varmuuskopiot voivat sisältää yksityisiä SSH-avaimia, API-avaimia ja tilitietoja. Käytä vähintään 12 merkkiä. Unohtunutta salasanaa ei voi palauttaa.</string>
+    <string name="native_f249422b9ec1" formatted="false">Varmuuskopion salaus puretaan ja tarkistetaan yksityisessä hakemistossa. Ympäristösi korvataan vasta, kun olet vahvistanut palautuksen.</string>
+    <string name="native_e7be6841703a" formatted="false">Varasalasana</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Toista salasana</string>
+    <string name="native_eafdc5cd4882" formatted="false">Aloita salaus</string>
+    <string name="native_2986b88beade" formatted="false">Pura salaus ja vahvista</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Peruuta</string>
+    <string name="native_f46c5ed7412d" formatted="false">Palautetaanko koko edellinen ympäristö?</string>
+    <string name="native_33eda0946a5b" formatted="false">Poistetaanko salattu paikallinen kopio?</string>
+    <string name="native_26db24150f2e" formatted="false">Projektit, koti, Debian ja istunnot palaavat tilaan ennen viimeistä palautusta. Uusimmat työt säilyvät yksityisessä varmuuskopiossa sovelluksen sisällä.</string>
+    <string name="native_1153b30d51d5" formatted="false">Vain sovelluksen sisällä oleva salattu paikallinen kopio poistetaan. Muualle tallennetut tiedostot pysyvät käytettävissä.</string>
+    <string name="native_427a78a4e69a" formatted="false">Vahvista</string>
+    <string name="native_7af46d7ee003" formatted="false">Palauta tämä työaseman varmuuskopio?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s merkintää · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Varmuuskopio sisältää suoritettavan Linux-ohjelmiston. Vahvista, että luotat sen lähteeseen. Kunnostaminen korvaa koko ympäristön ja tarkistaa paikalliset palvelut; edellinen ympäristö säilytetään palautumista varten.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Varmuuskopio vahvistettu. Odotetaan palautuksen vahvistusta.</string>
+    <string name="native_97076078c749" formatted="false">Ota käyttöön myös Chromium-yhteensopivuustila (poistaa Linux-prosessin hiekkalaatikon käytöstä)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Pois oletusarvoisesti. Voit ottaa sen käyttöön myöhemmin työpöydän asetuksista.</string>
+    <string name="native_ddf09383413c" formatted="false">Vahvista palautus</string>
+    <string name="native_8e6056b0f629" formatted="false">Peruuta tuonti</string>
+    <string name="native_63a895901c76" formatted="false">Työasemaympäristö muuttunut</string>
+    <string name="native_a4c994348a39" formatted="false">Avaa työtila uudelleen</string>
+    <string name="native_774947f0653e" formatted="false">Peruuta tehtävä</string>
+    <string name="native_e09a22b18445" formatted="false">Tehtävä keskeytettiin. Valitse toiminto uudelleen ja anna salasana.</string>
+    <string name="native_38c5fcc634db" formatted="false">Tallenna tiedostojen muokkaukset ensin kaikkiin ikkunoihin. Peruuta olemassa oleva tuonti ennen kuin yrität uudelleen.</string>
+    <string name="native_029bfa8ff772" formatted="false">Työaseman palauttaminen ja ohjelmien tarkistaminen</string>
+    <string name="native_e4f04df818f8" formatted="false">Käsittelee valitsemaasi varmuuskopiointitoimintoa</string>
+    <string name="native_8206f072d5ee" formatted="false">Pysäytä OpenCode, päätteet ja työpöytä ja odota sitten tiedostotoimintojen päättymistä.</string>
+    <string name="native_1a5cde18c609" formatted="false">Varmuuskopiointitehtävää ei voitu käynnistää. Yritä uudelleen sovelluksen ollessa etualalla.</string>
+    <string name="native_1553b714941d" formatted="false">Varmuuskopion salauksen purku ja tarkistaminen. Alkuperäinen ympäristö säilyy palautettavissa…</string>
+    <string name="native_dafd005e953e" formatted="false">Varmuuskopio vahvistettu. Vahvista palautus sovelluksessa.</string>
+    <string name="native_9fb236184596" formatted="false">Poisti salatun paikallisen kopion sovelluksesta.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Toiminto peruutettu. Alkuperäiset ympäristötiedot säilytetty.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Toiminta on kesken. Tarkista salasana, varmuuskopion eheys, isäntäversio ja vapaa tila. Alkuperäiset ympäristötiedot säilytetty.</string>
+    <string name="native_29deabd28960" formatted="false">Luodaan salattua työaseman varmuuskopiota…</string>
+    <string name="native_3d137e243806" formatted="false">Salattu varmuuskopio luotu. Valitse tallennuspaikka.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Ympäristön ennallistaminen ja paikallisten palvelujen tarkistaminen. Pidä sovelluksen tiedot ennallaan…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Työasema palautettu. Edellinen ympäristö säilyy yksityisessä varmuuskopiossa. Avaa työtila uudelleen.</string>
+    <string name="native_0392cd6152d2" formatted="false">Palautustarkistukset epäonnistuivat. Palattu edelliseen ympäristöön; tuodut tiedot säilyvät yksityisessä varmuuskopiossa.</string>
+    <string name="native_5dc7410b600e" formatted="false">Restaurointi on kesken. Kaikki tietohakemistot säilytetään. Säilytä sovellustiedot ja yritä palautusta uudelleen.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Palautetaan edellistä työasemaympäristöä…</string>
+    <string name="native_15821323ff89" formatted="false">Edellinen ympäristö palautettu. Uusimmat työt jäävät yksityiseen varmuuskopioon. Avaa työtila uudelleen.</string>
+    <string name="native_56dd94f47870" formatted="false">Tätä palautusta ei voi kumota. Nykyinen ympäristö ja varmuuskopiot säilytetään.</string>
+    <string name="native_93530f3fa029" formatted="false">Kumoaminen on epätäydellinen. Kaikki tietohakemistot säilytetään. Säilytä sovellustiedot ja yritä palautusta uudelleen.</string>
+    <string name="native_f12963c80def" formatted="false">Tallennetaan salattua varmuuskopiota…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Salattu varmuuskopio tallennettu. Voit tallentaa paikallisen kopion uudelleen tai poistaa sen manuaalisesti.</string>
+    <string name="native_d660cccf65e0" formatted="false">Siivotaan vahvistamaton tuonti…</string>
+    <string name="native_800592163979" formatted="false">Tuonti peruutettu. Alkuperäinen ympäristö ennallaan.</string>
+    <string name="native_5a90367eb834" formatted="false">Tuonti peruutettu. Alkuperäinen ympäristö ennallaan; Jotkut väliaikaisesti tuoduista tiedoista jää sovelluksen yksityiseen hakemistoon.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Valmistellaan salauksen purkamista ja vahvistusta…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Valmistellaan salattua varmuuskopiota…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Varmuuskopiointipalvelua ei voitu käynnistää. Yritä uudelleen etualalla.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Palauta ensin epätäydellinen ympäristötoiminto</string>
+    <string name="native_f14aea7c819c" formatted="false">Virheellinen palautustietue</string>
+    <string name="native_7c284c55ee08" formatted="false">Palautushakemisto puuttuu</string>
+    <string name="native_bfc4792df15b" formatted="false">Alkuperäiset asetukset ylittävät palautustietueen rajan</string>
+    <string name="native_8d93770ba8c9">Puuttuu edellinen ympäristöhakemisto: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Tuntematon palautusvaihe</string>
+    <string name="native_20c5124fe175" formatted="false">Tuntematon palautustoiminto</string>
+    <string name="native_1c457322b624" formatted="false">Aiempaa ympäristöä ei ole saatavilla palautettavaksi</string>
+    <string name="native_30db1666c8e5" formatted="false">Tämä varmuuskopio kuuluu toiselle sovellukselle</string>
+    <string name="native_6687d1c64d75" formatted="false">Varmuuskopioprosessorin arkkitehtuuri ei täsmää</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Päivitä Android-isäntä ensin tämän varmuuskopion käyttämään versioon</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Varmuuskopiohakemisto on epätäydellinen</string>
+    <string name="native_66106ab3e254" formatted="false">Vanhalla varmuuskopiolla ei ole todennettavissa olevaa OpenCode-julkaisijan todistetta. Käynnistä alkuperäinen ympäristö tällä isännällä ennen kuin varmuuskopioit sen uudelleen.</string>
+    <string name="native_bec13cc92982" formatted="false">Kehitysympäristöjärjestelmän toiminnot</string>
+    <string name="native_65de80229626" formatted="false">Debian pyysi järjestelmätoimintoa</string>
+    <string name="native_5e38581cf19c" formatted="false">Napauta tarkistaaksesi ja käsitelläksesi pyyntöä</string>
+    <string name="native_749d406d2c67" formatted="false">Debianin kehitysympäristöstä</string>
+    <string name="native_4032d33b2afd" formatted="false">Avataanko järjestelmäselain?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Avataanko paikallinen projektin esikatselu?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Luetko leikepöydän?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kopioidaanko järjestelmän leikepöydälle?</string>
+    <string name="native_77f761eb70aa" formatted="false">Lähetetäänkö paikallinen ilmoitus?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Jaa projektitiedosto?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Tuoko järjestelmätiedostot?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Viedäänkö projektitiedosto?</string>
+    <string name="native_7ac295421c6d" formatted="false">Avaa selaimessa</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Avaa esikatselu</string>
+    <string name="native_14792d6cd7a6" formatted="false">Salli lukeminen</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopioi leikepöydälle</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Lähetä ilmoitus</string>
+    <string name="native_88152a09fa02" formatted="false">Valitse jakamissovellus</string>
+    <string name="native_7a49a79c57f9" formatted="false">Valitse tiedostot</string>
+    <string name="native_99d9f87419c5" formatted="false">Valitse tallennuspaikka</string>
+    <string name="native_23e5bb2090aa">%1$s\nAvautuu OpenCodesta eristettyjen selaintietojen kanssa.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Anna tekstiä järjestelmän leikepöydältä nykyiselle Debian-ohjelmalle.</string>
+    <string name="native_dcc6bec24e43">Valitse tiedostot, jotka tuodaan kohteeseen %1$s. Olemassa olevat tiedostot säilytetään ja kaksoiskappaleet nimetään uudelleen.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium-selaintila</string>
+    <string name="native_4767f37900f6" formatted="false">Yhteensopivuustila käyttää erillistä selainprofiilia ja poistaa käytöstä Chromiumin Linux-prosessin hiekkalaatikon. Selain voi silti käyttää tiedostoja tämän sovelluksen sisällä. Vältä epäluotettavia verkkosivustoja ja käytä Android-järjestelmäselainta tärkeille tileille. Avaa Chromium uudelleen tilan vaihtamisen jälkeen.</string>
+    <string name="native_a4317f2699a2" formatted="false">Normaali Linux-hiekkalaatikko on oletusarvoisesti käytössä. Jos Chromium ei käynnisty, voit valita yhteensopivuustilan. Se poistaa käytöstä Linux-prosessin hiekkalaatikon ja käyttää erillistä profiilia, mutta säilyttää pääsyn sovellustiedostoihin. Vältä epäluotettavia verkkosivustoja; käytä Android-järjestelmäselainta tärkeille tileille.</string>
+    <string name="native_3a2596fa9517" formatted="false">Palauta vakiotila</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Ota yhteensopivuustila käyttöön</string>
+    <string name="native_9a45442649f5" formatted="false">Debianin työpöytä</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Jaettu /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Ensimmäinen asennus lataa graafiset komponentit. Asennuksen jälkeen työpöytä voi käynnistyä ja pysähtyä OpenCodesta riippumatta.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC peili</string>
+    <string name="native_41e865941e16" formatted="false">Virallinen Debian-peili</string>
+    <string name="native_ea341b8a102b" formatted="false">Alkutarkkuus</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Työpöytä jatkaa toimintaansa, kun vaihdat sivua. Lopeta se Runtimesta.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Lopeta työpöytätehtävä</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Käynnistä työpöytä</string>
+    <string name="native_ea27a25e5114" formatted="false">Asenna työpöytäkomponentit</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: yhteensopivuustila</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: vakiotila</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Asenna ensin Debianin kehittäjätyökalut Runtimesta.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Toimintaloki</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Projektikansiota ei voitu avata. Tarkista, että hakemisto on olemassa.</string>
+    <string name="native_83c76743b29d" formatted="false">Keskeytyneen ympäristön toiminnan palauttaminen</string>
+    <string name="native_739a730ae247" formatted="false">Ympäristön ylläpito</string>
+    <string name="native_049281329843" formatted="false">Odota päivityshuoltoa tai nykyisen tehtävän valmistumista.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Odota, että nykyinen kehitysympäristötehtävä on valmis</string>
+    <string name="native_83099168971c" formatted="false">Työpöydän asennus</string>
+    <string name="native_85e0c18dde8d" formatted="false">Käynnistetään työpöytä</string>
+    <string name="native_9a48f8196d8f" formatted="false">Vaatii huomiota</string>
+    <string name="native_75470fb13121" formatted="false">pysähtynyt</string>
+    <string name="native_51a53c8109d5" formatted="false">Toimintatietuetta ei voi lukea tai tallentaa. Korjaa se Runtimesta tai vapauta tallennustilaa.</string>
+    <string name="native_d36a018cc619" formatted="false">Asenna ensin Debian-kehitysympäristö</string>
+    <string name="native_80be4c2928a5" formatted="false">Yhdistä ensin verkkoon</string>
+    <string name="native_a065d81014b1" formatted="false">Desktop-asennus on epätäydellinen. Yritä asennusta uudelleen.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop asennettu. Käynnistä se tarvittaessa.</string>
+    <string name="native_6c1c52771115" formatted="false">Asenna ensin työpöytäkomponentit</string>
+    <string name="native_693d90a47827" formatted="false">Työpöytätoiminto epäonnistui. Tiedot ovat liian pitkiä tai niitä ei ole saatavilla.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Pysäytysmerkin tallennusta ei voitu viimeistellä. Prosessin puhdistus jatkui.</string>
+    <string name="native_06083621a6ce" formatted="false">Toimintatietueen tallennusta ei voitu viimeistellä. Seuraava käynnistys käsittelee tätä keskeytyksenä.</string>
+    <string name="native_04d721a3819a" formatted="false">Työpöytä käynnissä</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Työpöydän toiminta aikakatkaistiin. Tarkista loki ja yritä uudelleen.</string>
+    <string name="native_e70d328a3ca9">Työpöytäprosessi poistui (%1$s). Tarkista toimintaloki.</string>
+    <string name="native_df5c878f2852" formatted="false">Paikallinen graafinen työtila</string>
+    <string name="native_7b0455a8daa4" formatted="false">Pysäytä työpöytä</string>
+    <string name="native_a62123cde9c7" formatted="false">Keskeytyneet tehtävät ja palautuminen</string>
+    <string name="native_279308947a14" formatted="false">Toimintatietuetta ei voi lukea. Repair säilyttää kopion vaurioituneesta tietueesta ja säilyttää projektit, istunnot ja Linux-ympäristön.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Korjaustoimintatietue</string>
+    <string name="native_6b43650c2c82" formatted="false">Tehtävä päättyi odottamatta.</string>
+    <string name="native_acb0c970aaa6">%1$s terminaalia ei suljettu normaalisti. Heidän kulkukomentonsa keskeytettiin.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Uudelleenkäynnistys vahvistettu. Aiempia komentoja ei toistettu.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Tallennetut projektit ja istunnot säilyvät. Avaa terminaalit uudelleen manuaalisesti; keskeneräiset komennot eivät jatku automaattisesti.</string>
+    <string name="native_fa9669296762" formatted="false">Käynnistä OpenCode uudelleen</string>
+    <string name="native_bd8130bec5d9" formatted="false">Työpöytä ei käynnisty uudelleen automaattisesti. Start it again from the Desktop page.</string>
+    <string name="native_644f8f44251f" formatted="false">Avaa tiedosto</string>
+    <string name="native_9dfb5569d609" formatted="false">Jaa tiedosto</string>
+    <string name="native_a4500cff3a86" formatted="false">Työhakemisto ei saa olla symbolinen linkki</string>
+    <string name="native_8657d27661bd" formatted="false">Invalid working directory path</string>
+    <string name="native_02b702a9adff" formatted="false">Valitse tiedosto</string>
+    <string name="native_924874b746cc" formatted="false">Manage symbolic links in the terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Invalid file name</string>
+    <string name="native_c4989dc37aab" formatted="false">Directory does not exist</string>
+    <string name="native_d613dba39b44" formatted="false">Destination directory does not exist</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Kansiota ei voi sijoittaa itsensä tai sen jälkeläisten sisään</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekti sisältää erikoislaitteita tai pistorasioita, eikä sitä voi kopioida</string>
+    <string name="native_6c36955b068b" formatted="false">Select a regular file</string>
+    <string name="native_49191d7d489f" formatted="false">This file exceeds 2 MB. Edit it with OpenCode or the terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">File is too large</string>
+    <string name="native_f0a979f87157" formatted="false">Vie binaaritiedostot avataksesi ne toisessa sovelluksessa</string>
+    <string name="native_88a9c82651fc" formatted="false">Muokkaa tiedostoja, jotka eivät ole UTF-8, OpenCodella tai päätteellä</string>
+    <string name="native_0189a5c3418c" formatted="false">Another tool changed this file. Reopen it before editing.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Alkuperäistä hakemistoa ei enää ole. Palauta se ensin.</string>
+    <string name="native_46eae321049e" formatted="false">No sharing app is available</string>
+    <string name="native_87d699d3a26c" formatted="false">Roskakori</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projektitiedostot</string>
+    <string name="native_4dcf914f0b64" formatted="false">Poistetut tiedostot voidaan palauttaa alkuperäisiin hakemistoihinsa</string>
+    <string name="native_c5b81b02354f" formatted="false">Takaosa</string>
+    <string name="native_e56b99379169">Kopioitu %1$s tiedostoa · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopioidaan…</string>
+    <string name="native_85199bb36b04" formatted="false">Cancel operation</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Sulje</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Uusi istunto</string>
+    <string name="native_23c250cc8e0b" formatted="false">Start an OpenCode session here</string>
+    <string name="native_f22da21fd54f" formatted="false">-liitin</string>
+    <string name="native_3645f30b3412" formatted="false">Unsaved changes</string>
+    <string name="native_2266227605c4" formatted="false">Säästä</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Roskakori on tyhjä</string>
+    <string name="native_a9e739b13e52" formatted="false">Palauta</string>
+    <string name="native_45985dc2183e" formatted="false">Move:</string>
+    <string name="native_31214130b5b7" formatted="false">kopio:</string>
+    <string name="native_07e5c3158f35" formatted="false">tahna</string>
+    <string name="native_831b4e0fb574" formatted="false">Uusi</string>
+    <string name="native_ff65a22d7087" formatted="false">Uusi kansio</string>
+    <string name="native_71faed44a86c" formatted="false">Uusi tiedosto</string>
+    <string name="native_8dddd460f6ae" formatted="false">tuonti</string>
+    <string name="native_d85825123e60" formatted="false">Päivitä</string>
+    <string name="native_ac9d73843736" formatted="false">Hae tästä hakemistosta</string>
+    <string name="native_21eef82963ee" formatted="false">Tämä hakemisto on tyhjä. Tuo tiedostoja tai luo projekti.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Ei vastaavia tiedostoja</string>
+    <string name="native_d674bc0f86b8" formatted="false">Tiedostotoiminnot</string>
+    <string name="native_d04a47c87cc8" formatted="false">Symbolinen linkki\nKansio</string>
+    <string name="native_e0ba66f5246a" formatted="false">Kansio</string>
+    <string name="native_f170b42599e8" formatted="false">Nimeä uudelleen</string>
+    <string name="native_4cdacf57ead2" formatted="false">kopio</string>
+    <string name="native_124aa030694e" formatted="false">Siirrä…</string>
+    <string name="native_ac990518ed87" formatted="false">Avaa liitin tästä</string>
+    <string name="native_87bc93932d8a" formatted="false">Vie järjestelmätiedostoihin</string>
+    <string name="native_dd37f132172f" formatted="false">Siirrä roskakoriin</string>
+    <string name="native_7318746d337c" formatted="false">Siirretäänkö roskakoriin?</string>
+    <string name="native_2b5ee3f10a56">Voit palauttaa \"%1$s\" roskakorista.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Move</string>
+    <string name="native_4e47aaa113fc" formatted="false">Hylätäänkö tallentamattomat muutokset?</string>
+    <string name="native_63b75399ef1a" formatted="false">Hylkää muutokset</string>
+    <string name="native_d9618f7b8d25" formatted="false">Jatka muokkaamista</string>
+    <string name="native_76ce6aef5479" formatted="false">Nimi</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Ympäristö palautettu. Avaa työtila uudelleen.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Viimeistele keskeytyneen toiminnan palauttaminen ensin Runtimessa</string>
+    <string name="native_f29af06e7c99" formatted="false">Ympäristöhuolto on käynnissä. Yritä myöhemmin uudelleen.</string>
+    <string name="native_3bd28258feb0" formatted="false">Toiminto peruttu</string>
+    <string name="native_c508721eb3cd" formatted="false">Tämänniminen tiedosto on jo olemassa. Valitse toinen nimi.</string>
+    <string name="native_1e8274fe468a" formatted="false">Tiedostoa ei ole enää olemassa. Päivitä hakemisto.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Tiedoston käyttöoikeus estetty</string>
+    <string name="native_cd808e4c321e" formatted="false">Toimintoa ei voitu suorittaa loppuun</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Toiminta on kesken. Tarkista käytettävissä oleva tallennustila tai valitse tiedostot uudelleen.</string>
+    <string name="native_3f9983126fd7" formatted="false">Tarkista OpenCode-käynnistystila Runtimesta</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Uutta päätettä ei voitu avata. Tarkista istuntojen määrä.</string>
+    <string name="native_2160fde3813a" formatted="false">Hallitse symbolisia linkkejä päätteessä. Tiedostonhallinta ei seuraa linkkejä.</string>
+    <string name="native_7a844e9d4017" formatted="false">Siirto suoritettu</string>
+    <string name="native_573877894fcf" formatted="false">Kopiointi valmis</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Siirretty roskakoriin</string>
+    <string name="native_862330af933f" formatted="false">Palautettu alkuperäiseen hakemistoon</string>
+    <string name="native_beda23c9d52b" formatted="false">Ympäristöhuolto tai vaihto tapahtui. Avaa työtila uudelleen ennen muokkaamista.</string>
+    <string name="native_678c6953bb2b" formatted="false">Tallennettu</string>
+    <string name="native_8063159f2178" formatted="false">Valittua tiedostoa ei voi lukea</string>
+    <string name="native_4cdc2180d2ac">Tuotu %1$s tiedostoa</string>
+    <string name="native_e98763643b93" formatted="false">Ei voi kirjoittaa valittuun paikkaan</string>
+    <string name="native_5afd173be7fa" formatted="false">Vienti valmis</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Koodi ja istunnot</string>
+    <string name="native_8745ed51cadd" formatted="false">pöytäkone</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Graafinen työtila</string>
+    <string name="native_770d49c5f689" formatted="false">tiedostot</string>
+    <string name="native_6a9b6480b58f" formatted="false">Käyttöaika</string>
+    <string name="native_b561fe9204cc" formatted="false">Palvelut ja kehittäjätyökalut</string>
+    <string name="native_70850bdeeabd" formatted="false">Sulje sivuvalikko</string>
+    <string name="native_b4549acb48e8" formatted="false">Työtila</string>
+    <string name="native_3d3551f4660f">Kelluvan painikkeen peittävyys %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Pienemmät arvot tekevät kelluvasta painikkeesta läpinäkyvämmän</string>
+    <string name="native_e031beabfc9a" formatted="false">Avaa sivuvalikko</string>
+    <string name="native_106ee775b538" formatted="false">Yhdistetään paikalliseen OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Paikallinen yhteys on palautettava</string>
+    <string name="native_dacb8837471c" formatted="false">Liitä uudelleen</string>
+    <string name="native_17584aa60ae6" formatted="false">Paikallisen resurssivälimuistin valmistelu epäonnistui</string>
+    <string name="native_3b3b80064ccb" formatted="false">Valmistellaan paikallista OpenCode-koodia…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Yritä uudelleen</string>
+    <string name="native_b07809340403" formatted="false">Työtilan sijaintia ei ole vielä tallennettu. Yritä myöhemmin uudelleen.</string>
+    <string name="native_e4ab10392d05" formatted="false">Paikallinen palvelu valmistautuu. Työtilasi avautuu automaattisesti, kun yhteys on muodostettu.</string>
+    <string name="native_20ea15973287" formatted="false">Edellinen ajo keskeytettiin. Käynnistä uudelleen Runtimesta; päätekomentoja ei toisteta automaattisesti.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Käynnistä OpenCode Runtimesta avataksesi koodin ja istunnot.</string>
+    <string name="native_abbac5c22111" formatted="false">Poistutaanko sovelluksesta?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Kehitysympäristö voi jatkaa toimintaansa taustalla. Palaa myöhemmin ilmoituksesta.</string>
+    <string name="native_814a8fb24b62" formatted="false">Poistutaanko nykyisestä työtilasta?</string>
+    <string name="native_a76464945c2d" formatted="false">Pysäytä myös kehitysympäristö</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Uloskäynti</string>
+    <string name="native_b00143b08ff1" formatted="false">Kehitystyöasema valmiina</string>
+    <string name="native_51bca456a350" formatted="false">Debian-kehitystyöasemasi</string>
+    <string name="native_0c2acd0b6057" formatted="false">Käynnissä</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Käynnistys</string>
+    <string name="native_44da7f6a451d" formatted="false">Pysäytys</string>
+    <string name="native_b7e1503a7239" formatted="false">Korjauskehitysympäristö</string>
+    <string name="native_7c91bd67ff14" formatted="false">Asenna kehitysympäristö</string>
+    <string name="native_cfd73bb04860" formatted="false">Pysäytä ympäristö</string>
+    <string name="native_e7ec95694dce" formatted="false">Käynnistä OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Tarkista ympäristö</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Päivitä Debianin kehittäjätyökalut</string>
+    <string name="native_c114ec62712b" formatted="false">Aiempi ympäristön varmuuskopio, projektit ja istuntotiedot säilyvät.</string>
+    <string name="native_eb3114155716" formatted="false">Asenna/päivitä kielipalvelimet</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) ja Python (pylsp), asennettu verkossa allekirjoitetuista Debian-varastoista. Pysäytä ensin OpenCode ja työpöytä.</string>
+    <string name="native_2c7251cce661" formatted="false">Napauta kelluvaa painiketta vaihtaaksesi sivua. Vedä sitä sijoittaaksesi sen uudelleen.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Ajonaikaiset tiedot näkyvät tässä käynnistyksen jälkeen.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Mukana APK-versio</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode-päivitykset</string>
+    <string name="native_36ab16248f65" formatted="false">Tuo tämän sovelluksen julkaisijan allekirjoittama .ocaupdate. Virallinen käyttöliittymä ja taustapäivitys yhdessä.</string>
+    <string name="native_8aad48b0508d" formatted="false">Päivityslähde (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Tarkista päivityslähde</string>
+    <string name="native_f73973cfadbb">Allekirjoitettu julkaisu: %1$s\nToteutus: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Lataa ja vahvista</string>
+    <string name="native_f2ef7965bf12" formatted="false">Valitse päivityspaketti</string>
+    <string name="native_165111adfe2c">Valmiina asennettavaksi: %1$s\nSitoudu: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Asenna tämä päivitys</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Palauta päivitystä edeltävä versio ja istunnot</string>
+    <string name="native_6864335de653" formatted="false">Peruuta päivitys</string>
+    <string name="native_5e3472cf084e" formatted="false">Asennetaanko OpenCode-päivitys?</string>
+    <string name="native_816bf3635d53" formatted="false">Palautetaanko päivitystä edeltävä tila?</string>
+    <string name="native_11beb4a42abc">Asenna %1$s. Sovellus tallentaa istunnon tilannevedoksen, tarkistaa allekirjoitetun ohjelman ja palauttaa edellisen version, jos se epäonnistuu. Projektitiedostot säilytetään.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessions palaavat tilaan ennen tätä päivitystä. Uusimmat istunnot säilyvät yksityisessä varmuuskopiossa. Projektitiedostot säilytetään.</string>
+    <string name="native_def5e273616d" formatted="false">Vahvista asennus</string>
+    <string name="native_369d2eefccde" formatted="false">Esikatseluselaimen tietoja ei voitu eristää. Avaa esikatselu uudelleen.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Projektisivua ei voitu ladata. Tarkista terminaalisi kehityspalvelin.</string>
+    <string name="native_6e7408950cf5" formatted="false">Esikatseluprojektin verkkosivusto</string>
+    <string name="native_bfb4951e071d" formatted="false">Projektin esikatselu</string>
+    <string name="native_f80652913d06" formatted="false">Käynnistä kehityspalvelin päätteessä ja syötä sen paikallinen portti. Esikatseluselaimen tiedot on eristetty OpenCodesta.\nPortti</string>
+    <string name="native_2c41e85af61f" formatted="false">Portti</string>
+    <string name="native_77c3a828a5c5" formatted="false">Anna kehitysportti 1024–65535, ei OpenCode- ja työpöytäpalvelut.</string>
+    <string name="native_7311a9dfea51" formatted="false">Mikään ei kuuntele tässä portissa. Tarkista palvelu terminaalistasi.</string>
+    <string name="native_4f8d84105475" formatted="false">Tarkistetaan…</string>
+    <string name="native_4923c272b68e" formatted="false">Kehitysportin on oltava kokonaisluku</string>
+    <string name="native_04a87026e81f" formatted="false">Valitse kelvollinen projektin kehitysportti</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode-kehitysistunto</string>
+    <string name="native_e87a4529ab82" formatted="false">Kehitysympäristön asennus</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian-päivitys</string>
+    <string name="native_0c6301bc295d" formatted="false">Kehitysympäristön korjaus</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Kehitysympäristön tarkistus</string>
+    <string name="native_9612d4419bb6" formatted="false">Kielipalvelimen asennus</string>
+    <string name="native_f72fba77f87a" formatted="false">Ympäristön palautus</string>
+    <string name="native_7c8162195c7c" formatted="false">Työpöytäasennus</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Edellinen ajo keskeytettiin. Käynnistä uudelleen suoraan Runtimesta.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Tämän tyyppinen kehitystehtävä on edelleen käynnissä</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Toimintatietueen korjaaminen</string>
+    <string name="native_b66749ed72ea" formatted="false">Prosessi lopetettiin</string>
+    <string name="native_6b25042064e2" formatted="false">Päätetty signaalilla</string>
+    <string name="native_d6febdf1752b" formatted="false">Palautettu vähäisen muistin vuoksi</string>
+    <string name="native_1d13790f3c89" formatted="false">Sovellus kaatui</string>
+    <string name="native_28db94d1850d" formatted="false">Natiiviprosessin kaatuminen</string>
+    <string name="native_86919539f7f1" formatted="false">Sovellus ei vastaa</string>
+    <string name="native_90fb8d6098a5" formatted="false">Alustus epäonnistui</string>
+    <string name="native_38c60ab6654c" formatted="false">Oikeuksia muutettu</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resurssiraja</string>
+    <string name="native_19b2090b01a8" formatted="false">Käyttäjä pyysi pysäytystä</string>
+    <string name="native_120d96445f1a" formatted="false">Käyttäjä pysäytti</string>
+    <string name="native_3c8af14f66bc" formatted="false">Riippuva prosessi poistui</string>
+    <string name="native_ca0941ce04ae" formatted="false">Muu järjestelmän syy</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Prosessin jäädytys</string>
+    <string name="native_0d48373023a8" formatted="false">Sovelluksen tila muuttunut</string>
+    <string name="native_c752307db26b" formatted="false">Sovelluspäivitys</string>
+    <string name="native_b5015951cbdf" formatted="false">Järjestelmä ei antanut poistumissyytä</string>
+    <string name="native_b62737b826ad">Järjestelmän poisto (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Projektihakemistoa ei voitu avata</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode-istuntoa ei voitu luoda</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode-istuntohakemisto ei täsmää</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode-istuntoa ei voitu lukea</string>
+    <string name="native_2642997cfeec" formatted="false">Ympäristön ylläpito</string>
+    <string name="native_f992d735d932" formatted="false">Pysäytä OpenCode, päätteet ja Debian-työpöytä ja odota sitten tiedostotoimintojen päättymistä</string>
+    <string name="native_489f137f1080" formatted="false">Ympäristöhuoltolukko ei ole enää voimassa</string>
+    <string name="native_42380e2567fc" formatted="false">Keskeytetty toiminta palautui. Avaa työtila uudelleen.</string>
+    <string name="native_17b00cac2b91" formatted="false">Paikallisen yhteyden palautus epäonnistui. Yritä uudelleen Runtimesta.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Ympäristöhuolto on käynnissä. Yritä myöhemmin uudelleen.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Pysäytä Debian-työpöytä ennen kehitysympäristön päivittämistä</string>
+    <string name="native_548085b144c9" formatted="false">Keskeytetty toiminta palautui. Voit aloittaa kehitysympäristön.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Edellinen ajo keskeytettiin. Päätteen komennot eivät toistu automaattisesti. Käynnistä uudelleen suoraan Runtimesta.</string>
+    <string name="native_295cafdfd512" formatted="false">Väliaikainen yhteyskokoonpanon puhdistus on kesken. Prosessin puhdistus jatkui.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld-työtilaa ei voitu luoda. Tarkista hakemisto ja käytettävissä oleva tila.</string>
+    <string name="native_68301868225a" formatted="false">Edellinen työtilan hakemisto ei ole käytettävissä. Avattu helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Oletusprojekti ei ole vielä valmis. Yritä uudelleen tiedostoista.</string>
+    <string name="native_45d6ab452622" formatted="false">Asenna kielipalvelimet</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++- ja Python-kielipalvelimet ovat valmiina. Käynnistä OpenCode käyttääksesi LSP:tä.</string>
+    <string name="native_5ea1653deef8" formatted="false">Päätteen toimintatietuetta ei tallennettu. Luo uusi pääte prosessin lopettamisen jälkeen.</string>
+    <string name="native_1978b311a9ff" formatted="false">Päätteen poistumistietueen tallennusta ei voitu viimeistellä.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode-päivityksen lataus</string>
+    <string name="native_06f76cca8fb9" formatted="false">Yhdistetään päivityslähteeseen…</string>
+    <string name="native_8c39baf28e08" formatted="false">Ei voi muodostaa yhteyttä päivityslähteeseen. Tarkista verkko, julkaisijan allekirjoitus, isäntäversio ja vapaa tila.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Lataus aikakatkaistiin</string>
+    <string name="native_f75850093535">Ladataan: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Vahvistetaan julkaisijan allekirjoitusta…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Ladataan päivityspakettia…</string>
+    <string name="native_2f9cd52dc66a">Kelvollinen julkaisijan allekirjoitus: %1$s. Tarkista ennen lataamista.</string>
+    <string name="native_17548865632c" formatted="false">Lataa, julkaise metatiedot ja paketin allekirjoitus vahvistettu. Vahvista asennus.</string>
+    <string name="native_180cec958e7a" formatted="false">Lataus peruutettu. Alkuperäinen versio säilytetty.</string>
+    <string name="native_8df045f8ac12" formatted="false">Lataus pysäytetty. Alkuperäinen versio säilytetty.</string>
+    <string name="native_778803f1c6bb" formatted="false">Peruuta lataus</string>
+    <string name="native_2958898ce6f4" formatted="false">Uusi versio epäonnistui paikallisissa käynnistyksissä, versioissa tai todennustarkistuksissa. Edellinen versio palautetaan.</string>
+    <string name="native_cc876dfbb261" formatted="false">Kokeiluprosessi on edelleen kesken. Odota palautumista ennen kuin yrität uudelleen.</string>
+    <string name="native_adf977dcb47e" formatted="false">Virheellinen päivitystietueen tunnus</string>
+    <string name="native_5207cac670b7" formatted="false">Asennettu erillinen OpenCode-koko ei täsmää</string>
+    <string name="native_cf5b81887589" formatted="false">Asennettu erillinen OpenCode-tarkistussumma ei täsmää. Palauta edellinen versio.</string>
+    <string name="native_393049b506cc" formatted="false">Alkuperäisellä ohjelmalla ei ole vastaavaa julkaisijan todistetta. Edellinen tila ennallaan.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Palauta ensin edellinen keskeytynyt päivitys</string>
+    <string name="native_91d8da5525fa" formatted="false">Päivityspaketti muuttui vahvistuksen jälkeen</string>
+    <string name="native_093f2c091a30" formatted="false">Riittämätön tallennustila. Alkuperäinen versio ennallaan.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Päivitysvarmuuskopiota ei ole saatavilla palautettavaksi</string>
+    <string name="native_a9f4d9903c14" formatted="false">Varmuuskopio ei vastaa käynnissä olevaa versiota</string>
+    <string name="native_6caa23763a42" formatted="false">Edellinen ohjelman vahvistus epäonnistui. Nykyiset istunnot ennallaan.</string>
+    <string name="native_c8b71b876695" formatted="false">Myöhempi APK- tai Debian-päivitys korvasi mukana toimitetun ohjelman. Alkuperäinen istunnon varmuuskopio säilytetään; palauta ensin vastaava ohjelma.</string>
+    <string name="native_c443df40964b" formatted="false">Virheellinen päivityksen palautustoiminto</string>
+    <string name="native_9071f05d58b3" formatted="false">Valmistellaan OpenCode-päivitystä…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Pysäytä OpenCode, päätteet ja työpöytä ja odota, että ne poistuvat.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Tilan tallennus, ohjelmien tarkistus ja versioiden vaihto</string>
+    <string name="native_5fc065ef6f50" formatted="false">Päivityshuoltopalvelua ei voitu käynnistää.</string>
+    <string name="native_f7b560c8c820" formatted="false">Virallisen ohjelman tarkistaminen ja lavastaminen…</string>
+    <string name="native_9606191c82dc" formatted="false">Alkuperäisen ohjelman ja julkaisijan allekirjoituksen säilyttäminen…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Tallennetaan istunnon tilan tilannekuvaa…</string>
+    <string name="native_0c8cf4632889" formatted="false">Versioiden vaihtaminen ja paikallisen palvelun tarkistaminen…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Palautetaan versiota ja istuntoja ennen päivitystä…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCoden palauttaminen</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCoden päivitys</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Palautti edellisen version ja istunnot. Uusimmat istunnot säilyvät yksityisessä varmuuskopiossa.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode-päivitys valmis. Käynnistys käyttää vastaavaa virallista käyttöliittymää ja taustajärjestelmää.</string>
+    <string name="native_4693930f5802" formatted="false">Päivitys peruutettu. Vahvistaa, että alkuperäinen tila on palautettu.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Päivitys kesken. toipumassa nyt; alkuperäiset ohjelman ja istunnon varmuuskopiot säilyvät.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Palautus on epätäydellinen. Kaikki osavaltiohakemistot säilytetään. Säilytä tietosi ja yritä palautusta käynnistää uudelleen.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Istunnon palautus suoritettu. Uudempi tila on varmuuskopiossa.</string>
+    <string name="native_67c08a2911e1" formatted="false">Palautusta ei voitu jatkaa tällä varmuuskopiolla tai alkuperäisellä ohjelmalla. Nykyiset istunnot ja varmuuskopiot ennallaan.</string>
+    <string name="native_976d8c169cfa" formatted="false">Päivitys peruutettiin tai epäonnistui. Alkuperäinen versio ja istunnot palautettu.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Tarkistetaan päivityspaketin allekirjoitusta ja eheyttä…</string>
+    <string name="native_0aa018b7337b" formatted="false">Valittua tiedostoa ei voi lukea</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Päivityspaketti on liian suuri</string>
+    <string name="native_f068b83f40bf" formatted="false">Allekirjoitus ja pakkaus varmistettu. Tarkista versio ennen asennusta.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Tuonti ei onnistu: virheellinen tiedosto, allekirjoitus ei täsmää, isäntäversio ei ole yhteensopiva tai tallennustila ei riitä.</string>
+    <string name="native_616412e65df4" formatted="false">Virallinen ohjelma ei vastaa julkaisijan todistetta</string>
+    <string name="native_4bf19a158f27" formatted="false">Erilliset ajonaikaiset paketit tukevat vain ARM64:ää</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Päivitysallekirjoitus ei kuulu tälle APK:lle</string>
+    <string name="native_c7273354727f" formatted="false">Päivitystiedosto ylittää ilmoitetun koon</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Päivitysohjelman tarkistussumma ei täsmää</string>
+    <string name="native_dd619076d456" formatted="false">Virheellinen päivityspaketin koko</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Pakatun päivityspaketin koko ei täsmää</string>
+    <string name="native_1de24edffcf5" formatted="false">Päivityspaketti sisältää lisämerkintöjä</string>
+    <string name="native_c5b339aa77e8" formatted="false">Yhteensopimaton päivityksen alkuperä tai arkkitehtuuri</string>
+    <string name="native_89d585f3661f" formatted="false">Päivitä Android-sovellus ennen tämän päivityksen asentamista</string>
+    <string name="native_800df084dea0" formatted="false">Päivitysarkiston tarkistussumma ei täsmää</string>
+    <string name="native_ddf1a005e310" formatted="false">Tämä APK-allekirjoitusmuoto ei tue itsenäisiä ajonaikaisia päivityksiä</string>
+    <string name="native_172e063db474" formatted="false">Virheellinen päivityspaketin merkintä</string>
+    <string name="native_1c08780aa99f" formatted="false">Päivityksen metatietojen on käytettävä kokonaislukuja</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Päivitysohjelma ei ole 64-bittinen Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Päivitysohjelma ei täytä 16 KiB:n ELF-kohdistusta</string>
+    <string name="native_3afa3741911b" formatted="false">Päivitysohjelmasta puuttuu Debianin glibc-lataaja</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Anna kelvollinen HTTPS-päivityslähde</string>
+    <string name="native_c274c7dd5900" formatted="false">Päivityslähteet vaativat HTTPS-URL-osoitteet ilman käyttäjätunnuksia</string>
+    <string name="native_f459f5ec9dac" formatted="false">Virheellinen päivityslähdekenttä</string>
+    <string name="native_bde2a736e30a" formatted="false">Päivitä Android-isäntä ensin</string>
+    <string name="native_b980fd021bef" formatted="false">Virheellinen päivityshakemisto</string>
+    <string name="native_c0e96727553e" formatted="false">Virheellinen päivitystiedosto</string>
+    <string name="native_86ff542c68ed" formatted="false">Päivityshakemistoja ei voi vaihtaa tässä tilassa</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Istuntotila viittaa ulkoiseen hakemistoon. Päivitystä ei voi testata turvallisesti.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Riittämätön tallennustila. Alkuperäinen tila ennallaan.</string>
+    <string name="native_099801d672b1" formatted="false">Lataus peruutettu</string>
+    <string name="native_f1304f707ec9" formatted="false">Liian monta päivityksen uudelleenohjausta</string>
+    <string name="native_0d07f458b607" formatted="false">Päivityspalvelin ei siirtänyt alkuperäisiä tavuja</string>
+    <string name="native_de331dfd8908" formatted="false">Päivitystiedoston pituus ei täsmää</string>
+    <string name="native_416b8c87e69e" formatted="false">Päivitystiedostoa ei ladattu kokonaan</string>
+    <string name="native_e1e74b76c427" formatted="false">Päivityspalvelin ei palauttanut koko tiedostoa</string>
+    <string name="native_6afcf03cb130" formatted="false">Päivityksen esitystila ei riitä</string>
+    <string name="native_be1c695d9241" formatted="false">Päivitystiedosto SHA-256 ei täsmää</string>
+    <string name="native_a0133d117bb0" formatted="false">Päivityspaketti ei vastaa vahvistettuja julkaisutietoja</string>
+    <string name="native_8635a43ce28a" formatted="false">Virheellinen projektihakemisto</string>
+    <string name="native_d32ab8b004e6" formatted="false">Työtilan sijaintia ei voitu tallentaa</string>
+    <string name="native_43a5447014fd" formatted="false">Käynnistä kehitysympäristö Runtimesta ennen päätteen avaamista.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Uusi pääte</string>
+    <string name="native_b3b7108a568f" formatted="false">Sulkuvirta</string>
+    <string name="native_0e822affd5da">Alkuperäinen hakemisto: %1$s</string>
+    <string name="native_72d769e3888d">Uusi päätehakemisto: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Järjestelmätiedostojen valitsin ei ole käytettävissä</string>
+    <string name="native_179a57921f91" formatted="false">WebView\'n renderöintiasetukset</string>
+    <string name="native_3024ec603eb7" formatted="false">Renderöinnin kuvataajuus</string>
+    <string name="native_55b6d7f645f3" formatted="false">Suosi 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Seuraa näytön virkistystaajuutta</string>
+    <string name="native_d4ecf38c341d" formatted="false">Käytä mieluummin 60 Hz:tä vähentääksesi renderöintikuormitusta korkean virkistystaajuuden näytöissä. Näytön seuraaminen antaa järjestelmän ajoittaa kehyksiä. Koskee vain tämän sovelluksen ikkunaa.</string>
+    <string name="native_bf0d3a407418" formatted="false">Ei asennettu</string>
+    <string name="native_2fb8edc75b25" formatted="false">Valmis</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Varmistuskuormaaja</string>
+    <string name="native_d1017c1eac80" formatted="false">Debianin asennus</string>
+    <string name="native_f863d955fa6e" formatted="false">Paikallinen kehitysympäristö</string>
+    <string name="native_55aa84065de2" formatted="false">Paikallinen Debian-kehitysistunto</string>
+    <string name="native_6e75b1822ebc" formatted="false">Pysäytys</string>
+    <string name="native_5f73a4e1e494" formatted="false">asennettu</string>
+    <string name="native_147e90d2ec02" formatted="false">palautuu</string>
+</resources>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Utvecklingsarbetsyta</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">En sida</string>
+    <string name="native_651ae6ea52ae" formatted="false">Återställ delad vy</string>
+    <string name="native_d7e97cfac66f" formatted="false">Arbetsyta layout</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Vidga fönstret för att se flera paneler tillsammans.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Visa projektfiler</string>
+    <string name="native_712d956931d1" formatted="false">Visa terminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal nedan</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal till höger</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Paneler kollapsar när utrymmet är begränsat och förblir tillgängliga från den flytande menyn. Sidoterminalen visas i bredare fönster. Dra avdelare för att ändra storlek på paneler.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Vänster Alt: 1–5 sidor · B-filer · T-terminal · M Desktop · Ange Enkel/Dela · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Klar</string>
+    <string name="native_bcec2218fc21" formatted="false">Återställ proportioner</string>
+    <string name="native_da88c62d1217">Visa %1$s på en enda sida</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projektfilavdelare</string>
+    <string name="native_707c0891a0e6" formatted="false">Terminalavdelare</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode och skrivbordsavdelare</string>
+    <string name="native_50407ad8dfa8" formatted="false">Förminska föregående panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Förstora föregående panel</string>
+    <string name="native_3f3685e8d731" formatted="false">För många PRoot-länkar för detta arkivformat</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux hårda länkar kräver en fullständig rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Säkerhetskopieringskatalogkapslingen är för djup</string>
+    <string name="native_b6f744737a45" formatted="false">Ogiltig backuplösenordslängd</string>
+    <string name="native_13bde5dd1812" formatted="false">Säkerhetskopieringslösenordet måste innehålla minst 12 tecken</string>
+    <string name="native_be02cbd55932" formatted="false">Backupformat stöds inte</string>
+    <string name="native_7a91a3d586ae" formatted="false">Ogiltig säkerhetskopior</string>
+    <string name="native_2bbd318a5667" formatted="false">Krypteringsparametrar för säkerhetskopiering som inte stöds</string>
+    <string name="native_18868da27841" formatted="false">Felaktigt säkerhetskopieringslösenord eller skadad fil</string>
+    <string name="native_e41d6440468d" formatted="false">Återställningsposten är för stor</string>
+    <string name="native_282692502f14" formatted="false">Backup-metadata är för stor</string>
+    <string name="native_61fdca8d6c82" formatted="false">Säkerhetskopiering av metadata är för djup</string>
+    <string name="native_8cefb30732d4" formatted="false">Ogiltig backup-metadata</string>
+    <string name="native_5d3037708cad" formatted="false">Inbyggda inställningar som inte stöds</string>
+    <string name="native_81a57c382f9d" formatted="false">Kunde inte spara inbyggda inställningar</string>
+    <string name="native_50603e683d4a" formatted="false">Ogiltig överordnad katalog i säkerhetskopia</string>
+    <string name="native_c3f838a46b8e" formatted="false">Arbetsstationens rot får inte vara en symbolisk länk</string>
+    <string name="native_9ddd2d8280c8" formatted="false">En fil ändrades under säkerhetskopieringen</string>
+    <string name="native_77e1e85147db" formatted="false">Arbetsstationsdataformat som inte stöds</string>
+    <string name="native_a927b5a565af" formatted="false">Säkerhetskopieringen innehåller ytterligare data</string>
+    <string name="native_c2b886d508f2" formatted="false">Säkerhetskopieringen innehåller dubbletter av sökvägar</string>
+    <string name="native_3dab8cd60102" formatted="false">Säkerhetskopieringen innehåller körtidsinställningar som inte kan migreras</string>
+    <string name="native_f45ba674a630" formatted="false">Säkerhetskopieringen är för stor eller lagringen är otillräcklig</string>
+    <string name="native_140073e8e77b" formatted="false">Kunde inte återställa symboliska länktidsstämplar</string>
+    <string name="native_b0d411aaf62c" formatted="false">Det gick inte att återställa namngivna rörtidsstämplar</string>
+    <string name="native_0daee8026db1" formatted="false">Säkerhetskopiering och återställning av arbetsstation</string>
+    <string name="native_1acc18928c5f" formatted="false">Inkluderar Debian, utvecklarverktyg, projekt, hem, OpenCode-sessioner och inställningar, webbläsardata för Linux och inbyggda layoutinställningar.</string>
+    <string name="native_62254d31a535" formatted="false">Tillfälliga filer och gamla säkerhetskopior är undantagna. Android WebView-lagring och osända utkast finns kvar på den här enheten och överförs inte med denna säkerhetskopia.</string>
+    <string name="native_808eabc7811f" formatted="false">Skapa krypterad säkerhetskopia</string>
+    <string name="native_201c10b38296" formatted="false">Importera säkerhetskopia</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Spara dina ändringar i filredigeraren först.</string>
+    <string name="native_0559cd596453" formatted="false">Stoppa OpenCode, terminaler och skrivbord</string>
+    <string name="native_fdf2be8e3b93" formatted="false">En miljöoperation är ofullständig. Återställ det först.</string>
+    <string name="native_185f58156330" formatted="false">Återställ ofullständig operation</string>
+    <string name="native_20831b6f67a7" formatted="false">Ångra den senaste miljöåterställningen</string>
+    <string name="native_4f392d5d6141">Krypterad lokal kopia: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Spara till fil</string>
+    <string name="native_f09619351eb9" formatted="false">Ta bort lokal kopia</string>
+    <string name="native_85c686eb9841">Bearbetad %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Avbryt säkerhetskopieringsuppgift</string>
+    <string name="native_66c9d896407b" formatted="false">Kryptera säkerhetskopiering av arbetsstation</string>
+    <string name="native_548cd9f0831e" formatted="false">Dekryptera och verifiera säkerhetskopiering</string>
+    <string name="native_d248f5eca9a5" formatted="false">Säkerhetskopior kan innehålla privata SSH-nycklar, API-nycklar och kontodata. Använd minst 12 tecken. Ett glömt lösenord kan inte återställas.</string>
+    <string name="native_f249422b9ec1" formatted="false">Säkerhetskopieringen dekrypteras och verifieras i en privat katalog. Din miljö ersätts först efter att du bekräftat återställningen.</string>
+    <string name="native_e7be6841703a" formatted="false">Säkerhetskopieringslösenord</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Upprepa lösenord</string>
+    <string name="native_eafdc5cd4882" formatted="false">Starta kryptering</string>
+    <string name="native_2986b88beade" formatted="false">Dekryptera och verifiera</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Avbryt</string>
+    <string name="native_f46c5ed7412d" formatted="false">Återställa hela den tidigare miljön?</string>
+    <string name="native_33eda0946a5b" formatted="false">Ta bort den krypterade lokala kopian?</string>
+    <string name="native_26db24150f2e" formatted="false">Projekt, hem, Debian och sessioner kommer att återgå till sitt tillstånd före den senaste återställningen. Senare arbete kommer att finnas kvar i en privat säkerhetskopia inuti appen.</string>
+    <string name="native_1153b30d51d5" formatted="false">Endast den krypterade lokala kopian inuti appen raderas. Filer som sparats på annat håll förblir tillgängliga.</string>
+    <string name="native_427a78a4e69a" formatted="false">Bekräfta</string>
+    <string name="native_7af46d7ee003" formatted="false">Återställa denna säkerhetskopia av arbetsstationen?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s poster · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Säkerhetskopieringen innehåller körbar Linux-mjukvara. Bekräfta att du litar på dess källa. Restaurering ersätter hela miljön och kontrollerar lokala tjänster; den tidigare miljön behålls för återhämtning.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Backup verifierad. Väntar på återställningsbekräftelse.</string>
+    <string name="native_97076078c749" formatted="false">Aktivera även Chromium-kompatibilitetsläge (inaktiverar Linux-processandlådan)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Av som standard. Du kan aktivera det senare i skrivbordsinställningarna.</string>
+    <string name="native_ddf09383413c" formatted="false">Bekräfta återställning</string>
+    <string name="native_8e6056b0f629" formatted="false">Avbryt import</string>
+    <string name="native_63a895901c76" formatted="false">Arbetsstationsmiljö har ändrats</string>
+    <string name="native_a4c994348a39" formatted="false">Öppna arbetsytan igen</string>
+    <string name="native_774947f0653e" formatted="false">Avbryt uppgift</string>
+    <string name="native_e09a22b18445" formatted="false">Uppgiften avbröts. Välj en operation igen och ange lösenordet.</string>
+    <string name="native_38c5fcc634db" formatted="false">Spara filredigeringar i alla fönster först. Avbryt en befintlig import innan du försöker igen.</string>
+    <string name="native_029bfa8ff772" formatted="false">Återställer arbetsstationen och verifierar program</string>
+    <string name="native_e4f04df818f8" formatted="false">Bearbetar din valda säkerhetskopiering</string>
+    <string name="native_8206f072d5ee" formatted="false">Stoppa OpenCode, terminaler och skrivbordet och vänta sedan på att filoperationerna är klara.</string>
+    <string name="native_1a5cde18c609" formatted="false">Det gick inte att starta säkerhetskopieringen. Försök igen med appen i förgrunden.</string>
+    <string name="native_1553b714941d" formatted="false">Dekrypterar och verifierar säkerhetskopian. Den ursprungliga miljön förblir återvinningsbar...</string>
+    <string name="native_dafd005e953e" formatted="false">Backup verifierad. Bekräfta återställning i appen.</string>
+    <string name="native_9fb236184596" formatted="false">Raderade den krypterade lokala kopian inuti appen.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operation avbruten. Original miljödata bevaras.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Drift ofullständig. Kontrollera lösenord, säkerhetskopieringsintegritet, värdversion och ledigt utrymme. Original miljödata bevaras.</string>
+    <string name="native_29deabd28960" formatted="false">Skapar krypterad säkerhetskopiering av arbetsstation...</string>
+    <string name="native_3d137e243806" formatted="false">Krypterad säkerhetskopia skapad. Välj var du vill spara den.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Återställa miljön och kontrollera lokala tjänster. Håll appdata intakt...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Workstation återställd. Den tidigare miljön finns kvar i en privat säkerhetskopia. Öppna arbetsytan igen.</string>
+    <string name="native_0392cd6152d2" formatted="false">Återställningskontroller misslyckades. Återvände till den tidigare miljön; importerad data finns kvar i en privat säkerhetskopia.</string>
+    <string name="native_5dc7410b600e" formatted="false">Återställningen är ofullständig. Alla datakataloger bevaras. Behåll appdata och försök återställa.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Återställer den tidigare arbetsstationsmiljön...</string>
+    <string name="native_15821323ff89" formatted="false">Tidigare miljö återställd. Senare arbete finns kvar i en privat säkerhetskopia. Öppna arbetsytan igen.</string>
+    <string name="native_56dd94f47870" formatted="false">Det går inte att ångra denna återställning. Aktuell miljö och säkerhetskopior behålls.</string>
+    <string name="native_93530f3fa029" formatted="false">Ångra är ofullständig. Alla datakataloger bevaras. Behåll appdata och försök återställa.</string>
+    <string name="native_f12963c80def" formatted="false">Sparar krypterad säkerhetskopia...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Krypterad säkerhetskopia sparad. Du kan spara den lokala kopian igen eller ta bort den manuellt.</string>
+    <string name="native_d660cccf65e0" formatted="false">Rensar upp en obekräftad import...</string>
+    <string name="native_800592163979" formatted="false">Importen avbröts. Ursprunglig miljö oförändrad.</string>
+    <string name="native_5a90367eb834" formatted="false">Importen avbröts. Ursprunglig miljö oförändrad; vissa tillfälliga importdata finns kvar i appens privata katalog.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Förbereder dekryptering och verifiering...</string>
+    <string name="native_e9f2bea3118c" formatted="false">Förbereder krypterad säkerhetskopia...</string>
+    <string name="native_7bd5a0c93818" formatted="false">Kunde inte starta säkerhetskopieringstjänsten. Försök igen i förgrunden.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Återställ den ofullständiga miljöoperationen först</string>
+    <string name="native_f14aea7c819c" formatted="false">Ogiltig återställningspost</string>
+    <string name="native_7c284c55ee08" formatted="false">Återställningskatalog saknas</string>
+    <string name="native_bfc4792df15b" formatted="false">Inbyggda inställningar överskrider återställningspostgränsen</string>
+    <string name="native_8d93770ba8c9">Tidigare miljökatalog saknas: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Okänt återställningsstadium</string>
+    <string name="native_20c5124fe175" formatted="false">Okänd återställningsåtgärd</string>
+    <string name="native_1c457322b624" formatted="false">Ingen tidigare miljö är tillgänglig att återställa</string>
+    <string name="native_30db1666c8e5" formatted="false">Denna säkerhetskopia tillhör en annan app</string>
+    <string name="native_6687d1c64d75" formatted="false">Backup-processorarkitekturen matchar inte</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Uppdatera Android-värden till den version som används av denna säkerhetskopia först</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Säkerhetskopieringskatalogen är ofullständig</string>
+    <string name="native_66106ab3e254" formatted="false">Den gamla säkerhetskopian har inget verifierbart OpenCode-utgivarbevis. Starta den ursprungliga miljön med denna värd innan du säkerhetskopierar den igen.</string>
+    <string name="native_bec13cc92982" formatted="false">Systemåtgärder i utvecklingsmiljön</string>
+    <string name="native_65de80229626" formatted="false">Debian begärde en systemåtgärd</string>
+    <string name="native_5e38581cf19c" formatted="false">Tryck för att granska och hantera begäran</string>
+    <string name="native_749d406d2c67" formatted="false">Från Debians utvecklingsmiljö</string>
+    <string name="native_4032d33b2afd" formatted="false">Öppna systemwebbläsaren?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Öppna en lokal projektförhandsvisning?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Läs klippbordet?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kopiera till systemets urklipp?</string>
+    <string name="native_77f761eb70aa" formatted="false">Skicka ett lokalt meddelande?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Dela en projektfil?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Importera systemfiler?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Exportera en projektfil?</string>
+    <string name="native_7ac295421c6d" formatted="false">Öppna i webbläsare</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Öppna förhandsgranskning</string>
+    <string name="native_14792d6cd7a6" formatted="false">Tillåt läsning</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopiera till urklipp</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Skicka meddelande</string>
+    <string name="native_88152a09fa02" formatted="false">Välj en delningsapp</string>
+    <string name="native_7a49a79c57f9" formatted="false">Välj filer</string>
+    <string name="native_99d9f87419c5" formatted="false">Välj var du vill spara</string>
+    <string name="native_23e5bb2090aa">%1$s\nÖppnas med webbläsardata isolerad från OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Ge text från systemets urklipp till det aktuella Debianprogrammet.</string>
+    <string name="native_dcc6bec24e43">Välj filer att importera till %1$s. Befintliga filer behålls och dubbletter döps om.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium webbläsarläge</string>
+    <string name="native_4767f37900f6" formatted="false">Kompatibilitetsläge använder en separat webbläsarprofil och inaktiverar Chromiums Linux-processandlåda. Webbläsaren kan fortfarande komma åt filer i den här appen. Undvik opålitliga webbplatser och använd Android-systemwebbläsaren för viktiga konton. Öppna Chromium igen efter att ha bytt läge.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standard Linux-sandboxning är aktiverat som standard. Om Chromium inte kan starta kan du välja kompatibilitetsläge. Den inaktiverar Linux-processandlådan och använder en separat profil, samtidigt som den behåller åtkomst till appfiler. Undvik opålitliga webbplatser; använd Android-systemwebbläsaren för viktiga konton.</string>
+    <string name="native_3a2596fa9517" formatted="false">Återställ standardläge</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Aktivera kompatibilitetsläge</string>
+    <string name="native_9a45442649f5" formatted="false">Debian skrivbord</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Delad /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Den första installationen laddar ner grafiska komponenter. Efter installationen kan skrivbordet starta och stoppa oberoende av OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC spegel</string>
+    <string name="native_41e865941e16" formatted="false">Officiell Debianspegel</string>
+    <string name="native_ea341b8a102b" formatted="false">Initial upplösning</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Skrivbordet fortsätter att köras när du byter sida. Stoppa det från Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Stoppa skrivbordsuppgiften</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Starta skrivbordet</string>
+    <string name="native_ea27a25e5114" formatted="false">Installera skrivbordskomponenter</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: kompatibilitetsläge</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standardläge</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Installera Debians utvecklarverktyg från Runtime först.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Aktivitetslogg</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Det gick inte att öppna projektmappen. Kontrollera att katalogen finns.</string>
+    <string name="native_83c76743b29d" formatted="false">Återställer den avbrutna miljöoperationen</string>
+    <string name="native_739a730ae247" formatted="false">Miljöunderhåll</string>
+    <string name="native_049281329843" formatted="false">Vänta tills uppdateringsunderhåll eller den aktuella uppgiften är klar.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Vänta tills den aktuella utvecklingsmiljöuppgiften är klar</string>
+    <string name="native_83099168971c" formatted="false">Installerar skrivbordet</string>
+    <string name="native_85e0c18dde8d" formatted="false">Startar skrivbordet</string>
+    <string name="native_9a48f8196d8f" formatted="false">Behöver uppmärksamhet</string>
+    <string name="native_75470fb13121" formatted="false">Stoppad</string>
+    <string name="native_51a53c8109d5" formatted="false">Kan inte läsa eller spara aktivitetsposten. Reparera det från Runtime eller frigör lite lagringsutrymme.</string>
+    <string name="native_d36a018cc619" formatted="false">Installera Debians utvecklingsmiljö först</string>
+    <string name="native_80be4c2928a5" formatted="false">Anslut först till ett nätverk</string>
+    <string name="native_a065d81014b1" formatted="false">Desktopinstallationen är ofullständig. Försök att installera igen.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop installerat. Starta den när det behövs.</string>
+    <string name="native_6c1c52771115" formatted="false">Installera skrivbordskomponenter först</string>
+    <string name="native_693d90a47827" formatted="false">Desktopdrift misslyckades. Informationen är för lång eller otillgänglig.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Kunde inte slutföra att spara stoppmarkören. Processsaneringen fortsatte.</string>
+    <string name="native_06083621a6ce" formatted="false">Kunde inte slutföra att spara aktivitetsposten. Nästa lansering kommer att behandla detta som ett avbrott.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop körs</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Skrivbordsdrift tog timeout. Granska loggen och försök igen.</string>
+    <string name="native_e70d328a3ca9">Desktop-processen avslutades (%1$s). Granska aktivitetsloggen.</string>
+    <string name="native_df5c878f2852" formatted="false">Lokal grafisk arbetsyta</string>
+    <string name="native_7b0455a8daa4" formatted="false">Stoppa skrivbordet</string>
+    <string name="native_a62123cde9c7" formatted="false">Avbrutna uppgifter och återställning</string>
+    <string name="native_279308947a14" formatted="false">Kan inte läsa aktivitetsposten. Repair bevarar en kopia av den skadade posten och bevarar projekt, sessioner och Linux-miljön.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Reparationsaktivitetsrekord</string>
+    <string name="native_6b43650c2c82" formatted="false">Uppgiften slutade oväntat.</string>
+    <string name="native_acb0c970aaa6">%1$s terminaler stängdes inte normalt. Deras körkommandon avbröts.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Omstart bekräftad. Tidigare kommandon spelades inte upp igen.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Sparade projekt och sessioner behålls. Öppna terminalerna igen manuellt; oavslutade kommandon återupptas inte automatiskt.</string>
+    <string name="native_fa9669296762" formatted="false">Starta om OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Skrivbordet startar inte om automatiskt. Starta den igen från skrivbordssidan.</string>
+    <string name="native_644f8f44251f" formatted="false">Öppna filen</string>
+    <string name="native_9dfb5569d609" formatted="false">Dela fil</string>
+    <string name="native_a4500cff3a86" formatted="false">Arbetskatalogen får inte vara en symbolisk länk</string>
+    <string name="native_8657d27661bd" formatted="false">Ogiltig sökväg till arbetskatalogen</string>
+    <string name="native_02b702a9adff" formatted="false">Välj en fil</string>
+    <string name="native_924874b746cc" formatted="false">Hantera symboliska länkar i terminalen</string>
+    <string name="native_efea6e422a54" formatted="false">Ogiltigt filnamn</string>
+    <string name="native_c4989dc37aab" formatted="false">Katalog finns inte</string>
+    <string name="native_d613dba39b44" formatted="false">Destinationskatalogen finns inte</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Kan inte placera en mapp i sig själv eller dess avkomlingar</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projektet innehåller speciella enheter eller uttag och kan inte kopieras</string>
+    <string name="native_6c36955b068b" formatted="false">Välj en vanlig fil</string>
+    <string name="native_49191d7d489f" formatted="false">Den här filen överstiger 2 MB. Redigera den med OpenCode eller terminalen.</string>
+    <string name="native_ee42414d36c2" formatted="false">Filen är för stor</string>
+    <string name="native_f0a979f87157" formatted="false">Exportera binära filer för att öppna dem i en annan app</string>
+    <string name="native_88a9c82651fc" formatted="false">Redigera filer som inte är UTF-8 med OpenCode eller terminalen</string>
+    <string name="native_0189a5c3418c" formatted="false">Ett annat verktyg ändrade den här filen. Öppna den igen innan du redigerar.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Den ursprungliga katalogen finns inte längre. Återställ det först.</string>
+    <string name="native_46eae321049e" formatted="false">Ingen delningsapp är tillgänglig</string>
+    <string name="native_87d699d3a26c" formatted="false">Papperskorgen</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projektfiler</string>
+    <string name="native_4dcf914f0b64" formatted="false">Raderade filer kan återställas till sina ursprungliga kataloger</string>
+    <string name="native_c5b81b02354f" formatted="false">Baksida</string>
+    <string name="native_e56b99379169">Kopierade %1$s filer · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopierar...</string>
+    <string name="native_85199bb36b04" formatted="false">Avbryt operation</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Stäng</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Ny session</string>
+    <string name="native_23c250cc8e0b" formatted="false">Starta en OpenCode-session här</string>
+    <string name="native_f22da21fd54f" formatted="false">terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Osparade ändringar</string>
+    <string name="native_2266227605c4" formatted="false">Spara</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Papperskorgen är tom</string>
+    <string name="native_a9e739b13e52" formatted="false">Återställ</string>
+    <string name="native_45985dc2183e" formatted="false">Flytta:</string>
+    <string name="native_31214130b5b7" formatted="false">Kopia:</string>
+    <string name="native_07e5c3158f35" formatted="false">Klistra in</string>
+    <string name="native_831b4e0fb574" formatted="false">Ny</string>
+    <string name="native_ff65a22d7087" formatted="false">Ny mapp</string>
+    <string name="native_71faed44a86c" formatted="false">Ny fil</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Uppdatera</string>
+    <string name="native_ac9d73843736" formatted="false">Sök i den här katalogen</string>
+    <string name="native_21eef82963ee" formatted="false">Denna katalog är tom. Importera filer eller skapa ett projekt.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Inga matchande filer</string>
+    <string name="native_d674bc0f86b8" formatted="false">Filåtgärder</string>
+    <string name="native_d04a47c87cc8" formatted="false">Symbolisk länk</string>
+    <string name="native_e0ba66f5246a" formatted="false">mapp</string>
+    <string name="native_f170b42599e8" formatted="false">Byt namn</string>
+    <string name="native_4cdacf57ead2" formatted="false">kopia</string>
+    <string name="native_124aa030694e" formatted="false">Flytta till...</string>
+    <string name="native_ac990518ed87" formatted="false">Öppna terminalen här</string>
+    <string name="native_87bc93932d8a" formatted="false">Exportera till systemfiler</string>
+    <string name="native_dd37f132172f" formatted="false">Flytta till papperskorgen</string>
+    <string name="native_7318746d337c" formatted="false">Flytta till papperskorgen?</string>
+    <string name="native_2b5ee3f10a56">Du kan återställa \"%1$s\" från papperskorgen.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Flytta</string>
+    <string name="native_4e47aaa113fc" formatted="false">Kasta osparade ändringar?</string>
+    <string name="native_63b75399ef1a" formatted="false">Kasta ändringar</string>
+    <string name="native_d9618f7b8d25" formatted="false">Fortsätt redigera</string>
+    <string name="native_76ce6aef5479" formatted="false">Namn</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Miljö återställd. Öppna arbetsytan igen.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Avsluta återställningen av den avbrutna operationen i Runtime först</string>
+    <string name="native_f29af06e7c99" formatted="false">Miljöunderhåll pågår. Försök igen senare.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operation avbruten</string>
+    <string name="native_c508721eb3cd" formatted="false">En fil med detta namn finns redan. Välj ett annat namn.</string>
+    <string name="native_1e8274fe468a" formatted="false">Filen finns inte längre. Uppdatera katalogen.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Filåtkomstbehörighet nekad</string>
+    <string name="native_cd808e4c321e" formatted="false">Kunde inte slutföra åtgärden</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Drift ofullständig. Kontrollera tillgängligt lagringsutrymme eller välj filerna igen.</string>
+    <string name="native_3f9983126fd7" formatted="false">Kontrollera OpenCode-startstatusen i Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Kunde inte öppna en ny terminal. Kontrollera antalet sessioner.</string>
+    <string name="native_2160fde3813a" formatted="false">Hantera symboliska länkar i terminalen. Filhanteraren följer inte länkar.</string>
+    <string name="native_7a844e9d4017" formatted="false">Flytten slutförd</string>
+    <string name="native_573877894fcf" formatted="false">Kopian klar</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Flyttad till papperskorgen</string>
+    <string name="native_862330af933f" formatted="false">Återställd till den ursprungliga katalogen</string>
+    <string name="native_beda23c9d52b" formatted="false">Miljöunderhåll eller utbyte har inträffat. Öppna arbetsytan igen innan du redigerar.</string>
+    <string name="native_678c6953bb2b" formatted="false">sparad</string>
+    <string name="native_8063159f2178" formatted="false">Kan inte läsa den valda filen</string>
+    <string name="native_4cdc2180d2ac">Importerade %1$s filer</string>
+    <string name="native_e98763643b93" formatted="false">Kan inte skriva till den valda platsen</string>
+    <string name="native_5afd173be7fa" formatted="false">Export klar</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kod och sessioner</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafisk arbetsyta</string>
+    <string name="native_770d49c5f689" formatted="false">filer</string>
+    <string name="native_6a9b6480b58f" formatted="false">Körtid</string>
+    <string name="native_b561fe9204cc" formatted="false">Tjänster och utvecklarverktyg</string>
+    <string name="native_70850bdeeabd" formatted="false">Stäng sidmenyn</string>
+    <string name="native_b4549acb48e8" formatted="false">Arbetsyta</string>
+    <string name="native_3d3551f4660f">Opacitet för flytande knapp %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Lägre värden gör den flytande knappen mer transparent</string>
+    <string name="native_e031beabfc9a" formatted="false">Öppna sidmenyn</string>
+    <string name="native_106ee775b538" formatted="false">Ansluter till lokal OpenCode...</string>
+    <string name="native_a021adc1f449" formatted="false">Lokal anslutning behöver återställas</string>
+    <string name="native_dacb8837471c" formatted="false">Återanslut</string>
+    <string name="native_17584aa60ae6" formatted="false">Det gick inte att förbereda den lokala resurscachen</string>
+    <string name="native_3b3b80064ccb" formatted="false">Förbereder lokal OpenCode...</string>
+    <string name="native_2560ee8fdd16" formatted="false">Försök igen</string>
+    <string name="native_b07809340403" formatted="false">Arbetsytans plats har inte sparats ännu. Försök igen senare.</string>
+    <string name="native_e4ab10392d05" formatted="false">Den lokala tjänsten gör sig redo. Din arbetsyta öppnas automatiskt när den är ansluten.</string>
+    <string name="native_20ea15973287" formatted="false">Den föregående körningen avbröts. Starta om från Runtime; terminalkommandon kommer inte att spelas upp automatiskt.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Starta OpenCode från Runtime för att öppna kod och sessioner.</string>
+    <string name="native_abbac5c22111" formatted="false">Avsluta appen?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Utvecklingsmiljön kan fortsätta köras i bakgrunden. Återkom senare från aviseringen.</string>
+    <string name="native_814a8fb24b62" formatted="false">Avsluta den aktuella arbetsytan?</string>
+    <string name="native_a76464945c2d" formatted="false">Stoppa också utvecklingsmiljön</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Avsluta</string>
+    <string name="native_b00143b08ff1" formatted="false">Utvecklingsarbetsstation klar</string>
+    <string name="native_51bca456a350" formatted="false">Din Debians utvecklingsarbetsstation</string>
+    <string name="native_0c2acd0b6057" formatted="false">Kör</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Startar</string>
+    <string name="native_44da7f6a451d" formatted="false">Stoppar</string>
+    <string name="native_b7e1503a7239" formatted="false">Reparera utvecklingsmiljö</string>
+    <string name="native_7c91bd67ff14" formatted="false">Installera utvecklingsmiljö</string>
+    <string name="native_cfd73bb04860" formatted="false">Stoppmiljö</string>
+    <string name="native_e7ec95694dce" formatted="false">Starta OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Kontrollera miljön</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Uppdatera Debians utvecklarverktyg</string>
+    <string name="native_c114ec62712b" formatted="false">Tidigare miljösäkerhetskopiering, projekt och sessionsdata behålls.</string>
+    <string name="native_eb3114155716" formatted="false">Installera / uppdatera språkservrar</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) och Python (pylsp), installerade online från signerade Debianförråd. Stoppa OpenCode och skrivbordet först.</string>
+    <string name="native_2c7251cce661" formatted="false">Tryck på den flytande knappen för att byta sida. Dra den för att flytta den.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime-information visas här efter uppstart.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Öppen körtid</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Bunted APK-version</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode-uppdateringar</string>
+    <string name="native_36ab16248f65" formatted="false">Importera en .ocaupdate signerad av den här appens utgivare. Den officiella frontend- och backenduppdateringen tillsammans.</string>
+    <string name="native_8aad48b0508d" formatted="false">Uppdateringskälla (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Kontrollera uppdateringskällan</string>
+    <string name="native_f73973cfadbb">Signerad release: %1$s\nCommit: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Ladda ner och verifiera</string>
+    <string name="native_f2ef7965bf12" formatted="false">Välj uppdateringspaket</string>
+    <string name="native_165111adfe2c">Klar att installera: %1$s\nCommit: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Installera den här uppdateringen</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Återställ versionen och sessionerna från före uppdateringen</string>
+    <string name="native_6864335de653" formatted="false">Avbryt uppdatering</string>
+    <string name="native_5e3472cf084e" formatted="false">Installera OpenCode-uppdatering?</string>
+    <string name="native_816bf3635d53" formatted="false">Återställa tillståndet från före uppdateringen?</string>
+    <string name="native_11beb4a42abc">Installera %1$s. Appen sparar en ögonblicksbild av sessionen, kontrollerar det signerade programmet och återställer den tidigare versionen om den misslyckas. Projektfiler behålls.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessioner återgår till sitt tillstånd före denna uppdatering. Senare sessioner finns kvar i en privat säkerhetskopia. Projektfiler behålls.</string>
+    <string name="native_def5e273616d" formatted="false">Bekräfta installationen</string>
+    <string name="native_369d2eefccde" formatted="false">Det gick inte att isolera förhandsgranskningswebbläsardata. Öppna förhandsgranskningen igen.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Det gick inte att ladda projektsidan. Kontrollera utvecklingsservern i din terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">Förhandsgranska projektets webbplats</string>
+    <string name="native_bfb4951e071d" formatted="false">Projektförhandsvisning</string>
+    <string name="native_f80652913d06" formatted="false">Starta en utvecklingsserver i terminalen och ange sedan dess lokala port. Förhandsgranskningswebbläsardata är isolerade från OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">-port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Ange en utvecklingsport från 1024 till 65535, exklusive OpenCode och stationära tjänster.</string>
+    <string name="native_7311a9dfea51" formatted="false">Ingenting lyssnar på den här porten. Kontrollera tjänsten i din terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">Kontrollerar...</string>
+    <string name="native_4923c272b68e" formatted="false">Utvecklingsporten måste vara ett heltal</string>
+    <string name="native_04a87026e81f" formatted="false">Välj en giltig projektutvecklingsport</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode-utvecklingssession</string>
+    <string name="native_e87a4529ab82" formatted="false">Installation av utvecklingsmiljö</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian-uppdatering</string>
+    <string name="native_0c6301bc295d" formatted="false">Reparation av utvecklingsmiljö</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Utvecklingsmiljökontroll</string>
+    <string name="native_9612d4419bb6" formatted="false">Språkserverinstallation</string>
+    <string name="native_f72fba77f87a" formatted="false">Miljöåterställning</string>
+    <string name="native_7c8162195c7c" formatted="false">Desktopinstallation</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Den föregående körningen avbröts. Starta om explicit från Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">En utvecklingsuppgift av denna typ pågår fortfarande</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Reparerar aktivitetsposten</string>
+    <string name="native_b66749ed72ea" formatted="false">Processen avslutad</string>
+    <string name="native_6b25042064e2" formatted="false">Avslutas av signal</string>
+    <string name="native_d6febdf1752b" formatted="false">Återvunnen på grund av lågt minne</string>
+    <string name="native_1d13790f3c89" formatted="false">App kraschar</string>
+    <string name="native_28db94d1850d" formatted="false">Inbyggd processkrasch</string>
+    <string name="native_86919539f7f1" formatted="false">App svarar inte</string>
+    <string name="native_90fb8d6098a5" formatted="false">Initiering misslyckades</string>
+    <string name="native_38c60ab6654c" formatted="false">Behörigheter har ändrats</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resursgräns</string>
+    <string name="native_19b2090b01a8" formatted="false">Användaren begärde stopp</string>
+    <string name="native_120d96445f1a" formatted="false">Stoppas av användare</string>
+    <string name="native_3c8af14f66bc" formatted="false">Beroende process avslutad</string>
+    <string name="native_ca0941ce04ae" formatted="false">Annan systemorsak</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Processfrysning</string>
+    <string name="native_0d48373023a8" formatted="false">Apptillstånd har ändrats</string>
+    <string name="native_c752307db26b" formatted="false">Appuppdatering</string>
+    <string name="native_b5015951cbdf" formatted="false">Systemet angav inte något utgångsskäl</string>
+    <string name="native_b62737b826ad">Systemavslut (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Kunde inte öppna projektkatalogen</string>
+    <string name="native_faf5d983c13e" formatted="false">Det gick inte att skapa en OpenCode-session</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode-sessionskatalogen matchar inte</string>
+    <string name="native_ac19736908a2" formatted="false">Kunde inte läsa OpenCode-sessionen</string>
+    <string name="native_2642997cfeec" formatted="false">Miljöunderhåll</string>
+    <string name="native_f992d735d932" formatted="false">Stoppa OpenCode, terminaler och Debian-skrivbordet, vänta sedan på att filoperationerna ska avslutas</string>
+    <string name="native_489f137f1080" formatted="false">Miljöunderhållslåset är inte längre giltigt</string>
+    <string name="native_42380e2567fc" formatted="false">Avbruten operation återställd. Öppna arbetsytan igen.</string>
+    <string name="native_17b00cac2b91" formatted="false">Återställning av lokal anslutning misslyckades. Försök igen från Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Miljöunderhåll pågår. Försök igen senare.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Stoppa Debians skrivbord innan du uppdaterar utvecklingsmiljön</string>
+    <string name="native_548085b144c9" formatted="false">Avbruten operation återställd. Du kan starta utvecklingsmiljön.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Den föregående körningen avbröts. Terminalkommandon spelas inte upp automatiskt. Starta om explicit från Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Rensning av temporär anslutningskonfiguration är ofullständig. Processsaneringen fortsatte.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Det gick inte att skapa helloworld-arbetsytan. Kontrollera katalogen och tillgängligt utrymme.</string>
+    <string name="native_68301868225a" formatted="false">Den tidigare arbetsytans katalog är inte tillgänglig. Öppnade helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Standardprojektet är inte klart ännu. Försök igen från filer.</string>
+    <string name="native_45d6ab452622" formatted="false">Installera språkservrar</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ och Python-språkservrar är klara. Starta OpenCode för att använda LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Terminalaktivitetsposten sparades inte. Skapa en ny terminal efter avslutad process.</string>
+    <string name="native_1978b311a9ff" formatted="false">Det gick inte att slutföra lagringen av terminalutgångsposten.\nLadda ner</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode-uppdatering</string>
+    <string name="native_06f76cca8fb9" formatted="false">Ansluter till uppdateringskällan...</string>
+    <string name="native_8c39baf28e08" formatted="false">Kan inte ansluta till uppdateringskällan. Kontrollera nätverket, utgivarens signatur, värdversion och ledigt utrymme.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Nedladdningen tog timeout</string>
+    <string name="native_f75850093535">Nedladdning: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Verifierar utgivarens signatur...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Laddar ner uppdateringspaket...</string>
+    <string name="native_2f9cd52dc66a">Giltig utgivaresignatur: %1$s. Granska innan du laddar ner.</string>
+    <string name="native_17548865632c" formatted="false">Ladda ner, släpp metadata och paketsignatur verifierad. Bekräfta installationen.</string>
+    <string name="native_180cec958e7a" formatted="false">Nedladdning avbruten. Originalversionen bibehålls.</string>
+    <string name="native_8df045f8ac12" formatted="false">Nedladdning stoppad. Originalversionen bibehålls.</string>
+    <string name="native_778803f1c6bb" formatted="false">Avbryt nedladdning</string>
+    <string name="native_2958898ce6f4" formatted="false">Den nya versionen misslyckades med lokal start, versions- eller autentiseringskontroller. Den tidigare versionen kommer att återställas.</string>
+    <string name="native_cc876dfbb261" formatted="false">Testprocessen avslutas fortfarande. Vänta på återhämtning innan du försöker igen.</string>
+    <string name="native_adf977dcb47e" formatted="false">Ogiltig uppdateringspostidentifierare</string>
+    <string name="native_5207cac670b7" formatted="false">Installerad fristående OpenCode-storlek matchar inte</string>
+    <string name="native_cf5b81887589" formatted="false">Installerad fristående OpenCode-kontrollsumma matchar inte. Återställ den tidigare versionen.</string>
+    <string name="native_393049b506cc" formatted="false">Det ursprungliga programmet har inget matchande utgivarbevis. Tidigare tillstånd oförändrat.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Återställ den tidigare avbrutna uppdateringen först</string>
+    <string name="native_91d8da5525fa" formatted="false">Uppdateringspaketet ändrades efter bekräftelse</string>
+    <string name="native_093f2c091a30" formatted="false">Otillräckligt lagringsutrymme. Originalversionen oförändrad.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Ingen uppdateringssäkerhetskopia är tillgänglig att återställa</string>
+    <string name="native_a9f4d9903c14" formatted="false">Säkerhetskopieringen matchar inte versionen som körs</string>
+    <string name="native_6caa23763a42" formatted="false">Tidigare programverifiering misslyckades. Aktuella sessioner oförändrade.</string>
+    <string name="native_c8b71b876695" formatted="false">En senare APK- eller Debianuppdatering ersatte det medföljande programmet. Den ursprungliga sessionsbackupen behålls; återställ motsvarande program först.</string>
+    <string name="native_c443df40964b" formatted="false">Ogiltig återställningsåtgärd för uppdatering</string>
+    <string name="native_9071f05d58b3" formatted="false">Förbereder OpenCode-uppdatering...</string>
+    <string name="native_2968d4dfdc70" formatted="false">Stoppa OpenCode, terminaler och skrivbordet och vänta sedan tills de avslutas.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Sparar tillstånd, verifierar program och byter version</string>
+    <string name="native_5fc065ef6f50" formatted="false">Kunde inte starta uppdateringsunderhållstjänsten.</string>
+    <string name="native_f7b560c8c820" formatted="false">Verifierar och iscensätter det officiella programmet...</string>
+    <string name="native_9606191c82dc" formatted="false">Bevarar det ursprungliga programmet och utgivarens signatur...</string>
+    <string name="native_5c0d7787ee51" formatted="false">Sparar ögonblicksbild av sessionstillstånd...</string>
+    <string name="native_0c8cf4632889" formatted="false">Byter version och verifierar den lokala tjänsten...</string>
+    <string name="native_3e81ea691a4a" formatted="false">Återställer versionen och sessionerna från före uppdateringen...</string>
+    <string name="native_856de41d3bf3" formatted="false">Återställer OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Uppdaterar OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Återställde den tidigare versionen och sessionerna. Senare sessioner finns kvar i en privat säkerhetskopia.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode-uppdatering slutförd. Startup kommer att använda den matchande officiella frontend och backend.</string>
+    <string name="native_4693930f5802" formatted="false">Uppdatering avbröts. Bekräftar att det ursprungliga tillståndet har återställts.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Uppdatering ofullständig. Återhämtar sig nu; ursprungliga program- och sessionssäkerhetskopior behålls.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Återställning är ofullständig. Alla statliga kataloger behålls. Behåll dina data och försök starta om för att återställa.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Sessionsåterställning slutförd. Senare tillstånd finns kvar i en säkerhetskopia.</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery kunde inte fortsätta med denna säkerhetskopia eller originalprogrammet. Aktuella sessioner och säkerhetskopior oförändrade.</string>
+    <string name="native_976d8c169cfa" formatted="false">Uppdateringen avbröts eller misslyckades. Originalversion och sessioner återställda.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Verifierar uppdateringspaketets signatur och integritet...</string>
+    <string name="native_0aa018b7337b" formatted="false">Kan inte läsa den valda filen</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Uppdateringspaketet är för stort</string>
+    <string name="native_f068b83f40bf" formatted="false">Signatur och paket verifierat. Granska versionen innan du installerar.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Kan inte importera: ogiltig fil, signaturfel matchar, inkompatibel värdversion eller otillräckligt lagringsutrymme.</string>
+    <string name="native_616412e65df4" formatted="false">Det officiella programmet stämmer inte överens med dess utgivarbevis</string>
+    <string name="native_4bf19a158f27" formatted="false">Fristående runtime-paket stöder endast ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Uppdateringssignaturen tillhör inte denna APK</string>
+    <string name="native_c7273354727f" formatted="false">Uppdateringsfilen överskrider den deklarerade storleken</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Uppdateringsprogrammets kontrollsumma matchar inte</string>
+    <string name="native_dd619076d456" formatted="false">Ogiltig uppdateringspaketstorlek</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Storleken på komprimerad uppdateringspaket matchar inte</string>
+    <string name="native_1de24edffcf5" formatted="false">Uppdateringspaketet innehåller extra poster</string>
+    <string name="native_c5b339aa77e8" formatted="false">Inkompatibelt uppdateringsursprung eller arkitektur</string>
+    <string name="native_89d585f3661f" formatted="false">Uppgradera Android-appen innan du installerar den här uppdateringen</string>
+    <string name="native_800df084dea0" formatted="false">Uppdatera arkivkontrollsumman matchar inte</string>
+    <string name="native_ddf1a005e310" formatted="false">Det här APK-signeringsformatet stöder inte fristående körtidsuppdateringar</string>
+    <string name="native_172e063db474" formatted="false">Ogiltig post för uppdateringspaket</string>
+    <string name="native_1c08780aa99f" formatted="false">Uppdateringsmetadata måste använda heltal</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Uppdateringsprogrammet är inte en 64-bitars Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Uppdateringsprogrammet uppfyller inte 16 KiB ELF-justering</string>
+    <string name="native_3afa3741911b" formatted="false">Uppdateringsprogrammet saknar Debian glibc loader</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Ange en giltig HTTPS-uppdateringskälla</string>
+    <string name="native_c274c7dd5900" formatted="false">Uppdateringskällor kräver HTTPS-URL:er utan användaruppgifter</string>
+    <string name="native_f459f5ec9dac" formatted="false">Ogiltigt fält för uppdateringskälla</string>
+    <string name="native_bde2a736e30a" formatted="false">Uppgradera Android-värden först</string>
+    <string name="native_b980fd021bef" formatted="false">Ogiltig uppdateringskatalog</string>
+    <string name="native_c0e96727553e" formatted="false">Ogiltig uppdateringsfil</string>
+    <string name="native_86ff542c68ed" formatted="false">Kan inte byta uppdateringskataloger i detta tillstånd</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Sessionstillstånd hänvisar till en extern katalog. Uppdateringen kan inte testas säkert.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Otillräckligt lagringsutrymme. Ursprungligt tillstånd oförändrat.</string>
+    <string name="native_099801d672b1" formatted="false">Nedladdningen avbröts</string>
+    <string name="native_f1304f707ec9" formatted="false">För många uppdateringsomdirigeringar</string>
+    <string name="native_0d07f458b607" formatted="false">Uppdateringsservern överförde inte de ursprungliga byten</string>
+    <string name="native_de331dfd8908" formatted="false">Uppdateringsfilens längd matchar inte</string>
+    <string name="native_416b8c87e69e" formatted="false">Uppdateringsfilen laddades inte ned helt</string>
+    <string name="native_e1e74b76c427" formatted="false">Uppdateringsservern returnerade inte hela filen</string>
+    <string name="native_6afcf03cb130" formatted="false">Otillräckligt lagringsutrymme för uppdatering</string>
+    <string name="native_be1c695d9241" formatted="false">Uppdateringsfil SHA-256 matchar inte</string>
+    <string name="native_a0133d117bb0" formatted="false">Uppdateringspaketet matchar inte den bekräftade versionsinformationen</string>
+    <string name="native_8635a43ce28a" formatted="false">Ogiltig projektkatalog</string>
+    <string name="native_d32ab8b004e6" formatted="false">Det gick inte att spara arbetsytans plats</string>
+    <string name="native_43a5447014fd" formatted="false">Starta utvecklingsmiljön från Runtime innan du öppnar en terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Ny terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Stäng ström</string>
+    <string name="native_0e822affd5da">Inledande katalog: %1$s</string>
+    <string name="native_72d769e3888d">Ny terminalkatalog: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Systemfilväljaren är inte tillgänglig</string>
+    <string name="native_179a57921f91" formatted="false">WebView-renderingsinställningar</string>
+    <string name="native_3024ec603eb7" formatted="false">Bildfrekvens för rendering</string>
+    <string name="native_55b6d7f645f3" formatted="false">Föredrar 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Följ skärmens uppdateringsfrekvens</string>
+    <string name="native_d4ecf38c341d" formatted="false">Föredrar 60 Hz för att minska renderingsbelastningen på skärmar med hög uppdateringsfrekvens. Efter displayen kan systemet schemalägga ramar. Gäller endast för den här appens fönster.</string>
+    <string name="native_bf0d3a407418" formatted="false">Ej installerat</string>
+    <string name="native_2fb8edc75b25" formatted="false">Klar</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Verifierande lastare</string>
+    <string name="native_d1017c1eac80" formatted="false">Installerar Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Lokal utvecklingsmiljö</string>
+    <string name="native_55aa84065de2" formatted="false">Lokal Debian-utvecklingssession</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stopp</string>
+    <string name="native_5f73a4e1e494" formatted="false">installerad</string>
+    <string name="native_147e90d2ec02" formatted="false">Återställer</string>
+</resources>

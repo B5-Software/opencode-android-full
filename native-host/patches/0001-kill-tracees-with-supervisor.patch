@@ -1,0 +1,32 @@
+From: OpenCode Android Full contributors
+Subject: [PATCH] Keep all guest tasks attached to the supervisor lifetime
+
+PRoot's --kill-on-exit handler cannot run when Android or the host sends
+SIGKILL. Interactive shells and their foreground jobs may use different
+process groups, so killing only the tracer's group can leave tasks behind.
+Android 10+ kernels support PTRACE_O_EXITKILL (Linux 3.8+). Set it for every
+initial tracee; the kernel inherits this option for traced fork/clone tasks.
+
+--- a/src/tracee/event.c
++++ b/src/tracee/event.c
+@@ -53,6 +53,10 @@
+ #include "attribute.h"
+ #include "compat.h"
+ 
++#ifndef PTRACE_O_EXITKILL
++#define PTRACE_O_EXITKILL 0x00100000
++#endif
++
+ static bool seccomp_after_ptrace_enter = false;
+ static bool seccomp_ptrace_event_supported = false;
+ 
+@@ -547,7 +551,8 @@
+ 				PTRACE_O_TRACEVFORKDONE	|
+ 				PTRACE_O_TRACEEXEC	|
+ 				PTRACE_O_TRACECLONE	|
+-				PTRACE_O_TRACEEXIT);
++				PTRACE_O_TRACEEXIT	|
++				PTRACE_O_EXITKILL);
+ 
+ 			/* Distinguish some events from others and
+ 			 * automatically trace each new process with

@@ -1,0 +1,11 @@
+<resources>
+    <color name="workspace_background">#f7faf7</color>
+    <style name="Theme.OpenCodeAndroid" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:isLightTheme">true</item>
+        <item name="android:windowBackground">@color/workspace_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:colorAccent">#276749</item>
+    </style>
+</resources>

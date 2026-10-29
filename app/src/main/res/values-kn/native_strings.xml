@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಸ್ಥಳ</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + ಡೆಸ್ಕ್‌ಟಾಪ್</string>
+    <string name="native_7f1c02616d60" formatted="false">ಏಕ ಪುಟ</string>
+    <string name="native_651ae6ea52ae" formatted="false">ವಿಭಜಿತ ವೀಕ್ಷಣೆಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_d7e97cfac66f" formatted="false">ವರ್ಕ್‌ಸ್ಪೇಸ್ ಲೇಔಟ್</string>
+    <string name="native_2a03e2ed30f9" formatted="false">ಬಹು ಫಲಕಗಳನ್ನು ಒಟ್ಟಿಗೆ ವೀಕ್ಷಿಸಲು ವಿಂಡೋವನ್ನು ವಿಸ್ತರಿಸಿ.</string>
+    <string name="native_e792dd4cfa78" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್‌ಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="native_712d956931d1" formatted="false">ಶೋ ಟರ್ಮಿನಲ್\nಕೆಳಗೆ</string>
+    <string name="native_073cc20d9ed9" formatted="false">ಟರ್ಮಿನಲ್\nಬಲಭಾಗದಲ್ಲಿ</string>
+    <string name="native_5de225480fa7" formatted="false">ಟರ್ಮಿನಲ್</string>
+    <string name="native_35cdb3eacdc6" formatted="false">ಸ್ಥಳಾವಕಾಶ ಸೀಮಿತವಾದಾಗ ಪ್ಯಾನೆಲ್‌ಗಳು ಕುಸಿಯುತ್ತವೆ ಮತ್ತು ತೇಲುವ ಮೆನುವಿನಿಂದ ಪ್ರವೇಶಿಸಬಹುದಾಗಿದೆ. ಸೈಡ್ ಟರ್ಮಿನಲ್ ವಿಶಾಲವಾದ ಕಿಟಕಿಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಪ್ಯಾನೆಲ್‌ಗಳನ್ನು ಮರುಗಾತ್ರಗೊಳಿಸಲು ವಿಭಾಜಕಗಳನ್ನು ಎಳೆಯಿರಿ.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + ಎಡ Alt: 1–5 ಪುಟಗಳು · B ಫೈಲ್‌ಗಳು · T ಟರ್ಮಿನಲ್ · M ಡೆಸ್ಕ್‌ಟಾಪ್ · ಸಿಂಗಲ್/ಸ್ಪ್ಲಿಟ್ ನಮೂದಿಸಿ · \\\\ ಲೇಔಟ್</string>
+    <string name="native_7a129a94c6ff" formatted="false">ಮುಗಿದಿದೆ</string>
+    <string name="native_bcec2218fc21" formatted="false">ಅನುಪಾತಗಳನ್ನು ಮರುಹೊಂದಿಸಿ</string>
+    <string name="native_da88c62d1217">ಒಂದೇ ಪುಟದಲ್ಲಿ %1$s ತೋರಿಸಿ</string>
+    <string name="native_1b4b3afbe52d" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್‌ಗಳ ವಿಭಾಜಕ</string>
+    <string name="native_707c0891a0e6" formatted="false">ಟರ್ಮಿನಲ್ ವಿಭಾಜಕ</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್ ವಿಭಾಜಕ</string>
+    <string name="native_50407ad8dfa8" formatted="false">ಹಿಂದಿನ ಫಲಕವನ್ನು ಕುಗ್ಗಿಸಿ</string>
+    <string name="native_b72c5c02a666" formatted="false">ಹಿಂದಿನ ಫಲಕವನ್ನು ಹಿಗ್ಗಿಸಿ</string>
+    <string name="native_3f3685e8d731" formatted="false">ಈ ಆರ್ಕೈವ್ ಫಾರ್ಮ್ಯಾಟ್‌ಗಾಗಿ ಹಲವಾರು PRoot ಲಿಂಕ್‌ಗಳು</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux ಹಾರ್ಡ್ ಲಿಂಕ್‌ಗಳಿಗೆ ಸಂಪೂರ್ಣ rootfs ಅಗತ್ಯವಿದೆ</string>
+    <string name="native_f336f1e17596" formatted="false">ಬ್ಯಾಕಪ್ ಡೈರೆಕ್ಟರಿ ನೆಸ್ಟಿಂಗ್ ತುಂಬಾ ಆಳವಾಗಿದೆ</string>
+    <string name="native_b6f744737a45" formatted="false">ಅಮಾನ್ಯ ಬ್ಯಾಕಪ್ ಪಾಸ್‌ವರ್ಡ್ ಉದ್ದ</string>
+    <string name="native_13bde5dd1812" formatted="false">ಬ್ಯಾಕಪ್ ಪಾಸ್‌ವರ್ಡ್ ಕನಿಷ್ಠ 12 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು</string>
+    <string name="native_be02cbd55932" formatted="false">ಬೆಂಬಲಿಸದ ಬ್ಯಾಕಪ್ ಫಾರ್ಮ್ಯಾಟ್</string>
+    <string name="native_7a91a3d586ae" formatted="false">ಅಮಾನ್ಯ ಬ್ಯಾಕಪ್ ಹೆಡರ್</string>
+    <string name="native_2bbd318a5667" formatted="false">ಬೆಂಬಲಿಸದ ಬ್ಯಾಕಪ್ ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಪ್ಯಾರಾಮೀಟರ್‌ಗಳು</string>
+    <string name="native_18868da27841" formatted="false">ತಪ್ಪಾದ ಬ್ಯಾಕಪ್ ಪಾಸ್‌ವರ್ಡ್ ಅಥವಾ ಹಾನಿಗೊಳಗಾದ ಫೈಲ್</string>
+    <string name="native_e41d6440468d" formatted="false">ರಿಕವರಿ ರೆಕಾರ್ಡ್ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ</string>
+    <string name="native_282692502f14" formatted="false">ಬ್ಯಾಕಪ್ ಮೆಟಾಡೇಟಾ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ</string>
+    <string name="native_61fdca8d6c82" formatted="false">ಬ್ಯಾಕಪ್ ಮೆಟಾಡೇಟಾ ಗೂಡುಕಟ್ಟುವಿಕೆ ತುಂಬಾ ಆಳವಾಗಿದೆ</string>
+    <string name="native_8cefb30732d4" formatted="false">ಅಮಾನ್ಯ ಬ್ಯಾಕಪ್ ಮೆಟಾಡೇಟಾ</string>
+    <string name="native_5d3037708cad" formatted="false">ಬೆಂಬಲಿಸದ ಸ್ಥಳೀಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="native_81a57c382f9d" formatted="false">ಸ್ಥಳೀಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_50603e683d4a" formatted="false">ಬ್ಯಾಕಪ್ ಪಥದಲ್ಲಿ ಅಮಾನ್ಯವಾದ ಮೂಲ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="native_c3f838a46b8e" formatted="false">ವರ್ಕ್‌ಸ್ಟೇಷನ್ ಮೂಲವು ಸಾಂಕೇತಿಕ ಲಿಂಕ್ ಆಗಿರಬಾರದು</string>
+    <string name="native_9ddd2d8280c8" formatted="false">ಬ್ಯಾಕಪ್ ಸಮಯದಲ್ಲಿ ಫೈಲ್ ಬದಲಾಗಿದೆ</string>
+    <string name="native_77e1e85147db" formatted="false">ಬೆಂಬಲಿಸದ ಕಾರ್ಯಸ್ಥಳ ಡೇಟಾ ಸ್ವರೂಪ</string>
+    <string name="native_a927b5a565af" formatted="false">ಬ್ಯಾಕಪ್ ಹೆಚ್ಚುವರಿ ಡೇಟಾವನ್ನು ಒಳಗೊಂಡಿದೆ</string>
+    <string name="native_c2b886d508f2" formatted="false">ಬ್ಯಾಕಪ್ ನಕಲಿ ಮಾರ್ಗಗಳನ್ನು ಒಳಗೊಂಡಿದೆ</string>
+    <string name="native_3dab8cd60102" formatted="false">ಬ್ಯಾಕ್‌ಅಪ್ ರನ್‌ಟೈಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಹೊಂದಿದ್ದು ಅದನ್ನು ಸ್ಥಳಾಂತರಿಸಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_f45ba674a630" formatted="false">ಬ್ಯಾಕಪ್ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ ಅಥವಾ ಸಂಗ್ರಹಣೆ ಸಾಕಷ್ಟಿಲ್ಲ</string>
+    <string name="native_140073e8e77b" formatted="false">ಸಾಂಕೇತಿಕ ಲಿಂಕ್ ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_b0d411aaf62c" formatted="false">ಹೆಸರಿನ ಪೈಪ್ ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_0daee8026db1" formatted="false">ವರ್ಕ್‌ಸ್ಟೇಷನ್ ಬ್ಯಾಕಪ್ ಮತ್ತು ಮರುಸ್ಥಾಪನೆ</string>
+    <string name="native_1acc18928c5f" formatted="false">Debian, ಡೆವಲಪರ್ ಪರಿಕರಗಳು, ಯೋಜನೆಗಳು, ಮನೆ, OpenCode ಸೆಷನ್‌ಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು, Linux ಬ್ರೌಸರ್ ಡೇಟಾ ಮತ್ತು ಸ್ಥಳೀಯ ಲೇಔಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.</string>
+    <string name="native_62254d31a535" formatted="false">ತಾತ್ಕಾಲಿಕ ಫೈಲ್‌ಗಳು ಮತ್ತು ಹಳೆಯ ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ಹೊರತುಪಡಿಸಲಾಗಿದೆ. Android WebView ಸಂಗ್ರಹಣೆ ಮತ್ತು ಕಳುಹಿಸದ ಡ್ರಾಫ್ಟ್‌ಗಳು ಈ ಸಾಧನದಲ್ಲಿ ಉಳಿದಿವೆ ಮತ್ತು ಈ ಬ್ಯಾಕಪ್‌ನೊಂದಿಗೆ ವರ್ಗಾಯಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="native_808eabc7811f" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಬ್ಯಾಕಪ್ ರಚಿಸಿ</string>
+    <string name="native_201c10b38296" formatted="false">ಆಮದು ಬ್ಯಾಕಪ್</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ಮೊದಲು ಫೈಲ್ ಎಡಿಟರ್‌ನಲ್ಲಿ ಉಳಿಸಿ.</string>
+    <string name="native_0559cd596453" formatted="false">ನಿಲ್ಲಿಸಿ OpenCode, ಟರ್ಮಿನಲ್‌ಗಳು ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್</string>
+    <string name="native_fdf2be8e3b93" formatted="false">ಪರಿಸರ ಕಾರ್ಯಾಚರಣೆಯು ಅಪೂರ್ಣವಾಗಿದೆ. ಮೊದಲು ಅದನ್ನು ಹಿಂಪಡೆಯಿರಿ.</string>
+    <string name="native_185f58156330" formatted="false">ಅಪೂರ್ಣ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮರುಪಡೆಯಿರಿ</string>
+    <string name="native_20831b6f67a7" formatted="false">ಕೊನೆಯ ಪರಿಸರ ಮರುಸ್ಥಾಪನೆಯನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="native_4f392d5d6141">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಸ್ಥಳೀಯ ನಕಲು: %1$s</string>
+    <string name="native_80077c694212" formatted="false">ಫೈಲ್‌ಗೆ ಉಳಿಸಿ</string>
+    <string name="native_f09619351eb9" formatted="false">ಸ್ಥಳೀಯ ನಕಲನ್ನು ಅಳಿಸಿ</string>
+    <string name="native_85c686eb9841">%1$s ಸಂಸ್ಕರಿಸಲಾಗಿದೆ</string>
+    <string name="native_28d567b926cc" formatted="false">ಬ್ಯಾಕಪ್ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="native_66c9d896407b" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ವರ್ಕ್‌ಸ್ಟೇಷನ್ ಬ್ಯಾಕಪ್</string>
+    <string name="native_548cd9f0831e" formatted="false">ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಿ ಮತ್ತು ಬ್ಯಾಕಪ್ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="native_d248f5eca9a5" formatted="false">ಬ್ಯಾಕಪ್‌ಗಳು SSH ಖಾಸಗಿ ಕೀಗಳು, API ಕೀಗಳು ಮತ್ತು ಖಾತೆ ಡೇಟಾವನ್ನು ಒಳಗೊಂಡಿರಬಹುದು. ಕನಿಷ್ಠ 12 ಅಕ್ಷರಗಳನ್ನು ಬಳಸಿ. ಮರೆತುಹೋದ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಮರುಪಡೆಯಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="native_f249422b9ec1" formatted="false">ಬ್ಯಾಕಪ್ ಅನ್ನು ಖಾಸಗಿ ಡೈರೆಕ್ಟರಿಯಲ್ಲಿ ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ನೀವು ಮರುಸ್ಥಾಪನೆಯನ್ನು ಖಚಿತಪಡಿಸಿದ ನಂತರವೇ ನಿಮ್ಮ ಪರಿಸರವನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="native_e7be6841703a" formatted="false">ಬ್ಯಾಕಪ್ ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="native_9f6aeedc5a00" formatted="false">ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಪುನರಾವರ್ತಿಸಿ</string>
+    <string name="native_eafdc5cd4882" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="native_2986b88beade" formatted="false">ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಿ ಮತ್ತು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="native_0eddf4ad9b94" formatted="false">ರದ್ದು</string>
+    <string name="native_f46c5ed7412d" formatted="false">ಸಂಪೂರ್ಣ ಹಿಂದಿನ ಪರಿಸರವನ್ನು ಮರುಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="native_33eda0946a5b" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಸ್ಥಳೀಯ ನಕಲನ್ನು ಅಳಿಸುವುದೇ?</string>
+    <string name="native_26db24150f2e" formatted="false">ಪ್ರಾಜೆಕ್ಟ್‌ಗಳು, ಹೋಮ್, Debian ಮತ್ತು ಸೆಷನ್‌ಗಳು ಕೊನೆಯ ಮರುಸ್ಥಾಪನೆಯ ಮೊದಲು ಅವುಗಳ ಸ್ಥಿತಿಗೆ ಹಿಂತಿರುಗುತ್ತವೆ. ಇತ್ತೀಚಿನ ಕೆಲಸವು ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಖಾಸಗಿ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿಯುತ್ತದೆ.</string>
+    <string name="native_1153b30d51d5" formatted="false">ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿರುವ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಸ್ಥಳೀಯ ನಕಲನ್ನು ಮಾತ್ರ ಅಳಿಸಲಾಗುತ್ತದೆ. ಬೇರೆಡೆ ಉಳಿಸಿದ ಫೈಲ್‌ಗಳು ಲಭ್ಯವಿರುತ್ತವೆ.</string>
+    <string name="native_427a78a4e69a" formatted="false">ದೃಢೀಕರಿಸಿ</string>
+    <string name="native_7af46d7ee003" formatted="false">ಈ ಕಾರ್ಯಸ್ಥಳ ಬ್ಯಾಕಪ್ ಅನ್ನು ಮರುಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s ನಮೂದುಗಳು · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">ಬ್ಯಾಕಪ್ ಕಾರ್ಯಗತಗೊಳಿಸಬಹುದಾದ Linux ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ಒಳಗೊಂಡಿದೆ. ನೀವು ಅದರ ಮೂಲವನ್ನು ನಂಬುತ್ತೀರಿ ಎಂಬುದನ್ನು ದೃಢೀಕರಿಸಿ. ಮರುಸ್ಥಾಪನೆಯು ಸಂಪೂರ್ಣ ಪರಿಸರವನ್ನು ಬದಲಿಸುತ್ತದೆ ಮತ್ತು ಸ್ಥಳೀಯ ಸೇವೆಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತದೆ; ಹಿಂದಿನ ಪರಿಸರವನ್ನು ಚೇತರಿಕೆಗಾಗಿ ಇರಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="native_c3d74ed0c054" formatted="false">ಬ್ಯಾಕಪ್ ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ಮರುಸ್ಥಾಪನೆ ದೃಢೀಕರಣಕ್ಕಾಗಿ ನಿರೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ.</string>
+    <string name="native_97076078c749" formatted="false">Chromium ಹೊಂದಾಣಿಕೆ ಮೋಡ್ ಅನ್ನು ಸಹ ಸಕ್ರಿಯಗೊಳಿಸಿ (Linux ಪ್ರಕ್ರಿಯೆ ಸ್ಯಾಂಡ್‌ಬಾಕ್ಸ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಆಫ್ ಆಗಿದೆ. ನೀವು ಅದನ್ನು ನಂತರ ಡೆಸ್ಕ್‌ಟಾಪ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.</string>
+    <string name="native_ddf09383413c" formatted="false">ಮರುಸ್ಥಾಪನೆಯನ್ನು ದೃಢೀಕರಿಸಿ</string>
+    <string name="native_8e6056b0f629" formatted="false">ಆಮದು ರದ್ದುಮಾಡಿ</string>
+    <string name="native_63a895901c76" formatted="false">ಕಾರ್ಯಸ್ಥಳದ ಪರಿಸರ ಬದಲಾಗಿದೆ</string>
+    <string name="native_a4c994348a39" formatted="false">ಕಾರ್ಯಸ್ಥಳವನ್ನು ಪುನಃ ತೆರೆಯಿರಿ</string>
+    <string name="native_774947f0653e" formatted="false">ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="native_e09a22b18445" formatted="false">ಕಾರ್ಯವು ಅಡಚಣೆಯಾಗಿದೆ. ಮತ್ತೊಮ್ಮೆ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="native_38c5fcc634db" formatted="false">ಮೊದಲು ಎಲ್ಲಾ ವಿಂಡೋಗಳಲ್ಲಿ ಫೈಲ್ ಸಂಪಾದನೆಗಳನ್ನು ಉಳಿಸಿ. ಮರುಪ್ರಯತ್ನಿಸುವ ಮೊದಲು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಆಮದು ರದ್ದುಮಾಡಿ.</string>
+    <string name="native_029bfa8ff772" formatted="false">ಕಾರ್ಯಸ್ಥಳವನ್ನು ಮರುಸ್ಥಾಪಿಸುವುದು ಮತ್ತು ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು</string>
+    <string name="native_e4f04df818f8" formatted="false">ನಿಮ್ಮ ಆಯ್ಕೆಮಾಡಿದ ಬ್ಯಾಕಪ್ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCode ನಿಲ್ಲಿಸಿ, ಟರ್ಮಿನಲ್‌ಗಳು ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್, ನಂತರ ಫೈಲ್ ಕಾರ್ಯಾಚರಣೆಗಳು ಮುಗಿಯುವವರೆಗೆ ಕಾಯಿರಿ.</string>
+    <string name="native_1a5cde18c609" formatted="false">ಬ್ಯಾಕಪ್ ಕಾರ್ಯವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಮುಂಭಾಗದಲ್ಲಿರುವ ಅಪ್ಲಿಕೇಶನ್‌ನೊಂದಿಗೆ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_1553b714941d" formatted="false">ಬ್ಯಾಕಪ್ ಅನ್ನು ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡುವುದು ಮತ್ತು ಪರಿಶೀಲಿಸುವುದು. ಮೂಲ ಪರಿಸರವನ್ನು ಮರಳಿ ಪಡೆಯಬಹುದಾಗಿದೆ...</string>
+    <string name="native_dafd005e953e" formatted="false">ಬ್ಯಾಕಪ್ ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಮರುಸ್ಥಾಪನೆಯನ್ನು ದೃಢೀಕರಿಸಿ.</string>
+    <string name="native_9fb236184596" formatted="false">ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಸ್ಥಳೀಯ ನಕಲನ್ನು ಅಳಿಸಲಾಗಿದೆ.</string>
+    <string name="native_f98e9ac348b6" formatted="false">ಕಾರ್ಯಾಚರಣೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ. ಮೂಲ ಪರಿಸರ ಡೇಟಾವನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">ಕಾರ್ಯಾಚರಣೆ ಅಪೂರ್ಣವಾಗಿದೆ. ಪಾಸ್ವರ್ಡ್, ಬ್ಯಾಕಪ್ ಸಮಗ್ರತೆ, ಹೋಸ್ಟ್ ಆವೃತ್ತಿ ಮತ್ತು ಮುಕ್ತ ಸ್ಥಳವನ್ನು ಪರಿಶೀಲಿಸಿ. ಮೂಲ ಪರಿಸರ ಡೇಟಾವನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.</string>
+    <string name="native_29deabd28960" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ವರ್ಕ್‌ಸ್ಟೇಷನ್ ಬ್ಯಾಕಪ್ ರಚಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_3d137e243806" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಬ್ಯಾಕಪ್ ರಚಿಸಲಾಗಿದೆ. ಅದನ್ನು ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">ಪರಿಸರವನ್ನು ಮರುಸ್ಥಾಪಿಸುವುದು ಮತ್ತು ಸ್ಥಳೀಯ ಸೇವೆಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು. ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾವನ್ನು ಹಾಗೆಯೇ ಇರಿಸಿ...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">ಕಾರ್ಯಸ್ಥಳವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲಾಗಿದೆ. ಹಿಂದಿನ ಪರಿಸರವು ಖಾಸಗಿ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿದಿದೆ. ಕಾರ್ಯಸ್ಥಳವನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ.</string>
+    <string name="native_0392cd6152d2" formatted="false">ಮರುಸ್ಥಾಪನೆ ಪರಿಶೀಲನೆಗಳು ವಿಫಲವಾಗಿವೆ. ಹಿಂದಿನ ಪರಿಸರಕ್ಕೆ ಮರಳಿದೆ; ಆಮದು ಮಾಡಿದ ಡೇಟಾವು ಖಾಸಗಿ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿದಿದೆ.</string>
+    <string name="native_5dc7410b600e" formatted="false">ಮರುಸ್ಥಾಪನೆ ಅಪೂರ್ಣವಾಗಿದೆ. ಎಲ್ಲಾ ಡೇಟಾ ಡೈರೆಕ್ಟರಿಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾವನ್ನು ಇರಿಸಿ ಮತ್ತು ಮರುಪಡೆಯುವಿಕೆ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">ಹಿಂದಿನ ಕಾರ್ಯಸ್ಥಳ ಪರಿಸರವನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_15821323ff89" formatted="false">ಹಿಂದಿನ ಪರಿಸರವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲಾಗಿದೆ. ಇತ್ತೀಚಿನ ಕೆಲಸವು ಖಾಸಗಿ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿದಿದೆ. ಕಾರ್ಯಸ್ಥಳವನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ.</string>
+    <string name="native_56dd94f47870" formatted="false">ಈ ಮರುಸ್ಥಾಪನೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪ್ರಸ್ತುತ ಪರಿಸರ ಮತ್ತು ಬ್ಯಾಕ್‌ಅಪ್‌ಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.</string>
+    <string name="native_93530f3fa029" formatted="false">ರದ್ದುಗೊಳಿಸುವುದು ಅಪೂರ್ಣವಾಗಿದೆ. ಎಲ್ಲಾ ಡೇಟಾ ಡೈರೆಕ್ಟರಿಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ಅಪ್ಲಿಕೇಶನ್ ಡೇಟಾವನ್ನು ಇರಿಸಿ ಮತ್ತು ಮರುಪಡೆಯುವಿಕೆ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_f12963c80def" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಬ್ಯಾಕಪ್ ಉಳಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿದ ಬ್ಯಾಕಪ್ ಉಳಿಸಲಾಗಿದೆ. ನೀವು ಸ್ಥಳೀಯ ನಕಲನ್ನು ಮತ್ತೆ ಉಳಿಸಬಹುದು ಅಥವಾ ಹಸ್ತಚಾಲಿತವಾಗಿ ಅಳಿಸಬಹುದು.</string>
+    <string name="native_d660cccf65e0" formatted="false">ದೃಢೀಕರಿಸದ ಆಮದನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_800592163979" formatted="false">ಆಮದು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ. ಮೂಲ ಪರಿಸರ ಬದಲಾಗಿಲ್ಲ.</string>
+    <string name="native_5a90367eb834" formatted="false">ಆಮದು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ. ಮೂಲ ಪರಿಸರ ಬದಲಾಗಿಲ್ಲ; ಕೆಲವು ತಾತ್ಕಾಲಿಕ ಆಮದು ಡೇಟಾ ಅಪ್ಲಿಕೇಶನ್‌ನ ಖಾಸಗಿ ಡೈರೆಕ್ಟರಿಯಲ್ಲಿ ಉಳಿದಿದೆ.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">ಡೀಕ್ರಿಪ್ಶನ್ ಮತ್ತು ಪರಿಶೀಲನೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_e9f2bea3118c" formatted="false">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾದ ಬ್ಯಾಕಪ್ ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_7bd5a0c93818" formatted="false">ಬ್ಯಾಕಪ್ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಮುಂಭಾಗದಲ್ಲಿ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">ಅಪೂರ್ಣ ಪರಿಸರ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮೊದಲು ಮರುಪಡೆಯಿರಿ</string>
+    <string name="native_f14aea7c819c" formatted="false">ಅಮಾನ್ಯ ಚೇತರಿಕೆ ದಾಖಲೆ</string>
+    <string name="native_7c284c55ee08" formatted="false">ಮರುಪ್ರಾಪ್ತಿ ಡೈರೆಕ್ಟರಿ ಕಾಣೆಯಾಗಿದೆ</string>
+    <string name="native_bfc4792df15b" formatted="false">ಸ್ಥಳೀಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮರುಪ್ರಾಪ್ತಿ ದಾಖಲೆ ಮಿತಿಯನ್ನು ಮೀರಿದೆ</string>
+    <string name="native_8d93770ba8c9">ಹಿಂದಿನ ಪರಿಸರ ಡೈರೆಕ್ಟರಿ ಕಾಣೆಯಾಗಿದೆ: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">ಅಜ್ಞಾತ ಚೇತರಿಕೆ ಹಂತ</string>
+    <string name="native_20c5124fe175" formatted="false">ಅಜ್ಞಾತ ಚೇತರಿಕೆ ಕಾರ್ಯಾಚರಣೆ</string>
+    <string name="native_1c457322b624" formatted="false">ಪುನಃಸ್ಥಾಪಿಸಲು ಯಾವುದೇ ಹಿಂದಿನ ಪರಿಸರ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="native_30db1666c8e5" formatted="false">ಈ ಬ್ಯಾಕಪ್ ಬೇರೆ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಸೇರಿದೆ</string>
+    <string name="native_6687d1c64d75" formatted="false">ಬ್ಯಾಕಪ್ ಪ್ರೊಸೆಸರ್ ಆರ್ಕಿಟೆಕ್ಚರ್ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_b9b37d57fe6b" formatted="false">ಮೊದಲು ಈ ಬ್ಯಾಕಪ್ ಬಳಸಿದ ಆವೃತ್ತಿಗೆ Android ಹೋಸ್ಟ್ ಅನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">ಬ್ಯಾಕಪ್ ಡೈರೆಕ್ಟರಿ ಅಪೂರ್ಣವಾಗಿದೆ</string>
+    <string name="native_66106ab3e254" formatted="false">ಹಳೆಯ ಬ್ಯಾಕಪ್ ಯಾವುದೇ ಪರಿಶೀಲಿಸಬಹುದಾದ OpenCode ಪ್ರಕಾಶಕರ ಪುರಾವೆಯನ್ನು ಹೊಂದಿಲ್ಲ. ಮತ್ತೆ ಬ್ಯಾಕಪ್ ಮಾಡುವ ಮೊದಲು ಈ ಹೋಸ್ಟ್‌ನೊಂದಿಗೆ ಮೂಲ ಪರಿಸರವನ್ನು ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_bec13cc92982" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಕ್ರಮಗಳು</string>
+    <string name="native_65de80229626" formatted="false">Debian ಸಿಸ್ಟಂ ಕ್ರಿಯೆಯನ್ನು ವಿನಂತಿಸಿದೆ</string>
+    <string name="native_5e38581cf19c" formatted="false">ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ನಿರ್ವಹಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="native_749d406d2c67" formatted="false">Debian ಅಭಿವೃದ್ಧಿ ಪರಿಸರದಿಂದ</string>
+    <string name="native_4032d33b2afd" formatted="false">ಸಿಸ್ಟಮ್ ಬ್ರೌಸರ್ ತೆರೆಯುವುದೇ?</string>
+    <string name="native_ce9491abbc6c" formatted="false">ಸ್ಥಳೀಯ ಪ್ರಾಜೆಕ್ಟ್ ಪೂರ್ವವೀಕ್ಷಣೆ ತೆರೆಯುವುದೇ?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಓದುವುದೇ?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">ಸಿಸ್ಟಮ್ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸುವುದೇ?</string>
+    <string name="native_77f761eb70aa" formatted="false">ಸ್ಥಳೀಯ ಅಧಿಸೂಚನೆಯನ್ನು ಕಳುಹಿಸುವುದೇ?</string>
+    <string name="native_e6b29e80abb7" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದೇ?</string>
+    <string name="native_9d36f698b3c1" formatted="false">ಸಿಸ್ಟಮ್ ಫೈಲ್‌ಗಳನ್ನು ಆಮದು ಮಾಡುವುದೇ?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್ ಅನ್ನು ರಫ್ತು ಮಾಡುವುದೇ?</string>
+    <string name="native_7ac295421c6d" formatted="false">ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="native_bbdb6043b5e9" formatted="false">ಪೂರ್ವವೀಕ್ಷಣೆ ತೆರೆಯಿರಿ</string>
+    <string name="native_14792d6cd7a6" formatted="false">ಓದಲು ಅನುಮತಿಸಿ</string>
+    <string name="native_b4caf8b99ddd" formatted="false">ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ</string>
+    <string name="native_4b3361a8c3a3" formatted="false">ಅಧಿಸೂಚನೆಯನ್ನು ಕಳುಹಿಸಿ</string>
+    <string name="native_88152a09fa02" formatted="false">ಹಂಚಿಕೆ ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="native_7a49a79c57f9" formatted="false">ಫೈಲ್‌ಗಳನ್ನು ಆರಿಸಿ</string>
+    <string name="native_99d9f87419c5" formatted="false">ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಆರಿಸಿ</string>
+    <string name="native_23e5bb2090aa">%1$s\nOpenCode ನಿಂದ ಪ್ರತ್ಯೇಕಿಸಲಾದ ಬ್ರೌಸರ್ ಡೇಟಾದೊಂದಿಗೆ ತೆರೆಯುತ್ತದೆ.</string>
+    <string name="native_ecf17eaad49e" formatted="false">ಸಿಸ್ಟಂ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ನಿಂದ ಪ್ರಸ್ತುತ Debian ಪ್ರೋಗ್ರಾಂಗೆ ಪಠ್ಯವನ್ನು ನೀಡಿ.</string>
+    <string name="native_dcc6bec24e43">%1$s ಗೆ ಆಮದು ಮಾಡಲು ಫೈಲ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಫೈಲ್‌ಗಳನ್ನು ಇರಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನಕಲುಗಳನ್ನು ಮರುಹೆಸರಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium ಬ್ರೌಸರ್ ಮೋಡ್</string>
+    <string name="native_4767f37900f6" formatted="false">ಹೊಂದಾಣಿಕೆ ಮೋಡ್ ಪ್ರತ್ಯೇಕ ಬ್ರೌಸರ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು Chromium ನ Linux ಪ್ರಕ್ರಿಯೆ ಸ್ಯಾಂಡ್‌ಬಾಕ್ಸ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ. ಈ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಬ್ರೌಸರ್ ಇನ್ನೂ ಫೈಲ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಬಹುದು. ವಿಶ್ವಾಸಾರ್ಹವಲ್ಲದ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ತಪ್ಪಿಸಿ ಮತ್ತು ಪ್ರಮುಖ ಖಾತೆಗಳಿಗಾಗಿ Android ಸಿಸ್ಟಮ್ ಬ್ರೌಸರ್ ಅನ್ನು ಬಳಸಿ. ಮೋಡ್‌ಗಳನ್ನು ಬದಲಾಯಿಸಿದ ನಂತರ Chromium ಅನ್ನು ಪುನಃ ತೆರೆಯಿರಿ.</string>
+    <string name="native_a4317f2699a2" formatted="false">ಪ್ರಮಾಣಿತ Linux ಸ್ಯಾಂಡ್‌ಬಾಕ್ಸಿಂಗ್ ಅನ್ನು ಡಿಫಾಲ್ಟ್ ಆಗಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. Chromium ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ನೀವು ಹೊಂದಾಣಿಕೆ ಮೋಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು. ಇದು Linux ಪ್ರಕ್ರಿಯೆ ಸ್ಯಾಂಡ್‌ಬಾಕ್ಸ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಫೈಲ್‌ಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವಾಗ ಪ್ರತ್ಯೇಕ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಬಳಸುತ್ತದೆ. ವಿಶ್ವಾಸಾರ್ಹವಲ್ಲದ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ತಪ್ಪಿಸಿ; ಪ್ರಮುಖ ಖಾತೆಗಳಿಗಾಗಿ Android ಸಿಸ್ಟಮ್ ಬ್ರೌಸರ್ ಅನ್ನು ಬಳಸಿ.</string>
+    <string name="native_3a2596fa9517" formatted="false">ಪ್ರಮಾಣಿತ ಮೋಡ್ ಅನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_eeb5e46d62ae" formatted="false">ಹೊಂದಾಣಿಕೆ ಮೋಡ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="native_9a45442649f5" formatted="false">Debian ಡೆಸ್ಕ್‌ಟಾಪ್</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">ಮೊದಲ ಅನುಸ್ಥಾಪನೆಯು ಚಿತ್ರಾತ್ಮಕ ಘಟಕಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ. ಅನುಸ್ಥಾಪನೆಯ ನಂತರ, ಡೆಸ್ಕ್‌ಟಾಪ್ OpenCode ನಿಂದ ಸ್ವತಂತ್ರವಾಗಿ ಪ್ರಾರಂಭಿಸಬಹುದು ಮತ್ತು ನಿಲ್ಲಿಸಬಹುದು.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC ಕನ್ನಡಿ</string>
+    <string name="native_41e865941e16" formatted="false">ಅಧಿಕೃತ Debian ಕನ್ನಡಿ</string>
+    <string name="native_ea341b8a102b" formatted="false">ಆರಂಭಿಕ ರೆಸಲ್ಯೂಶನ್</string>
+    <string name="native_ff1cde9ba35d" formatted="false">ನೀವು ಪುಟಗಳನ್ನು ಬದಲಾಯಿಸಿದಾಗ ಡೆಸ್ಕ್‌ಟಾಪ್ ಚಾಲನೆಯಲ್ಲಿದೆ. ರನ್ಟೈಮ್ನಿಂದ ಅದನ್ನು ನಿಲ್ಲಿಸಿ.</string>
+    <string name="native_aadf816e2dc8" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಕಾರ್ಯವನ್ನು ನಿಲ್ಲಿಸಿ</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="native_ea27a25e5114" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಘಟಕಗಳನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: ಹೊಂದಾಣಿಕೆ ಮೋಡ್</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: ಪ್ರಮಾಣಿತ ಮೋಡ್</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Debian ಡೆವಲಪರ್ ಪರಿಕರಗಳನ್ನು ಮೊದಲು ರನ್ಟೈಮ್ನಿಂದ ಸ್ಥಾಪಿಸಿ.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">ಚಟುವಟಿಕೆ ಲಾಗ್</string>
+    <string name="native_bfaa904aa4d4" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಫೋಲ್ಡರ್ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಡೈರೆಕ್ಟರಿ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_83c76743b29d" formatted="false">ಅಡ್ಡಿಪಡಿಸಿದ ಪರಿಸರ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮರುಪಡೆಯಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_739a730ae247" formatted="false">ಪರಿಸರ ನಿರ್ವಹಣೆ</string>
+    <string name="native_049281329843" formatted="false">ನವೀಕರಣ ನಿರ್ವಹಣೆ ಅಥವಾ ಪ್ರಸ್ತುತ ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ನಿರೀಕ್ಷಿಸಿ.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">ಪ್ರಸ್ತುತ ಅಭಿವೃದ್ಧಿ ಪರಿಸರ ಕಾರ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ನಿರೀಕ್ಷಿಸಿ</string>
+    <string name="native_83099168971c" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_85e0c18dde8d" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_9a48f8196d8f" formatted="false">ಗಮನ ಅಗತ್ಯವಿದೆ</string>
+    <string name="native_75470fb13121" formatted="false">ನಿಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="native_51a53c8109d5" formatted="false">ಚಟುವಟಿಕೆಯ ದಾಖಲೆಯನ್ನು ಓದಲು ಅಥವಾ ಉಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ರನ್ಟೈಮ್ನಿಂದ ಅದನ್ನು ದುರಸ್ತಿ ಮಾಡಿ ಅಥವಾ ಸ್ವಲ್ಪ ಸಂಗ್ರಹಣೆಯನ್ನು ಮುಕ್ತಗೊಳಿಸಿ.</string>
+    <string name="native_d36a018cc619" formatted="false">ಮೊದಲು Debian ಅಭಿವೃದ್ಧಿ ಪರಿಸರವನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_80be4c2928a5" formatted="false">ಮೊದಲು ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಪಡಿಸಿ</string>
+    <string name="native_a065d81014b1" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಸ್ಥಾಪನೆಯು ಅಪೂರ್ಣವಾಗಿದೆ. ಅನುಸ್ಥಾಪನೆಯನ್ನು ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_721c38b32c35" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ. ಅಗತ್ಯವಿದ್ದಾಗ ಅದನ್ನು ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_6c1c52771115" formatted="false">ಮೊದಲು ಡೆಸ್ಕ್‌ಟಾಪ್ ಘಟಕಗಳನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_693d90a47827" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಕಾರ್ಯಾಚರಣೆ ವಿಫಲವಾಗಿದೆ. ವಿವರಗಳು ತುಂಬಾ ಉದ್ದವಾಗಿದೆ ಅಥವಾ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">ಸ್ಟಾಪ್ ಮಾರ್ಕರ್ ಉಳಿಸುವುದನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಶುಚಿಗೊಳಿಸುವ ಪ್ರಕ್ರಿಯೆ ಮುಂದುವರೆಯಿತು.</string>
+    <string name="native_06083621a6ce" formatted="false">ಚಟುವಟಿಕೆಯ ದಾಖಲೆಯನ್ನು ಉಳಿಸುವುದನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಮುಂದಿನ ಉಡಾವಣೆಯು ಇದನ್ನು ಅಡಚಣೆ ಎಂದು ಪರಿಗಣಿಸುತ್ತದೆ.</string>
+    <string name="native_04d721a3819a" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಚಾಲನೆಯಲ್ಲಿದೆ</string>
+    <string name="native_c3f0acaf7a73" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಕಾರ್ಯಾಚರಣೆಯ ಸಮಯ ಮೀರಿದೆ. ಲಾಗ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_e70d328a3ca9">ಡೆಸ್ಕ್‌ಟಾಪ್ ಪ್ರಕ್ರಿಯೆಯು ನಿರ್ಗಮಿಸಿದೆ (%1$s). ಚಟುವಟಿಕೆ ಲಾಗ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_df5c878f2852" formatted="false">ಸ್ಥಳೀಯ ಚಿತ್ರಾತ್ಮಕ ಕಾರ್ಯಕ್ಷೇತ್ರ</string>
+    <string name="native_7b0455a8daa4" formatted="false">ಸ್ಟಾಪ್ ಡೆಸ್ಕ್‌ಟಾಪ್</string>
+    <string name="native_a62123cde9c7" formatted="false">ಅಡ್ಡಿಪಡಿಸಿದ ಕಾರ್ಯಗಳು ಮತ್ತು ಚೇತರಿಕೆ</string>
+    <string name="native_279308947a14" formatted="false">ಚಟುವಟಿಕೆಯ ದಾಖಲೆಯನ್ನು ಓದಲಾಗುವುದಿಲ್ಲ. ದುರಸ್ತಿಯು ಹಾನಿಗೊಳಗಾದ ದಾಖಲೆಯ ನಕಲನ್ನು ಇರಿಸುತ್ತದೆ ಮತ್ತು ಯೋಜನೆಗಳು, ಅವಧಿಗಳು ಮತ್ತು Linux ಪರಿಸರವನ್ನು ಸಂರಕ್ಷಿಸುತ್ತದೆ.</string>
+    <string name="native_2bd92fae24e5" formatted="false">ದುರಸ್ತಿ ಚಟುವಟಿಕೆ ದಾಖಲೆ</string>
+    <string name="native_6b43650c2c82" formatted="false">ಕಾರ್ಯವು ಅನಿರೀಕ್ಷಿತವಾಗಿ ಕೊನೆಗೊಂಡಿತು.</string>
+    <string name="native_acb0c970aaa6">%1$s ಟರ್ಮಿನಲ್‌ಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಮುಚ್ಚಿಲ್ಲ. ಅವರ ಚಾಲನೆಯಲ್ಲಿರುವ ಆಜ್ಞೆಗಳನ್ನು ಅಡ್ಡಿಪಡಿಸಲಾಯಿತು.</string>
+    <string name="native_4ba153d8dff5" formatted="false">ಮರುಪ್ರಾರಂಭವನ್ನು ದೃಢೀಕರಿಸಲಾಗಿದೆ. ಹಿಂದಿನ ಆಜ್ಞೆಗಳನ್ನು ಮರುಪಂದ್ಯ ಮಾಡಲಾಗಿಲ್ಲ.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">ಉಳಿಸಿದ ಯೋಜನೆಗಳು ಮತ್ತು ಅವಧಿಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ಟರ್ಮಿನಲ್‌ಗಳನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಪುನಃ ತೆರೆಯಿರಿ; ಅಪೂರ್ಣ ಆಜ್ಞೆಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪುನರಾರಂಭಗೊಳ್ಳುವುದಿಲ್ಲ.</string>
+    <string name="native_fa9669296762" formatted="false">ಮರುಪ್ರಾರಂಭಿಸಿ OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರುಪ್ರಾರಂಭಿಸುವುದಿಲ್ಲ. ಡೆಸ್ಕ್‌ಟಾಪ್ ಪುಟದಿಂದ ಅದನ್ನು ಮತ್ತೆ ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_644f8f44251f" formatted="false">ಫೈಲ್ ತೆರೆಯಿರಿ</string>
+    <string name="native_9dfb5569d609" formatted="false">ಫೈಲ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="native_a4500cff3a86" formatted="false">ವರ್ಕಿಂಗ್ ಡೈರೆಕ್ಟರಿಯು ಸಾಂಕೇತಿಕ ಲಿಂಕ್ ಆಗಿರಬಾರದು</string>
+    <string name="native_8657d27661bd" formatted="false">ಅಮಾನ್ಯವಾದ ಕಾರ್ಯ ಡೈರೆಕ್ಟರಿ ಮಾರ್ಗ</string>
+    <string name="native_02b702a9adff" formatted="false">ಫೈಲ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="native_924874b746cc" formatted="false">ಟರ್ಮಿನಲ್‌ನಲ್ಲಿ ಸಾಂಕೇತಿಕ ಲಿಂಕ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <string name="native_efea6e422a54" formatted="false">ಅಮಾನ್ಯ ಫೈಲ್ ಹೆಸರು</string>
+    <string name="native_c4989dc37aab" formatted="false">ಡೈರೆಕ್ಟರಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ</string>
+    <string name="native_d613dba39b44" formatted="false">ಗಮ್ಯಸ್ಥಾನ ಡೈರೆಕ್ಟರಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ</string>
+    <string name="native_4f9b3fb4920b" formatted="false">ಸ್ವತಃ ಅಥವಾ ಅದರ ವಂಶಸ್ಥರ ಒಳಗೆ ಫೋಲ್ಡರ್ ಅನ್ನು ಇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="native_c3acd5a3254c" formatted="false">ಯೋಜನೆಯು ವಿಶೇಷ ಸಾಧನಗಳು ಅಥವಾ ಸಾಕೆಟ್‌ಗಳನ್ನು ಹೊಂದಿದೆ ಮತ್ತು ಅದನ್ನು ನಕಲು ಮಾಡಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_6c36955b068b" formatted="false">ಸಾಮಾನ್ಯ ಫೈಲ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="native_49191d7d489f" formatted="false">ಈ ಫೈಲ್ 2 MB ಮೀರಿದೆ. ಇದನ್ನು OpenCode ಅಥವಾ ಟರ್ಮಿನಲ್‌ನೊಂದಿಗೆ ಸಂಪಾದಿಸಿ.</string>
+    <string name="native_ee42414d36c2" formatted="false">ಫೈಲ್ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ</string>
+    <string name="native_f0a979f87157" formatted="false">ಬೈನರಿ ಫೈಲ್‌ಗಳನ್ನು ಮತ್ತೊಂದು ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ತೆರೆಯಲು ರಫ್ತು ಮಾಡಿ</string>
+    <string name="native_88a9c82651fc" formatted="false">OpenCode ಅಥವಾ ಟರ್ಮಿನಲ್‌ನೊಂದಿಗೆ UTF-8 ಅಲ್ಲದ ಫೈಲ್‌ಗಳನ್ನು ಸಂಪಾದಿಸಿ</string>
+    <string name="native_0189a5c3418c" formatted="false">ಮತ್ತೊಂದು ಉಪಕರಣವು ಈ ಫೈಲ್ ಅನ್ನು ಬದಲಾಯಿಸಿದೆ. ಸಂಪಾದಿಸುವ ಮೊದಲು ಅದನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ.</string>
+    <string name="native_0ce79256f4ac" formatted="false">ಮೂಲ ಡೈರೆಕ್ಟರಿ ಇನ್ನು ಮುಂದೆ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಮೊದಲು ಅದನ್ನು ಮರುಸ್ಥಾಪಿಸಿ.</string>
+    <string name="native_46eae321049e" formatted="false">ಯಾವುದೇ ಹಂಚಿಕೆ ಅಪ್ಲಿಕೇಶನ್ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="native_87d699d3a26c" formatted="false">ಅನುಪಯುಕ್ತ</string>
+    <string name="native_d0a8c03d6c07" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್‌ಗಳು</string>
+    <string name="native_4dcf914f0b64" formatted="false">ಅಳಿಸಲಾದ ಫೈಲ್‌ಗಳನ್ನು ಅವುಗಳ ಮೂಲ ಡೈರೆಕ್ಟರಿಗಳಿಗೆ ಮರುಸ್ಥಾಪಿಸಬಹುದು</string>
+    <string name="native_c5b81b02354f" formatted="false">ಹಿಂದೆ</string>
+    <string name="native_e56b99379169">%1$s ಫೈಲ್‌ಗಳನ್ನು ನಕಲಿಸಲಾಗಿದೆ · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">ನಕಲು ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_85199bb36b04" formatted="false">ಕಾರ್ಯಾಚರಣೆಯನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="native_e9dc52d1c24b" formatted="false">ಮುಚ್ಚಿ</string>
+    <string name="native_4e1e5aacac7f" formatted="false">ಹೊಸ ಸೆಷನ್</string>
+    <string name="native_23c250cc8e0b" formatted="false">OpenCode ಸೆಶನ್ ಅನ್ನು ಇಲ್ಲಿ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="native_f22da21fd54f" formatted="false">ಟರ್ಮಿನಲ್</string>
+    <string name="native_3645f30b3412" formatted="false">ಉಳಿಸದ ಬದಲಾವಣೆಗಳು</string>
+    <string name="native_2266227605c4" formatted="false">ಉಳಿಸಿ</string>
+    <string name="native_064fbc7ad3f3" formatted="false">ಅನುಪಯುಕ್ತ ಖಾಲಿಯಾಗಿದೆ</string>
+    <string name="native_a9e739b13e52" formatted="false">ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_45985dc2183e" formatted="false">ಮೂವ್:</string>
+    <string name="native_31214130b5b7" formatted="false">ನಕಲು:</string>
+    <string name="native_07e5c3158f35" formatted="false">ಅಂಟಿಸಿ</string>
+    <string name="native_831b4e0fb574" formatted="false">ಹೊಸ</string>
+    <string name="native_ff65a22d7087" formatted="false">ಹೊಸ ಫೋಲ್ಡರ್</string>
+    <string name="native_71faed44a86c" formatted="false">ಹೊಸ ಫೈಲ್</string>
+    <string name="native_8dddd460f6ae" formatted="false">ಆಮದು</string>
+    <string name="native_d85825123e60" formatted="false">ರಿಫ್ರೆಶ್</string>
+    <string name="native_ac9d73843736" formatted="false">ಈ ಡೈರೆಕ್ಟರಿಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="native_21eef82963ee" formatted="false">ಈ ಡೈರೆಕ್ಟರಿ ಖಾಲಿಯಾಗಿದೆ. ಫೈಲ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಿ ಅಥವಾ ಯೋಜನೆಯನ್ನು ರಚಿಸಿ.</string>
+    <string name="native_e8a4cecaa371" formatted="false">ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಫೈಲ್‌ಗಳಿಲ್ಲ</string>
+    <string name="native_d674bc0f86b8" formatted="false">ಫೈಲ್ ಕ್ರಿಯೆಗಳು</string>
+    <string name="native_d04a47c87cc8" formatted="false">ಸಾಂಕೇತಿಕ ಲಿಂಕ್</string>
+    <string name="native_e0ba66f5246a" formatted="false">ಫೋಲ್ಡರ್</string>
+    <string name="native_f170b42599e8" formatted="false">ಮರುಹೆಸರಿಸು</string>
+    <string name="native_4cdacf57ead2" formatted="false">ನಕಲು</string>
+    <string name="native_124aa030694e" formatted="false">ಇದಕ್ಕೆ ಸರಿಸಿ...</string>
+    <string name="native_ac990518ed87" formatted="false">ಟರ್ಮಿನಲ್ ಅನ್ನು ಇಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="native_87bc93932d8a" formatted="false">ಸಿಸ್ಟಮ್ ಫೈಲ್‌ಗಳಿಗೆ ರಫ್ತು ಮಾಡಿ</string>
+    <string name="native_dd37f132172f" formatted="false">ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಿ</string>
+    <string name="native_7318746d337c" formatted="false">ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸುವುದೇ?</string>
+    <string name="native_2b5ee3f10a56">ನೀವು ಅನುಪಯುಕ್ತದಿಂದ \"%1$s\" ಅನ್ನು ಮರುಸ್ಥಾಪಿಸಬಹುದು.</string>
+    <string name="native_e49730c9e7e1" formatted="false">ಮೂವ್</string>
+    <string name="native_4e47aaa113fc" formatted="false">ಉಳಿಸದ ಬದಲಾವಣೆಗಳನ್ನು ತ್ಯಜಿಸುವುದೇ?</string>
+    <string name="native_63b75399ef1a" formatted="false">ಬದಲಾವಣೆಗಳನ್ನು ತ್ಯಜಿಸಿ</string>
+    <string name="native_d9618f7b8d25" formatted="false">ಸಂಪಾದನೆಯನ್ನು ಮುಂದುವರಿಸಿ</string>
+    <string name="native_76ce6aef5479" formatted="false">ಹೆಸರು</string>
+    <string name="native_35b0fc30b909" formatted="false">ಸರಿ</string>
+    <string name="native_11b319774788" formatted="false">ಪರಿಸರವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲಾಗಿದೆ. ಕಾರ್ಯಸ್ಥಳವನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">ಮೊದಲು ರನ್‌ಟೈಮ್‌ನಲ್ಲಿ ಅಡಚಣೆಗೊಂಡ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮರುಪಡೆಯುವುದನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="native_f29af06e7c99" formatted="false">ಪರಿಸರ ನಿರ್ವಹಣೆ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ನಂತರ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_3bd28258feb0" formatted="false">ಕಾರ್ಯಾಚರಣೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="native_c508721eb3cd" formatted="false">ಈ ಹೆಸರಿನ ಫೈಲ್ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. ಇನ್ನೊಂದು ಹೆಸರನ್ನು ಆರಿಸಿ.</string>
+    <string name="native_1e8274fe468a" formatted="false">ಫೈಲ್ ಇನ್ನು ಮುಂದೆ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಡೈರೆಕ್ಟರಿಯನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">ಫೈಲ್ ಪ್ರವೇಶ ಅನುಮತಿಯನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ</string>
+    <string name="native_cd808e4c321e" formatted="false">ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_01cbe9be8b9f" formatted="false">ಕಾರ್ಯಾಚರಣೆ ಅಪೂರ್ಣವಾಗಿದೆ. ಲಭ್ಯವಿರುವ ಸಂಗ್ರಹಣೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಅಥವಾ ಫೈಲ್‌ಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="native_3f9983126fd7" formatted="false">ರನ್ಟೈಮ್ನಲ್ಲಿ OpenCode ಆರಂಭಿಕ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="native_6ed9fe2281bb" formatted="false">ಹೊಸ ಟರ್ಮಿನಲ್ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಅವಧಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_2160fde3813a" formatted="false">ಟರ್ಮಿನಲ್‌ನಲ್ಲಿ ಸಾಂಕೇತಿಕ ಲಿಂಕ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ. ಫೈಲ್ ಮ್ಯಾನೇಜರ್ ಲಿಂಕ್‌ಗಳನ್ನು ಅನುಸರಿಸುವುದಿಲ್ಲ.</string>
+    <string name="native_7a844e9d4017" formatted="false">ಮೂವ್ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="native_573877894fcf" formatted="false">ನಕಲು ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗಿದೆ</string>
+    <string name="native_862330af933f" formatted="false">ಮೂಲ ಡೈರೆಕ್ಟರಿಗೆ ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</string>
+    <string name="native_beda23c9d52b" formatted="false">ಪರಿಸರ ನಿರ್ವಹಣೆ ಅಥವಾ ಬದಲಿ ಸಂಭವಿಸಿದೆ. ಸಂಪಾದಿಸುವ ಮೊದಲು ಕಾರ್ಯಸ್ಥಳವನ್ನು ಪುನಃ ತೆರೆಯಿರಿ.</string>
+    <string name="native_678c6953bb2b" formatted="false">ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="native_8063159f2178" formatted="false">ಆಯ್ಕೆಮಾಡಿದ ಫೈಲ್ ಅನ್ನು ಓದಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_4cdc2180d2ac">%1$s ಫೈಲ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ</string>
+    <string name="native_e98763643b93" formatted="false">ಆಯ್ಕೆಮಾಡಿದ ಸ್ಥಳಕ್ಕೆ ಬರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="native_5afd173be7fa" formatted="false">ರಫ್ತು ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">ಕೋಡ್ ಮತ್ತು ಸೆಷನ್‌ಗಳು</string>
+    <string name="native_8745ed51cadd" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">ಗ್ರಾಫಿಕಲ್ ಕಾರ್ಯಸ್ಥಳ</string>
+    <string name="native_770d49c5f689" formatted="false">ಫೈಲ್‌ಗಳು</string>
+    <string name="native_6a9b6480b58f" formatted="false">ಚಾಲನಾಸಮಯ</string>
+    <string name="native_b561fe9204cc" formatted="false">ಸೇವೆಗಳು ಮತ್ತು ಡೆವಲಪರ್ ಪರಿಕರಗಳು</string>
+    <string name="native_70850bdeeabd" formatted="false">ಪುಟ ಮೆನುವನ್ನು ಮುಚ್ಚಿ</string>
+    <string name="native_b4549acb48e8" formatted="false">ಕಾರ್ಯಕ್ಷೇತ್ರ</string>
+    <string name="native_3d3551f4660f">ಫ್ಲೋಟಿಂಗ್ ಬಟನ್ ಅಪಾರದರ್ಶಕತೆ %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">ಕಡಿಮೆ ಮೌಲ್ಯಗಳು ತೇಲುವ ಬಟನ್ ಅನ್ನು ಹೆಚ್ಚು ಪಾರದರ್ಶಕವಾಗಿಸುತ್ತದೆ</string>
+    <string name="native_e031beabfc9a" formatted="false">ಪುಟ ಮೆನು ತೆರೆಯಿರಿ</string>
+    <string name="native_106ee775b538" formatted="false">ಸ್ಥಳೀಯ OpenCode ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_a021adc1f449" formatted="false">ಸ್ಥಳೀಯ ಸಂಪರ್ಕಕ್ಕೆ ಚೇತರಿಕೆಯ ಅಗತ್ಯವಿದೆ</string>
+    <string name="native_dacb8837471c" formatted="false">ಮರುಸಂಪರ್ಕಿಸಿ</string>
+    <string name="native_17584aa60ae6" formatted="false">ಸ್ಥಳೀಯ ಸಂಪನ್ಮೂಲ ಸಂಗ್ರಹವನ್ನು ಸಿದ್ಧಪಡಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_3b3b80064ccb" formatted="false">ಸ್ಥಳೀಯ OpenCode ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_2560ee8fdd16" formatted="false">ಮರುಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="native_b07809340403" formatted="false">ಕಾರ್ಯಸ್ಥಳದ ಸ್ಥಳವನ್ನು ಇನ್ನೂ ಉಳಿಸಲಾಗಿಲ್ಲ. ನಂತರ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_e4ab10392d05" formatted="false">ಸ್ಥಳೀಯ ಸೇವೆಯು ಸಿದ್ಧವಾಗುತ್ತಿದೆ. ಒಮ್ಮೆ ಸಂಪರ್ಕಿಸಿದಾಗ ನಿಮ್ಮ ಕಾರ್ಯಸ್ಥಳವು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆಯುತ್ತದೆ.</string>
+    <string name="native_20ea15973287" formatted="false">ಹಿಂದಿನ ಓಟಕ್ಕೆ ಅಡಚಣೆಯಾಯಿತು. ರನ್ಟೈಮ್ನಿಂದ ಮರುಪ್ರಾರಂಭಿಸಿ; ಟರ್ಮಿನಲ್ ಆಜ್ಞೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರುಪಂದ್ಯ ಮಾಡಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="native_f2f2f6d32544" formatted="false">ಕೋಡ್ ಮತ್ತು ಸೆಷನ್‌ಗಳನ್ನು ತೆರೆಯಲು ರನ್‌ಟೈಮ್‌ನಿಂದ OpenCode ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_abbac5c22111" formatted="false">ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ನಿರ್ಗಮಿಸುವುದೇ?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರವು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಚಾಲನೆಯಲ್ಲಿರಬಹುದು. ಅಧಿಸೂಚನೆಯಿಂದ ನಂತರ ಹಿಂತಿರುಗಿ.</string>
+    <string name="native_814a8fb24b62" formatted="false">ಪ್ರಸ್ತುತ ಕಾರ್ಯಸ್ಥಳದಿಂದ ನಿರ್ಗಮಿಸುವುದೇ?</string>
+    <string name="native_a76464945c2d" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರವನ್ನು ಸಹ ನಿಲ್ಲಿಸಿ</string>
+    <string name="native_b814fd8d6bc5" formatted="false">ನಿರ್ಗಮಿಸಿ</string>
+    <string name="native_b00143b08ff1" formatted="false">ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಸ್ಥಳ ಸಿದ್ಧವಾಗಿದೆ</string>
+    <string name="native_51bca456a350" formatted="false">ನಿಮ್ಮ Debian ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಸ್ಥಳ</string>
+    <string name="native_0c2acd0b6057" formatted="false">ರನ್ನಿಂಗ್</string>
+    <string name="native_cb40c67e7cb1" formatted="false">ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ</string>
+    <string name="native_44da7f6a451d" formatted="false">ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_b7e1503a7239" formatted="false">ದುರಸ್ತಿ ಅಭಿವೃದ್ಧಿ ಪರಿಸರ</string>
+    <string name="native_7c91bd67ff14" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರವನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_cfd73bb04860" formatted="false">ಸ್ಟಾಪ್ ಪರಿಸರ</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="native_5d4600a269e9" formatted="false">ಪರಿಸರವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Debian ಡೆವಲಪರ್ ಪರಿಕರಗಳನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="native_c114ec62712b" formatted="false">ಹಿಂದಿನ ಪರಿಸರ ಬ್ಯಾಕಪ್, ಯೋಜನೆಗಳು ಮತ್ತು ಸೆಷನ್ ಡೇಟಾವನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.</string>
+    <string name="native_eb3114155716" formatted="false">ಭಾಷಾ ಸರ್ವರ್‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಿ / ನವೀಕರಿಸಿ</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) ಮತ್ತು ಪೈಥಾನ್ (pylsp), ಸಹಿ ಮಾಡಿದ Debian ರೆಪೊಸಿಟರಿಗಳಿಂದ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ. OpenCode ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ಮೊದಲು ನಿಲ್ಲಿಸಿ.</string>
+    <string name="native_2c7251cce661" formatted="false">ಪುಟಗಳನ್ನು ಬದಲಾಯಿಸಲು ಫ್ಲೋಟಿಂಗ್ ಬಟನ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ. ಅದನ್ನು ಮರುಸ್ಥಾನಗೊಳಿಸಲು ಎಳೆಯಿರಿ.\nಪ್ರಾರಂಭದ ನಂತರ</string>
+    <string name="native_dcef145e6a9b" formatted="false">ರನ್‌ಟೈಮ್ ಮಾಹಿತಿಯು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.</string>
+    <string name="native_a8243a4e0d22" formatted="false">ಓಪನ್ ರನ್ಟೈಮ್</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">ಬಂಡಲ್ ಮಾಡಿದ APK ಆವೃತ್ತಿ</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode ನವೀಕರಣಗಳು</string>
+    <string name="native_36ab16248f65" formatted="false">ಈ ಅಪ್ಲಿಕೇಶನ್‌ನ ಪ್ರಕಾಶಕರು ಸಹಿ ಮಾಡಿದ .ocaupdate ಅನ್ನು ಆಮದು ಮಾಡಿ. ಅಧಿಕೃತ ಮುಂಭಾಗ ಮತ್ತು ಬ್ಯಾಕೆಂಡ್ ಒಟ್ಟಿಗೆ ಅಪ್ಡೇಟ್.</string>
+    <string name="native_8aad48b0508d" formatted="false">ನವೀಕರಣ ಮೂಲ (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">ನವೀಕರಣ ಮೂಲವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="native_f73973cfadbb">ಸಹಿ ಮಾಡಿದ ಬಿಡುಗಡೆ: %1$s\nಬದ್ಧತೆ: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="native_f2ef7965bf12" formatted="false">ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="native_165111adfe2c">ಸ್ಥಾಪಿಸಲು ಸಿದ್ಧವಾಗಿದೆ: %1$s\nಬದ್ಧತೆ: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_f9432c4d9b1e" formatted="false">ನವೀಕರಣದ ಮೊದಲು ಆವೃತ್ತಿ ಮತ್ತು ಸೆಷನ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_6864335de653" formatted="false">ನವೀಕರಣ ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="native_816bf3635d53" formatted="false">ನವೀಕರಣದ ಮೊದಲು ಸ್ಥಿತಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸುವುದೇ?</string>
+    <string name="native_11beb4a42abc">%1$s ಅನ್ನು ಸ್ಥಾಪಿಸಿ. ಅಪ್ಲಿಕೇಶನ್ ಸೆಷನ್ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಅನ್ನು ಉಳಿಸುತ್ತದೆ, ಸಹಿ ಮಾಡಿದ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಪರಿಶೀಲಿಸುತ್ತದೆ ಮತ್ತು ಅದು ವಿಫಲವಾದರೆ ಹಿಂದಿನ ಆವೃತ್ತಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸುತ್ತದೆ. ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್‌ಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.\nಈ ನವೀಕರಣದ ಮೊದಲು</string>
+    <string name="native_bc7b4149e7d2" formatted="false">ಸೆಷನ್‌ಗಳು ತಮ್ಮ ಸ್ಥಿತಿಗೆ ಹಿಂತಿರುಗುತ್ತವೆ. ಇತ್ತೀಚಿನ ಸೆಷನ್‌ಗಳು ಖಾಸಗಿ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿದಿವೆ. ಪ್ರಾಜೆಕ್ಟ್ ಫೈಲ್‌ಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.</string>
+    <string name="native_def5e273616d" formatted="false">ಅನುಸ್ಥಾಪನೆಯನ್ನು ದೃಢೀಕರಿಸಿ</string>
+    <string name="native_369d2eefccde" formatted="false">ಪೂರ್ವವೀಕ್ಷಣೆ ಬ್ರೌಸರ್ ಡೇಟಾವನ್ನು ಪ್ರತ್ಯೇಕಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಪೂರ್ವವೀಕ್ಷಣೆಯನ್ನು ಪುನಃ ತೆರೆಯಿರಿ.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">ಯೋಜನೆಯ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ನಿಮ್ಮ ಟರ್ಮಿನಲ್‌ನಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ಸರ್ವರ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_6e7408950cf5" formatted="false">ಪೂರ್ವವೀಕ್ಷಣೆ ಯೋಜನೆಯ ವೆಬ್‌ಸೈಟ್</string>
+    <string name="native_bfb4951e071d" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಪೂರ್ವವೀಕ್ಷಣೆ</string>
+    <string name="native_f80652913d06" formatted="false">ಟರ್ಮಿನಲ್‌ನಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ಸರ್ವರ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿ, ನಂತರ ಅದರ ಸ್ಥಳೀಯ ಪೋರ್ಟ್ ಅನ್ನು ನಮೂದಿಸಿ. ಪೂರ್ವವೀಕ್ಷಣೆ ಬ್ರೌಸರ್ ಡೇಟಾವನ್ನು OpenCode ನಿಂದ ಪ್ರತ್ಯೇಕಿಸಲಾಗಿದೆ.</string>
+    <string name="native_2c41e85af61f" formatted="false">ಪೋರ್ಟ್</string>
+    <string name="native_77c3a828a5c5" formatted="false">OpenCode ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್ ಸೇವೆಗಳನ್ನು ಹೊರತುಪಡಿಸಿ, 1024 ರಿಂದ 65535 ವರೆಗಿನ ಅಭಿವೃದ್ಧಿ ಪೋರ್ಟ್ ಅನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="native_7311a9dfea51" formatted="false">ಈ ಪೋರ್ಟ್‌ನಲ್ಲಿ ಏನೂ ಕೇಳುತ್ತಿಲ್ಲ. ನಿಮ್ಮ ಟರ್ಮಿನಲ್‌ನಲ್ಲಿ ಸೇವೆಯನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_4f8d84105475" formatted="false">ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_4923c272b68e" formatted="false">ಅಭಿವೃದ್ಧಿ ಪೋರ್ಟ್ ಪೂರ್ಣಾಂಕವಾಗಿರಬೇಕು</string>
+    <string name="native_04a87026e81f" formatted="false">ಮಾನ್ಯವಾದ ಪ್ರಾಜೆಕ್ಟ್ ಡೆವಲಪ್‌ಮೆಂಟ್ ಪೋರ್ಟ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode ಅಭಿವೃದ್ಧಿ ಅಧಿವೇಶನ</string>
+    <string name="native_e87a4529ab82" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರ ಸ್ಥಾಪನೆ</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian ನವೀಕರಣ</string>
+    <string name="native_0c6301bc295d" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರ ದುರಸ್ತಿ</string>
+    <string name="native_0ddf3d4297eb" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರ ಪರಿಶೀಲನೆ</string>
+    <string name="native_9612d4419bb6" formatted="false">ಭಾಷಾ ಸರ್ವರ್ ಸ್ಥಾಪನೆ</string>
+    <string name="native_f72fba77f87a" formatted="false">ಪರಿಸರ ಚೇತರಿಕೆ</string>
+    <string name="native_7c8162195c7c" formatted="false">ಡೆಸ್ಕ್‌ಟಾಪ್ ಸ್ಥಾಪನೆ</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">ಹಿಂದಿನ ಓಟಕ್ಕೆ ಅಡಚಣೆಯಾಯಿತು. ರನ್ಟೈಮ್ನಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ಮರುಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">ಈ ಪ್ರಕಾರದ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯವು ಇನ್ನೂ ಚಾಲನೆಯಲ್ಲಿದೆ</string>
+    <string name="native_95a56e0a3fe2" formatted="false">ಚಟುವಟಿಕೆಯ ದಾಖಲೆಯನ್ನು ಸರಿಪಡಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_b66749ed72ea" formatted="false">ಪ್ರಕ್ರಿಯೆಯು ನಿರ್ಗಮಿಸಿದೆ</string>
+    <string name="native_6b25042064e2" formatted="false">ಸಿಗ್ನಲ್ ಮೂಲಕ ಕೊನೆಗೊಂಡಿದೆ\nಕಡಿಮೆ ಮೆಮೊರಿಯ ಕಾರಣ</string>
+    <string name="native_d6febdf1752b" formatted="false">ಮರುಹಕ್ಕು ಪಡೆಯಲಾಗಿದೆ</string>
+    <string name="native_1d13790f3c89" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಕ್ರ್ಯಾಶ್</string>
+    <string name="native_28db94d1850d" formatted="false">ಸ್ಥಳೀಯ ಪ್ರಕ್ರಿಯೆಯ ಕುಸಿತ</string>
+    <string name="native_86919539f7f1" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತಿಲ್ಲ</string>
+    <string name="native_90fb8d6098a5" formatted="false">ಪ್ರಾರಂಭವು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="native_38c60ab6654c" formatted="false">ಅನುಮತಿಗಳು ಬದಲಾಗಿವೆ</string>
+    <string name="native_6d2a6c71334d" formatted="false">ಸಂಪನ್ಮೂಲ ಮಿತಿ</string>
+    <string name="native_19b2090b01a8" formatted="false">ಬಳಕೆದಾರರು ನಿಲ್ಲಿಸಲು ವಿನಂತಿಸಿದ್ದಾರೆ</string>
+    <string name="native_120d96445f1a" formatted="false">ಬಳಕೆದಾರರಿಂದ ನಿಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="native_3c8af14f66bc" formatted="false">ಅವಲಂಬಿತ ಪ್ರಕ್ರಿಯೆಯು ನಿರ್ಗಮಿಸಿದೆ</string>
+    <string name="native_ca0941ce04ae" formatted="false">ಇತರ ಸಿಸ್ಟಮ್ ಕಾರಣ</string>
+    <string name="native_2df1ac3c1d38" formatted="false">ಪ್ರಕ್ರಿಯೆ ಘನೀಕರಣ</string>
+    <string name="native_0d48373023a8" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ಸ್ಥಿತಿಯನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="native_c752307db26b" formatted="false">ಅಪ್ಲಿಕೇಶನ್ ನವೀಕರಣ</string>
+    <string name="native_b5015951cbdf" formatted="false">ಸಿಸ್ಟಮ್ ನಿರ್ಗಮನದ ಕಾರಣವನ್ನು ಒದಗಿಸಿಲ್ಲ</string>
+    <string name="native_b62737b826ad">ಸಿಸ್ಟಂ ನಿರ್ಗಮನ (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">ಪ್ರಾಜೆಕ್ಟ್ ಡೈರೆಕ್ಟರಿಯನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode ಸೆಶನ್ ಅನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode ಸೆಶನ್ ಡೈರೆಕ್ಟರಿ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode ಸೆಶನ್ ಅನ್ನು ಓದಲಾಗಲಿಲ್ಲ</string>
+    <string name="native_2642997cfeec" formatted="false">ಪರಿಸರ ನಿರ್ವಹಣೆ</string>
+    <string name="native_f992d735d932" formatted="false">OpenCode, ಟರ್ಮಿನಲ್‌ಗಳು ಮತ್ತು Debian ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನಿಲ್ಲಿಸಿ, ನಂತರ ಫೈಲ್ ಕಾರ್ಯಾಚರಣೆಗಳು ಮುಗಿಯುವವರೆಗೆ ಕಾಯಿರಿ</string>
+    <string name="native_489f137f1080" formatted="false">ಪರಿಸರ ನಿರ್ವಹಣೆ ಲಾಕ್ ಇನ್ನು ಮುಂದೆ ಮಾನ್ಯವಾಗಿಲ್ಲ</string>
+    <string name="native_42380e2567fc" formatted="false">ಅಡ್ಡಿಪಡಿಸಿದ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮರುಪಡೆಯಲಾಗಿದೆ. ಕಾರ್ಯಸ್ಥಳವನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ.</string>
+    <string name="native_17b00cac2b91" formatted="false">ಸ್ಥಳೀಯ ಸಂಪರ್ಕ ಮರುಪಡೆಯುವಿಕೆ ವಿಫಲವಾಗಿದೆ. ರನ್ಟೈಮ್ನಿಂದ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_77e9ca4e944c" formatted="false">ಪರಿಸರ ನಿರ್ವಹಣೆ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ನಂತರ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_dbaebe3ce243" formatted="false">ಅಭಿವೃದ್ಧಿ ಪರಿಸರವನ್ನು ನವೀಕರಿಸುವ ಮೊದಲು Debian ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನಿಲ್ಲಿಸಿ</string>
+    <string name="native_548085b144c9" formatted="false">ಅಡ್ಡಿಪಡಿಸಿದ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಮರುಪಡೆಯಲಾಗಿದೆ. ನೀವು ಅಭಿವೃದ್ಧಿ ಪರಿಸರವನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು.</string>
+    <string name="native_b4a1531f9eac" formatted="false">ಹಿಂದಿನ ಓಟಕ್ಕೆ ಅಡಚಣೆಯಾಯಿತು. ಟರ್ಮಿನಲ್ ಆಜ್ಞೆಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರುಪ್ಲೇ ಆಗುವುದಿಲ್ಲ. ರನ್ಟೈಮ್ನಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ಮರುಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_295cafdfd512" formatted="false">ತಾತ್ಕಾಲಿಕ ಸಂಪರ್ಕ ಕಾನ್ಫಿಗರೇಶನ್ ಕ್ಲೀನಪ್ ಅಪೂರ್ಣವಾಗಿದೆ. ಶುಚಿಗೊಳಿಸುವ ಪ್ರಕ್ರಿಯೆ ಮುಂದುವರೆಯಿತು.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld ಕಾರ್ಯಕ್ಷೇತ್ರವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಡೈರೆಕ್ಟರಿ ಮತ್ತು ಲಭ್ಯವಿರುವ ಸ್ಥಳವನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_68301868225a" formatted="false">ಹಿಂದಿನ ಕಾರ್ಯಸ್ಥಳ ಡೈರೆಕ್ಟರಿ ಲಭ್ಯವಿಲ್ಲ. helloworld ತೆರೆಯಲಾಗಿದೆ.</string>
+    <string name="native_b33b3ca277eb" formatted="false">ಡೀಫಾಲ್ಟ್ ಪ್ರಾಜೆಕ್ಟ್ ಇನ್ನೂ ಸಿದ್ಧವಾಗಿಲ್ಲ. ಫೈಲ್‌ಗಳಿಂದ ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_45d6ab452622" formatted="false">ಭಾಷಾ ಸರ್ವರ್‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಿ</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ ಮತ್ತು ಪೈಥಾನ್ ಭಾಷಾ ಸರ್ವರ್‌ಗಳು ಸಿದ್ಧವಾಗಿವೆ. LSP ಬಳಸಲು OpenCode ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_5ea1653deef8" formatted="false">ಟರ್ಮಿನಲ್ ಚಟುವಟಿಕೆಯ ದಾಖಲೆಯನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ. ಪ್ರಕ್ರಿಯೆ ಮುಕ್ತಾಯದ ನಂತರ ಹೊಸ ಟರ್ಮಿನಲ್ ಅನ್ನು ರಚಿಸಿ.</string>
+    <string name="native_1978b311a9ff" formatted="false">ಟರ್ಮಿನಲ್ ನಿರ್ಗಮನ ದಾಖಲೆಯನ್ನು ಉಳಿಸುವುದನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode ಅಪ್‌ಡೇಟ್ ಡೌನ್‌ಲೋಡ್</string>
+    <string name="native_06f76cca8fb9" formatted="false">ನವೀಕರಣ ಮೂಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_8c39baf28e08" formatted="false">ನವೀಕರಣ ಮೂಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ನೆಟ್‌ವರ್ಕ್, ಪ್ರಕಾಶಕರ ಸಹಿ, ಹೋಸ್ಟ್ ಆವೃತ್ತಿ ಮತ್ತು ಮುಕ್ತ ಸ್ಥಳವನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_0bedbc8d185d" formatted="false">ಡೌನ್‌ಲೋಡ್ ಸಮಯ ಮೀರಿದೆ</string>
+    <string name="native_f75850093535">ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">ಪ್ರಕಾಶಕರ ಸಹಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_2f9cd52dc66a">ಮಾನ್ಯ ಪ್ರಕಾಶಕರ ಸಹಿ: %1$s. ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ಮೊದಲು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_17548865632c" formatted="false">ಡೌನ್‌ಲೋಡ್, ಬಿಡುಗಡೆ ಮೆಟಾಡೇಟಾ ಮತ್ತು ಪ್ಯಾಕೇಜ್ ಸಹಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ಅನುಸ್ಥಾಪನೆಯನ್ನು ದೃಢೀಕರಿಸಿ.</string>
+    <string name="native_180cec958e7a" formatted="false">ಡೌನ್‌ಲೋಡ್ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ. ಮೂಲ ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ.</string>
+    <string name="native_8df045f8ac12" formatted="false">ಡೌನ್‌ಲೋಡ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ. ಮೂಲ ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ.</string>
+    <string name="native_778803f1c6bb" formatted="false">ಡೌನ್‌ಲೋಡ್ ರದ್ದುಮಾಡಿ</string>
+    <string name="native_2958898ce6f4" formatted="false">ಹೊಸ ಆವೃತ್ತಿಯು ಸ್ಥಳೀಯ ಪ್ರಾರಂಭ, ಆವೃತ್ತಿ ಅಥವಾ ದೃಢೀಕರಣ ಪರಿಶೀಲನೆಗಳಲ್ಲಿ ವಿಫಲವಾಗಿದೆ. ಹಿಂದಿನ ಆವೃತ್ತಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗುವುದು.</string>
+    <string name="native_cc876dfbb261" formatted="false">ಪ್ರಯೋಗ ಪ್ರಕ್ರಿಯೆಯು ಇನ್ನೂ ನಿರ್ಗಮಿಸುತ್ತಿದೆ. ಮರುಪ್ರಯತ್ನಿಸುವ ಮೊದಲು ಚೇತರಿಕೆಗಾಗಿ ನಿರೀಕ್ಷಿಸಿ.</string>
+    <string name="native_adf977dcb47e" formatted="false">ಅಮಾನ್ಯವಾದ ನವೀಕರಣ ದಾಖಲೆ ಗುರುತಿಸುವಿಕೆ</string>
+    <string name="native_5207cac670b7" formatted="false">ಸ್ಥಾಪಿಸಲಾದ ಸ್ವತಂತ್ರ OpenCode ಗಾತ್ರವು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_cf5b81887589" formatted="false">ಸ್ಥಾಪಿಸಲಾದ ಸ್ವತಂತ್ರ OpenCode ಚೆಕ್‌ಸಮ್ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ. ಹಿಂದಿನ ಆವೃತ್ತಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿ.</string>
+    <string name="native_393049b506cc" formatted="false">ಮೂಲ ಪ್ರೋಗ್ರಾಂ ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಪ್ರಕಾಶಕರ ಪುರಾವೆಗಳನ್ನು ಹೊಂದಿಲ್ಲ. ಹಿಂದಿನ ಸ್ಥಿತಿ ಬದಲಾಗಿಲ್ಲ.</string>
+    <string name="native_c5853bcfd56c" formatted="false">ಹಿಂದಿನ ಅಡ್ಡಿಪಡಿಸಿದ ನವೀಕರಣವನ್ನು ಮೊದಲು ಮರುಪಡೆಯಿರಿ</string>
+    <string name="native_91d8da5525fa" formatted="false">ದೃಢೀಕರಣದ ನಂತರ ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಬದಲಾಗಿದೆ</string>
+    <string name="native_093f2c091a30" formatted="false">ಸಾಕಷ್ಟಿಲ್ಲದ ಸಂಗ್ರಹಣೆ. ಮೂಲ ಆವೃತ್ತಿ ಬದಲಾಗಿಲ್ಲ.</string>
+    <string name="native_fc9bc82e0872" formatted="false">ಮರುಸ್ಥಾಪಿಸಲು ಯಾವುದೇ ನವೀಕರಣ ಬ್ಯಾಕಪ್ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="native_a9f4d9903c14" formatted="false">ಬ್ಯಾಕಪ್ ಚಾಲನೆಯಲ್ಲಿರುವ ಆವೃತ್ತಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_6caa23763a42" formatted="false">ಹಿಂದಿನ ಪ್ರೋಗ್ರಾಂ ಪರಿಶೀಲನೆ ವಿಫಲವಾಗಿದೆ. ಪ್ರಸ್ತುತ ಅವಧಿಗಳು ಬದಲಾಗಿಲ್ಲ.</string>
+    <string name="native_c8b71b876695" formatted="false">A ನಂತರದ APK ಅಥವಾ Debian ಅಪ್‌ಡೇಟ್ ಬಂಡಲ್ ಮಾಡಿದ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಬದಲಾಯಿಸಿತು. ಮೂಲ ಸೆಶನ್ ಬ್ಯಾಕಪ್ ಅನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ; ಮೊದಲು ಅನುಗುಣವಾದ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಮರುಸ್ಥಾಪಿಸಿ.</string>
+    <string name="native_c443df40964b" formatted="false">ಅಮಾನ್ಯವಾದ ನವೀಕರಣ ಮರುಪಡೆಯುವಿಕೆ ಕಾರ್ಯಾಚರಣೆ</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode ನವೀಕರಣವನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCode, ಟರ್ಮಿನಲ್‌ಗಳು ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನಿಲ್ಲಿಸಿ, ನಂತರ ಅವು ನಿರ್ಗಮಿಸುವವರೆಗೆ ಕಾಯಿರಿ.</string>
+    <string name="native_90c07b54f8f8" formatted="false">ಸ್ಥಿತಿಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ, ಪ್ರೋಗ್ರಾಂಗಳನ್ನು ಪರಿಶೀಲಿಸುವುದು ಮತ್ತು ಆವೃತ್ತಿಗಳನ್ನು ಬದಲಾಯಿಸುವುದು</string>
+    <string name="native_5fc065ef6f50" formatted="false">ನವೀಕರಣ ನಿರ್ವಹಣೆ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="native_f7b560c8c820" formatted="false">ಅಧಿಕೃತ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ ಮತ್ತು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="native_9606191c82dc" formatted="false">ಮೂಲ ಪ್ರೋಗ್ರಾಂ ಮತ್ತು ಪ್ರಕಾಶಕರ ಸಹಿಯನ್ನು ಸಂರಕ್ಷಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_5c0d7787ee51" formatted="false">ಸೆಷನ್ ಸ್ಟೇಟ್ ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಉಳಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_0c8cf4632889" formatted="false">ಆವೃತ್ತಿಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗುತ್ತಿದೆ ಮತ್ತು ಸ್ಥಳೀಯ ಸೇವೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_3e81ea691a4a" formatted="false">ನವೀಕರಣದ ಮೊದಲು ಆವೃತ್ತಿ ಮತ್ತು ಸೆಷನ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_6b1ccd3778fa" formatted="false">ಹಿಂದಿನ ಆವೃತ್ತಿ ಮತ್ತು ಸೆಷನ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ. ಇತ್ತೀಚಿನ ಸೆಷನ್‌ಗಳು ಖಾಸಗಿ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿದಿವೆ.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode ನವೀಕರಣ ಪೂರ್ಣಗೊಂಡಿದೆ. ಸ್ಟಾರ್ಟ್ಅಪ್ ಹೊಂದಾಣಿಕೆಯ ಅಧಿಕೃತ ಮುಂಭಾಗ ಮತ್ತು ಬ್ಯಾಕೆಂಡ್ ಅನ್ನು ಬಳಸುತ್ತದೆ.</string>
+    <string name="native_4693930f5802" formatted="false">ನವೀಕರಣವನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ. ಮೂಲ ಸ್ಥಿತಿಯನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲಾಗಿದೆ ಎಂದು ದೃಢೀಕರಿಸುವುದು.</string>
+    <string name="native_d0e37bc26edd" formatted="false">ಅಪ್‌ಡೇಟ್ ಅಪೂರ್ಣವಾಗಿದೆ. ಈಗ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತಿದೆ; ಮೂಲ ಪ್ರೋಗ್ರಾಂ ಮತ್ತು ಸೆಷನ್ ಬ್ಯಾಕ್‌ಅಪ್‌ಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ.</string>
+    <string name="native_9a32d6c2d207" formatted="false">ಮರುಪಡೆಯುವಿಕೆ ಅಪೂರ್ಣವಾಗಿದೆ. ಎಲ್ಲಾ ರಾಜ್ಯ ಡೈರೆಕ್ಟರಿಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ ಮತ್ತು ಮರುಪ್ರಾರಂಭಿಸಲು ಮರುಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="native_49ad3eeae83d" formatted="false">ಸೆಷನ್ ಮರುಪಡೆಯುವಿಕೆ ಪೂರ್ಣಗೊಂಡಿದೆ. ಇತ್ತೀಚಿನ ಸ್ಥಿತಿಯು ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಉಳಿದಿದೆ.</string>
+    <string name="native_67c08a2911e1" formatted="false">ಮರುಪಡೆಯುವಿಕೆ ಈ ಬ್ಯಾಕಪ್ ಅಥವಾ ಮೂಲ ಪ್ರೋಗ್ರಾಂನೊಂದಿಗೆ ಮುಂದುವರಿಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಪ್ರಸ್ತುತ ಅವಧಿಗಳು ಮತ್ತು ಬ್ಯಾಕಪ್‌ಗಳು ಬದಲಾಗಿಲ್ಲ.</string>
+    <string name="native_976d8c169cfa" formatted="false">ನವೀಕರಣವನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ ಅಥವಾ ವಿಫಲವಾಗಿದೆ. ಮೂಲ ಆವೃತ್ತಿ ಮತ್ತು ಅವಧಿಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ.</string>
+    <string name="native_7ac77d1513fc" formatted="false">ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಸಹಿ ಮತ್ತು ಸಮಗ್ರತೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="native_0aa018b7337b" formatted="false">ಆಯ್ಕೆಮಾಡಿದ ಫೈಲ್ ಅನ್ನು ಓದಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">ಅಪ್‌ಡೇಟ್ ಪ್ಯಾಕೇಜ್ ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ</string>
+    <string name="native_f068b83f40bf" formatted="false">ಸಹಿ ಮತ್ತು ಪ್ಯಾಕೇಜ್ ಪರಿಶೀಲಿಸಲಾಗಿದೆ. ಸ್ಥಾಪಿಸುವ ಮೊದಲು ಆವೃತ್ತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">ಆಮದು ಮಾಡಲಾಗುವುದಿಲ್ಲ: ಅಮಾನ್ಯ ಫೈಲ್, ಸಹಿ ಹೊಂದಾಣಿಕೆಯಾಗದಿರುವುದು, ಹೊಂದಾಣಿಕೆಯಾಗದ ಹೋಸ್ಟ್ ಆವೃತ್ತಿ ಅಥವಾ ಸಾಕಷ್ಟು ಸಂಗ್ರಹಣೆ.</string>
+    <string name="native_616412e65df4" formatted="false">ಅಧಿಕೃತ ಪ್ರೋಗ್ರಾಂ ಅದರ ಪ್ರಕಾಶಕರ ಪುರಾವೆಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_4bf19a158f27" formatted="false">ಸ್ವತಂತ್ರ ರನ್‌ಟೈಮ್ ಪ್ಯಾಕೇಜ್‌ಗಳು ARM64 ಅನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತವೆ</string>
+    <string name="native_63b1fc6fffc9" formatted="false">ಅಪ್‌ಡೇಟ್ ಸಹಿ ಈ APK ಗೆ ಸೇರಿಲ್ಲ</string>
+    <string name="native_c7273354727f" formatted="false">ಅಪ್‌ಡೇಟ್ ಫೈಲ್ ಅದರ ಘೋಷಿತ ಗಾತ್ರವನ್ನು ಮೀರಿದೆ</string>
+    <string name="native_2aa6c8e74abb" formatted="false">ಅಪ್‌ಡೇಟ್ ಪ್ರೋಗ್ರಾಂ ಚೆಕ್‌ಸಮ್ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_dd619076d456" formatted="false">ಅಮಾನ್ಯವಾದ ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಗಾತ್ರ</string>
+    <string name="native_20c5bdfeffc0" formatted="false">ಸಂಕುಚಿತ ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಗಾತ್ರವು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_1de24edffcf5" formatted="false">ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ಹೆಚ್ಚುವರಿ ನಮೂದುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ</string>
+    <string name="native_c5b339aa77e8" formatted="false">ಹೊಂದಾಣಿಕೆಯಾಗದ ನವೀಕರಣ ಮೂಲ ಅಥವಾ ವಾಸ್ತುಶಿಲ್ಪ</string>
+    <string name="native_89d585f3661f" formatted="false">ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವ ಮೊದಲು Android ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ</string>
+    <string name="native_800df084dea0" formatted="false">ಅಪ್‌ಡೇಟ್ ಆರ್ಕೈವ್ ಚೆಕ್‌ಸಮ್ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_ddf1a005e310" formatted="false">ಈ APK ಸಹಿ ಸ್ವರೂಪವು ಸ್ವತಂತ್ರ ರನ್‌ಟೈಮ್ ನವೀಕರಣಗಳನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</string>
+    <string name="native_172e063db474" formatted="false">ಅಮಾನ್ಯವಾದ ನವೀಕರಣ ಪ್ಯಾಕೇಜ್ ನಮೂದು</string>
+    <string name="native_1c08780aa99f" formatted="false">ನವೀಕರಣ ಮೆಟಾಡೇಟಾ ಪೂರ್ಣಾಂಕಗಳನ್ನು ಬಳಸಬೇಕು</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">ಅಪ್‌ಡೇಟ್ ಪ್ರೋಗ್ರಾಂ 64-ಬಿಟ್ Linux ELF ಅಲ್ಲ</string>
+    <string name="native_d51ff4ed57b4" formatted="false">ನವೀಕರಣ ಪ್ರೋಗ್ರಾಂ 16 KiB ELF ಜೋಡಣೆಯನ್ನು ಪೂರೈಸುವುದಿಲ್ಲ</string>
+    <string name="native_3afa3741911b" formatted="false">ನವೀಕರಣ ಪ್ರೋಗ್ರಾಂ Debian glibc ಲೋಡರ್ ಅನ್ನು ಕಾಣೆಯಾಗಿದೆ</string>
+    <string name="native_6b0b9e864f5b" formatted="false">ಮಾನ್ಯವಾದ HTTPS ನವೀಕರಣ ಮೂಲವನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="native_c274c7dd5900" formatted="false">ನವೀಕರಣ ಮೂಲಗಳಿಗೆ ಬಳಕೆದಾರರ ರುಜುವಾತುಗಳಿಲ್ಲದ HTTPS URL ಗಳ ಅಗತ್ಯವಿದೆ</string>
+    <string name="native_f459f5ec9dac" formatted="false">ಅಮಾನ್ಯ ನವೀಕರಣ ಮೂಲ ಕ್ಷೇತ್ರ</string>
+    <string name="native_bde2a736e30a" formatted="false">ಮೊದಲು Android ಹೋಸ್ಟ್ ಅನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ</string>
+    <string name="native_b980fd021bef" formatted="false">ಅಮಾನ್ಯ ನವೀಕರಣ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="native_c0e96727553e" formatted="false">ಅಮಾನ್ಯವಾದ ಅಪ್‌ಡೇಟ್ ಫೈಲ್</string>
+    <string name="native_86ff542c68ed" formatted="false">ಈ ಸ್ಥಿತಿಯಲ್ಲಿ ನವೀಕರಣ ಡೈರೆಕ್ಟರಿಗಳನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="native_fbf82dc7ef22" formatted="false">ಸೆಷನ್ ಸ್ಥಿತಿಯು ಬಾಹ್ಯ ಡೈರೆಕ್ಟರಿಯನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತದೆ. ನವೀಕರಣವನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಪರೀಕ್ಷಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="native_796dc6b7ca29" formatted="false">ಸಾಕಷ್ಟು ಸಂಗ್ರಹಣೆಯಿಲ್ಲ. ಮೂಲ ಸ್ಥಿತಿ ಬದಲಾಗಿಲ್ಲ.</string>
+    <string name="native_099801d672b1" formatted="false">ಡೌನ್‌ಲೋಡ್ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="native_f1304f707ec9" formatted="false">ಹಲವಾರು ನವೀಕರಣ ಮರುನಿರ್ದೇಶನಗಳು</string>
+    <string name="native_0d07f458b607" formatted="false">ನವೀಕರಣ ಸರ್ವರ್ ಮೂಲ ಬೈಟ್‌ಗಳನ್ನು ವರ್ಗಾಯಿಸಲಿಲ್ಲ</string>
+    <string name="native_de331dfd8908" formatted="false">ಅಪ್‌ಡೇಟ್ ಫೈಲ್ ಉದ್ದ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_416b8c87e69e" formatted="false">ಅಪ್‌ಡೇಟ್ ಫೈಲ್ ಸಂಪೂರ್ಣವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಆಗಿಲ್ಲ</string>
+    <string name="native_e1e74b76c427" formatted="false">ನವೀಕರಣ ಸರ್ವರ್ ಸಂಪೂರ್ಣ ಫೈಲ್ ಅನ್ನು ಹಿಂತಿರುಗಿಸಲಿಲ್ಲ</string>
+    <string name="native_6afcf03cb130" formatted="false">ಸಾಕಷ್ಟು ಅಪ್‌ಡೇಟ್ ಸ್ಟೇಜಿಂಗ್ ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ</string>
+    <string name="native_be1c695d9241" formatted="false">ಅಪ್‌ಡೇಟ್ ಫೈಲ್ SHA-256 ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_a0133d117bb0" formatted="false">ಅಪ್‌ಡೇಟ್ ಪ್ಯಾಕೇಜ್ ದೃಢೀಕೃತ ಬಿಡುಗಡೆ ಮಾಹಿತಿಯೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ</string>
+    <string name="native_8635a43ce28a" formatted="false">ಅಮಾನ್ಯ ಪ್ರಾಜೆಕ್ಟ್ ಡೈರೆಕ್ಟರಿ</string>
+    <string name="native_d32ab8b004e6" formatted="false">ಕಾರ್ಯಸ್ಥಳದ ಸ್ಥಳವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="native_43a5447014fd" formatted="false">ಟರ್ಮಿನಲ್ ತೆರೆಯುವ ಮೊದಲು ರನ್ಟೈಮ್ನಿಂದ ಅಭಿವೃದ್ಧಿ ಪರಿಸರವನ್ನು ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ ಹೊಸ ಟರ್ಮಿನಲ್</string>
+    <string name="native_b3b7108a568f" formatted="false">ಪ್ರಸ್ತುತವನ್ನು ಮುಚ್ಚಿ</string>
+    <string name="native_0e822affd5da">ಆರಂಭಿಕ ಡೈರೆಕ್ಟರಿ: %1$s</string>
+    <string name="native_72d769e3888d">ಹೊಸ ಟರ್ಮಿನಲ್ ಡೈರೆಕ್ಟರಿ: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">ಸಿಸ್ಟಂ ಫೈಲ್ ಪಿಕರ್ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="native_179a57921f91" formatted="false">WebView ರೆಂಡರಿಂಗ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="native_3024ec603eb7" formatted="false">ರೆಂಡರಿಂಗ್ ಫ್ರೇಮ್ ದರ</string>
+    <string name="native_55b6d7f645f3" formatted="false">60 Hz ಆದ್ಯತೆ</string>
+    <string name="native_66f8bafa9f7f" formatted="false">ಡಿಸ್ಪ್ಲೇ ರಿಫ್ರೆಶ್ ದರವನ್ನು ಅನುಸರಿಸಿ</string>
+    <string name="native_d4ecf38c341d" formatted="false">ಹೆಚ್ಚಿನ ರಿಫ್ರೆಶ್ ರೇಟ್ ಡಿಸ್ಪ್ಲೇಗಳಲ್ಲಿ ರೆಂಡರಿಂಗ್ ಲೋಡ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡಲು 60 Hz ಗೆ ಆದ್ಯತೆ ನೀಡಿ. ಪ್ರದರ್ಶನವನ್ನು ಅನುಸರಿಸಿ ಸಿಸ್ಟಮ್ ಫ್ರೇಮ್‌ಗಳನ್ನು ನಿಗದಿಪಡಿಸಲು ಅನುಮತಿಸುತ್ತದೆ. ಈ ಅಪ್ಲಿಕೇಶನ್‌ನ ವಿಂಡೋಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ.</string>
+    <string name="native_bf0d3a407418" formatted="false">ಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="native_2fb8edc75b25" formatted="false">ಸಿದ್ಧವಾಗಿದೆ</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ ಲೋಡರ್</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian ಅನ್ನು ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="native_f863d955fa6e" formatted="false">ಸ್ಥಳೀಯ ಅಭಿವೃದ್ಧಿ ಪರಿಸರ</string>
+    <string name="native_55aa84065de2" formatted="false">ಸ್ಥಳೀಯ Debian ಅಭಿವೃದ್ಧಿ ಅಧಿವೇಶನ</string>
+    <string name="native_6e75b1822ebc" formatted="false">ನಿಲ್ಲಿಸಿ</string>
+    <string name="native_5f73a4e1e494" formatted="false">ಸ್ಥಾಪಿಸಲಾಗಿದೆ</string>
+    <string name="native_147e90d2ec02" formatted="false">ಚೇತರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</string>
+</resources>

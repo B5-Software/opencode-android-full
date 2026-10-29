@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Vývojový pracovní prostor</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Jedna stránka</string>
+    <string name="native_651ae6ea52ae" formatted="false">Obnovit rozdělené zobrazení</string>
+    <string name="native_d7e97cfac66f" formatted="false">Uspořádání pracovního prostoru</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Rozšiřte okno pro zobrazení více panelů společně.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Zobrazit soubory projektu</string>
+    <string name="native_712d956931d1" formatted="false">Zobrazit terminál</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminál níže</string>
+    <string name="native_5de225480fa7" formatted="false">Terminál vpravo</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Panely se při omezeném prostoru sbalí a zůstanou přístupné z plovoucí nabídky. Boční terminál se objeví v širších oknech. Přetažením oddělovačů změňte velikost panelů.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + levý Alt: 1–5 stránek · Soubory B · T Terminál · M Desktop · Enter Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Hotovo</string>
+    <string name="native_bcec2218fc21" formatted="false">Resetujte proporce</string>
+    <string name="native_da88c62d1217">Zobrazit %1$s na jedné stránce</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Dělič projektových souborů</string>
+    <string name="native_707c0891a0e6" formatted="false">Koncový dělič</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode a dělič plochy</string>
+    <string name="native_50407ad8dfa8" formatted="false">Zmenšit předchozí panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Zvětšit předchozí panel</string>
+    <string name="native_3f3685e8d731" formatted="false">Příliš mnoho odkazů PRoot pro tento formát archivu</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Pevné odkazy Linuxu vyžadují kompletní rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Vnoření adresářů zálohy je příliš hluboké</string>
+    <string name="native_b6f744737a45" formatted="false">Neplatná délka záložního hesla</string>
+    <string name="native_13bde5dd1812" formatted="false">Záložní heslo musí obsahovat alespoň 12 znaků</string>
+    <string name="native_be02cbd55932" formatted="false">Nepodporovaný formát zálohy</string>
+    <string name="native_7a91a3d586ae" formatted="false">Neplatné záhlaví zálohy</string>
+    <string name="native_2bbd318a5667" formatted="false">Nepodporované parametry šifrování zálohy</string>
+    <string name="native_18868da27841" formatted="false">Nesprávné heslo zálohy nebo poškozený soubor</string>
+    <string name="native_e41d6440468d" formatted="false">Záznam obnovy je příliš velký</string>
+    <string name="native_282692502f14" formatted="false">Metadata zálohy jsou příliš velká</string>
+    <string name="native_61fdca8d6c82" formatted="false">Vnoření metadat zálohy je příliš hluboké</string>
+    <string name="native_8cefb30732d4" formatted="false">Neplatná metadata zálohy</string>
+    <string name="native_5d3037708cad" formatted="false">Nepodporovaná nativní nastavení</string>
+    <string name="native_81a57c382f9d" formatted="false">Nelze uložit nativní nastavení</string>
+    <string name="native_50603e683d4a" formatted="false">Neplatný nadřazený adresář v záložní cestě</string>
+    <string name="native_c3f838a46b8e" formatted="false">Kořen pracovní stanice nesmí být symbolický odkaz</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Soubor změněn během zálohování</string>
+    <string name="native_77e1e85147db" formatted="false">Nepodporovaný datový formát pracovní stanice</string>
+    <string name="native_a927b5a565af" formatted="false">Záloha obsahuje další data</string>
+    <string name="native_c2b886d508f2" formatted="false">Záloha obsahuje duplicitní cesty</string>
+    <string name="native_3dab8cd60102" formatted="false">Záloha obsahuje nastavení runtime, která nelze migrovat</string>
+    <string name="native_f45ba674a630" formatted="false">Záloha je příliš velká nebo úložiště je nedostatečné</string>
+    <string name="native_140073e8e77b" formatted="false">Nelze obnovit časová razítka symbolických odkazů</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nelze obnovit časová razítka pojmenovaného kanálu\nZálohování a obnova pracovní stanice</string>
+    <string name="native_0daee8026db1" formatted="false">Zálohování a obnova pracovní stanice</string>
+    <string name="native_1acc18928c5f" formatted="false">Zahrnuje Debian, vývojářské nástroje, projekty, domov, relace a nastavení OpenCode, data prohlížeče Linux a nativní nastavení rozvržení.</string>
+    <string name="native_62254d31a535" formatted="false">Dočasné soubory a staré zálohy jsou vyloučeny. Úložiště Android WebView a neodeslané koncepty zůstávají v tomto zařízení a nepřenesou se s touto zálohou.</string>
+    <string name="native_808eabc7811f" formatted="false">Vytvořte šifrovanou zálohu</string>
+    <string name="native_201c10b38296" formatted="false">Importujte zálohu</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Nejprve uložte změny v editoru souborů.</string>
+    <string name="native_0559cd596453" formatted="false">Zastavte OpenCode, terminály a plochu</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Operace prostředí není dokončena. Nejprve to obnovte.</string>
+    <string name="native_185f58156330" formatted="false">Obnovení nedokončené operace</string>
+    <string name="native_20831b6f67a7" formatted="false">Vraťte zpět poslední obnovení prostředí</string>
+    <string name="native_4f392d5d6141">Šifrovaná místní kopie: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Uložit do souboru</string>
+    <string name="native_f09619351eb9" formatted="false">Odstranit místní kopii</string>
+    <string name="native_85c686eb9841">Zpracováno %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Zrušení úlohy zálohování</string>
+    <string name="native_66c9d896407b" formatted="false">Šifrování zálohy pracovní stanice</string>
+    <string name="native_548cd9f0831e" formatted="false">Dešifrujte a ověřte zálohu</string>
+    <string name="native_d248f5eca9a5" formatted="false">Zálohy mohou obsahovat soukromé klíče SSH, klíče API a data účtu. Použijte alespoň 12 znaků. Zapomenuté heslo nelze obnovit.</string>
+    <string name="native_f249422b9ec1" formatted="false">Záloha je dešifrována a ověřena v soukromém adresáři. Vaše prostředí bude nahrazeno pouze po potvrzení obnovení.</string>
+    <string name="native_e7be6841703a" formatted="false">Záložní heslo</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Opakujte heslo</string>
+    <string name="native_eafdc5cd4882" formatted="false">Spusťte šifrování</string>
+    <string name="native_2986b88beade" formatted="false">Dešifrujte a ověřte</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Zrušit</string>
+    <string name="native_f46c5ed7412d" formatted="false">Obnovit celé předchozí prostředí?</string>
+    <string name="native_33eda0946a5b" formatted="false">Smazat zašifrovanou místní kopii?</string>
+    <string name="native_26db24150f2e" formatted="false">Projekty, domov, Debian a relace se vrátí do stavu před posledním obnovením. Novější práce zůstanou v soukromé záloze uvnitř aplikace.</string>
+    <string name="native_1153b30d51d5" formatted="false">Smaže se pouze zašifrovaná místní kopie v aplikaci. Soubory uložené jinde zůstávají dostupné.</string>
+    <string name="native_427a78a4e69a" formatted="false">Potvrďte</string>
+    <string name="native_7af46d7ee003" formatted="false">Obnovit zálohu této pracovní stanice?</string>
+    <string name="native_ed40940162d0">%1$s\nZáznamy %2$s · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Záloha obsahuje spustitelný software Linux. Potvrďte, že jeho zdroji důvěřujete. Obnova nahradí celé prostředí a prověří místní služby; předchozí prostředí je zachováno pro obnovení.\nZáloha</string>
+    <string name="native_c3d74ed0c054" formatted="false">ověřena. Čekání na potvrzení obnovení.</string>
+    <string name="native_97076078c749" formatted="false">Povolit také režim kompatibility Chromium (zakáže karanténu procesů Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Ve výchozím nastavení vypnuto. Můžete to povolit později v nastavení plochy.</string>
+    <string name="native_ddf09383413c" formatted="false">Potvrďte obnovení</string>
+    <string name="native_8e6056b0f629" formatted="false">Zrušit import\nProstředí pracovní stanice</string>
+    <string name="native_63a895901c76" formatted="false">změněno</string>
+    <string name="native_a4c994348a39" formatted="false">Znovu otevřete pracovní prostor</string>
+    <string name="native_774947f0653e" formatted="false">Zrušit úlohu</string>
+    <string name="native_e09a22b18445" formatted="false">Úloha byla přerušena. Znovu vyberte operaci a zadejte heslo.</string>
+    <string name="native_38c5fcc634db" formatted="false">Nejprve uložte úpravy souboru ve všech oknech. Před dalším pokusem zrušte existující import.</string>
+    <string name="native_029bfa8ff772" formatted="false">Obnovení pracovní stanice a ověření programů</string>
+    <string name="native_e4f04df818f8" formatted="false">Zpracování vybrané operace zálohování</string>
+    <string name="native_8206f072d5ee" formatted="false">Zastavte OpenCode, terminály a plochu a počkejte na dokončení operací se soubory.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nelze spustit úlohu zálohování. Zkuste to znovu s aplikací v popředí.</string>
+    <string name="native_1553b714941d" formatted="false">Dešifrování a ověření zálohy. Původní prostředí zůstává obnovitelné…\nZáloha</string>
+    <string name="native_dafd005e953e" formatted="false">ověřena. Potvrďte obnovení v aplikaci.</string>
+    <string name="native_9fb236184596" formatted="false">Odstraněna zašifrovaná místní kopie v aplikaci.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operace zrušena. Původní data prostředí zachována.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operace není dokončena. Zkontrolujte heslo, integritu zálohy, verzi hostitele a volné místo. Původní data prostředí zachována.</string>
+    <string name="native_29deabd28960" formatted="false">Vytváření šifrované zálohy pracovní stanice…</string>
+    <string name="native_3d137e243806" formatted="false">Byla vytvořena šifrovaná záloha. Vyberte, kam se má uložit.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Obnovení prostředí a kontrola místních služeb. Udržujte data aplikace nedotčená…\nPracovní stanice</string>
+    <string name="native_840a6a8bf2e6" formatted="false">obnovena. Předchozí prostředí zůstává v soukromé záloze. Znovu otevřete pracovní prostor.</string>
+    <string name="native_0392cd6152d2" formatted="false">Kontroly obnovení se nezdařily. Návrat do předchozího prostředí; importovaná data zůstávají v soukromé záloze.</string>
+    <string name="native_5dc7410b600e" formatted="false">Obnova není kompletní. Všechny datové adresáře jsou zachovány. Ponechte si data aplikace a zopakujte obnovení.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Obnovování předchozího prostředí pracovní stanice…</string>
+    <string name="native_15821323ff89" formatted="false">Předchozí prostředí bylo obnoveno. Novější práce zůstává v soukromé záloze. Znovu otevřete pracovní prostor.</string>
+    <string name="native_56dd94f47870" formatted="false">Toto obnovení nelze vrátit zpět. Aktuální prostředí a zálohy jsou zachovány.</string>
+    <string name="native_93530f3fa029" formatted="false">Zpět není kompletní. Všechny datové adresáře jsou zachovány. Ponechte si data aplikace a zopakujte obnovení.</string>
+    <string name="native_f12963c80def" formatted="false">Ukládání šifrované zálohy…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Šifrovaná záloha byla uložena. Lokální kopii můžete znovu uložit nebo ji odstranit ručně.</string>
+    <string name="native_d660cccf65e0" formatted="false">Čištění nepotvrzeného importu…</string>
+    <string name="native_800592163979" formatted="false">Import zrušen. Původní prostředí beze změny.</string>
+    <string name="native_5a90367eb834" formatted="false">Import zrušen. Původní prostředí nezměněno; některá data dočasného importu zůstanou v soukromém adresáři aplikace.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Příprava dešifrování a ověření…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Příprava šifrované zálohy…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Nelze spustit službu zálohování. Zkuste to znovu v popředí.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Nejprve obnovte nedokončenou operaci prostředí</string>
+    <string name="native_f14aea7c819c" formatted="false">Neplatný záznam obnovení</string>
+    <string name="native_7c284c55ee08" formatted="false">Chybí adresář pro obnovení</string>
+    <string name="native_bfc4792df15b" formatted="false">Nativní nastavení překračují limit záznamu obnovy</string>
+    <string name="native_8d93770ba8c9">Chybí předchozí adresář prostředí: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Neznámá fáze obnovy</string>
+    <string name="native_20c5124fe175" formatted="false">Neznámá operace obnovení</string>
+    <string name="native_1c457322b624" formatted="false">Není k dispozici žádné předchozí prostředí pro obnovení</string>
+    <string name="native_30db1666c8e5" formatted="false">Tato záloha patří jiné aplikaci</string>
+    <string name="native_6687d1c64d75" formatted="false">Architektura záložního procesoru neodpovídá</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Nejprve aktualizujte hostitele Android na verzi používanou touto zálohou</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Záložní adresář je neúplný</string>
+    <string name="native_66106ab3e254" formatted="false">Stará záloha nemá žádný ověřitelný důkaz vydavatele OpenCode. Před opětovným zálohováním spusťte původní prostředí s tímto hostitelem.</string>
+    <string name="native_bec13cc92982" formatted="false">Systémové akce vývojového prostředí</string>
+    <string name="native_65de80229626" formatted="false">Debian požadoval systémovou akci</string>
+    <string name="native_5e38581cf19c" formatted="false">Klepnutím zkontrolujte a zpracujte požadavek</string>
+    <string name="native_749d406d2c67" formatted="false">Z vývojového prostředí Debianu</string>
+    <string name="native_4032d33b2afd" formatted="false">Otevřít systémový prohlížeč?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Otevřít náhled místního projektu?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Číst schránku?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Zkopírovat do systémové schránky?</string>
+    <string name="native_77f761eb70aa" formatted="false">Odeslat místní oznámení?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Sdílet soubor projektu?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Importovat systémové soubory?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Exportovat soubor projektu?</string>
+    <string name="native_7ac295421c6d" formatted="false">Otevřít v prohlížeči</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Otevřít náhled</string>
+    <string name="native_14792d6cd7a6" formatted="false">Povolit čtení</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Zkopírovat do schránky</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Odeslat upozornění</string>
+    <string name="native_88152a09fa02" formatted="false">Vyberte aplikaci pro sdílení</string>
+    <string name="native_7a49a79c57f9" formatted="false">Vyberte soubory</string>
+    <string name="native_99d9f87419c5" formatted="false">Vyberte, kam uložit</string>
+    <string name="native_23e5bb2090aa">%1$s\nOtevře se daty prohlížeče izolovanými z OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Poskytněte text ze systémové schránky aktuálnímu programu Debianu.</string>
+    <string name="native_dcc6bec24e43">Vyberte soubory, které chcete importovat do %1$s. Existující soubory jsou zachovány a duplikáty jsou přejmenovány.\nRežim prohlížeče</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium\nRežim kompatibility</string>
+    <string name="native_4767f37900f6" formatted="false">používá samostatný profil prohlížeče a deaktivuje karanténu procesů systému Chromium Linux. Prohlížeč má stále přístup k souborům v této aplikaci. Vyhněte se nedůvěryhodným webům a pro důležité účty používejte systémový prohlížeč Android. Po změně režimů znovu otevřete Chromium.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standardní karanténa Linuxu je ve výchozím nastavení povolena. Pokud Chromium nelze spustit, můžete vybrat režim kompatibility. Deaktivuje karanténu procesů Linux a používá samostatný profil, přičemž zachovává přístup k souborům aplikací. Vyhněte se nedůvěryhodným webům; pro důležité účty použijte prohlížeč systému Android.</string>
+    <string name="native_3a2596fa9517" formatted="false">Obnovte standardní režim</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Povolit režim kompatibility</string>
+    <string name="native_9a45442649f5" formatted="false">Debian desktop</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Sdílené /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">První instalace stáhne grafické komponenty. Po instalaci se může desktop spustit a zastavit nezávisle na OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC zrcadlo</string>
+    <string name="native_41e865941e16" formatted="false">Oficiální zrcadlo Debianu</string>
+    <string name="native_ea341b8a102b" formatted="false">Počáteční rozlišení</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Plocha zůstane spuštěná, když přepnete stránky. Zastavte to z Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Zastavení úlohy na ploše</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Spusťte plochu</string>
+    <string name="native_ea27a25e5114" formatted="false">Instalace součástí plochy</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: režim kompatibility</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standardní režim</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Nejprve nainstalujte vývojářské nástroje Debianu z Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Protokol činností</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nelze otevřít složku projektu. Zkontrolujte, zda adresář existuje.</string>
+    <string name="native_83c76743b29d" formatted="false">Obnovení přerušené operace prostředí</string>
+    <string name="native_739a730ae247" formatted="false">Údržba prostředí</string>
+    <string name="native_049281329843" formatted="false">Počkejte na dokončení údržby aktualizací nebo aktuální úlohy.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Počkejte na dokončení aktuální úlohy vývojového prostředí</string>
+    <string name="native_83099168971c" formatted="false">Instalace desktopu</string>
+    <string name="native_85e0c18dde8d" formatted="false">Startovací plocha</string>
+    <string name="native_9a48f8196d8f" formatted="false">Vyžaduje pozornost</string>
+    <string name="native_75470fb13121" formatted="false">Zastaveno</string>
+    <string name="native_51a53c8109d5" formatted="false">Nelze přečíst nebo uložit záznam aktivity. Opravte jej z Runtime nebo uvolněte nějaké úložiště.</string>
+    <string name="native_d36a018cc619" formatted="false">Nejprve nainstalujte vývojové prostředí Debianu</string>
+    <string name="native_80be4c2928a5" formatted="false">Nejprve se připojte k síti\nInstalace</string>
+    <string name="native_a065d81014b1" formatted="false">Desktop je neúplná. Opakujte instalaci.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop nainstalován. Spusťte jej, když je potřeba.</string>
+    <string name="native_6c1c52771115" formatted="false">Nejprve nainstalujte součásti plochy</string>
+    <string name="native_693d90a47827" formatted="false">Operace stolního počítače se nezdařila. Podrobnosti jsou příliš dlouhé nebo nedostupné.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nelze dokončit ukládání značky zastávky. Proces čištění pokračoval.</string>
+    <string name="native_06083621a6ce" formatted="false">Ukládání záznamu aktivity nelze dokončit. Příští spuštění to bude považovat za přerušení.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop běží</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Vypršel časový limit operace stolního počítače. Zkontrolujte protokol a zkuste to znovu.\nProces</string>
+    <string name="native_e70d328a3ca9">Desktop byl ukončen (%1$s). Prohlédněte si protokol aktivit.</string>
+    <string name="native_df5c878f2852" formatted="false">Místní grafický pracovní prostor</string>
+    <string name="native_7b0455a8daa4" formatted="false">Zastavit plochu</string>
+    <string name="native_a62123cde9c7" formatted="false">Přerušené úlohy a obnova</string>
+    <string name="native_279308947a14" formatted="false">Nelze přečíst záznam aktivity. Oprava uchovává kopii poškozeného záznamu a zachovává projekty, relace a prostředí Linuxu.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Záznam o činnosti opravy</string>
+    <string name="native_6b43650c2c82" formatted="false">Úloha byla neočekávaně ukončena.</string>
+    <string name="native_acb0c970aaa6">Svorky %1$s nebyly normálně uzavřeny. Jejich běžící příkazy byly přerušeny.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Restart potvrzen. Předchozí příkazy nebyly přehrány.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Uložené projekty a relace jsou zachovány. Znovu otevřete terminály ručně; nedokončené příkazy se automaticky neobnoví.</string>
+    <string name="native_fa9669296762" formatted="false">Restartujte OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Plocha se automaticky nerestartuje. Spusťte jej znovu ze stránky Plocha.</string>
+    <string name="native_644f8f44251f" formatted="false">Otevřete soubor</string>
+    <string name="native_9dfb5569d609" formatted="false">Sdílení souboru</string>
+    <string name="native_a4500cff3a86" formatted="false">Pracovní adresář nesmí být symbolický odkaz</string>
+    <string name="native_8657d27661bd" formatted="false">Neplatná cesta k pracovnímu adresáři</string>
+    <string name="native_02b702a9adff" formatted="false">Vyberte soubor</string>
+    <string name="native_924874b746cc" formatted="false">Správa symbolických odkazů v terminálu</string>
+    <string name="native_efea6e422a54" formatted="false">Neplatný název souboru\nAdresář</string>
+    <string name="native_c4989dc37aab" formatted="false">neexistuje</string>
+    <string name="native_d613dba39b44" formatted="false">Cílový adresář neexistuje</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Nelze umístit složku do sebe nebo do jeho potomků</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekt obsahuje speciální zařízení nebo zásuvky a nelze jej kopírovat</string>
+    <string name="native_6c36955b068b" formatted="false">Vyberte běžný soubor</string>
+    <string name="native_49191d7d489f" formatted="false">Tento soubor přesahuje 2 MB. Upravte jej pomocí OpenCode nebo terminálu.</string>
+    <string name="native_ee42414d36c2" formatted="false">Soubor je příliš velký</string>
+    <string name="native_f0a979f87157" formatted="false">Exportujte binární soubory a otevřete je v jiné aplikaci</string>
+    <string name="native_88a9c82651fc" formatted="false">Upravte soubory, které nejsou UTF-8, pomocí OpenCode nebo terminálu</string>
+    <string name="native_0189a5c3418c" formatted="false">Tento soubor změnil jiný nástroj. Před úpravou jej znovu otevřete.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Původní adresář již neexistuje. Nejprve jej obnovte.</string>
+    <string name="native_46eae321049e" formatted="false">Není k dispozici žádná aplikace pro sdílení\nOdpadkový koš</string>
+    <string name="native_87d699d3a26c" formatted="false">Soubory projektu</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Soubory projektu</string>
+    <string name="native_4dcf914f0b64" formatted="false">Smazané soubory lze obnovit do jejich původních adresářů</string>
+    <string name="native_c5b81b02354f" formatted="false">Zpět</string>
+    <string name="native_e56b99379169">Zkopírovány soubory %1$s · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopírování…</string>
+    <string name="native_85199bb36b04" formatted="false">Zrušení operace</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Zavřít</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Nová relace</string>
+    <string name="native_23c250cc8e0b" formatted="false">Zde spusťte relaci OpenCode\nTerminál</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminál</string>
+    <string name="native_3645f30b3412" formatted="false">Neuložené změny</string>
+    <string name="native_2266227605c4" formatted="false">Uložit\nKoš</string>
+    <string name="native_064fbc7ad3f3" formatted="false">je prázdný\nObnovení</string>
+    <string name="native_a9e739b13e52" formatted="false">Obnovit</string>
+    <string name="native_45985dc2183e" formatted="false">Přesun:</string>
+    <string name="native_31214130b5b7" formatted="false">Kopie: \nPasta</string>
+    <string name="native_07e5c3158f35" formatted="false">Pasta</string>
+    <string name="native_831b4e0fb574" formatted="false">Nový</string>
+    <string name="native_ff65a22d7087" formatted="false">Nová složka</string>
+    <string name="native_71faed44a86c" formatted="false">Nový soubor\nDovoz</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importovat</string>
+    <string name="native_d85825123e60" formatted="false">Obnovit</string>
+    <string name="native_ac9d73843736" formatted="false">Prohledat tento adresář</string>
+    <string name="native_21eef82963ee" formatted="false">Tento adresář je prázdný. Importujte soubory nebo vytvořte projekt.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Žádné odpovídající soubory</string>
+    <string name="native_d674bc0f86b8" formatted="false">Akce se soubory</string>
+    <string name="native_d04a47c87cc8" formatted="false">Symbolický odkaz\nSložka</string>
+    <string name="native_e0ba66f5246a" formatted="false">Složka</string>
+    <string name="native_f170b42599e8" formatted="false">Přejmenovat</string>
+    <string name="native_4cdacf57ead2" formatted="false">Kopírovat</string>
+    <string name="native_124aa030694e" formatted="false">Přesunout do…</string>
+    <string name="native_ac990518ed87" formatted="false">Zde otevřete terminál</string>
+    <string name="native_87bc93932d8a" formatted="false">Export do systémových souborů</string>
+    <string name="native_dd37f132172f" formatted="false">Přesunout do koše</string>
+    <string name="native_7318746d337c" formatted="false">Přesunout do koše?</string>
+    <string name="native_2b5ee3f10a56">Můžete obnovit „%1$s“ z koše.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Přesun</string>
+    <string name="native_4e47aaa113fc" formatted="false">Zahodit neuložené změny?</string>
+    <string name="native_63b75399ef1a" formatted="false">Zahodit změny</string>
+    <string name="native_d9618f7b8d25" formatted="false">Pokračujte v úpravách\nNázev</string>
+    <string name="native_76ce6aef5479" formatted="false">Jméno</string>
+    <string name="native_35b0fc30b909" formatted="false">OK\nProstředí</string>
+    <string name="native_11b319774788" formatted="false">obnoveno. Znovu otevřete pracovní prostor.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Nejprve dokončete obnovu přerušené operace v Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Probíhá údržba prostředí. Zkuste to znovu později.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operace zrušena</string>
+    <string name="native_c508721eb3cd" formatted="false">Soubor s tímto názvem již existuje. Vyberte jiné jméno.</string>
+    <string name="native_1e8274fe468a" formatted="false">Soubor již neexistuje. Obnovte adresář.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Přístup k souboru byl odepřen</string>
+    <string name="native_cd808e4c321e" formatted="false">Operaci nelze dokončit</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operace není dokončena. Zkontrolujte dostupné úložiště nebo vyberte soubory znovu.</string>
+    <string name="native_3f9983126fd7" formatted="false">Zkontrolujte stav spuštění OpenCode v Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nelze otevřít nový terminál. Zkontrolujte počet relací.</string>
+    <string name="native_2160fde3813a" formatted="false">Správa symbolických odkazů v terminálu. Správce souborů nesleduje odkazy.</string>
+    <string name="native_7a844e9d4017" formatted="false">Přesun dokončen</string>
+    <string name="native_573877894fcf" formatted="false">Kopírování dokončeno</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Přesunuto do koše</string>
+    <string name="native_862330af933f" formatted="false">Obnoveno do původního adresáře</string>
+    <string name="native_beda23c9d52b" formatted="false">Proběhla údržba nebo výměna prostředí. Před úpravou znovu otevřete pracovní prostor.</string>
+    <string name="native_678c6953bb2b" formatted="false">Uloženo</string>
+    <string name="native_8063159f2178" formatted="false">Nelze přečíst vybraný soubor</string>
+    <string name="native_4cdc2180d2ac">Importováno %1$s souborů</string>
+    <string name="native_e98763643b93" formatted="false">Nelze zapisovat do vybraného umístění</string>
+    <string name="native_5afd173be7fa" formatted="false">Export dokončen</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kód a relace\nStolní počítač</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafický pracovní prostor\nSoubory</string>
+    <string name="native_770d49c5f689" formatted="false">Provozní doba</string>
+    <string name="native_6a9b6480b58f" formatted="false">Doba běhu</string>
+    <string name="native_b561fe9204cc" formatted="false">Služby a vývojářské nástroje</string>
+    <string name="native_70850bdeeabd" formatted="false">Zavřete nabídku stránky\nPracovní prostor</string>
+    <string name="native_b4549acb48e8" formatted="false">Pracovní prostor</string>
+    <string name="native_3d3551f4660f">Neprůhlednost plovoucího tlačítka %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Nižší hodnoty činí plovoucí tlačítko průhlednějším</string>
+    <string name="native_e031beabfc9a" formatted="false">Otevřete nabídku stránek</string>
+    <string name="native_106ee775b538" formatted="false">Připojování k místnímu OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Místní připojení vyžaduje obnovení</string>
+    <string name="native_dacb8837471c" formatted="false">Znovu připojte</string>
+    <string name="native_17584aa60ae6" formatted="false">Nelze připravit mezipaměť místních prostředků</string>
+    <string name="native_3b3b80064ccb" formatted="false">Příprava místního OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Zkuste to znovu</string>
+    <string name="native_b07809340403" formatted="false">Umístění pracovního prostoru ještě nebylo uloženo. Zkuste to znovu později.</string>
+    <string name="native_e4ab10392d05" formatted="false">Místní služba se připravuje. Váš pracovní prostor se po připojení automaticky otevře.</string>
+    <string name="native_20ea15973287" formatted="false">Předchozí běh byl přerušen. Restartujte z Runtime; terminálové příkazy se nebudou automaticky přehrávat.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Spusťte OpenCode z Runtime pro otevření kódu a relací.</string>
+    <string name="native_abbac5c22111" formatted="false">Ukončit aplikaci?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Vývojové prostředí může běžet na pozadí. Vraťte se později z oznámení.</string>
+    <string name="native_814a8fb24b62" formatted="false">Ukončit aktuální pracovní prostor?</string>
+    <string name="native_a76464945c2d" formatted="false">Zastavte také vývojové prostředí</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Výjezd</string>
+    <string name="native_b00143b08ff1" formatted="false">Vývojová pracovní stanice připravena</string>
+    <string name="native_51bca456a350" formatted="false">Vaše vývojová pracovní stanice Debianu</string>
+    <string name="native_0c2acd0b6057" formatted="false">Běží</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Startování</string>
+    <string name="native_44da7f6a451d" formatted="false">Zastavení\nVývojové prostředí</string>
+    <string name="native_b7e1503a7239" formatted="false">Repair</string>
+    <string name="native_7c91bd67ff14" formatted="false">Instalace vývojového prostředí</string>
+    <string name="native_cfd73bb04860" formatted="false">Prostředí zastavení</string>
+    <string name="native_e7ec95694dce" formatted="false">Spusťte OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Zkontrolujte prostředí</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Aktualizujte vývojářské nástroje Debianu</string>
+    <string name="native_c114ec62712b" formatted="false">Předchozí záloha prostředí, projekty a data relací jsou zachována.</string>
+    <string name="native_eb3114155716" formatted="false">Instalace/aktualizace jazykových serverů</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) a Python (pylsp), nainstalované online z podepsaných repozitářů Debianu. Nejprve zastavte OpenCode a plochu.</string>
+    <string name="native_2c7251cce661" formatted="false">Klepnutím na plovoucí tlačítko přepnete stránky. Přetažením přemístěte.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Po spuštění se zde zobrazí informace o době běhu.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Přiložená verze APK</string>
+    <string name="native_e6b986511faf" formatted="false">Aktualizace OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Importujte aktualizaci .ocaupdate podepsanou vydavatelem této aplikace. Oficiální aktualizace frontendu a backendu dohromady.</string>
+    <string name="native_8aad48b0508d" formatted="false">Zdroj aktualizace (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Zkontrolujte zdroj aktualizací</string>
+    <string name="native_f73973cfadbb">Podepsaná verze: %1$s\nZávazek: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Stáhněte a ověřte</string>
+    <string name="native_f2ef7965bf12" formatted="false">Vyberte aktualizační balíček</string>
+    <string name="native_165111adfe2c">Připraveno k instalaci: %1$s\nPotvrdit: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Nainstalujte tuto aktualizaci</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Obnovte verzi a relace z doby před aktualizací</string>
+    <string name="native_6864335de653" formatted="false">Zrušit aktualizaci</string>
+    <string name="native_5e3472cf084e" formatted="false">Instalovat aktualizaci OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Obnovit stav před aktualizací?</string>
+    <string name="native_11beb4a42abc">Nainstalujte %1$s. Aplikace uloží snímek relace, zkontroluje podepsaný program a v případě selhání obnoví předchozí verzi. Soubory projektu jsou zachovány.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Relace se vrátí do stavu před touto aktualizací. Novější relace zůstávají v soukromé záloze. Soubory projektu jsou zachovány.</string>
+    <string name="native_def5e273616d" formatted="false">Potvrďte instalaci</string>
+    <string name="native_369d2eefccde" formatted="false">Nelze izolovat data prohlížeče náhledu. Znovu otevřete náhled.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Nelze načíst stránku projektu. Zkontrolujte vývojový server ve svém terminálu.</string>
+    <string name="native_6e7408950cf5" formatted="false">Náhled webové stránky projektu</string>
+    <string name="native_bfb4951e071d" formatted="false">Náhled projektu</string>
+    <string name="native_f80652913d06" formatted="false">Spusťte vývojový server v terminálu a poté zadejte jeho místní port. Data prohlížeče náhledu jsou izolována od OpenCode.\nPort</string>
+    <string name="native_2c41e85af61f" formatted="false">Přístav</string>
+    <string name="native_77c3a828a5c5" formatted="false">Zadejte vývojový port od 1024 do 65535, s výjimkou OpenCode a desktopových služeb.</string>
+    <string name="native_7311a9dfea51" formatted="false">Na tomto portu nic nenaslouchá. Zkontrolujte službu ve svém terminálu.</string>
+    <string name="native_4f8d84105475" formatted="false">Kontrola…</string>
+    <string name="native_4923c272b68e" formatted="false">Vývojový port musí být celé číslo</string>
+    <string name="native_04a87026e81f" formatted="false">Vyberte platný port pro vývoj projektu</string>
+    <string name="native_a8a305819e54" formatted="false">Vývojová relace OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Instalace vývojového prostředí</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Aktualizace Debianu</string>
+    <string name="native_0c6301bc295d" formatted="false">Oprava vývojového prostředí</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Kontrola vývojového prostředí\nInstalace jazykového serveru</string>
+    <string name="native_9612d4419bb6" formatted="false">Instalace jazykového serveru</string>
+    <string name="native_f72fba77f87a" formatted="false">Obnova prostředí\nInstalace</string>
+    <string name="native_7c8162195c7c" formatted="false">Desktop</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Předchozí běh byl přerušen. Restartujte explicitně z Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Vývojová úloha tohoto typu stále běží</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Oprava záznamu aktivity</string>
+    <string name="native_b66749ed72ea" formatted="false">Proces ukončen</string>
+    <string name="native_6b25042064e2" formatted="false">Ukončeno signálem</string>
+    <string name="native_d6febdf1752b" formatted="false">Regenerováno kvůli nedostatku paměti</string>
+    <string name="native_1d13790f3c89" formatted="false">Selhání aplikace</string>
+    <string name="native_28db94d1850d" formatted="false">Nativní selhání procesu\nAplikace</string>
+    <string name="native_86919539f7f1" formatted="false">nereaguje</string>
+    <string name="native_90fb8d6098a5" formatted="false">Inicializace se nezdařila</string>
+    <string name="native_38c60ab6654c" formatted="false">Oprávnění změněna</string>
+    <string name="native_6d2a6c71334d" formatted="false">Limit zdrojů</string>
+    <string name="native_19b2090b01a8" formatted="false">Uživatelem požadované zastavení</string>
+    <string name="native_120d96445f1a" formatted="false">Zastaveno uživatelem</string>
+    <string name="native_3c8af14f66bc" formatted="false">Závislý proces ukončen</string>
+    <string name="native_ca0941ce04ae" formatted="false">Jiný systémový důvod</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Procesní zmrazení</string>
+    <string name="native_0d48373023a8" formatted="false">Stav aplikace změněn\nAktualizace aplikace</string>
+    <string name="native_c752307db26b" formatted="false">Aktualizace aplikace</string>
+    <string name="native_b5015951cbdf" formatted="false">Systém neuvedl důvod ukončení</string>
+    <string name="native_b62737b826ad">Ukončení systému (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nelze otevřít adresář projektu</string>
+    <string name="native_faf5d983c13e" formatted="false">Nelze vytvořit relaci OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">Adresář relace OpenCode neodpovídá</string>
+    <string name="native_ac19736908a2" formatted="false">Nelze přečíst relaci OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Údržba prostředí</string>
+    <string name="native_f992d735d932" formatted="false">Zastavte OpenCode, terminály a plochu Debianu a počkejte na dokončení operací se soubory</string>
+    <string name="native_489f137f1080" formatted="false">Zámek údržby prostředí již není platný</string>
+    <string name="native_42380e2567fc" formatted="false">Přerušená operace obnovena. Znovu otevřete pracovní prostor.</string>
+    <string name="native_17b00cac2b91" formatted="false">Obnova místního připojení se nezdařila. Zkuste to znovu z Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Probíhá údržba prostředí. Zkuste to znovu později.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Před aktualizací vývojového prostředí zastavte plochu Debianu</string>
+    <string name="native_548085b144c9" formatted="false">Přerušená operace obnovena. Můžete spustit vývojové prostředí.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Předchozí běh byl přerušen. Příkazy terminálu se nebudou automaticky přehrávat. Restartujte explicitně z Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Dočasné vyčištění konfigurace připojení nebylo dokončeno. Proces čištění pokračoval.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nelze vytvořit pracovní prostor helloworld. Zkontrolujte adresář a volné místo.</string>
+    <string name="native_68301868225a" formatted="false">Předchozí adresář pracovního prostoru není dostupný. Otevřeno helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Výchozí projekt ještě není připraven. Zkuste to znovu ze Souborů.</string>
+    <string name="native_45d6ab452622" formatted="false">Instalace jazykových serverů</string>
+    <string name="native_9793c4a83295" formatted="false">jazykové servery C/C++ a Python jsou připraveny. Chcete-li používat LSP, spusťte OpenCode.</string>
+    <string name="native_5ea1653deef8" formatted="false">Záznam činnosti terminálu nebyl uložen. Po ukončení procesu vytvořte nový terminál.</string>
+    <string name="native_1978b311a9ff" formatted="false">Nelze dokončit ukládání záznamu o ukončení terminálu.\nStažení aktualizace</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Připojování ke zdroji aktualizace…</string>
+    <string name="native_8c39baf28e08" formatted="false">Nelze se připojit ke zdroji aktualizace. Zkontrolujte síť, podpis vydavatele, verzi hostitele a volné místo.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Vypršel časový limit stahování</string>
+    <string name="native_f75850093535">Stahování: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Ověřování podpisu vydavatele…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Stahování aktualizačního balíčku…</string>
+    <string name="native_2f9cd52dc66a">Platný podpis vydavatele: %1$s. Zkontrolujte před stažením.</string>
+    <string name="native_17548865632c" formatted="false">Stáhnout, uvolnit metadata a podpis balíčku ověřen. Potvrďte instalaci.</string>
+    <string name="native_180cec958e7a" formatted="false">Stahování zrušeno. Původní verze zachována.</string>
+    <string name="native_8df045f8ac12" formatted="false">Stahování zastaveno. Původní verze zachována.</string>
+    <string name="native_778803f1c6bb" formatted="false">Zrušit stahování</string>
+    <string name="native_2958898ce6f4" formatted="false">Nová verze selhala při místním spuštění, kontrole verze nebo ověření. Předchozí verze bude obnovena.</string>
+    <string name="native_cc876dfbb261" formatted="false">Zkušební proces stále končí. Před dalším pokusem počkejte na obnovení.</string>
+    <string name="native_adf977dcb47e" formatted="false">Neplatný identifikátor záznamu aktualizace</string>
+    <string name="native_5207cac670b7" formatted="false">Velikost nainstalovaného samostatného OpenCode neodpovídá</string>
+    <string name="native_cf5b81887589" formatted="false">Nainstalovaný samostatný kontrolní součet OpenCode neodpovídá. Obnovte předchozí verzi.</string>
+    <string name="native_393049b506cc" formatted="false">Původní program nemá žádný odpovídající důkaz vydavatele. Předchozí stav beze změny.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Nejprve obnovte předchozí přerušenou aktualizaci</string>
+    <string name="native_91d8da5525fa" formatted="false">Aktualizační balíček se po potvrzení změnil</string>
+    <string name="native_093f2c091a30" formatted="false">Nedostatek úložiště. Původní verze beze změny.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Není k dispozici žádná záloha aktualizace pro obnovení</string>
+    <string name="native_a9f4d9903c14" formatted="false">Záloha neodpovídá běžící verzi</string>
+    <string name="native_6caa23763a42" formatted="false">Předchozí ověření programu se nezdařilo. Aktuální relace beze změny.</string>
+    <string name="native_c8b71b876695" formatted="false">Pozdější aktualizace APK nebo Debianu nahradila přibalený program. Původní záloha relace je zachována; nejprve obnovte odpovídající program.</string>
+    <string name="native_c443df40964b" formatted="false">Neplatná operace obnovení aktualizace</string>
+    <string name="native_9071f05d58b3" formatted="false">Příprava aktualizace OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Zastavte OpenCode, terminály a plochu a počkejte, až se ukončí.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Ukládání stavu, ověřování programů a přepínání verzí</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nelze spustit službu údržby aktualizací.</string>
+    <string name="native_f7b560c8c820" formatted="false">Ověřování a příprava oficiálního programu…</string>
+    <string name="native_9606191c82dc" formatted="false">Zachování původního programu a podpisu vydavatele…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Ukládání snímku stavu relace…</string>
+    <string name="native_0c8cf4632889" formatted="false">Přepínání verzí a ověřování místní služby…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Obnovování verze a relací z doby před aktualizací…</string>
+    <string name="native_856de41d3bf3" formatted="false">Obnovení OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Aktualizace OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Obnovil předchozí verzi a relace. Novější relace zůstávají v soukromé záloze.\nAktualizace</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode dokončena. Startup použije odpovídající oficiální frontend a backend.</string>
+    <string name="native_4693930f5802" formatted="false">zrušena. Potvrzení, že byl obnoven původní stav.\nAktualizace</string>
+    <string name="native_d0e37bc26edd" formatted="false">nebyla dokončena. Nyní se zotavuji; původní zálohy programů a relací jsou zachovány.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Obnova není kompletní. Všechny státní adresáře jsou zachovány. Ponechte si svá data a zkuste je znovu spustit.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Obnova relace dokončena. Novější stav zůstává v záloze.</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery nemohlo pokračovat s touto zálohou nebo původním programem. Aktuální relace a zálohy se nezměnily.</string>
+    <string name="native_976d8c169cfa" formatted="false">Aktualizace zrušena nebo se nezdařila. Původní verze a relace obnoveny.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Ověřování podpisu a integrity aktualizačního balíčku…</string>
+    <string name="native_0aa018b7337b" formatted="false">Nelze přečíst vybraný soubor\nAktualizační balíček</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">je příliš velký</string>
+    <string name="native_f068b83f40bf" formatted="false">Podpis a balíček ověřeny. Před instalací zkontrolujte verzi.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nelze importovat: neplatný soubor, neshoda signatur, nekompatibilní verze hostitele nebo nedostatečné úložiště.</string>
+    <string name="native_616412e65df4" formatted="false">Oficiální program neodpovídá důkazu vydavatele</string>
+    <string name="native_4bf19a158f27" formatted="false">Samostatné runtime balíčky podporují pouze ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Podpis aktualizace nepatří k tomuto APK</string>
+    <string name="native_c7273354727f" formatted="false">Soubor aktualizace překračuje deklarovanou velikost</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Kontrolní součet programu aktualizace neodpovídá</string>
+    <string name="native_dd619076d456" formatted="false">Neplatná velikost balíčku aktualizace</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Velikost komprimovaného balíčku aktualizace neodpovídá</string>
+    <string name="native_1de24edffcf5" formatted="false">Aktualizační balíček obsahuje další položky</string>
+    <string name="native_c5b339aa77e8" formatted="false">Nekompatibilní původ aktualizace nebo architektura</string>
+    <string name="native_89d585f3661f" formatted="false">Před instalací této aktualizace upgradujte aplikaci pro Android</string>
+    <string name="native_800df084dea0" formatted="false">Kontrolní součet aktualizace archivu se neshoduje</string>
+    <string name="native_ddf1a005e310" formatted="false">Tento formát podepisování APK nepodporuje samostatné aktualizace runtime</string>
+    <string name="native_172e063db474" formatted="false">Neplatná položka balíčku aktualizace</string>
+    <string name="native_1c08780aa99f" formatted="false">Aktualizační metadata musí používat celá čísla</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Aktualizační program není 64bitový Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Aktualizační program nesplňuje zarovnání 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">Aktualizačnímu programu chybí zavaděč Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Zadejte platný zdroj aktualizace HTTPS</string>
+    <string name="native_c274c7dd5900" formatted="false">Zdroje aktualizací vyžadují adresy URL HTTPS bez uživatelských pověření</string>
+    <string name="native_f459f5ec9dac" formatted="false">Neplatné pole zdroje aktualizace</string>
+    <string name="native_bde2a736e30a" formatted="false">Nejprve upgradujte hostitele Android</string>
+    <string name="native_b980fd021bef" formatted="false">Neplatný adresář aktualizace</string>
+    <string name="native_c0e96727553e" formatted="false">Neplatný soubor aktualizace</string>
+    <string name="native_86ff542c68ed" formatted="false">V tomto stavu nelze přepnout adresáře aktualizace</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Stav relace odkazuje na externí adresář. Aktualizaci nelze bezpečně otestovat.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Nedostatek úložiště. Původní stav nezměněn.</string>
+    <string name="native_099801d672b1" formatted="false">Stahování zrušeno</string>
+    <string name="native_f1304f707ec9" formatted="false">Příliš mnoho přesměrování aktualizace</string>
+    <string name="native_0d07f458b607" formatted="false">Aktualizační server nepřenesl původní bajty</string>
+    <string name="native_de331dfd8908" formatted="false">Délka souboru aktualizace neodpovídá</string>
+    <string name="native_416b8c87e69e" formatted="false">Aktualizační soubor nebyl zcela stažen</string>
+    <string name="native_e1e74b76c427" formatted="false">Aktualizační server nevrátil celý soubor</string>
+    <string name="native_6afcf03cb130" formatted="false">Nedostatek místa pro přípravu aktualizace</string>
+    <string name="native_be1c695d9241" formatted="false">Aktualizační soubor SHA-256 neodpovídá</string>
+    <string name="native_a0133d117bb0" formatted="false">Aktualizační balíček neodpovídá potvrzeným informacím o vydání</string>
+    <string name="native_8635a43ce28a" formatted="false">Neplatný adresář projektu</string>
+    <string name="native_d32ab8b004e6" formatted="false">Nelze uložit umístění pracovního prostoru</string>
+    <string name="native_43a5447014fd" formatted="false">Před otevřením terminálu spusťte vývojové prostředí z Runtime.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Nový terminál</string>
+    <string name="native_b3b7108a568f" formatted="false">Uzavírací proud</string>
+    <string name="native_0e822affd5da">Počáteční adresář: %1$s</string>
+    <string name="native_72d769e3888d">Nový adresář terminálu: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Systém pro výběr souborů není k dispozici</string>
+    <string name="native_179a57921f91" formatted="false">Nastavení vykreslování WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Snímková frekvence vykreslování</string>
+    <string name="native_55b6d7f645f3" formatted="false">Preferuji 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Sledujte obnovovací frekvenci displeje</string>
+    <string name="native_d4ecf38c341d" formatted="false">Preferujte 60 Hz pro snížení zátěže při vykreslování na displejích s vysokou obnovovací frekvencí. Po zobrazení umožňuje systému plánovat snímky. Platí pouze pro okno této aplikace.</string>
+    <string name="native_bf0d3a407418" formatted="false">Není nainstalováno</string>
+    <string name="native_2fb8edc75b25" formatted="false">Připraveno</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Ověřovací nakladač</string>
+    <string name="native_d1017c1eac80" formatted="false">Instalace Debianu</string>
+    <string name="native_f863d955fa6e" formatted="false">Lokální vývojové prostředí</string>
+    <string name="native_55aa84065de2" formatted="false">Místní vývojová relace Debianu</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop</string>
+    <string name="native_5f73a4e1e494" formatted="false">Instalováno</string>
+    <string name="native_147e90d2ec02" formatted="false">Obnova</string>
+</resources>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Kūrimo darbo vieta</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + darbalaukis</string>
+    <string name="native_7f1c02616d60" formatted="false">Vienas puslapis</string>
+    <string name="native_651ae6ea52ae" formatted="false">Atkurti padalintą vaizdą</string>
+    <string name="native_d7e97cfac66f" formatted="false">Darbo vietos išdėstymas</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Išplėskite langą, kad kartu peržiūrėtumėte kelias plokštes.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Rodyti projekto failus</string>
+    <string name="native_712d956931d1" formatted="false">Rodyti terminalą</string>
+    <string name="native_073cc20d9ed9" formatted="false">terminalas žemiau</string>
+    <string name="native_5de225480fa7" formatted="false">terminalas dešinėje</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Plokštės susitraukia, kai vieta yra ribota, ir lieka pasiekiama iš slankiojo meniu. Šoninis terminalas pasirodo platesniuose languose. Norėdami pakeisti skydelių dydį, vilkite skirstytuvus.</string>
+    <string name="native_babbb870cf97" formatted="false">„Ctrl“ + kairysis „Alt“: 1–5 puslapiai · B failai · T terminalas · M darbalaukis · Įvesti vieną / padalinti · \\\\ Išdėstymas</string>
+    <string name="native_7a129a94c6ff" formatted="false">Atlikta</string>
+    <string name="native_bcec2218fc21" formatted="false">Iš naujo nustatykite proporcijas</string>
+    <string name="native_da88c62d1217">Rodyti %1$s viename puslapyje</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projekto failų daliklis</string>
+    <string name="native_707c0891a0e6" formatted="false">Gnybtų daliklis</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode ir darbalaukio daliklis</string>
+    <string name="native_50407ad8dfa8" formatted="false">Sutraukti ankstesnį skydelį</string>
+    <string name="native_b72c5c02a666" formatted="false">Padidinti ankstesnį skydelį</string>
+    <string name="native_3f3685e8d731" formatted="false">Šiam archyvo formatui per daug PRoot nuorodų</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux kietosioms nuorodoms reikalingas visas rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Atsarginės kopijos katalogo lizdas yra per gilus</string>
+    <string name="native_b6f744737a45" formatted="false">Neteisingas atsarginio slaptažodžio ilgis</string>
+    <string name="native_13bde5dd1812" formatted="false">Atsarginį slaptažodį turi sudaryti mažiausiai 12 simbolių</string>
+    <string name="native_be02cbd55932" formatted="false">Nepalaikomas atsarginės kopijos formatas</string>
+    <string name="native_7a91a3d586ae" formatted="false">Netinkama atsarginės kopijos antraštė</string>
+    <string name="native_2bbd318a5667" formatted="false">Nepalaikomi atsarginės kopijos šifravimo parametrai</string>
+    <string name="native_18868da27841" formatted="false">Neteisingas atsarginės kopijos slaptažodis arba sugadintas failas</string>
+    <string name="native_e41d6440468d" formatted="false">Atkūrimo įrašas per didelis</string>
+    <string name="native_282692502f14" formatted="false">Atsarginės kopijos metaduomenys per dideli</string>
+    <string name="native_61fdca8d6c82" formatted="false">Atsarginės kopijos metaduomenų lizdas yra per gilus</string>
+    <string name="native_8cefb30732d4" formatted="false">Netinkami atsarginės kopijos metaduomenys</string>
+    <string name="native_5d3037708cad" formatted="false">Nepalaikomi vietiniai nustatymai</string>
+    <string name="native_81a57c382f9d" formatted="false">Nepavyko išsaugoti savųjų nustatymų</string>
+    <string name="native_50603e683d4a" formatted="false">Neteisingas pirminis katalogas atsarginės kopijos kelyje</string>
+    <string name="native_c3f838a46b8e" formatted="false">Darbo vietos šaknis neturi būti simbolinė nuoroda</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Failas pakeistas kuriant atsarginę kopiją</string>
+    <string name="native_77e1e85147db" formatted="false">Nepalaikomas darbo vietos duomenų formatas</string>
+    <string name="native_a927b5a565af" formatted="false">Atsarginėje kopijoje yra papildomų duomenų</string>
+    <string name="native_c2b886d508f2" formatted="false">Atsarginėje kopijoje yra pasikartojančių kelių</string>
+    <string name="native_3dab8cd60102" formatted="false">Atsarginėje kopijoje yra vykdymo laiko parametrų, kurių negalima perkelti</string>
+    <string name="native_f45ba674a630" formatted="false">Atsarginė kopija per didelė arba neužtenka saugyklos</string>
+    <string name="native_140073e8e77b" formatted="false">Nepavyko atkurti simbolinių nuorodų laiko žymų</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nepavyko atkurti pavadintų vamzdžių laiko žymų</string>
+    <string name="native_0daee8026db1" formatted="false">Darbo stoties atsarginė kopija ir atkūrimas</string>
+    <string name="native_1acc18928c5f" formatted="false">Apima Debian, kūrėjo įrankius, projektus, namų, OpenCode seansus ir nustatymus, Linux naršyklės duomenis ir vietinius išdėstymo nustatymus.</string>
+    <string name="native_62254d31a535" formatted="false">Laikini failai ir senos atsarginės kopijos neįtraukiamos. „Android WebView“ saugykla ir neišsiųsti juodraščiai lieka šiame įrenginyje ir neperkeliami su šia atsargine kopija.</string>
+    <string name="native_808eabc7811f" formatted="false">Sukurkite šifruotą atsarginę kopiją</string>
+    <string name="native_201c10b38296" formatted="false">Importuokite atsarginę kopiją</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Pirmiausia išsaugokite pakeitimus failų rengyklėje.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, terminalai ir darbalaukis</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Aplinkos operacija neužbaigta. Pirmiausia atkurkite.</string>
+    <string name="native_185f58156330" formatted="false">Atkurti nebaigtą veikimą</string>
+    <string name="native_20831b6f67a7" formatted="false">Anuliuoti paskutinį aplinkos atkūrimą</string>
+    <string name="native_4f392d5d6141">Šifruota vietinė kopija: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Išsaugoti faile</string>
+    <string name="native_f09619351eb9" formatted="false">Ištrinti vietinę kopiją</string>
+    <string name="native_85c686eb9841">Apdorota %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Atšaukite atsarginės kopijos kūrimo užduotį</string>
+    <string name="native_66c9d896407b" formatted="false">Šifruoti darbo vietos atsarginę kopiją</string>
+    <string name="native_548cd9f0831e" formatted="false">Iššifruokite ir patikrinkite atsarginę kopiją</string>
+    <string name="native_d248f5eca9a5" formatted="false">atsarginėse kopijose gali būti SSH privačių raktų, API raktų ir paskyros duomenų. Naudokite bent 12 simbolių. Pamiršto slaptažodžio atkurti nepavyks.</string>
+    <string name="native_f249422b9ec1" formatted="false">Atsarginė kopija iššifruojama ir patikrinama privačiame kataloge. Jūsų aplinka pakeičiama tik patvirtinus atkūrimą.</string>
+    <string name="native_e7be6841703a" formatted="false">Atsarginis slaptažodis</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Pakartokite slaptažodį</string>
+    <string name="native_eafdc5cd4882" formatted="false">Pradėti šifravimą</string>
+    <string name="native_2986b88beade" formatted="false">Iššifruokite ir patikrinkite</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Atšaukti</string>
+    <string name="native_f46c5ed7412d" formatted="false">Atkurti visą ankstesnę aplinką?</string>
+    <string name="native_33eda0946a5b" formatted="false">Ištrinti šifruotą vietinę kopiją?</string>
+    <string name="native_26db24150f2e" formatted="false">Projektai, namų, Debianas ir seansai grįš į savo būseną prieš paskutinį atkūrimą. Naujausi darbai liks privačioje programos atsarginėje kopijoje.</string>
+    <string name="native_1153b30d51d5" formatted="false">Ištrinama tik programoje esanti šifruota vietinė kopija. Kitur išsaugoti failai lieka pasiekiami.</string>
+    <string name="native_427a78a4e69a" formatted="false">Patvirtinkite</string>
+    <string name="native_7af46d7ee003" formatted="false">Atkurti šios darbo vietos atsarginę kopiją?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s įrašai · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Atsarginėje kopijoje yra vykdomoji Linux programinė įranga. Patvirtinkite, kad pasitikite jo šaltiniu. Restauravimas pakeičia visą aplinką ir tikrina vietines paslaugas; ankstesnė aplinka saugoma atkūrimui.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Atsarginė kopija patvirtinta. Laukiama atstatymo patvirtinimo.</string>
+    <string name="native_97076078c749" formatted="false">Taip pat įgalinkite „Chromium“ suderinamumo režimą (išjungiama „Linux“ proceso smėlio dėžė)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Išjungta pagal numatytuosius nustatymus. Jį vėliau galėsite įjungti darbalaukio nustatymuose.</string>
+    <string name="native_ddf09383413c" formatted="false">Patvirtinkite atkūrimą</string>
+    <string name="native_8e6056b0f629" formatted="false">Atšaukti importavimą</string>
+    <string name="native_63a895901c76" formatted="false">Darbo stoties aplinka pakeista</string>
+    <string name="native_a4c994348a39" formatted="false">Iš naujo atidarykite darbo sritį</string>
+    <string name="native_774947f0653e" formatted="false">Atšaukti užduotį</string>
+    <string name="native_e09a22b18445" formatted="false">Užduotis buvo nutraukta. Dar kartą pasirinkite operaciją ir įveskite slaptažodį.</string>
+    <string name="native_38c5fcc634db" formatted="false">Pirmiausia išsaugokite failų redagavimus visuose languose. Prieš bandydami iš naujo, atšaukite esamą importą.</string>
+    <string name="native_029bfa8ff772" formatted="false">Darbo vietos atkūrimas ir programų tikrinimas</string>
+    <string name="native_e4f04df818f8" formatted="false">Apdorojama pasirinkta atsarginė kopija</string>
+    <string name="native_8206f072d5ee" formatted="false">Sustabdykite OpenCode, terminalus ir darbalaukį, tada palaukite, kol baigsis failo operacijos.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nepavyko pradėti atsarginės kopijos kūrimo užduoties. Bandykite dar kartą naudodami programą priekiniame plane.</string>
+    <string name="native_1553b714941d" formatted="false">Atsarginės kopijos iššifravimas ir tikrinimas. Pirminė aplinka išlieka atkuriama…</string>
+    <string name="native_dafd005e953e" formatted="false">Atsarginė kopija patvirtinta. Patvirtinkite atkūrimą programoje.</string>
+    <string name="native_9fb236184596" formatted="false">Programoje ištrinta šifruota vietinė kopija.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operacija atšaukta. Išsaugomi pirminiai aplinkos duomenys.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Veikimas nebaigtas. Patikrinkite slaptažodį, atsarginės kopijos vientisumą, pagrindinio kompiuterio versiją ir laisvą vietą. Išsaugomi pirminiai aplinkos duomenys.</string>
+    <string name="native_29deabd28960" formatted="false">Kuriama šifruota darbo vietos atsarginė kopija…</string>
+    <string name="native_3d137e243806" formatted="false">Sukurta šifruota atsarginė kopija. Pasirinkite, kur jį išsaugoti.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Aplinkos atkūrimas ir vietinių paslaugų tikrinimas. Išsaugokite programos duomenis…\nAtkurta darbo vieta</string>
+    <string name="native_840a6a8bf2e6" formatted="false">. Ankstesnė aplinka lieka privačioje atsarginėje kopijoje. Iš naujo atidarykite darbo sritį.</string>
+    <string name="native_0392cd6152d2" formatted="false">Atkūrimo patikros nepavyko. Sugrįžo į ankstesnę aplinką; importuoti duomenys lieka privačioje atsarginėje kopijoje.</string>
+    <string name="native_5dc7410b600e" formatted="false">Restauravimas nebaigtas. Visi duomenų katalogai išsaugomi. Išsaugokite programos duomenis ir bandykite atkurti dar kartą.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Atkuriama ankstesnė darbo vietos aplinka…</string>
+    <string name="native_15821323ff89" formatted="false">Atkurta ankstesnė aplinka. Naujausi darbai lieka privačioje atsarginėje kopijoje. Iš naujo atidarykite darbo sritį.</string>
+    <string name="native_56dd94f47870" formatted="false">Šio atkūrimo anuliuoti negalima. Išsaugoma dabartinė aplinka ir atsarginės kopijos.</string>
+    <string name="native_93530f3fa029" formatted="false">Anuliavimas neužbaigtas. Visi duomenų katalogai išsaugomi. Išsaugokite programos duomenis ir bandykite atkurti dar kartą.</string>
+    <string name="native_f12963c80def" formatted="false">Išsaugoma šifruota atsarginė kopija…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Šifruota atsarginė kopija išsaugota. Vietinę kopiją galite išsaugoti dar kartą arba ištrinti rankiniu būdu.</string>
+    <string name="native_d660cccf65e0" formatted="false">Išvalomas nepatvirtintas importas…</string>
+    <string name="native_800592163979" formatted="false">Importas atšauktas. Originali aplinka nepakitusi.</string>
+    <string name="native_5a90367eb834" formatted="false">Importas atšauktas. Originali aplinka nepakitusi; kai kurie laikinai importuoti duomenys lieka privačiame programos kataloge.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Ruošiamasi iššifruoti ir tikrinti…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Ruošiama šifruota atsarginė kopija…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Nepavyko paleisti atsarginės kopijos paslaugos. Bandykite dar kartą pirmame plane.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Pirmiausia atkurkite neužbaigtą aplinkos operaciją</string>
+    <string name="native_f14aea7c819c" formatted="false">Neteisingas atkūrimo įrašas</string>
+    <string name="native_7c284c55ee08" formatted="false">Trūksta atkūrimo katalogo</string>
+    <string name="native_bfc4792df15b" formatted="false">Vietiniai nustatymai viršija atkūrimo įrašo limitą</string>
+    <string name="native_8d93770ba8c9">Trūksta ankstesnio aplinkos katalogo: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Nežinomas atkūrimo etapas</string>
+    <string name="native_20c5124fe175" formatted="false">Nežinoma atkūrimo operacija</string>
+    <string name="native_1c457322b624" formatted="false">Ankstesnės aplinkos atkurti negalima</string>
+    <string name="native_30db1666c8e5" formatted="false">Ši atsarginė kopija priklauso kitai programai</string>
+    <string name="native_6687d1c64d75" formatted="false">Atsarginės kopijos procesoriaus architektūra nesutampa</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Pirmiausia atnaujinkite „Android“ pagrindinį kompiuterį į versiją, kurią naudoja ši atsarginė kopija</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Atsarginės kopijos katalogas neužbaigtas</string>
+    <string name="native_66106ab3e254" formatted="false">Senoji atsarginė kopija neturi patikrinamo OpenCode leidėjo įrodymo. Prieš kurdami atsarginę kopiją, paleiskite pradinę aplinką naudodami šį pagrindinį kompiuterį.</string>
+    <string name="native_bec13cc92982" formatted="false">Kūrimo aplinkos sistemos veiksmai</string>
+    <string name="native_65de80229626" formatted="false">Debian paprašė sistemos veiksmo</string>
+    <string name="native_5e38581cf19c" formatted="false">Palieskite, kad peržiūrėtumėte ir tvarkytumėte užklausą</string>
+    <string name="native_749d406d2c67" formatted="false">Iš Debian kūrimo aplinkos</string>
+    <string name="native_4032d33b2afd" formatted="false">Atidaryti sistemos naršyklę?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Atidaryti vietinio projekto peržiūrą?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Skaityti mainų sritį?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kopijuoti į sistemos iškarpinę?</string>
+    <string name="native_77f761eb70aa" formatted="false">Siųsti vietinį pranešimą?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Bendrinti projekto failą?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Importuoti sistemos failus?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Eksportuoti projekto failą?</string>
+    <string name="native_7ac295421c6d" formatted="false">Atidaryti naršyklėje</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Atidaryti peržiūrą</string>
+    <string name="native_14792d6cd7a6" formatted="false">Leisti skaityti</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopijuoti į mainų sritį</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Siųsti pranešimą</string>
+    <string name="native_88152a09fa02" formatted="false">Pasirinkite bendrinimo programą</string>
+    <string name="native_7a49a79c57f9" formatted="false">Pasirinkite failus</string>
+    <string name="native_99d9f87419c5" formatted="false">Pasirinkite, kur išsaugoti</string>
+    <string name="native_23e5bb2090aa">%1$s\nAtidaroma naudojant naršyklės duomenis, atskirtus nuo OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Pateikite tekstą iš sistemos mainų srities į dabartinę Debian programą.</string>
+    <string name="native_dcc6bec24e43">Pasirinkite failus, kuriuos norite importuoti į %1$s. Esami failai saugomi, o dublikatai pervardijami.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium naršyklės režimas</string>
+    <string name="native_4767f37900f6" formatted="false">Suderinamumo režimas naudoja atskirą naršyklės profilį ir išjungia „Chromium“ „Linux“ proceso smėlio dėžę. Naršyklė vis tiek gali pasiekti failus šioje programoje. Venkite nepatikimų svetainių ir svarbioms paskyroms naudokite „Android“ sistemos naršyklę. Pakeitę režimus iš naujo atidarykite „Chromium“.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standartinė Linux smėlio dėžė įjungta pagal numatytuosius nustatymus. Jei „Chromium“ nepavyksta paleisti, galite pasirinkti suderinamumo režimą. Jis išjungia „Linux“ proceso smėlio dėžę ir naudoja atskirą profilį, išsaugodamas prieigą prie programų failų. Venkite nepatikimų svetainių; svarbioms paskyroms naudokite „Android“ sistemos naršyklę.</string>
+    <string name="native_3a2596fa9517" formatted="false">Atkurti standartinį režimą</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Įjungti suderinamumo režimą</string>
+    <string name="native_9a45442649f5" formatted="false">Debian darbalaukis</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Bendrinamas /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Pirmą kartą įdiegus atsisiunčiami grafiniai komponentai. Po įdiegimo darbalaukis gali paleisti ir sustoti nepriklausomai nuo OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC veidrodis</string>
+    <string name="native_41e865941e16" formatted="false">Oficialus Debian veidrodis</string>
+    <string name="native_ea341b8a102b" formatted="false">Pradinė skiriamoji geba</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Kai perjungiate puslapius, darbalaukis veikia toliau. Sustabdykite tai iš Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Sustabdykite darbalaukio užduotį</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Paleiskite darbalaukį</string>
+    <string name="native_ea27a25e5114" formatted="false">Įdiekite darbalaukio komponentus</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: suderinamumo režimas</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standartinis režimas</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Pirmiausia įdiekite Debian kūrėjo įrankius iš Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Veiklos žurnalas</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nepavyko atidaryti projekto aplanko. Patikrinkite, ar katalogas yra.</string>
+    <string name="native_83c76743b29d" formatted="false">Nutrūkusios aplinkos veikimo atkūrimas</string>
+    <string name="native_739a730ae247" formatted="false">Aplinkos priežiūra</string>
+    <string name="native_049281329843" formatted="false">Palaukite, kol bus atlikta atnaujinimo priežiūra arba dabartinė užduotis bus baigta.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Palaukite, kol bus baigta dabartinė kūrimo aplinkos užduotis</string>
+    <string name="native_83099168971c" formatted="false">Darbalaukio montavimas</string>
+    <string name="native_85e0c18dde8d" formatted="false">Paleidžiamas darbalaukis</string>
+    <string name="native_9a48f8196d8f" formatted="false">Reikia dėmesio</string>
+    <string name="native_75470fb13121" formatted="false">Sustojo</string>
+    <string name="native_51a53c8109d5" formatted="false">Negalima nuskaityti arba išsaugoti veiklos įrašo. Pataisykite jį naudodami „Runtime“ arba atlaisvinkite vietos saugykloje.</string>
+    <string name="native_d36a018cc619" formatted="false">Pirmiausia įdiekite Debian kūrimo aplinką</string>
+    <string name="native_80be4c2928a5" formatted="false">Pirmiausia prisijunkite prie tinklo</string>
+    <string name="native_a065d81014b1" formatted="false">darbalaukio įdiegimas nebaigtas. Bandykite įdiegti dar kartą.\nĮdiegtas darbalaukis</string>
+    <string name="native_721c38b32c35" formatted="false">. Pradėkite, kai reikia.</string>
+    <string name="native_6c1c52771115" formatted="false">Pirmiausia įdiekite darbalaukio komponentus</string>
+    <string name="native_693d90a47827" formatted="false">Darbalaukio operacija nepavyko. Išsami informacija per ilga arba nepasiekiama.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nepavyko baigti įrašyti stabdymo žymeklio. Proceso valymas buvo tęsiamas.</string>
+    <string name="native_06083621a6ce" formatted="false">Nepavyko baigti įrašyti veiklos įrašo. Kito paleidimo metu tai bus traktuojama kaip pertraukimas.</string>
+    <string name="native_04d721a3819a" formatted="false">Darbalaukis veikia</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Darbalaukio veikimo laikas baigėsi. Peržiūrėkite žurnalą ir bandykite dar kartą.</string>
+    <string name="native_e70d328a3ca9">Darbalaukio procesas baigtas (%1$s). Peržiūrėkite veiklos žurnalą.</string>
+    <string name="native_df5c878f2852" formatted="false">Vietinė grafinė darbo sritis</string>
+    <string name="native_7b0455a8daa4" formatted="false">Sustabdykite darbalaukį</string>
+    <string name="native_a62123cde9c7" formatted="false">Nutrauktos užduotys ir atkūrimas</string>
+    <string name="native_279308947a14" formatted="false">Negalima nuskaityti veiklos įrašo. Remontas saugo sugadinto įrašo kopiją ir išsaugo projektus, seansus ir Linux aplinką.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Remonto veiklos įrašas</string>
+    <string name="native_6b43650c2c82" formatted="false">Užduotis netikėtai baigėsi.</string>
+    <string name="native_acb0c970aaa6">%1$s terminalai nebuvo normaliai uždaryti. Jų vykdomos komandos buvo nutrauktos.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Paleidimas iš naujo patvirtintas. Ankstesnės komandos nebuvo atkurtos.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Išsaugoti projektai ir seansai išsaugomi. Iš naujo atidarykite terminalus rankiniu būdu; nebaigtos komandos nebus atnaujintos automatiškai.</string>
+    <string name="native_fa9669296762" formatted="false">Paleiskite OpenCode iš naujo</string>
+    <string name="native_bd8130bec5d9" formatted="false">Darbalaukis nebus automatiškai paleistas iš naujo. Paleiskite jį iš naujo darbalaukio puslapyje.</string>
+    <string name="native_644f8f44251f" formatted="false">Atidaryti failą</string>
+    <string name="native_9dfb5569d609" formatted="false">Bendrinkite failą</string>
+    <string name="native_a4500cff3a86" formatted="false">Darbinis katalogas neturi būti simbolinė nuoroda</string>
+    <string name="native_8657d27661bd" formatted="false">Neteisingas darbo katalogo kelias</string>
+    <string name="native_02b702a9adff" formatted="false">Pasirinkite failą</string>
+    <string name="native_924874b746cc" formatted="false">Tvarkykite simbolines nuorodas terminale</string>
+    <string name="native_efea6e422a54" formatted="false">Neteisingas failo pavadinimas</string>
+    <string name="native_c4989dc37aab" formatted="false">katalogo nėra</string>
+    <string name="native_d613dba39b44" formatted="false">Paskirties katalogas neegzistuoja</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Negalima įdėti aplanko į save arba į jo palikuonis</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekte yra specialių įrenginių arba lizdų, todėl jo negalima kopijuoti</string>
+    <string name="native_6c36955b068b" formatted="false">Pasirinkite įprastą failą</string>
+    <string name="native_49191d7d489f" formatted="false">Šis failas didesnis nei 2 MB. Redaguokite jį naudodami „OpenCode“ arba terminalą.</string>
+    <string name="native_ee42414d36c2" formatted="false">Failas per didelis</string>
+    <string name="native_f0a979f87157" formatted="false">Eksportuokite dvejetainius failus, kad atidarytumėte juos kitoje programoje</string>
+    <string name="native_88a9c82651fc" formatted="false">Redaguokite failus, kurie nėra UTF-8, naudodami OpenCode arba terminalą</string>
+    <string name="native_0189a5c3418c" formatted="false">Kitas įrankis pakeitė šį failą. Prieš redaguodami iš naujo atidarykite.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Pradinio katalogo nebėra. Pirmiausia atkurkite.</string>
+    <string name="native_46eae321049e" formatted="false">Bendrinimo programa nepasiekiama</string>
+    <string name="native_87d699d3a26c" formatted="false">Šiukšliadėžė</string>
+    <string name="native_d0a8c03d6c07" formatted="false">projekto failai</string>
+    <string name="native_4dcf914f0b64" formatted="false">Ištrintus failus galima atkurti į pradinius katalogus</string>
+    <string name="native_c5b81b02354f" formatted="false">Nugara</string>
+    <string name="native_e56b99379169">Nukopijuotas %1$s failas · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopijuojama…</string>
+    <string name="native_85199bb36b04" formatted="false">Atšaukti operaciją</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Uždaryti</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Nauja sesija</string>
+    <string name="native_23c250cc8e0b" formatted="false">Pradėkite OpenCode seansą čia</string>
+    <string name="native_f22da21fd54f" formatted="false">terminalas</string>
+    <string name="native_3645f30b3412" formatted="false">Neišsaugoti pakeitimai</string>
+    <string name="native_2266227605c4" formatted="false">Sutaupykite</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Šiukšliadėžė tuščia</string>
+    <string name="native_a9e739b13e52" formatted="false">atkūrimas</string>
+    <string name="native_45985dc2183e" formatted="false">judėjimas:</string>
+    <string name="native_31214130b5b7" formatted="false">kopija:</string>
+    <string name="native_07e5c3158f35" formatted="false">pasta</string>
+    <string name="native_831b4e0fb574" formatted="false">Naujas</string>
+    <string name="native_ff65a22d7087" formatted="false">Naujas aplankas</string>
+    <string name="native_71faed44a86c" formatted="false">Naujas failas</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importas</string>
+    <string name="native_d85825123e60" formatted="false">Atnaujinti</string>
+    <string name="native_ac9d73843736" formatted="false">Ieškoti šiame kataloge</string>
+    <string name="native_21eef82963ee" formatted="false">Šis katalogas tuščias. Importuokite failus arba sukurkite projektą.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Nėra atitinkančių failų</string>
+    <string name="native_d674bc0f86b8" formatted="false">Failo veiksmai</string>
+    <string name="native_d04a47c87cc8" formatted="false">Simbolinė nuoroda\nAplankas</string>
+    <string name="native_e0ba66f5246a" formatted="false">Aplankas</string>
+    <string name="native_f170b42599e8" formatted="false">Pervardyti</string>
+    <string name="native_4cdacf57ead2" formatted="false">kopija</string>
+    <string name="native_124aa030694e" formatted="false">Perkelti į…</string>
+    <string name="native_ac990518ed87" formatted="false">Atidarykite terminalą čia</string>
+    <string name="native_87bc93932d8a" formatted="false">Eksportuokite į sistemos failus</string>
+    <string name="native_dd37f132172f" formatted="false">Perkelti į šiukšliadėžę</string>
+    <string name="native_7318746d337c" formatted="false">Perkelti į šiukšliadėžę?</string>
+    <string name="native_2b5ee3f10a56">Galite atkurti „%1$s“ iš šiukšliadėžės.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Move</string>
+    <string name="native_4e47aaa113fc" formatted="false">Atmesti neišsaugotus pakeitimus?</string>
+    <string name="native_63b75399ef1a" formatted="false">Išmeskite pakeitimus</string>
+    <string name="native_d9618f7b8d25" formatted="false">Tęsti redagavimą</string>
+    <string name="native_76ce6aef5479" formatted="false">pavadinimas</string>
+    <string name="native_35b0fc30b909" formatted="false">Gerai</string>
+    <string name="native_11b319774788" formatted="false">Aplinka atkurta. Iš naujo atidarykite darbo sritį.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Pirmiausia užbaikite pertrauktos operacijos atkūrimą Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Vykdoma aplinkos priežiūra. Bandykite dar kartą vėliau.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operacija atšaukta</string>
+    <string name="native_c508721eb3cd" formatted="false">Failas tokiu pavadinimu jau yra. Pasirinkite kitą pavadinimą.</string>
+    <string name="native_1e8274fe468a" formatted="false">Failo nebėra. Atnaujinkite katalogą.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Failo prieigos leidimas uždraustas</string>
+    <string name="native_cd808e4c321e" formatted="false">Nepavyko užbaigti operacijos</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Veikimas nebaigtas. Patikrinkite laisvą saugyklą arba pasirinkite failus dar kartą.</string>
+    <string name="native_3f9983126fd7" formatted="false">Patikrinkite OpenCode paleisties būseną Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nepavyko atidaryti naujo terminalo. Patikrinkite seansų skaičių.</string>
+    <string name="native_2160fde3813a" formatted="false">Tvarkykite simbolines nuorodas terminale. Failų tvarkyklė neseka nuorodų.</string>
+    <string name="native_7a844e9d4017" formatted="false">Perkėlimas baigtas</string>
+    <string name="native_573877894fcf" formatted="false">Kopijavimas baigtas</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Perkeltas į šiukšliadėžę</string>
+    <string name="native_862330af933f" formatted="false">Atkurtas į pradinį katalogą</string>
+    <string name="native_beda23c9d52b" formatted="false">Aplinkos priežiūra arba keitimas. Prieš redaguodami iš naujo atidarykite darbo sritį.</string>
+    <string name="native_678c6953bb2b" formatted="false">Išsaugota</string>
+    <string name="native_8063159f2178" formatted="false">Nepavyko nuskaityti pasirinkto failo</string>
+    <string name="native_4cdc2180d2ac">Importuoti %1$s failai</string>
+    <string name="native_e98763643b93" formatted="false">Neįmanoma įrašyti į pasirinktą vietą</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksportas baigtas</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kodas ir sesijos\nStalinis kompiuteris</string>
+    <string name="native_8745ed51cadd" formatted="false">Darbalaukis</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafinė darbo sritis</string>
+    <string name="native_770d49c5f689" formatted="false">failai</string>
+    <string name="native_6a9b6480b58f" formatted="false">Veikimo laikas</string>
+    <string name="native_b561fe9204cc" formatted="false">Paslaugos ir kūrėjo įrankiai</string>
+    <string name="native_70850bdeeabd" formatted="false">Uždaryti puslapio meniu</string>
+    <string name="native_b4549acb48e8" formatted="false">darbo vieta</string>
+    <string name="native_3d3551f4660f">Slankiojo mygtuko neskaidrumas %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Mažesnės vertės daro slankiojantį mygtuką skaidresnį</string>
+    <string name="native_e031beabfc9a" formatted="false">Atidaryti puslapio meniu</string>
+    <string name="native_106ee775b538" formatted="false">Prisijungiama prie vietinio OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Vietinį ryšį reikia atkurti</string>
+    <string name="native_dacb8837471c" formatted="false">Prijunkite iš naujo</string>
+    <string name="native_17584aa60ae6" formatted="false">Nepavyko paruošti vietinių išteklių talpyklos</string>
+    <string name="native_3b3b80064ccb" formatted="false">Ruošiamas vietinis OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Bandykite dar kartą</string>
+    <string name="native_b07809340403" formatted="false">Darbo vietos vieta dar neišsaugota. Bandykite dar kartą vėliau.</string>
+    <string name="native_e4ab10392d05" formatted="false">Vietinė tarnyba ruošiasi. Jūsų darbo sritis bus automatiškai atidaryta prisijungus.</string>
+    <string name="native_20ea15973287" formatted="false">Ankstesnis paleidimas buvo nutrauktas. Paleisti iš naujo iš Runtime; terminalo komandos nebus atkuriamos automatiškai.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Paleiskite OpenCode iš Runtime, kad atidarytumėte kodą ir seansus.</string>
+    <string name="native_abbac5c22111" formatted="false">Išeiti iš programėlės?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Kūrimo aplinka gali ir toliau veikti fone. Grįžti iš pranešimo vėliau.</string>
+    <string name="native_814a8fb24b62" formatted="false">Išeiti iš dabartinės darbo srities?</string>
+    <string name="native_a76464945c2d" formatted="false">Taip pat sustabdykite kūrimo aplinką</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Išėjimas</string>
+    <string name="native_b00143b08ff1" formatted="false">Paruošta kūrimo darbo vieta</string>
+    <string name="native_51bca456a350" formatted="false">Jūsų Debian kūrimo darbo stotis</string>
+    <string name="native_0c2acd0b6057" formatted="false">Važiuoja</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Paleidimas</string>
+    <string name="native_44da7f6a451d" formatted="false">Sustabdymas</string>
+    <string name="native_b7e1503a7239" formatted="false">Remonto kūrimo aplinka</string>
+    <string name="native_7c91bd67ff14" formatted="false">Įdiekite kūrimo aplinką</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop aplinka</string>
+    <string name="native_e7ec95694dce" formatted="false">Paleiskite OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Patikrinkite aplinką</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Atnaujinkite Debian kūrėjo įrankius</string>
+    <string name="native_c114ec62712b" formatted="false">Išsaugoma ankstesnės aplinkos atsarginė kopija, projektai ir sesijos duomenys.</string>
+    <string name="native_eb3114155716" formatted="false">Įdiekite / atnaujinkite kalbos serverius</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) ir Python (pylsp), įdiegtos internetu iš pasirašytų Debiano saugyklų. Pirmiausia sustabdykite „OpenCode“ ir darbalaukį.</string>
+    <string name="native_2c7251cce661" formatted="false">Norėdami perjungti puslapius, bakstelėkite slankiojantį mygtuką. Vilkite jį, kad pakeistumėte jo vietą.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Veiklos trukmės informacija rodoma čia po paleidimo.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">APK versija</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode atnaujinimai</string>
+    <string name="native_36ab16248f65" formatted="false">Importuokite šios programos leidėjo pasirašytą .ocaupdate. Oficialus frontend ir backend atnaujinimas kartu.</string>
+    <string name="native_8aad48b0508d" formatted="false">Atnaujinimo šaltinis (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Patikrinkite naujinimo šaltinį</string>
+    <string name="native_f73973cfadbb">Pasirašytas leidimas: %1$s\nĮsipareigojimas: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Atsisiųskite ir patikrinkite</string>
+    <string name="native_f2ef7965bf12" formatted="false">Pasirinkite naujinimo paketą</string>
+    <string name="native_165111adfe2c">Paruošta įdiegti: %1$s\nĮsipareigoti: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Įdiekite šį naujinimą</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Atkurkite versiją ir seansus, buvusius prieš naujinimą</string>
+    <string name="native_6864335de653" formatted="false">Atšaukti naujinimą</string>
+    <string name="native_5e3472cf084e" formatted="false">Įdiegti OpenCode naujinimą?</string>
+    <string name="native_816bf3635d53" formatted="false">Atkurti būseną, buvusią prieš naujinimą?</string>
+    <string name="native_11beb4a42abc">Įdiekite %1$s. Programėlė išsaugo seanso momentinį vaizdą, patikrina pasirašytą programą ir atkuria ankstesnę versiją, jei nepavyksta. Projekto failai išsaugomi.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">sesijos grįžta į savo būseną prieš šį naujinimą. Naujausios sesijos lieka privačioje atsarginėje kopijoje. Projekto failai išsaugomi.</string>
+    <string name="native_def5e273616d" formatted="false">Patvirtinkite montavimą</string>
+    <string name="native_369d2eefccde" formatted="false">Nepavyko išskirti peržiūros naršyklės duomenų. Iš naujo atidarykite peržiūrą.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Nepavyko įkelti projekto puslapio. Patikrinkite kūrimo serverį savo terminale.</string>
+    <string name="native_6e7408950cf5" formatted="false">Peržiūros projekto svetainė</string>
+    <string name="native_bfb4951e071d" formatted="false">Projekto peržiūra</string>
+    <string name="native_f80652913d06" formatted="false">Paleiskite kūrimo serverį terminale, tada įveskite jo vietinį prievadą. Naršyklės peržiūros duomenys yra atskirti nuo OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">prievadas</string>
+    <string name="native_77c3a828a5c5" formatted="false">Įveskite kūrimo prievadą nuo 1024 iki 65535, išskyrus OpenCode ir darbalaukio paslaugas.</string>
+    <string name="native_7311a9dfea51" formatted="false">Šiame prievade nieko neklausoma. Patikrinkite paslaugą savo terminale.</string>
+    <string name="native_4f8d84105475" formatted="false">Tikrinama…</string>
+    <string name="native_4923c272b68e" formatted="false">Kūrimo prievadas turi būti sveikasis skaičius</string>
+    <string name="native_04a87026e81f" formatted="false">Pasirinkite tinkamą projekto kūrimo prievadą</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode kūrimo sesija</string>
+    <string name="native_e87a4529ab82" formatted="false">Kūrimo aplinkos įrengimas</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian naujinimas</string>
+    <string name="native_0c6301bc295d" formatted="false">Kūrimo aplinkos remontas</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Kūrimo aplinkos patikrinimas</string>
+    <string name="native_9612d4419bb6" formatted="false">Kalbos serverio diegimas</string>
+    <string name="native_f72fba77f87a" formatted="false">Aplinkos atkūrimas</string>
+    <string name="native_7c8162195c7c" formatted="false">Darbalaukio montavimas</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Ankstesnis paleidimas buvo nutrauktas. Iš naujo paleiskite iš Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Šio tipo kūrimo užduotis vis dar vykdoma</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Veiklos įrašo taisymas</string>
+    <string name="native_b66749ed72ea" formatted="false">Procesas baigtas</string>
+    <string name="native_6b25042064e2" formatted="false">Nutraukiamas signalu</string>
+    <string name="native_d6febdf1752b" formatted="false">Atkurta dėl mažos atminties</string>
+    <string name="native_1d13790f3c89" formatted="false">programos gedimas</string>
+    <string name="native_28db94d1850d" formatted="false">Natūralaus proceso gedimas</string>
+    <string name="native_86919539f7f1" formatted="false">Programėlė neatsako</string>
+    <string name="native_90fb8d6098a5" formatted="false">Inicijuoti nepavyko</string>
+    <string name="native_38c60ab6654c" formatted="false">Leidimai pakeisti</string>
+    <string name="native_6d2a6c71334d" formatted="false">Išteklių limitas</string>
+    <string name="native_19b2090b01a8" formatted="false">Vartotojas paprašė sustabdyti</string>
+    <string name="native_120d96445f1a" formatted="false">Sustabdė vartotojas</string>
+    <string name="native_3c8af14f66bc" formatted="false">Išjungtas priklausomas procesas</string>
+    <string name="native_ca0941ce04ae" formatted="false">Kita sistemos priežastis</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Proceso užšaldymas</string>
+    <string name="native_0d48373023a8" formatted="false">Programos būsena pakeista</string>
+    <string name="native_c752307db26b" formatted="false">programos naujinimas</string>
+    <string name="native_b5015951cbdf" formatted="false">Sistema nepateikė išėjimo priežasties</string>
+    <string name="native_b62737b826ad">sistemos išėjimas (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nepavyko atidaryti projekto katalogo</string>
+    <string name="native_faf5d983c13e" formatted="false">Nepavyko sukurti OpenCode seanso</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode seanso katalogas nesutampa</string>
+    <string name="native_ac19736908a2" formatted="false">Nepavyko nuskaityti OpenCode seanso</string>
+    <string name="native_2642997cfeec" formatted="false">Aplinkos priežiūra</string>
+    <string name="native_f992d735d932" formatted="false">Sustabdykite OpenCode, terminalus ir Debian darbalaukį, tada palaukite, kol baigsis failų operacijos</string>
+    <string name="native_489f137f1080" formatted="false">Aplinkos priežiūros užraktas nebegalioja</string>
+    <string name="native_42380e2567fc" formatted="false">Nutraukta operacija atkurta. Iš naujo atidarykite darbo sritį.</string>
+    <string name="native_17b00cac2b91" formatted="false">Nepavyko atkurti vietinio ryšio. Bandykite dar kartą iš vykdymo laiko.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Vykdoma aplinkos priežiūra. Bandykite dar kartą vėliau.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Prieš atnaujindami kūrimo aplinką, sustabdykite „Debian“ darbalaukį</string>
+    <string name="native_548085b144c9" formatted="false">Pertraukta operacija atkurta. Galite pradėti kūrimo aplinką.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Ankstesnis paleidimas buvo nutrauktas. Terminalo komandos nebus atkuriamos automatiškai. Iš naujo paleiskite iš Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Laikinas ryšio konfigūracijos išvalymas neužbaigtas. Proceso valymas buvo tęsiamas.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nepavyko sukurti helloworld darbo srities. Patikrinkite katalogą ir laisvą vietą.</string>
+    <string name="native_68301868225a" formatted="false">Ankstesnis darbo srities katalogas nepasiekiamas. Atidarytas helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Numatytasis projektas dar neparengtas. Bandykite dar kartą iš failų.</string>
+    <string name="native_45d6ab452622" formatted="false">Įdiekite kalbos serverius</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ ir Python kalbų serveriai yra paruošti. Norėdami naudoti LSP, paleiskite OpenCode.</string>
+    <string name="native_5ea1653deef8" formatted="false">Terminalo veiklos įrašas nebuvo išsaugotas. Baigę procesą sukurkite naują terminalą.</string>
+    <string name="native_1978b311a9ff" formatted="false">Nepavyko baigti išsaugoti terminalo išėjimo įrašo.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode naujinimo atsisiuntimas</string>
+    <string name="native_06f76cca8fb9" formatted="false">Prisijungiama prie naujinimo šaltinio…</string>
+    <string name="native_8c39baf28e08" formatted="false">Nepavyko prisijungti prie naujinimo šaltinio. Patikrinkite tinklą, leidėjo parašą, pagrindinio kompiuterio versiją ir laisvą vietą.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Baigėsi atsisiuntimo laikas</string>
+    <string name="native_f75850093535">Atsisiunčiama: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Tikrinamas leidėjo parašas…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Atsisiunčiamas naujinimo paketas…</string>
+    <string name="native_2f9cd52dc66a">Galiojantis leidėjo parašas: %1$s. Peržiūrėkite prieš atsisiųsdami.</string>
+    <string name="native_17548865632c" formatted="false">Atsisiųskite, išleiskite metaduomenis ir patvirtintas paketo parašas. Patvirtinkite diegimą.</string>
+    <string name="native_180cec958e7a" formatted="false">Atsisiuntimas atšauktas. Originali versija išsaugota.</string>
+    <string name="native_8df045f8ac12" formatted="false">Atsisiuntimas sustabdytas. Originali versija išsaugota.</string>
+    <string name="native_778803f1c6bb" formatted="false">Atšaukti atsisiuntimą</string>
+    <string name="native_2958898ce6f4" formatted="false">Naujajai versijai nepavyko atlikti vietinio paleidimo, versijos arba autentifikavimo patikrinimų. Ankstesnė versija bus atkurta.</string>
+    <string name="native_cc876dfbb261" formatted="false">Bandomasis procesas vis dar baigiasi. Prieš bandydami dar kartą, palaukite, kol atsigaus.</string>
+    <string name="native_adf977dcb47e" formatted="false">Neteisingas atnaujinimo įrašo identifikatorius</string>
+    <string name="native_5207cac670b7" formatted="false">Įdiegtas atskiras OpenCode dydis neatitinka</string>
+    <string name="native_cf5b81887589" formatted="false">Įdiegta atskira OpenCode kontrolinė suma nesutampa. Atkurti ankstesnę versiją.</string>
+    <string name="native_393049b506cc" formatted="false">Originali programa neturi atitinkamo leidėjo įrodymo. Ankstesnė būsena nepakitusi.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Pirmiausia atkurkite ankstesnį pertrauktą naujinimą</string>
+    <string name="native_91d8da5525fa" formatted="false">Atnaujinimo paketas pasikeitė po patvirtinimo</string>
+    <string name="native_093f2c091a30" formatted="false">Nepakanka saugyklos. Originali versija nepakeista.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Negalima atkurti atsarginės naujinimo kopijos</string>
+    <string name="native_a9f4d9903c14" formatted="false">Atsarginė kopija neatitinka veikiančios versijos</string>
+    <string name="native_6caa23763a42" formatted="false">Ankstesnės programos patvirtinimas nepavyko. Dabartinės sesijos nesikeičia.</string>
+    <string name="native_c8b71b876695" formatted="false">Vėlesnis APK arba Debian naujinys pakeitė pridedamą programą. Išsaugoma pradinė seanso atsarginė kopija; pirmiausia atkurkite atitinkamą programą.</string>
+    <string name="native_c443df40964b" formatted="false">Netinkama naujinimo atkūrimo operacija</string>
+    <string name="native_9071f05d58b3" formatted="false">Ruošiamas OpenCode naujinimas…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Sustabdykite OpenCode, terminalus ir darbalaukį, tada palaukite, kol jie išeis.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Išsaugoma būsena, tikrinamos programos ir perjungiamos versijos</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nepavyko paleisti atnaujinimo priežiūros paslaugos.</string>
+    <string name="native_f7b560c8c820" formatted="false">Tikrinama ir rengiama oficiali programa…</string>
+    <string name="native_9606191c82dc" formatted="false">Išsaugoma originali programa ir leidėjo parašas…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Išsaugoma seanso būsenos momentinė nuotrauka…</string>
+    <string name="native_0c8cf4632889" formatted="false">Versijų perjungimas ir vietinės paslaugos tikrinimas…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Atkuriama versija ir seansai, buvę prieš naujinimą...</string>
+    <string name="native_856de41d3bf3" formatted="false">Atkuria OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Atnaujinamas OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Atkurta ankstesnė versija ir seansai. Naujausios sesijos lieka privačioje atsarginėje kopijoje.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode atnaujinimas baigtas. Paleidimas naudos atitinkamą oficialią sąsają ir užpakalinę sistemą.</string>
+    <string name="native_4693930f5802" formatted="false">Atnaujinimas atšauktas. Patvirtinama, kad pradinė būsena buvo atkurta.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Atnaujinimas nebaigtas. Atsigauna dabar; Išsaugomos originalios programos ir seanso atsarginės kopijos.</string>
+    <string name="native_9a32d6c2d207" formatted="false">atkūrimas nebaigtas. Visi valstijų katalogai išsaugomi. Išsaugokite duomenis ir paleiskite dar kartą, kad atkurtumėte.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Seanso atkūrimas baigtas. Naujesnė būsena lieka atsarginėje kopijoje.</string>
+    <string name="native_67c08a2911e1" formatted="false">Atkūrimo nepavyko tęsti naudojant šią atsarginę kopiją arba pradinę programą. Dabartinės sesijos ir atsarginės kopijos nepasikeitė.</string>
+    <string name="native_976d8c169cfa" formatted="false">Atnaujinimas atšauktas arba nepavyko. Atkurta pradinė versija ir seansai.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Tikrinamas naujinimo paketo parašas ir vientisumas...</string>
+    <string name="native_0aa018b7337b" formatted="false">Nepavyko nuskaityti pasirinkto failo</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Atnaujinimo paketas per didelis</string>
+    <string name="native_f068b83f40bf" formatted="false">Parašas ir pakuotė patvirtinta. Prieš diegdami peržiūrėkite versiją.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nepavyko importuoti: netinkamas failas, parašo neatitikimas, nesuderinama pagrindinio kompiuterio versija arba nepakanka vietos.</string>
+    <string name="native_616412e65df4" formatted="false">Oficiali programa neatitinka jos leidėjo patvirtinimo</string>
+    <string name="native_4bf19a158f27" formatted="false">Atskirai vykdymo laiko paketai palaiko tik ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Atnaujinimo parašas nepriklauso šiam APK</string>
+    <string name="native_c7273354727f" formatted="false">Atnaujinimo failas viršija deklaruotą dydį</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Atnaujinimo programos kontrolinė suma nesutampa</string>
+    <string name="native_dd619076d456" formatted="false">Neteisingas naujinimo paketo dydis</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Suspausto naujinimo paketo dydis neatitinka</string>
+    <string name="native_1de24edffcf5" formatted="false">Atnaujinimo pakete yra papildomų įrašų</string>
+    <string name="native_c5b339aa77e8" formatted="false">Nesuderinama naujinimo kilmė arba architektūra</string>
+    <string name="native_89d585f3661f" formatted="false">Prieš įdiegdami šį naujinimą atnaujinkite „Android“ programą</string>
+    <string name="native_800df084dea0" formatted="false">Atnaujinimo archyvo kontrolinė suma nesutampa</string>
+    <string name="native_ddf1a005e310" formatted="false">Šis APK pasirašymo formatas nepalaiko atskirų vykdymo laiko naujinimų</string>
+    <string name="native_172e063db474" formatted="false">Neteisingas naujinimo paketo įrašas</string>
+    <string name="native_1c08780aa99f" formatted="false">Atnaujinimo metaduomenyse turi būti naudojami sveikieji skaičiai</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Atnaujinimo programa nėra 64 bitų Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Atnaujinimo programa neatitinka 16 KiB ELF lygiavimo</string>
+    <string name="native_3afa3741911b" formatted="false">Atnaujinimo programai trūksta Debian glibc įkėlimo programos</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Įveskite galiojantį HTTPS naujinimo šaltinį</string>
+    <string name="native_c274c7dd5900" formatted="false">Atnaujinimo šaltiniams reikalingi HTTPS URL be vartotojo kredencialų</string>
+    <string name="native_f459f5ec9dac" formatted="false">Neteisingas naujinimo šaltinio laukas</string>
+    <string name="native_bde2a736e30a" formatted="false">Pirmiausia atnaujinkite „Android“ pagrindinį kompiuterį</string>
+    <string name="native_b980fd021bef" formatted="false">Neteisingas naujinimo katalogas</string>
+    <string name="native_c0e96727553e" formatted="false">Neteisingas naujinimo failas</string>
+    <string name="native_86ff542c68ed" formatted="false">Šioje būsenoje negalima perjungti naujinimų katalogų</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Seanso būsena reiškia išorinį katalogą. Naujinimo negalima saugiai išbandyti.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Nepakanka saugyklos. Pradinė būklė nepakitusi.</string>
+    <string name="native_099801d672b1" formatted="false">Atsisiuntimas atšauktas</string>
+    <string name="native_f1304f707ec9" formatted="false">Per daug naujinimų peradresavimų</string>
+    <string name="native_0d07f458b607" formatted="false">Atnaujinimo serveris neperkėlė pradinių baitų</string>
+    <string name="native_de331dfd8908" formatted="false">Atnaujinimo failo ilgis neatitinka</string>
+    <string name="native_416b8c87e69e" formatted="false">Atnaujinimo failas nebuvo visiškai atsisiųstas</string>
+    <string name="native_e1e74b76c427" formatted="false">Naujinimo serveris nepateikė viso failo</string>
+    <string name="native_6afcf03cb130" formatted="false">Nepakanka atnaujinimo sustojimo vietos</string>
+    <string name="native_be1c695d9241" formatted="false">Atnaujinimo failas SHA-256 neatitinka</string>
+    <string name="native_a0133d117bb0" formatted="false">Atnaujinimo paketas neatitinka patvirtintos leidimo informacijos</string>
+    <string name="native_8635a43ce28a" formatted="false">Neteisingas projekto katalogas</string>
+    <string name="native_d32ab8b004e6" formatted="false">Nepavyko išsaugoti darbo vietos vietos</string>
+    <string name="native_43a5447014fd" formatted="false">Prieš atidarydami terminalą, paleiskite kūrimo aplinką iš Runtime.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Naujas terminalas</string>
+    <string name="native_b3b7108a568f" formatted="false">Uždarymo srovė</string>
+    <string name="native_0e822affd5da">Pradinis katalogas: %1$s</string>
+    <string name="native_72d769e3888d">Naujas terminalo katalogas: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Sistemos failų rinkiklis nepasiekiamas</string>
+    <string name="native_179a57921f91" formatted="false">WebView atvaizdavimo nustatymai</string>
+    <string name="native_3024ec603eb7" formatted="false">Atvaizdavimo kadrų dažnis</string>
+    <string name="native_55b6d7f645f3" formatted="false">Pageidautina 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Sekite ekrano atnaujinimo dažnį</string>
+    <string name="native_d4ecf38c341d" formatted="false">Pirmenybę teikite 60 Hz, kad sumažintumėte atvaizdavimo apkrovą didelio atnaujinimo dažnio ekranuose. Po ekrano sistema leidžia planuoti kadrus. Taikoma tik šios programos langui.</string>
+    <string name="native_bf0d3a407418" formatted="false">Neįdiegta</string>
+    <string name="native_2fb8edc75b25" formatted="false">Paruošta</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Tikrinamasis krautuvas</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian diegimas</string>
+    <string name="native_f863d955fa6e" formatted="false">Vietos plėtros aplinka</string>
+    <string name="native_55aa84065de2" formatted="false">Vietinė Debian kūrimo sesija</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop\nSumontuotas</string>
+    <string name="native_5f73a4e1e494" formatted="false">Įdiegta</string>
+    <string name="native_147e90d2ec02" formatted="false">atsigauna</string>
+</resources>

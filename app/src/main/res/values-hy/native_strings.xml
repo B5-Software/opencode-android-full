@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Զարգացման աշխատանքային տարածք</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Մեկ էջ</string>
+    <string name="native_651ae6ea52ae" formatted="false">Վերականգնել պառակտված տեսքը</string>
+    <string name="native_d7e97cfac66f" formatted="false">Workspace layout</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Ընդարձակեք պատուհանը՝ մի քանի վահանակներ միասին դիտելու համար:</string>
+    <string name="native_e792dd4cfa78" formatted="false">Ցուցադրել նախագծի ֆայլերը</string>
+    <string name="native_712d956931d1" formatted="false">Ցույց տալ տերմինալը</string>
+    <string name="native_073cc20d9ed9" formatted="false">տերմինալը ստորև</string>
+    <string name="native_5de225480fa7" formatted="false">տերմինալը աջ կողմում</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Panels collapse when space is limited and remain accessible from the floating menu. Կողային տերմինալը հայտնվում է ավելի լայն պատուհաններում: Drag dividers to resize panels.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + ձախ Alt՝ 1–5 էջ · B ֆայլեր · T տերմինալ · M աշխատասեղան · Մուտքագրեք Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Կատարված է</string>
+    <string name="native_bcec2218fc21" formatted="false">Վերականգնել համամասնությունները</string>
+    <string name="native_da88c62d1217">Show %1$s in a single page</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Ծրագրի ֆայլերի բաժանարար</string>
+    <string name="native_707c0891a0e6" formatted="false">Տերմինալի բաժանարար</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode և աշխատասեղանի բաժանարար</string>
+    <string name="native_50407ad8dfa8" formatted="false">Shrink previous panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Մեծացնել նախորդ վահանակը</string>
+    <string name="native_3f3685e8d731" formatted="false">Չափազանց շատ PRoot հղումներ այս արխիվի ձևաչափի համար</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux կոշտ հղումները պահանջում են ամբողջական rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Backup directory nesting is too deep</string>
+    <string name="native_b6f744737a45" formatted="false">Պահուստային գաղտնաբառի անվավեր երկարություն</string>
+    <string name="native_13bde5dd1812" formatted="false">Պահուստային գաղտնաբառը պետք է պարունակի առնվազն 12 նիշ</string>
+    <string name="native_be02cbd55932" formatted="false">Չաջակցվող պահուստավորման ձևաչափ</string>
+    <string name="native_7a91a3d586ae" formatted="false">Invalid backup header</string>
+    <string name="native_2bbd318a5667" formatted="false">Unsupported backup encryption parameters</string>
+    <string name="native_18868da27841" formatted="false">Սխալ պահուստային գաղտնաբառ կամ վնասված ֆայլ</string>
+    <string name="native_e41d6440468d" formatted="false">Recovery record is too large</string>
+    <string name="native_282692502f14" formatted="false">Պահուստային մետատվյալները չափազանց մեծ են</string>
+    <string name="native_61fdca8d6c82" formatted="false">Backup metadata nesting is too deep</string>
+    <string name="native_8cefb30732d4" formatted="false">Invalid backup metadata</string>
+    <string name="native_5d3037708cad" formatted="false">Unsupported native settings</string>
+    <string name="native_81a57c382f9d" formatted="false">Could not save native settings</string>
+    <string name="native_50603e683d4a" formatted="false">Անվավեր ծնող գրացուցակ պահուստային ուղու մեջ</string>
+    <string name="native_c3f838a46b8e" formatted="false">The workstation root must not be a symbolic link</string>
+    <string name="native_9ddd2d8280c8" formatted="false">A file changed during backup</string>
+    <string name="native_77e1e85147db" formatted="false">Unsupported workstation data format</string>
+    <string name="native_a927b5a565af" formatted="false">The backup contains additional data</string>
+    <string name="native_c2b886d508f2" formatted="false">Կրկնօրինակը պարունակում է կրկնօրինակ ուղիներ</string>
+    <string name="native_3dab8cd60102" formatted="false">Կրկնօրինակը պարունակում է գործարկման ժամանակի կարգավորումներ, որոնք հնարավոր չէ տեղափոխել</string>
+    <string name="native_f45ba674a630" formatted="false">Պահուստավորումը չափազանց մեծ է, կամ պահեստավորումն անբավարար է</string>
+    <string name="native_140073e8e77b" formatted="false">Չհաջողվեց վերականգնել հղման խորհրդանշական ժամադրոշմները</string>
+    <string name="native_b0d411aaf62c" formatted="false">Չհաջողվեց վերականգնել անվանված խողովակի ժամանակային դրոշմանիշները</string>
+    <string name="native_0daee8026db1" formatted="false">Workstation կրկնօրինակում և վերականգնում</string>
+    <string name="native_1acc18928c5f" formatted="false">Ներառում է Debian, ծրագրավորողների գործիքներ, նախագծեր, տուն, OpenCode նիստեր և կարգավորումներ, Linux բրաուզերի տվյալներ և հայրենի դասավորության կարգավորումներ:</string>
+    <string name="native_62254d31a535" formatted="false">Ժամանակավոր ֆայլերը և հին կրկնօրինակումները բացառված են: Android WebView պահեստը և չուղարկված սևագրերը մնում են այս սարքում և չեն փոխանցվում այս պահուստավորման միջոցով:</string>
+    <string name="native_808eabc7811f" formatted="false">Ստեղծեք կոդավորված կրկնօրինակում</string>
+    <string name="native_201c10b38296" formatted="false">Ներմուծեք կրկնօրինակ</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Նախ պահեք ձեր փոփոխությունները ֆայլերի խմբագրում:</string>
+    <string name="native_0559cd596453" formatted="false">Դադարեցրեք OpenCode-ը, տերմինալները և աշխատասեղանը</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Շրջակա միջավայրի գործողությունը թերի է: Վերականգնեք այն նախ:</string>
+    <string name="native_185f58156330" formatted="false">Վերականգնել անավարտ գործողությունը</string>
+    <string name="native_20831b6f67a7" formatted="false">Հետարկել միջավայրի վերջին վերականգնումը</string>
+    <string name="native_4f392d5d6141">Կոդավորված տեղական պատճեն՝ %1$s</string>
+    <string name="native_80077c694212" formatted="false">Պահպանել ֆայլում</string>
+    <string name="native_f09619351eb9" formatted="false">Ջնջել տեղական պատճենը</string>
+    <string name="native_85c686eb9841">Մշակված է %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Չեղարկել պահուստավորման առաջադրանքը</string>
+    <string name="native_66c9d896407b" formatted="false">Գաղտնագրել աշխատանքային կայանի կրկնօրինակը</string>
+    <string name="native_548cd9f0831e" formatted="false">Ապակոդավորեք և ստուգեք կրկնօրինակը</string>
+    <string name="native_d248f5eca9a5" formatted="false">Կրկնօրինակները կարող են պարունակել SSH մասնավոր բանալիներ, API ստեղներ և հաշվի տվյալներ: Օգտագործեք առնվազն 12 նիշ: Մոռացված գաղտնաբառը հնարավոր չէ վերականգնել:</string>
+    <string name="native_f249422b9ec1" formatted="false">Կրկնօրինակը վերծանվում և ստուգվում է մասնավոր գրացուցակում: Ձեր միջավայրը փոխարինվում է միայն վերականգնումը հաստատելուց հետո:</string>
+    <string name="native_e7be6841703a" formatted="false">Պահուստային գաղտնաբառ</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Կրկնել գաղտնաբառը</string>
+    <string name="native_eafdc5cd4882" formatted="false">Սկսեք գաղտնագրումը</string>
+    <string name="native_2986b88beade" formatted="false">Ապակոդավորել և ստուգել</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Չեղարկել</string>
+    <string name="native_f46c5ed7412d" formatted="false">Վերականգնե՞լ ամբողջ նախորդ միջավայրը:</string>
+    <string name="native_33eda0946a5b" formatted="false">Ջնջե՞լ գաղտնագրված տեղական պատճենը:</string>
+    <string name="native_26db24150f2e" formatted="false">Նախագծերը, տունը, Debian-ը և նիստերը կվերադառնան իրենց վիճակին մինչև վերջին վերականգնումը: Ավելի վերջին աշխատանքը կմնա հավելվածի ներսում գտնվող անձնական պահուստում:</string>
+    <string name="native_1153b30d51d5" formatted="false">Հավելվածի ներսում միայն գաղտնագրված տեղական պատճենն է ջնջվում: Այլուր պահված ֆայլերը մնում են հասանելի:</string>
+    <string name="native_427a78a4e69a" formatted="false">Հաստատեք</string>
+    <string name="native_7af46d7ee003" formatted="false">Վերականգնե՞լ այս աշխատակայանի կրկնօրինակը:</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s գրառում · %3$s\nOpenCode՝ %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Կրկնօրինակը պարունակում է գործարկվող Linux ծրագրակազմ: Հաստատեք, որ վստահում եք դրա աղբյուրին: Վերականգնումը փոխարինում է ամբողջ միջավայրը և ստուգում տեղական ծառայությունները. նախկին միջավայրը պահվում է վերականգնման համար։</string>
+    <string name="native_c3d74ed0c054" formatted="false">Կրկնօրինակը ստուգված է: Սպասում է վերականգնման հաստատմանը:</string>
+    <string name="native_97076078c749" formatted="false">Նաև միացրեք Chromium-ի համատեղելիության ռեժիմը (անջատում է Linux գործընթացի ավազատուփը)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Լռելյայն անջատված է: Դուք կարող եք այն միացնել ավելի ուշ աշխատասեղանի կարգավորումներում:</string>
+    <string name="native_ddf09383413c" formatted="false">Հաստատեք վերականգնումը</string>
+    <string name="native_8e6056b0f629" formatted="false">Չեղարկել ներմուծումը</string>
+    <string name="native_63a895901c76" formatted="false">Աշխատանքային կայանի միջավայրը փոխվել է</string>
+    <string name="native_a4c994348a39" formatted="false">Վերաբացեք աշխատանքային տարածքը</string>
+    <string name="native_774947f0653e" formatted="false">Չեղարկել առաջադրանքը</string>
+    <string name="native_e09a22b18445" formatted="false">Առաջադրանքն ընդհատվեց: Կրկին ընտրեք գործողություն և մուտքագրեք գաղտնաբառը:</string>
+    <string name="native_38c5fcc634db" formatted="false">Նախ պահեք ֆայլի խմբագրումները բոլոր պատուհաններում: Չեղարկեք առկա ներմուծումը նախքան նորից փորձելը:</string>
+    <string name="native_029bfa8ff772" formatted="false">Աշխատանքային կայանի վերականգնում և ծրագրերի ստուգում</string>
+    <string name="native_e4f04df818f8" formatted="false">Մշակում է ձեր ընտրած պահուստավորման գործողությունը</string>
+    <string name="native_8206f072d5ee" formatted="false">Դադարեցրեք OpenCode-ը, տերմինալները և աշխատասեղանը, այնուհետև սպասեք ֆայլի գործողությունների ավարտին:</string>
+    <string name="native_1a5cde18c609" formatted="false">Չհաջողվեց սկսել պահուստավորման առաջադրանքը: Կրկին փորձեք՝ հավելվածն առաջին պլանում դնելով:</string>
+    <string name="native_1553b714941d" formatted="false">Կրկնօրինակի վերծանում և ստուգում: Բնօրինակ միջավայրը մնում է վերականգնելի…</string>
+    <string name="native_dafd005e953e" formatted="false">Կրկնօրինակը ստուգված է: Հաստատեք վերականգնումը հավելվածում:</string>
+    <string name="native_9fb236184596" formatted="false">Ջնջել է գաղտնագրված տեղական պատճենը հավելվածի ներսում:</string>
+    <string name="native_f98e9ac348b6" formatted="false">Գործողությունը չեղարկվել է: Պահպանվել են բնօրինակ միջավայրի տվյալները:</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Գործողությունը թերի է: Ստուգեք գաղտնաբառը, կրկնօրինակի ամբողջականությունը, հոսթի տարբերակը և ազատ տարածքը: Պահպանվել են բնօրինակ միջավայրի տվյալները:</string>
+    <string name="native_29deabd28960" formatted="false">Ստեղծվում է գաղտնագրված աշխատակայանի պահուստավորում…</string>
+    <string name="native_3d137e243806" formatted="false">Ստեղծվել է կոդավորված կրկնօրինակում: Ընտրեք, թե որտեղ եք այն պահելու:</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Շրջակա միջավայրի վերականգնում և տեղական ծառայությունների ստուգում: Պահպանեք հավելվածի տվյալները…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">աշխատանքային կայանը վերականգնվել է: Նախորդ միջավայրը մնում է մասնավոր կրկնօրինակում: Վերաբացեք աշխատանքային տարածքը:</string>
+    <string name="native_0392cd6152d2" formatted="false">Վերականգնման ստուգումները ձախողվեցին: Վերադարձել է նախկին միջավայր; ներմուծված տվյալները մնում են մասնավոր կրկնօրինակում:</string>
+    <string name="native_5dc7410b600e" formatted="false">Վերականգնումը թերի է: Բոլոր տվյալների գրացուցակները պահպանվում են: Պահպանեք հավելվածի տվյալները և նորից փորձեք վերականգնել:</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Նախկին աշխատանքային կայանի միջավայրի վերականգնում…</string>
+    <string name="native_15821323ff89" formatted="false">Նախորդ միջավայրը վերականգնված է: Ավելի վերջին աշխատանքը մնում է մասնավոր պահուստավորման մեջ: Վերաբացեք աշխատանքային տարածքը:</string>
+    <string name="native_56dd94f47870" formatted="false">Հնարավոր չէ հետարկել այս վերականգնումը: Ընթացիկ միջավայրը և կրկնօրինակները պահպանված են:</string>
+    <string name="native_93530f3fa029" formatted="false">Հետարկելը թերի է: Բոլոր տվյալների գրացուցակները պահպանվում են: Պահպանեք հավելվածի տվյալները և նորից փորձեք վերականգնել:</string>
+    <string name="native_f12963c80def" formatted="false">Պահպանվում է կոդավորված պահուստավորում…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Պահպանվել է կոդավորված կրկնօրինակը: Դուք կարող եք նորից պահպանել տեղական պատճենը կամ ջնջել այն ձեռքով:</string>
+    <string name="native_d660cccf65e0" formatted="false">Չհաստատված ներմուծման մաքրում…</string>
+    <string name="native_800592163979" formatted="false">Ներմուծումը չեղարկվել է: Բնօրինակ միջավայրը անփոփոխ.</string>
+    <string name="native_5a90367eb834" formatted="false">Ներմուծումը չեղարկվել է: Բնօրինակ միջավայրը անփոփոխ է; որոշ ժամանակավոր ներմուծման տվյալներ մնում են հավելվածի մասնավոր գրացուցակում:</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Ապակոդավորման և հաստատման նախապատրաստում…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Կոդավորված պահուստավորման պատրաստում…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Չհաջողվեց գործարկել պահուստավորման ծառայությունը: Կրկին փորձեք առաջին պլանում:</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Նախ վերականգնեք շրջակա միջավայրի թերի գործողությունը</string>
+    <string name="native_f14aea7c819c" formatted="false">Անվավեր վերականգնման գրառում</string>
+    <string name="native_7c284c55ee08" formatted="false">Վերականգնման գրացուցակը բացակայում է</string>
+    <string name="native_bfc4792df15b" formatted="false">Մայրենի կարգավորումները գերազանցում են վերականգնման ռեկորդի սահմանաչափը</string>
+    <string name="native_8d93770ba8c9">Բացակայում է նախորդ միջավայրի գրացուցակը. %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Անհայտ վերականգնման փուլ</string>
+    <string name="native_20c5124fe175" formatted="false">Անհայտ վերականգնման գործողություն</string>
+    <string name="native_1c457322b624" formatted="false">Նախկին միջավայր հնարավոր չէ վերականգնել</string>
+    <string name="native_30db1666c8e5" formatted="false">Այս կրկնօրինակը պատկանում է մեկ այլ հավելվածի</string>
+    <string name="native_6687d1c64d75" formatted="false">Պահուստային պրոցեսորի ճարտարապետությունը չի համընկնում</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Նախ թարմացրե՛ք Android-ի հոսթը՝ այս կրկնօրինակի կողմից օգտագործվող տարբերակին</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Պահուստային գրացուցակը թերի է</string>
+    <string name="native_66106ab3e254" formatted="false">Հին կրկնօրինակը չունի ստուգելի OpenCode հրատարակիչ ապացույց: Սկսեք բնօրինակ միջավայրը այս հոսթով, նախքան այն նորից կրկնօրինակեք:</string>
+    <string name="native_bec13cc92982" formatted="false">Զարգացման միջավայրի համակարգի գործողություններ</string>
+    <string name="native_65de80229626" formatted="false">Debian-ը համակարգային գործողություն է խնդրել</string>
+    <string name="native_5e38581cf19c" formatted="false">Հպեք՝ հարցումը վերանայելու և մշակելու համար</string>
+    <string name="native_749d406d2c67" formatted="false">Debian-ի զարգացման միջավայրից</string>
+    <string name="native_4032d33b2afd" formatted="false">Բացե՞լ համակարգի բրաուզերը:</string>
+    <string name="native_ce9491abbc6c" formatted="false">Բացե՞լ ծրագրի տեղական նախադիտումը:</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Կարդա՞լ սեղմատախտակը:</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Պատճենե՞լ համակարգի clipboard-ում:</string>
+    <string name="native_77f761eb70aa" formatted="false">Ուղարկե՞լ տեղային ծանուցում:</string>
+    <string name="native_e6b29e80abb7" formatted="false">Կիսվե՞լ նախագծի ֆայլով:</string>
+    <string name="native_9d36f698b3c1" formatted="false">Ներմուծե՞լ համակարգի ֆայլերը:</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Արտահանե՞լ նախագծի ֆայլ:</string>
+    <string name="native_7ac295421c6d" formatted="false">Բացեք բրաուզերում</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Բացեք նախադիտումը</string>
+    <string name="native_14792d6cd7a6" formatted="false">Թույլատրել կարդալ</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Պատճենել clipboard-ում</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Ուղարկել ծանուցում</string>
+    <string name="native_88152a09fa02" formatted="false">Ընտրեք համօգտագործման հավելված</string>
+    <string name="native_7a49a79c57f9" formatted="false">Ընտրեք ֆայլեր</string>
+    <string name="native_99d9f87419c5" formatted="false">Ընտրեք, թե որտեղ եք պահելու</string>
+    <string name="native_23e5bb2090aa">%1$s\nԲացվում է OpenCode-ից մեկուսացված դիտարկիչի տվյալներով:</string>
+    <string name="native_ecf17eaad49e" formatted="false">Տվեք տեքստ համակարգի clipboard-ից ընթացիկ Debian ծրագրին:</string>
+    <string name="native_dcc6bec24e43">Ընտրեք ֆայլեր՝ %1$s ներմուծելու համար: Առկա ֆայլերը պահվում են, իսկ կրկնօրինակները վերանվանվում են:</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium դիտարկիչի ռեժիմ</string>
+    <string name="native_4767f37900f6" formatted="false">Համատեղելիության ռեժիմն օգտագործում է դիտարկիչի առանձին պրոֆիլ և անջատում է Chromium-ի Linux գործընթացի ավազատուփը: Զննարկիչը դեռ կարող է մուտք գործել այս հավելվածի ֆայլեր: Խուսափեք անվստահելի կայքերից և օգտագործեք Android համակարգի դիտարկիչը կարևոր հաշիվների համար: Ռեժիմները փոխելուց հետո նորից բացեք Chromium-ը:</string>
+    <string name="native_a4317f2699a2" formatted="false">Standard Linux sandboxing-ը լռելյայն միացված է: Եթե ​​Chromium-ը չի կարող գործարկվել, կարող եք ընտրել համատեղելիության ռեժիմը: Այն անջատում է Linux գործընթացի ավազարկղը և օգտագործում է առանձին պրոֆիլ՝ միաժամանակ պահպանելով հավելվածի ֆայլերի հասանելիությունը: Խուսափեք անվստահելի կայքերից; օգտագործել Android համակարգի բրաուզերը կարևոր հաշիվների համար:</string>
+    <string name="native_3a2596fa9517" formatted="false">Վերականգնել ստանդարտ ռեժիմը</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Միացնել համատեղելիության ռեժիմը</string>
+    <string name="native_9a45442649f5" formatted="false">Debian աշխատասեղան</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Համօգտագործված /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Առաջին տեղադրումը ներբեռնում է գրաֆիկական բաղադրիչներ: Տեղադրվելուց հետո աշխատասեղանը կարող է գործարկել և դադարեցնել OpenCode-ից անկախ:</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC հայելի</string>
+    <string name="native_41e865941e16" formatted="false">Պաշտոնական Debian հայելին</string>
+    <string name="native_ea341b8a102b" formatted="false">Նախնական լուծում</string>
+    <string name="native_ff1cde9ba35d" formatted="false">էջերը փոխելիս աշխատասեղանը շարունակում է աշխատել: Դադարեցրեք Runtime-ից:</string>
+    <string name="native_aadf816e2dc8" formatted="false">Դադարեցրեք աշխատասեղանի առաջադրանքը</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Սկսել աշխատասեղանը</string>
+    <string name="native_ea27a25e5114" formatted="false">Տեղադրեք աշխատասեղանի բաղադրիչները</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium՝ համատեղելիության ռեժիմ</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium. ստանդարտ ռեժիմ</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Նախ տեղադրեք Debian մշակողների գործիքները Runtime-ից:</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Գործունեության մատյան</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Չհաջողվեց բացել նախագծի պանակը: Ստուգեք, որ գրացուցակը գոյություն ունի:</string>
+    <string name="native_83c76743b29d" formatted="false">Ընդհատված միջավայրի շահագործման վերականգնում</string>
+    <string name="native_739a730ae247" formatted="false">Շրջակա միջավայրի պահպանում</string>
+    <string name="native_049281329843" formatted="false">Սպասեք թարմացման պահպանման կամ ընթացիկ առաջադրանքի ավարտին:</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Սպասեք մինչև ընթացիկ զարգացման միջավայրի առաջադրանքն ավարտվի</string>
+    <string name="native_83099168971c" formatted="false">Աշխատասեղանի տեղադրում</string>
+    <string name="native_85e0c18dde8d" formatted="false">Սկսվում է աշխատասեղան</string>
+    <string name="native_9a48f8196d8f" formatted="false">Ուշադրության կարիք ունի</string>
+    <string name="native_75470fb13121" formatted="false">Դադարեցվեց</string>
+    <string name="native_51a53c8109d5" formatted="false">Հնարավոր չէ կարդալ կամ պահպանել գործունեության գրառումը: Վերանորոգեք այն Runtime-ից կամ ազատեք որոշակի պահեստ:</string>
+    <string name="native_d36a018cc619" formatted="false">Նախ տեղադրեք Debian-ի զարգացման միջավայրը</string>
+    <string name="native_80be4c2928a5" formatted="false">Նախ միացեք ցանցին</string>
+    <string name="native_a065d81014b1" formatted="false">աշխատասեղանի տեղադրումն ավարտված չէ: Կրկին փորձեք տեղադրումը:\nՏեղադրված է</string>
+    <string name="native_721c38b32c35" formatted="false">աշխատասեղան: Սկսեք այն, երբ անհրաժեշտ է:</string>
+    <string name="native_6c1c52771115" formatted="false">Նախ տեղադրեք աշխատասեղանի բաղադրիչները</string>
+    <string name="native_693d90a47827" formatted="false">աշխատասեղանի աշխատանքը ձախողվեց: Մանրամասները չափազանց երկար են կամ անհասանելի:</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Չհաջողվեց ավարտել կանգառի նշիչի պահպանումը: Մաքրման գործընթացը շարունակվել է։</string>
+    <string name="native_06083621a6ce" formatted="false">Չհաջողվեց ավարտել գործունեության գրառումը պահելը: Հաջորդ գործարկումը դա կվերաբերվի որպես ընդհատում:</string>
+    <string name="native_04d721a3819a" formatted="false">աշխատասեղանն աշխատում է</string>
+    <string name="native_c3f0acaf7a73" formatted="false">աշխատասեղանի շահագործման ժամկետը սպառվել է: Դիտեք գրանցամատյանը և նորից փորձեք:</string>
+    <string name="native_e70d328a3ca9">աշխատասեղանի գործընթացից դուրս է եկել (%1$s): Վերանայեք գործունեության մատյանը:</string>
+    <string name="native_df5c878f2852" formatted="false">Տեղական գրաֆիկական աշխատանքային տարածք</string>
+    <string name="native_7b0455a8daa4" formatted="false">Դադարեցրեք աշխատասեղանը</string>
+    <string name="native_a62123cde9c7" formatted="false">Ընդհատված առաջադրանքներ և վերականգնում</string>
+    <string name="native_279308947a14" formatted="false">Հնարավոր չէ կարդալ գործունեության գրառումը: Repair-ը պահպանում է վնասված գրառումների պատճենը և պահպանում նախագծերը, նիստերը և Linux միջավայրը:</string>
+    <string name="native_2bd92fae24e5" formatted="false">Վերանորոգման գործունեության գրառում</string>
+    <string name="native_6b43650c2c82" formatted="false">Առաջադրանքն անսպասելիորեն ավարտվեց:</string>
+    <string name="native_acb0c970aaa6">%1$s տերմինալները սովորաբար փակված չէին: Նրանց վազող հրամաններն ընդհատվեցին։</string>
+    <string name="native_4ba153d8dff5" formatted="false">Վերագործարկումը հաստատված է: Նախորդ հրամանները չեն վերարտադրվել:</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Պահպանված նախագծերն ու նիստերը պահպանվում են: Վերաբացել տերմինալները ձեռքով; անավարտ հրամանները ինքնաբերաբար չեն վերսկսվի:</string>
+    <string name="native_fa9669296762" formatted="false">Վերագործարկեք OpenCode-ը</string>
+    <string name="native_bd8130bec5d9" formatted="false">Աշխատասեղանն ինքնաբերաբար չի վերագործարկվի: Սկսեք այն կրկին աշխատասեղանի էջից:</string>
+    <string name="native_644f8f44251f" formatted="false">Բացեք ֆայլը</string>
+    <string name="native_9dfb5569d609" formatted="false">Կիսվեք ֆայլով</string>
+    <string name="native_a4500cff3a86" formatted="false">Աշխատանքային գրացուցակը չպետք է լինի խորհրդանշական հղում</string>
+    <string name="native_8657d27661bd" formatted="false">Անվավեր աշխատանքային գրացուցակի ուղի</string>
+    <string name="native_02b702a9adff" formatted="false">Ընտրեք ֆայլ</string>
+    <string name="native_924874b746cc" formatted="false">Կառավարեք խորհրդանշական հղումները տերմինալում</string>
+    <string name="native_efea6e422a54" formatted="false">Անվավեր ֆայլի անուն</string>
+    <string name="native_c4989dc37aab" formatted="false">գրացուցակը գոյություն չունի</string>
+    <string name="native_d613dba39b44" formatted="false">Նշանակման գրացուցակը գոյություն չունի</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Հնարավոր չէ թղթապանակ տեղադրել իր կամ նրա ժառանգների ներսում</string>
+    <string name="native_c3acd5a3254c" formatted="false">Նախագիծը պարունակում է հատուկ սարքեր կամ վարդակներ և հնարավոր չէ պատճենել</string>
+    <string name="native_6c36955b068b" formatted="false">Ընտրեք սովորական ֆայլ</string>
+    <string name="native_49191d7d489f" formatted="false">Այս ֆայլը գերազանցում է 2 MB-ը: Խմբագրել այն OpenCode կամ տերմինալով:</string>
+    <string name="native_ee42414d36c2" formatted="false">ֆայլը չափազանց մեծ է</string>
+    <string name="native_f0a979f87157" formatted="false">Արտահանեք երկուական ֆայլեր՝ դրանք մեկ այլ հավելվածում բացելու համար</string>
+    <string name="native_88a9c82651fc" formatted="false">Խմբագրել ֆայլերը, որոնք UTF-8 չեն OpenCode-ով կամ տերմինալով</string>
+    <string name="native_0189a5c3418c" formatted="false">Մեկ այլ գործիք փոխեց այս ֆայլը: Վերաբացեք այն խմբագրելուց առաջ:</string>
+    <string name="native_0ce79256f4ac" formatted="false">Բնօրինակ գրացուցակը այլևս գոյություն չունի: Վերականգնել այն նախ:</string>
+    <string name="native_46eae321049e" formatted="false">Համօգտագործման հավելված չկա</string>
+    <string name="native_87d699d3a26c" formatted="false">Աղբարկղ</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Ծրագրի ֆայլեր</string>
+    <string name="native_4dcf914f0b64" formatted="false">Ջնջված ֆայլերը կարող են վերականգնվել իրենց սկզբնական գրացուցակներում</string>
+    <string name="native_c5b81b02354f" formatted="false">Հետ</string>
+    <string name="native_e56b99379169">Պատճենվել է %1$s ֆայլ · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Պատճենվում…</string>
+    <string name="native_85199bb36b04" formatted="false">Չեղարկել գործողությունը</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Փակել</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Նոր նիստ</string>
+    <string name="native_23c250cc8e0b" formatted="false">Սկսեք OpenCode նիստ այստեղ</string>
+    <string name="native_f22da21fd54f" formatted="false">տերմինալ</string>
+    <string name="native_3645f30b3412" formatted="false">Չպահված փոփոխություններ</string>
+    <string name="native_2266227605c4" formatted="false">Պահպանել</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Աղբարկղը դատարկ է</string>
+    <string name="native_a9e739b13e52" formatted="false">Վերականգնել</string>
+    <string name="native_45985dc2183e" formatted="false">Տեղափոխել:</string>
+    <string name="native_31214130b5b7" formatted="false">Պատճեն:</string>
+    <string name="native_07e5c3158f35" formatted="false">Մածուկ</string>
+    <string name="native_831b4e0fb574" formatted="false">Նոր</string>
+    <string name="native_ff65a22d7087" formatted="false">Նոր թղթապանակ</string>
+    <string name="native_71faed44a86c" formatted="false">Նոր ֆայլ</string>
+    <string name="native_8dddd460f6ae" formatted="false">Ներմուծում</string>
+    <string name="native_d85825123e60" formatted="false">Թարմացնել</string>
+    <string name="native_ac9d73843736" formatted="false">Որոնել այս գրացուցակը</string>
+    <string name="native_21eef82963ee" formatted="false">Այս գրացուցակը դատարկ է: Ներմուծեք ֆայլեր կամ ստեղծեք նախագիծ:</string>
+    <string name="native_e8a4cecaa371" formatted="false">Համապատասխան ֆայլեր չկան</string>
+    <string name="native_d674bc0f86b8" formatted="false">Ֆայլի գործողություններ</string>
+    <string name="native_d04a47c87cc8" formatted="false">Խորհրդանշական հղում</string>
+    <string name="native_e0ba66f5246a" formatted="false">Թղթապանակ</string>
+    <string name="native_f170b42599e8" formatted="false">Վերանվանել</string>
+    <string name="native_4cdacf57ead2" formatted="false">Պատճեն</string>
+    <string name="native_124aa030694e" formatted="false">Տեղափոխել դեպի…</string>
+    <string name="native_ac990518ed87" formatted="false">Բացեք տերմինալն այստեղ</string>
+    <string name="native_87bc93932d8a" formatted="false">Արտահանել համակարգային ֆայլեր</string>
+    <string name="native_dd37f132172f" formatted="false">Տեղափոխել աղբարկղ</string>
+    <string name="native_7318746d337c" formatted="false">Տեղափոխե՞լ աղբարկղ:</string>
+    <string name="native_2b5ee3f10a56">Դուք կարող եք վերականգնել «%1$s»-ը աղբարկղից:</string>
+    <string name="native_e49730c9e7e1" formatted="false">Տեղափոխել</string>
+    <string name="native_4e47aaa113fc" formatted="false">Չեղարկե՞լ չպահված փոփոխությունները:</string>
+    <string name="native_63b75399ef1a" formatted="false">Չեղարկել փոփոխությունները</string>
+    <string name="native_d9618f7b8d25" formatted="false">Շարունակեք խմբագրումը</string>
+    <string name="native_76ce6aef5479" formatted="false">Անուն</string>
+    <string name="native_35b0fc30b909" formatted="false">Լավ է</string>
+    <string name="native_11b319774788" formatted="false">Շրջակա միջավայրը վերականգնված է: Վերաբացեք աշխատանքային տարածքը:</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Նախ ավարտեք ընդհատված գործողության վերականգնումը Runtime-ում</string>
+    <string name="native_f29af06e7c99" formatted="false">Շրջակա միջավայրի պահպանումն ընթացքի մեջ է: Փորձեք ավելի ուշ:</string>
+    <string name="native_3bd28258feb0" formatted="false">Գործողությունը չեղարկվել է</string>
+    <string name="native_c508721eb3cd" formatted="false">Այս անունով ֆայլ արդեն գոյություն ունի: Ընտրեք մեկ այլ անուն:</string>
+    <string name="native_1e8274fe468a" formatted="false">Ֆայլն այլևս գոյություն չունի: Թարմացրեք գրացուցակը:</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Ֆայլի մուտքի թույլտվությունը մերժված է</string>
+    <string name="native_cd808e4c321e" formatted="false">Չհաջողվեց ավարտել գործողությունը</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Գործողությունը թերի է: Ստուգեք հասանելի պահեստը կամ նորից ընտրեք ֆայլերը:</string>
+    <string name="native_3f9983126fd7" formatted="false">Ստուգեք OpenCode-ի գործարկման կարգավիճակը Runtime-ում</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Չհաջողվեց բացել նոր տերմինալ: Ստուգեք նիստերի քանակը:</string>
+    <string name="native_2160fde3813a" formatted="false">Կառավարեք խորհրդանշական հղումները տերմինալում: Ֆայլերի կառավարիչը չի հետևում հղումներին:</string>
+    <string name="native_7a844e9d4017" formatted="false">Տեղափոխումն ավարտված է</string>
+    <string name="native_573877894fcf" formatted="false">Պատճենը ավարտված է</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Տեղափոխվել է աղբարկղ</string>
+    <string name="native_862330af933f" formatted="false">Վերականգնվել է սկզբնական գրացուցակում</string>
+    <string name="native_beda23c9d52b" formatted="false">Տեղի է ունեցել շրջակա միջավայրի սպասարկում կամ փոխարինում: Խմբագրելուց առաջ նորից բացեք աշխատանքային տարածքը:</string>
+    <string name="native_678c6953bb2b" formatted="false">Պահպանված է</string>
+    <string name="native_8063159f2178" formatted="false">Հնարավոր չէ կարդալ ընտրված ֆայլը</string>
+    <string name="native_4cdc2180d2ac">Ներմուծվել է %1$s ֆայլ</string>
+    <string name="native_e98763643b93" formatted="false">Հնարավոր չէ գրել ընտրված վայրում</string>
+    <string name="native_5afd173be7fa" formatted="false">Արտահանումն ավարտված է</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Կոդ և նիստեր</string>
+    <string name="native_8745ed51cadd" formatted="false">աշխատասեղան</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Գրաֆիկական աշխատանքային տարածք</string>
+    <string name="native_770d49c5f689" formatted="false">ֆայլեր</string>
+    <string name="native_6a9b6480b58f" formatted="false">Runtime</string>
+    <string name="native_b561fe9204cc" formatted="false">Ծառայություններ և մշակողների գործիքներ</string>
+    <string name="native_70850bdeeabd" formatted="false">Փակել էջի ընտրացանկը</string>
+    <string name="native_b4549acb48e8" formatted="false">Աշխատանքային տարածք</string>
+    <string name="native_3d3551f4660f">Լողացող կոճակի անթափանցիկություն %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Ավելի ցածր արժեքները լողացող կոճակն ավելի թափանցիկ են դարձնում</string>
+    <string name="native_e031beabfc9a" formatted="false">Բացել էջի ընտրացանկը</string>
+    <string name="native_106ee775b538" formatted="false">Միանում է տեղական OpenCode-ին…</string>
+    <string name="native_a021adc1f449" formatted="false">Տեղական կապը վերականգնման կարիք ունի</string>
+    <string name="native_dacb8837471c" formatted="false">Վերամիացում</string>
+    <string name="native_17584aa60ae6" formatted="false">Չհաջողվեց պատրաստել տեղական ռեսուրսների քեշը</string>
+    <string name="native_3b3b80064ccb" formatted="false">Պատրաստվում է տեղական OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Կրկին փորձեք</string>
+    <string name="native_b07809340403" formatted="false">Աշխատանքային տարածքի գտնվելու վայրը դեռ չի պահպանվել: Փորձեք ավելի ուշ:</string>
+    <string name="native_e4ab10392d05" formatted="false">Տեղական ծառայությունը պատրաստվում է։ Ձեր աշխատանքային տարածքը ավտոմատ կերպով կբացվի միանալուց հետո:</string>
+    <string name="native_20ea15973287" formatted="false">Նախորդ գործարկումն ընդհատվել է: Վերագործարկեք Runtime-ից; տերմինալի հրամանները ինքնաբերաբար չեն վերարտադրվի:</string>
+    <string name="native_f2f2f6d32544" formatted="false">Սկսեք OpenCode-ը Runtime-ից՝ կոդը և նիստերը բացելու համար:</string>
+    <string name="native_abbac5c22111" formatted="false">Դուրս եկե՞լ հավելվածից:</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Մշակման միջավայրը կարող է շարունակել աշխատել հետին պլանում: Ավելի ուշ վերադարձեք ծանուցումից:</string>
+    <string name="native_814a8fb24b62" formatted="false">Դուրս եկե՞լ ընթացիկ աշխատանքային տարածքից:</string>
+    <string name="native_a76464945c2d" formatted="false">Նաև դադարեցրեք զարգացման միջավայրը</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Ելք</string>
+    <string name="native_b00143b08ff1" formatted="false">Մշակման կայան պատրաստ է</string>
+    <string name="native_51bca456a350" formatted="false">Ձեր Debian-ի զարգացման աշխատանքային կայանը</string>
+    <string name="native_0c2acd0b6057" formatted="false">Վազում</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Մեկնարկ</string>
+    <string name="native_44da7f6a451d" formatted="false">Կանգառ</string>
+    <string name="native_b7e1503a7239" formatted="false">Վերանորոգման զարգացման միջավայր</string>
+    <string name="native_7c91bd67ff14" formatted="false">Տեղադրեք զարգացման միջավայր</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop միջավայրը</string>
+    <string name="native_e7ec95694dce" formatted="false">Սկսեք OpenCode-ը</string>
+    <string name="native_5d4600a269e9" formatted="false">Ստուգեք միջավայրը</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Թարմացրեք Debian մշակողների գործիքները</string>
+    <string name="native_c114ec62712b" formatted="false">Նախորդ միջավայրի կրկնօրինակումը, նախագծերը և նիստերի տվյալները պահպանվում են:</string>
+    <string name="native_eb3114155716" formatted="false">Տեղադրեք / թարմացրեք լեզվական սերվերները</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) և Python (pylsp), որոնք տեղադրված են առցանց ստորագրված Debian պահեստներից: Նախ դադարեցրեք OpenCode-ը և աշխատասեղանը:</string>
+    <string name="native_2c7251cce661" formatted="false">Հպեք լողացող կոճակին՝ էջերը փոխելու համար: Քաշեք այն՝ վերադիրքավորելու համար:</string>
+    <string name="native_dcef145e6a9b" formatted="false">Գործարկման ժամանակի մասին տեղեկությունները հայտնվում են այստեղ գործարկումից հետո:</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">փաթեթավորված APK տարբերակ</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode-ի թարմացումներ</string>
+    <string name="native_36ab16248f65" formatted="false">Ներմուծեք .ocaupdate ստորագրված այս հավելվածի հրատարակչի կողմից: Պաշտոնական ճակատը և հետնամասի թարմացումը միասին:</string>
+    <string name="native_8aad48b0508d" formatted="false">Թարմացման աղբյուր (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Ստուգեք թարմացման աղբյուրը</string>
+    <string name="native_f73973cfadbb">Ստորագրված թողարկում՝ %1$s\nՊարտավորություն՝ %2$s · %3$s ՄԲ</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Ներբեռնեք և հաստատեք</string>
+    <string name="native_f2ef7965bf12" formatted="false">Ընտրեք թարմացման փաթեթ</string>
+    <string name="native_165111adfe2c">Պատրաստ է տեղադրման՝ %1$s\nՊարտավորություն՝ %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Տեղադրեք այս թարմացումը</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Վերականգնել տարբերակը և նիստերը թարմացումից առաջ</string>
+    <string name="native_6864335de653" formatted="false">Չեղարկել թարմացումը</string>
+    <string name="native_5e3472cf084e" formatted="false">Տեղադրե՞լ OpenCode թարմացումը:</string>
+    <string name="native_816bf3635d53" formatted="false">Վերականգնե՞լ վիճակը թարմացումից առաջ:</string>
+    <string name="native_11beb4a42abc">Տեղադրեք %1$s: Հավելվածը պահպանում է նիստի նկարը, ստուգում է ստորագրված ծրագիրը և վերականգնում է նախորդ տարբերակը, եթե այն ձախողվի: Ծրագրի ֆայլերը պահպանվում են:</string>
+    <string name="native_bc7b4149e7d2" formatted="false">նիստերը վերադառնում են իրենց վիճակին՝ մինչ այս թարմացումը: Ավելի վերջին նիստերը մնում են մասնավոր պահուստավորման մեջ: Ծրագրի ֆայլերը պահպանվում են:</string>
+    <string name="native_def5e273616d" formatted="false">Հաստատեք տեղադրումը</string>
+    <string name="native_369d2eefccde" formatted="false">Չհաջողվեց մեկուսացնել դիտարկիչի նախադիտման տվյալները: Կրկին բացեք նախադիտումը:</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Չհաջողվեց բեռնել նախագծի էջը: Ստուգեք զարգացման սերվերը ձեր տերմինալում:</string>
+    <string name="native_6e7408950cf5" formatted="false">Նախադիտել նախագծի կայքը</string>
+    <string name="native_bfb4951e071d" formatted="false">Ծրագրի նախադիտում</string>
+    <string name="native_f80652913d06" formatted="false">Գործարկեք զարգացման սերվեր տերմինալում, այնուհետև մուտքագրեք դրա տեղական պորտը: Նախադիտման բրաուզերի տվյալները մեկուսացված են OpenCode-ից:</string>
+    <string name="native_2c41e85af61f" formatted="false">նավահանգիստ</string>
+    <string name="native_77c3a828a5c5" formatted="false">Մուտքագրեք զարգացման նավահանգիստ 1024-ից մինչև 65535, բացառելով OpenCode-ի և աշխատասեղանի ծառայությունները:</string>
+    <string name="native_7311a9dfea51" formatted="false">Այս պորտում ոչինչ չի լսվում: Ստուգեք ծառայությունը ձեր տերմինալում:</string>
+    <string name="native_4f8d84105475" formatted="false">Ստուգում…</string>
+    <string name="native_4923c272b68e" formatted="false">Մշակման պորտը պետք է լինի ամբողջ թիվ</string>
+    <string name="native_04a87026e81f" formatted="false">Ընտրեք ծրագրի զարգացման վավեր պորտ</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode մշակման նիստ</string>
+    <string name="native_e87a4529ab82" formatted="false">Զարգացման միջավայրի տեղադրում</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian-ի թարմացում</string>
+    <string name="native_0c6301bc295d" formatted="false">Զարգացման միջավայրի վերանորոգում</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Զարգացման միջավայրի ստուգում</string>
+    <string name="native_9612d4419bb6" formatted="false">Լեզվի սերվերի տեղադրում</string>
+    <string name="native_f72fba77f87a" formatted="false">Շրջակա միջավայրի վերականգնում</string>
+    <string name="native_7c8162195c7c" formatted="false">աշխատասեղանի տեղադրում</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Նախորդ գործարկումն ընդհատվել է: Հստակորեն վերագործարկեք Runtime-ից:</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Այս տեսակի մշակման առաջադրանքը դեռ աշխատում է</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Գործունեության գրառումների վերանորոգում</string>
+    <string name="native_b66749ed72ea" formatted="false">Գործընթացը դուրս եկավ</string>
+    <string name="native_6b25042064e2" formatted="false">Ավարտվում է ազդանշանով</string>
+    <string name="native_d6febdf1752b" formatted="false">Վերականգնվել է ցածր հիշողության պատճառով</string>
+    <string name="native_1d13790f3c89" formatted="false">հավելվածի խափանում</string>
+    <string name="native_28db94d1850d" formatted="false">Բնական գործընթացի վթար</string>
+    <string name="native_86919539f7f1" formatted="false">հավելվածը չի արձագանքում</string>
+    <string name="native_90fb8d6098a5" formatted="false">Նախնականացումը ձախողվեց</string>
+    <string name="native_38c60ab6654c" formatted="false">Թույլտվությունները փոխվել են</string>
+    <string name="native_6d2a6c71334d" formatted="false">Ռեսուրսների սահմանափակում</string>
+    <string name="native_19b2090b01a8" formatted="false">Օգտագործողը խնդրել է դադարեցնել</string>
+    <string name="native_120d96445f1a" formatted="false">Դադարեցված է օգտագործողի կողմից</string>
+    <string name="native_3c8af14f66bc" formatted="false">Կախված գործընթացից դուրս է եկել</string>
+    <string name="native_ca0941ce04ae" formatted="false">Համակարգի այլ պատճառ</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Գործընթացի սառեցում</string>
+    <string name="native_0d48373023a8" formatted="false">Հավելվածի վիճակը փոխվել է</string>
+    <string name="native_c752307db26b" formatted="false">հավելվածի թարմացում</string>
+    <string name="native_b5015951cbdf" formatted="false">Համակարգը չի ներկայացրել ելքի պատճառ</string>
+    <string name="native_b62737b826ad">Համակարգից ելք (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Չհաջողվեց բացել ծրագրի գրացուցակը</string>
+    <string name="native_faf5d983c13e" formatted="false">Չհաջողվեց ստեղծել OpenCode նիստ</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode նստաշրջանի գրացուցակը չի համընկնում</string>
+    <string name="native_ac19736908a2" formatted="false">Չհաջողվեց կարդալ OpenCode նիստը</string>
+    <string name="native_2642997cfeec" formatted="false">Շրջակա միջավայրի պահպանում</string>
+    <string name="native_f992d735d932" formatted="false">Դադարեցրեք OpenCode-ը, տերմինալները և Debian աշխատասեղանը, այնուհետև սպասեք ֆայլի գործողությունների ավարտին</string>
+    <string name="native_489f137f1080" formatted="false">Շրջակա միջավայրի պահպանման կողպեքն այլևս վավեր չէ</string>
+    <string name="native_42380e2567fc" formatted="false">Ընդհատված գործողությունը վերականգնվել է: Վերաբացեք աշխատանքային տարածքը:</string>
+    <string name="native_17b00cac2b91" formatted="false">Տեղական կապի վերականգնումը ձախողվեց: Կրկին փորձեք Runtime-ից:</string>
+    <string name="native_77e9ca4e944c" formatted="false">Շրջակա միջավայրի պահպանումն ընթացքի մեջ է: Փորձեք ավելի ուշ:</string>
+    <string name="native_dbaebe3ce243" formatted="false">Դադարեցրեք Debian աշխատասեղանը նախքան մշակման միջավայրը թարմացնելը</string>
+    <string name="native_548085b144c9" formatted="false">Ընդհատված գործողությունը վերականգնվել է: Դուք կարող եք սկսել զարգացման միջավայրը:</string>
+    <string name="native_b4a1531f9eac" formatted="false">Նախորդ գործարկումն ընդհատվեց: Տերմինալի հրամաններն ինքնաբերաբար չեն վերարտադրվի: Հստակորեն վերագործարկեք Runtime-ից:</string>
+    <string name="native_295cafdfd512" formatted="false">Ժամանակավոր կապի կազմաձևման մաքրումը ավարտված չէ: Մաքրման գործընթացը շարունակվել է։</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Չհաջողվեց ստեղծել helloworld աշխատանքային տարածքը: Ստուգեք գրացուցակը և հասանելի տարածքը:</string>
+    <string name="native_68301868225a" formatted="false">Նախորդ աշխատանքային տարածքի գրացուցակը անհասանելի է: Բացված helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Նախնական նախագիծը դեռ պատրաստ չէ: Կրկին փորձեք Ֆայլերից:</string>
+    <string name="native_45d6ab452622" formatted="false">Տեղադրեք լեզվական սերվերներ</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ և Python լեզուների սերվերները պատրաստ են։ Սկսեք OpenCode-ը՝ LSP-ն օգտագործելու համար:</string>
+    <string name="native_5ea1653deef8" formatted="false">Տերմինալի գործունեության գրառումը չի պահպանվել: Գործընթացի ավարտից հետո ստեղծեք նոր տերմինալ:</string>
+    <string name="native_1978b311a9ff" formatted="false">Չհաջողվեց ավարտել տերմինալի ելքի գրառումը պահելը:</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode թարմացման ներբեռնում</string>
+    <string name="native_06f76cca8fb9" formatted="false">Միանում է թարմացման աղբյուրին…</string>
+    <string name="native_8c39baf28e08" formatted="false">Հնարավոր չէ միանալ թարմացման աղբյուրին: Ստուգեք ցանցը, հրատարակչի ստորագրությունը, հյուրընկալողի տարբերակը և ազատ տարածքը:</string>
+    <string name="native_0bedbc8d185d" formatted="false">Ներբեռնման ժամանակը սպառվել է</string>
+    <string name="native_f75850093535">Ներբեռնում. %1$s / %2$s ՄԲ</string>
+    <string name="native_30a778f1389a" formatted="false">Ստուգվում է հրատարակչի ստորագրությունը…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Թարմացման փաթեթի ներբեռնում…</string>
+    <string name="native_2f9cd52dc66a">Վավեր հրատարակչի ստորագրությունը՝ %1$s: Վերանայեք նախքան ներբեռնելը:</string>
+    <string name="native_17548865632c" formatted="false">Ներբեռնեք, թողարկեք մետատվյալները և փաթեթի ստորագրությունը ստուգված է: Հաստատեք տեղադրումը:</string>
+    <string name="native_180cec958e7a" formatted="false">Ներբեռնումը չեղարկված է: Բնօրինակ տարբերակը պահպանվել է:</string>
+    <string name="native_8df045f8ac12" formatted="false">Ներբեռնումը դադարեցվեց: Բնօրինակ տարբերակը պահպանվել է:</string>
+    <string name="native_778803f1c6bb" formatted="false">Չեղարկել ներբեռնումը</string>
+    <string name="native_2958898ce6f4" formatted="false">Նոր տարբերակը ձախողվեց տեղական գործարկման, տարբերակի կամ նույնականացման ստուգումների: Նախորդ տարբերակը կվերականգնվի։</string>
+    <string name="native_cc876dfbb261" formatted="false">Փորձնական գործընթացը դեռ ավարտված է: Նախքան նորից փորձելը սպասեք վերականգնման:</string>
+    <string name="native_adf977dcb47e" formatted="false">Անվավեր թարմացման գրառումների նույնացուցիչ</string>
+    <string name="native_5207cac670b7" formatted="false">Տեղադրված առանձին OpenCode չափը չի համընկնում</string>
+    <string name="native_cf5b81887589" formatted="false">Տեղադրված առանձին OpenCode ստուգիչ գումարը չի համընկնում: Վերականգնել նախորդ տարբերակը:</string>
+    <string name="native_393049b506cc" formatted="false">Բնօրինակ ծրագիրը չունի համապատասխան հրատարակիչ ապացույց: Նախորդ վիճակն անփոփոխ է.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Նախ վերականգնեք նախորդ ընդհատված թարմացումը</string>
+    <string name="native_91d8da5525fa" formatted="false">Թարմացման փաթեթը փոխվել է հաստատումից հետո</string>
+    <string name="native_093f2c091a30" formatted="false">Անբավարար պահեստավորում: Բնօրինակ տարբերակը անփոփոխ.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Թարմացումների կրկնօրինակում հնարավոր չէ վերականգնել</string>
+    <string name="native_a9f4d9903c14" formatted="false">Կրկնօրինակը չի համապատասխանում գործող տարբերակին</string>
+    <string name="native_6caa23763a42" formatted="false">Նախորդ ծրագրի ստուգումը ձախողվեց: Ընթացիկ նիստերն անփոփոխ են:</string>
+    <string name="native_c8b71b876695" formatted="false">Ավելի ուշ APK կամ Debian թարմացումը փոխարինեց փաթեթավորված ծրագիրը: Նիստի սկզբնական կրկնօրինակը պահպանվում է. նախ վերականգնել համապատասխան ծրագիրը:</string>
+    <string name="native_c443df40964b" formatted="false">Թարմացման վերականգնման անվավեր գործողություն</string>
+    <string name="native_9071f05d58b3" formatted="false">Պատրաստվում է OpenCode թարմացում…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Դադարեցրեք OpenCode-ը, տերմինալները և աշխատասեղանը, ապա սպասեք, որ նրանք դուրս գան:</string>
+    <string name="native_90c07b54f8f8" formatted="false">վիճակի պահպանում, ծրագրերի ստուգում և տարբերակների փոխարկում</string>
+    <string name="native_5fc065ef6f50" formatted="false">Չհաջողվեց սկսել թարմացման սպասարկման ծառայությունը:</string>
+    <string name="native_f7b560c8c820" formatted="false">Պաշտոնական ծրագրի ստուգում և բեմադրություն…</string>
+    <string name="native_9606191c82dc" formatted="false">Պահպանելով բնօրինակ ծրագիրը և հրատարակչի ստորագրությունը…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Պահպանում է նստաշրջանի վիճակի պատկերը…</string>
+    <string name="native_0c8cf4632889" formatted="false">Տարբերակների փոխարկում և տեղական ծառայության ստուգում…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Վերականգնում է տարբերակը և նիստերը մինչև թարմացումը…</string>
+    <string name="native_856de41d3bf3" formatted="false">Վերականգնում է OpenCode-ը</string>
+    <string name="native_8d0137ab8618" formatted="false">Թարմացվում է OpenCode-ը</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Վերականգնել է նախորդ տարբերակը և նիստերը: Ավելի վերջին նիստերը մնում են մասնավոր պահուստավորման մեջ:</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode-ի թարմացումն ավարտված է: Սկսնակը կօգտագործի համապատասխանող պաշտոնական ճակատը և հետին մասը:</string>
+    <string name="native_4693930f5802" formatted="false">Թարմացումը չեղարկվել է: Հաստատելով, որ սկզբնական վիճակը վերականգնվել է:</string>
+    <string name="native_d0e37bc26edd" formatted="false">Թարմացումը թերի է: Այժմ վերականգնվում է; Ծրագրի բնօրինակը և նստաշրջանի կրկնօրինակները պահպանվում են:</string>
+    <string name="native_9a32d6c2d207" formatted="false">վերականգնումն ավարտված չէ: Բոլոր պետական ​​տեղեկատուները պահպանվում են: Պահպանեք ձեր տվյալները և նորից փորձեք գործարկել՝ վերականգնելու համար:</string>
+    <string name="native_49ad3eeae83d" formatted="false">աշխատաշրջանի վերականգնումն ավարտված է: Ավելի վերջին վիճակը մնում է կրկնօրինակում:</string>
+    <string name="native_67c08a2911e1" formatted="false">վերականգնումը չի կարող շարունակվել այս պահուստային կամ օրիգինալ ծրագրով: Ընթացիկ նիստերը և կրկնօրինակները անփոփոխ են:</string>
+    <string name="native_976d8c169cfa" formatted="false">Թարմացումը չեղարկվեց կամ ձախողվեց: Բնօրինակ տարբերակը և նիստերը վերականգնված են:</string>
+    <string name="native_7ac77d1513fc" formatted="false">Ստուգում է թարմացման փաթեթի ստորագրությունը և ամբողջականությունը…</string>
+    <string name="native_0aa018b7337b" formatted="false">Հնարավոր չէ կարդալ ընտրված ֆայլը</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Թարմացման փաթեթը չափազանց մեծ է</string>
+    <string name="native_f068b83f40bf" formatted="false">Ստորագրությունը և փաթեթը ստուգված են: Տեղադրելուց առաջ վերանայեք տարբերակը:</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Հնարավոր չէ ներմուծել. անվավեր ֆայլ, ստորագրության անհամապատասխանություն, անհամատեղելի հոսթի տարբերակ կամ անբավարար պահեստ:</string>
+    <string name="native_616412e65df4" formatted="false">Պաշտոնական ծրագիրը չի համապատասխանում իր հրատարակիչի ապացույցին</string>
+    <string name="native_4bf19a158f27" formatted="false">Գործողության առանձին փաթեթներն աջակցում են միայն ARM64-ին</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Թարմացման ստորագրությունը չի պատկանում այս APK-ին</string>
+    <string name="native_c7273354727f" formatted="false">Թարմացման ֆայլը գերազանցում է հայտարարված չափը</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Թարմացման ծրագրի ստուգիչ գումարը չի համընկնում</string>
+    <string name="native_dd619076d456" formatted="false">Անվավեր թարմացման փաթեթի չափ</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Սեղմված թարմացման փաթեթի չափը չի համընկնում</string>
+    <string name="native_1de24edffcf5" formatted="false">Թարմացման փաթեթը պարունակում է լրացուցիչ գրառումներ</string>
+    <string name="native_c5b339aa77e8" formatted="false">Անհամատեղելի թարմացման սկզբնաղբյուր կամ ճարտարապետություն</string>
+    <string name="native_89d585f3661f" formatted="false">Թարմացրեք Android հավելվածը նախքան այս թարմացումը տեղադրելը</string>
+    <string name="native_800df084dea0" formatted="false">Արխիվի թարմացման ստուգիչ գումարը չի համընկնում</string>
+    <string name="native_ddf1a005e310" formatted="false">APK-ի ստորագրման այս ձևաչափը չի աջակցում գործարկման ժամանակի ինքնուրույն թարմացումները</string>
+    <string name="native_172e063db474" formatted="false">Անվավեր թարմացման փաթեթի մուտքագրում</string>
+    <string name="native_1c08780aa99f" formatted="false">Թարմացման մետատվյալները պետք է օգտագործեն ամբողջ թվեր</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Թարմացման ծրագիրը 64-բիթանոց Linux ELF չէ</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Թարմացման ծրագիրը չի համապատասխանում 16 KiB ELF հավասարեցմանը</string>
+    <string name="native_3afa3741911b" formatted="false">Թարմացման ծրագրին բացակայում է Debian glibc բեռնիչը</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Մուտքագրեք վավեր HTTPS թարմացման աղբյուր</string>
+    <string name="native_c274c7dd5900" formatted="false">Թարմացման աղբյուրները պահանջում են HTTPS URL-ներ առանց օգտվողի հավատարմագրերի</string>
+    <string name="native_f459f5ec9dac" formatted="false">Անվավեր թարմացման աղբյուրի դաշտ</string>
+    <string name="native_bde2a736e30a" formatted="false">Նախ թարմացրե՛ք Android-ի հոսթը</string>
+    <string name="native_b980fd021bef" formatted="false">Անվավեր թարմացման գրացուցակ</string>
+    <string name="native_c0e96727553e" formatted="false">Անվավեր թարմացման ֆայլ</string>
+    <string name="native_86ff542c68ed" formatted="false">Հնարավոր չէ փոխել թարմացման գրացուցակները այս վիճակում</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Նստաշրջանի վիճակը վերաբերում է արտաքին գրացուցակին: Թարմացումը չի կարող ապահով փորձարկվել:</string>
+    <string name="native_796dc6b7ca29" formatted="false">Անբավարար պահեստավորում: Սկզբնական վիճակն անփոփոխ է։</string>
+    <string name="native_099801d672b1" formatted="false">Ներբեռնումը չեղարկված է</string>
+    <string name="native_f1304f707ec9" formatted="false">Չափից շատ թարմացումների վերահղումներ</string>
+    <string name="native_0d07f458b607" formatted="false">Թարմացման սերվերը չի փոխանցել բնօրինակ բայթերը</string>
+    <string name="native_de331dfd8908" formatted="false">Թարմացման ֆայլի երկարությունը չի համընկնում</string>
+    <string name="native_416b8c87e69e" formatted="false">Թարմացման ֆայլն ամբողջությամբ չի ներբեռնվել</string>
+    <string name="native_e1e74b76c427" formatted="false">Թարմացման սերվերը չի վերադարձրել ամբողջական ֆայլը</string>
+    <string name="native_6afcf03cb130" formatted="false">Անբավարար թարմացման բեմական տարածք</string>
+    <string name="native_be1c695d9241" formatted="false">Թարմացման ֆայլը SHA-256 չի համընկնում</string>
+    <string name="native_a0133d117bb0" formatted="false">Թարմացման փաթեթը չի համապատասխանում հաստատված թողարկման տեղեկատվությանը</string>
+    <string name="native_8635a43ce28a" formatted="false">Անվավեր նախագծի գրացուցակ</string>
+    <string name="native_d32ab8b004e6" formatted="false">Չհաջողվեց պահպանել աշխատանքային տարածքի գտնվելու վայրը</string>
+    <string name="native_43a5447014fd" formatted="false">Նախքան տերմինալը բացելը, սկսեք մշակման միջավայրը Runtime-ից:</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Նոր տերմինալ</string>
+    <string name="native_b3b7108a568f" formatted="false">Փակել հոսանքը</string>
+    <string name="native_0e822affd5da">Սկզբնական գրացուցակ՝ %1$s</string>
+    <string name="native_72d769e3888d">Նոր տերմինալային գրացուցակ՝ %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Համակարգի ֆայլերի ընտրիչն անհասանելի է</string>
+    <string name="native_179a57921f91" formatted="false">WebView-ի մատուցման կարգավորումներ</string>
+    <string name="native_3024ec603eb7" formatted="false">Կադրերի ցուցադրման արագություն</string>
+    <string name="native_55b6d7f645f3" formatted="false">Նախընտրում են 60 Հց</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Հետևեք էկրանի թարմացման արագությանը</string>
+    <string name="native_d4ecf38c341d" formatted="false">Նախընտրեք 60 Հց հաճախականությունը՝ նվազեցնելու վերարտադրման բեռը բարձր թարմացման արագությամբ էկրանների վրա: Ցուցասարքին հետևելը թույլ է տալիս համակարգի ժամանակացույցի շրջանակները: Կիրառվում է միայն այս հավելվածի պատուհանին:</string>
+    <string name="native_bf0d3a407418" formatted="false">Տեղադրված չէ</string>
+    <string name="native_2fb8edc75b25" formatted="false">Պատրաստ է</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Բեռնիչի ստուգում</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian-ի տեղադրում</string>
+    <string name="native_f863d955fa6e" formatted="false">Տեղական զարգացման միջավայր</string>
+    <string name="native_55aa84065de2" formatted="false">Տեղական Debian զարգացման նիստ</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop\nՏեղադրված է</string>
+    <string name="native_5f73a4e1e494" formatted="false">Տեղադրված է</string>
+    <string name="native_147e90d2ec02" formatted="false">Վերականգնում</string>
+</resources>

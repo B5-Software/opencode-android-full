@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Работен простор за развој</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Единечна страница</string>
+    <string name="native_651ae6ea52ae" formatted="false">Вратете го поделениот приказ</string>
+    <string name="native_d7e97cfac66f" formatted="false">Распоред на работниот простор</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Проширете го прозорецот за да видите повеќе панели заедно.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Прикажи проектни датотеки</string>
+    <string name="native_712d956931d1" formatted="false">Прикажи терминал</string>
+    <string name="native_073cc20d9ed9" formatted="false">Терминал подолу</string>
+    <string name="native_5de225480fa7" formatted="false">Терминал од десната страна</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Панелите се собираат кога просторот е ограничен и остануваат достапни од лебдечкото мени. Страничниот терминал се појавува во пошироките прозорци. Повлечете ги разделувачите за да ја промените големината на панелите.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + лево Alt: 1–5 страници · B датотеки · T терминал · M работна површина · Внесете Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Готово</string>
+    <string name="native_bcec2218fc21" formatted="false">Ресетирајте ги пропорциите</string>
+    <string name="native_da88c62d1217">Прикажи %1$s на една страница</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Делител на проектни датотеки</string>
+    <string name="native_707c0891a0e6" formatted="false">Терминален делител</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode и делител на работната површина</string>
+    <string name="native_50407ad8dfa8" formatted="false">Смали го претходниот панел</string>
+    <string name="native_b72c5c02a666" formatted="false">Зголемете го претходниот панел</string>
+    <string name="native_3f3685e8d731" formatted="false">Премногу PRoot врски за овој формат на архива</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux тврдите врски бараат комплетен rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Вгнездувањето на резервниот директориум е премногу длабоко</string>
+    <string name="native_b6f744737a45" formatted="false">Неважечка должина на резервната лозинка</string>
+    <string name="native_13bde5dd1812" formatted="false">Резервната лозинка мора да содржи најмалку 12 знаци</string>
+    <string name="native_be02cbd55932" formatted="false">Неподдржан резервен формат</string>
+    <string name="native_7a91a3d586ae" formatted="false">Неважечко заглавие за резервна копија</string>
+    <string name="native_2bbd318a5667" formatted="false">Неподдржани резервни параметри за шифрирање</string>
+    <string name="native_18868da27841" formatted="false">Неточна лозинка за резервна копија или оштетена датотека</string>
+    <string name="native_e41d6440468d" formatted="false">Записот за обновување е премногу голем</string>
+    <string name="native_282692502f14" formatted="false">Метаподатоците за резервната копија се премногу големи</string>
+    <string name="native_61fdca8d6c82" formatted="false">Вгнездувањето на резервните метаподатоци е премногу длабоко</string>
+    <string name="native_8cefb30732d4" formatted="false">Неважечки резервни метаподатоци</string>
+    <string name="native_5d3037708cad" formatted="false">Неподдржани природни поставки</string>
+    <string name="native_81a57c382f9d" formatted="false">Не може да се зачуваат природните поставки</string>
+    <string name="native_50603e683d4a" formatted="false">Неважечки родителски директориум во резервната патека</string>
+    <string name="native_c3f838a46b8e" formatted="false">Коренот на работната станица не смее да биде симболична врска</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Датотека се смени за време на резервната копија</string>
+    <string name="native_77e1e85147db" formatted="false">Неподдржан формат на податоци за работната станица</string>
+    <string name="native_a927b5a565af" formatted="false">Резервната копија содржи дополнителни податоци</string>
+    <string name="native_c2b886d508f2" formatted="false">Резервната копија содржи дупликат патеки</string>
+    <string name="native_3dab8cd60102" formatted="false">Резервната копија содржи поставки за време на траење што не може да се мигрираат</string>
+    <string name="native_f45ba674a630" formatted="false">Резервната копија е преголема или складирањето е недоволно</string>
+    <string name="native_140073e8e77b" formatted="false">Не може да се вратат симболичните временски печати за врски</string>
+    <string name="native_b0d411aaf62c" formatted="false">Не може да се вратат временските ознаки со именувани цевки\nБекап и обновување на работната станица</string>
+    <string name="native_0daee8026db1" formatted="false">Бекап и обновување на работната станица</string>
+    <string name="native_1acc18928c5f" formatted="false">Вклучува Debian, алатки за програмери, проекти, дом, сесии и поставки на OpenCode, податоци на прелистувачот Linux и поставки за мајчин распоред.</string>
+    <string name="native_62254d31a535" formatted="false">Привремените датотеки и старите резервни копии се исклучени. Меморијата на Android WebView и неиспратените нацрти остануваат на уредов и не се пренесуваат со оваа резервна копија.</string>
+    <string name="native_808eabc7811f" formatted="false">Направете шифрирана резервна копија</string>
+    <string name="native_201c10b38296" formatted="false">Увезете резервна копија</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Прво зачувајте ги промените во уредувачот на датотеки.</string>
+    <string name="native_0559cd596453" formatted="false">Стоп за OpenCode, терминали и работна површина</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Операцијата на околината е нецелосна. Прво вратете го.</string>
+    <string name="native_185f58156330" formatted="false">Враќање на нецелосната операција</string>
+    <string name="native_20831b6f67a7" formatted="false">Вратете го последното враќање на околината</string>
+    <string name="native_4f392d5d6141">Шифрирана локална копија: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Зачувај во датотека</string>
+    <string name="native_f09619351eb9" formatted="false">Избришете ја локалната копија</string>
+    <string name="native_85c686eb9841">Обработено %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Откажете ја задачата за резервна копија</string>
+    <string name="native_66c9d896407b" formatted="false">Шифрирајте резервна копија од работната станица</string>
+    <string name="native_548cd9f0831e" formatted="false">Дешифрирајте и потврдете ја резервната копија\nРезервните копии на</string>
+    <string name="native_d248f5eca9a5" formatted="false">може да содржат SSH приватни клучеви, клучеви API и податоци за сметката. Користете најмалку 12 знаци. Заборавена лозинка не може да се врати.</string>
+    <string name="native_f249422b9ec1" formatted="false">Резервната копија е дешифрирана и потврдена во приватен директориум. Вашата околина се заменува само откако ќе ја потврдите реставрацијата.</string>
+    <string name="native_e7be6841703a" formatted="false">Резервна лозинка</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Повторете ја лозинката</string>
+    <string name="native_eafdc5cd4882" formatted="false">Започнете со шифрирање</string>
+    <string name="native_2986b88beade" formatted="false">Дешифрирајте и потврдете</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Откажи</string>
+    <string name="native_f46c5ed7412d" formatted="false">Да се врати целата претходна околина?</string>
+    <string name="native_33eda0946a5b" formatted="false">Да се ​​избрише шифрираната локална копија?</string>
+    <string name="native_26db24150f2e" formatted="false">Проектите, домот, Debian и сесиите ќе се вратат во нивната состојба пред последното обновување. Поновата работа ќе остане во приватна резервна копија во апликацијата.</string>
+    <string name="native_1153b30d51d5" formatted="false">Се брише само шифрираната локална копија во апликацијата. Датотеките зачувани на друго место остануваат достапни.</string>
+    <string name="native_427a78a4e69a" formatted="false">Потврдете</string>
+    <string name="native_7af46d7ee003" formatted="false">Да се врати резервната копија на оваа работна станица?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s записи · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Резервната копија содржи извршен софтвер Linux. Потврдете дека му верувате на неговиот извор. Реставрацијата ја заменува целата околина и ги проверува локалните услуги; претходната средина се чува за обновување.</string>
+    <string name="native_c3d74ed0c054" formatted="false">. Се чека потврда за реставрација.</string>
+    <string name="native_97076078c749" formatted="false">Овозможете го и режимот за компатибилност на Chromium (го оневозможува песокот за процесот на Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">стандардно исклучено. Можете да го овозможите подоцна во поставките на работната површина.</string>
+    <string name="native_ddf09383413c" formatted="false">Потврдете го обновувањето</string>
+    <string name="native_8e6056b0f629" formatted="false">Откажи увоз</string>
+    <string name="native_63a895901c76" formatted="false">Околината на работната станица е променета</string>
+    <string name="native_a4c994348a39" formatted="false">Повторно отворете го работниот простор</string>
+    <string name="native_774947f0653e" formatted="false">Откажи задача</string>
+    <string name="native_e09a22b18445" formatted="false">Задачата беше прекината. Повторно изберете операција и внесете ја лозинката.</string>
+    <string name="native_38c5fcc634db" formatted="false">Прво зачувајте ги уредувањата на датотеките во сите прозорци. Откажете го постоечкиот увоз пред да се обидете повторно.</string>
+    <string name="native_029bfa8ff772" formatted="false">Враќање на работната станица и проверка на програмите</string>
+    <string name="native_e4f04df818f8" formatted="false">Обработка на вашата избрана операција за резервна копија</string>
+    <string name="native_8206f072d5ee" formatted="false">Запрете го OpenCode, терминалите и работната површина, а потоа почекајте да завршат операциите со датотеките.</string>
+    <string name="native_1a5cde18c609" formatted="false">Не можев да ја стартувам задачата за резервна копија. Обидете се повторно со апликацијата во преден план.</string>
+    <string name="native_1553b714941d" formatted="false">Дешифрирање и потврдување на резервната копија. Оригиналната средина останува обновлива…\nПотврдена е резервната копија на</string>
+    <string name="native_dafd005e953e" formatted="false">. Потврдете ја реставрацијата во апликацијата.</string>
+    <string name="native_9fb236184596" formatted="false">Ја избриша шифрираната локална копија во апликацијата.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Операцијата е откажана. Оригиналните податоци за животната средина се задржани.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Операцијата не е завршена. Проверете ја лозинката, интегритетот на резервната копија, верзијата на домаќинот и слободниот простор. Оригиналните податоци за животната средина се задржани.</string>
+    <string name="native_29deabd28960" formatted="false">Создавање резервна копија од шифрирана работна станица…</string>
+    <string name="native_3d137e243806" formatted="false">Создадена е шифрирана резервна копија. Изберете каде да го зачувате.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Враќање на околината и проверка на локалните услуги. Чувајте ги податоците од апликацијата непроменети…\nРаботната станица</string>
+    <string name="native_840a6a8bf2e6" formatted="false">е обновена. Претходната средина останува во приватна резервна копија. Повторно отворете го работниот простор.</string>
+    <string name="native_0392cd6152d2" formatted="false">Проверките за враќање не успеаја. Се врати во претходната средина; увезените податоци остануваат во приватна резервна копија.</string>
+    <string name="native_5dc7410b600e" formatted="false">Реставрацијата е нецелосна. Сите директориуми со податоци се задржани. Чувајте ги податоците од апликацијата и обидете се повторно да го вратите.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Враќање на околината на претходната работна станица…</string>
+    <string name="native_15821323ff89" formatted="false">Претходната средина е обновена. Поновата работа останува во приватна резервна копија. Повторно отворете го работниот простор.</string>
+    <string name="native_56dd94f47870" formatted="false">Не може да се врати ова враќање. Тековната околина и резервните копии се задржани.</string>
+    <string name="native_93530f3fa029" formatted="false">Враќањето е нецелосно. Сите директориуми со податоци се задржани. Чувајте ги податоците од апликацијата и обидете се повторно да го вратите.</string>
+    <string name="native_f12963c80def" formatted="false">Зачувување на шифрирана резервна копија…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Зачувана е шифрирана резервна копија. Можете повторно да ја зачувате локалната копија или рачно да ја избришете.</string>
+    <string name="native_d660cccf65e0" formatted="false">Чистење на непотврден увоз…</string>
+    <string name="native_800592163979" formatted="false">Увозот е откажан. Оригиналната средина непроменета.</string>
+    <string name="native_5a90367eb834" formatted="false">Увозот е откажан. Оригиналната средина непроменета; некои податоци за привремен увоз остануваат во приватниот директориум на апликацијата.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Се подготвува дешифрирање и верификација…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Се подготвува шифрирана резервна копија…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Не може да ја стартува услугата за резервна копија. Обидете се повторно во преден план.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Прво вратете ја нецелосната операција на околината</string>
+    <string name="native_f14aea7c819c" formatted="false">Неважечки запис за враќање</string>
+    <string name="native_7c284c55ee08" formatted="false">Недостасува директориум за враќање</string>
+    <string name="native_bfc4792df15b" formatted="false">Домашните поставки го надминуваат лимитот за евиденција за враќање</string>
+    <string name="native_8d93770ba8c9">Недостасува претходен директориум за опкружување: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Непозната фаза на обновување</string>
+    <string name="native_20c5124fe175" formatted="false">Непозната операција за обновување</string>
+    <string name="native_1c457322b624" formatted="false">Не е достапна претходна околина за обновување</string>
+    <string name="native_30db1666c8e5" formatted="false">Оваа резервна копија припаѓа на друга апликација</string>
+    <string name="native_6687d1c64d75" formatted="false">Архитектурата на резервниот процесор не се совпаѓа</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Прво ажурирајте го домаќинот на Android на верзијата што ја користи оваа резервна копија</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Резервниот директориум е нецелосен</string>
+    <string name="native_66106ab3e254" formatted="false">Старата резервна копија нема проверлив доказ за издавач на OpenCode. Започнете ја оригиналната околина со овој домаќин пред повторно да направите резервна копија.</string>
+    <string name="native_bec13cc92982" formatted="false">Акции на системот за развој на животната средина</string>
+    <string name="native_65de80229626" formatted="false">Debian побара системско дејство</string>
+    <string name="native_5e38581cf19c" formatted="false">Допрете за да го прегледате и да се справите со барањето</string>
+    <string name="native_749d406d2c67" formatted="false">Од развојната околина на Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Да се отвори системскиот прелистувач?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Отвори преглед на локален проект?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Прочитајте ја таблата со исечоци?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Да се ​​копира на системската таблата со исечоци?</string>
+    <string name="native_77f761eb70aa" formatted="false">Испрати локално известување?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Споделете проектна датотека?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Увезете системски датотеки?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Да се ​​извезе проектна датотека?</string>
+    <string name="native_7ac295421c6d" formatted="false">Отворете во прелистувачот</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Отворете го прегледот</string>
+    <string name="native_14792d6cd7a6" formatted="false">Дозволи читање</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Копирај во таблата со исечоци</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Испрати известување</string>
+    <string name="native_88152a09fa02" formatted="false">Изберете апликација за споделување</string>
+    <string name="native_7a49a79c57f9" formatted="false">Изберете датотеки</string>
+    <string name="native_99d9f87419c5" formatted="false">Изберете каде да зачувате</string>
+    <string name="native_23e5bb2090aa">%1$s\nСе отвора со податоци од прелистувачот изолирани од OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Дајте текст од системската таблата со исечоци на тековната програма на Debian.</string>
+    <string name="native_dcc6bec24e43">Изберете датотеки за увезување во %1$s. Постојните датотеки се чуваат, а дупликатите се преименуваат.</string>
+    <string name="native_efdb26088f68" formatted="false">режим на прелистувач Chromium\nРежимот за компатибилност</string>
+    <string name="native_4767f37900f6" formatted="false">користи посебен профил на прелистувач и го оневозможува песокот за процесирање на Linux на Chromium. Прелистувачот сѐ уште може да пристапува до датотеките во оваа апликација. Избегнувајте недоверливи веб-локации и користете го системскиот прелистувач на Android за важни сметки. Повторно отворете го Chromium откако ќе ги промените режимите.</string>
+    <string name="native_a4317f2699a2" formatted="false">Стандардно Linux песокот е овозможен. Ако Chromium не може да започне, можете да изберете режим на компатибилност. Го оневозможува песокот за процесирање Linux и користи посебен профил, додека го задржува пристапот до датотеките со апликации. Избегнувајте недоверливи веб-страници; користете го системскиот прелистувач Android за важни сметки.</string>
+    <string name="native_3a2596fa9517" formatted="false">Вратете го стандардниот режим</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Овозможи режим на компатибилност</string>
+    <string name="native_9a45442649f5" formatted="false">Debian десктоп</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Споделено /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Првата инсталација презема графички компоненти. По инсталацијата, работната површина може да стартува и да запре независно од OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC огледало</string>
+    <string name="native_41e865941e16" formatted="false">Официјално огледало на Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Почетна резолуција</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Десктопот продолжува да работи кога менувате страници. Запрете го од Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Запрете ја работната задача</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Стартувајте ја работната површина</string>
+    <string name="native_ea27a25e5114" formatted="false">Инсталирајте компоненти на работната површина</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: режим на компатибилност</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: стандарден режим</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Прво инсталирајте ги алатките за развивачи на Debian од Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Дневник на активности</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Не може да се отвори папката со проектот. Проверете дали директориумот постои.</string>
+    <string name="native_83c76743b29d" formatted="false">Враќање на прекинатата операција на околината</string>
+    <string name="native_739a730ae247" formatted="false">Одржување на животната средина</string>
+    <string name="native_049281329843" formatted="false">Почекајте одржувањето на ажурирањето или да заврши тековната задача.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Почекајте да заврши тековната задача за развојна околина</string>
+    <string name="native_83099168971c" formatted="false">Инсталирање на работната површина</string>
+    <string name="native_85e0c18dde8d" formatted="false">Стартување на работната површина</string>
+    <string name="native_9a48f8196d8f" formatted="false">Потребно е внимание</string>
+    <string name="native_75470fb13121" formatted="false">запре</string>
+    <string name="native_51a53c8109d5" formatted="false">Не може да го прочита или зачува записот за активност. Поправете го од Runtime или ослободи малку простор.</string>
+    <string name="native_d36a018cc619" formatted="false">Прво инсталирајте ја развојната околина на Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Прво поврзете се на мрежа\nИнсталирањето на работната површина</string>
+    <string name="native_a065d81014b1" formatted="false">е нецелосно. Обидете се повторно да ја инсталирате.\nИнсталирана е работната површина</string>
+    <string name="native_721c38b32c35" formatted="false">. Започнете го кога е потребно.</string>
+    <string name="native_6c1c52771115" formatted="false">Прво инсталирајте ги компонентите на работната површина</string>
+    <string name="native_693d90a47827" formatted="false">Операцијата на работната површина не успеа. Деталите се премногу долги или недостапни.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Не може да се заврши зачувувањето на маркерот за стоп. Процесот на чистење продолжи.</string>
+    <string name="native_06083621a6ce" formatted="false">Не може да се заврши зачувувањето на записот за активност. Следното лансирање ќе го третира ова како прекин.</string>
+    <string name="native_04d721a3819a" formatted="false">Десктоп работи</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Работата на работната површина истече. Прегледајте го дневникот и обидете се повторно.\nПроцесот на работната површина</string>
+    <string name="native_e70d328a3ca9">излезе (%1$s). Прегледајте го дневникот на активности.</string>
+    <string name="native_df5c878f2852" formatted="false">Локален графички работен простор</string>
+    <string name="native_7b0455a8daa4" formatted="false">Запрете ја работната површина</string>
+    <string name="native_a62123cde9c7" formatted="false">Прекинати задачи и обновување</string>
+    <string name="native_279308947a14" formatted="false">Не можам да го прочитам записот за активност. Repair чува копија од оштетениот запис и ги зачувува проектите, сесиите и околината на Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Запис за активности за поправка</string>
+    <string name="native_6b43650c2c82" formatted="false">Задачата заврши неочекувано.</string>
+    <string name="native_acb0c970aaa6">%1$s терминали не беа затворени нормално. Нивните команди за извршување беа прекинати.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Потврдено е рестартирање. Претходните команди не беа репродуцирани.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Зачуваните проекти и сесии се задржуваат. Повторно отворете ги терминалите рачно; недовршените команди нема да се обноват автоматски.</string>
+    <string name="native_fa9669296762" formatted="false">Рестартирајте го OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Десктопот нема да се рестартира автоматски. Стартувајте го повторно од страната на работната површина.</string>
+    <string name="native_644f8f44251f" formatted="false">Отворете ја датотеката</string>
+    <string name="native_9dfb5569d609" formatted="false">Споделете датотека</string>
+    <string name="native_a4500cff3a86" formatted="false">Работниот директориум не смее да биде симболична врска</string>
+    <string name="native_8657d27661bd" formatted="false">Неважечка патека за работен директориум</string>
+    <string name="native_02b702a9adff" formatted="false">Изберете датотека</string>
+    <string name="native_924874b746cc" formatted="false">Управувајте со симболични врски во терминалот</string>
+    <string name="native_efea6e422a54" formatted="false">Неважечко име на датотека\nДиректориумот</string>
+    <string name="native_c4989dc37aab" formatted="false">не постои</string>
+    <string name="native_d613dba39b44" formatted="false">Директориум за дестинации не постои</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Не може да постави папка во себе или во нејзините потомци</string>
+    <string name="native_c3acd5a3254c" formatted="false">Проектот содржи специјални уреди или приклучоци и не може да се копира</string>
+    <string name="native_6c36955b068b" formatted="false">Изберете обична датотека</string>
+    <string name="native_49191d7d489f" formatted="false">Оваа датотека надминува 2 MB. Уредете го со OpenCode или терминалот.</string>
+    <string name="native_ee42414d36c2" formatted="false">Датотеката е преголема</string>
+    <string name="native_f0a979f87157" formatted="false">Извезете бинарни датотеки за да ги отворите во друга апликација</string>
+    <string name="native_88a9c82651fc" formatted="false">Уредете датотеки што не се UTF-8 со OpenCode или терминал</string>
+    <string name="native_0189a5c3418c" formatted="false">Друга алатка ја смени оваа датотека. Отворете го повторно пред уредување.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Оригиналниот директориум повеќе не постои. Вратете го прво.</string>
+    <string name="native_46eae321049e" formatted="false">Не е достапна апликација за споделување</string>
+    <string name="native_87d699d3a26c" formatted="false">Ѓубре</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Проектни датотеки</string>
+    <string name="native_4dcf914f0b64" formatted="false">Избришаните датотеки може да се вратат во нивните оригинални директориуми</string>
+    <string name="native_c5b81b02354f" formatted="false">Назад</string>
+    <string name="native_e56b99379169">Копирани %1$s датотеки · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Копира…</string>
+    <string name="native_85199bb36b04" formatted="false">Откажи операција</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Затвори</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Нова сесија</string>
+    <string name="native_23c250cc8e0b" formatted="false">Започнете сесија со OpenCode овде</string>
+    <string name="native_f22da21fd54f" formatted="false">терминал</string>
+    <string name="native_3645f30b3412" formatted="false">Незачувани промени</string>
+    <string name="native_2266227605c4" formatted="false">Зачувај</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Корпата е празна</string>
+    <string name="native_a9e739b13e52" formatted="false">Врати</string>
+    <string name="native_45985dc2183e" formatted="false">Премести:</string>
+    <string name="native_31214130b5b7" formatted="false">Копија:</string>
+    <string name="native_07e5c3158f35" formatted="false">Паста</string>
+    <string name="native_831b4e0fb574" formatted="false">Ново</string>
+    <string name="native_ff65a22d7087" formatted="false">Нова папка</string>
+    <string name="native_71faed44a86c" formatted="false">Нова датотека</string>
+    <string name="native_8dddd460f6ae" formatted="false">Увоз</string>
+    <string name="native_d85825123e60" formatted="false">Освежи</string>
+    <string name="native_ac9d73843736" formatted="false">Пребарајте го овој директориум</string>
+    <string name="native_21eef82963ee" formatted="false">Овој директориум е празен. Увезете датотеки или креирајте проект.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Нема датотеки што се совпаѓаат</string>
+    <string name="native_d674bc0f86b8" formatted="false">Дејства на датотеката</string>
+    <string name="native_d04a47c87cc8" formatted="false">Симболична врска</string>
+    <string name="native_e0ba66f5246a" formatted="false">папка</string>
+    <string name="native_f170b42599e8" formatted="false">Преименувај</string>
+    <string name="native_4cdacf57ead2" formatted="false">Копија</string>
+    <string name="native_124aa030694e" formatted="false">Премести во…</string>
+    <string name="native_ac990518ed87" formatted="false">Отворете го терминалот овде</string>
+    <string name="native_87bc93932d8a" formatted="false">Извезете во системски датотеки</string>
+    <string name="native_dd37f132172f" formatted="false">Премести во ѓубре</string>
+    <string name="native_7318746d337c" formatted="false">Премести во корпа?</string>
+    <string name="native_2b5ee3f10a56">Можете да го вратите „%1$s“ од корпата за отпадоци.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Премести</string>
+    <string name="native_4e47aaa113fc" formatted="false">Да се отфрлат незачуваните промени?</string>
+    <string name="native_63b75399ef1a" formatted="false">Отфрли ги промените</string>
+    <string name="native_d9618f7b8d25" formatted="false">Продолжи со уредување</string>
+    <string name="native_76ce6aef5479" formatted="false">Име</string>
+    <string name="native_35b0fc30b909" formatted="false">Во ред</string>
+    <string name="native_11b319774788" formatted="false">Околината е обновена. Повторно отворете го работниот простор.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Прво завршете со враќање на прекинатата операција во Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Одржувањето на животната средина е во тек. Обидете се повторно подоцна.</string>
+    <string name="native_3bd28258feb0" formatted="false">Операцијата е откажана</string>
+    <string name="native_c508721eb3cd" formatted="false">Датотека со ова име веќе постои. Изберете друго име.</string>
+    <string name="native_1e8274fe468a" formatted="false">Датотеката повеќе не постои. Освежете го директориумот.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Дозволата за пристап до датотеката е одбиена</string>
+    <string name="native_cd808e4c321e" formatted="false">Не може да се заврши операцијата</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Операцијата не е завршена. Проверете го достапното складирање или повторно изберете ги датотеките.</string>
+    <string name="native_3f9983126fd7" formatted="false">Проверете го статусот на стартување со OpenCode во Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Не може да се отвори нов терминал. Проверете го бројот на сесии.</string>
+    <string name="native_2160fde3813a" formatted="false">Управувајте со симболични врски во терминалот. Управувачот со датотеки не ги следи врските.</string>
+    <string name="native_7a844e9d4017" formatted="false">Преместувањето е завршено</string>
+    <string name="native_573877894fcf" formatted="false">Копирањето е завршено</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Преместен во корпа</string>
+    <string name="native_862330af933f" formatted="false">Обновен во оригиналниот директориум</string>
+    <string name="native_beda23c9d52b" formatted="false">Се случи одржување или замена на животната средина. Повторно отворете го работниот простор пред уредување.</string>
+    <string name="native_678c6953bb2b" formatted="false">Зачувано</string>
+    <string name="native_8063159f2178" formatted="false">Не можам да ја прочитам избраната датотека</string>
+    <string name="native_4cdc2180d2ac">Увезени %1$s датотеки</string>
+    <string name="native_e98763643b93" formatted="false">Не можам да пишувам на избраната локација</string>
+    <string name="native_5afd173be7fa" formatted="false">Извозот е завршен</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Код и сесии</string>
+    <string name="native_8745ed51cadd" formatted="false">Десктоп</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Графички работен простор</string>
+    <string name="native_770d49c5f689" formatted="false">Датотеки</string>
+    <string name="native_6a9b6480b58f" formatted="false">Траење</string>
+    <string name="native_b561fe9204cc" formatted="false">Услуги и алатки за програмери</string>
+    <string name="native_70850bdeeabd" formatted="false">Затвори го менито на страницата</string>
+    <string name="native_b4549acb48e8" formatted="false">Работен простор</string>
+    <string name="native_3d3551f4660f">Непроѕирност на лебдечко копче %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Пониските вредности го прават лебдечкото копче потранспарентно</string>
+    <string name="native_e031beabfc9a" formatted="false">Отворете го менито на страницата</string>
+    <string name="native_106ee775b538" formatted="false">Се поврзува со локалниот OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">На локалната врска му треба обновување</string>
+    <string name="native_dacb8837471c" formatted="false">Поврзете се повторно</string>
+    <string name="native_17584aa60ae6" formatted="false">Не може да се подготви кешот на локалниот ресурс</string>
+    <string name="native_3b3b80064ccb" formatted="false">Се подготвува локален OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Обидете се повторно</string>
+    <string name="native_b07809340403" formatted="false">Локацијата на работниот простор сè уште не е зачувана. Обидете се повторно подоцна.</string>
+    <string name="native_e4ab10392d05" formatted="false">Локалната услуга се подготвува. Вашиот работен простор автоматски ќе се отвори откако ќе се поврзете.</string>
+    <string name="native_20ea15973287" formatted="false">Претходното извршување беше прекинато. Рестартирајте од Runtime; терминалните команди нема да се репродуцираат автоматски.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Стартувајте го OpenCode од Runtime за да отворите код и сесии.</string>
+    <string name="native_abbac5c22111" formatted="false">Да излезете од апликацијата?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Развојната околина може да продолжи да работи во заднина. Вратете се подоцна од известувањето.</string>
+    <string name="native_814a8fb24b62" formatted="false">Излезете од тековниот работен простор?</string>
+    <string name="native_a76464945c2d" formatted="false">Запрете ја и развојната околина</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Излезете</string>
+    <string name="native_b00143b08ff1" formatted="false">Развојната работна станица е подготвена</string>
+    <string name="native_51bca456a350" formatted="false">Вашата работна станица за развој на Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">Трчање</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Стартување</string>
+    <string name="native_44da7f6a451d" formatted="false">Запирање</string>
+    <string name="native_b7e1503a7239" formatted="false">Развојна околина за поправка</string>
+    <string name="native_7c91bd67ff14" formatted="false">Инсталирајте развојна околина</string>
+    <string name="native_cfd73bb04860" formatted="false">Стоп опкружување</string>
+    <string name="native_e7ec95694dce" formatted="false">Стартувајте го OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Проверете ја околината</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Ажурирајте ги алатките за програмери на Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Претходната резервна копија на околината, проектите и податоците за сесиите се задржуваат.</string>
+    <string name="native_eb3114155716" formatted="false">Инсталирајте / ажурирајте сервери за јазици</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) и Python (pylsp), инсталирани онлајн од потпишани складишта на Debian. Прво стопирајте го OpenCode и работната површина.</string>
+    <string name="native_2c7251cce661" formatted="false">Допрете го лебдечкото копче за менување страници. Повлечете го за да го репозиционирате.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Информациите за траење се појавуваат овде по стартувањето.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Отворено траење</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Пакет верзија APK</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Увезете .ocaupdate потпишан од издавачот на оваа апликација. Официјалното ажурирање на предниот дел и задниот дел заедно.</string>
+    <string name="native_8aad48b0508d" formatted="false">Извор на ажурирање (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Проверете го изворот на ажурирање</string>
+    <string name="native_f73973cfadbb">Потпишано издание: %1$s\nОбврска: %2$s · %3$s МиБ</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Преземете и потврдете</string>
+    <string name="native_f2ef7965bf12" formatted="false">Изберете пакет за ажурирање</string>
+    <string name="native_165111adfe2c">Подготвен за инсталирање: %1$s\nОбврска: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Инсталирајте го ова ажурирање</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Вратете ја верзијата и сесиите од пред ажурирањето</string>
+    <string name="native_6864335de653" formatted="false">Откажете го ажурирањето</string>
+    <string name="native_5e3472cf084e" formatted="false">Да се инсталира ажурирање на OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Да се ​​врати состојбата од пред ажурирањето?</string>
+    <string name="native_11beb4a42abc">Инсталирајте %1$s. Апликацијата зачувува слика од сесијата, ја проверува потпишаната програма и ја враќа претходната верзија ако не успее. Проектните датотеки се задржуваат.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">сесиите се враќаат во нивната состојба пред ова ажурирање. Поновите сесии остануваат во приватна резервна копија. Проектните датотеки се задржуваат.</string>
+    <string name="native_def5e273616d" formatted="false">Потврдете ја инсталацијата</string>
+    <string name="native_369d2eefccde" formatted="false">Не може да се изолираат податоците за преглед на прелистувачот. Повторно отворете го прегледот.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Не може да се вчита страницата на проектот. Проверете го серверот за развој во вашиот терминал.</string>
+    <string name="native_6e7408950cf5" formatted="false">Преглед на веб-страница на проектот</string>
+    <string name="native_bfb4951e071d" formatted="false">Преглед на проектот</string>
+    <string name="native_f80652913d06" formatted="false">Стартувајте развојен сервер во терминалот, а потоа внесете ја неговата локална порта. Податоците за преглед на прелистувачот се изолирани од OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Порт</string>
+    <string name="native_77c3a828a5c5" formatted="false">Внесете развојна порта од 1024 до 65535, со исклучок на OpenCode и десктоп услугите.</string>
+    <string name="native_7311a9dfea51" formatted="false">Ништо не се слуша на оваа порта. Проверете ја услугата во вашиот терминал.</string>
+    <string name="native_4f8d84105475" formatted="false">Се проверува…</string>
+    <string name="native_4923c272b68e" formatted="false">Развојната порта мора да биде цел број</string>
+    <string name="native_04a87026e81f" formatted="false">Изберете валидна порта за развој на проект\nСесија за развој на</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Инсталација на развојна околина</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Ажурирање на Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Поправка на развојна околина</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Проверка на околината за развој</string>
+    <string name="native_9612d4419bb6" formatted="false">Инсталација на јазичен сервер</string>
+    <string name="native_f72fba77f87a" formatted="false">Обнова на животната средина</string>
+    <string name="native_7c8162195c7c" formatted="false">Десктоп инсталација</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Претходното извршување беше прекинато. Рестартирајте експлицитно од Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Развојна задача од овој тип сè уште работи</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Поправка на записот за активности</string>
+    <string name="native_b66749ed72ea" formatted="false">Процесот излезе</string>
+    <string name="native_6b25042064e2" formatted="false">Исклучено со сигнал</string>
+    <string name="native_d6febdf1752b" formatted="false">вратен поради слабата меморија\nПад на апликацијата</string>
+    <string name="native_1d13790f3c89" formatted="false">Пад на апликацијата</string>
+    <string name="native_28db94d1850d" formatted="false">Несреќа на мајчин процес</string>
+    <string name="native_86919539f7f1" formatted="false">апликацијата не реагира</string>
+    <string name="native_90fb8d6098a5" formatted="false">Иницијализацијата не успеа</string>
+    <string name="native_38c60ab6654c" formatted="false">Дозволите се променети</string>
+    <string name="native_6d2a6c71334d" formatted="false">Ограничување на ресурсите</string>
+    <string name="native_19b2090b01a8" formatted="false">Корисникот побара стоп</string>
+    <string name="native_120d96445f1a" formatted="false">Запрен од корисникот</string>
+    <string name="native_3c8af14f66bc" formatted="false">Зависен процес излезе</string>
+    <string name="native_ca0941ce04ae" formatted="false">Друга системска причина</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Процес на замрзнување</string>
+    <string name="native_0d48373023a8" formatted="false">Состојбата на апликацијата е променета\nАжурирање на апликацијата</string>
+    <string name="native_c752307db26b" formatted="false">Ажурирање на апликацијата</string>
+    <string name="native_b5015951cbdf" formatted="false">Системот не даде причина за излез</string>
+    <string name="native_b62737b826ad">Излез од системот (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Не може да се отвори директориумот на проектот</string>
+    <string name="native_faf5d983c13e" formatted="false">Не може да се создаде сесија за OpenCode\nДиректориумот за сесија</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode не се совпаѓа</string>
+    <string name="native_ac19736908a2" formatted="false">Не можев да ја прочитам сесијата OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Одржување на животната средина</string>
+    <string name="native_f992d735d932" formatted="false">Запрете го OpenCode, терминалите и работната површина на Debian, а потоа почекајте да завршат операциите со датотеките</string>
+    <string name="native_489f137f1080" formatted="false">Заклучувањето за одржување на околината повеќе не важи</string>
+    <string name="native_42380e2567fc" formatted="false">Прекинатата операција е обновена. Повторно отворете го работниот простор.</string>
+    <string name="native_17b00cac2b91" formatted="false">Обновувањето на локалната врска не успеа. Обидете се повторно од Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Одржувањето на животната средина е во тек. Обидете се повторно подоцна.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Запрете ја работната површина на Debian пред да ја ажурирате околината за развој</string>
+    <string name="native_548085b144c9" formatted="false">Прекинатата операција е обновена. Можете да ја започнете развојната средина.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Претходното извршување беше прекинато. Терминалните команди нема да се репродуцираат автоматски. Рестартирајте експлицитно од Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Чистењето на привремената конфигурација на поврзувањето е нецелосно. Процесот на чистење продолжи.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Не можев да го креирам работниот простор на helloworld. Проверете го директориумот и достапниот простор.</string>
+    <string name="native_68301868225a" formatted="false">Претходниот директориум за работниот простор е недостапен. Отворен helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Стандардниот проект сè уште не е готов. Обидете се повторно од Датотеки.</string>
+    <string name="native_45d6ab452622" formatted="false">Инсталирајте јазични сервери\nСерверите на јазикот</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ и Python се подготвени. Стартувајте го OpenCode за да користите LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Записот за активност на терминалот не беше зачуван. Креирајте нов терминал по завршувањето на процесот.</string>
+    <string name="native_1978b311a9ff" formatted="false">Не може да се заврши зачувувањето на записот за излез од терминалот.\nПреземање ажурирање на</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Се поврзува со изворот за ажурирање…</string>
+    <string name="native_8c39baf28e08" formatted="false">Не може да се поврзе со изворот за ажурирање. Проверете ја мрежата, потписот на издавачот, верзијата на домаќинот и слободниот простор.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Времето за преземање истече</string>
+    <string name="native_f75850093535">Се презема: %1$s / %2$s МиБ</string>
+    <string name="native_30a778f1389a" formatted="false">Се потврдува потписот на издавачот…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Се презема пакет за ажурирање…</string>
+    <string name="native_2f9cd52dc66a">Валиден потпис на издавачот: %1$s. Прегледајте пред преземањето.</string>
+    <string name="native_17548865632c" formatted="false">Преземете, објави метаподатоци и потпис на пакетот потврдени. Потврдете ја инсталацијата.</string>
+    <string name="native_180cec958e7a" formatted="false">Преземањето е откажано. Оригиналната верзија е задржана.</string>
+    <string name="native_8df045f8ac12" formatted="false">Преземањето престана. Оригиналната верзија е задржана.</string>
+    <string name="native_778803f1c6bb" formatted="false">Откажи преземање</string>
+    <string name="native_2958898ce6f4" formatted="false">Новата верзија не успеа локалното стартување, проверка на верзијата или автентикацијата. Претходната верзија ќе биде вратена.</string>
+    <string name="native_cc876dfbb261" formatted="false">Пробниот процес сè уште завршува. Почекајте за обновување пред да се обидете повторно.</string>
+    <string name="native_adf977dcb47e" formatted="false">Неважечки идентификатор на запис за ажурирање</string>
+    <string name="native_5207cac670b7" formatted="false">Инсталираната самостојна големина на OpenCode не се совпаѓа</string>
+    <string name="native_cf5b81887589" formatted="false">Инсталираната самостојна проверка на OpenCode не се совпаѓа. Вратете ја претходната верзија.</string>
+    <string name="native_393049b506cc" formatted="false">Оригиналната програма нема соодветен доказ за издавач. Претходната состојба е непроменета.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Прво вратете го претходното прекинато ажурирање</string>
+    <string name="native_91d8da5525fa" formatted="false">Пакетот за ажурирање се смени по потврдата</string>
+    <string name="native_093f2c091a30" formatted="false">Недоволно складирање. Оригиналната верзија е непроменета.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Не е достапна резервна копија за ажурирање за обновување</string>
+    <string name="native_a9f4d9903c14" formatted="false">Резервната копија не се совпаѓа со верзијата што работи</string>
+    <string name="native_6caa23763a42" formatted="false">Проверката на претходната програма не успеа. Тековните сесии се непроменети.</string>
+    <string name="native_c8b71b876695" formatted="false">Подоцнежно ажурирање на APK или Debian ја замени комплетната програма. Оригиналната резервна копија од сесијата се задржува; прво вратете ја соодветната програма.</string>
+    <string name="native_c443df40964b" formatted="false">Неважечка операција за враќање на ажурирањата</string>
+    <string name="native_9071f05d58b3" formatted="false">Се подготвува ажурирање за OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Запрете го OpenCode, терминалите и работната површина, а потоа почекајте да излезат.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Зачувување на состојбата, проверка на програми и префрлување верзии</string>
+    <string name="native_5fc065ef6f50" formatted="false">Не може да ја стартува услугата за одржување на ажурирањата.</string>
+    <string name="native_f7b560c8c820" formatted="false">Се потврдува и се поставува официјалната програма…</string>
+    <string name="native_9606191c82dc" formatted="false">Зачувување на оригиналната програма и потпис на издавачот…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Се зачувува снимка од состојбата на сесијата…</string>
+    <string name="native_0c8cf4632889" formatted="false">Префрлување верзии и потврдување на локалната услуга…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Враќање на верзијата и сесиите од пред ажурирањето…</string>
+    <string name="native_856de41d3bf3" formatted="false">Враќање на OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Ажурирање на OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Ги врати претходната верзија и сесиите. Поновите сесии остануваат во приватна резервна копија.\nЗаврши ажурирањето на</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode. Стартувањето ќе го користи соодветниот официјален преден и заден дел.</string>
+    <string name="native_4693930f5802" formatted="false">Ажурирањето е откажано. Потврда дека е вратена првобитната состојба.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Ажурирањето не е целосно. Се опоравува сега; оригиналните резервни копии на програмата и сесиите се задржуваат.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Обновата е нецелосна. Сите државни именици се задржани. Чувајте ги вашите податоци и обидете се повторно да го стартувате за да го вратите.\nЗавршено е обновувањето на сесијата</string>
+    <string name="native_49ad3eeae83d" formatted="false">. Поновата состојба останува во резервна копија.</string>
+    <string name="native_67c08a2911e1" formatted="false">Обновата не може да продолжи со оваа резервна копија или оригинална програма. Тековните сесии и резервните копии се непроменети.</string>
+    <string name="native_976d8c169cfa" formatted="false">Ажурирањето е откажано или не успеа. Оригиналната верзија и сесиите се обновени.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Се потврдува потписот и интегритетот на пакетот за ажурирање…</string>
+    <string name="native_0aa018b7337b" formatted="false">Не можам да ја прочитам избраната датотека</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Пакетот за ажурирање е преголем</string>
+    <string name="native_f068b83f40bf" formatted="false">Потписот и пакетот се потврдени. Прегледајте ја верзијата пред да ја инсталирате.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Не може да увезе: неважечка датотека, несовпаѓање на потписот, некомпатибилна верзија на домаќинот или недоволно складирање.</string>
+    <string name="native_616412e65df4" formatted="false">Официјалната програма не се совпаѓа со доказот за издавач</string>
+    <string name="native_4bf19a158f27" formatted="false">Самостојните пакети за траење поддржуваат само ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Потписот за ажурирање не припаѓа на овој APK</string>
+    <string name="native_c7273354727f" formatted="false">Датотеката за ажурирање ја надминува декларираната големина</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Проверката на програмата за ажурирање не се совпаѓа</string>
+    <string name="native_dd619076d456" formatted="false">Неважечка големина на пакетот за ажурирање</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Големината на компресираниот пакет за ажурирање не се совпаѓа</string>
+    <string name="native_1de24edffcf5" formatted="false">Пакетот за ажурирање содржи дополнителни записи</string>
+    <string name="native_c5b339aa77e8" formatted="false">Некомпатибилно потекло или архитектура на ажурирањето</string>
+    <string name="native_89d585f3661f" formatted="false">Надградете ја апликацијата Android пред да го инсталирате ова ажурирање</string>
+    <string name="native_800df084dea0" formatted="false">Проверката на архивата за ажурирање не се совпаѓа</string>
+    <string name="native_ddf1a005e310" formatted="false">Овој формат за потпишување APK не поддржува самостојни ажурирања за траење</string>
+    <string name="native_172e063db474" formatted="false">Неважечки пакет за ажурирање</string>
+    <string name="native_1c08780aa99f" formatted="false">Метаподатоците за ажурирање мора да користат цели броеви</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Програмата за ажурирање не е 64-битна Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Програмата за ажурирање не одговара на 16 KiB ELF усогласување</string>
+    <string name="native_3afa3741911b" formatted="false">На програмата за ажурирање недостига вчитувачот на Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Внесете важечки извор за ажурирање на HTTPS</string>
+    <string name="native_c274c7dd5900" formatted="false">Изворите за ажурирање бараат HTTPS URL-адреси без кориснички акредитиви</string>
+    <string name="native_f459f5ec9dac" formatted="false">Неважечко поле за извор на ажурирање</string>
+    <string name="native_bde2a736e30a" formatted="false">Прво надградете го домаќинот на Android</string>
+    <string name="native_b980fd021bef" formatted="false">Неважечки директориум за ажурирање</string>
+    <string name="native_c0e96727553e" formatted="false">Неважечка датотека за ажурирање</string>
+    <string name="native_86ff542c68ed" formatted="false">Не може да се префрлат директориумите за ажурирање во оваа состојба</string>
+    <string name="native_fbf82dc7ef22" formatted="false">се однесува на надворешен директориум. Ажурирањето не може безбедно да се тестира.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Недоволно складирање. Оригиналната состојба е непроменета.</string>
+    <string name="native_099801d672b1" formatted="false">Преземањето е откажано</string>
+    <string name="native_f1304f707ec9" formatted="false">Премногу пренасочувања на ажурирања</string>
+    <string name="native_0d07f458b607" formatted="false">Серверот за ажурирање не ги префрли оригиналните бајти</string>
+    <string name="native_de331dfd8908" formatted="false">Должината на датотеката за ажурирање не се совпаѓа</string>
+    <string name="native_416b8c87e69e" formatted="false">Датотеката за ажурирање не беше целосно преземена</string>
+    <string name="native_e1e74b76c427" formatted="false">Серверот за ажурирање не ја врати целосната датотека</string>
+    <string name="native_6afcf03cb130" formatted="false">Недоволен простор за поставување на ажурирања</string>
+    <string name="native_be1c695d9241" formatted="false">Датотеката за ажурирање SHA-256 не се совпаѓа</string>
+    <string name="native_a0133d117bb0" formatted="false">Пакетот за ажурирање не се совпаѓа со информациите за потврдено издание</string>
+    <string name="native_8635a43ce28a" formatted="false">Неважечки проектен директориум</string>
+    <string name="native_d32ab8b004e6" formatted="false">Не може да се зачува локацијата на работниот простор</string>
+    <string name="native_43a5447014fd" formatted="false">Стартувајте ја развојната околина од Runtime пред да отворите терминал.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Нов терминал</string>
+    <string name="native_b3b7108a568f" formatted="false">Затворете ја струјата</string>
+    <string name="native_0e822affd5da">Почетен директориум: %1$s</string>
+    <string name="native_72d769e3888d">Нов терминален директориум: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Избирачот на системски датотеки е недостапен\nПоставки за рендерирање на</string>
+    <string name="native_179a57921f91" formatted="false">WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Стапка на слики на рендерирање</string>
+    <string name="native_55b6d7f645f3" formatted="false">претпочитаат 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Следете ја стапката на освежување на екранот</string>
+    <string name="native_d4ecf38c341d" formatted="false">Претпочитајте 60 Hz за да го намалите оптоварувањето на рендерирање на екраните со висока стапка на освежување. Следењето на екранот му дозволува на системот да закаже рамки. Се применува само на прозорецот на оваа апликација.</string>
+    <string name="native_bf0d3a407418" formatted="false">Не е инсталиран</string>
+    <string name="native_2fb8edc75b25" formatted="false">Подготвен</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Потврдување на натоварувач</string>
+    <string name="native_d1017c1eac80" formatted="false">Инсталирање на Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Локална развојна околина</string>
+    <string name="native_55aa84065de2" formatted="false">Локална сесија за развој на Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">Стоп\nИнсталиран е</string>
+    <string name="native_5f73a4e1e494" formatted="false">Инсталиран</string>
+    <string name="native_147e90d2ec02" formatted="false">Се опоравува</string>
+</resources>

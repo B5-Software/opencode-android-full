@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Development workspace</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Single page</string>
+    <string name="native_651ae6ea52ae" formatted="false">Restore split view</string>
+    <string name="native_d7e97cfac66f" formatted="false">Workspace layout</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Widen the window to view multiple panels together.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Show project files</string>
+    <string name="native_712d956931d1" formatted="false">Show terminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal below</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal on the right</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Panels collapse when space is limited and remain accessible from the floating menu. The side terminal appears in wider windows. Drag dividers to resize panels.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Left Alt: 1–5 Pages · B Files · T Terminal · M Desktop · Enter Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Done</string>
+    <string name="native_bcec2218fc21" formatted="false">Reset proportions</string>
+    <string name="native_da88c62d1217">Show %1$s in a single page</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Project files divider</string>
+    <string name="native_707c0891a0e6" formatted="false">Terminal divider</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode and desktop divider</string>
+    <string name="native_50407ad8dfa8" formatted="false">Shrink previous panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Enlarge previous panel</string>
+    <string name="native_3f3685e8d731" formatted="false">Too many PRoot links for this archive format</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux hard links require a complete rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Backup directory nesting is too deep</string>
+    <string name="native_b6f744737a45" formatted="false">Invalid backup password length</string>
+    <string name="native_13bde5dd1812" formatted="false">The backup password must contain at least 12 characters</string>
+    <string name="native_be02cbd55932" formatted="false">Unsupported backup format</string>
+    <string name="native_7a91a3d586ae" formatted="false">Invalid backup header</string>
+    <string name="native_2bbd318a5667" formatted="false">Unsupported backup encryption parameters</string>
+    <string name="native_18868da27841" formatted="false">Incorrect backup password or damaged file</string>
+    <string name="native_e41d6440468d" formatted="false">Recovery record is too large</string>
+    <string name="native_282692502f14" formatted="false">Backup metadata is too large</string>
+    <string name="native_61fdca8d6c82" formatted="false">Backup metadata nesting is too deep</string>
+    <string name="native_8cefb30732d4" formatted="false">Invalid backup metadata</string>
+    <string name="native_5d3037708cad" formatted="false">Unsupported native settings</string>
+    <string name="native_81a57c382f9d" formatted="false">Could not save native settings</string>
+    <string name="native_50603e683d4a" formatted="false">Invalid parent directory in backup path</string>
+    <string name="native_c3f838a46b8e" formatted="false">The workstation root must not be a symbolic link</string>
+    <string name="native_9ddd2d8280c8" formatted="false">A file changed during backup</string>
+    <string name="native_77e1e85147db" formatted="false">Unsupported workstation data format</string>
+    <string name="native_a927b5a565af" formatted="false">The backup contains additional data</string>
+    <string name="native_c2b886d508f2" formatted="false">The backup contains duplicate paths</string>
+    <string name="native_3dab8cd60102" formatted="false">The backup contains runtime settings that cannot be migrated</string>
+    <string name="native_f45ba674a630" formatted="false">The backup is too large or storage is insufficient</string>
+    <string name="native_140073e8e77b" formatted="false">Could not restore symbolic link timestamps</string>
+    <string name="native_b0d411aaf62c" formatted="false">Could not restore named pipe timestamps</string>
+    <string name="native_0daee8026db1" formatted="false">Workstation backup and restore</string>
+    <string name="native_1acc18928c5f" formatted="false">Includes Debian, developer tools, projects, home, OpenCode sessions and settings, Linux browser data, and native layout settings.</string>
+    <string name="native_62254d31a535" formatted="false">Temporary files and old backups are excluded. Android WebView storage and unsent drafts remain on this device and are not transferred with this backup.</string>
+    <string name="native_808eabc7811f" formatted="false">Create encrypted backup</string>
+    <string name="native_201c10b38296" formatted="false">Import backup</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Save your changes in the file editor first.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, terminals and desktop</string>
+    <string name="native_fdf2be8e3b93" formatted="false">An environment operation is incomplete. Recover it first.</string>
+    <string name="native_185f58156330" formatted="false">Recover incomplete operation</string>
+    <string name="native_20831b6f67a7" formatted="false">Undo the last environment restore</string>
+    <string name="native_4f392d5d6141">Encrypted local copy: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Save to file</string>
+    <string name="native_f09619351eb9" formatted="false">Delete local copy</string>
+    <string name="native_85c686eb9841">Processed %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Cancel backup task</string>
+    <string name="native_66c9d896407b" formatted="false">Encrypt workstation backup</string>
+    <string name="native_548cd9f0831e" formatted="false">Decrypt and verify backup</string>
+    <string name="native_d248f5eca9a5" formatted="false">Backups may contain SSH private keys, API keys and account data. Use at least 12 characters. A forgotten password cannot be recovered.</string>
+    <string name="native_f249422b9ec1" formatted="false">The backup is decrypted and verified in a private directory. Your environment is replaced only after you confirm restoration.</string>
+    <string name="native_e7be6841703a" formatted="false">Backup password</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Repeat password</string>
+    <string name="native_eafdc5cd4882" formatted="false">Start encryption</string>
+    <string name="native_2986b88beade" formatted="false">Decrypt and verify</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Cancel</string>
+    <string name="native_f46c5ed7412d" formatted="false">Restore the entire previous environment?</string>
+    <string name="native_33eda0946a5b" formatted="false">Delete the encrypted local copy?</string>
+    <string name="native_26db24150f2e" formatted="false">Projects, home, Debian and sessions will return to their state before the last restore. More recent work will remain in a private backup inside the app.</string>
+    <string name="native_1153b30d51d5" formatted="false">Only the encrypted local copy inside the app is deleted. Files saved elsewhere remain available.</string>
+    <string name="native_427a78a4e69a" formatted="false">Confirm</string>
+    <string name="native_7af46d7ee003" formatted="false">Restore this workstation backup?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s entries · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">The backup contains executable Linux software. Confirm that you trust its source. Restoration replaces the entire environment and checks local services; the previous environment is kept for recovery.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Backup verified. Waiting for restoration confirmation.</string>
+    <string name="native_97076078c749" formatted="false">Also enable Chromium compatibility mode (disables the Linux process sandbox)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Off by default. You can enable it later in desktop settings.</string>
+    <string name="native_ddf09383413c" formatted="false">Confirm restore</string>
+    <string name="native_8e6056b0f629" formatted="false">Cancel import</string>
+    <string name="native_63a895901c76" formatted="false">Workstation environment changed</string>
+    <string name="native_a4c994348a39" formatted="false">Reopen workspace</string>
+    <string name="native_774947f0653e" formatted="false">Cancel task</string>
+    <string name="native_e09a22b18445" formatted="false">The task was interrupted. Select an operation again and enter the password.</string>
+    <string name="native_38c5fcc634db" formatted="false">Save file edits in all windows first. Cancel an existing import before retrying.</string>
+    <string name="native_029bfa8ff772" formatted="false">Restoring the workstation and verifying programs</string>
+    <string name="native_e4f04df818f8" formatted="false">Processing your selected backup operation</string>
+    <string name="native_8206f072d5ee" formatted="false">Stop OpenCode, terminals and desktop, then wait for file operations to finish.</string>
+    <string name="native_1a5cde18c609" formatted="false">Could not start the backup task. Retry with the app in the foreground.</string>
+    <string name="native_1553b714941d" formatted="false">Decrypting and verifying the backup. The original environment remains recoverable…</string>
+    <string name="native_dafd005e953e" formatted="false">Backup verified. Confirm restoration in the app.</string>
+    <string name="native_9fb236184596" formatted="false">Deleted the encrypted local copy inside the app.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operation cancelled. Original environment data retained.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operation incomplete. Check the password, backup integrity, host version and free space. Original environment data retained.</string>
+    <string name="native_29deabd28960" formatted="false">Creating encrypted workstation backup…</string>
+    <string name="native_3d137e243806" formatted="false">Encrypted backup created. Choose where to save it.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Restoring the environment and checking local services. Keep the app data intact…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Workstation restored. The previous environment remains in a private backup. Reopen the workspace.</string>
+    <string name="native_0392cd6152d2" formatted="false">Restore checks failed. Returned to the previous environment; imported data remains in a private backup.</string>
+    <string name="native_5dc7410b600e" formatted="false">Restoration is incomplete. All data directories are retained. Keep the app data and retry recovery.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Restoring the previous workstation environment…</string>
+    <string name="native_15821323ff89" formatted="false">Previous environment restored. More recent work remains in a private backup. Reopen the workspace.</string>
+    <string name="native_56dd94f47870" formatted="false">Cannot undo this restore. Current environment and backups retained.</string>
+    <string name="native_93530f3fa029" formatted="false">Undo is incomplete. All data directories are retained. Keep the app data and retry recovery.</string>
+    <string name="native_f12963c80def" formatted="false">Saving encrypted backup…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Encrypted backup saved. You can save the local copy again or delete it manually.</string>
+    <string name="native_d660cccf65e0" formatted="false">Cleaning up an unconfirmed import…</string>
+    <string name="native_800592163979" formatted="false">Import cancelled. Original environment unchanged.</string>
+    <string name="native_5a90367eb834" formatted="false">Import cancelled. Original environment unchanged; some temporary import data remains in the app\'s private directory.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Preparing decryption and verification…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Preparing encrypted backup…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Could not start the backup service. Retry in the foreground.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Recover the incomplete environment operation first</string>
+    <string name="native_f14aea7c819c" formatted="false">Invalid recovery record</string>
+    <string name="native_7c284c55ee08" formatted="false">Missing recovery directory</string>
+    <string name="native_bfc4792df15b" formatted="false">Native settings exceed the recovery record limit</string>
+    <string name="native_8d93770ba8c9">Missing previous environment directory: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Unknown recovery stage</string>
+    <string name="native_20c5124fe175" formatted="false">Unknown recovery operation</string>
+    <string name="native_1c457322b624" formatted="false">No previous environment is available to restore</string>
+    <string name="native_30db1666c8e5" formatted="false">This backup belongs to a different app</string>
+    <string name="native_6687d1c64d75" formatted="false">Backup processor architecture does not match</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Update the Android host to the version used by this backup first</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">The backup directory is incomplete</string>
+    <string name="native_66106ab3e254" formatted="false">The old backup has no verifiable OpenCode publisher proof. Start the original environment with this host before backing it up again.</string>
+    <string name="native_bec13cc92982" formatted="false">Development environment system actions</string>
+    <string name="native_65de80229626" formatted="false">Debian requested a system action</string>
+    <string name="native_5e38581cf19c" formatted="false">Tap to review and handle the request</string>
+    <string name="native_749d406d2c67" formatted="false">From the Debian development environment</string>
+    <string name="native_4032d33b2afd" formatted="false">Open the system browser?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Open a local project preview?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Read the clipboard?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Copy to the system clipboard?</string>
+    <string name="native_77f761eb70aa" formatted="false">Send a local notification?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Share a project file?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Import system files?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Export a project file?</string>
+    <string name="native_7ac295421c6d" formatted="false">Open in browser</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Open preview</string>
+    <string name="native_14792d6cd7a6" formatted="false">Allow reading</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Copy to clipboard</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Send notification</string>
+    <string name="native_88152a09fa02" formatted="false">Choose a sharing app</string>
+    <string name="native_7a49a79c57f9" formatted="false">Choose files</string>
+    <string name="native_99d9f87419c5" formatted="false">Choose where to save</string>
+    <string name="native_23e5bb2090aa">%1$s\nOpens with browser data isolated from OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Give text from the system clipboard to the current Debian program.</string>
+    <string name="native_dcc6bec24e43">Choose files to import into %1$s. Existing files are kept and duplicates are renamed.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium browser mode</string>
+    <string name="native_4767f37900f6" formatted="false">Compatibility mode uses a separate browser profile and disables Chromium\'s Linux process sandbox. The browser can still access files inside this app. Avoid untrusted websites and use the Android system browser for important accounts. Reopen Chromium after changing modes.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standard Linux sandboxing is enabled by default. If Chromium cannot start, you can select compatibility mode. It disables the Linux process sandbox and uses a separate profile, while retaining access to app files. Avoid untrusted websites; use the Android system browser for important accounts.</string>
+    <string name="native_3a2596fa9517" formatted="false">Restore standard mode</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Enable compatibility mode</string>
+    <string name="native_9a45442649f5" formatted="false">Debian desktop</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Shared /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">The first installation downloads graphical components. After installation, the desktop can start and stop independently of OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC mirror</string>
+    <string name="native_41e865941e16" formatted="false">Official Debian mirror</string>
+    <string name="native_ea341b8a102b" formatted="false">Initial resolution</string>
+    <string name="native_ff1cde9ba35d" formatted="false">The desktop keeps running when you switch pages. Stop it from Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Stop desktop task</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Start desktop</string>
+    <string name="native_ea27a25e5114" formatted="false">Install desktop components</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: compatibility mode</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standard mode</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Install the Debian developer tools from Runtime first.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Activity log</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Could not open the project folder. Check that the directory exists.</string>
+    <string name="native_83c76743b29d" formatted="false">Recovering the interrupted environment operation</string>
+    <string name="native_739a730ae247" formatted="false">Environment maintenance</string>
+    <string name="native_049281329843" formatted="false">Wait for update maintenance or the current task to finish.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Wait for the current development environment task to finish</string>
+    <string name="native_83099168971c" formatted="false">Installing desktop</string>
+    <string name="native_85e0c18dde8d" formatted="false">Starting desktop</string>
+    <string name="native_9a48f8196d8f" formatted="false">Needs attention</string>
+    <string name="native_75470fb13121" formatted="false">Stopped</string>
+    <string name="native_51a53c8109d5" formatted="false">Cannot read or save the activity record. Repair it from Runtime or free some storage.</string>
+    <string name="native_d36a018cc619" formatted="false">Install the Debian development environment first</string>
+    <string name="native_80be4c2928a5" formatted="false">Connect to a network first</string>
+    <string name="native_a065d81014b1" formatted="false">Desktop installation is incomplete. Retry installation.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop installed. Start it when needed.</string>
+    <string name="native_6c1c52771115" formatted="false">Install desktop components first</string>
+    <string name="native_693d90a47827" formatted="false">Desktop operation failed. Details are too long or unavailable.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Could not finish saving the stop marker. Process cleanup continued.</string>
+    <string name="native_06083621a6ce" formatted="false">Could not finish saving the activity record. The next launch will treat this as an interruption.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop running</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Desktop operation timed out. Review the log and retry.</string>
+    <string name="native_e70d328a3ca9">Desktop process exited (%1$s). Review the activity log.</string>
+    <string name="native_df5c878f2852" formatted="false">Local graphical workspace</string>
+    <string name="native_7b0455a8daa4" formatted="false">Stop desktop</string>
+    <string name="native_a62123cde9c7" formatted="false">Interrupted tasks and recovery</string>
+    <string name="native_279308947a14" formatted="false">Cannot read the activity record. Repair keeps a copy of the damaged record and preserves projects, sessions and the Linux environment.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Repair activity record</string>
+    <string name="native_6b43650c2c82" formatted="false">The task ended unexpectedly.</string>
+    <string name="native_acb0c970aaa6">%1$s terminals were not closed normally. Their running commands were interrupted.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Restart confirmed. Previous commands were not replayed.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Saved projects and sessions are retained. Reopen terminals manually; unfinished commands will not resume automatically.</string>
+    <string name="native_fa9669296762" formatted="false">Restart OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">The desktop will not restart automatically. Start it again from the Desktop page.</string>
+    <string name="native_644f8f44251f" formatted="false">Open file</string>
+    <string name="native_9dfb5569d609" formatted="false">Share file</string>
+    <string name="native_a4500cff3a86" formatted="false">The working directory must not be a symbolic link</string>
+    <string name="native_8657d27661bd" formatted="false">Invalid working directory path</string>
+    <string name="native_02b702a9adff" formatted="false">Select a file</string>
+    <string name="native_924874b746cc" formatted="false">Manage symbolic links in the terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Invalid file name</string>
+    <string name="native_c4989dc37aab" formatted="false">Directory does not exist</string>
+    <string name="native_d613dba39b44" formatted="false">Destination directory does not exist</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Cannot place a folder inside itself or its descendants</string>
+    <string name="native_c3acd5a3254c" formatted="false">The project contains special devices or sockets and cannot be copied</string>
+    <string name="native_6c36955b068b" formatted="false">Select a regular file</string>
+    <string name="native_49191d7d489f" formatted="false">This file exceeds 2 MB. Edit it with OpenCode or the terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">File is too large</string>
+    <string name="native_f0a979f87157" formatted="false">Export binary files to open them in another app</string>
+    <string name="native_88a9c82651fc" formatted="false">Edit files that are not UTF-8 with OpenCode or the terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Another tool changed this file. Reopen it before editing.</string>
+    <string name="native_0ce79256f4ac" formatted="false">The original directory no longer exists. Restore it first.</string>
+    <string name="native_46eae321049e" formatted="false">No sharing app is available</string>
+    <string name="native_87d699d3a26c" formatted="false">Trash</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Project files</string>
+    <string name="native_4dcf914f0b64" formatted="false">Deleted files can be restored to their original directories</string>
+    <string name="native_c5b81b02354f" formatted="false">Back</string>
+    <string name="native_e56b99379169">Copied %1$s files · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Copying…</string>
+    <string name="native_85199bb36b04" formatted="false">Cancel operation</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Close</string>
+    <string name="native_4e1e5aacac7f" formatted="false">New session</string>
+    <string name="native_23c250cc8e0b" formatted="false">Start an OpenCode session here</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Unsaved changes</string>
+    <string name="native_2266227605c4" formatted="false">Save</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Trash is empty</string>
+    <string name="native_a9e739b13e52" formatted="false">Restore</string>
+    <string name="native_45985dc2183e" formatted="false">"Move: "</string>
+    <string name="native_31214130b5b7" formatted="false">"Copy: "</string>
+    <string name="native_07e5c3158f35" formatted="false">Paste</string>
+    <string name="native_831b4e0fb574" formatted="false">New</string>
+    <string name="native_ff65a22d7087" formatted="false">New folder</string>
+    <string name="native_71faed44a86c" formatted="false">New file</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Refresh</string>
+    <string name="native_ac9d73843736" formatted="false">Search this directory</string>
+    <string name="native_21eef82963ee" formatted="false">This directory is empty. Import files or create a project.</string>
+    <string name="native_e8a4cecaa371" formatted="false">No matching files</string>
+    <string name="native_d674bc0f86b8" formatted="false">File actions</string>
+    <string name="native_d04a47c87cc8" formatted="false">Symbolic link</string>
+    <string name="native_e0ba66f5246a" formatted="false">Folder</string>
+    <string name="native_f170b42599e8" formatted="false">Rename</string>
+    <string name="native_4cdacf57ead2" formatted="false">Copy</string>
+    <string name="native_124aa030694e" formatted="false">Move to…</string>
+    <string name="native_ac990518ed87" formatted="false">Open terminal here</string>
+    <string name="native_87bc93932d8a" formatted="false">Export to system files</string>
+    <string name="native_dd37f132172f" formatted="false">Move to trash</string>
+    <string name="native_7318746d337c" formatted="false">Move to trash?</string>
+    <string name="native_2b5ee3f10a56">You can restore “%1$s” from the trash.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Move</string>
+    <string name="native_4e47aaa113fc" formatted="false">Discard unsaved changes?</string>
+    <string name="native_63b75399ef1a" formatted="false">Discard changes</string>
+    <string name="native_d9618f7b8d25" formatted="false">Continue editing</string>
+    <string name="native_76ce6aef5479" formatted="false">Name</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Environment restored. Reopen the workspace.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Finish recovering the interrupted operation in Runtime first</string>
+    <string name="native_f29af06e7c99" formatted="false">Environment maintenance is in progress. Retry later.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operation cancelled</string>
+    <string name="native_c508721eb3cd" formatted="false">A file with this name already exists. Choose another name.</string>
+    <string name="native_1e8274fe468a" formatted="false">The file no longer exists. Refresh the directory.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">File access permission denied</string>
+    <string name="native_cd808e4c321e" formatted="false">Could not complete the operation</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operation incomplete. Check available storage or select the files again.</string>
+    <string name="native_3f9983126fd7" formatted="false">Check the OpenCode startup status in Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Could not open a new terminal. Check the number of sessions.</string>
+    <string name="native_2160fde3813a" formatted="false">Manage symbolic links in the terminal. The file manager does not follow links.</string>
+    <string name="native_7a844e9d4017" formatted="false">Move completed</string>
+    <string name="native_573877894fcf" formatted="false">Copy completed</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Moved to trash</string>
+    <string name="native_862330af933f" formatted="false">Restored to the original directory</string>
+    <string name="native_beda23c9d52b" formatted="false">Environment maintenance or replacement occurred. Reopen the workspace before editing.</string>
+    <string name="native_678c6953bb2b" formatted="false">Saved</string>
+    <string name="native_8063159f2178" formatted="false">Cannot read the selected file</string>
+    <string name="native_4cdc2180d2ac">Imported %1$s files</string>
+    <string name="native_e98763643b93" formatted="false">Cannot write to the selected location</string>
+    <string name="native_5afd173be7fa" formatted="false">Export completed</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Code and sessions</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Graphical workspace</string>
+    <string name="native_770d49c5f689" formatted="false">Files</string>
+    <string name="native_6a9b6480b58f" formatted="false">Runtime</string>
+    <string name="native_b561fe9204cc" formatted="false">Services and developer tools</string>
+    <string name="native_70850bdeeabd" formatted="false">Close page menu</string>
+    <string name="native_b4549acb48e8" formatted="false">Workspace</string>
+    <string name="native_3d3551f4660f">Floating button opacity %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Lower values make the floating button more transparent</string>
+    <string name="native_e031beabfc9a" formatted="false">Open page menu</string>
+    <string name="native_106ee775b538" formatted="false">Connecting to local OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Local connection needs recovery</string>
+    <string name="native_dacb8837471c" formatted="false">Reconnect</string>
+    <string name="native_17584aa60ae6" formatted="false">Could not prepare the local resource cache</string>
+    <string name="native_3b3b80064ccb" formatted="false">Preparing local OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Retry</string>
+    <string name="native_b07809340403" formatted="false">Workspace location has not been saved yet. Retry later.</string>
+    <string name="native_e4ab10392d05" formatted="false">The local service is getting ready. Your workspace will open automatically once connected.</string>
+    <string name="native_20ea15973287" formatted="false">The previous run was interrupted. Restart from Runtime; terminal commands will not be replayed automatically.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Start OpenCode from Runtime to open code and sessions.</string>
+    <string name="native_abbac5c22111" formatted="false">Exit the app?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">The development environment can keep running in the background. Return later from the notification.</string>
+    <string name="native_814a8fb24b62" formatted="false">Exit the current workspace?</string>
+    <string name="native_a76464945c2d" formatted="false">Also stop the development environment</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Exit</string>
+    <string name="native_b00143b08ff1" formatted="false">Development workstation ready</string>
+    <string name="native_51bca456a350" formatted="false">Your Debian development workstation</string>
+    <string name="native_0c2acd0b6057" formatted="false">Running</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Starting</string>
+    <string name="native_44da7f6a451d" formatted="false">Stopping</string>
+    <string name="native_b7e1503a7239" formatted="false">Repair development environment</string>
+    <string name="native_7c91bd67ff14" formatted="false">Install development environment</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop environment</string>
+    <string name="native_e7ec95694dce" formatted="false">Start OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Check environment</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Update Debian developer tools</string>
+    <string name="native_c114ec62712b" formatted="false">Previous environment backup, projects and session data are retained.</string>
+    <string name="native_eb3114155716" formatted="false">Install / update language servers</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) and Python (pylsp), installed online from signed Debian repositories. Stop OpenCode and the desktop first.</string>
+    <string name="native_2c7251cce661" formatted="false">Tap the floating button to switch pages. Drag it to reposition it.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime information appears here after startup.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Bundled APK version</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode updates</string>
+    <string name="native_36ab16248f65" formatted="false">Import an .ocaupdate signed by this app\'s publisher. The official frontend and backend update together.</string>
+    <string name="native_8aad48b0508d" formatted="false">Update source (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Check update source</string>
+    <string name="native_f73973cfadbb">Signed release: %1$s\nCommit: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Download and verify</string>
+    <string name="native_f2ef7965bf12" formatted="false">Select update package</string>
+    <string name="native_165111adfe2c">Ready to install: %1$s\nCommit: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Install this update</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Restore the version and sessions from before the update</string>
+    <string name="native_6864335de653" formatted="false">Cancel update</string>
+    <string name="native_5e3472cf084e" formatted="false">Install OpenCode update?</string>
+    <string name="native_816bf3635d53" formatted="false">Restore the state from before the update?</string>
+    <string name="native_11beb4a42abc">Install %1$s. The app saves a session snapshot, checks the signed program and restores the previous version if it fails. Project files are retained.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessions return to their state before this update. More recent sessions remain in a private backup. Project files are retained.</string>
+    <string name="native_def5e273616d" formatted="false">Confirm installation</string>
+    <string name="native_369d2eefccde" formatted="false">Could not isolate preview browser data. Reopen the preview.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Could not load the project page. Check the development server in your terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">Preview project website</string>
+    <string name="native_bfb4951e071d" formatted="false">Project preview</string>
+    <string name="native_f80652913d06" formatted="false">Start a development server in the terminal, then enter its local port. Preview browser data is isolated from OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Enter a development port from 1024 to 65535, excluding OpenCode and desktop services.</string>
+    <string name="native_7311a9dfea51" formatted="false">Nothing is listening on this port. Check the service in your terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">Checking…</string>
+    <string name="native_4923c272b68e" formatted="false">The development port must be an integer</string>
+    <string name="native_04a87026e81f" formatted="false">Choose a valid project development port</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode development session</string>
+    <string name="native_e87a4529ab82" formatted="false">Development environment installation</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian update</string>
+    <string name="native_0c6301bc295d" formatted="false">Development environment repair</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Development environment check</string>
+    <string name="native_9612d4419bb6" formatted="false">Language server installation</string>
+    <string name="native_f72fba77f87a" formatted="false">Environment recovery</string>
+    <string name="native_7c8162195c7c" formatted="false">Desktop installation</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">The previous run was interrupted. Restart explicitly from Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">A development task of this type is still running</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Repairing the activity record</string>
+    <string name="native_b66749ed72ea" formatted="false">Process exited</string>
+    <string name="native_6b25042064e2" formatted="false">Terminated by signal</string>
+    <string name="native_d6febdf1752b" formatted="false">Reclaimed due to low memory</string>
+    <string name="native_1d13790f3c89" formatted="false">App crash</string>
+    <string name="native_28db94d1850d" formatted="false">Native process crash</string>
+    <string name="native_86919539f7f1" formatted="false">App not responding</string>
+    <string name="native_90fb8d6098a5" formatted="false">Initialization failed</string>
+    <string name="native_38c60ab6654c" formatted="false">Permissions changed</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resource limit</string>
+    <string name="native_19b2090b01a8" formatted="false">User requested stop</string>
+    <string name="native_120d96445f1a" formatted="false">Stopped by user</string>
+    <string name="native_3c8af14f66bc" formatted="false">Dependent process exited</string>
+    <string name="native_ca0941ce04ae" formatted="false">Other system reason</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Process freezing</string>
+    <string name="native_0d48373023a8" formatted="false">App state changed</string>
+    <string name="native_c752307db26b" formatted="false">App update</string>
+    <string name="native_b5015951cbdf" formatted="false">The system did not provide an exit reason</string>
+    <string name="native_b62737b826ad">System exit (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Could not open the project directory</string>
+    <string name="native_faf5d983c13e" formatted="false">Could not create an OpenCode session</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode session directory does not match</string>
+    <string name="native_ac19736908a2" formatted="false">Could not read the OpenCode session</string>
+    <string name="native_2642997cfeec" formatted="false">Environment maintenance</string>
+    <string name="native_f992d735d932" formatted="false">Stop OpenCode, terminals and the Debian desktop, then wait for file operations to finish</string>
+    <string name="native_489f137f1080" formatted="false">The environment maintenance lock is no longer valid</string>
+    <string name="native_42380e2567fc" formatted="false">Interrupted operation recovered. Reopen the workspace.</string>
+    <string name="native_17b00cac2b91" formatted="false">Local connection recovery failed. Retry from Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Environment maintenance is in progress. Retry later.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Stop the Debian desktop before updating the development environment</string>
+    <string name="native_548085b144c9" formatted="false">Interrupted operation recovered. You can start the development environment.</string>
+    <string name="native_b4a1531f9eac" formatted="false">The previous run was interrupted. Terminal commands will not replay automatically. Restart explicitly from Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Temporary connection configuration cleanup is incomplete. Process cleanup continued.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Could not create the helloworld workspace. Check the directory and available space.</string>
+    <string name="native_68301868225a" formatted="false">The previous workspace directory is unavailable. Opened helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">The default project is not ready yet. Retry from Files.</string>
+    <string name="native_45d6ab452622" formatted="false">Install language servers</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ and Python language servers are ready. Start OpenCode to use LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">The terminal activity record was not saved. Create a new terminal after process termination.</string>
+    <string name="native_1978b311a9ff" formatted="false">Could not finish saving the terminal exit record.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode update download</string>
+    <string name="native_06f76cca8fb9" formatted="false">Connecting to the update source…</string>
+    <string name="native_8c39baf28e08" formatted="false">Cannot connect to the update source. Check the network, publisher signature, host version and free space.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Download timed out</string>
+    <string name="native_f75850093535">Downloading: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Verifying publisher signature…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Downloading update package…</string>
+    <string name="native_2f9cd52dc66a">Valid publisher signature: %1$s. Review before downloading.</string>
+    <string name="native_17548865632c" formatted="false">Download, release metadata and package signature verified. Confirm installation.</string>
+    <string name="native_180cec958e7a" formatted="false">Download cancelled. Original version retained.</string>
+    <string name="native_8df045f8ac12" formatted="false">Download stopped. Original version retained.</string>
+    <string name="native_778803f1c6bb" formatted="false">Cancel download</string>
+    <string name="native_2958898ce6f4" formatted="false">The new version failed local startup, version or authentication checks. The previous version will be restored.</string>
+    <string name="native_cc876dfbb261" formatted="false">The trial process is still exiting. Wait for recovery before retrying.</string>
+    <string name="native_adf977dcb47e" formatted="false">Invalid update record identifier</string>
+    <string name="native_5207cac670b7" formatted="false">Installed standalone OpenCode size does not match</string>
+    <string name="native_cf5b81887589" formatted="false">Installed standalone OpenCode checksum does not match. Restore the previous version.</string>
+    <string name="native_393049b506cc" formatted="false">The original program has no matching publisher proof. Previous state unchanged.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Recover the previous interrupted update first</string>
+    <string name="native_91d8da5525fa" formatted="false">The update package changed after confirmation</string>
+    <string name="native_093f2c091a30" formatted="false">Insufficient storage. Original version unchanged.</string>
+    <string name="native_fc9bc82e0872" formatted="false">No update backup is available to restore</string>
+    <string name="native_a9f4d9903c14" formatted="false">The backup does not match the running version</string>
+    <string name="native_6caa23763a42" formatted="false">Previous program verification failed. Current sessions unchanged.</string>
+    <string name="native_c8b71b876695" formatted="false">A later APK or Debian update replaced the bundled program. The original session backup is retained; restore the corresponding program first.</string>
+    <string name="native_c443df40964b" formatted="false">Invalid update recovery operation</string>
+    <string name="native_9071f05d58b3" formatted="false">Preparing OpenCode update…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Stop OpenCode, terminals and the desktop, then wait for them to exit.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Saving state, verifying programs and switching versions</string>
+    <string name="native_5fc065ef6f50" formatted="false">Could not start the update maintenance service.</string>
+    <string name="native_f7b560c8c820" formatted="false">Verifying and staging the official program…</string>
+    <string name="native_9606191c82dc" formatted="false">Preserving the original program and publisher signature…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Saving session state snapshot…</string>
+    <string name="native_0c8cf4632889" formatted="false">Switching versions and verifying the local service…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Restoring the version and sessions from before the update…</string>
+    <string name="native_856de41d3bf3" formatted="false">Restoring OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Updating OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Restored the previous version and sessions. More recent sessions remain in a private backup.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode update completed. Startup will use the matching official frontend and backend.</string>
+    <string name="native_4693930f5802" formatted="false">Update cancelled. Confirming that the original state has been restored.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Update incomplete. Recovering now; original program and session backups are retained.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Recovery is incomplete. All state directories are retained. Keep your data and retry startup to recover.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Session recovery completed. More recent state remains in a backup.</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery could not proceed with this backup or original program. Current sessions and backups unchanged.</string>
+    <string name="native_976d8c169cfa" formatted="false">Update cancelled or failed. Original version and sessions restored.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Verifying update package signature and integrity…</string>
+    <string name="native_0aa018b7337b" formatted="false">Cannot read the selected file</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Update package is too large</string>
+    <string name="native_f068b83f40bf" formatted="false">Signature and package verified. Review the version before installing.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Cannot import: invalid file, signature mismatch, incompatible host version or insufficient storage.</string>
+    <string name="native_616412e65df4" formatted="false">The official program does not match its publisher proof</string>
+    <string name="native_4bf19a158f27" formatted="false">Standalone runtime packages support ARM64 only</string>
+    <string name="native_63b1fc6fffc9" formatted="false">The update signature does not belong to this APK</string>
+    <string name="native_c7273354727f" formatted="false">The update file exceeds its declared size</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Update program checksum does not match</string>
+    <string name="native_dd619076d456" formatted="false">Invalid update package size</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Compressed update package size does not match</string>
+    <string name="native_1de24edffcf5" formatted="false">The update package contains extra entries</string>
+    <string name="native_c5b339aa77e8" formatted="false">Incompatible update origin or architecture</string>
+    <string name="native_89d585f3661f" formatted="false">Upgrade the Android app before installing this update</string>
+    <string name="native_800df084dea0" formatted="false">Update archive checksum does not match</string>
+    <string name="native_ddf1a005e310" formatted="false">This APK signing format does not support standalone runtime updates</string>
+    <string name="native_172e063db474" formatted="false">Invalid update package entry</string>
+    <string name="native_1c08780aa99f" formatted="false">Update metadata must use integers</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">The update program is not a 64-bit Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">The update program does not meet 16 KiB ELF alignment</string>
+    <string name="native_3afa3741911b" formatted="false">The update program is missing the Debian glibc loader</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Enter a valid HTTPS update source</string>
+    <string name="native_c274c7dd5900" formatted="false">Update sources require HTTPS URLs without user credentials</string>
+    <string name="native_f459f5ec9dac" formatted="false">Invalid update source field</string>
+    <string name="native_bde2a736e30a" formatted="false">Upgrade the Android host first</string>
+    <string name="native_b980fd021bef" formatted="false">Invalid update directory</string>
+    <string name="native_c0e96727553e" formatted="false">Invalid update file</string>
+    <string name="native_86ff542c68ed" formatted="false">Cannot switch update directories in this state</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Session state refers to an external directory. The update cannot be tested safely.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Insufficient storage. Original state unchanged.</string>
+    <string name="native_099801d672b1" formatted="false">Download cancelled</string>
+    <string name="native_f1304f707ec9" formatted="false">Too many update redirects</string>
+    <string name="native_0d07f458b607" formatted="false">The update server did not transfer the original bytes</string>
+    <string name="native_de331dfd8908" formatted="false">Update file length does not match</string>
+    <string name="native_416b8c87e69e" formatted="false">The update file was not fully downloaded</string>
+    <string name="native_e1e74b76c427" formatted="false">The update server did not return the complete file</string>
+    <string name="native_6afcf03cb130" formatted="false">Insufficient update staging space</string>
+    <string name="native_be1c695d9241" formatted="false">Update file SHA-256 does not match</string>
+    <string name="native_a0133d117bb0" formatted="false">The update package does not match the confirmed release information</string>
+    <string name="native_8635a43ce28a" formatted="false">Invalid project directory</string>
+    <string name="native_d32ab8b004e6" formatted="false">Could not save the workspace location</string>
+    <string name="native_43a5447014fd" formatted="false">Start the development environment from Runtime before opening a terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ New terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Close current</string>
+    <string name="native_0e822affd5da">Initial directory: %1$s</string>
+    <string name="native_72d769e3888d">New terminal directory: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">System file picker is unavailable</string>
+    <string name="native_179a57921f91" formatted="false">WebView rendering settings</string>
+    <string name="native_3024ec603eb7" formatted="false">Rendering frame rate</string>
+    <string name="native_55b6d7f645f3" formatted="false">Prefer 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Follow display refresh rate</string>
+    <string name="native_d4ecf38c341d" formatted="false">Prefer 60 Hz to reduce rendering load on high refresh rate displays. Following the display lets the system schedule frames. Applies only to this app\'s window.</string>
+    <string name="native_bf0d3a407418" formatted="false">Not installed</string>
+    <string name="native_2fb8edc75b25" formatted="false">Ready</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Verifying loader</string>
+    <string name="native_d1017c1eac80" formatted="false">Installing Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Local development environment</string>
+    <string name="native_55aa84065de2" formatted="false">Local Debian development session</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop</string>
+    <string name="native_5f73a4e1e494" formatted="false">Installed</string>
+    <string name="native_147e90d2ec02" formatted="false">Recovering</string>
+</resources>

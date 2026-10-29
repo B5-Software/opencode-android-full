@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="io.github.opencodeandroid.permission.BACKGROUND_DIAGNOSTICS" />
+    <queries><package android:name="io.github.opencodeandroid" /></queries>
+    <application android:label="OpenCode test controller" android:testOnly="true" android:allowBackup="false" />
+    <instrumentation android:name="androidx.test.runner.AndroidJUnitRunner" android:targetPackage="io.github.opencodeandroid.diagnostics" android:functionalTest="true" />
+</manifest>

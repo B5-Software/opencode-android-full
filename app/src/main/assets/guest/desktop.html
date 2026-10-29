@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=3"><title>Debian Desktop</title>
+<style>
+html,body{margin:0;width:100%;height:100%;background:#111512;color:#edf3ee;font:14px system-ui;overflow:hidden}#screen{position:absolute;inset:0 0 52px}#controls{position:absolute;bottom:0;left:0;right:0;min-height:44px;display:flex;gap:6px;align-items:center;padding:4px 10px;background:#1b211d;overflow-x:auto}button{border:1px solid #46584b;background:#27392e;color:#c2f0d5;border-radius:12px;padding:10px 14px;white-space:nowrap}#status{padding:18px;position:absolute;top:0;left:0;pointer-events:none}#typing{width:1px;height:1px;opacity:.01;position:absolute;left:10px;bottom:10px}#controls input{font-size:16px}
+</style><script>window.pendingDesktopCredentials=null;window.connectDesktop=(password,token)=>{window.pendingDesktopCredentials={password,token};window.startDesktop?.()};</script></head>
+<body><div id="screen"></div><div id="status">正在连接桌面…</div><input id="typing" aria-label="桌面键盘输入" autocomplete="off" autocapitalize="off">
+<div id="controls"><button id="keyboard">键盘</button><button id="browser-options">浏览器</button><button id="project-files">项目文件夹</button><button id="drag">平移</button><button id="escape">Esc</button><button id="tab">Tab</button><button id="interrupt">Ctrl+C</button><button id="ctrlaltdelete">Ctrl+Alt+Del</button></div>
+<script type="module">
+import RFB from './vendor/novnc/core/rfb.js';
+let rfb=null;const status=document.getElementById('status');
+window.startDesktop=()=>{
+ if(rfb||!window.pendingDesktopCredentials)return;
+ const {password,token}=window.pendingDesktopCredentials;window.pendingDesktopCredentials=null;
+ rfb=new RFB(document.getElementById('screen'),'ws://127.0.0.1:6080/websockify',{credentials:{password},wsProtocols:['binary','opencode-desktop.'+token]});
+ rfb.scaleViewport=true;rfb.resizeSession=true;rfb.qualityLevel=6;rfb.compressionLevel=2;
+ rfb.addEventListener('connect',()=>{window.desktopConnected=true;status.textContent='';document.title='Debian Desktop · Connected'});
+ rfb.addEventListener('disconnect',()=>{window.desktopConnected=false;status.textContent='桌面连接已断开，请返回后重新连接';});
+ rfb.addEventListener('securityfailure',()=>{status.textContent='桌面认证失败，请重新启动桌面';});
+};window.startDesktop();
+document.getElementById('drag').onclick=e=>{if(rfb){rfb.dragViewport=!rfb.dragViewport;e.target.textContent=rfb.dragViewport?'鼠标':'平移'}};
+const key=(symbol,code)=>rfb?.sendKey(symbol,code);
+document.getElementById('escape').onclick=()=>key(0xff1b,'Escape');
+document.getElementById('tab').onclick=()=>key(0xff09,'Tab');
+document.getElementById('interrupt').onclick=()=>{rfb?.sendKey(0xffe3,'ControlLeft',true);key(0x63,'KeyC');rfb?.sendKey(0xffe3,'ControlLeft',false)};
+document.getElementById('ctrlaltdelete').onclick=()=>rfb?.sendCtrlAltDel();
+const typing=document.getElementById('typing');let composing=false;
+const text=value=>{for(const char of value){const point=char.codePointAt(0);key(point<=255?point:0x01000000|point,null)}};
+typing.oncompositionstart=()=>{composing=true};typing.oncompositionend=e=>{composing=false;text(e.data);typing.value=''};
+typing.oninput=e=>{if(!composing&&!e.isComposing){text(typing.value);typing.value=''}};
+typing.onkeydown=e=>{const codes={Enter:0xff0d,Backspace:0xff08,Tab:0xff09,Escape:0xff1b};if(codes[e.key]){e.preventDefault();key(codes[e.key],e.key)}};
+document.getElementById('keyboard').onclick=()=>typing.focus();
+document.getElementById('browser-options').onclick=()=>{location.href='/__chromium_settings__'};
+document.getElementById('project-files').onclick=()=>{location.href='/__project_files__'};
+</script></body></html>

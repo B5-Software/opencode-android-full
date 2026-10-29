@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Udviklingsarbejdsplads</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Enkelt side</string>
+    <string name="native_651ae6ea52ae" formatted="false">Gendan delt visning\n[0004] Arbejdsrumslayout</string>
+    <string name="native_d7e97cfac66f" formatted="false">Arbejdsrum layout</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Udvid vinduet for at se flere paneler sammen.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Vis projektfiler</string>
+    <string name="native_712d956931d1" formatted="false">Vis terminal\n[0008] Terminal nedenfor\n[0009] Terminal til højre\n[0010] Paneler kollapser, når pladsen er begrænset, og forbliver tilgængelige fra den flydende menu. Sideterminalen vises i bredere vinduer. Træk skillelinjer for at ændre størrelse på paneler.</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal nedenfor</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal til højre</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Paneler kollapser, når pladsen er begrænset, og forbliver tilgængelige fra den flydende menu. Sideterminalen vises i bredere vinduer. Træk skillelinjer for at ændre størrelse på paneler.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Venstre Alt: 1–5 sider · B-filer · T Terminal · M Desktop · Indtast enkelt/opdelt · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Udført</string>
+    <string name="native_bcec2218fc21" formatted="false">Nulstil proportioner</string>
+    <string name="native_da88c62d1217">Vis %1$s på en enkelt side</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projektfildeler\n[0016] Klemmedeler</string>
+    <string name="native_707c0891a0e6" formatted="false">Terminaldeler</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode og desktop divider</string>
+    <string name="native_50407ad8dfa8" formatted="false">Formindsk forrige panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Forstørre forrige panel</string>
+    <string name="native_3f3685e8d731" formatted="false">For mange PRoot-links til dette arkivformat</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux hårde links kræver en komplet rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Backup-mappeindlejring er for dyb</string>
+    <string name="native_b6f744737a45" formatted="false">Ugyldig længde af backup-adgangskode</string>
+    <string name="native_13bde5dd1812" formatted="false">Backup-adgangskoden skal indeholde mindst 12 tegn</string>
+    <string name="native_be02cbd55932" formatted="false">Ikke-understøttet backupformat</string>
+    <string name="native_7a91a3d586ae" formatted="false">Ugyldig backup-header</string>
+    <string name="native_2bbd318a5667" formatted="false">Ikke-understøttede backupkrypteringsparametre</string>
+    <string name="native_18868da27841" formatted="false">Forkert backup-adgangskode eller beskadiget fil\n[0029] Gendannelsesregistreringen er for stor</string>
+    <string name="native_e41d6440468d" formatted="false">Gendannelsesregistreringen er for stor</string>
+    <string name="native_282692502f14" formatted="false">Backup-metadata er for store</string>
+    <string name="native_61fdca8d6c82" formatted="false">Backup-metadata-nesting er for dybt</string>
+    <string name="native_8cefb30732d4" formatted="false">Ugyldige backup-metadata</string>
+    <string name="native_5d3037708cad" formatted="false">Ikke-understøttede native indstillinger</string>
+    <string name="native_81a57c382f9d" formatted="false">Kunne ikke gemme native indstillinger</string>
+    <string name="native_50603e683d4a" formatted="false">Ugyldig overordnet mappe i backupstien\n[0036] Arbejdsstationsroden må ikke være et symbolsk link</string>
+    <string name="native_c3f838a46b8e" formatted="false">Arbejdsstationsroden må ikke være et symbolsk link</string>
+    <string name="native_9ddd2d8280c8" formatted="false">En fil ændret under backup</string>
+    <string name="native_77e1e85147db" formatted="false">Ikke-understøttet arbejdsstationsdataformat</string>
+    <string name="native_a927b5a565af" formatted="false">Sikkerhedskopien indeholder yderligere data</string>
+    <string name="native_c2b886d508f2" formatted="false">Sikkerhedskopien indeholder duplikerede stier</string>
+    <string name="native_3dab8cd60102" formatted="false">Sikkerhedskopien indeholder runtime-indstillinger, der ikke kan migreres</string>
+    <string name="native_f45ba674a630" formatted="false">Sikkerhedskopien er for stor, eller lageret er utilstrækkeligt</string>
+    <string name="native_140073e8e77b" formatted="false">Kunne ikke gendanne symbolske linktidsstempler</string>
+    <string name="native_b0d411aaf62c" formatted="false">Kunne ikke gendanne navngivne pipe-tidsstempler</string>
+    <string name="native_0daee8026db1" formatted="false">Sikkerhedskopiering og gendannelse af arbejdsstation</string>
+    <string name="native_1acc18928c5f" formatted="false">Indeholder Debian, udviklerværktøjer, projekter, home, OpenCode-sessioner og -indstillinger, Linux-browserdata og native layoutindstillinger.</string>
+    <string name="native_62254d31a535" formatted="false">Midlertidige filer og gamle sikkerhedskopier er udelukket. Android WebView-lagerplads og usendte kladder forbliver på denne enhed og overføres ikke med denne sikkerhedskopi.</string>
+    <string name="native_808eabc7811f" formatted="false">Opret krypteret backup</string>
+    <string name="native_201c10b38296" formatted="false">Importer backup</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Gem dine ændringer i fileditoren først.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, terminaler og desktop\n[0052] En miljøoperation er ufuldstændig. Gendan det først.</string>
+    <string name="native_fdf2be8e3b93" formatted="false">En miljøoperation er ufuldstændig. Gendan det først.</string>
+    <string name="native_185f58156330" formatted="false">Gendan ufuldstændig operation</string>
+    <string name="native_20831b6f67a7" formatted="false">Fortryd den sidste miljøgendannelse</string>
+    <string name="native_4f392d5d6141">Krypteret lokal kopi: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Gem til fil</string>
+    <string name="native_f09619351eb9" formatted="false">Slet lokal kopi</string>
+    <string name="native_85c686eb9841">Behandlet %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Annuller backup-opgave</string>
+    <string name="native_66c9d896407b" formatted="false">Krypter sikkerhedskopiering af arbejdsstation</string>
+    <string name="native_548cd9f0831e" formatted="false">Dekrypter og bekræft backup</string>
+    <string name="native_d248f5eca9a5" formatted="false">Sikkerhedskopier kan indeholde private SSH-nøgler, API-nøgler og kontodata. Brug mindst 12 tegn. En glemt adgangskode kan ikke gendannes.</string>
+    <string name="native_f249422b9ec1" formatted="false">Sikkerhedskopien dekrypteres og verificeres i en privat mappe. Dit miljø udskiftes først, når du har bekræftet gendannelsen.</string>
+    <string name="native_e7be6841703a" formatted="false">Backup-adgangskode</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Gentag adgangskoden</string>
+    <string name="native_eafdc5cd4882" formatted="false">Start kryptering</string>
+    <string name="native_2986b88beade" formatted="false">Dekrypter og bekræft</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Annuller</string>
+    <string name="native_f46c5ed7412d" formatted="false">Gendan hele det tidligere miljø?</string>
+    <string name="native_33eda0946a5b" formatted="false">Vil du slette den krypterede lokale kopi?</string>
+    <string name="native_26db24150f2e" formatted="false">Projekter, hjem, Debian og sessioner vil vende tilbage til deres tilstand før den sidste gendannelse. Nyere arbejde forbliver i en privat sikkerhedskopi inde i appen.</string>
+    <string name="native_1153b30d51d5" formatted="false">Kun den krypterede lokale kopi inde i appen slettes. Filer, der er gemt andre steder, forbliver tilgængelige.</string>
+    <string name="native_427a78a4e69a" formatted="false">Bekræft</string>
+    <string name="native_7af46d7ee003" formatted="false">Vil du gendanne denne sikkerhedskopi af arbejdsstation?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s poster · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Sikkerhedskopien indeholder eksekverbar Linux-software. Bekræft, at du stoler på dens kilde. Restaurering erstatter hele miljøet og kontrollerer lokale tjenester; det tidligere miljø opbevares til genopretning.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Sikkerhedskopiering bekræftet. Venter på restaureringsbekræftelse.</string>
+    <string name="native_97076078c749" formatted="false">Aktiver også Chromium-kompatibilitetstilstand (deaktiverer Linux-processandboxen)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Fra som standard. Du kan aktivere det senere i skrivebordsindstillingerne.</string>
+    <string name="native_ddf09383413c" formatted="false">Bekræft gendannelse</string>
+    <string name="native_8e6056b0f629" formatted="false">Annuller import</string>
+    <string name="native_63a895901c76" formatted="false">Arbejdsstationsmiljø ændret</string>
+    <string name="native_a4c994348a39" formatted="false">Genåbn arbejdsområdet</string>
+    <string name="native_774947f0653e" formatted="false">Annuller opgave</string>
+    <string name="native_e09a22b18445" formatted="false">Opgaven blev afbrudt. Vælg en handling igen, og indtast adgangskoden.</string>
+    <string name="native_38c5fcc634db" formatted="false">Gem filredigeringer i alle vinduer først. Annuller en eksisterende import, før du prøver igen.</string>
+    <string name="native_029bfa8ff772" formatted="false">Gendannelse af arbejdsstationen og verificering af programmer</string>
+    <string name="native_e4f04df818f8" formatted="false">Behandler din valgte sikkerhedskopiering</string>
+    <string name="native_8206f072d5ee" formatted="false">Stop OpenCode, terminaler og desktop, og vent derefter på, at filhandlingerne er færdige.</string>
+    <string name="native_1a5cde18c609" formatted="false">Sikkerhedskopieringsopgaven kunne ikke startes. Prøv igen med appen i forgrunden.</string>
+    <string name="native_1553b714941d" formatted="false">Dekryptering og verifikation af backup. Det originale miljø forbliver gendannes...</string>
+    <string name="native_dafd005e953e" formatted="false">Backup bekræftet. Bekræft gendannelse i appen.</string>
+    <string name="native_9fb236184596" formatted="false">Slettede den krypterede lokale kopi inde i appen.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operation annulleret. Originale miljødata bevares.\n[0095] Drift ufuldstændig. Tjek adgangskoden, sikkerhedskopieringsintegriteten, værtsversionen og ledig plads. Originale miljødata bevares.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operation ufuldstændig. Tjek adgangskoden, sikkerhedskopieringsintegriteten, værtsversionen og ledig plads. Originale miljødata bevares.</string>
+    <string name="native_29deabd28960" formatted="false">Opretter krypteret sikkerhedskopiering af arbejdsstation...</string>
+    <string name="native_3d137e243806" formatted="false">Krypteret backup oprettet. Vælg, hvor du vil gemme det.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Gendannelse af miljøet og kontrol af lokale tjenester. Hold appdataene intakte...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Arbejdsstation gendannet. Det tidligere miljø forbliver i en privat backup. Åbn arbejdsområdet igen.</string>
+    <string name="native_0392cd6152d2" formatted="false">Gendannelsestjek mislykkedes. Vendte tilbage til det tidligere miljø; importerede data forbliver i en privat sikkerhedskopi.</string>
+    <string name="native_5dc7410b600e" formatted="false">Gendannelsen er ufuldstændig. Alle datamapper bevares. Behold appdataene, og prøv gendannelsen.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Gendanner det tidligere arbejdsstationsmiljø...</string>
+    <string name="native_15821323ff89" formatted="false">Tidligere miljø gendannet. Nyere arbejde forbliver i en privat backup. Åbn arbejdsområdet igen.</string>
+    <string name="native_56dd94f47870" formatted="false">Kan ikke fortryde denne gendannelse. Nuværende miljø og backups bevares.</string>
+    <string name="native_93530f3fa029" formatted="false">Fortryd er ufuldstændig. Alle datamapper bevares. Behold appdataene, og prøv gendannelsen.</string>
+    <string name="native_f12963c80def" formatted="false">Gemmer krypteret sikkerhedskopi...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Krypteret backup gemt. Du kan gemme den lokale kopi igen eller slette den manuelt.</string>
+    <string name="native_d660cccf65e0" formatted="false">Rydder op i en ubekræftet import...</string>
+    <string name="native_800592163979" formatted="false">Import annulleret. Oprindeligt miljø uændret.</string>
+    <string name="native_5a90367eb834" formatted="false">Import annulleret. Oprindeligt miljø uændret; nogle midlertidige importdata forbliver i appens private mappe.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Forbereder dekryptering og verifikation...</string>
+    <string name="native_e9f2bea3118c" formatted="false">Forbereder krypteret backup...</string>
+    <string name="native_7bd5a0c93818" formatted="false">Sikkerhedskopieringstjenesten kunne ikke startes. Prøv igen i forgrunden.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Gendan den ufuldstændige miljøoperation først</string>
+    <string name="native_f14aea7c819c" formatted="false">Ugyldig gendannelsespost</string>
+    <string name="native_7c284c55ee08" formatted="false">Manglende gendannelsesmappe</string>
+    <string name="native_bfc4792df15b" formatted="false">Indbyggede indstillinger overstiger grænsen for gendannelsesregistrering</string>
+    <string name="native_8d93770ba8c9">Manglende tidligere miljømappe: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Ukendt genopretningsstadium</string>
+    <string name="native_20c5124fe175" formatted="false">Ukendt gendannelsesoperation</string>
+    <string name="native_1c457322b624" formatted="false">Intet tidligere miljø er tilgængeligt at gendanne</string>
+    <string name="native_30db1666c8e5" formatted="false">Denne backup tilhører en anden app</string>
+    <string name="native_6687d1c64d75" formatted="false">Backup-processorarkitekturen stemmer ikke overens</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Opdater Android-værten til den version, der bruges af denne backup først</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Sikkerhedskopieringsmappen er ufuldstændig</string>
+    <string name="native_66106ab3e254" formatted="false">Den gamle sikkerhedskopi har intet verificerbart OpenCode-udgiverbevis. Start det originale miljø med denne vært, før du sikkerhedskopierer den igen.</string>
+    <string name="native_bec13cc92982" formatted="false">Systemhandlinger i udviklingsmiljøet</string>
+    <string name="native_65de80229626" formatted="false">Debian anmodede om en systemhandling</string>
+    <string name="native_5e38581cf19c" formatted="false">Tryk for at gennemgå og håndtere anmodningen</string>
+    <string name="native_749d406d2c67" formatted="false">Fra Debians udviklingsmiljø</string>
+    <string name="native_4032d33b2afd" formatted="false">Åbn systembrowseren?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Vil du åbne et lokalt projekteksempel?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Læs klippebordet?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Vil du kopiere til systemets udklipsholder?</string>
+    <string name="native_77f761eb70aa" formatted="false">Vil du sende en lokal notifikation?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Vil du dele en projektfil?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Vil du importere systemfiler?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Eksportere en projektfil?</string>
+    <string name="native_7ac295421c6d" formatted="false">Åbn i browser</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Åbn forhåndsvisning</string>
+    <string name="native_14792d6cd7a6" formatted="false">Tillad læsning</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopiér til udklipsholder</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Send besked</string>
+    <string name="native_88152a09fa02" formatted="false">Vælg en delingsapp</string>
+    <string name="native_7a49a79c57f9" formatted="false">Vælg filer</string>
+    <string name="native_99d9f87419c5" formatted="false">Vælg, hvor du vil gemme</string>
+    <string name="native_23e5bb2090aa">%1$s\nÅbner med browserdata isoleret fra OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Giv tekst fra systemets udklipsholder til det aktuelle Debian-program.</string>
+    <string name="native_dcc6bec24e43">Vælg filer, der skal importeres til %1$s. Eksisterende filer bevares, og dubletter omdøbes.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium-browsertilstand</string>
+    <string name="native_4767f37900f6" formatted="false">Kompatibilitetstilstand bruger en separat browserprofil og deaktiverer Chromiums Linux-processandbox. Browseren kan stadig få adgang til filer i denne app. Undgå upålidelige websteder, og brug Android-systembrowseren til vigtige konti. Genåbn Chromium efter at have skiftet tilstand.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standard Linux-sandboxing er aktiveret som standard. Hvis Chromium ikke kan starte, kan du vælge kompatibilitetstilstand. Det deaktiverer Linux-processandkassen og bruger en separat profil, mens den bevarer adgangen til appfiler. Undgå upålidelige websteder; brug Android-systembrowseren til vigtige konti.</string>
+    <string name="native_3a2596fa9517" formatted="false">Gendan standardtilstand</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Aktiver kompatibilitetstilstand</string>
+    <string name="native_9a45442649f5" formatted="false">Debian desktop</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Delt /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Den første installation downloader grafiske komponenter. Efter installationen kan skrivebordet starte og stoppe uafhængigt af OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC spejl</string>
+    <string name="native_41e865941e16" formatted="false">Officielt Debian-spejl</string>
+    <string name="native_ea341b8a102b" formatted="false">Oprindelig opløsning</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Skrivebordet fortsætter med at køre, når du skifter side. Stop det fra Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Stop desktop-opgaven</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Start skrivebordet</string>
+    <string name="native_ea27a25e5114" formatted="false">Installer skrivebordskomponenter</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: kompatibilitetstilstand</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standardtilstand</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Installer Debians udviklerværktøjer fra Runtime først.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Aktivitetslog</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Kunne ikke åbne projektmappen. Tjek, at biblioteket findes.</string>
+    <string name="native_83c76743b29d" formatted="false">Gendannelse af den afbrudte miljøoperation</string>
+    <string name="native_739a730ae247" formatted="false">Miljøvedligeholdelse</string>
+    <string name="native_049281329843" formatted="false">Vent på, at opdateringsvedligeholdelse eller den aktuelle opgave er afsluttet.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Vent på, at den aktuelle udviklingsmiljøopgave er færdig</string>
+    <string name="native_83099168971c" formatted="false">Installerer skrivebordet</string>
+    <string name="native_85e0c18dde8d" formatted="false">Starter skrivebordet</string>
+    <string name="native_9a48f8196d8f" formatted="false">Kræver opmærksomhed</string>
+    <string name="native_75470fb13121" formatted="false">Stoppet</string>
+    <string name="native_51a53c8109d5" formatted="false">Kan ikke læse eller gemme aktivitetsposten. Reparer det fra Runtime eller frigør noget lagerplads.</string>
+    <string name="native_d36a018cc619" formatted="false">Installer Debians udviklingsmiljø først</string>
+    <string name="native_80be4c2928a5" formatted="false">Opret forbindelse til et netværk først</string>
+    <string name="native_a065d81014b1" formatted="false">Desktopinstallationen er ufuldstændig. Prøv at installere igen.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop installeret. Start den, når det er nødvendigt.</string>
+    <string name="native_6c1c52771115" formatted="false">Installer desktop-komponenter først</string>
+    <string name="native_693d90a47827" formatted="false">Desktop-drift mislykkedes. Oplysningerne er for lange eller utilgængelige.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Kunne ikke afslutte lagringen af ​​stopmarkøren. Procesoprydning fortsatte.</string>
+    <string name="native_06083621a6ce" formatted="false">Kunne ikke afslutte lagringen af ​​aktivitetsposten. Den næste lancering vil behandle dette som en afbrydelse.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop kører</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Desktop-driften fik timeout. Gennemgå loggen og prøv igen.</string>
+    <string name="native_e70d328a3ca9">Desktop-processen afsluttet (%1$s). Gennemgå aktivitetsloggen.</string>
+    <string name="native_df5c878f2852" formatted="false">Lokalt grafisk arbejdsområde</string>
+    <string name="native_7b0455a8daa4" formatted="false">Stop skrivebordet</string>
+    <string name="native_a62123cde9c7" formatted="false">Afbrudte opgaver og genopretning</string>
+    <string name="native_279308947a14" formatted="false">Kan ikke læse aktivitetsposten. Reparation opbevarer en kopi af den beskadigede registrering og bevarer projekter, sessioner og Linux-miljøet.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Reparationsaktivitetsrekord</string>
+    <string name="native_6b43650c2c82" formatted="false">Opgaven sluttede uventet.</string>
+    <string name="native_acb0c970aaa6">%1$s terminaler blev ikke lukket normalt. Deres kørende kommandoer blev afbrudt.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Genstart bekræftet. Tidligere kommandoer blev ikke afspillet igen.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Gemte projekter og sessioner bevares. Genåbn terminaler manuelt; ufærdige kommandoer genoptages ikke automatisk.</string>
+    <string name="native_fa9669296762" formatted="false">Genstart OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Skrivebordet genstarter ikke automatisk. Start det igen fra skrivebordssiden.</string>
+    <string name="native_644f8f44251f" formatted="false">Åbn fil</string>
+    <string name="native_9dfb5569d609" formatted="false">Del fil</string>
+    <string name="native_a4500cff3a86" formatted="false">Arbejdsbiblioteket må ikke være et symbolsk link</string>
+    <string name="native_8657d27661bd" formatted="false">Ugyldig arbejdsmappesti</string>
+    <string name="native_02b702a9adff" formatted="false">Vælg en fil</string>
+    <string name="native_924874b746cc" formatted="false">Administrer symbolske links i terminalen</string>
+    <string name="native_efea6e422a54" formatted="false">Ugyldigt filnavn</string>
+    <string name="native_c4989dc37aab" formatted="false">Directory findes ikke</string>
+    <string name="native_d613dba39b44" formatted="false">Destinationsbiblioteket findes ikke</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Kan ikke placere en mappe i sig selv eller dens efterkommere</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projektet indeholder specielle enheder eller stikkontakter og kan ikke kopieres</string>
+    <string name="native_6c36955b068b" formatted="false">Vælg en almindelig fil</string>
+    <string name="native_49191d7d489f" formatted="false">Denne fil overstiger 2 MB. Rediger den med OpenCode eller terminalen.</string>
+    <string name="native_ee42414d36c2" formatted="false">Filen er for stor</string>
+    <string name="native_f0a979f87157" formatted="false">Eksporter binære filer for at åbne dem i en anden app</string>
+    <string name="native_88a9c82651fc" formatted="false">Rediger filer, der ikke er UTF-8 med OpenCode eller terminalen</string>
+    <string name="native_0189a5c3418c" formatted="false">Et andet værktøj ændrede denne fil. Åbn det igen før redigering.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Den oprindelige mappe eksisterer ikke længere. Gendan det først.</string>
+    <string name="native_46eae321049e" formatted="false">Ingen delingsapp er tilgængelig</string>
+    <string name="native_87d699d3a26c" formatted="false">Papirkurv</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projektfiler</string>
+    <string name="native_4dcf914f0b64" formatted="false">Slettede filer kan gendannes til deres originale mapper</string>
+    <string name="native_c5b81b02354f" formatted="false">Tilbage</string>
+    <string name="native_e56b99379169">Kopierede %1$s filer · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopierer...</string>
+    <string name="native_85199bb36b04" formatted="false">Annuller handling</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Luk</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Ny session</string>
+    <string name="native_23c250cc8e0b" formatted="false">Start en OpenCode-session her</string>
+    <string name="native_f22da21fd54f" formatted="false">terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Ændringer, der ikke er gemt</string>
+    <string name="native_2266227605c4" formatted="false">Gem</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Papirkurv er tom</string>
+    <string name="native_a9e739b13e52" formatted="false">Gendannelse</string>
+    <string name="native_45985dc2183e" formatted="false">Flyt:</string>
+    <string name="native_31214130b5b7" formatted="false">Kopi:</string>
+    <string name="native_07e5c3158f35" formatted="false">Indsæt</string>
+    <string name="native_831b4e0fb574" formatted="false">Ny</string>
+    <string name="native_ff65a22d7087" formatted="false">Ny mappe</string>
+    <string name="native_71faed44a86c" formatted="false">Ny fil</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Opdater</string>
+    <string name="native_ac9d73843736" formatted="false">Søg i denne mappe</string>
+    <string name="native_21eef82963ee" formatted="false">Denne mappe er tom. Importer filer eller opret et projekt.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Ingen matchende filer</string>
+    <string name="native_d674bc0f86b8" formatted="false">Filhandlinger</string>
+    <string name="native_d04a47c87cc8" formatted="false">Symbolsk link</string>
+    <string name="native_e0ba66f5246a" formatted="false">Mappe</string>
+    <string name="native_f170b42599e8" formatted="false">Omdøb</string>
+    <string name="native_4cdacf57ead2" formatted="false">kopi</string>
+    <string name="native_124aa030694e" formatted="false">Flyt til...</string>
+    <string name="native_ac990518ed87" formatted="false">Åbn terminal her</string>
+    <string name="native_87bc93932d8a" formatted="false">Eksporter til systemfiler</string>
+    <string name="native_dd37f132172f" formatted="false">Flyt til papirkurven</string>
+    <string name="native_7318746d337c" formatted="false">Flytte til papirkurven?</string>
+    <string name="native_2b5ee3f10a56">Du kan gendanne \"%1$s\" fra papirkurven.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Move</string>
+    <string name="native_4e47aaa113fc" formatted="false">Vil du kassere ikke-gemte ændringer?</string>
+    <string name="native_63b75399ef1a" formatted="false">Kassér ændringer</string>
+    <string name="native_d9618f7b8d25" formatted="false">Fortsæt med at redigere</string>
+    <string name="native_76ce6aef5479" formatted="false">Navn</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">miljø gendannet. Åbn arbejdsområdet igen.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Afslut først gendannelse af den afbrudte operation i Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Miljøvedligeholdelse er i gang. Prøv igen senere.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operation annulleret</string>
+    <string name="native_c508721eb3cd" formatted="false">Der findes allerede en fil med dette navn. Vælg et andet navn.</string>
+    <string name="native_1e8274fe468a" formatted="false">Filen eksisterer ikke længere. Opdater mappen.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Tilladelse til filadgang nægtet</string>
+    <string name="native_cd808e4c321e" formatted="false">Kunne ikke fuldføre handlingen</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Drift ufuldstændig. Tjek tilgængelig lagerplads, eller vælg filerne igen.</string>
+    <string name="native_3f9983126fd7" formatted="false">Kontroller OpenCode-startstatus i Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Kunne ikke åbne en ny terminal. Tjek antallet af sessioner.</string>
+    <string name="native_2160fde3813a" formatted="false">Administrer symbolske links i terminalen. Filhåndteringen følger ikke links.</string>
+    <string name="native_7a844e9d4017" formatted="false">Flytning afsluttet</string>
+    <string name="native_573877894fcf" formatted="false">Kopi udført</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Flyttet til papirkurven</string>
+    <string name="native_862330af933f" formatted="false">Gendannet til den oprindelige mappe</string>
+    <string name="native_beda23c9d52b" formatted="false">Miljøvedligeholdelse eller udskiftning fandt sted. Åbn arbejdsområdet igen før redigering.</string>
+    <string name="native_678c6953bb2b" formatted="false">gemt</string>
+    <string name="native_8063159f2178" formatted="false">Kan ikke læse den valgte fil</string>
+    <string name="native_4cdc2180d2ac">Importerede %1$s filer</string>
+    <string name="native_e98763643b93" formatted="false">Kan ikke skrive til den valgte placering</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksport afsluttet</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kode og sessioner</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafisk arbejdsområde</string>
+    <string name="native_770d49c5f689" formatted="false">filer</string>
+    <string name="native_6a9b6480b58f" formatted="false">Runtime</string>
+    <string name="native_b561fe9204cc" formatted="false">Services og udviklerværktøjer</string>
+    <string name="native_70850bdeeabd" formatted="false">Luk sidemenu</string>
+    <string name="native_b4549acb48e8" formatted="false">Arbejdsområde</string>
+    <string name="native_3d3551f4660f">Svævende knapopacitet %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Lavere værdier gør den flydende knap mere gennemsigtig</string>
+    <string name="native_e031beabfc9a" formatted="false">Åbn sidemenu</string>
+    <string name="native_106ee775b538" formatted="false">Opretter forbindelse til lokal OpenCode...</string>
+    <string name="native_a021adc1f449" formatted="false">Lokal forbindelse skal genoprettes</string>
+    <string name="native_dacb8837471c" formatted="false">Gentilslut</string>
+    <string name="native_17584aa60ae6" formatted="false">Kunne ikke forberede den lokale ressourcecache</string>
+    <string name="native_3b3b80064ccb" formatted="false">Forbereder lokal OpenCode...</string>
+    <string name="native_2560ee8fdd16" formatted="false">Prøv igen</string>
+    <string name="native_b07809340403" formatted="false">Workspace-placering er ikke blevet gemt endnu. Prøv igen senere.</string>
+    <string name="native_e4ab10392d05" formatted="false">Den lokale service er ved at blive klar. Dit arbejdsområde åbnes automatisk, når du er tilsluttet.</string>
+    <string name="native_20ea15973287" formatted="false">Den forrige kørsel blev afbrudt. Genstart fra Runtime; terminalkommandoer afspilles ikke automatisk.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Start OpenCode fra Runtime for at åbne kode og sessioner.</string>
+    <string name="native_abbac5c22111" formatted="false">Vil du afslutte appen?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Udviklingsmiljøet kan blive ved med at køre i baggrunden. Vend tilbage senere fra underretningen.</string>
+    <string name="native_814a8fb24b62" formatted="false">Vil du afslutte det aktuelle arbejdsområde?</string>
+    <string name="native_a76464945c2d" formatted="false">Stop også udviklingsmiljøet</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Afslut</string>
+    <string name="native_b00143b08ff1" formatted="false">Udviklingsarbejdsstation klar</string>
+    <string name="native_51bca456a350" formatted="false">Din Debian-udviklingsarbejdsstation</string>
+    <string name="native_0c2acd0b6057" formatted="false">Kører</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Starter</string>
+    <string name="native_44da7f6a451d" formatted="false">Stopper</string>
+    <string name="native_b7e1503a7239" formatted="false">Reparer udviklingsmiljø</string>
+    <string name="native_7c91bd67ff14" formatted="false">Installer udviklingsmiljø</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop miljø</string>
+    <string name="native_e7ec95694dce" formatted="false">Start OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Tjek miljø</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Opdater Debian-udviklerværktøjer</string>
+    <string name="native_c114ec62712b" formatted="false">Tidligere miljøsikkerhedskopiering, projekter og sessionsdata bevares.</string>
+    <string name="native_eb3114155716" formatted="false">Installer / opdater sprogservere</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) og Python (pylsp), installeret online fra signerede Debian-depoter. Stop OpenCode og skrivebordet først.</string>
+    <string name="native_2c7251cce661" formatted="false">Tryk på den flydende knap for at skifte side. Træk den for at flytte den.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime-oplysninger vises her efter opstart.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Åben Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Bundet APK-version</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode-opdateringer</string>
+    <string name="native_36ab16248f65" formatted="false">Importer en .ocaupdate underskrevet af denne apps udgiver. Den officielle frontend og backend opdateres sammen.</string>
+    <string name="native_8aad48b0508d" formatted="false">Opdateringskilde (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Tjek opdateringskilden</string>
+    <string name="native_f73973cfadbb">Signeret udgivelse: %1$s\nForpligtelse: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Download og bekræft</string>
+    <string name="native_f2ef7965bf12" formatted="false">Vælg opdateringspakke</string>
+    <string name="native_165111adfe2c">Klar til installation: %1$s\nForpligtelse: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Installer denne opdatering</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Gendan versionen og sessionerne fra før opdateringen</string>
+    <string name="native_6864335de653" formatted="false">Annuller opdatering</string>
+    <string name="native_5e3472cf084e" formatted="false">Installer OpenCode-opdatering?</string>
+    <string name="native_816bf3635d53" formatted="false">Gendan tilstanden fra før opdateringen?</string>
+    <string name="native_11beb4a42abc">Installer %1$s. Appen gemmer et sessionssnapshot, tjekker det signerede program og gendanner den tidligere version, hvis det mislykkes. Projektfiler bevares.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessioner vender tilbage til deres tilstand før denne opdatering. Nyere sessioner forbliver i en privat backup. Projektfiler bevares.</string>
+    <string name="native_def5e273616d" formatted="false">Bekræft installationen</string>
+    <string name="native_369d2eefccde" formatted="false">Kunne ikke isolere forhåndsvisningsbrowserdata. Åbn forhåndsvisningen igen.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Kunne ikke indlæse projektsiden. Tjek udviklingsserveren i din terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">Forhåndsvisning af projektets hjemmeside</string>
+    <string name="native_bfb4951e071d" formatted="false">Projekteksempel</string>
+    <string name="native_f80652913d06" formatted="false">Start en udviklingsserver i terminalen, og indtast derefter dens lokale port. Preview-browserdata er isoleret fra OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Indtast en udviklingsport fra 1024 til 65535, undtagen OpenCode og desktop-tjenester.</string>
+    <string name="native_7311a9dfea51" formatted="false">Intet lytter på denne port. Tjek tjenesten i din terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">Tjekker...</string>
+    <string name="native_4923c272b68e" formatted="false">Udviklingsporten skal være et heltal</string>
+    <string name="native_04a87026e81f" formatted="false">Vælg en gyldig projektudviklingsport</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode-udviklingssession</string>
+    <string name="native_e87a4529ab82" formatted="false">Installation af udviklingsmiljø</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian-opdatering</string>
+    <string name="native_0c6301bc295d" formatted="false">Udviklingsmiljø reparation</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Udviklingsmiljøtjek</string>
+    <string name="native_9612d4419bb6" formatted="false">Sprogserverinstallation</string>
+    <string name="native_f72fba77f87a" formatted="false">Miljøgendannelse</string>
+    <string name="native_7c8162195c7c" formatted="false">Desktop installation</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Den forrige kørsel blev afbrudt. Genstart eksplicit fra Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">En udviklingsopgave af denne type kører stadig</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Reparerer aktivitetsposten</string>
+    <string name="native_b66749ed72ea" formatted="false">Processen afsluttet</string>
+    <string name="native_6b25042064e2" formatted="false">Afsluttet af signal</string>
+    <string name="native_d6febdf1752b" formatted="false">Genvundet på grund af lav hukommelse</string>
+    <string name="native_1d13790f3c89" formatted="false">App-nedbrud</string>
+    <string name="native_28db94d1850d" formatted="false">Native procesnedbrud</string>
+    <string name="native_86919539f7f1" formatted="false">App svarer ikke</string>
+    <string name="native_90fb8d6098a5" formatted="false">Initialisering mislykkedes</string>
+    <string name="native_38c60ab6654c" formatted="false">Tilladelser ændret</string>
+    <string name="native_6d2a6c71334d" formatted="false">Ressourcegrænse</string>
+    <string name="native_19b2090b01a8" formatted="false">Brugeren anmodede om stop</string>
+    <string name="native_120d96445f1a" formatted="false">Stoppet af bruger</string>
+    <string name="native_3c8af14f66bc" formatted="false">Afhængig proces afsluttet</string>
+    <string name="native_ca0941ce04ae" formatted="false">Anden systemårsag</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Procesfrysning</string>
+    <string name="native_0d48373023a8" formatted="false">App-tilstand ændret</string>
+    <string name="native_c752307db26b" formatted="false">App-opdatering</string>
+    <string name="native_b5015951cbdf" formatted="false">Systemet gav ikke en afslutningsårsag</string>
+    <string name="native_b62737b826ad">Systemafslutning (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Kunne ikke åbne projektmappen</string>
+    <string name="native_faf5d983c13e" formatted="false">Kunne ikke oprette en OpenCode-session</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode-sessionsmappe stemmer ikke overens</string>
+    <string name="native_ac19736908a2" formatted="false">Kunne ikke læse OpenCode-sessionen</string>
+    <string name="native_2642997cfeec" formatted="false">Miljøvedligeholdelse</string>
+    <string name="native_f992d735d932" formatted="false">Stop OpenCode, terminaler og Debian-skrivebordet, og vent derefter på, at filhandlingerne er færdige</string>
+    <string name="native_489f137f1080" formatted="false">Miljøvedligeholdelseslåsen er ikke længere gyldig</string>
+    <string name="native_42380e2567fc" formatted="false">Afbrudt operation genoprettet. Åbn arbejdsområdet igen.</string>
+    <string name="native_17b00cac2b91" formatted="false">Gendannelse af lokal forbindelse mislykkedes. Prøv igen fra Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Miljøvedligeholdelse er i gang. Prøv igen senere.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Stop Debian-skrivebordet, før du opdaterer udviklingsmiljøet</string>
+    <string name="native_548085b144c9" formatted="false">Afbrudt operation genoprettet. Du kan starte udviklingsmiljøet.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Den forrige kørsel blev afbrudt. Terminalkommandoer afspilles ikke automatisk. Genstart eksplicit fra Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Oprydning af midlertidig forbindelseskonfiguration er ufuldstændig. Procesoprydning fortsatte.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Kunne ikke oprette helloworld-arbejdsområdet. Tjek biblioteket og ledig plads.</string>
+    <string name="native_68301868225a" formatted="false">Den tidligere arbejdsområdemappe er ikke tilgængelig. Åbnede helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Standardprojektet er ikke klar endnu. Prøv igen fra filer.</string>
+    <string name="native_45d6ab452622" formatted="false">Installer sprogservere</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ og Python sprogservere er klar. Start OpenCode for at bruge LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Terminalaktivitetsposten blev ikke gemt. Opret en ny terminal efter procesafslutning.</string>
+    <string name="native_1978b311a9ff" formatted="false">Kunne ikke afslutte lagringen af ​​terminaludgangsposten.\nDownload</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode-opdatering</string>
+    <string name="native_06f76cca8fb9" formatted="false">Opretter forbindelse til opdateringskilden...</string>
+    <string name="native_8c39baf28e08" formatted="false">Kan ikke oprette forbindelse til opdateringskilden. Tjek netværket, udgiversignatur, værtsversion og ledig plads.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Download timeout</string>
+    <string name="native_f75850093535">Downloader: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Bekræfter udgiversignatur...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Downloader opdateringspakke...</string>
+    <string name="native_2f9cd52dc66a">Gyldig udgiversignatur: %1$s. Gennemgå før download.</string>
+    <string name="native_17548865632c" formatted="false">Download, frigiv metadata og pakkesignatur verificeret. Bekræft installationen.</string>
+    <string name="native_180cec958e7a" formatted="false">Download annulleret. Original version bibeholdt.</string>
+    <string name="native_8df045f8ac12" formatted="false">Download stoppet. Original version bibeholdt.</string>
+    <string name="native_778803f1c6bb" formatted="false">Annuller download</string>
+    <string name="native_2958898ce6f4" formatted="false">Den nye version mislykkedes lokal opstart, versions- eller godkendelseskontrol. Den tidligere version vil blive gendannet.</string>
+    <string name="native_cc876dfbb261" formatted="false">Prøveprocessen afsluttes stadig. Vent på gendannelse, før du prøver igen.</string>
+    <string name="native_adf977dcb47e" formatted="false">Ugyldig opdateringsregistrerings-id</string>
+    <string name="native_5207cac670b7" formatted="false">Installeret selvstændig OpenCode-størrelse stemmer ikke overens</string>
+    <string name="native_cf5b81887589" formatted="false">Installeret selvstændig OpenCode kontrolsum stemmer ikke overens. Gendan den tidligere version.</string>
+    <string name="native_393049b506cc" formatted="false">Det originale program har ingen matchende udgiverbevis. Tidligere tilstand uændret.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Gendan den tidligere afbrudte opdatering først</string>
+    <string name="native_91d8da5525fa" formatted="false">Opdateringspakken blev ændret efter bekræftelse</string>
+    <string name="native_093f2c091a30" formatted="false">Utilstrækkelig lagerplads. Original version uændret.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Ingen opdateringssikkerhedskopi er tilgængelig at gendanne</string>
+    <string name="native_a9f4d9903c14" formatted="false">Sikkerhedskopien stemmer ikke overens med den kørende version</string>
+    <string name="native_6caa23763a42" formatted="false">Tidligere programverifikation mislykkedes. Nuværende sessioner uændret.</string>
+    <string name="native_c8b71b876695" formatted="false">En senere APK- eller Debian-opdatering erstattede det medfølgende program. Den originale sessionssikkerhedskopi bevares; gendan først det tilsvarende program.</string>
+    <string name="native_c443df40964b" formatted="false">Ugyldig gendannelse af opdatering</string>
+    <string name="native_9071f05d58b3" formatted="false">Forbereder OpenCode-opdatering...</string>
+    <string name="native_2968d4dfdc70" formatted="false">Stop OpenCode, terminaler og skrivebordet, og vent derefter på, at de afsluttes.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Lagringstilstand, verificering af programmer og skift af versioner</string>
+    <string name="native_5fc065ef6f50" formatted="false">Kunne ikke starte opdateringsvedligeholdelsestjenesten.</string>
+    <string name="native_f7b560c8c820" formatted="false">Bekræfter og iscenesætter det officielle program...</string>
+    <string name="native_9606191c82dc" formatted="false">Bevarer det originale program og udgiversignatur...</string>
+    <string name="native_5c0d7787ee51" formatted="false">Gemmer snapshot af sessionstilstand...</string>
+    <string name="native_0c8cf4632889" formatted="false">Skifter versioner og verificerer den lokale service...</string>
+    <string name="native_3e81ea691a4a" formatted="false">Gendannelse af version og sessioner fra før opdateringen...</string>
+    <string name="native_856de41d3bf3" formatted="false">Gendannelse af OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Opdatering af OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Gendannet den tidligere version og sessioner. Nyere sessioner forbliver i en privat backup.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode-opdatering fuldført. Startup vil bruge den matchende officielle frontend og backend.</string>
+    <string name="native_4693930f5802" formatted="false">Opdatering annulleret. Bekræfter, at den oprindelige tilstand er blevet gendannet.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Opdatering ufuldstændig. Restituerer nu; originale program og session backups bevares.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Gendannelse er ufuldstændig. Alle statsfortegnelser bibeholdes. Behold dine data, og prøv genstart for at gendanne.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Gendannelse af session fuldført. Nyere tilstand forbliver i en backup.</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery kunne ikke fortsætte med denne backup eller originale program. Aktuelle sessioner og backups uændret.</string>
+    <string name="native_976d8c169cfa" formatted="false">Opdatering annulleret eller mislykkedes. Original version og sessioner gendannet.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Bekræfter opdateringspakkens signatur og integritet...</string>
+    <string name="native_0aa018b7337b" formatted="false">Kan ikke læse den valgte fil</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Opdateringspakken er for stor</string>
+    <string name="native_f068b83f40bf" formatted="false">Signatur og pakke verificeret. Gennemgå versionen før installation.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Kan ikke importere: ugyldig fil, signatur uoverensstemmelse, inkompatibel værtsversion eller utilstrækkelig lagerplads.</string>
+    <string name="native_616412e65df4" formatted="false">Det officielle program matcher ikke dets udgiverbevis</string>
+    <string name="native_4bf19a158f27" formatted="false">Standalone runtime-pakker understøtter kun ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Opdateringssignaturen tilhører ikke denne APK</string>
+    <string name="native_c7273354727f" formatted="false">Opdateringsfilen overskrider dens deklarerede størrelse</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Kontrolsum for opdateringsprogram stemmer ikke overens</string>
+    <string name="native_dd619076d456" formatted="false">Ugyldig opdateringspakkestørrelse</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Størrelsen på den komprimerede opdateringspakke stemmer ikke overens</string>
+    <string name="native_1de24edffcf5" formatted="false">Opdateringspakken indeholder ekstra poster</string>
+    <string name="native_c5b339aa77e8" formatted="false">Inkompatibel opdateringsoprindelse eller arkitektur</string>
+    <string name="native_89d585f3661f" formatted="false">Opgrader Android-appen, før du installerer denne opdatering</string>
+    <string name="native_800df084dea0" formatted="false">Opdatering af arkivkontrolsum stemmer ikke overens</string>
+    <string name="native_ddf1a005e310" formatted="false">Dette APK-signeringsformat understøtter ikke selvstændige runtime-opdateringer</string>
+    <string name="native_172e063db474" formatted="false">Ugyldig opdateringspakkepost</string>
+    <string name="native_1c08780aa99f" formatted="false">Opdateringsmetadata skal bruge heltal</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Opdateringsprogrammet er ikke en 64-bit Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Opdateringsprogrammet opfylder ikke 16 KiB ELF-justering</string>
+    <string name="native_3afa3741911b" formatted="false">Opdateringsprogrammet mangler Debian glibc loader</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Indtast en gyldig HTTPS-opdateringskilde</string>
+    <string name="native_c274c7dd5900" formatted="false">Opdateringskilder kræver HTTPS-URL\'er uden brugerlegitimationsoplysninger</string>
+    <string name="native_f459f5ec9dac" formatted="false">Ugyldigt opdateringskildefelt</string>
+    <string name="native_bde2a736e30a" formatted="false">Opgrader Android-værten først</string>
+    <string name="native_b980fd021bef" formatted="false">Ugyldig opdateringsmappe</string>
+    <string name="native_c0e96727553e" formatted="false">Ugyldig opdateringsfil</string>
+    <string name="native_86ff542c68ed" formatted="false">Kan ikke skifte opdateringsmapper i denne tilstand</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Sessionstilstand refererer til en ekstern mappe. Opdateringen kan ikke testes sikkert.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Utilstrækkelig lagerplads. Oprindelig tilstand uændret.</string>
+    <string name="native_099801d672b1" formatted="false">Download annulleret</string>
+    <string name="native_f1304f707ec9" formatted="false">For mange opdateringsomdirigeringer</string>
+    <string name="native_0d07f458b607" formatted="false">Opdateringsserveren overførte ikke de originale bytes</string>
+    <string name="native_de331dfd8908" formatted="false">Opdateringsfillængden stemmer ikke overens</string>
+    <string name="native_416b8c87e69e" formatted="false">Opdateringsfilen blev ikke downloadet fuldstændigt</string>
+    <string name="native_e1e74b76c427" formatted="false">Opdateringsserveren returnerede ikke hele filen</string>
+    <string name="native_6afcf03cb130" formatted="false">Utilstrækkelig opdateringsplads</string>
+    <string name="native_be1c695d9241" formatted="false">Opdateringsfil SHA-256 stemmer ikke overens</string>
+    <string name="native_a0133d117bb0" formatted="false">Opdateringspakken matcher ikke de bekræftede udgivelsesoplysninger</string>
+    <string name="native_8635a43ce28a" formatted="false">Ugyldig projektmappe</string>
+    <string name="native_d32ab8b004e6" formatted="false">Kunne ikke gemme arbejdsområdets placering</string>
+    <string name="native_43a5447014fd" formatted="false">Start udviklingsmiljøet fra Runtime, før du åbner en terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Ny terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Luk strøm</string>
+    <string name="native_0e822affd5da">Indledende mappe: %1$s</string>
+    <string name="native_72d769e3888d">Ny terminalmappe: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Systemfilvælger er ikke tilgængelig</string>
+    <string name="native_179a57921f91" formatted="false">WebView-gengivelsesindstillinger</string>
+    <string name="native_3024ec603eb7" formatted="false">Gengivelsesbilledhastighed</string>
+    <string name="native_55b6d7f645f3" formatted="false">Foretrækker 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Følg skærmens opdateringshastighed</string>
+    <string name="native_d4ecf38c341d" formatted="false">Foretrækker 60 Hz for at reducere gengivelsesbelastningen på skærme med høj opdateringshastighed. Efter displayet kan systemet planlægge rammer. Gælder kun for denne apps vindue.</string>
+    <string name="native_bf0d3a407418" formatted="false">Ikke installeret</string>
+    <string name="native_2fb8edc75b25" formatted="false">Klar</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Verificerende læsser</string>
+    <string name="native_d1017c1eac80" formatted="false">Installerer Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Lokalt udviklingsmiljø</string>
+    <string name="native_55aa84065de2" formatted="false">Lokal Debian-udviklingssession</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop</string>
+    <string name="native_5f73a4e1e494" formatted="false">installeret</string>
+    <string name="native_147e90d2ec02" formatted="false">Gendannelse</string>
+</resources>

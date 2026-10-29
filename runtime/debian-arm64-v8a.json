@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "abi": "arm64-v8a",
+  "suite": "trixie",
+  "archive": "debian.pack",
+  "sha256": "ddc0c1e36a6793411b6c8d48e1ddad2987405d377da92bcf532ed3181c2e4d62",
+  "minimumFreeBytes": 536870912,
+  "source": "https://github.com/debuerreotype/docker-debian-artifacts/tree/9c4818e3bfd35139d3798b0420e9c46836658b2e/trixie/slim",
+  "imageManifestDigest": "sha256:a66b19aa552f595b4ab276c6b4f9b24fa4546632c5ecd88cccdced4a6866323a"
+}

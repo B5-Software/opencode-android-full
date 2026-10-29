@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Espai de treball de desenvolupament</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + escriptori</string>
+    <string name="native_7f1c02616d60" formatted="false">Pàgina única</string>
+    <string name="native_651ae6ea52ae" formatted="false">Restaura la vista dividida</string>
+    <string name="native_d7e97cfac66f" formatted="false">Disseny de l\'espai de treball</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Amplieu la finestra per veure diversos panells junts.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Mostra els fitxers del projecte</string>
+    <string name="native_712d956931d1" formatted="false">Mostra el terminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal a continuació</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal a la dreta</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Els panells s\'enfonsen quan l\'espai és limitat i es mantenen accessibles des del menú flotant. El terminal lateral apareix en finestres més amples. Arrossegueu els divisors per canviar la mida dels panells.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt esquerra: 1–5 pàgines · Fitxers B · Terminal T · Escriptori M · Introduïu únic/Divisió · \\\\ Disseny</string>
+    <string name="native_7a129a94c6ff" formatted="false">Fet</string>
+    <string name="native_bcec2218fc21" formatted="false">Restableix les proporcions</string>
+    <string name="native_da88c62d1217">Mostra %1$s en una sola pàgina</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Divisor de fitxers de projecte</string>
+    <string name="native_707c0891a0e6" formatted="false">Divisor de terminals</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode i divisor d\'escriptori</string>
+    <string name="native_50407ad8dfa8" formatted="false">Redueix el panell anterior</string>
+    <string name="native_b72c5c02a666" formatted="false">Ampliar el panell anterior</string>
+    <string name="native_3f3685e8d731" formatted="false">Massa enllaços PRoot per a aquest format d\'arxiu\nEls enllaços durs</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux requereixen un rootfs complet</string>
+    <string name="native_f336f1e17596" formatted="false">La nidificació del directori de còpia de seguretat és massa profunda</string>
+    <string name="native_b6f744737a45" formatted="false">Longitud de contrasenya de còpia de seguretat no vàlida</string>
+    <string name="native_13bde5dd1812" formatted="false">La contrasenya de còpia de seguretat ha de contenir almenys 12 caràcters</string>
+    <string name="native_be02cbd55932" formatted="false">Format de còpia de seguretat no compatible</string>
+    <string name="native_7a91a3d586ae" formatted="false">Capçalera de còpia de seguretat no vàlida</string>
+    <string name="native_2bbd318a5667" formatted="false">Paràmetres de xifratge de còpia de seguretat no compatibles</string>
+    <string name="native_18868da27841" formatted="false">Contrasenya de còpia de seguretat incorrecta o fitxer danyat</string>
+    <string name="native_e41d6440468d" formatted="false">El registre de recuperació és massa gran</string>
+    <string name="native_282692502f14" formatted="false">Les metadades de còpia de seguretat són massa grans</string>
+    <string name="native_61fdca8d6c82" formatted="false">La nidificació de metadades de còpia de seguretat és massa profunda</string>
+    <string name="native_8cefb30732d4" formatted="false">Metadades de còpia de seguretat no vàlides</string>
+    <string name="native_5d3037708cad" formatted="false">Configuració nativa no compatible</string>
+    <string name="native_81a57c382f9d" formatted="false">No s\'han pogut desar la configuració nativa</string>
+    <string name="native_50603e683d4a" formatted="false">Directori principal no vàlid al camí de seguretat</string>
+    <string name="native_c3f838a46b8e" formatted="false">L\'arrel de l\'estació de treball no ha de ser un enllaç simbòlic</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Un fitxer canviat durant la còpia de seguretat</string>
+    <string name="native_77e1e85147db" formatted="false">Format de dades de l\'estació de treball no compatible</string>
+    <string name="native_a927b5a565af" formatted="false">La còpia de seguretat conté dades addicionals</string>
+    <string name="native_c2b886d508f2" formatted="false">La còpia de seguretat conté camins duplicats</string>
+    <string name="native_3dab8cd60102" formatted="false">La còpia de seguretat conté paràmetres d\'execució que no es poden migrar</string>
+    <string name="native_f45ba674a630" formatted="false">La còpia de seguretat és massa gran o l\'emmagatzematge és insuficient</string>
+    <string name="native_140073e8e77b" formatted="false">No s\'han pogut restaurar les marques de temps dels enllaços simbòlics</string>
+    <string name="native_b0d411aaf62c" formatted="false">No s\'han pogut restaurar les marques de temps de canalització amb nom</string>
+    <string name="native_0daee8026db1" formatted="false">Còpia de seguretat i restauració de l\'estació de treball</string>
+    <string name="native_1acc18928c5f" formatted="false">Inclou Debian, eines de desenvolupament, projectes, inici, sessions i paràmetres d\'OpenCode, dades del navegador Linux i paràmetres de disseny natiu.</string>
+    <string name="native_62254d31a535" formatted="false">S\'exclouen els fitxers temporals i les còpies de seguretat antigues. L\'emmagatzematge d\'Android WebView i els esborranys no enviats romanen en aquest dispositiu i no es transfereixen amb aquesta còpia de seguretat.</string>
+    <string name="native_808eabc7811f" formatted="false">Crea una còpia de seguretat xifrada</string>
+    <string name="native_201c10b38296" formatted="false">Importa còpia de seguretat</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Deseu primer els canvis a l\'editor de fitxers.</string>
+    <string name="native_0559cd596453" formatted="false">Atura OpenCode, terminals i escriptori</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Una operació d\'entorn està incompleta. Primer recupera-ho.</string>
+    <string name="native_185f58156330" formatted="false">Recuperar l\'operació incompleta</string>
+    <string name="native_20831b6f67a7" formatted="false">Desfer l\'última restauració de l\'entorn</string>
+    <string name="native_4f392d5d6141">Còpia local xifrada: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Desa al fitxer</string>
+    <string name="native_f09619351eb9" formatted="false">Suprimeix la còpia local</string>
+    <string name="native_85c686eb9841">S\'ha processat %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Cancel·la la tasca de còpia de seguretat</string>
+    <string name="native_66c9d896407b" formatted="false">Xifra la còpia de seguretat de l\'estació de treball</string>
+    <string name="native_548cd9f0831e" formatted="false">Desxifrar i verificar la còpia de seguretat\nLes còpies de seguretat</string>
+    <string name="native_d248f5eca9a5" formatted="false">poden contenir claus privades SSH, claus API i dades del compte. Utilitzeu almenys 12 caràcters. No es pot recuperar una contrasenya oblidada.</string>
+    <string name="native_f249422b9ec1" formatted="false">La còpia de seguretat es desxifra i es verifica en un directori privat. El vostre entorn només es substituirà després de confirmar la restauració.</string>
+    <string name="native_e7be6841703a" formatted="false">Contrasenya de còpia de seguretat</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Repetiu la contrasenya</string>
+    <string name="native_eafdc5cd4882" formatted="false">Inicieu l\'encriptació</string>
+    <string name="native_2986b88beade" formatted="false">Desxifrar i verificar</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Cancel·la</string>
+    <string name="native_f46c5ed7412d" formatted="false">Restaurar tot l\'entorn anterior?</string>
+    <string name="native_33eda0946a5b" formatted="false">Voleu suprimir la còpia local xifrada?</string>
+    <string name="native_26db24150f2e" formatted="false">Els projectes, casa, Debian i sessions tornaran al seu estat abans de l\'última restauració. Els treballs més recents romandran en una còpia de seguretat privada dins de l\'aplicació.</string>
+    <string name="native_1153b30d51d5" formatted="false">Només s\'elimina la còpia local xifrada dins de l\'aplicació. Els fitxers desats en altres llocs romanen disponibles.</string>
+    <string name="native_427a78a4e69a" formatted="false">Confirmeu</string>
+    <string name="native_7af46d7ee003" formatted="false">Voleu restaurar la còpia de seguretat d\'aquesta estació de treball?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s entrades · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">La còpia de seguretat conté programari Linux executable. Confirmeu que confieu en la seva font. La restauració substitueix tot l\'entorn i controla els serveis locals; l\'entorn anterior es manté per a la recuperació.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Còpia de seguretat verificada. Esperant la confirmació de la restauració.</string>
+    <string name="native_97076078c749" formatted="false">Activeu també el mode de compatibilitat de Chromium (desactiva la zona de proves del procés de Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Desactivat per defecte. Podeu activar-lo més endavant a la configuració de l\'escriptori.</string>
+    <string name="native_ddf09383413c" formatted="false">Confirmeu la restauració</string>
+    <string name="native_8e6056b0f629" formatted="false">Cancel·la la importació</string>
+    <string name="native_63a895901c76" formatted="false">L\'entorn de l\'estació de treball ha canviat</string>
+    <string name="native_a4c994348a39" formatted="false">Torna a obrir l\'espai de treball</string>
+    <string name="native_774947f0653e" formatted="false">Cancel·la la tasca</string>
+    <string name="native_e09a22b18445" formatted="false">La tasca s\'ha interromput. Torneu a seleccionar una operació i introduïu la contrasenya.</string>
+    <string name="native_38c5fcc634db" formatted="false">Deseu primer les edicions de fitxers a totes les finestres. Cancel·la una importació existent abans de tornar-ho a provar.</string>
+    <string name="native_029bfa8ff772" formatted="false">Restauració de l\'estació de treball i verificació de programes</string>
+    <string name="native_e4f04df818f8" formatted="false">S\'està processant l\'operació de còpia de seguretat seleccionada</string>
+    <string name="native_8206f072d5ee" formatted="false">Atureu OpenCode, terminals i escriptori i, a continuació, espereu que finalitzin les operacions amb els fitxers.</string>
+    <string name="native_1a5cde18c609" formatted="false">No s\'ha pogut iniciar la tasca de còpia de seguretat. Torna-ho a provar amb l\'aplicació en primer pla.</string>
+    <string name="native_1553b714941d" formatted="false">Desxifrar i verificar la còpia de seguretat. L\'entorn original segueix sent recuperable...</string>
+    <string name="native_dafd005e953e" formatted="false">Còpia de seguretat verificada. Confirmeu la restauració a l\'aplicació.</string>
+    <string name="native_9fb236184596" formatted="false">S\'ha suprimit la còpia local xifrada dins de l\'aplicació.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operació cancel·lada. Es conserven les dades de l\'entorn original.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operació incompleta. Comproveu la contrasenya, la integritat de la còpia de seguretat, la versió de l\'amfitrió i l\'espai lliure. Es conserven les dades de l\'entorn original.</string>
+    <string name="native_29deabd28960" formatted="false">S\'està creant una còpia de seguretat de l\'estació de treball xifrada...</string>
+    <string name="native_3d137e243806" formatted="false">S\'ha creat una còpia de seguretat xifrada. Tria on desar-lo.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Restauració de l\'entorn i comprovació dels serveis locals. Manteniu les dades de l\'aplicació intactes...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">S\'ha restaurat l\'estació de treball. L\'entorn anterior es manté en una còpia de seguretat privada. Torneu a obrir l\'espai de treball.</string>
+    <string name="native_0392cd6152d2" formatted="false">Les comprovacions de restauració han fallat. Tornada a l\'entorn anterior; les dades importades romanen en una còpia de seguretat privada.</string>
+    <string name="native_5dc7410b600e" formatted="false">La restauració està incompleta. Es conserven tots els directoris de dades. Conserveu les dades de l\'aplicació i torneu a intentar la recuperació.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">S\'està restaurant l\'entorn de l\'estació de treball anterior...</string>
+    <string name="native_15821323ff89" formatted="false">Entorn anterior restaurat. El treball més recent es manté en una còpia de seguretat privada. Torneu a obrir l\'espai de treball.</string>
+    <string name="native_56dd94f47870" formatted="false">No es pot desfer aquesta restauració. Entorn actual i còpies de seguretat conservades.</string>
+    <string name="native_93530f3fa029" formatted="false">Desfer està incomplet. Es conserven tots els directoris de dades. Conserveu les dades de l\'aplicació i torneu a intentar la recuperació.</string>
+    <string name="native_f12963c80def" formatted="false">S\'està desant una còpia de seguretat xifrada...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Còpia de seguretat xifrada desada. Podeu tornar a desar la còpia local o suprimir-la manualment.</string>
+    <string name="native_d660cccf65e0" formatted="false">S\'està netejant una importació no confirmada...</string>
+    <string name="native_800592163979" formatted="false">Importació cancel·lada. Entorn original sense canvis.</string>
+    <string name="native_5a90367eb834" formatted="false">Importació cancel·lada. Entorn original sense canvis; algunes dades d\'importació temporal romanen al directori privat de l\'aplicació.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">S\'està preparant el desxifrat i la verificació...</string>
+    <string name="native_e9f2bea3118c" formatted="false">S\'està preparant la còpia de seguretat xifrada...</string>
+    <string name="native_7bd5a0c93818" formatted="false">No s\'ha pogut iniciar el servei de còpia de seguretat. Torna-ho a provar en primer pla.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Recupereu primer l\'operació d\'entorn incompleta</string>
+    <string name="native_f14aea7c819c" formatted="false">Registre de recuperació no vàlid</string>
+    <string name="native_7c284c55ee08" formatted="false">Falta el directori de recuperació</string>
+    <string name="native_bfc4792df15b" formatted="false">La configuració nativa supera el límit del registre de recuperació</string>
+    <string name="native_8d93770ba8c9">Falta el directori d\'entorn anterior: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Etapa de recuperació desconeguda</string>
+    <string name="native_20c5124fe175" formatted="false">Operació de recuperació desconeguda</string>
+    <string name="native_1c457322b624" formatted="false">No hi ha cap entorn anterior disponible per restaurar</string>
+    <string name="native_30db1666c8e5" formatted="false">Aquesta còpia de seguretat pertany a una aplicació diferent</string>
+    <string name="native_6687d1c64d75" formatted="false">L\'arquitectura del processador de còpia de seguretat no coincideix</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Actualitzeu primer l\'amfitrió d\'Android a la versió utilitzada per aquesta còpia de seguretat</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">El directori de còpia de seguretat està incomplet</string>
+    <string name="native_66106ab3e254" formatted="false">La còpia de seguretat antiga no té cap prova de l\'editor d\'OpenCode verificable. Inicieu l\'entorn original amb aquest amfitrió abans de tornar-ne a fer una còpia de seguretat.</string>
+    <string name="native_bec13cc92982" formatted="false">Accions del sistema de l\'entorn de desenvolupament</string>
+    <string name="native_65de80229626" formatted="false">Debian ha sol·licitat una acció del sistema</string>
+    <string name="native_5e38581cf19c" formatted="false">Toqueu per revisar i gestionar la sol·licitud</string>
+    <string name="native_749d406d2c67" formatted="false">Des de l\'entorn de desenvolupament Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Obre el navegador del sistema?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Obre una vista prèvia del projecte local?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Llegeix el porta-retalls?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Voleu copiar al porta-retalls del sistema?</string>
+    <string name="native_77f761eb70aa" formatted="false">Envieu una notificació local?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Compartir un fitxer de projecte?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Importar fitxers del sistema?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Exportar un fitxer de projecte?</string>
+    <string name="native_7ac295421c6d" formatted="false">Obre al navegador</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Obre la vista prèvia</string>
+    <string name="native_14792d6cd7a6" formatted="false">Permet la lectura</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Copia al porta-retalls</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Enviar notificació</string>
+    <string name="native_88152a09fa02" formatted="false">Trieu una aplicació per compartir</string>
+    <string name="native_7a49a79c57f9" formatted="false">Trieu fitxers</string>
+    <string name="native_99d9f87419c5" formatted="false">Trieu on voleu desar</string>
+    <string name="native_23e5bb2090aa">%1$s\nS\'obre amb les dades del navegador aïllades d\'OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Doneu text del porta-retalls del sistema al programa Debian actual.</string>
+    <string name="native_dcc6bec24e43">Trieu fitxers per importar a %1$s. Els fitxers existents es conserven i els duplicats es canvien de nom.</string>
+    <string name="native_efdb26088f68" formatted="false">Mode de navegador Chromium\nEl mode de compatibilitat</string>
+    <string name="native_4767f37900f6" formatted="false">utilitza un perfil de navegador independent i desactiva la caixa de proves del procés Linux de Chromium. El navegador encara pot accedir als fitxers d\'aquesta aplicació. Eviteu llocs web no fiables i utilitzeu el navegador del sistema Android per a comptes importants. Torneu a obrir Chromium després de canviar de mode.</string>
+    <string name="native_a4317f2699a2" formatted="false">El sandbox estàndard de Linux està habilitat per defecte. Si Chromium no pot iniciar-se, podeu seleccionar el mode de compatibilitat. Desactiva la caixa de proves del procés de Linux i utilitza un perfil independent, alhora que conserva l\'accés als fitxers de l\'aplicació. Eviteu llocs web no fiables; utilitzeu el navegador del sistema Android per a comptes importants.</string>
+    <string name="native_3a2596fa9517" formatted="false">Restaura el mode estàndard</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Activa el mode de compatibilitat</string>
+    <string name="native_9a45442649f5" formatted="false">Escriptori Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Compartit /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">La primera instal·lació descarrega components gràfics. Després de la instal·lació, l\'escriptori es pot iniciar i aturar independentment d\'OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">Mirall USTC</string>
+    <string name="native_41e865941e16" formatted="false">Mirall oficial de Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Resolució inicial</string>
+    <string name="native_ff1cde9ba35d" formatted="false">L\'escriptori continua funcionant quan canvieu de pàgina. Atureu-lo des del temps d\'execució.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Atura la tasca d\'escriptori</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Inicia l\'escriptori</string>
+    <string name="native_ea27a25e5114" formatted="false">Instal·leu components d\'escriptori</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: mode de compatibilitat</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: mode estàndard</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Instal·leu primer les eines de desenvolupament de Debian des de Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Registre d\'activitat</string>
+    <string name="native_bfaa904aa4d4" formatted="false">No s\'ha pogut obrir la carpeta del projecte. Comproveu que el directori existeix.</string>
+    <string name="native_83c76743b29d" formatted="false">Recuperació de l\'operació de l\'entorn interrompuda</string>
+    <string name="native_739a730ae247" formatted="false">Manteniment del medi ambient</string>
+    <string name="native_049281329843" formatted="false">Espereu que el manteniment de l\'actualització o la tasca actual finalitzi.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Espereu que finalitzi la tasca actual de l\'entorn de desenvolupament</string>
+    <string name="native_83099168971c" formatted="false">Instal·lació d\'escriptori</string>
+    <string name="native_85e0c18dde8d" formatted="false">S\'està iniciant l\'escriptori</string>
+    <string name="native_9a48f8196d8f" formatted="false">Necessita atenció</string>
+    <string name="native_75470fb13121" formatted="false">Aturat</string>
+    <string name="native_51a53c8109d5" formatted="false">No es pot llegir ni desar el registre d\'activitat. Repareu-lo des del temps d\'execució o allibereu una mica d\'emmagatzematge.</string>
+    <string name="native_d36a018cc619" formatted="false">Instal·leu primer l\'entorn de desenvolupament de Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Connecteu-vos primer a una xarxa\nLa instal·lació de l\'escriptori</string>
+    <string name="native_a065d81014b1" formatted="false">està incompleta. Torneu a provar la instal·lació.</string>
+    <string name="native_721c38b32c35" formatted="false">Escriptori instal·lat. Començar-lo quan sigui necessari.</string>
+    <string name="native_6c1c52771115" formatted="false">Instal·leu primer els components de l\'escriptori</string>
+    <string name="native_693d90a47827" formatted="false">L\'operació de l\'escriptori ha fallat. Els detalls són massa llargs o no estan disponibles.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">No s\'ha pogut acabar de desar el marcador de parada. La neteja del procés ha continuat.</string>
+    <string name="native_06083621a6ce" formatted="false">No s\'ha pogut acabar de desar el registre d\'activitat. El proper llançament tractarà això com una interrupció.</string>
+    <string name="native_04d721a3819a" formatted="false">Escriptori en funcionament</string>
+    <string name="native_c3f0acaf7a73" formatted="false">L\'operació de l\'escriptori s\'ha esgotat. Revisa el registre i torna-ho a provar.</string>
+    <string name="native_e70d328a3ca9">S\'ha sortit del procés d\'escriptori (%1$s). Reviseu el registre d\'activitats.</string>
+    <string name="native_df5c878f2852" formatted="false">Espai de treball gràfic local</string>
+    <string name="native_7b0455a8daa4" formatted="false">Atura l\'escriptori</string>
+    <string name="native_a62123cde9c7" formatted="false">Tasques interrompudes i recuperació</string>
+    <string name="native_279308947a14" formatted="false">No es pot llegir el registre d\'activitat. Repair guarda una còpia del registre danyat i conserva els projectes, les sessions i l\'entorn Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Registre d\'activitats de reparació</string>
+    <string name="native_6b43650c2c82" formatted="false">La tasca va acabar de manera inesperada.</string>
+    <string name="native_acb0c970aaa6">%1$s terminals no es tancaven normalment. Les seves ordres de funcionament es van interrompre.</string>
+    <string name="native_4ba153d8dff5" formatted="false">S\'ha confirmat el reinici. Les ordres anteriors no es van tornar a reproduir.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Es conserven els projectes i les sessions desats. Reobrir els terminals manualment; les ordres inacabades no es reprendran automàticament.</string>
+    <string name="native_fa9669296762" formatted="false">Reinicieu OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">L\'escriptori no es reiniciarà automàticament. Torna-ho a iniciar des de la pàgina d\'escriptori.</string>
+    <string name="native_644f8f44251f" formatted="false">Obre el fitxer</string>
+    <string name="native_9dfb5569d609" formatted="false">Compartir fitxer</string>
+    <string name="native_a4500cff3a86" formatted="false">El directori de treball no ha de ser un enllaç simbòlic</string>
+    <string name="native_8657d27661bd" formatted="false">Camí del directori de treball no vàlid</string>
+    <string name="native_02b702a9adff" formatted="false">Seleccioneu un fitxer</string>
+    <string name="native_924874b746cc" formatted="false">Gestionar enllaços simbòlics al terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Nom de fitxer no vàlid\nEl directori</string>
+    <string name="native_c4989dc37aab" formatted="false">no existeix</string>
+    <string name="native_d613dba39b44" formatted="false">El directori de destinació no existeix</string>
+    <string name="native_4f9b3fb4920b" formatted="false">No es pot col·locar una carpeta dins d\'ella mateixa o dels seus descendents</string>
+    <string name="native_c3acd5a3254c" formatted="false">El projecte conté dispositius o endolls especials i no es pot copiar</string>
+    <string name="native_6c36955b068b" formatted="false">Seleccioneu un fitxer normal</string>
+    <string name="native_49191d7d489f" formatted="false">Aquest fitxer supera els 2 MB. Editeu-lo amb OpenCode o el terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">El fitxer és massa gran</string>
+    <string name="native_f0a979f87157" formatted="false">Exporteu fitxers binaris per obrir-los en una altra aplicació</string>
+    <string name="native_88a9c82651fc" formatted="false">Editeu fitxers que no siguin UTF-8 amb OpenCode o el terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Una altra eina ha canviat aquest fitxer. Torneu-lo a obrir abans d\'editar-lo.</string>
+    <string name="native_0ce79256f4ac" formatted="false">El directori original ja no existeix. Restaura-ho primer.</string>
+    <string name="native_46eae321049e" formatted="false">No hi ha cap aplicació per compartir disponible</string>
+    <string name="native_87d699d3a26c" formatted="false">Paperera</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Fitxers del projecte</string>
+    <string name="native_4dcf914f0b64" formatted="false">Els fitxers suprimits es poden restaurar als seus directoris originals</string>
+    <string name="native_c5b81b02354f" formatted="false">Tornar</string>
+    <string name="native_e56b99379169">S\'han copiat %1$s fitxers · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">S\'està copiant...</string>
+    <string name="native_85199bb36b04" formatted="false">Cancel·la l\'operació</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Tancar</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Nova sessió</string>
+    <string name="native_23c250cc8e0b" formatted="false">Inicieu una sessió d\'OpenCode aquí\nTerminal</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Canvis no desats</string>
+    <string name="native_2266227605c4" formatted="false">Desa</string>
+    <string name="native_064fbc7ad3f3" formatted="false">La paperera està buida</string>
+    <string name="native_a9e739b13e52" formatted="false">Restaurar</string>
+    <string name="native_45985dc2183e" formatted="false">Moure:</string>
+    <string name="native_31214130b5b7" formatted="false">Còpia:</string>
+    <string name="native_07e5c3158f35" formatted="false">Pasta</string>
+    <string name="native_831b4e0fb574" formatted="false">Nou</string>
+    <string name="native_ff65a22d7087" formatted="false">Carpeta nova</string>
+    <string name="native_71faed44a86c" formatted="false">Fitxer nou</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importació</string>
+    <string name="native_d85825123e60" formatted="false">Actualització</string>
+    <string name="native_ac9d73843736" formatted="false">Cerca en aquest directori</string>
+    <string name="native_21eef82963ee" formatted="false">Aquest directori és buit. Importa fitxers o crea un projecte.</string>
+    <string name="native_e8a4cecaa371" formatted="false">No hi ha fitxers coincidents</string>
+    <string name="native_d674bc0f86b8" formatted="false">Accions del fitxer</string>
+    <string name="native_d04a47c87cc8" formatted="false">Enllaç simbòlic\nCarpeta</string>
+    <string name="native_e0ba66f5246a" formatted="false">Carpeta</string>
+    <string name="native_f170b42599e8" formatted="false">Canvia el nom</string>
+    <string name="native_4cdacf57ead2" formatted="false">Còpia</string>
+    <string name="native_124aa030694e" formatted="false">Mou a...</string>
+    <string name="native_ac990518ed87" formatted="false">Obriu el terminal aquí</string>
+    <string name="native_87bc93932d8a" formatted="false">Exporta als fitxers del sistema</string>
+    <string name="native_dd37f132172f" formatted="false">Mou a la paperera</string>
+    <string name="native_7318746d337c" formatted="false">Voleu moure\'s a la paperera?</string>
+    <string name="native_2b5ee3f10a56">Podeu restaurar “%1$s” des de la paperera.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Moure</string>
+    <string name="native_4e47aaa113fc" formatted="false">Voleu descartar els canvis no desats?</string>
+    <string name="native_63b75399ef1a" formatted="false">Descarta els canvis</string>
+    <string name="native_d9618f7b8d25" formatted="false">Continuar editant</string>
+    <string name="native_76ce6aef5479" formatted="false">Nom</string>
+    <string name="native_35b0fc30b909" formatted="false">D\'acord</string>
+    <string name="native_11b319774788" formatted="false">Entorn restaurat. Torneu a obrir l\'espai de treball.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Primer acabeu de recuperar l\'operació interrompuda en temps d\'execució</string>
+    <string name="native_f29af06e7c99" formatted="false">El manteniment de l\'entorn està en curs. Torna-ho a provar més tard.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operació cancel·lada</string>
+    <string name="native_c508721eb3cd" formatted="false">Ja existeix un fitxer amb aquest nom. Trieu un altre nom.</string>
+    <string name="native_1e8274fe468a" formatted="false">El fitxer ja no existeix. Actualitzeu el directori.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">S\'ha denegat el permís d\'accés al fitxer</string>
+    <string name="native_cd808e4c321e" formatted="false">No s\'ha pogut completar l\'operació</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operació incompleta. Comproveu l\'emmagatzematge disponible o torneu a seleccionar els fitxers.</string>
+    <string name="native_3f9983126fd7" formatted="false">Comproveu l\'estat d\'inici d\'OpenCode en temps d\'execució</string>
+    <string name="native_6ed9fe2281bb" formatted="false">No s\'ha pogut obrir un terminal nou. Consulta el nombre de sessions.</string>
+    <string name="native_2160fde3813a" formatted="false">Gestionar enllaços simbòlics al terminal. El gestor de fitxers no segueix enllaços.</string>
+    <string name="native_7a844e9d4017" formatted="false">Moviment completat</string>
+    <string name="native_573877894fcf" formatted="false">Còpia completada</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">S\'ha mogut a la paperera</string>
+    <string name="native_862330af933f" formatted="false">Restaurat al directori original</string>
+    <string name="native_beda23c9d52b" formatted="false">S\'ha produït el manteniment o la substitució de l\'entorn. Torneu a obrir l\'espai de treball abans d\'editar-lo.</string>
+    <string name="native_678c6953bb2b" formatted="false">Desat</string>
+    <string name="native_8063159f2178" formatted="false">No es pot llegir el fitxer seleccionat</string>
+    <string name="native_4cdc2180d2ac">S\'han importat %1$s fitxers</string>
+    <string name="native_e98763643b93" formatted="false">No es pot escriure a la ubicació seleccionada</string>
+    <string name="native_5afd173be7fa" formatted="false">Exportació completada</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Codi i sessions</string>
+    <string name="native_8745ed51cadd" formatted="false">Escriptori</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Espai de treball gràfic\nFitxers</string>
+    <string name="native_770d49c5f689" formatted="false">Fitxers</string>
+    <string name="native_6a9b6480b58f" formatted="false">Temps d\'execució</string>
+    <string name="native_b561fe9204cc" formatted="false">Serveis i eines de desenvolupament</string>
+    <string name="native_70850bdeeabd" formatted="false">Tanca el menú de la pàgina</string>
+    <string name="native_b4549acb48e8" formatted="false">Espai de treball</string>
+    <string name="native_3d3551f4660f">Opacitat del botó flotant %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Els valors més baixos fan que el botó flotant sigui més transparent</string>
+    <string name="native_e031beabfc9a" formatted="false">Obre el menú de la pàgina</string>
+    <string name="native_106ee775b538" formatted="false">S\'està connectant a l\'OpenCode local...</string>
+    <string name="native_a021adc1f449" formatted="false">La connexió local necessita una recuperació</string>
+    <string name="native_dacb8837471c" formatted="false">Torneu a connectar</string>
+    <string name="native_17584aa60ae6" formatted="false">No s\'ha pogut preparar la memòria cau de recursos local</string>
+    <string name="native_3b3b80064ccb" formatted="false">S\'està preparant l\'OpenCode local...</string>
+    <string name="native_2560ee8fdd16" formatted="false">Torna-ho a provar</string>
+    <string name="native_b07809340403" formatted="false">La ubicació de l\'espai de treball encara no s\'ha desat. Torna-ho a provar més tard.</string>
+    <string name="native_e4ab10392d05" formatted="false">El servei local s\'està preparant. El vostre espai de treball s\'obrirà automàticament un cop connectat.</string>
+    <string name="native_20ea15973287" formatted="false">L\'execució anterior s\'ha interromput. Reinicieu des del temps d\'execució; les ordres del terminal no es reproduiran automàticament.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Inicieu OpenCode des del temps d\'execució per obrir codi i sessions.</string>
+    <string name="native_abbac5c22111" formatted="false">Vols sortir de l\'aplicació?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">L\'entorn de desenvolupament pot continuar funcionant en segon pla. Torna més tard de la notificació.</string>
+    <string name="native_814a8fb24b62" formatted="false">Voleu sortir de l\'espai de treball actual?</string>
+    <string name="native_a76464945c2d" formatted="false">Atureu també l\'entorn de desenvolupament</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Sortida</string>
+    <string name="native_b00143b08ff1" formatted="false">Estació de treball de desenvolupament a punt</string>
+    <string name="native_51bca456a350" formatted="false">La vostra estació de treball de desenvolupament de Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">Córrer</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Inici</string>
+    <string name="native_44da7f6a451d" formatted="false">Parada</string>
+    <string name="native_b7e1503a7239" formatted="false">Reparació de l\'entorn de desenvolupament</string>
+    <string name="native_7c91bd67ff14" formatted="false">Instal·leu l\'entorn de desenvolupament</string>
+    <string name="native_cfd73bb04860" formatted="false">Atura l\'entorn</string>
+    <string name="native_e7ec95694dce" formatted="false">Inicieu OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Comproveu l\'entorn</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Actualitza les eines de desenvolupament de Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Es conserven la còpia de seguretat de l\'entorn anterior, els projectes i les dades de sessió.</string>
+    <string name="native_eb3114155716" formatted="false">Instal·lar/actualitzar servidors d\'idiomes</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) i Python (pylsp), instal·lats en línia des de repositoris Debian signats. Atureu primer OpenCode i l\'escriptori.</string>
+    <string name="native_2c7251cce661" formatted="false">Toqueu el botó flotant per canviar de pàgina. Arrossegueu-lo per reposicionar-lo.</string>
+    <string name="native_dcef145e6a9b" formatted="false">La informació del temps d\'execució apareix aquí després de l\'inici.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Temps d\'execució obert</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Versió APK empaquetada</string>
+    <string name="native_e6b986511faf" formatted="false">Actualitzacions d\'OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Importeu un .ocaupdate signat per l\'editor d\'aquesta aplicació. L\'actualització oficial d\'interfície i backend junts.</string>
+    <string name="native_8aad48b0508d" formatted="false">Font d\'actualització (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Comproveu la font d\'actualització</string>
+    <string name="native_f73973cfadbb">Alliberament signat: %1$s\nCompromís: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Descarrega i verifica</string>
+    <string name="native_f2ef7965bf12" formatted="false">Seleccioneu el paquet d\'actualització</string>
+    <string name="native_165111adfe2c">A punt per instal·lar: %1$s\nCompromís: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Instal·leu aquesta actualització</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Restaura la versió i les sessions anteriors a l\'actualització</string>
+    <string name="native_6864335de653" formatted="false">Cancel·la l\'actualització</string>
+    <string name="native_5e3472cf084e" formatted="false">Instal·leu l\'actualització d\'OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Voleu restaurar l\'estat anterior a l\'actualització?</string>
+    <string name="native_11beb4a42abc">Instal·leu %1$s. L\'aplicació desa una instantània de la sessió, comprova el programa signat i restaura la versió anterior si falla. Els fitxers del projecte es conserven.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Les sessions tornen al seu estat abans d\'aquesta actualització. Les sessions més recents romanen en una còpia de seguretat privada. Els fitxers del projecte es conserven.</string>
+    <string name="native_def5e273616d" formatted="false">Confirmeu la instal·lació</string>
+    <string name="native_369d2eefccde" formatted="false">No s\'han pogut aïllar les dades de previsualització del navegador. Torneu a obrir la vista prèvia.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">No s\'ha pogut carregar la pàgina del projecte. Comproveu el servidor de desenvolupament al vostre terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">Vista prèvia del lloc web del projecte</string>
+    <string name="native_bfb4951e071d" formatted="false">Vista prèvia del projecte</string>
+    <string name="native_f80652913d06" formatted="false">Inicieu un servidor de desenvolupament al terminal i, a continuació, introduïu el seu port local. Les dades de previsualització del navegador estan aïllades d\'OpenCode.\nPort</string>
+    <string name="native_2c41e85af61f" formatted="false">Port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Introduïu un port de desenvolupament del 1024 al 65535, excloent l\'OpenCode i els serveis d\'escriptori.</string>
+    <string name="native_7311a9dfea51" formatted="false">No s\'escolta res en aquest port. Consulta el servei al teu terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">S\'està comprovant...</string>
+    <string name="native_4923c272b68e" formatted="false">El port de desenvolupament ha de ser un nombre enter</string>
+    <string name="native_04a87026e81f" formatted="false">Trieu un port de desenvolupament de projecte vàlid</string>
+    <string name="native_a8a305819e54" formatted="false">Sessió de desenvolupament d\'OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Instal·lació de l\'entorn de desenvolupament</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Actualització de Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Reparació de l\'entorn de desenvolupament</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Comprovació de l\'entorn de desenvolupament</string>
+    <string name="native_9612d4419bb6" formatted="false">Instal·lació del servidor d\'idiomes</string>
+    <string name="native_f72fba77f87a" formatted="false">Recuperació de l\'entorn</string>
+    <string name="native_7c8162195c7c" formatted="false">Instal·lació d\'escriptori</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">L\'execució anterior s\'ha interromput. Reinicieu explícitament des del temps d\'execució.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Encara s\'està executant una tasca de desenvolupament d\'aquest tipus</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Reparació del registre d\'activitat</string>
+    <string name="native_b66749ed72ea" formatted="false">S\'ha sortit del procés</string>
+    <string name="native_6b25042064e2" formatted="false">Terminat per senyal</string>
+    <string name="native_d6febdf1752b" formatted="false">S\'ha recuperat a causa de la poca memòria</string>
+    <string name="native_1d13790f3c89" formatted="false">Error de l\'aplicació</string>
+    <string name="native_28db94d1850d" formatted="false">Error de procés natiu\nL\'aplicació</string>
+    <string name="native_86919539f7f1" formatted="false">no respon</string>
+    <string name="native_90fb8d6098a5" formatted="false">La inicialització ha fallat</string>
+    <string name="native_38c60ab6654c" formatted="false">Els permisos han canviat</string>
+    <string name="native_6d2a6c71334d" formatted="false">Límit de recursos</string>
+    <string name="native_19b2090b01a8" formatted="false">Atura sol·licitada per l\'usuari</string>
+    <string name="native_120d96445f1a" formatted="false">Aturat per l\'usuari</string>
+    <string name="native_3c8af14f66bc" formatted="false">S\'ha sortit del procés dependent</string>
+    <string name="native_ca0941ce04ae" formatted="false">Un altre motiu del sistema</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Congelació del procés</string>
+    <string name="native_0d48373023a8" formatted="false">L\'estat de l\'aplicació ha canviat\nActualització de l\'aplicació</string>
+    <string name="native_c752307db26b" formatted="false">Actualització de l\'aplicació</string>
+    <string name="native_b5015951cbdf" formatted="false">El sistema no ha proporcionat cap motiu de sortida</string>
+    <string name="native_b62737b826ad">Sortida del sistema (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">No s\'ha pogut obrir el directori del projecte</string>
+    <string name="native_faf5d983c13e" formatted="false">No s\'ha pogut crear una sessió d\'OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">El directori de sessió d\'OpenCode no coincideix</string>
+    <string name="native_ac19736908a2" formatted="false">No s\'ha pogut llegir la sessió d\'OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Manteniment del medi ambient</string>
+    <string name="native_f992d735d932" formatted="false">Atureu OpenCode, terminals i l\'escriptori Debian i, a continuació, espereu que finalitzin les operacions dels fitxers</string>
+    <string name="native_489f137f1080" formatted="false">El bloqueig de manteniment de l\'entorn ja no és vàlid</string>
+    <string name="native_42380e2567fc" formatted="false">S\'ha recuperat l\'operació interrompuda. Torneu a obrir l\'espai de treball.</string>
+    <string name="native_17b00cac2b91" formatted="false">La recuperació de la connexió local ha fallat. Torna-ho a provar des del temps d\'execució.</string>
+    <string name="native_77e9ca4e944c" formatted="false">El manteniment de l\'entorn està en curs. Torna-ho a provar més tard.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Atureu l\'escriptori Debian abans d\'actualitzar l\'entorn de desenvolupament</string>
+    <string name="native_548085b144c9" formatted="false">S\'ha recuperat l\'operació interrompuda. Podeu iniciar l\'entorn de desenvolupament.</string>
+    <string name="native_b4a1531f9eac" formatted="false">L\'execució anterior s\'ha interromput. Les ordres del terminal no es reproduiran automàticament. Reinicieu explícitament des del temps d\'execució.</string>
+    <string name="native_295cafdfd512" formatted="false">La neteja temporal de la configuració de la connexió està incompleta. La neteja del procés ha continuat.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">No s\'ha pogut crear l\'espai de treball helloworld. Comproveu el directori i l\'espai disponible.</string>
+    <string name="native_68301868225a" formatted="false">El directori de l\'espai de treball anterior no està disponible. S\'ha obert helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">El projecte predeterminat encara no està llest. Torna-ho a provar des de Fitxers.</string>
+    <string name="native_45d6ab452622" formatted="false">Instal·leu servidors d\'idiomes\nEls servidors de llenguatge C/C++ i Python</string>
+    <string name="native_9793c4a83295" formatted="false">estan preparats. Inicieu OpenCode per utilitzar LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">El registre d\'activitat del terminal no s\'ha desat. Creeu un nou terminal després de la finalització del procés.</string>
+    <string name="native_1978b311a9ff" formatted="false">No s\'ha pogut acabar de desar el registre de sortida del terminal.</string>
+    <string name="native_66dee11c3194" formatted="false">Descàrrega d\'actualització d\'OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">S\'està connectant a la font d\'actualització...</string>
+    <string name="native_8c39baf28e08" formatted="false">No es pot connectar a la font d\'actualització. Comproveu la xarxa, la signatura de l\'editor, la versió de l\'amfitrió i l\'espai lliure.</string>
+    <string name="native_0bedbc8d185d" formatted="false">S\'ha esgotat el temps de descàrrega</string>
+    <string name="native_f75850093535">Baixada: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">S\'està verificant la signatura de l\'editor...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">S\'està baixant el paquet d\'actualització...</string>
+    <string name="native_2f9cd52dc66a">Signatura de l\'editor vàlida: %1$s. Revisa abans de descarregar.</string>
+    <string name="native_17548865632c" formatted="false">Baixa, publica metadades i signatura del paquet verificada. Confirmeu la instal·lació.</string>
+    <string name="native_180cec958e7a" formatted="false">Descàrrega cancel·lada. Es manté la versió original.</string>
+    <string name="native_8df045f8ac12" formatted="false">Descàrrega aturada. Es manté la versió original.</string>
+    <string name="native_778803f1c6bb" formatted="false">Cancel·la la descàrrega</string>
+    <string name="native_2958898ce6f4" formatted="false">La nova versió ha fallat en les comprovacions locals d\'inici, de versió o d\'autenticació. La versió anterior es restaurarà.</string>
+    <string name="native_cc876dfbb261" formatted="false">El procés de prova encara s\'està acabant. Espereu la recuperació abans de tornar-ho a provar.</string>
+    <string name="native_adf977dcb47e" formatted="false">Identificador de registre d\'actualització no vàlid</string>
+    <string name="native_5207cac670b7" formatted="false">La mida de l\'OpenCode autònom instal·lat no coincideix</string>
+    <string name="native_cf5b81887589" formatted="false">La suma de comprovació d\'OpenCode independent instal·lada no coincideix. Restaura la versió anterior.</string>
+    <string name="native_393049b506cc" formatted="false">El programa original no té cap prova de l\'editor coincident. Estat anterior sense canvis.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Recupereu primer l\'actualització interrompuda anterior</string>
+    <string name="native_91d8da5525fa" formatted="false">El paquet d\'actualització ha canviat després de la confirmació</string>
+    <string name="native_093f2c091a30" formatted="false">Emmagatzematge insuficient. Versió original sense canvis.</string>
+    <string name="native_fc9bc82e0872" formatted="false">No hi ha cap còpia de seguretat d\'actualització disponible per restaurar</string>
+    <string name="native_a9f4d9903c14" formatted="false">La còpia de seguretat no coincideix amb la versió en execució</string>
+    <string name="native_6caa23763a42" formatted="false">La verificació del programa anterior ha fallat. Sessions actuals sense canvis.</string>
+    <string name="native_c8b71b876695" formatted="false">Una actualització posterior de l\'APK o de Debian va substituir el programa inclòs. Es conserva la còpia de seguretat de la sessió original; restaurar primer el programa corresponent.</string>
+    <string name="native_c443df40964b" formatted="false">Operació de recuperació d\'actualització no vàlida</string>
+    <string name="native_9071f05d58b3" formatted="false">S\'està preparant l\'actualització d\'OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">Atureu OpenCode, terminals i l\'escriptori i, a continuació, espereu que surtin.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Desa de l\'estat, verificació de programes i canvi de versió</string>
+    <string name="native_5fc065ef6f50" formatted="false">No s\'ha pogut iniciar el servei de manteniment de l\'actualització.</string>
+    <string name="native_f7b560c8c820" formatted="false">Verificant i posant en escena el programa oficial...</string>
+    <string name="native_9606191c82dc" formatted="false">S\'estan conservant el programa original i la signatura de l\'editor...</string>
+    <string name="native_5c0d7787ee51" formatted="false">S\'està desant la instantània de l\'estat de la sessió...</string>
+    <string name="native_0c8cf4632889" formatted="false">Canvi de versions i verificació del servei local...</string>
+    <string name="native_3e81ea691a4a" formatted="false">S\'estan restaurant la versió i les sessions d\'abans de l\'actualització...</string>
+    <string name="native_856de41d3bf3" formatted="false">Restauració d\'OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Actualització d\'OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">S\'han restaurat la versió i les sessions anteriors. Les sessions més recents romanen en una còpia de seguretat privada.\nActualització</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode completada. L\'inici utilitzarà la interfície i el backend oficials coincidents.</string>
+    <string name="native_4693930f5802" formatted="false">Actualització cancel·lada. Confirmació que s\'ha restaurat l\'estat original.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Actualització incompleta. Recuperant-se ara; Es conserven les còpies de seguretat del programa original i de la sessió.</string>
+    <string name="native_9a32d6c2d207" formatted="false">La recuperació està incompleta. Es conserven tots els directoris estatals. Conserveu les vostres dades i torneu a provar l\'inici per recuperar-les.</string>
+    <string name="native_49ad3eeae83d" formatted="false">S\'ha completat la recuperació de la sessió. L\'estat més recent es manté en una còpia de seguretat.</string>
+    <string name="native_67c08a2911e1" formatted="false">La recuperació no ha pogut continuar amb aquesta còpia de seguretat o programa original. Sessions actuals i còpies de seguretat sense canvis.</string>
+    <string name="native_976d8c169cfa" formatted="false">Actualització cancel·lada o fallada. Versió original i sessions restaurades.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Verificant la signatura i la integritat del paquet d\'actualització...</string>
+    <string name="native_0aa018b7337b" formatted="false">No es pot llegir el fitxer seleccionat\nEl paquet d\'actualització</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">és massa gran</string>
+    <string name="native_f068b83f40bf" formatted="false">Signatura i paquet verificats. Reviseu la versió abans d\'instal·lar-la.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">No es pot importar: fitxer no vàlid, no coincidència de signatura, versió de l\'amfitrió incompatible o emmagatzematge insuficient.</string>
+    <string name="native_616412e65df4" formatted="false">El programa oficial no coincideix amb la prova de l\'editor</string>
+    <string name="native_4bf19a158f27" formatted="false">Els paquets d\'execució autònoms només admeten ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">La signatura d\'actualització no pertany a aquest APK</string>
+    <string name="native_c7273354727f" formatted="false">El fitxer d\'actualització supera la seva mida declarada</string>
+    <string name="native_2aa6c8e74abb" formatted="false">La suma de comprovació del programa d\'actualització no coincideix</string>
+    <string name="native_dd619076d456" formatted="false">Mida del paquet d\'actualització no vàlida</string>
+    <string name="native_20c5bdfeffc0" formatted="false">La mida del paquet d\'actualització comprimida no coincideix</string>
+    <string name="native_1de24edffcf5" formatted="false">El paquet d\'actualització conté entrades addicionals</string>
+    <string name="native_c5b339aa77e8" formatted="false">Origen o arquitectura de l\'actualització incompatible</string>
+    <string name="native_89d585f3661f" formatted="false">Actualitzeu l\'aplicació d\'Android abans d\'instal·lar aquesta actualització</string>
+    <string name="native_800df084dea0" formatted="false">La suma de comprovació de l\'arxiu d\'actualització no coincideix</string>
+    <string name="native_ddf1a005e310" formatted="false">Aquest format de signatura d\'APK no admet actualitzacions de temps d\'execució autònomes</string>
+    <string name="native_172e063db474" formatted="false">Entrada del paquet d\'actualització no vàlida</string>
+    <string name="native_1c08780aa99f" formatted="false">Les metadades d\'actualització han d\'utilitzar nombres enters</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">El programa d\'actualització no és un Linux ELF de 64 bits</string>
+    <string name="native_d51ff4ed57b4" formatted="false">El programa d\'actualització no compleix l\'alineació ELF de 16 KiB</string>
+    <string name="native_3afa3741911b" formatted="false">Al programa d\'actualització li falta el carregador glibc de Debian</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Introduïu una font d\'actualització HTTPS vàlida</string>
+    <string name="native_c274c7dd5900" formatted="false">Les fonts d\'actualització requereixen URL HTTPS sense credencials d\'usuari</string>
+    <string name="native_f459f5ec9dac" formatted="false">Camp d\'origen d\'actualització no vàlid</string>
+    <string name="native_bde2a736e30a" formatted="false">Actualitzeu primer l\'amfitrió d\'Android</string>
+    <string name="native_b980fd021bef" formatted="false">Directori d\'actualització no vàlid</string>
+    <string name="native_c0e96727553e" formatted="false">Fitxer d\'actualització no vàlid</string>
+    <string name="native_86ff542c68ed" formatted="false">No es poden canviar els directoris d\'actualització en aquest estat</string>
+    <string name="native_fbf82dc7ef22" formatted="false">L\'estat de la sessió fa referència a un directori extern. L\'actualització no es pot provar de manera segura.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Emmagatzematge insuficient. Estat original sense canvis.</string>
+    <string name="native_099801d672b1" formatted="false">Descàrrega cancel·lada</string>
+    <string name="native_f1304f707ec9" formatted="false">Massa redireccions d\'actualització</string>
+    <string name="native_0d07f458b607" formatted="false">El servidor d\'actualització no ha transferit els bytes originals</string>
+    <string name="native_de331dfd8908" formatted="false">La longitud del fitxer d\'actualització no coincideix</string>
+    <string name="native_416b8c87e69e" formatted="false">El fitxer d\'actualització no s\'ha baixat completament</string>
+    <string name="native_e1e74b76c427" formatted="false">El servidor d\'actualització no ha retornat el fitxer complet</string>
+    <string name="native_6afcf03cb130" formatted="false">Espai de preparació d\'actualitzacions insuficient</string>
+    <string name="native_be1c695d9241" formatted="false">El fitxer d\'actualització SHA-256 no coincideix</string>
+    <string name="native_a0133d117bb0" formatted="false">El paquet d\'actualització no coincideix amb la informació de la versió confirmada</string>
+    <string name="native_8635a43ce28a" formatted="false">Directori del projecte no vàlid</string>
+    <string name="native_d32ab8b004e6" formatted="false">No s\'ha pogut desar la ubicació de l\'espai de treball</string>
+    <string name="native_43a5447014fd" formatted="false">Inicieu l\'entorn de desenvolupament des del temps d\'execució abans d\'obrir un terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Terminal nou</string>
+    <string name="native_b3b7108a568f" formatted="false">Tanca corrent</string>
+    <string name="native_0e822affd5da">Directori inicial: %1$s</string>
+    <string name="native_72d769e3888d">Directori de terminal nou: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">El selector de fitxers del sistema no està disponible</string>
+    <string name="native_179a57921f91" formatted="false">Configuració de representació de WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Velocitat de fotogrames de renderització</string>
+    <string name="native_55b6d7f645f3" formatted="false">Prefereix 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Seguiu la taxa d\'actualització de la pantalla</string>
+    <string name="native_d4ecf38c341d" formatted="false">Prefereix 60 Hz per reduir la càrrega de renderització en pantalles de freqüència d\'actualització alta. Seguir la pantalla permet que el sistema programa els marcs. S\'aplica només a la finestra d\'aquesta aplicació.</string>
+    <string name="native_bf0d3a407418" formatted="false">No instal·lat</string>
+    <string name="native_2fb8edc75b25" formatted="false">llest</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Verificació del carregador</string>
+    <string name="native_d1017c1eac80" formatted="false">Instal·lació de Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Entorn de desenvolupament local</string>
+    <string name="native_55aa84065de2" formatted="false">Sessió de desenvolupament de Debian local</string>
+    <string name="native_6e75b1822ebc" formatted="false">Parada</string>
+    <string name="native_5f73a4e1e494" formatted="false">instal·lat</string>
+    <string name="native_147e90d2ec02" formatted="false">Recuperació</string>
+</resources>

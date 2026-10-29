@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Arendustööruum</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + töölaud</string>
+    <string name="native_7f1c02616d60" formatted="false">Üks leht</string>
+    <string name="native_651ae6ea52ae" formatted="false">Taasta jagatud vaade</string>
+    <string name="native_d7e97cfac66f" formatted="false">Tööruumi paigutus</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Mitme paneeli koos vaatamiseks laiendage akent.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Projektifailide kuvamine</string>
+    <string name="native_712d956931d1" formatted="false">Näita terminali</string>
+    <string name="native_073cc20d9ed9" formatted="false">terminal allpool</string>
+    <string name="native_5de225480fa7" formatted="false">terminal paremal</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Paneelid tõmbuvad kokku, kui ruumi on piiratud, ja jäävad ujuvmenüüst ligipääsetavaks. Külgterminal kuvatakse laiemates akendes. Paneelide suuruse muutmiseks lohistage jagajaid.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + vasak Alt: 1–5 lehekülge · B failid · T terminal · M töölaud · Single/Split · \\\\ Paigutus</string>
+    <string name="native_7a129a94c6ff" formatted="false">Valmis</string>
+    <string name="native_bcec2218fc21" formatted="false">Proportsioonide lähtestamine</string>
+    <string name="native_da88c62d1217">Kuva %1$s ühel lehel</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projektifailide jagaja</string>
+    <string name="native_707c0891a0e6" formatted="false">Klemmide jagaja</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode ja töölauajagaja</string>
+    <string name="native_50407ad8dfa8" formatted="false">Kahanda eelmine paneel</string>
+    <string name="native_b72c5c02a666" formatted="false">Suurenda eelmist paneeli</string>
+    <string name="native_3f3685e8d731" formatted="false">Selle arhiivivormingu jaoks on liiga palju PRoot linke</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux kõvad lingid nõuavad täielikku rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Varukataloogi pesastumine on liiga sügav</string>
+    <string name="native_b6f744737a45" formatted="false">Vale varuparooli pikkus</string>
+    <string name="native_13bde5dd1812" formatted="false">Varuparool peab sisaldama vähemalt 12 tähemärki</string>
+    <string name="native_be02cbd55932" formatted="false">Varundusvormingut ei toetata</string>
+    <string name="native_7a91a3d586ae" formatted="false">Kehtetu varupäis</string>
+    <string name="native_2bbd318a5667" formatted="false">Varukoopia krüptimise parameetrid ei toetata</string>
+    <string name="native_18868da27841" formatted="false">Vale varuparool või kahjustatud fail</string>
+    <string name="native_e41d6440468d" formatted="false">Taastekirje on liiga suur</string>
+    <string name="native_282692502f14" formatted="false">Varukoopia metaandmed on liiga suured</string>
+    <string name="native_61fdca8d6c82" formatted="false">Varukoopia metaandmete pesastumine on liiga sügav</string>
+    <string name="native_8cefb30732d4" formatted="false">Vale varukoopia metaandmed</string>
+    <string name="native_5d3037708cad" formatted="false">Toetamata algseaded</string>
+    <string name="native_81a57c382f9d" formatted="false">Algseadeid ei saanud salvestada</string>
+    <string name="native_50603e683d4a" formatted="false">Varutusteel on kehtetu ülemkataloog</string>
+    <string name="native_c3f838a46b8e" formatted="false">Tööjaama juur ei tohi olla sümboolne link</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Varundamise ajal muudetud faili</string>
+    <string name="native_77e1e85147db" formatted="false">Tööjaama andmevormingut ei toetata</string>
+    <string name="native_a927b5a565af" formatted="false">Varukoopia sisaldab lisaandmeid</string>
+    <string name="native_c2b886d508f2" formatted="false">Varukoopia sisaldab dubleerivaid teid</string>
+    <string name="native_3dab8cd60102" formatted="false">Varukoopia sisaldab käitusaja sätteid, mida ei saa üle viia</string>
+    <string name="native_f45ba674a630" formatted="false">Varukoopia on liiga suur või salvestusruumist ei piisa</string>
+    <string name="native_140073e8e77b" formatted="false">Sümboolsete linkide ajatempleid ei saanud taastada</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nimega toru ajatempleid ei saanud taastada</string>
+    <string name="native_0daee8026db1" formatted="false">tööjaama varundamine ja taastamine</string>
+    <string name="native_1acc18928c5f" formatted="false">Sisaldab Debianit, arendaja tööriistu, projekte, kodu, OpenCode\'i seansse ja sätteid, Linuxi brauseri andmeid ja natiivse paigutuse sätteid.</string>
+    <string name="native_62254d31a535" formatted="false">Ajutised failid ja vanad varukoopiad on välistatud. Android WebView salvestusruum ja saatmata mustandid jäävad sellesse seadmesse ja seda ei edastata koos selle varukoopiaga.</string>
+    <string name="native_808eabc7811f" formatted="false">Looge krüptitud varukoopia</string>
+    <string name="native_201c10b38296" formatted="false">Importige varukoopia</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Salvestage muudatused esmalt failiredaktorisse.</string>
+    <string name="native_0559cd596453" formatted="false">Peatage OpenCode, terminalid ja töölaud</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Keskkonna toiming on pooleli. Taastage see kõigepealt.</string>
+    <string name="native_185f58156330" formatted="false">Taasta mittetäielik töö</string>
+    <string name="native_20831b6f67a7" formatted="false">Võta tagasi viimane keskkonna taastamine</string>
+    <string name="native_4f392d5d6141">Krüpteeritud kohalik koopia: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Salvesta faili</string>
+    <string name="native_f09619351eb9" formatted="false">Kustutage kohalik koopia</string>
+    <string name="native_85c686eb9841">Töödeldud %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Tühista varundusülesanne</string>
+    <string name="native_66c9d896407b" formatted="false">Tööjaama varukoopia krüptimine</string>
+    <string name="native_548cd9f0831e" formatted="false">Dekrüpteerige ja kontrollige varukoopiat</string>
+    <string name="native_d248f5eca9a5" formatted="false">varukoopiad võivad sisaldada SSH privaatvõtmeid, API võtmeid ja konto andmeid. Kasutage vähemalt 12 tähemärki. Unustatud parooli ei saa taastada.</string>
+    <string name="native_f249422b9ec1" formatted="false">Varukoopia dekrüpteeritakse ja kontrollitakse privaatses kataloogis. Teie keskkond asendatakse alles pärast taastamise kinnitamist.</string>
+    <string name="native_e7be6841703a" formatted="false">Varuparool</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Korda parooli</string>
+    <string name="native_eafdc5cd4882" formatted="false">Alusta krüptimist</string>
+    <string name="native_2986b88beade" formatted="false">Dekrüpteerige ja kontrollige</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Tühista</string>
+    <string name="native_f46c5ed7412d" formatted="false">Kas taastada kogu eelmine keskkond?</string>
+    <string name="native_33eda0946a5b" formatted="false">Kas kustutada krüptitud kohalik koopia?</string>
+    <string name="native_26db24150f2e" formatted="false">Projektid, kodu, Debian ja seansid naasevad oma olekusse enne viimast taastamist. Värskemad tööd jäävad rakenduses privaatsesse varukoopiasse.</string>
+    <string name="native_1153b30d51d5" formatted="false">Kustutatakse ainult rakenduse sees olev krüptitud kohalik koopia. Mujal salvestatud failid jäävad kättesaadavaks.</string>
+    <string name="native_427a78a4e69a" formatted="false">Kinnitage</string>
+    <string name="native_7af46d7ee003" formatted="false">Kas taastada selle tööjaama varukoopia?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s kirjed · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Varukoopia sisaldab käivitatavat Linuxi tarkvara. Kinnitage, et usaldate selle allikat. Taastamine asendab kogu keskkonna ja kontrollib kohalikke teenuseid; eelmine keskkond säilitatakse taastamiseks.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Varukoopia kinnitatud. Taastamise kinnituse ootel.</string>
+    <string name="native_97076078c749" formatted="false">Lubage ka Chromiumi ühilduvusrežiim (keelab Linuxi protsessi liivakasti)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Vaikimisi väljas. Saate selle hiljem töölaua seadetes lubada.</string>
+    <string name="native_ddf09383413c" formatted="false">Kinnitage taastamine</string>
+    <string name="native_8e6056b0f629" formatted="false">Tühista import</string>
+    <string name="native_63a895901c76" formatted="false">Tööjaama keskkond muudetud</string>
+    <string name="native_a4c994348a39" formatted="false">Avage tööruum uuesti</string>
+    <string name="native_774947f0653e" formatted="false">Tühista ülesanne</string>
+    <string name="native_e09a22b18445" formatted="false">Ülesanne katkestati. Valige uuesti toiming ja sisestage parool.</string>
+    <string name="native_38c5fcc634db" formatted="false">Salvestage esmalt kõigis akendes failimuudatused. Enne uuesti proovimist tühistage olemasolev import.</string>
+    <string name="native_029bfa8ff772" formatted="false">Tööjaama taastamine ja programmide kontrollimine</string>
+    <string name="native_e4f04df818f8" formatted="false">Teie valitud varundustoimingu töötlemine</string>
+    <string name="native_8206f072d5ee" formatted="false">Peatage OpenCode, terminalid ja töölaud ning oodake, kuni failitoimingud lõpevad.</string>
+    <string name="native_1a5cde18c609" formatted="false">Varundustoimingut ei saanud käivitada. Proovige uuesti nii, et rakendus on esiplaanil.</string>
+    <string name="native_1553b714941d" formatted="false">Varukoopia dekrüpteerimine ja kontrollimine. Algne keskkond jääb taastatavaks…</string>
+    <string name="native_dafd005e953e" formatted="false">Varukoopia kinnitatud. Kinnitage taastamine rakenduses.</string>
+    <string name="native_9fb236184596" formatted="false">Kustutas rakenduses oleva krüptitud kohaliku koopia.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Toiming tühistati. Algsed keskkonnaandmed on säilinud.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Töö on pooleli. Kontrollige parooli, varukoopia terviklikkust, hostiversiooni ja vaba ruumi. Algsed keskkonnaandmed on säilinud.</string>
+    <string name="native_29deabd28960" formatted="false">Krüpteeritud tööjaama varukoopia loomine…</string>
+    <string name="native_3d137e243806" formatted="false">Krüpteeritud varukoopia loodud. Valige, kuhu see salvestada.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Keskkonna taastamine ja kohalike teenuste kontrollimine. Hoidke rakenduse andmed puutumatuna ...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">tööjaam taastatud. Eelmine keskkond jääb privaatsesse varukoopiasse. Avage tööala uuesti.</string>
+    <string name="native_0392cd6152d2" formatted="false">Taastekontrollid ebaõnnestusid. Tagasi eelmisse keskkonda; imporditud andmed jäävad privaatsesse varukoopiasse.</string>
+    <string name="native_5dc7410b600e" formatted="false">taastamine on puudulik. Kõik andmekataloogid säilitatakse. Hoidke rakenduse andmed alles ja proovige uuesti taastada.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Eelmise tööjaama keskkonna taastamine…</string>
+    <string name="native_15821323ff89" formatted="false">Eelmine keskkond taastatud. Värskemad tööd jäävad privaatsesse varukoopiasse. Avage tööala uuesti.</string>
+    <string name="native_56dd94f47870" formatted="false">Seda taastamist ei saa tagasi võtta. Praegune keskkond ja varukoopiad säilivad.</string>
+    <string name="native_93530f3fa029" formatted="false">Tagasivõtmine on puudulik. Kõik andmekataloogid säilitatakse. Hoidke rakenduse andmed alles ja proovige uuesti taastada.</string>
+    <string name="native_f12963c80def" formatted="false">Krüptitud varukoopia salvestamine…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Krüpteeritud varukoopia salvestatud. Saate kohaliku koopia uuesti salvestada või käsitsi kustutada.</string>
+    <string name="native_d660cccf65e0" formatted="false">Kinnitamata impordi puhastamine…</string>
+    <string name="native_800592163979" formatted="false">Import tühistati. Algne keskkond muutmata.</string>
+    <string name="native_5a90367eb834" formatted="false">Import tühistati. Algne keskkond muutmata; mõned ajutise impordi andmed jäävad rakenduse privaatsesse kataloogi.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Dekrüpteerimise ja kinnitamise ettevalmistamine…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Krüptitud varukoopia ettevalmistamine…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Varundusteenust ei saanud käivitada. Proovige uuesti esiplaanil.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Esmalt taastage mittetäielik keskkonnatoiming</string>
+    <string name="native_f14aea7c819c" formatted="false">Vigane taastekirje</string>
+    <string name="native_7c284c55ee08" formatted="false">Taastekataloog puudub</string>
+    <string name="native_bfc4792df15b" formatted="false">Algseaded ületavad taastekirje limiidi</string>
+    <string name="native_8d93770ba8c9">Eelmine keskkonnakataloog puudub: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Tundmatu taastamise etapp</string>
+    <string name="native_20c5124fe175" formatted="false">Tundmatu taastamistoiming</string>
+    <string name="native_1c457322b624" formatted="false">Varasemat keskkonda pole taastamiseks saadaval</string>
+    <string name="native_30db1666c8e5" formatted="false">See varukoopia kuulub teisele rakendusele</string>
+    <string name="native_6687d1c64d75" formatted="false">Varuprotsessori arhitektuur ei ühti</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Värskendage esmalt Androidi hosti versioon, mida see varukoopia kasutab</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Varukoopiakataloog on mittetäielik</string>
+    <string name="native_66106ab3e254" formatted="false">Vanal varukoopial pole kontrollitavat OpenCode\'i avaldaja tõendit. Käivitage algne keskkond selle hostiga enne selle uuesti varundamist.</string>
+    <string name="native_bec13cc92982" formatted="false">Arenduskeskkonna süsteemi toimingud</string>
+    <string name="native_65de80229626" formatted="false">Debian taotles süsteemitoimingut</string>
+    <string name="native_5e38581cf19c" formatted="false">Puudutage päringu ülevaatamiseks ja käsitlemiseks</string>
+    <string name="native_749d406d2c67" formatted="false">Debiani arenduskeskkonnast</string>
+    <string name="native_4032d33b2afd" formatted="false">Kas avada süsteemibrauser?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Kas avada kohaliku projekti eelvaade?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Kas lugeda lõikepuhvrit?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kas kopeerida süsteemi lõikepuhvrisse?</string>
+    <string name="native_77f761eb70aa" formatted="false">Kas saata kohalik teatis?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Kas jagada projektifaili?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Kas importida süsteemifailid?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Kas eksportida projektifail?</string>
+    <string name="native_7ac295421c6d" formatted="false">Ava brauseris</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Ava eelvaade</string>
+    <string name="native_14792d6cd7a6" formatted="false">Luba lugemist</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopeeri lõikelauale</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Saada teatis</string>
+    <string name="native_88152a09fa02" formatted="false">Valige jagamisrakendus</string>
+    <string name="native_7a49a79c57f9" formatted="false">Valige failid</string>
+    <string name="native_99d9f87419c5" formatted="false">Valige, kuhu salvestada</string>
+    <string name="native_23e5bb2090aa">%1$s\nAvaneb OpenCode\'ist eraldatud brauseriandmetega.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Saate anda süsteemi lõikepuhvrist teksti praegusele Debiani programmile.</string>
+    <string name="native_dcc6bec24e43">Valige failid, mida importida kausta %1$s. Olemasolevad failid jäetakse alles ja duplikaadid nimetatakse ümber.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromiumi brauseri režiim</string>
+    <string name="native_4767f37900f6" formatted="false">Ühilduvusrežiim kasutab eraldi brauseriprofiili ja keelab Chromiumi Linuxi protsesside liivakasti. Brauser pääseb endiselt juurde selles rakenduses olevatele failidele. Vältige ebausaldusväärseid veebisaite ja kasutage oluliste kontode jaoks Androidi süsteemibrauserit. Pärast režiimide muutmist avage Chromium uuesti.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standardne Linuxi liivakast on vaikimisi lubatud. Kui Chromium ei saa käivituda, saate valida ühilduvusrežiimi. See keelab Linuxi protsesside liivakasti ja kasutab eraldi profiili, säilitades samal ajal juurdepääsu rakenduse failidele. Vältige ebausaldusväärseid veebisaite; kasutage oluliste kontode jaoks Androidi süsteemibrauserit.</string>
+    <string name="native_3a2596fa9517" formatted="false">Tavarežiimi taastamine</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Luba ühilduvusrežiim</string>
+    <string name="native_9a45442649f5" formatted="false">Debiani töölaud</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Jagatud /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Esimene installimine laadib alla graafilised komponendid. Pärast installimist saab töölaud käivituda ja seiskuda OpenCode\'ist sõltumatult.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC peegel</string>
+    <string name="native_41e865941e16" formatted="false">Ametlik Debiani peegel</string>
+    <string name="native_ea341b8a102b" formatted="false">Esialgne eraldusvõime</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Töölaud jätkab tööd, kui vahetate lehti. Peatage see Runtime\'ist.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Peatage töölauaülesanne</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Käivitage töölaud</string>
+    <string name="native_ea27a25e5114" formatted="false">Paigaldage töölaua komponendid</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: ühilduvusrežiim</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standardrežiim</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Installige esmalt Debiani arendaja tööriistad Runtime\'ist.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Tegevuspäevik</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Projekti kausta ei saanud avada. Kontrollige, kas kataloog on olemas.</string>
+    <string name="native_83c76743b29d" formatted="false">Katkestatud keskkonnatoimingu taastamine</string>
+    <string name="native_739a730ae247" formatted="false">Keskkonnahooldus</string>
+    <string name="native_049281329843" formatted="false">Oodake värskenduse hooldust või praeguse ülesande lõpetamist.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Oodake, kuni praegune arenduskeskkonna ülesanne lõpeb</string>
+    <string name="native_83099168971c" formatted="false">Töölaua paigaldamine</string>
+    <string name="native_85e0c18dde8d" formatted="false">Töölaua käivitamine</string>
+    <string name="native_9a48f8196d8f" formatted="false">Vajab tähelepanu</string>
+    <string name="native_75470fb13121" formatted="false">Peatatud</string>
+    <string name="native_51a53c8109d5" formatted="false">Tegevuskirjet ei saa lugeda ega salvestada. Parandage see Runtime\'ist või vabastage salvestusruumi.</string>
+    <string name="native_d36a018cc619" formatted="false">Installige esmalt Debiani arenduskeskkond</string>
+    <string name="native_80be4c2928a5" formatted="false">Ühendage esmalt võrguga</string>
+    <string name="native_a065d81014b1" formatted="false">lauaarvuti installimine on puudulik. Proovi installimist uuesti.</string>
+    <string name="native_721c38b32c35" formatted="false">töölaud on installitud. Käivitage see, kui vaja.</string>
+    <string name="native_6c1c52771115" formatted="false">Esmalt installige töölaua komponendid</string>
+    <string name="native_693d90a47827" formatted="false">Töölaua töö nurjus. Üksikasjad on liiga pikad või pole saadaval.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Stoppmarkeri salvestamist ei saanud lõpetada. Protsessi puhastamine jätkus.</string>
+    <string name="native_06083621a6ce" formatted="false">Tegevuskirje salvestamist ei saanud lõpetada. Järgmisel käivitamisel käsitletakse seda katkestusena.</string>
+    <string name="native_04d721a3819a" formatted="false">Lauaarvuti töötab</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Töölaua töö aegus. Vaadake logi üle ja proovige uuesti.</string>
+    <string name="native_e70d328a3ca9">Töölauaprotsess väljus (%1$s). Vaadake tegevuste logi üle.</string>
+    <string name="native_df5c878f2852" formatted="false">Kohalik graafiline tööruum</string>
+    <string name="native_7b0455a8daa4" formatted="false">Peatage töölaud</string>
+    <string name="native_a62123cde9c7" formatted="false">Katkestatud toimingud ja taastamine</string>
+    <string name="native_279308947a14" formatted="false">Tegevuskirjet ei saa lugeda. Repair säilitab kahjustatud kirje koopia ning säilitab projektid, seansid ja Linuxi keskkonna.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Remonditegevuse rekord</string>
+    <string name="native_6b43650c2c82" formatted="false">Ülesanne lõppes ootamatult.</string>
+    <string name="native_acb0c970aaa6">%1$s terminali ei suletud normaalselt. Nende jooksvad käsud katkestati.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Taaskäivitamine on kinnitatud. Eelmisi käske ei taasesitatud.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Salvestatud projektid ja seansid säilitatakse. Avage terminalid uuesti käsitsi; lõpetamata käsud ei jätku automaatselt.</string>
+    <string name="native_fa9669296762" formatted="false">Taaskäivitage OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Töölaud ei taaskäivitu automaatselt. Käivitage see uuesti töölaua lehelt.</string>
+    <string name="native_644f8f44251f" formatted="false">Ava fail</string>
+    <string name="native_9dfb5569d609" formatted="false">Jaga faili</string>
+    <string name="native_a4500cff3a86" formatted="false">Töökataloog ei tohi olla sümboolne link</string>
+    <string name="native_8657d27661bd" formatted="false">Töökataloogi tee on vigane</string>
+    <string name="native_02b702a9adff" formatted="false">Valige fail</string>
+    <string name="native_924874b746cc" formatted="false">Hallake terminalis sümboolseid linke</string>
+    <string name="native_efea6e422a54" formatted="false">Kehtetu failinimi\nKataloogi</string>
+    <string name="native_c4989dc37aab" formatted="false">pole olemas</string>
+    <string name="native_d613dba39b44" formatted="false">Sihtkataloogi pole olemas</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Kausta ei saa enda ega selle järglaste sisse asetada</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekt sisaldab spetsiaalseid seadmeid või pistikupesasid ja seda ei saa kopeerida</string>
+    <string name="native_6c36955b068b" formatted="false">Valige tavaline fail</string>
+    <string name="native_49191d7d489f" formatted="false">See fail on suurem kui 2 MB. Redigeerige seda OpenCode\'i või terminaliga.</string>
+    <string name="native_ee42414d36c2" formatted="false">Fail on liiga suur</string>
+    <string name="native_f0a979f87157" formatted="false">Eksportige binaarfaile, et avada need teises rakenduses</string>
+    <string name="native_88a9c82651fc" formatted="false">Redigeerige faile, mis ei ole UTF-8 OpenCode\'i või terminaliga</string>
+    <string name="native_0189a5c3418c" formatted="false">Teine tööriist muutis seda faili. Enne muutmist avage see uuesti.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Algset kataloogi enam ei eksisteeri. Esmalt taastage see.</string>
+    <string name="native_46eae321049e" formatted="false">Ühtegi jagamisrakendust pole saadaval</string>
+    <string name="native_87d699d3a26c" formatted="false">prügikast</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projekti failid</string>
+    <string name="native_4dcf914f0b64" formatted="false">Kustutatud faile saab taastada nende algsesse kataloogi</string>
+    <string name="native_c5b81b02354f" formatted="false">Tagakülg</string>
+    <string name="native_e56b99379169">Kopeeriti %1$s faili · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopeerimine…</string>
+    <string name="native_85199bb36b04" formatted="false">Tühista toiming</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Sulgege</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Uus seanss</string>
+    <string name="native_23c250cc8e0b" formatted="false">Alustage OpenCode\'i seanssi siit</string>
+    <string name="native_f22da21fd54f" formatted="false">terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Salvestamata muudatused</string>
+    <string name="native_2266227605c4" formatted="false">Salvesta</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Prügikast on tühi</string>
+    <string name="native_a9e739b13e52" formatted="false">taastamine</string>
+    <string name="native_45985dc2183e" formatted="false">Liikumine:</string>
+    <string name="native_31214130b5b7" formatted="false">koopia:</string>
+    <string name="native_07e5c3158f35" formatted="false">pasta</string>
+    <string name="native_831b4e0fb574" formatted="false">Uus</string>
+    <string name="native_ff65a22d7087" formatted="false">Uus kaust</string>
+    <string name="native_71faed44a86c" formatted="false">Uus fail</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Värskenda</string>
+    <string name="native_ac9d73843736" formatted="false">Otsi sellest kataloogist</string>
+    <string name="native_21eef82963ee" formatted="false">See kataloog on tühi. Importige faile või looge projekt.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Ühtegi sobivat faili pole</string>
+    <string name="native_d674bc0f86b8" formatted="false">Failitoimingud</string>
+    <string name="native_d04a47c87cc8" formatted="false">Sümboolne link</string>
+    <string name="native_e0ba66f5246a" formatted="false">kaust</string>
+    <string name="native_f170b42599e8" formatted="false">Nimeta ümber</string>
+    <string name="native_4cdacf57ead2" formatted="false">koopia</string>
+    <string name="native_124aa030694e" formatted="false">Teisalda…</string>
+    <string name="native_ac990518ed87" formatted="false">Avage terminal siin</string>
+    <string name="native_87bc93932d8a" formatted="false">Ekspordi süsteemifailidesse</string>
+    <string name="native_dd37f132172f" formatted="false">Teisalda prügikasti</string>
+    <string name="native_7318746d337c" formatted="false">Kas teisaldada prügikasti?</string>
+    <string name="native_2b5ee3f10a56">Saate „%1$s” prügikastist taastada.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Liikumine</string>
+    <string name="native_4e47aaa113fc" formatted="false">Kas loobuda salvestamata muudatustest?</string>
+    <string name="native_63b75399ef1a" formatted="false">Loobu muudatustest</string>
+    <string name="native_d9618f7b8d25" formatted="false">Jätkake redigeerimist</string>
+    <string name="native_76ce6aef5479" formatted="false">nimi</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Keskkond taastatud. Avage tööala uuesti.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Esmalt lõpetage katkestatud toimingu taastamine Runtime\'is</string>
+    <string name="native_f29af06e7c99" formatted="false">Keskkonnahooldus on pooleli. Proovige hiljem uuesti.</string>
+    <string name="native_3bd28258feb0" formatted="false">Toiming tühistati</string>
+    <string name="native_c508721eb3cd" formatted="false">Selle nimega fail on juba olemas. Valige teine ​​nimi.</string>
+    <string name="native_1e8274fe468a" formatted="false">Faili pole enam olemas. Värskendage kataloogi.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Failile juurdepääsu luba on keelatud</string>
+    <string name="native_cd808e4c321e" formatted="false">Toimingut ei saanud lõpule viia</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Töö on pooleli. Kontrollige saadaolevat salvestusruumi või valige failid uuesti.</string>
+    <string name="native_3f9983126fd7" formatted="false">Kontrollige OpenCode\'i käivitusolekut Runtime\'is</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Uut terminali ei saanud avada. Kontrollige seansside arvu.</string>
+    <string name="native_2160fde3813a" formatted="false">Hallake terminalis sümboolseid linke. Failihaldur ei järgi linke.</string>
+    <string name="native_7a844e9d4017" formatted="false">Teisaldamine on lõpetatud</string>
+    <string name="native_573877894fcf" formatted="false">Kopeerimine on lõpetatud</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Teisaldatud prügikasti</string>
+    <string name="native_862330af933f" formatted="false">Taastatud algsesse kataloogi</string>
+    <string name="native_beda23c9d52b" formatted="false">Keskkonna hooldus või asendamine toimus. Enne redigeerimist avage tööruum uuesti.</string>
+    <string name="native_678c6953bb2b" formatted="false">Salvestatud</string>
+    <string name="native_8063159f2178" formatted="false">Valitud faili ei saa lugeda</string>
+    <string name="native_4cdc2180d2ac">Imporditi %1$s faili</string>
+    <string name="native_e98763643b93" formatted="false">Valitud asukohta ei saa kirjutada</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksport on lõpetatud</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kood ja seansid</string>
+    <string name="native_8745ed51cadd" formatted="false">lauaarvuti</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Graafiline tööruum</string>
+    <string name="native_770d49c5f689" formatted="false">failid</string>
+    <string name="native_6a9b6480b58f" formatted="false">Tööaeg</string>
+    <string name="native_b561fe9204cc" formatted="false">Teenused ja arendaja tööriistad</string>
+    <string name="native_70850bdeeabd" formatted="false">Sulgege lehemenüü</string>
+    <string name="native_b4549acb48e8" formatted="false">tööruum</string>
+    <string name="native_3d3551f4660f">Ujuva nupu läbipaistmatus %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Madalamad väärtused muudavad ujuva nupu läbipaistvamaks</string>
+    <string name="native_e031beabfc9a" formatted="false">Ava lehemenüü</string>
+    <string name="native_106ee775b538" formatted="false">Ühenduse loomine kohaliku OpenCode\'iga…</string>
+    <string name="native_a021adc1f449" formatted="false">Kohalik ühendus vajab taastamist</string>
+    <string name="native_dacb8837471c" formatted="false">Ühendage uuesti</string>
+    <string name="native_17584aa60ae6" formatted="false">Kohaliku ressursi vahemälu ei saanud ette valmistada</string>
+    <string name="native_3b3b80064ccb" formatted="false">Kohaliku OpenCode ettevalmistamine…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Proovige uuesti</string>
+    <string name="native_b07809340403" formatted="false">Tööruumi asukohta pole veel salvestatud. Proovige hiljem uuesti.</string>
+    <string name="native_e4ab10392d05" formatted="false">Kohalik teenus valmistub. Teie tööruum avaneb pärast ühendamist automaatselt.</string>
+    <string name="native_20ea15973287" formatted="false">Eelmine jooks katkestati. Taaskäivitage Runtime\'ist; terminali käske ei esitata automaatselt.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Koodi ja seansside avamiseks käivitage OpenCode Runtime\'ist.</string>
+    <string name="native_abbac5c22111" formatted="false">Kas väljuda rakendusest?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Arenduskeskkond võib taustal töötada. Naaske teatisest hiljem.</string>
+    <string name="native_814a8fb24b62" formatted="false">Kas soovite praegusest tööruumist väljuda?</string>
+    <string name="native_a76464945c2d" formatted="false">Peatage ka arenduskeskkond</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Väljumine</string>
+    <string name="native_b00143b08ff1" formatted="false">Arendustööjaam valmis</string>
+    <string name="native_51bca456a350" formatted="false">Teie Debiani arendustööjaam</string>
+    <string name="native_0c2acd0b6057" formatted="false">Jooks</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Käivitamine</string>
+    <string name="native_44da7f6a451d" formatted="false">Peatamine</string>
+    <string name="native_b7e1503a7239" formatted="false">Remondi arenduskeskkond</string>
+    <string name="native_7c91bd67ff14" formatted="false">Installige arenduskeskkond</string>
+    <string name="native_cfd73bb04860" formatted="false">Peatuskeskkond</string>
+    <string name="native_e7ec95694dce" formatted="false">Käivitage OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Kontrollige keskkonda</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Värskendage Debiani arendaja tööriistu</string>
+    <string name="native_c114ec62712b" formatted="false">Eelmise keskkonna varukoopia, projektid ja seansiandmed säilitatakse.</string>
+    <string name="native_eb3114155716" formatted="false">Keeleserverite installimine / värskendamine</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) ja Python (pylsp), installitud võrgus allkirjastatud Debiani hoidlatest. Peatage kõigepealt OpenCode ja töölaud.</string>
+    <string name="native_2c7251cce661" formatted="false">Lehekülgede vahetamiseks puudutage ujuvat nuppu. Selle ümberpaigutamiseks lohistage seda.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Käitusaja teave kuvatakse siin pärast käivitamist.</string>
+    <string name="native_a8243a4e0d22" formatted="false">avatud käitusaeg</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">komplekteeritud APK versioon</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode\'i värskendused</string>
+    <string name="native_36ab16248f65" formatted="false">Importige selle rakenduse väljaandja allkirjastatud .ocaupdate. Ametlik esiserv ja taustavärskendus koos.</string>
+    <string name="native_8aad48b0508d" formatted="false">Värskenduse allikas (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Kontrollige värskenduse allikat</string>
+    <string name="native_f73973cfadbb">Allkirjastatud väljalase: %1$s\nKinnita: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Laadige alla ja kontrollige</string>
+    <string name="native_f2ef7965bf12" formatted="false">Valige värskenduspakett</string>
+    <string name="native_165111adfe2c">Installimiseks valmis: %1$s\nKinnita: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Installige see värskendus</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Taastage versioon ja seansid enne värskendamist</string>
+    <string name="native_6864335de653" formatted="false">Tühista värskendus</string>
+    <string name="native_5e3472cf084e" formatted="false">Kas installida OpenCode\'i värskendus?</string>
+    <string name="native_816bf3635d53" formatted="false">Kas taastada värskenduseelne olek?</string>
+    <string name="native_11beb4a42abc">Installige %1$s. Rakendus salvestab seansi hetktõmmise, kontrollib allkirjastatud programmi ja taastab eelmise versiooni, kui see ebaõnnestub. Projekti failid säilitatakse.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Seansid naasevad selle värskenduse eelsesse olekusse. Uuemad seansid jäävad privaatsesse varukoopiasse. Projekti failid säilitatakse.</string>
+    <string name="native_def5e273616d" formatted="false">Kinnitage paigaldamine</string>
+    <string name="native_369d2eefccde" formatted="false">Brauseri eelvaate andmeid ei saanud eraldada. Avage eelvaade uuesti.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Projekti lehte ei saanud laadida. Kontrollige oma terminalis olevat arendusserverit.</string>
+    <string name="native_6e7408950cf5" formatted="false">Eelvaate projekti veebisait</string>
+    <string name="native_bfb4951e071d" formatted="false">Projekti eelvaade</string>
+    <string name="native_f80652913d06" formatted="false">Käivitage terminalis arendusserver, seejärel sisestage selle kohalik port. Eelvaate brauseri andmed on OpenCode\'ist eraldatud.</string>
+    <string name="native_2c41e85af61f" formatted="false">port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Sisestage arendusport vahemikus 1024 kuni 65535, välja arvatud OpenCode ja töölauateenused.</string>
+    <string name="native_7311a9dfea51" formatted="false">Selles pordis ei kuula midagi. Kontrollige teenust oma terminalis.</string>
+    <string name="native_4f8d84105475" formatted="false">Kontrollimine…</string>
+    <string name="native_4923c272b68e" formatted="false">Arendusport peab olema täisarv</string>
+    <string name="native_04a87026e81f" formatted="false">Valige kehtiv projekti arendusport</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode arendusseanss</string>
+    <string name="native_e87a4529ab82" formatted="false">Arenduskeskkonna paigaldus</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debiani värskendus</string>
+    <string name="native_0c6301bc295d" formatted="false">Arenduskeskkonna remont</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Arenduskeskkonna kontroll</string>
+    <string name="native_9612d4419bb6" formatted="false">Keeleserveri installimine</string>
+    <string name="native_f72fba77f87a" formatted="false">Keskkonna taastamine</string>
+    <string name="native_7c8162195c7c" formatted="false">Paigaldamine töölauale</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Eelmine jooks katkestati. Taaskäivitage selgesõnaliselt Runtime\'ist.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Seda tüüpi arendusülesanne on endiselt töös</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Tegevuskirje parandamine</string>
+    <string name="native_b66749ed72ea" formatted="false">Protsessist väljuti</string>
+    <string name="native_6b25042064e2" formatted="false">Lõpetatakse signaaliga</string>
+    <string name="native_d6febdf1752b" formatted="false">Taastatud vähese mälu tõttu</string>
+    <string name="native_1d13790f3c89" formatted="false">Rakenduse krahh</string>
+    <string name="native_28db94d1850d" formatted="false">Algse protsessi krahh</string>
+    <string name="native_86919539f7f1" formatted="false">Rakendus ei reageeri</string>
+    <string name="native_90fb8d6098a5" formatted="false">Initsialiseerimine ebaõnnestus</string>
+    <string name="native_38c60ab6654c" formatted="false">Lubasid muudetud</string>
+    <string name="native_6d2a6c71334d" formatted="false">Ressursipiirang</string>
+    <string name="native_19b2090b01a8" formatted="false">Kasutaja taotles peatumist</string>
+    <string name="native_120d96445f1a" formatted="false">Peatas kasutaja</string>
+    <string name="native_3c8af14f66bc" formatted="false">Sõltuv protsess väljus</string>
+    <string name="native_ca0941ce04ae" formatted="false">Muu süsteemi põhjus</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Protsessi külmutamine</string>
+    <string name="native_0d48373023a8" formatted="false">Rakenduse olek muudetud\nRakenduse värskendus</string>
+    <string name="native_c752307db26b" formatted="false">Rakenduse värskendus</string>
+    <string name="native_b5015951cbdf" formatted="false">Süsteem ei andnud väljumise põhjust</string>
+    <string name="native_b62737b826ad">Süsteemi väljumine (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Projekti kataloogi ei saanud avada</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode\'i seanssi ei saanud luua</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode\'i seansi kataloog ei ühti</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode\'i seanssi ei õnnestunud lugeda</string>
+    <string name="native_2642997cfeec" formatted="false">Keskkonnahooldus</string>
+    <string name="native_f992d735d932" formatted="false">Peatage OpenCode, terminalid ja Debiani töölaud, seejärel oodake failitoimingute lõppu</string>
+    <string name="native_489f137f1080" formatted="false">Keskkonnahoolduslukk ei kehti enam</string>
+    <string name="native_42380e2567fc" formatted="false">Katkestatud toiming taastus. Avage tööala uuesti.</string>
+    <string name="native_17b00cac2b91" formatted="false">Kohaliku ühenduse taastamine ebaõnnestus. Proovige uuesti Runtime\'ist.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Keskkonnahooldus on pooleli. Proovige hiljem uuesti.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Peatage Debiani töölaud enne arenduskeskkonna värskendamist</string>
+    <string name="native_548085b144c9" formatted="false">Katkestatud toiming taastus. Saate käivitada arenduskeskkonna.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Eelmine jooks katkestati. Terminali käske ei esitata automaatselt. Taaskäivitage selgesõnaliselt Runtime\'ist.</string>
+    <string name="native_295cafdfd512" formatted="false">Ühenduse konfiguratsiooni ajutine puhastamine on pooleli. Protsessi puhastamine jätkus.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Tööruumi helloworld ei saanud luua. Kontrollige kataloogi ja vaba ruumi.</string>
+    <string name="native_68301868225a" formatted="false">Eelmine tööruumi kataloog pole saadaval. Avatud helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Vaikeprojekt pole veel valmis. Proovige uuesti jaotisest Failid.</string>
+    <string name="native_45d6ab452622" formatted="false">Installige keeleserverid</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ ja Pythoni keeleserverid on valmis. LSP kasutamiseks käivitage OpenCode.</string>
+    <string name="native_5ea1653deef8" formatted="false">Terminali tegevuse kirjet ei salvestatud. Looge pärast protsessi lõpetamist uus terminal.</string>
+    <string name="native_1978b311a9ff" formatted="false">Terminali väljumiskirje salvestamist ei saanud lõpetada.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode värskenduse allalaadimine</string>
+    <string name="native_06f76cca8fb9" formatted="false">Värskendusallikaga ühendamine…</string>
+    <string name="native_8c39baf28e08" formatted="false">Värskendusallikaga ei saa ühendust luua. Kontrollige võrku, väljaandja allkirja, hosti versiooni ja vaba ruumi.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Allalaadimine aegus</string>
+    <string name="native_f75850093535">Allalaadimine: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Väljaandja allkirja kinnitamine…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Värskenduspaketi allalaadimine…</string>
+    <string name="native_2f9cd52dc66a">Kehtiv avaldaja allkiri: %1$s. Enne allalaadimist vaadake üle.</string>
+    <string name="native_17548865632c" formatted="false">Metaandmete allalaadimine, vabastamine ja paketi allkiri on kinnitatud. Kinnitage installimine.</string>
+    <string name="native_180cec958e7a" formatted="false">Allalaadimine tühistati. Originaalversioon säilinud.</string>
+    <string name="native_8df045f8ac12" formatted="false">Allalaadimine peatatud. Originaalversioon säilinud.</string>
+    <string name="native_778803f1c6bb" formatted="false">Tühista allalaadimine</string>
+    <string name="native_2958898ce6f4" formatted="false">Uus versioon ebaõnnestus kohalikul käivitamisel, versiooni- või autentimiskontrollil. Eelmine versioon taastatakse.</string>
+    <string name="native_cc876dfbb261" formatted="false">Prooviprotsess on endiselt lõppemas. Enne uuesti proovimist oodake taastumist.</string>
+    <string name="native_adf977dcb47e" formatted="false">Värskenduskirje identifikaator on kehtetu</string>
+    <string name="native_5207cac670b7" formatted="false">Installitud eraldiseisev OpenCode suurus ei ühti</string>
+    <string name="native_cf5b81887589" formatted="false">Installitud eraldiseisev OpenCode kontrollsumma ei ühti. Taasta eelmine versioon.</string>
+    <string name="native_393049b506cc" formatted="false">Algsel programmil pole sobivat väljaandja tõendit. Eelmine olek muutmata.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Taasta esmalt eelmine katkestatud värskendus</string>
+    <string name="native_91d8da5525fa" formatted="false">Värskenduspaketti muudeti pärast kinnitamist</string>
+    <string name="native_093f2c091a30" formatted="false">Ebapiisav salvestusruum. Algne versioon muutmata.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Värskenduse varukoopiat pole taastamiseks saadaval</string>
+    <string name="native_a9f4d9903c14" formatted="false">Varukoopia ei vasta töötavale versioonile</string>
+    <string name="native_6caa23763a42" formatted="false">Eelmise programmi kinnitamine ebaõnnestus. Praegused seansid muutmata.</string>
+    <string name="native_c8b71b876695" formatted="false">Komplekti kuuluva programmi asendas hilisem APK või Debiani värskendus. Algne seansi varukoopia säilitatakse; esmalt taastage vastav programm.</string>
+    <string name="native_c443df40964b" formatted="false">Värskenduse taastamise toiming on kehtetu</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode\'i värskenduse ettevalmistamine…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Peatage OpenCode, terminalid ja töölaud ning oodake, kuni need väljuvad.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Oleku salvestamine, programmide kontrollimine ja versioonide vahetamine</string>
+    <string name="native_5fc065ef6f50" formatted="false">Värskenduse hooldusteenust ei saanud käivitada.</string>
+    <string name="native_f7b560c8c820" formatted="false">Ametliku programmi kontrollimine ja lavastamine…</string>
+    <string name="native_9606191c82dc" formatted="false">Algse programmi ja väljaandja allkirja säilitamine…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Seansi oleku hetktõmmise salvestamine…</string>
+    <string name="native_0c8cf4632889" formatted="false">Versioonide vahetamine ja kohaliku teenuse kontrollimine…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Värskenduseelse versiooni ja seansside taastamine…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode taastamine</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode\'i värskendamine</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Taastanud eelmise versiooni ja seansid. Uuemad seansid jäävad privaatsesse varukoopiasse.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode\'i värskendus on lõpetatud. Käivitamine kasutab sobivat ametlikku kasutajaliidese ja taustaprogrammi.</string>
+    <string name="native_4693930f5802" formatted="false">Värskendus tühistati. Kinnitades, et algne olek on taastatud.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Värskendus on puudulik. Nüüd taastumas; algsed programmi ja seansi varukoopiad säilitatakse.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Taastamine on puudulik. Kõik osariigi kataloogid säilitatakse. Hoidke oma andmed alles ja proovige taastamiseks uuesti käivitada.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Seansi taastamine on lõpetatud. Värskem olek jääb varukoopiasse.</string>
+    <string name="native_67c08a2911e1" formatted="false">Taaste ei saanud selle varunduse või algprogrammiga jätkata. Praegused seansid ja varukoopiad on muutmata.</string>
+    <string name="native_976d8c169cfa" formatted="false">Värskendus tühistati või ebaõnnestus. Algne versioon ja seansid taastatud.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Värskenduspaketi allkirja ja terviklikkuse kontrollimine…</string>
+    <string name="native_0aa018b7337b" formatted="false">Valitud faili ei saa lugeda</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Värskenduspakett on liiga suur</string>
+    <string name="native_f068b83f40bf" formatted="false">Allkiri ja pakend kinnitatud. Enne installimist vaadake versioon üle.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Ei saa importida: kehtetu fail, allkirjade mittevastavus, ühildumatu hostiversioon või ebapiisav salvestusruum.</string>
+    <string name="native_616412e65df4" formatted="false">Ametlik programm ei vasta selle väljaandja tõendile</string>
+    <string name="native_4bf19a158f27" formatted="false">Eraldiseisvad käitusaja paketid toetavad ainult ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Värskenduse signatuur ei kuulu sellele APK-le</string>
+    <string name="native_c7273354727f" formatted="false">Värskendusfail ületab deklareeritud suuruse</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Värskendusprogrammi kontrollsumma ei ühti</string>
+    <string name="native_dd619076d456" formatted="false">Värskenduse paketi kehtetu suurus</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Tihendatud värskenduspaketi suurus ei ühti</string>
+    <string name="native_1de24edffcf5" formatted="false">Värskenduspakett sisaldab lisakirjeid</string>
+    <string name="native_c5b339aa77e8" formatted="false">Ühildumatu värskenduse päritolu või arhitektuur</string>
+    <string name="native_89d585f3661f" formatted="false">Enne selle värskenduse installimist uuendage Androidi rakendust</string>
+    <string name="native_800df084dea0" formatted="false">Värskenduse arhiivi kontrollsumma ei ühti</string>
+    <string name="native_ddf1a005e310" formatted="false">See APK allkirjastamise vorming ei toeta eraldiseisvaid käitusaegseid värskendusi</string>
+    <string name="native_172e063db474" formatted="false">Värskenduspaketi vigane kirje</string>
+    <string name="native_1c08780aa99f" formatted="false">Värskenduse metaandmed peavad kasutama täisarve</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Värskendusprogramm ei ole 64-bitine Linuxi ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Värskendusprogramm ei vasta 16 KiB ELF-i joondusele</string>
+    <string name="native_3afa3741911b" formatted="false">Värskendusprogrammil puudub Debiani glibc-laadur</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Sisestage kehtiv HTTPS-i värskendusallikas</string>
+    <string name="native_c274c7dd5900" formatted="false">Värskendusallikad nõuavad HTTPS-i URL-e ilma kasutaja mandaatideta</string>
+    <string name="native_f459f5ec9dac" formatted="false">Värskenduse allika kehtetu väli</string>
+    <string name="native_bde2a736e30a" formatted="false">Uuendage esmalt Androidi hosti</string>
+    <string name="native_b980fd021bef" formatted="false">Kehtetu värskenduskataloog</string>
+    <string name="native_c0e96727553e" formatted="false">Kehtetu värskendusfail</string>
+    <string name="native_86ff542c68ed" formatted="false">Selles olekus ei saa värskenduskatalooge vahetada</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Seansi olek viitab välisele kataloogile. Värskendust ei saa ohutult testida.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Ebapiisav salvestusruum. Algne olek muutmata.</string>
+    <string name="native_099801d672b1" formatted="false">Allalaadimine tühistati</string>
+    <string name="native_f1304f707ec9" formatted="false">Liiga palju värskenduste ümbersuunamisi</string>
+    <string name="native_0d07f458b607" formatted="false">Värskendusserver ei edastanud algseid baite</string>
+    <string name="native_de331dfd8908" formatted="false">Värskenduse faili pikkus ei ühti</string>
+    <string name="native_416b8c87e69e" formatted="false">Värskendusfaili ei laaditud täielikult alla</string>
+    <string name="native_e1e74b76c427" formatted="false">Värskendusserver ei tagastanud kogu faili</string>
+    <string name="native_6afcf03cb130" formatted="false">Ebapiisav värskenduse lavastusruum</string>
+    <string name="native_be1c695d9241" formatted="false">Värskendusfail SHA-256 ei ühti</string>
+    <string name="native_a0133d117bb0" formatted="false">Värskenduspakett ei vasta kinnitatud väljalaske teabele</string>
+    <string name="native_8635a43ce28a" formatted="false">Kehtetu projektikataloog</string>
+    <string name="native_d32ab8b004e6" formatted="false">Tööruumi asukohta ei saanud salvestada</string>
+    <string name="native_43a5447014fd" formatted="false">Käivitage arenduskeskkond Runtime\'ist enne terminali avamist.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Uus terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Sulgemisvool</string>
+    <string name="native_0e822affd5da">Esialgne kataloog: %1$s</string>
+    <string name="native_72d769e3888d">Uus terminalikataloog: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Süsteemi failivalija pole saadaval</string>
+    <string name="native_179a57921f91" formatted="false">WebView\'i renderdusseaded</string>
+    <string name="native_3024ec603eb7" formatted="false">Renderdamise kaadrisagedus</string>
+    <string name="native_55b6d7f645f3" formatted="false">Eelista 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Jälgige ekraani värskendussagedust</string>
+    <string name="native_d4ecf38c341d" formatted="false">Eelista 60 Hz, et vähendada renderduskoormust suure värskendussagedusega kuvadel. Kuva järgimine võimaldab süsteemil kaadreid ajastada. Kehtib ainult selle rakenduse aknale.</string>
+    <string name="native_bf0d3a407418" formatted="false">Pole installitud</string>
+    <string name="native_2fb8edc75b25" formatted="false">Valmis</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Kontrollitav laadur</string>
+    <string name="native_d1017c1eac80" formatted="false">Debiani installimine</string>
+    <string name="native_f863d955fa6e" formatted="false">Kohalik arenduskeskkond</string>
+    <string name="native_55aa84065de2" formatted="false">Kohalik Debiani arendusseanss</string>
+    <string name="native_6e75b1822ebc" formatted="false">Peatus\nPaigaldatud</string>
+    <string name="native_5f73a4e1e494" formatted="false">Paigaldatud</string>
+    <string name="native_147e90d2ec02" formatted="false">Taastumine</string>
+</resources>

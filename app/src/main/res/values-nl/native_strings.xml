@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Ontwikkelwerkruimte</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Bureaublad</string>
+    <string name="native_7f1c02616d60" formatted="false">Enkele pagina</string>
+    <string name="native_651ae6ea52ae" formatted="false">Gesplitste weergave herstellen</string>
+    <string name="native_d7e97cfac66f" formatted="false">Indeling van de werkruimte</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Vergroot het venster om meerdere panelen samen te bekijken.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Projectbestanden weergeven</string>
+    <string name="native_712d956931d1" formatted="false">Terminal tonen</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal hieronder</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal aan de rechterkant</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Panelen klappen in als de ruimte beperkt is en blijven toegankelijk via het zwevende menu. De zijterminal verschijnt in bredere vensters. Versleep scheidingslijnen om de grootte van panelen te wijzigen.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt-links: 1–5 pagina\'s · B-bestanden · T-terminal · M Desktop · Enter Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Klaar</string>
+    <string name="native_bcec2218fc21" formatted="false">Proporties opnieuw instellen</string>
+    <string name="native_da88c62d1217">Toon %1$s op één pagina</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Divider voor projectbestanden</string>
+    <string name="native_707c0891a0e6" formatted="false">Klemmenverdeler</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode en bureaubladverdeler</string>
+    <string name="native_50407ad8dfa8" formatted="false">Vorig paneel verkleinen</string>
+    <string name="native_b72c5c02a666" formatted="false">Vorig paneel vergroten</string>
+    <string name="native_3f3685e8d731" formatted="false">Te veel PRoot-links voor dit archiefformaat</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Harde links voor Linux vereisen een volledige rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Het nesten van de back-upmap is te diep</string>
+    <string name="native_b6f744737a45" formatted="false">Ongeldige lengte van het back-upwachtwoord</string>
+    <string name="native_13bde5dd1812" formatted="false">Het back-upwachtwoord moet minimaal 12 tekens bevatten</string>
+    <string name="native_be02cbd55932" formatted="false">Niet-ondersteund back-upformaat</string>
+    <string name="native_7a91a3d586ae" formatted="false">Ongeldige back-upheader</string>
+    <string name="native_2bbd318a5667" formatted="false">Niet-ondersteunde back-upcoderingsparameters</string>
+    <string name="native_18868da27841" formatted="false">Onjuist back-upwachtwoord of beschadigd bestand</string>
+    <string name="native_e41d6440468d" formatted="false">Herstelrecord is te groot</string>
+    <string name="native_282692502f14" formatted="false">Back-upmetagegevens zijn te groot</string>
+    <string name="native_61fdca8d6c82" formatted="false">Het nesten van back-upmetagegevens is te diep</string>
+    <string name="native_8cefb30732d4" formatted="false">Ongeldige back-upmetadata</string>
+    <string name="native_5d3037708cad" formatted="false">Niet-ondersteunde eigen instellingen</string>
+    <string name="native_81a57c382f9d" formatted="false">Kan oorspronkelijke instellingen niet opslaan</string>
+    <string name="native_50603e683d4a" formatted="false">Ongeldige bovenliggende map in back-uppad</string>
+    <string name="native_c3f838a46b8e" formatted="false">De root van het werkstation mag geen symbolische link zijn</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Een bestand gewijzigd tijdens de back-up</string>
+    <string name="native_77e1e85147db" formatted="false">Niet-ondersteund gegevensformaat voor werkstation</string>
+    <string name="native_a927b5a565af" formatted="false">De back-up bevat aanvullende gegevens</string>
+    <string name="native_c2b886d508f2" formatted="false">De back-up bevat dubbele paden</string>
+    <string name="native_3dab8cd60102" formatted="false">De back-up bevat runtime-instellingen die niet kunnen worden gemigreerd</string>
+    <string name="native_f45ba674a630" formatted="false">De back-up is te groot of de opslagruimte is onvoldoende</string>
+    <string name="native_140073e8e77b" formatted="false">Kan symbolische linktijdstempels niet herstellen</string>
+    <string name="native_b0d411aaf62c" formatted="false">Kan de benoemde pipe-tijdstempels niet herstellen</string>
+    <string name="native_0daee8026db1" formatted="false">Back-up en herstel van werkstations</string>
+    <string name="native_1acc18928c5f" formatted="false">Inclusief Debian, ontwikkelaarstools, projecten, home, OpenCode-sessies en -instellingen, Linux-browsergegevens en native lay-outinstellingen.</string>
+    <string name="native_62254d31a535" formatted="false">Tijdelijke bestanden en oude back-ups zijn uitgesloten. Android WebView-opslag en niet-verzonden concepten blijven op dit apparaat staan ​​en worden niet met deze back-up overgedragen.</string>
+    <string name="native_808eabc7811f" formatted="false">Maak een gecodeerde back-up</string>
+    <string name="native_201c10b38296" formatted="false">Back-up importeren</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Sla uw wijzigingen eerst op in de bestandseditor.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, terminals en desktop</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Een omgevingsbewerking is onvolledig. Herstel het eerst.</string>
+    <string name="native_185f58156330" formatted="false">Onvolledige werking herstellen</string>
+    <string name="native_20831b6f67a7" formatted="false">Maak het laatste herstel van de omgeving ongedaan</string>
+    <string name="native_4f392d5d6141">Gecodeerde lokale kopie: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Opslaan naar bestand</string>
+    <string name="native_f09619351eb9" formatted="false">Lokale kopie verwijderen</string>
+    <string name="native_85c686eb9841">%1$s verwerkt</string>
+    <string name="native_28d567b926cc" formatted="false">Back-uptaak annuleren</string>
+    <string name="native_66c9d896407b" formatted="false">Versleutel de back-up van het werkstation</string>
+    <string name="native_548cd9f0831e" formatted="false">Back-up ontsleutelen en verifiëren</string>
+    <string name="native_d248f5eca9a5" formatted="false">Back-ups kunnen SSH-privésleutels, API-sleutels en accountgegevens bevatten. Gebruik minimaal 12 tekens. Een vergeten wachtwoord kan niet worden hersteld.</string>
+    <string name="native_f249422b9ec1" formatted="false">De back-up wordt gedecodeerd en geverifieerd in een privémap. Uw omgeving wordt pas vervangen nadat u het herstel hebt bevestigd.</string>
+    <string name="native_e7be6841703a" formatted="false">Back-upwachtwoord</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Herhaal wachtwoord</string>
+    <string name="native_eafdc5cd4882" formatted="false">Start de codering</string>
+    <string name="native_2986b88beade" formatted="false">Ontsleutelen en verifiëren</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Annuleren</string>
+    <string name="native_f46c5ed7412d" formatted="false">De gehele vorige omgeving herstellen?</string>
+    <string name="native_33eda0946a5b" formatted="false">De gecodeerde lokale kopie verwijderen?</string>
+    <string name="native_26db24150f2e" formatted="false">Projecten, home, Debian en sessies zullen terugkeren naar hun staat van vóór de laatste herstelbeurt. Recenter werk blijft in een privéback-up in de app staan.</string>
+    <string name="native_1153b30d51d5" formatted="false">Alleen de gecodeerde lokale kopie in de app wordt verwijderd. Bestanden die elders zijn opgeslagen, blijven beschikbaar.</string>
+    <string name="native_427a78a4e69a" formatted="false">Bevestig</string>
+    <string name="native_7af46d7ee003" formatted="false">Deze werkstationback-up herstellen?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s inzendingen · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">De back-up bevat uitvoerbare Linux-software. Bevestig dat u de bron vertrouwt. Herstel vervangt de gehele omgeving en controleert lokale services; de vorige omgeving wordt bewaard voor herstel.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Back-up geverifieerd. Wachten op bevestiging van herstel.</string>
+    <string name="native_97076078c749" formatted="false">Schakel ook de Chromium-compatibiliteitsmodus in (schakelt de Linux-processandbox uit)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Standaard uitgeschakeld. U kunt dit later inschakelen in de bureaubladinstellingen.</string>
+    <string name="native_ddf09383413c" formatted="false">Herstel bevestigen</string>
+    <string name="native_8e6056b0f629" formatted="false">Importeren annuleren</string>
+    <string name="native_63a895901c76" formatted="false">Werkstationomgeving gewijzigd</string>
+    <string name="native_a4c994348a39" formatted="false">Open de werkruimte opnieuw</string>
+    <string name="native_774947f0653e" formatted="false">Taak annuleren</string>
+    <string name="native_e09a22b18445" formatted="false">De taak is onderbroken. Selecteer opnieuw een bewerking en voer het wachtwoord in.</string>
+    <string name="native_38c5fcc634db" formatted="false">Bewaar bestandsbewerkingen eerst in alle vensters. Annuleer een bestaande import voordat u het opnieuw probeert.</string>
+    <string name="native_029bfa8ff772" formatted="false">Het werkstation herstellen en programma\'s verifiëren</string>
+    <string name="native_e4f04df818f8" formatted="false">Uw geselecteerde back-upbewerking wordt verwerkt</string>
+    <string name="native_8206f072d5ee" formatted="false">Stop OpenCode, terminals en desktop en wacht vervolgens tot de bestandsbewerkingen zijn voltooid.</string>
+    <string name="native_1a5cde18c609" formatted="false">Kan de back-uptaak ​​niet starten. Probeer het opnieuw met de app op de voorgrond.</string>
+    <string name="native_1553b714941d" formatted="false">De back-up ontsleutelen en verifiëren. De oorspronkelijke omgeving blijft herstelbaar...</string>
+    <string name="native_dafd005e953e" formatted="false">Back-up geverifieerd. Bevestig het herstel in de app.</string>
+    <string name="native_9fb236184596" formatted="false">De gecodeerde lokale kopie in de app verwijderd.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Bewerking geannuleerd. Originele omgevingsgegevens behouden.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operatie onvolledig. Controleer het wachtwoord, de back-upintegriteit, de hostversie en de vrije ruimte. Originele omgevingsgegevens behouden.</string>
+    <string name="native_29deabd28960" formatted="false">Versleutelde back-up van werkstation maken…</string>
+    <string name="native_3d137e243806" formatted="false">Gecodeerde back-up gemaakt. Kies waar u het wilt opslaan.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">De omgeving herstellen en lokale services controleren. Houd de app-gegevens intact...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Werkstation hersteld. De vorige omgeving blijft in een privéback-up staan. Open de werkruimte opnieuw.</string>
+    <string name="native_0392cd6152d2" formatted="false">Herstelcontroles zijn mislukt. Teruggekeerd naar de vorige omgeving; geïmporteerde gegevens blijven in een privéback-up staan.</string>
+    <string name="native_5dc7410b600e" formatted="false">De restauratie is onvolledig. Alle gegevensmappen blijven behouden. Bewaar de app-gegevens en probeer het herstel opnieuw.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">De vorige werkstationomgeving herstellen…</string>
+    <string name="native_15821323ff89" formatted="false">Vorige omgeving hersteld. Recenter werk blijft in een privéback-up staan. Open de werkruimte opnieuw.</string>
+    <string name="native_56dd94f47870" formatted="false">Kan dit herstel niet ongedaan maken. Huidige omgeving en back-ups behouden.</string>
+    <string name="native_93530f3fa029" formatted="false">Het ongedaan maken is onvolledig. Alle gegevensmappen blijven behouden. Bewaar de app-gegevens en probeer het herstel opnieuw.</string>
+    <string name="native_f12963c80def" formatted="false">Gecodeerde back-up opslaan…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Gecodeerde back-up opgeslagen. U kunt de lokale kopie opnieuw opslaan of deze handmatig verwijderen.</string>
+    <string name="native_d660cccf65e0" formatted="false">Een onbevestigde import opruimen…</string>
+    <string name="native_800592163979" formatted="false">Importeren geannuleerd. Oorspronkelijke omgeving ongewijzigd.</string>
+    <string name="native_5a90367eb834" formatted="false">Importeren geannuleerd. Oorspronkelijke omgeving ongewijzigd; sommige tijdelijke importgegevens blijven in de privémap van de app staan.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Decodering en verificatie voorbereiden…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Gecodeerde back-up voorbereiden…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Kan de back-upservice niet starten. Probeer het opnieuw op de voorgrond.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Herstel eerst de onvolledige omgevingsbewerking</string>
+    <string name="native_f14aea7c819c" formatted="false">Ongeldig herstelrecord</string>
+    <string name="native_7c284c55ee08" formatted="false">Herstelmap ontbreekt</string>
+    <string name="native_bfc4792df15b" formatted="false">De oorspronkelijke instellingen overschrijden de limiet voor herstelrecords</string>
+    <string name="native_8d93770ba8c9">Vorige omgevingsmap ontbreekt: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Onbekende herstelfase</string>
+    <string name="native_20c5124fe175" formatted="false">Onbekende herstelbewerking</string>
+    <string name="native_1c457322b624" formatted="false">Er is geen eerdere omgeving beschikbaar om te herstellen</string>
+    <string name="native_30db1666c8e5" formatted="false">Deze back-up hoort bij een andere app</string>
+    <string name="native_6687d1c64d75" formatted="false">De architectuur van de back-upprocessor komt niet overeen</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Update eerst de Android-host naar de versie die door deze back-up wordt gebruikt</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">De back-upmap is onvolledig</string>
+    <string name="native_66106ab3e254" formatted="false">De oude back-up heeft geen verifieerbaar OpenCode-uitgeversbewijs. Start de oorspronkelijke omgeving met deze host voordat u er opnieuw een back-up van maakt.</string>
+    <string name="native_bec13cc92982" formatted="false">Systeemacties in de ontwikkelomgeving</string>
+    <string name="native_65de80229626" formatted="false">Debian heeft om een systeemactie verzocht</string>
+    <string name="native_5e38581cf19c" formatted="false">Tik om het verzoek te bekijken en af te handelen</string>
+    <string name="native_749d406d2c67" formatted="false">Vanuit de Debian-ontwikkelomgeving</string>
+    <string name="native_4032d33b2afd" formatted="false">De systeembrowser openen?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Een lokaal projectvoorbeeld openen?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Klembord lezen?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kopiëren naar het systeemklembord?</string>
+    <string name="native_77f761eb70aa" formatted="false">Een lokale notificatie versturen?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Een projectbestand delen?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Systeembestanden importeren?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Een projectbestand exporteren?</string>
+    <string name="native_7ac295421c6d" formatted="false">Openen in browser</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Voorbeeld openen</string>
+    <string name="native_14792d6cd7a6" formatted="false">Lezen toestaan</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopiëren naar klembord</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Melding verzenden</string>
+    <string name="native_88152a09fa02" formatted="false">Kies een deel-app</string>
+    <string name="native_7a49a79c57f9" formatted="false">Kies bestanden</string>
+    <string name="native_99d9f87419c5" formatted="false">Kies waar u wilt opslaan</string>
+    <string name="native_23e5bb2090aa">%1$s\nWordt geopend met browsergegevens geïsoleerd van OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Geef tekst van het systeemklembord over aan het huidige Debian-programma.</string>
+    <string name="native_dcc6bec24e43">Kies bestanden om te importeren in %1$s. Bestaande bestanden blijven behouden en duplicaten worden hernoemd.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium-browsermodus</string>
+    <string name="native_4767f37900f6" formatted="false">De compatibiliteitsmodus gebruikt een apart browserprofiel en schakelt de Linux-processandbox van Chromium uit. De browser heeft nog steeds toegang tot bestanden in deze app. Vermijd onbetrouwbare websites en gebruik de Android-systeembrowser voor belangrijke accounts. Open Chromium opnieuw nadat je de modus hebt gewijzigd.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standaard Linux-sandboxing is standaard ingeschakeld. Als Chromium niet kan starten, kunt u de compatibiliteitsmodus selecteren. Het schakelt de Linux-processandbox uit en gebruikt een apart profiel, terwijl de toegang tot app-bestanden behouden blijft. Vermijd onbetrouwbare websites; gebruik de Android-systeembrowser voor belangrijke accounts.</string>
+    <string name="native_3a2596fa9517" formatted="false">Standaardmodus herstellen</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Compatibiliteitsmodus inschakelen</string>
+    <string name="native_9a45442649f5" formatted="false">Debian-bureaublad</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Gedeeld /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Bij de eerste installatie worden grafische componenten gedownload. Na installatie kan de desktop onafhankelijk van OpenCode starten en stoppen.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC-spiegel</string>
+    <string name="native_41e865941e16" formatted="false">Officiële Debian-spiegelserver</string>
+    <string name="native_ea341b8a102b" formatted="false">Initiële resolutie</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Het bureaublad blijft actief als u van pagina wisselt. Stop het vanuit Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Bureaubladtaak stoppen</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Start bureaublad</string>
+    <string name="native_ea27a25e5114" formatted="false">Installeer bureaubladcomponenten</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: compatibiliteitsmodus</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standaardmodus</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Installeer eerst de Debian-ontwikkelaarstools van Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Activiteitenlogboek</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Kan de projectmap niet openen. Controleer of de map bestaat.</string>
+    <string name="native_83c76743b29d" formatted="false">Herstellen van de onderbroken omgevingsbewerking</string>
+    <string name="native_739a730ae247" formatted="false">Onderhoud van de omgeving</string>
+    <string name="native_049281329843" formatted="false">Wacht tot het update-onderhoud of de huidige taak is voltooid.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Wacht tot de huidige ontwikkelomgevingstaak is voltooid</string>
+    <string name="native_83099168971c" formatted="false">Bureaublad installeren</string>
+    <string name="native_85e0c18dde8d" formatted="false">Bureaublad starten</string>
+    <string name="native_9a48f8196d8f" formatted="false">Heeft aandacht nodig</string>
+    <string name="native_75470fb13121" formatted="false">Gestopt</string>
+    <string name="native_51a53c8109d5" formatted="false">Kan het activiteitenrecord niet lezen of opslaan. Repareer het vanuit Runtime of maak wat opslagruimte vrij.</string>
+    <string name="native_d36a018cc619" formatted="false">Installeer eerst de Debian-ontwikkelomgeving</string>
+    <string name="native_80be4c2928a5" formatted="false">Maak eerst verbinding met een netwerk</string>
+    <string name="native_a065d81014b1" formatted="false">Desktopinstallatie is onvolledig. Probeer de installatie opnieuw.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop geïnstalleerd. Start ermee wanneer dat nodig is.</string>
+    <string name="native_6c1c52771115" formatted="false">Installeer eerst de bureaubladcomponenten</string>
+    <string name="native_693d90a47827" formatted="false">Desktopbewerking mislukt. Details zijn te lang of niet beschikbaar.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Kan het opslaan van de stopmarkering niet voltooien. Het opschonen van processen werd voortgezet.</string>
+    <string name="native_06083621a6ce" formatted="false">Kan het opslaan van de activiteitenrecord niet voltooien. De volgende lancering zal dit als een onderbreking beschouwen.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop actief</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Er is een time-out opgetreden bij de desktopbewerking. Bekijk het logboek en probeer het opnieuw.</string>
+    <string name="native_e70d328a3ca9">Desktopproces afgesloten (%1$s). Bekijk het activiteitenlogboek.</string>
+    <string name="native_df5c878f2852" formatted="false">Lokale grafische werkruimte</string>
+    <string name="native_7b0455a8daa4" formatted="false">Bureaublad stoppen</string>
+    <string name="native_a62123cde9c7" formatted="false">Onderbroken taken en herstel</string>
+    <string name="native_279308947a14" formatted="false">Kan het activiteitenrecord niet lezen. Repair bewaart een kopie van het beschadigde record en bewaart projecten, sessies en de Linux-omgeving.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Registratie van reparatieactiviteiten</string>
+    <string name="native_6b43650c2c82" formatted="false">De taak is onverwacht beëindigd.</string>
+    <string name="native_acb0c970aaa6">%1$s terminals waren niet normaal gesloten. Hun loopcommando\'s werden onderbroken.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Herstart bevestigd. Eerdere opdrachten zijn niet herhaald.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Opgeslagen projecten en sessies blijven behouden. Open terminals handmatig opnieuw; onvoltooide opdrachten worden niet automatisch hervat.</string>
+    <string name="native_fa9669296762" formatted="false">Start OpenCode opnieuw</string>
+    <string name="native_bd8130bec5d9" formatted="false">Het bureaublad wordt niet automatisch opnieuw opgestart. Start het opnieuw vanaf de bureaubladpagina.</string>
+    <string name="native_644f8f44251f" formatted="false">Bestand openen</string>
+    <string name="native_9dfb5569d609" formatted="false">Bestand delen</string>
+    <string name="native_a4500cff3a86" formatted="false">De werkmap mag geen symbolische link zijn</string>
+    <string name="native_8657d27661bd" formatted="false">Ongeldig pad naar werkmap</string>
+    <string name="native_02b702a9adff" formatted="false">Selecteer een bestand</string>
+    <string name="native_924874b746cc" formatted="false">Beheer symbolische links in de terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Ongeldige bestandsnaam</string>
+    <string name="native_c4989dc37aab" formatted="false">Directory bestaat niet</string>
+    <string name="native_d613dba39b44" formatted="false">Doelmap bestaat niet</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Kan een map niet in zichzelf of in de onderliggende map plaatsen</string>
+    <string name="native_c3acd5a3254c" formatted="false">Het project bevat speciale apparaten of stopcontacten en kan niet worden gekopieerd</string>
+    <string name="native_6c36955b068b" formatted="false">Selecteer een normaal bestand</string>
+    <string name="native_49191d7d489f" formatted="false">Dit bestand is groter dan 2 MB. Bewerk het met OpenCode of de terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">Bestand is te groot</string>
+    <string name="native_f0a979f87157" formatted="false">Exporteer binaire bestanden om ze in een andere app te openen</string>
+    <string name="native_88a9c82651fc" formatted="false">Bewerk bestanden die niet UTF-8 zijn met OpenCode of de terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Een ander hulpmiddel heeft dit bestand gewijzigd. Open het opnieuw voordat u het bewerkt.</string>
+    <string name="native_0ce79256f4ac" formatted="false">De oorspronkelijke map bestaat niet meer. Herstel het eerst.</string>
+    <string name="native_46eae321049e" formatted="false">Er is geen deel-app beschikbaar</string>
+    <string name="native_87d699d3a26c" formatted="false">Prullenbak</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projectbestanden</string>
+    <string name="native_4dcf914f0b64" formatted="false">Verwijderde bestanden kunnen worden hersteld naar hun oorspronkelijke mappen</string>
+    <string name="native_c5b81b02354f" formatted="false">Terug</string>
+    <string name="native_e56b99379169">%1$s bestanden gekopieerd · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopiëren…</string>
+    <string name="native_85199bb36b04" formatted="false">Annuleer bewerking</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Sluiten</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Nieuwe sessie</string>
+    <string name="native_23c250cc8e0b" formatted="false">Start hier een OpenCode-sessie</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Niet-opgeslagen wijzigingen</string>
+    <string name="native_2266227605c4" formatted="false">Opslaan</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Prullenbak is leeg</string>
+    <string name="native_a9e739b13e52" formatted="false">Herstellen</string>
+    <string name="native_45985dc2183e" formatted="false">Verplaatsen:</string>
+    <string name="native_31214130b5b7" formatted="false">Kopieer:</string>
+    <string name="native_07e5c3158f35" formatted="false">Plakken</string>
+    <string name="native_831b4e0fb574" formatted="false">Nieuw</string>
+    <string name="native_ff65a22d7087" formatted="false">Nieuwe map</string>
+    <string name="native_71faed44a86c" formatted="false">Nieuw bestand</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importeren</string>
+    <string name="native_d85825123e60" formatted="false">Vernieuwen</string>
+    <string name="native_ac9d73843736" formatted="false">Doorzoek deze map</string>
+    <string name="native_21eef82963ee" formatted="false">Deze map is leeg. Importeer bestanden of maak een project aan.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Geen overeenkomende bestanden</string>
+    <string name="native_d674bc0f86b8" formatted="false">Bestandsacties</string>
+    <string name="native_d04a47c87cc8" formatted="false">Symbolische link</string>
+    <string name="native_e0ba66f5246a" formatted="false">Map</string>
+    <string name="native_f170b42599e8" formatted="false">Hernoemen</string>
+    <string name="native_4cdacf57ead2" formatted="false">Kopiëren</string>
+    <string name="native_124aa030694e" formatted="false">Verplaatsen naar…</string>
+    <string name="native_ac990518ed87" formatted="false">Open hier de terminal</string>
+    <string name="native_87bc93932d8a" formatted="false">Exporteren naar systeembestanden</string>
+    <string name="native_dd37f132172f" formatted="false">Verplaats naar prullenbak</string>
+    <string name="native_7318746d337c" formatted="false">Verplaatsen naar prullenbak?</string>
+    <string name="native_2b5ee3f10a56">U kunt “%1$s” uit de prullenbak herstellen.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Verplaatsen</string>
+    <string name="native_4e47aaa113fc" formatted="false">Niet-opgeslagen wijzigingen verwijderen?</string>
+    <string name="native_63b75399ef1a" formatted="false">Wijzigingen negeren</string>
+    <string name="native_d9618f7b8d25" formatted="false">Ga door met bewerken</string>
+    <string name="native_76ce6aef5479" formatted="false">Naam</string>
+    <string name="native_35b0fc30b909" formatted="false">Oké</string>
+    <string name="native_11b319774788" formatted="false">Omgeving hersteld. Open de werkruimte opnieuw.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Voltooi eerst het herstellen van de onderbroken bewerking in Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Er wordt onderhoud aan de omgeving uitgevoerd. Probeer het later opnieuw.</string>
+    <string name="native_3bd28258feb0" formatted="false">Bewerking geannuleerd</string>
+    <string name="native_c508721eb3cd" formatted="false">Er bestaat al een bestand met deze naam. Kies een andere naam.</string>
+    <string name="native_1e8274fe468a" formatted="false">Het bestand bestaat niet meer. Vernieuw de map.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Toegangsrechten voor bestanden geweigerd</string>
+    <string name="native_cd808e4c321e" formatted="false">Kan de bewerking niet voltooien</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operatie onvolledig. Controleer de beschikbare opslagruimte of selecteer de bestanden opnieuw.</string>
+    <string name="native_3f9983126fd7" formatted="false">Controleer de opstartstatus van OpenCode in Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Kan geen nieuwe terminal openen. Controleer het aantal sessies.</string>
+    <string name="native_2160fde3813a" formatted="false">Beheer symbolische links in de terminal. De bestandsbeheerder volgt geen links.</string>
+    <string name="native_7a844e9d4017" formatted="false">Verplaatsing voltooid</string>
+    <string name="native_573877894fcf" formatted="false">Kopiëren voltooid</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Verplaatst naar prullenbak</string>
+    <string name="native_862330af933f" formatted="false">Hersteld naar de oorspronkelijke map</string>
+    <string name="native_beda23c9d52b" formatted="false">Er heeft onderhoud of vervanging van de omgeving plaatsgevonden. Open de werkruimte opnieuw voordat u gaat bewerken.</string>
+    <string name="native_678c6953bb2b" formatted="false">Opgeslagen</string>
+    <string name="native_8063159f2178" formatted="false">Kan het geselecteerde bestand niet lezen</string>
+    <string name="native_4cdc2180d2ac">%1$s bestanden geïmporteerd</string>
+    <string name="native_e98763643b93" formatted="false">Kan niet naar de geselecteerde locatie schrijven</string>
+    <string name="native_5afd173be7fa" formatted="false">Exporteren voltooid</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Code en sessies</string>
+    <string name="native_8745ed51cadd" formatted="false">Bureaublad</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafische werkruimte</string>
+    <string name="native_770d49c5f689" formatted="false">Bestanden</string>
+    <string name="native_6a9b6480b58f" formatted="false">Looptijd</string>
+    <string name="native_b561fe9204cc" formatted="false">Diensten en ontwikkelaarstools</string>
+    <string name="native_70850bdeeabd" formatted="false">Paginamenu sluiten</string>
+    <string name="native_b4549acb48e8" formatted="false">Werkruimte</string>
+    <string name="native_3d3551f4660f">Zwevende knopdekking %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Lagere waarden maken de zwevende knop transparanter</string>
+    <string name="native_e031beabfc9a" formatted="false">Paginamenu openen</string>
+    <string name="native_106ee775b538" formatted="false">Verbinding maken met lokale OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Lokale verbinding heeft herstel nodig</string>
+    <string name="native_dacb8837471c" formatted="false">Opnieuw verbinding maken</string>
+    <string name="native_17584aa60ae6" formatted="false">Kan de lokale resourcecache niet voorbereiden</string>
+    <string name="native_3b3b80064ccb" formatted="false">Lokale OpenCode voorbereiden…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Probeer het opnieuw</string>
+    <string name="native_b07809340403" formatted="false">Werkruimtelocatie is nog niet opgeslagen. Probeer het later opnieuw.</string>
+    <string name="native_e4ab10392d05" formatted="false">De lokale dienst maakt zich klaar. Uw werkruimte wordt automatisch geopend zodra u verbinding heeft.</string>
+    <string name="native_20ea15973287" formatted="false">De vorige run werd onderbroken. Opnieuw opstarten vanaf Runtime; terminalopdrachten worden niet automatisch herhaald.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Start OpenCode vanuit Runtime om code en sessies te openen.</string>
+    <string name="native_abbac5c22111" formatted="false">De app afsluiten?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">De ontwikkelomgeving kan op de achtergrond blijven draaien. Kom later terug van de melding.</string>
+    <string name="native_814a8fb24b62" formatted="false">De huidige werkruimte verlaten?</string>
+    <string name="native_a76464945c2d" formatted="false">Stop ook de ontwikkelomgeving</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Afsluiten</string>
+    <string name="native_b00143b08ff1" formatted="false">Ontwikkelwerkstation gereed</string>
+    <string name="native_51bca456a350" formatted="false">Uw Debian-ontwikkelwerkstation</string>
+    <string name="native_0c2acd0b6057" formatted="false">Hardlopen</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Starten</string>
+    <string name="native_44da7f6a451d" formatted="false">Stoppen</string>
+    <string name="native_b7e1503a7239" formatted="false">Ontwikkelomgeving repareren</string>
+    <string name="native_7c91bd67ff14" formatted="false">Installeer de ontwikkelomgeving</string>
+    <string name="native_cfd73bb04860" formatted="false">Omgeving stoppen</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode starten</string>
+    <string name="native_5d4600a269e9" formatted="false">Controleer omgeving</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Debian-ontwikkelaarstools bijwerken</string>
+    <string name="native_c114ec62712b" formatted="false">Vorige omgevingsback-up, projecten en sessiegegevens blijven behouden.</string>
+    <string name="native_eb3114155716" formatted="false">Taalservers installeren / updaten</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) en Python (pylsp), online geïnstalleerd vanuit ondertekende Debian-repository\'s. Stop eerst OpenCode en het bureaublad.</string>
+    <string name="native_2c7251cce661" formatted="false">Tik op de zwevende knop om van pagina te wisselen. Versleep het om het te verplaatsen.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime-informatie verschijnt hier na het opstarten.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Runtime openen</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Gebundelde APK-versie</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode-updates</string>
+    <string name="native_36ab16248f65" formatted="false">Importeer een .ocaupdate ondertekend door de uitgever van deze app. De officiële frontend- en backend-update samen.</string>
+    <string name="native_8aad48b0508d" formatted="false">Updatebron (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Controleer de updatebron</string>
+    <string name="native_f73973cfadbb">Ondertekende vrijgave: %1$s\nVastlegging: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Downloaden en verifiëren</string>
+    <string name="native_f2ef7965bf12" formatted="false">Selecteer updatepakket</string>
+    <string name="native_165111adfe2c">Klaar om te installeren: %1$s\nVastlegging: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Installeer deze update</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Herstel de versie en sessies van vóór de update</string>
+    <string name="native_6864335de653" formatted="false">Update annuleren</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode-update installeren?</string>
+    <string name="native_816bf3635d53" formatted="false">De status van vóór de update herstellen?</string>
+    <string name="native_11beb4a42abc">Installeer %1$s. De app slaat een sessiemomentopname op, controleert het ondertekende programma en herstelt de vorige versie als deze mislukt. Projectbestanden blijven behouden.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessies keren terug naar de staat van vóór deze update. Recentere sessies blijven in een privéback-up staan. Projectbestanden blijven behouden.</string>
+    <string name="native_def5e273616d" formatted="false">Installatie bevestigen</string>
+    <string name="native_369d2eefccde" formatted="false">Kan voorbeeldbrowsergegevens niet isoleren. Open het voorbeeld opnieuw.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Kan de projectpagina niet laden. Controleer de ontwikkelingsserver in uw terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">Preview projectwebsite</string>
+    <string name="native_bfb4951e071d" formatted="false">Projectvoorbeeld</string>
+    <string name="native_f80652913d06" formatted="false">Start een ontwikkelingsserver in de terminal en voer vervolgens de lokale poort in. Preview-browsergegevens worden geïsoleerd van OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Poort</string>
+    <string name="native_77c3a828a5c5" formatted="false">Voer een ontwikkelingspoort in van 1024 tot 65535, exclusief OpenCode en desktopservices.</string>
+    <string name="native_7311a9dfea51" formatted="false">Er wordt niets geluisterd op deze poort. Controleer de service in uw terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">Controleren…</string>
+    <string name="native_4923c272b68e" formatted="false">De ontwikkelingspoort moet een geheel getal zijn</string>
+    <string name="native_04a87026e81f" formatted="false">Kies een geldige projectontwikkelingspoort</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode-ontwikkelsessie</string>
+    <string name="native_e87a4529ab82" formatted="false">Installatie van de ontwikkelomgeving</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian-update</string>
+    <string name="native_0c6301bc295d" formatted="false">Reparatie van de ontwikkelomgeving</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Controle van de ontwikkelomgeving</string>
+    <string name="native_9612d4419bb6" formatted="false">Installatie taalserver</string>
+    <string name="native_f72fba77f87a" formatted="false">Herstel van de omgeving</string>
+    <string name="native_7c8162195c7c" formatted="false">Desktopinstallatie</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">De vorige run werd onderbroken. Start expliciet opnieuw op vanuit Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Een dergelijke ontwikkelingstaak is nog steeds actief</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Het activiteitenrecord repareren</string>
+    <string name="native_b66749ed72ea" formatted="false">Proces afgesloten</string>
+    <string name="native_6b25042064e2" formatted="false">Beëindigd door signaal</string>
+    <string name="native_d6febdf1752b" formatted="false">Teruggewonnen vanwege weinig geheugen</string>
+    <string name="native_1d13790f3c89" formatted="false">App crasht</string>
+    <string name="native_28db94d1850d" formatted="false">Native procescrash</string>
+    <string name="native_86919539f7f1" formatted="false">App reageert niet</string>
+    <string name="native_90fb8d6098a5" formatted="false">Initialisatie mislukt</string>
+    <string name="native_38c60ab6654c" formatted="false">Machtigingen gewijzigd</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resourcelimiet</string>
+    <string name="native_19b2090b01a8" formatted="false">Gebruiker heeft stop aangevraagd</string>
+    <string name="native_120d96445f1a" formatted="false">Gestopt door gebruiker</string>
+    <string name="native_3c8af14f66bc" formatted="false">Afhankelijk proces verlaten</string>
+    <string name="native_ca0941ce04ae" formatted="false">Andere systeemreden</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Procesbevriezing</string>
+    <string name="native_0d48373023a8" formatted="false">App-status gewijzigd</string>
+    <string name="native_c752307db26b" formatted="false">App-update</string>
+    <string name="native_b5015951cbdf" formatted="false">Het systeem heeft geen reden voor het afsluiten opgegeven</string>
+    <string name="native_b62737b826ad">Systeem afsluiten (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Kan de projectmap niet openen</string>
+    <string name="native_faf5d983c13e" formatted="false">Kan geen OpenCode-sessie maken</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode-sessiemap komt niet overeen</string>
+    <string name="native_ac19736908a2" formatted="false">Kan de OpenCode-sessie niet lezen</string>
+    <string name="native_2642997cfeec" formatted="false">Onderhoud van de omgeving</string>
+    <string name="native_f992d735d932" formatted="false">Stop OpenCode, terminals en het Debian-bureaublad en wacht vervolgens tot de bestandsbewerkingen zijn voltooid</string>
+    <string name="native_489f137f1080" formatted="false">De omgevingsonderhoudsvergrendeling is niet langer geldig</string>
+    <string name="native_42380e2567fc" formatted="false">Onderbroken werking hersteld. Open de werkruimte opnieuw.</string>
+    <string name="native_17b00cac2b91" formatted="false">Herstel van lokale verbinding mislukt. Probeer het opnieuw vanuit Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Er wordt onderhoud aan de omgeving uitgevoerd. Probeer het later opnieuw.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Stop het Debian-bureaublad voordat u de ontwikkelomgeving bijwerkt</string>
+    <string name="native_548085b144c9" formatted="false">Onderbroken werking hersteld. U kunt de ontwikkelomgeving starten.</string>
+    <string name="native_b4a1531f9eac" formatted="false">De vorige run werd onderbroken. Terminalopdrachten worden niet automatisch herhaald. Start expliciet opnieuw op vanuit Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Het tijdelijk opschonen van de verbindingsconfiguratie is onvolledig. Het opschonen van processen werd voortgezet.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Kan de helloworld-werkruimte niet maken. Controleer de map en de beschikbare ruimte.</string>
+    <string name="native_68301868225a" formatted="false">De vorige werkruimtemap is niet beschikbaar. helloworld geopend.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Het standaardproject is nog niet klaar. Opnieuw proberen vanuit bestanden.</string>
+    <string name="native_45d6ab452622" formatted="false">Taalservers installeren</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++- en Python-taalservers zijn gereed. Start OpenCode om LSP te gebruiken.</string>
+    <string name="native_5ea1653deef8" formatted="false">Het terminalactiviteitrecord is niet opgeslagen. Maak een nieuwe terminal aan na beëindiging van het proces.</string>
+    <string name="native_1978b311a9ff" formatted="false">Kan het opslaan van de terminaluitgangsrecord niet voltooien.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode-update downloaden</string>
+    <string name="native_06f76cca8fb9" formatted="false">Verbinding maken met de updatebron…</string>
+    <string name="native_8c39baf28e08" formatted="false">Kan geen verbinding maken met de updatebron. Controleer het netwerk, de handtekening van de uitgever, de hostversie en de vrije ruimte.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Downloadtime-out</string>
+    <string name="native_f75850093535">Downloaden: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Handtekening van de uitgever verifiëren...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Updatepakket downloaden…</string>
+    <string name="native_2f9cd52dc66a">Geldige handtekening van de uitgever: %1$s. Beoordeel voordat u downloadt.</string>
+    <string name="native_17548865632c" formatted="false">Downloaden, metadata vrijgeven en pakkethandtekening geverifieerd. Bevestig de installatie.</string>
+    <string name="native_180cec958e7a" formatted="false">Downloaden geannuleerd. Originele versie behouden.</string>
+    <string name="native_8df045f8ac12" formatted="false">Downloaden gestopt. Originele versie behouden.</string>
+    <string name="native_778803f1c6bb" formatted="false">Downloaden annuleren</string>
+    <string name="native_2958898ce6f4" formatted="false">De nieuwe versie is niet geslaagd voor de lokale opstart-, versie- of authenticatiecontroles. De vorige versie wordt hersteld.</string>
+    <string name="native_cc876dfbb261" formatted="false">Het proefproces loopt nog. Wacht op herstel voordat u het opnieuw probeert.</string>
+    <string name="native_adf977dcb47e" formatted="false">Ongeldige updaterecord-ID</string>
+    <string name="native_5207cac670b7" formatted="false">De geïnstalleerde standalone OpenCode-grootte komt niet overeen</string>
+    <string name="native_cf5b81887589" formatted="false">Geïnstalleerde standalone OpenCode-controlesom komt niet overeen. Herstel de vorige versie.</string>
+    <string name="native_393049b506cc" formatted="false">Het originele programma heeft geen overeenkomend uitgeversbewijs. Vorige staat ongewijzigd.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Herstel eerst de vorige onderbroken update</string>
+    <string name="native_91d8da5525fa" formatted="false">Het updatepakket is na bevestiging gewijzigd</string>
+    <string name="native_093f2c091a30" formatted="false">Onvoldoende opslagruimte. Originele versie ongewijzigd.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Er is geen updateback-up beschikbaar om te herstellen</string>
+    <string name="native_a9f4d9903c14" formatted="false">De back-up komt niet overeen met de actieve versie</string>
+    <string name="native_6caa23763a42" formatted="false">Vorige programmaverificatie mislukt. Huidige sessies ongewijzigd.</string>
+    <string name="native_c8b71b876695" formatted="false">Een latere APK- of Debian-update verving het gebundelde programma. De originele sessieback-up blijft behouden; herstel eerst het overeenkomstige programma.</string>
+    <string name="native_c443df40964b" formatted="false">Ongeldige updateherstelbewerking</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode-update voorbereiden…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Stop OpenCode, terminals en het bureaublad en wacht tot ze afsluiten.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Status opslaan, programma\'s verifiëren en tussen versies schakelen</string>
+    <string name="native_5fc065ef6f50" formatted="false">Kan de update-onderhoudsservice niet starten.</string>
+    <string name="native_f7b560c8c820" formatted="false">Het officiële programma verifiëren en voorbereiden...</string>
+    <string name="native_9606191c82dc" formatted="false">Met behoud van het originele programma en de handtekening van de uitgever...</string>
+    <string name="native_5c0d7787ee51" formatted="false">Momentopname van sessiestatus opslaan...</string>
+    <string name="native_0c8cf4632889" formatted="false">Van versie wisselen en de lokale service verifiëren…</string>
+    <string name="native_3e81ea691a4a" formatted="false">De versie en sessies van vóór de update herstellen…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode herstellen</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode bijwerken</string>
+    <string name="native_6b1ccd3778fa" formatted="false">De vorige versie en sessies hersteld. Recentere sessies blijven in een privéback-up staan.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode-update voltooid. Startup zal de bijpassende officiële frontend en backend gebruiken.</string>
+    <string name="native_4693930f5802" formatted="false">Update geannuleerd. Bevestiging dat de oorspronkelijke staat is hersteld.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Update onvolledig. Nu herstellende; originele programma- en sessieback-ups blijven behouden.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Herstel is onvolledig. Alle staatsdirectory\'s blijven behouden. Bewaar uw gegevens en probeer opnieuw op te starten om te herstellen.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Sessieherstel voltooid. De recentere status blijft in een back-up staan.</string>
+    <string name="native_67c08a2911e1" formatted="false">Het herstel kon niet doorgaan met deze back-up of het originele programma. Huidige sessies en back-ups ongewijzigd.</string>
+    <string name="native_976d8c169cfa" formatted="false">Update geannuleerd of mislukt. Originele versie en sessies hersteld.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Handtekening en integriteit van updatepakket verifiëren...</string>
+    <string name="native_0aa018b7337b" formatted="false">Kan het geselecteerde bestand niet lezen</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Updatepakket is te groot</string>
+    <string name="native_f068b83f40bf" formatted="false">Handtekening en pakket geverifieerd. Controleer de versie voordat u installeert.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Kan niet importeren: ongeldig bestand, handtekening komt niet overeen, incompatibele hostversie of onvoldoende opslagruimte.</string>
+    <string name="native_616412e65df4" formatted="false">Het officiële programma komt niet overeen met het bewijs van de uitgever</string>
+    <string name="native_4bf19a158f27" formatted="false">Standalone runtime-pakketten ondersteunen alleen ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">De updatehandtekening hoort niet bij deze APK</string>
+    <string name="native_c7273354727f" formatted="false">Het updatebestand overschrijdt de aangegeven grootte</string>
+    <string name="native_2aa6c8e74abb" formatted="false">De controlesom van het updateprogramma komt niet overeen</string>
+    <string name="native_dd619076d456" formatted="false">Ongeldige updatepakketgrootte</string>
+    <string name="native_20c5bdfeffc0" formatted="false">De grootte van het gecomprimeerde updatepakket komt niet overeen</string>
+    <string name="native_1de24edffcf5" formatted="false">Het updatepakket bevat extra vermeldingen</string>
+    <string name="native_c5b339aa77e8" formatted="false">Incompatibele oorsprong of architectuur van de update</string>
+    <string name="native_89d585f3661f" formatted="false">Upgrade de Android-app voordat u deze update installeert</string>
+    <string name="native_800df084dea0" formatted="false">Controlesom van updatearchief komt niet overeen</string>
+    <string name="native_ddf1a005e310" formatted="false">Dit APK-ondertekeningsformaat ondersteunt geen zelfstandige runtime-updates</string>
+    <string name="native_172e063db474" formatted="false">Ongeldige invoer van updatepakket</string>
+    <string name="native_1c08780aa99f" formatted="false">Metagegevens voor updates moeten gehele getallen gebruiken</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Het updateprogramma is geen 64-bit Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Het updateprogramma voldoet niet aan de 16 KiB ELF-uitlijning</string>
+    <string name="native_3afa3741911b" formatted="false">Het updateprogramma mist de Debian glibc-lader</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Voer een geldige HTTPS-updatebron in</string>
+    <string name="native_c274c7dd5900" formatted="false">Updatebronnen vereisen HTTPS-URL\'s zonder gebruikersgegevens</string>
+    <string name="native_f459f5ec9dac" formatted="false">Ongeldig updatebronveld</string>
+    <string name="native_bde2a736e30a" formatted="false">Upgrade eerst de Android-host</string>
+    <string name="native_b980fd021bef" formatted="false">Ongeldige updatedirectory</string>
+    <string name="native_c0e96727553e" formatted="false">Ongeldig updatebestand</string>
+    <string name="native_86ff542c68ed" formatted="false">In deze staat kan er niet tussen updatemappen worden gewisseld</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Sessiestatus verwijst naar een externe directory. De update kan niet veilig worden getest.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Onvoldoende opslagruimte. Oorspronkelijke staat ongewijzigd.</string>
+    <string name="native_099801d672b1" formatted="false">Downloaden geannuleerd</string>
+    <string name="native_f1304f707ec9" formatted="false">Te veel update-omleidingen</string>
+    <string name="native_0d07f458b607" formatted="false">De updateserver heeft de originele bytes niet overgedragen</string>
+    <string name="native_de331dfd8908" formatted="false">De lengte van het updatebestand komt niet overeen</string>
+    <string name="native_416b8c87e69e" formatted="false">Het updatebestand is niet volledig gedownload</string>
+    <string name="native_e1e74b76c427" formatted="false">De updateserver heeft niet het volledige bestand geretourneerd</string>
+    <string name="native_6afcf03cb130" formatted="false">Onvoldoende updateruimte</string>
+    <string name="native_be1c695d9241" formatted="false">Updatebestand SHA-256 komt niet overeen</string>
+    <string name="native_a0133d117bb0" formatted="false">Het updatepakket komt niet overeen met de bevestigde release-informatie</string>
+    <string name="native_8635a43ce28a" formatted="false">Ongeldige projectmap</string>
+    <string name="native_d32ab8b004e6" formatted="false">Kan de werkruimtelocatie niet opslaan</string>
+    <string name="native_43a5447014fd" formatted="false">Start de ontwikkelomgeving vanuit Runtime voordat u een terminal opent.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Nieuwe terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Sluitstroom</string>
+    <string name="native_0e822affd5da">Initiële map: %1$s</string>
+    <string name="native_72d769e3888d">Nieuwe terminaldirectory: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Systeembestandkiezer is niet beschikbaar</string>
+    <string name="native_179a57921f91" formatted="false">WebView-renderinginstellingen</string>
+    <string name="native_3024ec603eb7" formatted="false">Framesnelheid renderen</string>
+    <string name="native_55b6d7f645f3" formatted="false">Liever 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Volg de vernieuwingsfrequentie van het scherm</string>
+    <string name="native_d4ecf38c341d" formatted="false">Geef de voorkeur aan 60 Hz om de renderingbelasting op beeldschermen met een hoge vernieuwingsfrequentie te verminderen. Door het scherm te volgen, kan het systeem frames plannen. Geldt alleen voor het venster van deze app.</string>
+    <string name="native_bf0d3a407418" formatted="false">Niet geïnstalleerd</string>
+    <string name="native_2fb8edc75b25" formatted="false">Klaar</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Lader verifiëren</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian installeren</string>
+    <string name="native_f863d955fa6e" formatted="false">Lokale ontwikkelomgeving</string>
+    <string name="native_55aa84065de2" formatted="false">Lokale Debian-ontwikkelingssessie</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop</string>
+    <string name="native_5f73a4e1e494" formatted="false">Geïnstalleerd</string>
+    <string name="native_147e90d2ec02" formatted="false">Herstellend</string>
+</resources>

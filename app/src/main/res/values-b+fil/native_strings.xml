@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Development workspace</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Isang pahina</string>
+    <string name="native_651ae6ea52ae" formatted="false">Ibalik ang split view</string>
+    <string name="native_d7e97cfac66f" formatted="false">Layout ng workspace</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Palawakin ang window upang tingnan ang maraming panel nang magkasama.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Ipakita ang mga file ng proyekto</string>
+    <string name="native_712d956931d1" formatted="false">Ipakita ang terminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal sa ibaba</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal sa kanan\nAng mga panel ng</string>
+    <string name="native_35cdb3eacdc6" formatted="false">ay bumagsak kapag limitado ang espasyo at nananatiling naa-access mula sa lumulutang na menu. Lumilitaw ang side terminal sa mas malalawak na bintana. I-drag ang mga divider upang baguhin ang laki ng mga panel.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Left Alt: 1–5 Pages · B Files · T Terminal · M Desktop · Enter Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Tapos na</string>
+    <string name="native_bcec2218fc21" formatted="false">I-reset ang mga proporsyon</string>
+    <string name="native_da88c62d1217">Ipakita ang %1$s sa isang pahina</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Project file divider</string>
+    <string name="native_707c0891a0e6" formatted="false">Terminal divider</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode at desktop divider</string>
+    <string name="native_50407ad8dfa8" formatted="false">Paliitin ang nakaraang panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Palakihin ang nakaraang panel</string>
+    <string name="native_3f3685e8d731" formatted="false">Masyadong maraming PRoot link para sa archive na format na ito</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux hard link ay nangangailangan ng kumpletong rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Masyadong malalim ang backup na directory nesting</string>
+    <string name="native_b6f744737a45" formatted="false">Di-wastong haba ng backup na password</string>
+    <string name="native_13bde5dd1812" formatted="false">Ang backup na password ay dapat maglaman ng hindi bababa sa 12 character</string>
+    <string name="native_be02cbd55932" formatted="false">Hindi sinusuportahang backup na format</string>
+    <string name="native_7a91a3d586ae" formatted="false">Di-wastong backup na header</string>
+    <string name="native_2bbd318a5667" formatted="false">Hindi sinusuportahang backup na mga parameter ng pag-encrypt</string>
+    <string name="native_18868da27841" formatted="false">Maling backup na password o sirang file\nAng</string>
+    <string name="native_e41d6440468d" formatted="false">talaan ng pagbawi ay masyadong malaki</string>
+    <string name="native_282692502f14" formatted="false">Ang backup na metadata ay masyadong malaki</string>
+    <string name="native_61fdca8d6c82" formatted="false">Ang backup na metadata nesting ay masyadong malalim</string>
+    <string name="native_8cefb30732d4" formatted="false">Di-wastong backup na metadata</string>
+    <string name="native_5d3037708cad" formatted="false">Hindi suportadong mga native na setting</string>
+    <string name="native_81a57c382f9d" formatted="false">Hindi ma-save ang mga native na setting</string>
+    <string name="native_50603e683d4a" formatted="false">Di-wastong parent directory sa backup path</string>
+    <string name="native_c3f838a46b8e" formatted="false">Ang ugat ng workstation ay hindi dapat isang simbolikong link</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Isang file ang nagbago habang nag-backup</string>
+    <string name="native_77e1e85147db" formatted="false">Hindi sinusuportahang format ng data ng workstation</string>
+    <string name="native_a927b5a565af" formatted="false">Ang backup ay naglalaman ng karagdagang data</string>
+    <string name="native_c2b886d508f2" formatted="false">Ang backup ay naglalaman ng mga duplicate na path</string>
+    <string name="native_3dab8cd60102" formatted="false">Ang backup ay naglalaman ng mga setting ng runtime na hindi maaaring ilipat</string>
+    <string name="native_f45ba674a630" formatted="false">Masyadong malaki ang backup o hindi sapat ang storage</string>
+    <string name="native_140073e8e77b" formatted="false">Hindi maibalik ang simbolikong mga timestamp ng link</string>
+    <string name="native_b0d411aaf62c" formatted="false">Hindi maibalik ang pinangalanang mga timestamp ng pipe</string>
+    <string name="native_0daee8026db1" formatted="false">Workstation backup at restore</string>
+    <string name="native_1acc18928c5f" formatted="false">Kasama ang Debian, mga tool ng developer, proyekto, tahanan, mga session at setting ng OpenCode, data ng browser ng Linux, at mga setting ng native na layout.</string>
+    <string name="native_62254d31a535" formatted="false">Ang mga pansamantalang file at lumang backup ay hindi kasama. Ang storage ng Android WebView at mga hindi naipadalang draft ay nananatili sa device na ito at hindi inililipat kasama ng backup na ito.</string>
+    <string name="native_808eabc7811f" formatted="false">Gumawa ng naka-encrypt na backup</string>
+    <string name="native_201c10b38296" formatted="false">Mag-import ng backup</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">I-save muna ang iyong mga pagbabago sa editor ng file.</string>
+    <string name="native_0559cd596453" formatted="false">Ihinto ang OpenCode, mga terminal at desktop</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Ang isang environment operation ay hindi kumpleto. Bawiin mo muna.</string>
+    <string name="native_185f58156330" formatted="false">I-recover ang hindi kumpletong operasyon</string>
+    <string name="native_20831b6f67a7" formatted="false">I-undo ang huling pagpapanumbalik ng kapaligiran</string>
+    <string name="native_4f392d5d6141">Naka-encrypt na lokal na kopya: %1$s</string>
+    <string name="native_80077c694212" formatted="false">I-save sa file</string>
+    <string name="native_f09619351eb9" formatted="false">Tanggalin ang lokal na kopya</string>
+    <string name="native_85c686eb9841">Naproseso %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Kanselahin ang backup na gawain</string>
+    <string name="native_66c9d896407b" formatted="false">I-encrypt ang backup ng workstation</string>
+    <string name="native_548cd9f0831e" formatted="false">I-decrypt at i-verify ang backup\nAng</string>
+    <string name="native_d248f5eca9a5" formatted="false">Backup ay maaaring maglaman ng mga pribadong key ng SSH, API key at data ng account. Gumamit ng hindi bababa sa 12 character. Hindi na mababawi ang nakalimutang password.</string>
+    <string name="native_f249422b9ec1" formatted="false">Ang backup ay decrypted at na-verify sa isang pribadong direktoryo. Ang iyong kapaligiran ay papalitan lamang pagkatapos mong kumpirmahin ang pagpapanumbalik.</string>
+    <string name="native_e7be6841703a" formatted="false">Backup na password</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Ulitin ang password</string>
+    <string name="native_eafdc5cd4882" formatted="false">Simulan ang pag-encrypt</string>
+    <string name="native_2986b88beade" formatted="false">I-decrypt at i-verify</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Kanselahin</string>
+    <string name="native_f46c5ed7412d" formatted="false">Ibalik ang buong nakaraang kapaligiran?</string>
+    <string name="native_33eda0946a5b" formatted="false">Tanggalin ang naka-encrypt na lokal na kopya?</string>
+    <string name="native_26db24150f2e" formatted="false">Ang mga proyekto, tahanan, Debian at mga session ay babalik sa kanilang estado bago ang huling pagpapanumbalik. Ang mas kamakailang trabaho ay mananatili sa isang pribadong backup sa loob ng app.</string>
+    <string name="native_1153b30d51d5" formatted="false">Tanging ang naka-encrypt na lokal na kopya sa loob ng app ang tatanggalin. Nananatiling available ang mga file na naka-save sa ibang lugar.</string>
+    <string name="native_427a78a4e69a" formatted="false">Kumpirmahin</string>
+    <string name="native_7af46d7ee003" formatted="false">Ibalik ang backup ng workstation na ito?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s entry · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Ang backup ay naglalaman ng executable Linux software. Kumpirmahin na pinagkakatiwalaan mo ang pinagmulan nito. Pinapalitan ng pagpapanumbalik ang buong kapaligiran at sinusuri ang mga lokal na serbisyo; ang dating kapaligiran ay pinananatili para sa pagbawi.\nNa-verify ang</string>
+    <string name="native_c3d74ed0c054" formatted="false">Backup. Naghihintay ng kumpirmasyon sa pagpapanumbalik.</string>
+    <string name="native_97076078c749" formatted="false">Paganahin din ang Chromium compatibility mode (hindi pinapagana ang proseso ng Linux sandbox)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Naka-off bilang default. Maaari mo itong paganahin sa ibang pagkakataon sa mga setting ng desktop.</string>
+    <string name="native_ddf09383413c" formatted="false">Kumpirmahin ang pagpapanumbalik</string>
+    <string name="native_8e6056b0f629" formatted="false">Kanselahin ang pag-import</string>
+    <string name="native_63a895901c76" formatted="false">Workstation environment ay nagbago</string>
+    <string name="native_a4c994348a39" formatted="false">Muling buksan ang workspace</string>
+    <string name="native_774947f0653e" formatted="false">Kanselahin ang gawain</string>
+    <string name="native_e09a22b18445" formatted="false">Ang gawain ay naantala. Pumili muli ng isang operasyon at ipasok ang password.</string>
+    <string name="native_38c5fcc634db" formatted="false">I-save muna ang mga pag-edit ng file sa lahat ng window. Kanselahin ang isang kasalukuyang pag-import bago subukang muli.</string>
+    <string name="native_029bfa8ff772" formatted="false">Pagpapanumbalik ng workstation at pag-verify ng mga programa</string>
+    <string name="native_e4f04df818f8" formatted="false">Pinoproseso ang iyong napiling backup na operasyon</string>
+    <string name="native_8206f072d5ee" formatted="false">Ihinto ang OpenCode, mga terminal at desktop, pagkatapos ay hintaying matapos ang mga pagpapatakbo ng file.</string>
+    <string name="native_1a5cde18c609" formatted="false">Hindi masimulan ang backup na gawain. Subukang muli gamit ang app sa foreground.</string>
+    <string name="native_1553b714941d" formatted="false">Pag-decryption at pag-verify ng backup. Ang orihinal na kapaligiran ay nananatiling mababawi...\nNa-verify ang</string>
+    <string name="native_dafd005e953e" formatted="false">Backup. Kumpirmahin ang pagpapanumbalik sa app.</string>
+    <string name="native_9fb236184596" formatted="false">Tinanggal ang naka-encrypt na lokal na kopya sa loob ng app.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Kinansela ang operasyon. Napanatili ang orihinal na data ng kapaligiran.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Hindi kumpleto ang operasyon. Suriin ang password, backup na integridad, bersyon ng host at libreng espasyo. Napanatili ang orihinal na data ng kapaligiran.</string>
+    <string name="native_29deabd28960" formatted="false">Gumagawa ng naka-encrypt na backup ng workstation…</string>
+    <string name="native_3d137e243806" formatted="false">Nagawa ang naka-encrypt na backup. Piliin kung saan ito ise-save.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Pagpapanumbalik ng kapaligiran at pagsuri sa mga lokal na serbisyo. Panatilihing buo ang data ng app...\nNa-restore ang</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Workstation. Ang nakaraang kapaligiran ay nananatili sa isang pribadong backup. Buksan muli ang workspace.</string>
+    <string name="native_0392cd6152d2" formatted="false">Nabigo ang mga pagsusuri sa pag-restore. Ibinalik sa dating kapaligiran; nananatili ang na-import na data sa isang pribadong backup.</string>
+    <string name="native_5dc7410b600e" formatted="false">Ang pagpapanumbalik ay hindi kumpleto. Ang lahat ng mga direktoryo ng data ay pinananatili. Panatilihin ang data ng app at subukang muli ang pagbawi.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Ibinabalik ang dating kapaligiran ng workstation...</string>
+    <string name="native_15821323ff89" formatted="false">Naibalik ang dating kapaligiran. Ang mas kamakailang trabaho ay nananatili sa isang pribadong backup. Buksan muli ang workspace.</string>
+    <string name="native_56dd94f47870" formatted="false">Hindi ma-undo ang pagpapanumbalik na ito. Napanatili ang kasalukuyang kapaligiran at mga backup.</string>
+    <string name="native_93530f3fa029" formatted="false">Ang pag-undo ay hindi kumpleto. Ang lahat ng mga direktoryo ng data ay pinananatili. Panatilihin ang data ng app at subukang muli ang pagbawi.</string>
+    <string name="native_f12963c80def" formatted="false">Sine-save ang naka-encrypt na backup...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Na-save ang naka-encrypt na backup. Maaari mong i-save muli ang lokal na kopya o tanggalin ito nang manu-mano.</string>
+    <string name="native_d660cccf65e0" formatted="false">Nililinis ang isang hindi kumpirmadong import...</string>
+    <string name="native_800592163979" formatted="false">Kinansela ang pag-import. Ang orihinal na kapaligiran ay hindi nagbabago.</string>
+    <string name="native_5a90367eb834" formatted="false">Kinansela ang pag-import. Ang orihinal na kapaligiran ay hindi nagbabago; ang ilang pansamantalang data sa pag-import ay nananatili sa pribadong direktoryo ng app.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Inihahanda ang pag-decryption at pag-verify...</string>
+    <string name="native_e9f2bea3118c" formatted="false">Inihahanda ang naka-encrypt na backup...</string>
+    <string name="native_7bd5a0c93818" formatted="false">Hindi masimulan ang backup na serbisyo. Subukan muli sa foreground.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">I-recover muna ang hindi kumpletong environment operation</string>
+    <string name="native_f14aea7c819c" formatted="false">Di-wastong talaan sa pagbawi</string>
+    <string name="native_7c284c55ee08" formatted="false">Nawawalang recovery directory\nAng</string>
+    <string name="native_bfc4792df15b" formatted="false">Ang mga native na setting ay lumampas sa limitasyon sa record ng pagbawi</string>
+    <string name="native_8d93770ba8c9">Nawawala ang nakaraang environment directory: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Hindi kilalang yugto ng pagbawi</string>
+    <string name="native_20c5124fe175" formatted="false">Hindi kilalang operasyon sa pagbawi</string>
+    <string name="native_1c457322b624" formatted="false">Walang nakaraang kapaligiran na magagamit upang maibalik</string>
+    <string name="native_30db1666c8e5" formatted="false">Ang backup na ito ay kabilang sa ibang app\nAng</string>
+    <string name="native_6687d1c64d75" formatted="false">Backup processor architecture ay hindi tugma</string>
+    <string name="native_b9b37d57fe6b" formatted="false">I-update muna ang Android host sa bersyong ginamit ng backup na ito</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Ang backup na direktoryo ay hindi kumpleto</string>
+    <string name="native_66106ab3e254" formatted="false">Ang lumang backup ay walang nabe-verify na OpenCode publisher proof. Simulan ang orihinal na kapaligiran sa host na ito bago ito i-back up muli.</string>
+    <string name="native_bec13cc92982" formatted="false">Mga pagkilos ng sistema ng pag-unlad ng kapaligiran</string>
+    <string name="native_65de80229626" formatted="false">Ang Debian ay humiling ng pagkilos ng system</string>
+    <string name="native_5e38581cf19c" formatted="false">I-tap para suriin at pangasiwaan ang kahilingan</string>
+    <string name="native_749d406d2c67" formatted="false">Mula sa Debian development environment</string>
+    <string name="native_4032d33b2afd" formatted="false">Buksan ang browser ng system?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Magbukas ng lokal na preview ng proyekto?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Basahin ang clipboard?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kopyahin sa clipboard ng system?</string>
+    <string name="native_77f761eb70aa" formatted="false">Magpadala ng lokal na abiso?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Magbahagi ng file ng proyekto?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Mag-import ng mga system file?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Mag-export ng file ng proyekto?</string>
+    <string name="native_7ac295421c6d" formatted="false">Buksan sa browser</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Buksan ang preview</string>
+    <string name="native_14792d6cd7a6" formatted="false">Payagan ang pagbabasa</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopyahin sa clipboard</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Magpadala ng notification</string>
+    <string name="native_88152a09fa02" formatted="false">Pumili ng app sa pagbabahagi</string>
+    <string name="native_7a49a79c57f9" formatted="false">Pumili ng mga file</string>
+    <string name="native_99d9f87419c5" formatted="false">Piliin kung saan magse-save</string>
+    <string name="native_23e5bb2090aa">%1$s\nNagbubukas gamit ang data ng browser na nakahiwalay sa OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Magbigay ng text mula sa clipboard ng system sa kasalukuyang Debian program.</string>
+    <string name="native_dcc6bec24e43">Pumili ng mga file na ii-import sa %1$s. Ang mga kasalukuyang file ay pinapanatili at ang mga duplicate ay pinalitan ng pangalan.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium browser mode\nGumagamit ang</string>
+    <string name="native_4767f37900f6" formatted="false">Compatibility mode ng hiwalay na profile ng browser at hindi pinapagana ang sandbox ng proseso ng Linux ng Chromium. Maa-access pa rin ng browser ang mga file sa loob ng app na ito. Iwasan ang mga hindi pinagkakatiwalaang website at gamitin ang browser ng Android system para sa mahahalagang account. Muling buksan ang Chromium pagkatapos magpalit ng mga mode.\nAng</string>
+    <string name="native_a4317f2699a2" formatted="false">Standard Linux sandboxing ay pinagana bilang default. Kung hindi makapagsimula ang Chromium, maaari kang pumili ng compatibility mode. Hindi nito pinapagana ang sandbox ng proseso ng Linux at gumagamit ng hiwalay na profile, habang pinapanatili ang access sa mga file ng app. Iwasan ang mga hindi pinagkakatiwalaang website; gamitin ang Android system browser para sa mahahalagang account.</string>
+    <string name="native_3a2596fa9517" formatted="false">Ibalik ang karaniwang mode</string>
+    <string name="native_eeb5e46d62ae" formatted="false">I-enable ang compatibility mode</string>
+    <string name="native_9a45442649f5" formatted="false">Debian desktop</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Nakabahaging /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Ang unang pag-install ay nagda-download ng mga graphical na bahagi. Pagkatapos ng pag-install, maaaring magsimula at huminto ang desktop nang hiwalay sa OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC na salamin</string>
+    <string name="native_41e865941e16" formatted="false">Opisyal na salamin ng Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Paunang resolution</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Ang desktop ay patuloy na tumatakbo kapag lumipat ka ng mga pahina. Itigil ito sa Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Ihinto ang gawain sa desktop</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Simulan ang desktop</string>
+    <string name="native_ea27a25e5114" formatted="false">Mag-install ng mga bahagi ng desktop</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: compatibility mode</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: karaniwang mode</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">I-install muna ang mga tool ng developer ng Debian mula sa Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Log ng aktibidad</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Hindi mabuksan ang folder ng proyekto. Suriin kung mayroon ang direktoryo.</string>
+    <string name="native_83c76743b29d" formatted="false">Pagbawi sa naantala na operasyon sa kapaligiran</string>
+    <string name="native_739a730ae247" formatted="false">Pagpapanatili ng kapaligiran</string>
+    <string name="native_049281329843" formatted="false">Maghintay para sa pagpapanatili ng update o matapos ang kasalukuyang gawain.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Hintaying matapos ang kasalukuyang gawain sa development environment</string>
+    <string name="native_83099168971c" formatted="false">Ini-install ang desktop</string>
+    <string name="native_85e0c18dde8d" formatted="false">Sinisimulan ang desktop</string>
+    <string name="native_9a48f8196d8f" formatted="false">Nangangailangan ng pansin</string>
+    <string name="native_75470fb13121" formatted="false">Huminto</string>
+    <string name="native_51a53c8109d5" formatted="false">Hindi mabasa o mai-save ang talaan ng aktibidad. Ayusin ito mula sa Runtime o magbakante ng ilang storage.</string>
+    <string name="native_d36a018cc619" formatted="false">I-install muna ang Debian development environment</string>
+    <string name="native_80be4c2928a5" formatted="false">Kumonekta muna sa isang network</string>
+    <string name="native_a065d81014b1" formatted="false">Ang pag-install sa desktop ay hindi kumpleto. Subukang muli ang pag-install.\nNaka-install ang</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop. Simulan ito kapag kailangan.</string>
+    <string name="native_6c1c52771115" formatted="false">Mag-install muna ng mga bahagi ng desktop\nNabigo ang pagpapatakbo ng</string>
+    <string name="native_693d90a47827" formatted="false">sa desktop. Masyadong mahaba o hindi available ang mga detalye.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Hindi matapos i-save ang stop marker. Nagpatuloy ang proseso ng paglilinis.</string>
+    <string name="native_06083621a6ce" formatted="false">Hindi matapos ang pag-save ng talaan ng aktibidad. Ituturing ito ng susunod na paglulunsad bilang isang pagkaantala.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop na tumatakbo\nNag-time out ang pagpapatakbo ng</string>
+    <string name="native_c3f0acaf7a73" formatted="false">sa desktop. Suriin ang log at subukang muli.</string>
+    <string name="native_e70d328a3ca9">Ang proseso ng Desktop ay lumabas (%1$s). Suriin ang log ng aktibidad.</string>
+    <string name="native_df5c878f2852" formatted="false">Lokal na graphical na workspace</string>
+    <string name="native_7b0455a8daa4" formatted="false">Ihinto ang desktop</string>
+    <string name="native_a62123cde9c7" formatted="false">Mga naantala na gawain at pagbawi</string>
+    <string name="native_279308947a14" formatted="false">Hindi mabasa ang talaan ng aktibidad. Ang pag-aayos ay nagpapanatili ng kopya ng nasirang rekord at pinapanatili ang mga proyekto, session at kapaligiran ng Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Talaan ng aktibidad sa pag-aayos</string>
+    <string name="native_6b43650c2c82" formatted="false">Ang gawain ay natapos nang hindi inaasahan.\nAng mga terminal ng</string>
+    <string name="native_acb0c970aaa6">%1$s ay hindi normal na nakasara. Naputol ang kanilang mga utos na tumatakbo.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Nakumpirma ang pag-restart. Ang mga naunang utos ay hindi na-replay.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Ang mga naka-save na proyekto at session ay pinananatili. Muling buksan ang mga terminal nang manu-mano; hindi awtomatikong magpapatuloy ang mga hindi natapos na utos.</string>
+    <string name="native_fa9669296762" formatted="false">I-restart ang OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Ang desktop ay hindi awtomatikong magre-restart. Simulan itong muli mula sa pahina ng Desktop.</string>
+    <string name="native_644f8f44251f" formatted="false">Buksan ang file</string>
+    <string name="native_9dfb5569d609" formatted="false">Ibahagi ang file</string>
+    <string name="native_a4500cff3a86" formatted="false">Ang gumaganang direktoryo ay hindi dapat isang simbolikong link</string>
+    <string name="native_8657d27661bd" formatted="false">Di-wastong working directory path</string>
+    <string name="native_02b702a9adff" formatted="false">Pumili ng file</string>
+    <string name="native_924874b746cc" formatted="false">Pamahalaan ang mga simbolikong link sa terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Di-wastong pangalan ng file\nAng</string>
+    <string name="native_c4989dc37aab" formatted="false">na Direktoryo ay hindi umiiral</string>
+    <string name="native_d613dba39b44" formatted="false">Ang direktoryo ng patutunguhan ay hindi umiiral</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Hindi makapaglagay ng folder sa loob mismo o sa mga inapo nito</string>
+    <string name="native_c3acd5a3254c" formatted="false">Ang proyekto ay naglalaman ng mga espesyal na device o socket at hindi maaaring kopyahin</string>
+    <string name="native_6c36955b068b" formatted="false">Pumili ng regular na file</string>
+    <string name="native_49191d7d489f" formatted="false">Ang file na ito ay lumampas sa 2 MB. I-edit ito gamit ang OpenCode o ang terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">file ay masyadong malaki</string>
+    <string name="native_f0a979f87157" formatted="false">I-export ang mga binary file upang buksan ang mga ito sa isa pang app</string>
+    <string name="native_88a9c82651fc" formatted="false">I-edit ang mga file na hindi UTF-8 gamit ang OpenCode o ang terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Binago ng isa pang tool ang file na ito. Muling buksan ito bago i-edit.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Ang orihinal na direktoryo ay wala na. Ibalik mo muna.</string>
+    <string name="native_46eae321049e" formatted="false">Walang magagamit na app sa pagbabahagi</string>
+    <string name="native_87d699d3a26c" formatted="false">Basura</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Project file</string>
+    <string name="native_4dcf914f0b64" formatted="false">Ang mga tinanggal na file ay maaaring ibalik sa kanilang orihinal na mga direktoryo</string>
+    <string name="native_c5b81b02354f" formatted="false">Bumalik</string>
+    <string name="native_e56b99379169">Kinopya ang %1$s file · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kinokopya...</string>
+    <string name="native_85199bb36b04" formatted="false">Kanselahin ang operasyon</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Isara</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Bagong session</string>
+    <string name="native_23c250cc8e0b" formatted="false">Magsimula ng OpenCode session dito</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Hindi na-save na mga pagbabago</string>
+    <string name="native_2266227605c4" formatted="false">I-save</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Ang basura ay walang laman\nIbalik ang</string>
+    <string name="native_a9e739b13e52" formatted="false">Ibalik</string>
+    <string name="native_45985dc2183e" formatted="false">Ilipat:</string>
+    <string name="native_31214130b5b7" formatted="false">Kopya:</string>
+    <string name="native_07e5c3158f35" formatted="false">Idikit</string>
+    <string name="native_831b4e0fb574" formatted="false">Bago</string>
+    <string name="native_ff65a22d7087" formatted="false">Bagong folder</string>
+    <string name="native_71faed44a86c" formatted="false">Bagong file\nPag-import ng</string>
+    <string name="native_8dddd460f6ae" formatted="false">Mag-import</string>
+    <string name="native_d85825123e60" formatted="false">I-refresh</string>
+    <string name="native_ac9d73843736" formatted="false">Hanapin ang direktoryo na ito</string>
+    <string name="native_21eef82963ee" formatted="false">Walang laman ang direktoryo na ito. Mag-import ng mga file o gumawa ng proyekto.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Walang tugmang file</string>
+    <string name="native_d674bc0f86b8" formatted="false">File actions</string>
+    <string name="native_d04a47c87cc8" formatted="false">Simbolikong link</string>
+    <string name="native_e0ba66f5246a" formatted="false">Folder</string>
+    <string name="native_f170b42599e8" formatted="false">Palitan ang pangalan</string>
+    <string name="native_4cdacf57ead2" formatted="false">Kopya</string>
+    <string name="native_124aa030694e" formatted="false">Ilipat sa…</string>
+    <string name="native_ac990518ed87" formatted="false">Buksan ang terminal dito</string>
+    <string name="native_87bc93932d8a" formatted="false">I-export sa mga system file</string>
+    <string name="native_dd37f132172f" formatted="false">Ilipat sa basurahan</string>
+    <string name="native_7318746d337c" formatted="false">Ilipat sa basurahan?</string>
+    <string name="native_2b5ee3f10a56">Maaari mong ibalik ang “%1$s” mula sa basurahan.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Ilipat</string>
+    <string name="native_4e47aaa113fc" formatted="false">Itapon ang mga hindi na-save na pagbabago?</string>
+    <string name="native_63b75399ef1a" formatted="false">Itapon ang mga pagbabago</string>
+    <string name="native_d9618f7b8d25" formatted="false">Magpatuloy sa pag-edit\nPangalan ng</string>
+    <string name="native_76ce6aef5479" formatted="false">Pangalan</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Na-restore ang kapaligiran. Buksan muli ang workspace.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Tapusin muna ang pagbawi sa naantala na operasyon sa Runtime\nAng</string>
+    <string name="native_f29af06e7c99" formatted="false">ay isinasagawa ang pagpapanatili ng kapaligiran. Subukan ulit mamaya.\nKinansela ang operasyon ng</string>
+    <string name="native_3bd28258feb0" formatted="false">Kinansela ang operasyon</string>
+    <string name="native_c508721eb3cd" formatted="false">Ang isang file na may ganitong pangalan ay mayroon na. Pumili ng ibang pangalan.</string>
+    <string name="native_1e8274fe468a" formatted="false">Wala na ang file. I-refresh ang direktoryo.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Tinanggihan ang pahintulot sa pag-access ng file</string>
+    <string name="native_cd808e4c321e" formatted="false">Hindi makumpleto ang operasyon</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Hindi kumpleto ang operasyon. Suriin ang available na storage o piliin muli ang mga file.</string>
+    <string name="native_3f9983126fd7" formatted="false">Tingnan ang katayuan ng pagsisimula ng OpenCode sa Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Hindi makapagbukas ng bagong terminal. Suriin ang bilang ng mga sesyon.</string>
+    <string name="native_2160fde3813a" formatted="false">Pamahalaan ang mga simbolikong link sa terminal. Ang file manager ay hindi sumusunod sa mga link.</string>
+    <string name="native_7a844e9d4017" formatted="false">Nakumpleto ang paglipat</string>
+    <string name="native_573877894fcf" formatted="false">Nakumpleto ang pagkopya</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Inilipat sa basurahan</string>
+    <string name="native_862330af933f" formatted="false">Ibinalik sa orihinal na direktoryo</string>
+    <string name="native_beda23c9d52b" formatted="false">Naganap ang pagpapanatili o pagpapalit ng kapaligiran. Muling buksan ang workspace bago mag-edit.</string>
+    <string name="native_678c6953bb2b" formatted="false">Nai-save</string>
+    <string name="native_8063159f2178" formatted="false">Hindi mabasa ang napiling file</string>
+    <string name="native_4cdc2180d2ac">Nag-import ng %1$s na mga file</string>
+    <string name="native_e98763643b93" formatted="false">Hindi magsulat sa napiling lokasyon\nNakumpleto ang</string>
+    <string name="native_5afd173be7fa" formatted="false">Export</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Code at mga session</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Graphical na workspace</string>
+    <string name="native_770d49c5f689" formatted="false">File</string>
+    <string name="native_6a9b6480b58f" formatted="false">Runtime</string>
+    <string name="native_b561fe9204cc" formatted="false">Mga serbisyo at tool ng developer</string>
+    <string name="native_70850bdeeabd" formatted="false">Isara ang menu ng pahina</string>
+    <string name="native_b4549acb48e8" formatted="false">Workspace</string>
+    <string name="native_3d3551f4660f">Opacity ng floating button %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Ang mas mababang halaga ay ginagawang mas transparent ang floating button</string>
+    <string name="native_e031beabfc9a" formatted="false">Buksan ang menu ng pahina</string>
+    <string name="native_106ee775b538" formatted="false">Kumokonekta sa lokal na OpenCode...</string>
+    <string name="native_a021adc1f449" formatted="false">Ang lokal na koneksyon ay nangangailangan ng pagbawi</string>
+    <string name="native_dacb8837471c" formatted="false">Muling kumonekta</string>
+    <string name="native_17584aa60ae6" formatted="false">Hindi maihanda ang cache ng lokal na mapagkukunan</string>
+    <string name="native_3b3b80064ccb" formatted="false">Inihahanda ang lokal na OpenCode...</string>
+    <string name="native_2560ee8fdd16" formatted="false">Subukang muli</string>
+    <string name="native_b07809340403" formatted="false">Ang lokasyon ng workspace ay hindi pa nai-save. Subukan ulit mamaya.</string>
+    <string name="native_e4ab10392d05" formatted="false">Naghahanda na ang lokal na serbisyo. Awtomatikong magbubukas ang iyong workspace kapag nakakonekta na.</string>
+    <string name="native_20ea15973287" formatted="false">Ang nakaraang pagtakbo ay naantala. I-restart mula sa Runtime; Ang mga terminal command ay hindi awtomatikong ire-replay.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Simulan ang OpenCode mula sa Runtime upang buksan ang code at mga session.</string>
+    <string name="native_abbac5c22111" formatted="false">Lumabas sa app?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Ang development environment ay maaaring patuloy na tumakbo sa background. Bumalik mamaya mula sa notification.</string>
+    <string name="native_814a8fb24b62" formatted="false">Lumabas sa kasalukuyang workspace?</string>
+    <string name="native_a76464945c2d" formatted="false">Itigil din ang development environment</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Lumabas\nHanda na ang</string>
+    <string name="native_b00143b08ff1" formatted="false">Development workstation</string>
+    <string name="native_51bca456a350" formatted="false">Ang iyong Debian development workstation</string>
+    <string name="native_0c2acd0b6057" formatted="false">Tumatakbo</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Nagsisimula</string>
+    <string name="native_44da7f6a451d" formatted="false">Huminto</string>
+    <string name="native_b7e1503a7239" formatted="false">Ayusin ang development environment</string>
+    <string name="native_7c91bd67ff14" formatted="false">I-install ang development environment</string>
+    <string name="native_cfd73bb04860" formatted="false">Ihinto ang kapaligiran</string>
+    <string name="native_e7ec95694dce" formatted="false">Simulan ang OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Suriin ang kapaligiran</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">I-update ang mga tool ng developer ng Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Ang nakaraang environment backup, mga proyekto at data ng session ay pinapanatili.</string>
+    <string name="native_eb3114155716" formatted="false">Mag-install / mag-update ng mga server ng wika</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) at Python (pylsp), na naka-install online mula sa mga naka-sign na Debian repository. Itigil muna ang OpenCode at ang desktop.</string>
+    <string name="native_2c7251cce661" formatted="false">I-tap ang floating button para lumipat ng page. I-drag ito upang muling iposisyon ito.\nLumilitaw ang impormasyon ng</string>
+    <string name="native_dcef145e6a9b" formatted="false">dito pagkatapos ng startup.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime\nBersyon ng</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Bundled APK</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode na mga update</string>
+    <string name="native_36ab16248f65" formatted="false">Mag-import ng .ocaupdate na nilagdaan ng publisher ng app na ito. Magkasama ang opisyal na frontend at backend na update.</string>
+    <string name="native_8aad48b0508d" formatted="false">Pinagmulan ng pag-update (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Suriin ang pinagmulan ng update</string>
+    <string name="native_f73973cfadbb">Nilagdaan na release: %1$s\nCommit: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">I-download at i-verify</string>
+    <string name="native_f2ef7965bf12" formatted="false">Piliin ang update package</string>
+    <string name="native_165111adfe2c">Handa nang i-install: %1$s\nCommit: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">I-install ang update na ito</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Ibalik ang bersyon at mga session bago ang pag-update</string>
+    <string name="native_6864335de653" formatted="false">Kanselahin ang pag-update</string>
+    <string name="native_5e3472cf084e" formatted="false">I-install ang OpenCode update?</string>
+    <string name="native_816bf3635d53" formatted="false">Ibalik ang estado bago ang pag-update?</string>
+    <string name="native_11beb4a42abc">I-install ang %1$s. Ang app ay nagse-save ng isang snapshot ng session, sinusuri ang nilagdaang programa at ibinabalik ang nakaraang bersyon kung nabigo ito. Ang mga file ng proyekto ay pinananatili.\nAng</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Session ay bumalik sa kanilang estado bago ang update na ito. Ang mga kamakailang session ay nananatili sa isang pribadong backup. Ang mga file ng proyekto ay pinananatili.</string>
+    <string name="native_def5e273616d" formatted="false">Kumpirmahin ang pag-install</string>
+    <string name="native_369d2eefccde" formatted="false">Hindi maihiwalay ang data ng browser ng preview. Buksan muli ang preview.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Hindi ma-load ang pahina ng proyekto. Suriin ang development server sa iyong terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">I-preview ang website ng proyekto</string>
+    <string name="native_bfb4951e071d" formatted="false">Project preview</string>
+    <string name="native_f80652913d06" formatted="false">Magsimula ng development server sa terminal, pagkatapos ay ilagay ang lokal na port nito. I-preview ang data ng browser ay nakahiwalay sa OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Magpasok ng development port mula 1024 hanggang 65535, hindi kasama ang OpenCode at mga serbisyo sa desktop.</string>
+    <string name="native_7311a9dfea51" formatted="false">Walang nakikinig sa port na ito. Suriin ang serbisyo sa iyong terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">Sinusuri…</string>
+    <string name="native_4923c272b68e" formatted="false">Ang development port ay dapat na isang integer</string>
+    <string name="native_04a87026e81f" formatted="false">Pumili ng wastong port ng pagbuo ng proyekto</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode development session</string>
+    <string name="native_e87a4529ab82" formatted="false">Pag-install ng kapaligiran sa pag-unlad</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian update</string>
+    <string name="native_0c6301bc295d" formatted="false">Development na pag-aayos ng kapaligiran</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Pagsusuri sa kapaligiran ng pag-unlad</string>
+    <string name="native_9612d4419bb6" formatted="false">Pag-install ng server ng wika</string>
+    <string name="native_f72fba77f87a" formatted="false">Pagbawi sa kapaligiran</string>
+    <string name="native_7c8162195c7c" formatted="false">Pag-install sa desktop</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Ang nakaraang pagtakbo ay naantala. I-restart nang tahasan mula sa Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Ang isang gawain sa pagbuo ng ganitong uri ay tumatakbo pa rin</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Pag-aayos ng talaan ng aktibidad</string>
+    <string name="native_b66749ed72ea" formatted="false">Ang proseso ay lumabas</string>
+    <string name="native_6b25042064e2" formatted="false">Tinapos ng signal</string>
+    <string name="native_d6febdf1752b" formatted="false">Na-reclaim dahil sa mababang memory</string>
+    <string name="native_1d13790f3c89" formatted="false">App crash</string>
+    <string name="native_28db94d1850d" formatted="false">Native process crash\nHindi tumutugon ang</string>
+    <string name="native_86919539f7f1" formatted="false">App</string>
+    <string name="native_90fb8d6098a5" formatted="false">Nabigo ang pagsisimula</string>
+    <string name="native_38c60ab6654c" formatted="false">Ang mga Pahintulot ay nagbago</string>
+    <string name="native_6d2a6c71334d" formatted="false">Limitasyon sa mapagkukunan</string>
+    <string name="native_19b2090b01a8" formatted="false">Hiniling ng user na huminto</string>
+    <string name="native_120d96445f1a" formatted="false">Pinahinto ng user</string>
+    <string name="native_3c8af14f66bc" formatted="false">Ang proseso ng umaasa ay lumabas</string>
+    <string name="native_ca0941ce04ae" formatted="false">Iba pang dahilan ng system</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Proseso ng pagyeyelo\nAng</string>
+    <string name="native_0d48373023a8" formatted="false">App state ay nagbago</string>
+    <string name="native_c752307db26b" formatted="false">Update ng app</string>
+    <string name="native_b5015951cbdf" formatted="false">Ang system ay hindi nagbigay ng dahilan sa paglabas</string>
+    <string name="native_b62737b826ad">System exit (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Hindi mabuksan ang direktoryo ng proyekto</string>
+    <string name="native_faf5d983c13e" formatted="false">Hindi makalikha ng OpenCode session\nHindi tumutugma ang direktoryo ng session ng</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode</string>
+    <string name="native_ac19736908a2" formatted="false">Hindi mabasa ang OpenCode session</string>
+    <string name="native_2642997cfeec" formatted="false">Pagpapanatili ng kapaligiran</string>
+    <string name="native_f992d735d932" formatted="false">Ihinto ang OpenCode, mga terminal at ang Debian desktop, pagkatapos ay hintaying matapos ang mga pagpapatakbo ng file</string>
+    <string name="native_489f137f1080" formatted="false">Ang lock ng pagpapanatili ng kapaligiran ay hindi na wasto</string>
+    <string name="native_42380e2567fc" formatted="false">Nabawi ang naantala na operasyon. Buksan muli ang workspace.</string>
+    <string name="native_17b00cac2b91" formatted="false">Nabigo ang pagbawi ng lokal na koneksyon. Subukang muli mula sa Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Ang pagpapanatili ng kapaligiran ay isinasagawa. Subukan ulit mamaya.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Itigil ang Debian desktop bago i-update ang development environment</string>
+    <string name="native_548085b144c9" formatted="false">Nabawi ang naantala na operasyon. Maaari mong simulan ang kapaligiran ng pag-unlad.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Ang nakaraang pagtakbo ay naputol. Hindi awtomatikong magre-replay ang mga terminal command. I-restart nang tahasan mula sa Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Ang pansamantalang paglilinis ng configuration ng koneksyon ay hindi kumpleto. Nagpatuloy ang proseso ng paglilinis.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Hindi magawa ang helloworld workspace. Suriin ang direktoryo at magagamit na espasyo.</string>
+    <string name="native_68301868225a" formatted="false">Ang nakaraang direktoryo ng workspace ay hindi magagamit. Binuksan ang helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Ang default na proyekto ay hindi pa handa. Subukang muli mula sa Files.</string>
+    <string name="native_45d6ab452622" formatted="false">Mag-install ng mga server ng wika</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ at Python language server ay handa na. Simulan ang OpenCode para magamit ang LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Ang talaan ng aktibidad sa terminal ay hindi na-save. Gumawa ng bagong terminal pagkatapos ng pagwawakas ng proseso.</string>
+    <string name="native_1978b311a9ff" formatted="false">Hindi matapos ang pag-save ng terminal exit record.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode na pag-download ng update</string>
+    <string name="native_06f76cca8fb9" formatted="false">Kumokonekta sa pinagmumulan ng pag-update...</string>
+    <string name="native_8c39baf28e08" formatted="false">Hindi makakonekta sa pinagmumulan ng pag-update. Tingnan ang network, lagda ng publisher, bersyon ng host at libreng espasyo.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Nag-time out ang pag-download</string>
+    <string name="native_f75850093535">Nagda-download: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Bine-verify ang lagda ng publisher...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Dina-download ang update package...</string>
+    <string name="native_2f9cd52dc66a">Wastong lagda ng publisher: %1$s. Suriin bago i-download.</string>
+    <string name="native_17548865632c" formatted="false">I-download, ilabas ang metadata at na-verify na lagda ng package. Kumpirmahin ang pag-install.</string>
+    <string name="native_180cec958e7a" formatted="false">Kinansela ang pag-download. Napanatili ang orihinal na bersyon.</string>
+    <string name="native_8df045f8ac12" formatted="false">Huminto ang pag-download. Napanatili ang orihinal na bersyon.</string>
+    <string name="native_778803f1c6bb" formatted="false">Kanselahin ang pag-download</string>
+    <string name="native_2958898ce6f4" formatted="false">Ang bagong bersyon ay nabigo sa lokal na pagsisimula, bersyon o mga pagsusuri sa pagpapatunay. Ang nakaraang bersyon ay maibabalik.</string>
+    <string name="native_cc876dfbb261" formatted="false">Ang proseso ng pagsubok ay lumalabas pa rin. Maghintay para sa pagbawi bago subukang muli.</string>
+    <string name="native_adf977dcb47e" formatted="false">Di-wastong pag-update ng record identifier</string>
+    <string name="native_5207cac670b7" formatted="false">Ang naka-install na standalone na laki ng OpenCode ay hindi tumutugma</string>
+    <string name="native_cf5b81887589" formatted="false">Ang naka-install na standalone na OpenCode checksum ay hindi tumutugma. Ibalik ang nakaraang bersyon.</string>
+    <string name="native_393049b506cc" formatted="false">Ang orihinal na programa ay walang katugmang patunay ng publisher. Ang dating estado ay hindi nabago.</string>
+    <string name="native_c5853bcfd56c" formatted="false">I-recover muna ang dating naantala na update</string>
+    <string name="native_91d8da5525fa" formatted="false">Ang update package ay nagbago pagkatapos ng kumpirmasyon</string>
+    <string name="native_093f2c091a30" formatted="false">Hindi sapat na storage. Hindi nabago ang orihinal na bersyon.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Walang available na backup na pag-update para i-restore</string>
+    <string name="native_a9f4d9903c14" formatted="false">Ang backup ay hindi tumutugma sa tumatakbong bersyon</string>
+    <string name="native_6caa23763a42" formatted="false">Nabigo ang nakaraang pag-verify ng programa. Ang mga kasalukuyang session ay hindi nagbabago.</string>
+    <string name="native_c8b71b876695" formatted="false">Pinalitan ng pag-update ng APK o Debian sa ibang pagkakataon ang naka-bundle na program. Pinapanatili ang orihinal na backup ng session; ibalik muna ang kaukulang programa.</string>
+    <string name="native_c443df40964b" formatted="false">Di-wastong operasyon sa pagbawi ng update</string>
+    <string name="native_9071f05d58b3" formatted="false">Inihahanda ang pag-update ng OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">Ihinto ang OpenCode, mga terminal at ang desktop, pagkatapos ay hintayin na lumabas ang mga ito.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Katayuan ng pag-save, pag-verify ng mga programa at pagpapalit ng mga bersyon</string>
+    <string name="native_5fc065ef6f50" formatted="false">Hindi masimulan ang serbisyo sa pagpapanatili ng update.</string>
+    <string name="native_f7b560c8c820" formatted="false">Pag-verify at pagtatanghal ng opisyal na programa...</string>
+    <string name="native_9606191c82dc" formatted="false">Pinapanatili ang orihinal na programa at lagda ng publisher...</string>
+    <string name="native_5c0d7787ee51" formatted="false">Sine-save ang snapshot ng estado ng session...</string>
+    <string name="native_0c8cf4632889" formatted="false">Nagpapalit ng mga bersyon at bini-verify ang lokal na serbisyo...</string>
+    <string name="native_3e81ea691a4a" formatted="false">Ibinabalik ang bersyon at mga session bago ang pag-update…</string>
+    <string name="native_856de41d3bf3" formatted="false">Ibinabalik ang OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Ina-update ang OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Ibinalik ang nakaraang bersyon at mga session. Ang mga kamakailang session ay nananatili sa isang pribadong backup.\nNakumpleto ang pag-update ng</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode. Gagamitin ng startup ang tumutugmang opisyal na frontend at backend.\nKinansela ang</string>
+    <string name="native_4693930f5802" formatted="false">Update. Kinukumpirma na ang orihinal na estado ay naibalik.\nHindi kumpleto ang pag-update ng</string>
+    <string name="native_d0e37bc26edd" formatted="false">. Pagbawi ngayon; pinananatili ang orihinal na programa at mga backup ng session.\nAng</string>
+    <string name="native_9a32d6c2d207" formatted="false">ay hindi kumpleto. Ang lahat ng mga direktoryo ng estado ay pinananatili. Panatilihin ang iyong data at subukang muli ang pagsisimula upang mabawi.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Nakumpleto ang pagbawi ng session. Ang mas kamakailang estado ay nananatili sa isang backup.\nHindi matuloy ang</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery sa backup o orihinal na program na ito. Ang mga kasalukuyang session at backup ay hindi nagbabago.\nKinansela o nabigo ang pag-update ng</string>
+    <string name="native_976d8c169cfa" formatted="false">. Na-restore ang orihinal na bersyon at mga session.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Bine-verify ang lagda at integridad ng package ng pag-update...</string>
+    <string name="native_0aa018b7337b" formatted="false">Hindi mabasa ang napiling file\nAng</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Update package ay masyadong malaki</string>
+    <string name="native_f068b83f40bf" formatted="false">Na-verify ang lagda at package. Suriin ang bersyon bago i-install.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Hindi ma-import: di-wastong file, hindi tugma sa lagda, hindi tugmang bersyon ng host o hindi sapat na storage.</string>
+    <string name="native_616412e65df4" formatted="false">Ang opisyal na programa ay hindi tumutugma sa patunay ng publisher nito</string>
+    <string name="native_4bf19a158f27" formatted="false">Ang standalone runtime packages ay sumusuporta sa ARM64 lamang</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Ang lagda ng pag-update ay hindi kabilang sa APK na ito</string>
+    <string name="native_c7273354727f" formatted="false">Ang file ng pag-update ay lumampas sa ipinahayag na laki nito</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Update program checksum ay hindi tumutugma</string>
+    <string name="native_dd619076d456" formatted="false">Di-wastong laki ng package sa pag-update</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Ang laki ng package ng naka-compress na update ay hindi tumutugma</string>
+    <string name="native_1de24edffcf5" formatted="false">Ang update package ay naglalaman ng mga karagdagang entry</string>
+    <string name="native_c5b339aa77e8" formatted="false">Hindi tugmang pinagmulan o arkitektura ng pag-update</string>
+    <string name="native_89d585f3661f" formatted="false">I-upgrade ang Android app bago i-install ang update na ito\nAng</string>
+    <string name="native_800df084dea0" formatted="false">Update archive checksum ay hindi tumutugma</string>
+    <string name="native_ddf1a005e310" formatted="false">Hindi sinusuportahan ng format ng pag-sign ng APK na ito ang mga standalone na pag-update sa runtime</string>
+    <string name="native_172e063db474" formatted="false">Di-wastong pagpasok ng package sa pag-update\nAng</string>
+    <string name="native_1c08780aa99f" formatted="false">Update metadata ay dapat gumamit ng mga integer</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Ang update program ay hindi isang 64-bit na Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Ang update program ay hindi nakakatugon sa 16 KiB ELF alignment</string>
+    <string name="native_3afa3741911b" formatted="false">Ang update program ay nawawala ang Debian glibc loader</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Maglagay ng wastong HTTPS update source\nAng</string>
+    <string name="native_c274c7dd5900" formatted="false">Update source ay nangangailangan ng mga HTTPS URL na walang mga kredensyal ng user</string>
+    <string name="native_f459f5ec9dac" formatted="false">Di-wastong field ng source ng update</string>
+    <string name="native_bde2a736e30a" formatted="false">I-upgrade muna ang Android host</string>
+    <string name="native_b980fd021bef" formatted="false">Di-wastong direktoryo ng pag-update</string>
+    <string name="native_c0e96727553e" formatted="false">Di-wastong update file</string>
+    <string name="native_86ff542c68ed" formatted="false">Hindi mailipat ang mga direktoryo ng update sa estadong ito</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Session state ay tumutukoy sa isang panlabas na direktoryo. Ang pag-update ay hindi masusuri nang ligtas.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Hindi sapat na storage. Ang orihinal na estado ay hindi nagbabago.</string>
+    <string name="native_099801d672b1" formatted="false">Kinansela ang pag-download</string>
+    <string name="native_f1304f707ec9" formatted="false">Masyadong maraming pag-redirect ng update</string>
+    <string name="native_0d07f458b607" formatted="false">Hindi inilipat ng server ng pag-update ang orihinal na byte</string>
+    <string name="native_de331dfd8908" formatted="false">Ang haba ng file sa pag-update ay hindi tugma</string>
+    <string name="native_416b8c87e69e" formatted="false">Hindi ganap na na-download ang update file</string>
+    <string name="native_e1e74b76c427" formatted="false">Hindi naibalik ng update server ang kumpletong file</string>
+    <string name="native_6afcf03cb130" formatted="false">Hindi sapat na espasyo para sa staging ng pag-update</string>
+    <string name="native_be1c695d9241" formatted="false">Update file SHA-256 ay hindi tumutugma</string>
+    <string name="native_a0133d117bb0" formatted="false">Ang pakete ng pag-update ay hindi tumutugma sa nakumpirma na impormasyon sa paglabas</string>
+    <string name="native_8635a43ce28a" formatted="false">Di-wastong direktoryo ng proyekto</string>
+    <string name="native_d32ab8b004e6" formatted="false">Hindi ma-save ang lokasyon ng workspace</string>
+    <string name="native_43a5447014fd" formatted="false">Simulan ang development environment mula sa Runtime bago magbukas ng terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Bagong terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Isara ang kasalukuyang</string>
+    <string name="native_0e822affd5da">Paunang direktoryo: %1$s</string>
+    <string name="native_72d769e3888d">Bagong terminal na direktoryo: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">System file picker ay hindi available</string>
+    <string name="native_179a57921f91" formatted="false">Mga setting ng pag-render ng WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Pag-render ng frame rate</string>
+    <string name="native_55b6d7f645f3" formatted="false">Mas gusto ang 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Sundin ang rate ng pag-refresh ng display</string>
+    <string name="native_d4ecf38c341d" formatted="false">Mas gusto ang 60 Hz para bawasan ang pag-render ng load sa mataas na refresh rate na mga display. Ang pagsunod sa display ay nagbibigay-daan sa system na mag-iskedyul ng mga frame. Nalalapat lang sa window ng app na ito.</string>
+    <string name="native_bf0d3a407418" formatted="false">Hindi naka-install</string>
+    <string name="native_2fb8edc75b25" formatted="false">Handa na</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Bine-verify ang loader</string>
+    <string name="native_d1017c1eac80" formatted="false">Pag-install ng Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Lokal na kapaligiran sa pag-unlad</string>
+    <string name="native_55aa84065de2" formatted="false">Local Debian development session</string>
+    <string name="native_6e75b1822ebc" formatted="false">Huminto\nNaka-install ang</string>
+    <string name="native_5f73a4e1e494" formatted="false">Pagbawi ng</string>
+    <string name="native_147e90d2ec02" formatted="false">Nagpapagaling</string>
+</resources>

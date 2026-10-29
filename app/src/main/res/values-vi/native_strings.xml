@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Không gian làm việc phát triển</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Máy tính để bàn</string>
+    <string name="native_7f1c02616d60" formatted="false">Trang đơn</string>
+    <string name="native_651ae6ea52ae" formatted="false">Khôi phục chế độ xem chia nhỏ</string>
+    <string name="native_d7e97cfac66f" formatted="false">Bố cục không gian làm việc</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Mở rộng cửa sổ để xem nhiều bảng cùng nhau.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Hiển thị tệp dự án</string>
+    <string name="native_712d956931d1" formatted="false">Hiển thị thiết bị đầu cuối</string>
+    <string name="native_073cc20d9ed9" formatted="false">Thiết bị đầu cuối bên dưới</string>
+    <string name="native_5de225480fa7" formatted="false">Nhà ga bên phải</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Bảng thu gọn khi không gian bị giới hạn và vẫn có thể truy cập được từ menu nổi. Thiết bị đầu cuối bên xuất hiện trong cửa sổ rộng hơn. Kéo dải phân cách để thay đổi kích thước bảng.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt trái: 1–5 trang · Tệp B · T Terminal · M Desktop · Nhập Đơn/Tách · \\\\ Bố cục</string>
+    <string name="native_7a129a94c6ff" formatted="false">Xong</string>
+    <string name="native_bcec2218fc21" formatted="false">Đặt lại tỷ lệ</string>
+    <string name="native_da88c62d1217">Hiển thị %1$s trong một trang</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Bộ chia file dự án</string>
+    <string name="native_707c0891a0e6" formatted="false">Bộ chia đầu cuối</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode và bộ chia màn hình</string>
+    <string name="native_50407ad8dfa8" formatted="false">Thu nhỏ bảng trước</string>
+    <string name="native_b72c5c02a666" formatted="false">Phóng to bảng trước</string>
+    <string name="native_3f3685e8d731" formatted="false">Quá nhiều liên kết PRoot cho định dạng lưu trữ này</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Liên kết cứng Linux yêu cầu rootfs hoàn chỉnh</string>
+    <string name="native_f336f1e17596" formatted="false">Việc lồng thư mục sao lưu quá sâu</string>
+    <string name="native_b6f744737a45" formatted="false">Độ dài mật khẩu sao lưu không hợp lệ</string>
+    <string name="native_13bde5dd1812" formatted="false">Mật khẩu sao lưu phải chứa ít nhất 12 ký tự</string>
+    <string name="native_be02cbd55932" formatted="false">Định dạng sao lưu không được hỗ trợ</string>
+    <string name="native_7a91a3d586ae" formatted="false">Tiêu đề sao lưu không hợp lệ</string>
+    <string name="native_2bbd318a5667" formatted="false">Tham số mã hóa sao lưu không được hỗ trợ</string>
+    <string name="native_18868da27841" formatted="false">Mật khẩu sao lưu không chính xác hoặc tệp bị hỏng</string>
+    <string name="native_e41d6440468d" formatted="false">Bản ghi khôi phục quá lớn</string>
+    <string name="native_282692502f14" formatted="false">Siêu dữ liệu sao lưu quá lớn</string>
+    <string name="native_61fdca8d6c82" formatted="false">Việc lồng siêu dữ liệu sao lưu quá sâu</string>
+    <string name="native_8cefb30732d4" formatted="false">Siêu dữ liệu sao lưu không hợp lệ</string>
+    <string name="native_5d3037708cad" formatted="false">Cài đặt gốc không được hỗ trợ</string>
+    <string name="native_81a57c382f9d" formatted="false">Không thể lưu cài đặt gốc</string>
+    <string name="native_50603e683d4a" formatted="false">Thư mục mẹ không hợp lệ trong đường dẫn sao lưu</string>
+    <string name="native_c3f838a46b8e" formatted="false">Gốc máy trạm không được là một liên kết tượng trưng</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Một tập tin đã thay đổi trong quá trình sao lưu</string>
+    <string name="native_77e1e85147db" formatted="false">Định dạng dữ liệu máy trạm không được hỗ trợ</string>
+    <string name="native_a927b5a565af" formatted="false">Bản sao lưu chứa dữ liệu bổ sung</string>
+    <string name="native_c2b886d508f2" formatted="false">Bản sao lưu chứa các đường dẫn trùng lặp</string>
+    <string name="native_3dab8cd60102" formatted="false">Bản sao lưu chứa cài đặt thời gian chạy không thể di chuyển được</string>
+    <string name="native_f45ba674a630" formatted="false">Bản sao lưu quá lớn hoặc không đủ dung lượng lưu trữ</string>
+    <string name="native_140073e8e77b" formatted="false">Không thể khôi phục dấu thời gian liên kết tượng trưng</string>
+    <string name="native_b0d411aaf62c" formatted="false">Không thể khôi phục dấu thời gian của đường ống có tên</string>
+    <string name="native_0daee8026db1" formatted="false">Sao lưu và khôi phục máy trạm</string>
+    <string name="native_1acc18928c5f" formatted="false">Bao gồm Debian, công cụ dành cho nhà phát triển, dự án, trang chủ, phiên và cài đặt OpenCode, dữ liệu trình duyệt Linux và cài đặt bố cục gốc.</string>
+    <string name="native_62254d31a535" formatted="false">Các tệp tạm thời và bản sao lưu cũ bị loại trừ. Bộ nhớ Android WebView và các bản nháp chưa gửi vẫn còn trên thiết bị này và không được chuyển cùng với bản sao lưu này.</string>
+    <string name="native_808eabc7811f" formatted="false">Tạo bản sao lưu được mã hóa</string>
+    <string name="native_201c10b38296" formatted="false">Nhập bản sao lưu</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Trước tiên hãy lưu các thay đổi của bạn trong trình chỉnh sửa tệp.</string>
+    <string name="native_0559cd596453" formatted="false">Dừng OpenCode, thiết bị đầu cuối và máy tính để bàn</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Thao tác môi trường chưa hoàn tất. Hãy khôi phục nó trước.</string>
+    <string name="native_185f58156330" formatted="false">Khôi phục hoạt động chưa hoàn thành</string>
+    <string name="native_20831b6f67a7" formatted="false">Hoàn tác khôi phục môi trường cuối cùng</string>
+    <string name="native_4f392d5d6141">Bản sao cục bộ được mã hóa: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Lưu vào tập tin</string>
+    <string name="native_f09619351eb9" formatted="false">Xóa bản sao cục bộ</string>
+    <string name="native_85c686eb9841">Đã xử lý %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Hủy tác vụ sao lưu</string>
+    <string name="native_66c9d896407b" formatted="false">Mã hóa bản sao lưu máy trạm</string>
+    <string name="native_548cd9f0831e" formatted="false">Giải mã và xác minh bản sao lưu</string>
+    <string name="native_d248f5eca9a5" formatted="false">Các bản sao lưu có thể chứa khóa riêng SSH, khóa API và dữ liệu tài khoản. Sử dụng ít nhất 12 ký tự. Một mật khẩu bị quên không thể phục hồi được.</string>
+    <string name="native_f249422b9ec1" formatted="false">Bản sao lưu được giải mã và xác minh trong một thư mục riêng. Môi trường của bạn chỉ được thay thế sau khi bạn xác nhận khôi phục.</string>
+    <string name="native_e7be6841703a" formatted="false">Mật khẩu sao lưu</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Lặp lại mật khẩu</string>
+    <string name="native_eafdc5cd4882" formatted="false">Bắt đầu mã hóa</string>
+    <string name="native_2986b88beade" formatted="false">Giải mã và xác minh</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Hủy</string>
+    <string name="native_f46c5ed7412d" formatted="false">Khôi phục toàn bộ môi trường trước đó?</string>
+    <string name="native_33eda0946a5b" formatted="false">Xóa bản sao cục bộ được mã hóa?</string>
+    <string name="native_26db24150f2e" formatted="false">Các dự án, trang chủ, Debian và các phiên sẽ trở về trạng thái trước lần khôi phục cuối cùng. Những công việc gần đây hơn sẽ vẫn ở bản sao lưu riêng tư bên trong ứng dụng.</string>
+    <string name="native_1153b30d51d5" formatted="false">Chỉ bản sao cục bộ được mã hóa bên trong ứng dụng mới bị xóa. Các tập tin được lưu ở nơi khác vẫn có sẵn.</string>
+    <string name="native_427a78a4e69a" formatted="false">Xác nhận</string>
+    <string name="native_7af46d7ee003" formatted="false">Khôi phục bản sao lưu máy trạm này?</string>
+    <string name="native_ed40940162d0">%1$s\nCác mục %2$s · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Bản sao lưu chứa phần mềm Linux có thể thực thi được. Xác nhận rằng bạn tin tưởng nguồn của nó. Phục hồi thay thế toàn bộ môi trường và kiểm tra các dịch vụ địa phương; môi trường trước đó được giữ lại để phục hồi.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Đã xác minh sao lưu. Đang chờ xác nhận khôi phục.</string>
+    <string name="native_97076078c749" formatted="false">Đồng thời bật chế độ tương thích Chromium (tắt hộp cát xử lý Linux)\nChế độ trình duyệt</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Tắt theo mặc định. Bạn có thể kích hoạt nó sau trong cài đặt máy tính để bàn.</string>
+    <string name="native_ddf09383413c" formatted="false">Xác nhận khôi phục</string>
+    <string name="native_8e6056b0f629" formatted="false">Hủy nhập</string>
+    <string name="native_63a895901c76" formatted="false">Môi trường máy trạm đã thay đổi</string>
+    <string name="native_a4c994348a39" formatted="false">Mở lại không gian làm việc</string>
+    <string name="native_774947f0653e" formatted="false">Hủy tác vụ</string>
+    <string name="native_e09a22b18445" formatted="false">Nhiệm vụ bị gián đoạn. Chọn lại một thao tác và nhập mật khẩu.</string>
+    <string name="native_38c5fcc634db" formatted="false">Trước tiên hãy lưu các chỉnh sửa tệp trong tất cả các cửa sổ. Hủy quá trình nhập hiện có trước khi thử lại.</string>
+    <string name="native_029bfa8ff772" formatted="false">Khôi phục máy trạm và xác minh chương trình</string>
+    <string name="native_e4f04df818f8" formatted="false">Đang xử lý thao tác sao lưu đã chọn của bạn</string>
+    <string name="native_8206f072d5ee" formatted="false">Dừng OpenCode, thiết bị đầu cuối và máy tính để bàn, sau đó đợi các thao tác với tệp kết thúc.</string>
+    <string name="native_1a5cde18c609" formatted="false">Không thể bắt đầu tác vụ sao lưu. Hãy thử lại với ứng dụng ở nền trước.</string>
+    <string name="native_1553b714941d" formatted="false">Giải mã và xác minh bản sao lưu. Môi trường ban đầu vẫn có thể phục hồi được…</string>
+    <string name="native_dafd005e953e" formatted="false">Đã xác minh sao lưu. Xác nhận khôi phục trong ứng dụng.</string>
+    <string name="native_9fb236184596" formatted="false">Đã xóa bản sao cục bộ được mã hóa bên trong ứng dụng.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Thao tác bị hủy. Dữ liệu môi trường gốc được giữ lại.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Thao tác chưa hoàn tất. Kiểm tra mật khẩu, tính toàn vẹn của bản sao lưu, phiên bản máy chủ và dung lượng trống. Dữ liệu môi trường gốc được giữ lại.</string>
+    <string name="native_29deabd28960" formatted="false">Tạo bản sao lưu máy trạm được mã hóa…</string>
+    <string name="native_3d137e243806" formatted="false">Đã tạo bản sao lưu được mã hóa. Chọn nơi để lưu nó.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Khôi phục môi trường và kiểm tra các dịch vụ địa phương. Giữ nguyên dữ liệu ứng dụng…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Máy trạm đã được khôi phục. Môi trường trước đó vẫn ở dạng bản sao lưu riêng tư. Mở lại không gian làm việc.</string>
+    <string name="native_0392cd6152d2" formatted="false">Kiểm tra khôi phục không thành công. Trở lại môi trường trước đó; dữ liệu đã nhập vẫn ở trong bản sao lưu riêng.</string>
+    <string name="native_5dc7410b600e" formatted="false">Quá trình khôi phục chưa hoàn tất. Tất cả các thư mục dữ liệu được giữ lại. Giữ dữ liệu ứng dụng và thử khôi phục lại.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Đang khôi phục môi trường máy trạm trước đó…</string>
+    <string name="native_15821323ff89" formatted="false">Môi trường trước đó được khôi phục. Những công việc gần đây hơn vẫn được lưu trong bản sao lưu riêng tư. Mở lại không gian làm việc.</string>
+    <string name="native_56dd94f47870" formatted="false">Không thể hoàn tác việc khôi phục này. Môi trường hiện tại và các bản sao lưu được giữ lại.</string>
+    <string name="native_93530f3fa029" formatted="false">Hoàn tác chưa hoàn tất. Tất cả các thư mục dữ liệu được giữ lại. Giữ dữ liệu ứng dụng và thử khôi phục lại.</string>
+    <string name="native_f12963c80def" formatted="false">Đang lưu bản sao lưu được mã hóa…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Đã lưu bản sao lưu được mã hóa. Bạn có thể lưu lại bản sao cục bộ hoặc xóa nó theo cách thủ công.</string>
+    <string name="native_d660cccf65e0" formatted="false">Đang dọn dẹp một bản nhập chưa được xác nhận…</string>
+    <string name="native_800592163979" formatted="false">Đã hủy nhập. Môi trường ban đầu không thay đổi.</string>
+    <string name="native_5a90367eb834" formatted="false">Đã hủy nhập. Môi trường ban đầu không thay đổi; một số dữ liệu nhập tạm thời vẫn còn trong thư mục riêng của ứng dụng.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Đang chuẩn bị giải mã và xác minh…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Đang chuẩn bị sao lưu được mã hóa…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Không thể khởi động dịch vụ sao lưu. Hãy thử lại ở phía trước.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Trước tiên hãy khôi phục hoạt động môi trường chưa hoàn chỉnh</string>
+    <string name="native_f14aea7c819c" formatted="false">Bản ghi khôi phục không hợp lệ</string>
+    <string name="native_7c284c55ee08" formatted="false">Thiếu thư mục khôi phục</string>
+    <string name="native_bfc4792df15b" formatted="false">Cài đặt gốc vượt quá giới hạn bản ghi khôi phục</string>
+    <string name="native_8d93770ba8c9">Thiếu thư mục môi trường trước đó: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Giai đoạn phục hồi không xác định</string>
+    <string name="native_20c5124fe175" formatted="false">Hoạt động khôi phục không xác định</string>
+    <string name="native_1c457322b624" formatted="false">Không có môi trường trước đó để khôi phục</string>
+    <string name="native_30db1666c8e5" formatted="false">Bản sao lưu này thuộc về một ứng dụng khác</string>
+    <string name="native_6687d1c64d75" formatted="false">Kiến trúc bộ xử lý sao lưu không khớp</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Trước tiên hãy cập nhật máy chủ Android lên phiên bản được bản sao lưu này sử dụng</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Thư mục sao lưu không đầy đủ</string>
+    <string name="native_66106ab3e254" formatted="false">Bản sao lưu cũ không có bằng chứng xác minh của nhà xuất bản OpenCode. Bắt đầu môi trường ban đầu với máy chủ này trước khi sao lưu lại.</string>
+    <string name="native_bec13cc92982" formatted="false">Hành động của hệ thống môi trường phát triển</string>
+    <string name="native_65de80229626" formatted="false">Debian đã yêu cầu một hành động hệ thống</string>
+    <string name="native_5e38581cf19c" formatted="false">Nhấn để xem xét và xử lý yêu cầu</string>
+    <string name="native_749d406d2c67" formatted="false">Từ môi trường phát triển Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Mở trình duyệt hệ thống?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Mở bản xem trước dự án cục bộ?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Đọc bảng nhớ tạm?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Sao chép vào bảng nhớ tạm hệ thống?</string>
+    <string name="native_77f761eb70aa" formatted="false">Gửi thông báo địa phương?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Chia sẻ tệp dự án?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Nhập tập tin hệ thống?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Xuất tệp dự án?</string>
+    <string name="native_7ac295421c6d" formatted="false">Mở trong trình duyệt</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Mở bản xem trước</string>
+    <string name="native_14792d6cd7a6" formatted="false">Cho phép đọc</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Sao chép vào khay nhớ tạm</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Gửi thông báo</string>
+    <string name="native_88152a09fa02" formatted="false">Chọn ứng dụng chia sẻ</string>
+    <string name="native_7a49a79c57f9" formatted="false">Chọn tập tin</string>
+    <string name="native_99d9f87419c5" formatted="false">Chọn nơi lưu</string>
+    <string name="native_23e5bb2090aa">%1$s\nMở bằng dữ liệu trình duyệt được tách biệt khỏi OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Đưa văn bản từ bảng ghi tạm hệ thống vào chương trình Debian hiện tại.</string>
+    <string name="native_dcc6bec24e43">Chọn tệp để nhập vào %1$s. Các tập tin hiện có được giữ lại và các bản sao được đổi tên.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium\nChế độ tương thích</string>
+    <string name="native_4767f37900f6" formatted="false">sử dụng một cấu hình trình duyệt riêng và vô hiệu hóa hộp cát xử lý Linux của Chromium. Trình duyệt vẫn có thể truy cập các tệp bên trong ứng dụng này. Tránh các trang web không đáng tin cậy và sử dụng trình duyệt hệ thống Android cho các tài khoản quan trọng. Mở lại Chromium sau khi thay đổi chế độ.</string>
+    <string name="native_a4317f2699a2" formatted="false">Hộp cát Linux tiêu chuẩn được bật theo mặc định. Nếu Chromium không thể khởi động, bạn có thể chọn chế độ tương thích. Nó vô hiệu hóa hộp cát xử lý Linux và sử dụng một cấu hình riêng biệt trong khi vẫn giữ quyền truy cập vào các tệp ứng dụng. Tránh các trang web không đáng tin cậy; sử dụng trình duyệt hệ thống Android cho các tài khoản quan trọng.</string>
+    <string name="native_3a2596fa9517" formatted="false">Khôi phục chế độ tiêu chuẩn</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Bật chế độ tương thích</string>
+    <string name="native_9a45442649f5" formatted="false">Máy tính để bàn Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · /workspace được chia sẻ</string>
+    <string name="native_fb7f60a63fac" formatted="false">Bản cài đặt đầu tiên tải xuống các thành phần đồ họa. Sau khi cài đặt, máy tính để bàn có thể khởi động và dừng độc lập với OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">Gương USTC</string>
+    <string name="native_41e865941e16" formatted="false">Bản sao Debian chính thức</string>
+    <string name="native_ea341b8a102b" formatted="false">Độ phân giải ban đầu</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Máy tính để bàn tiếp tục chạy khi bạn chuyển trang. Dừng nó khỏi Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Dừng tác vụ trên màn hình</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Khởi động máy tính để bàn</string>
+    <string name="native_ea27a25e5114" formatted="false">Cài đặt các thành phần máy tính để bàn</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: chế độ tương thích</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: chế độ tiêu chuẩn</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Trước tiên hãy cài đặt công cụ dành cho nhà phát triển Debian từ Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Nhật ký hoạt động</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Không thể mở thư mục dự án. Kiểm tra xem thư mục có tồn tại không.</string>
+    <string name="native_83c76743b29d" formatted="false">Khôi phục hoạt động môi trường bị gián đoạn</string>
+    <string name="native_739a730ae247" formatted="false">Bảo trì môi trường</string>
+    <string name="native_049281329843" formatted="false">Đợi bảo trì cập nhật hoặc tác vụ hiện tại hoàn tất.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Đợi tác vụ môi trường phát triển hiện tại hoàn tất</string>
+    <string name="native_83099168971c" formatted="false">Cài đặt máy tính để bàn</string>
+    <string name="native_85e0c18dde8d" formatted="false">Khởi động máy tính để bàn</string>
+    <string name="native_9a48f8196d8f" formatted="false">Cần chú ý</string>
+    <string name="native_75470fb13121" formatted="false">Đã dừng</string>
+    <string name="native_51a53c8109d5" formatted="false">Không thể đọc hoặc lưu bản ghi hoạt động. Sửa chữa nó khỏi Runtime hoặc giải phóng một số bộ nhớ.</string>
+    <string name="native_d36a018cc619" formatted="false">Trước tiên hãy cài đặt môi trường phát triển Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Trước tiên hãy kết nối với mạng</string>
+    <string name="native_a065d81014b1" formatted="false">Quá trình cài đặt trên máy tính để bàn chưa hoàn tất. Thử lại cài đặt.</string>
+    <string name="native_721c38b32c35" formatted="false">Máy tính để bàn đã được cài đặt. Bắt đầu nó khi cần thiết.</string>
+    <string name="native_6c1c52771115" formatted="false">Trước tiên hãy cài đặt các thành phần máy tính để bàn</string>
+    <string name="native_693d90a47827" formatted="false">Thao tác trên máy tính để bàn không thành công. Thông tin chi tiết quá dài hoặc không có sẵn.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Không thể hoàn tất việc lưu điểm dừng. Quá trình dọn dẹp tiếp tục.</string>
+    <string name="native_06083621a6ce" formatted="false">Không thể hoàn tất việc lưu bản ghi hoạt động. Lần ra mắt tiếp theo sẽ coi đây là sự gián đoạn.</string>
+    <string name="native_04d721a3819a" formatted="false">Máy tính để bàn đang chạy</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Thao tác trên máy tính để bàn đã hết thời gian chờ. Xem lại nhật ký và thử lại.</string>
+    <string name="native_e70d328a3ca9">Đã thoát quá trình trên máy tính để bàn (%1$s). Xem lại nhật ký hoạt động.</string>
+    <string name="native_df5c878f2852" formatted="false">Không gian làm việc đồ họa cục bộ</string>
+    <string name="native_7b0455a8daa4" formatted="false">Dừng máy tính để bàn</string>
+    <string name="native_a62123cde9c7" formatted="false">Tác vụ bị gián đoạn và phục hồi</string>
+    <string name="native_279308947a14" formatted="false">Không thể đọc bản ghi hoạt động. Sửa chữa giữ một bản sao của bản ghi bị hỏng và bảo tồn các dự án, phiên và môi trường Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Sửa chữa hồ sơ hoạt động</string>
+    <string name="native_6b43650c2c82" formatted="false">Nhiệm vụ kết thúc bất ngờ.</string>
+    <string name="native_acb0c970aaa6">%1$s thiết bị đầu cuối không được đóng bình thường. Lệnh chạy của họ bị gián đoạn.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Đã xác nhận khởi động lại. Các lệnh trước đó không được phát lại.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Các dự án và phiên đã lưu sẽ được giữ lại. Mở lại thiết bị đầu cuối theo cách thủ công; các lệnh chưa hoàn thành sẽ không tự động tiếp tục.</string>
+    <string name="native_fa9669296762" formatted="false">Khởi động lại OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Máy tính để bàn sẽ không tự động khởi động lại. Bắt đầu lại từ trang Desktop.</string>
+    <string name="native_644f8f44251f" formatted="false">Mở tập tin</string>
+    <string name="native_9dfb5569d609" formatted="false">Chia sẻ tập tin</string>
+    <string name="native_a4500cff3a86" formatted="false">Thư mục làm việc không được là một liên kết tượng trưng</string>
+    <string name="native_8657d27661bd" formatted="false">Đường dẫn thư mục làm việc không hợp lệ</string>
+    <string name="native_02b702a9adff" formatted="false">Chọn một tập tin</string>
+    <string name="native_924874b746cc" formatted="false">Quản lý các liên kết tượng trưng trong terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Tên tệp không hợp lệ</string>
+    <string name="native_c4989dc37aab" formatted="false">Thư mục không tồn tại</string>
+    <string name="native_d613dba39b44" formatted="false">Thư mục đích không tồn tại</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Không thể đặt thư mục bên trong chính nó hoặc con cháu của nó</string>
+    <string name="native_c3acd5a3254c" formatted="false">Dự án chứa các thiết bị hoặc ổ cắm đặc biệt và không thể sao chép</string>
+    <string name="native_6c36955b068b" formatted="false">Chọn một tập tin thông thường</string>
+    <string name="native_49191d7d489f" formatted="false">Tệp này vượt quá 2 MB. Chỉnh sửa nó bằng OpenCode hoặc thiết bị đầu cuối.</string>
+    <string name="native_ee42414d36c2" formatted="false">Tệp quá lớn</string>
+    <string name="native_f0a979f87157" formatted="false">Xuất tệp nhị phân để mở chúng trong ứng dụng khác</string>
+    <string name="native_88a9c82651fc" formatted="false">Chỉnh sửa các tệp không phải là UTF-8 bằng OpenCode hoặc terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Một công cụ khác đã thay đổi tập tin này. Mở lại nó trước khi chỉnh sửa.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Thư mục gốc không còn tồn tại. Khôi phục nó trước.</string>
+    <string name="native_46eae321049e" formatted="false">Không có ứng dụng chia sẻ nào</string>
+    <string name="native_87d699d3a26c" formatted="false">Thùng rác</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Tệp dự án</string>
+    <string name="native_4dcf914f0b64" formatted="false">Các tập tin đã xóa có thể được khôi phục về thư mục gốc của chúng</string>
+    <string name="native_c5b81b02354f" formatted="false">Trở lại</string>
+    <string name="native_e56b99379169">Đã sao chép %1$s tệp · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Đang sao chép…</string>
+    <string name="native_85199bb36b04" formatted="false">Hủy thao tác</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Đóng</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Phiên mới</string>
+    <string name="native_23c250cc8e0b" formatted="false">Bắt đầu phiên OpenCode tại đây</string>
+    <string name="native_f22da21fd54f" formatted="false">Thiết bị đầu cuối</string>
+    <string name="native_3645f30b3412" formatted="false">Các thay đổi chưa được lưu</string>
+    <string name="native_2266227605c4" formatted="false">Lưu</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Thùng rác trống</string>
+    <string name="native_a9e739b13e52" formatted="false">Khôi phục</string>
+    <string name="native_45985dc2183e" formatted="false">Di chuyển:</string>
+    <string name="native_31214130b5b7" formatted="false">Sao chép:</string>
+    <string name="native_07e5c3158f35" formatted="false">Dán</string>
+    <string name="native_831b4e0fb574" formatted="false">Mới</string>
+    <string name="native_ff65a22d7087" formatted="false">Thư mục mới</string>
+    <string name="native_71faed44a86c" formatted="false">Tập tin mới</string>
+    <string name="native_8dddd460f6ae" formatted="false">Nhập khẩu</string>
+    <string name="native_d85825123e60" formatted="false">Làm mới</string>
+    <string name="native_ac9d73843736" formatted="false">Tìm kiếm thư mục này</string>
+    <string name="native_21eef82963ee" formatted="false">Thư mục này trống. Nhập tập tin hoặc tạo một dự án.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Không có tệp phù hợp</string>
+    <string name="native_d674bc0f86b8" formatted="false">Hành động với tệp</string>
+    <string name="native_d04a47c87cc8" formatted="false">Liên kết tượng trưng</string>
+    <string name="native_e0ba66f5246a" formatted="false">Thư mục</string>
+    <string name="native_f170b42599e8" formatted="false">Đổi tên</string>
+    <string name="native_4cdacf57ead2" formatted="false">Sao chép</string>
+    <string name="native_124aa030694e" formatted="false">Chuyển đến…</string>
+    <string name="native_ac990518ed87" formatted="false">Mở terminal tại đây</string>
+    <string name="native_87bc93932d8a" formatted="false">Xuất sang tập tin hệ thống</string>
+    <string name="native_dd37f132172f" formatted="false">Chuyển vào thùng rác</string>
+    <string name="native_7318746d337c" formatted="false">Chuyển vào thùng rác?</string>
+    <string name="native_2b5ee3f10a56">Bạn có thể khôi phục “%1$s” từ thùng rác.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Di chuyển</string>
+    <string name="native_4e47aaa113fc" formatted="false">Hủy các thay đổi chưa được lưu?</string>
+    <string name="native_63b75399ef1a" formatted="false">Hủy thay đổi</string>
+    <string name="native_d9618f7b8d25" formatted="false">Tiếp tục chỉnh sửa</string>
+    <string name="native_76ce6aef5479" formatted="false">Tên</string>
+    <string name="native_35b0fc30b909" formatted="false">Được rồi</string>
+    <string name="native_11b319774788" formatted="false">Môi trường được khôi phục. Mở lại không gian làm việc.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Hoàn tất việc khôi phục thao tác bị gián đoạn trong Runtime trước</string>
+    <string name="native_f29af06e7c99" formatted="false">Đang tiến hành bảo trì môi trường. Hãy thử lại sau.</string>
+    <string name="native_3bd28258feb0" formatted="false">Thao tác đã bị hủy</string>
+    <string name="native_c508721eb3cd" formatted="false">Đã tồn tại một tệp có tên này. Chọn một tên khác.</string>
+    <string name="native_1e8274fe468a" formatted="false">Tệp không còn tồn tại. Làm mới thư mục.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Quyền truy cập tệp bị từ chối</string>
+    <string name="native_cd808e4c321e" formatted="false">Không thể hoàn thành thao tác</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Thao tác chưa hoàn tất. Kiểm tra bộ nhớ còn trống hoặc chọn lại các tập tin.</string>
+    <string name="native_3f9983126fd7" formatted="false">Kiểm tra trạng thái khởi động OpenCode trong Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Không thể mở thiết bị đầu cuối mới. Kiểm tra số lượng phiên.</string>
+    <string name="native_2160fde3813a" formatted="false">Quản lý các liên kết tượng trưng trong terminal. Trình quản lý tập tin không theo liên kết.</string>
+    <string name="native_7a844e9d4017" formatted="false">Di chuyển hoàn tất</string>
+    <string name="native_573877894fcf" formatted="false">Bản sao đã hoàn tất</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Đã chuyển vào thùng rác</string>
+    <string name="native_862330af933f" formatted="false">Đã khôi phục về thư mục gốc</string>
+    <string name="native_beda23c9d52b" formatted="false">Đã xảy ra bảo trì hoặc thay thế môi trường. Mở lại không gian làm việc trước khi chỉnh sửa.</string>
+    <string name="native_678c6953bb2b" formatted="false">Đã lưu</string>
+    <string name="native_8063159f2178" formatted="false">Không thể đọc tệp đã chọn</string>
+    <string name="native_4cdc2180d2ac">Đã nhập tệp %1$s</string>
+    <string name="native_e98763643b93" formatted="false">Không thể ghi vào vị trí đã chọn</string>
+    <string name="native_5afd173be7fa" formatted="false">Xuất xong</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Mã và phiên</string>
+    <string name="native_8745ed51cadd" formatted="false">Máy tính để bàn</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Không gian làm việc đồ họa</string>
+    <string name="native_770d49c5f689" formatted="false">Tập tin</string>
+    <string name="native_6a9b6480b58f" formatted="false">Thời gian chạy</string>
+    <string name="native_b561fe9204cc" formatted="false">Dịch vụ và công cụ dành cho nhà phát triển</string>
+    <string name="native_70850bdeeabd" formatted="false">Đóng menu trang</string>
+    <string name="native_b4549acb48e8" formatted="false">Không gian làm việc</string>
+    <string name="native_3d3551f4660f">Độ mờ của nút nổi %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Giá trị thấp hơn làm cho nút nổi trong suốt hơn</string>
+    <string name="native_e031beabfc9a" formatted="false">Mở menu trang</string>
+    <string name="native_106ee775b538" formatted="false">Đang kết nối với OpenCode cục bộ…</string>
+    <string name="native_a021adc1f449" formatted="false">Kết nối cục bộ cần được khôi phục</string>
+    <string name="native_dacb8837471c" formatted="false">Kết nối lại</string>
+    <string name="native_17584aa60ae6" formatted="false">Không thể chuẩn bị bộ đệm tài nguyên cục bộ</string>
+    <string name="native_3b3b80064ccb" formatted="false">Đang chuẩn bị OpenCode cục bộ…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Thử lại</string>
+    <string name="native_b07809340403" formatted="false">Vị trí không gian làm việc chưa được lưu. Hãy thử lại sau.</string>
+    <string name="native_e4ab10392d05" formatted="false">Dịch vụ địa phương đang sẵn sàng. Không gian làm việc của bạn sẽ tự động mở sau khi được kết nối.</string>
+    <string name="native_20ea15973287" formatted="false">Lần chạy trước đó bị gián đoạn. Khởi động lại từ Thời gian chạy; lệnh đầu cuối sẽ không được phát lại tự động.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Khởi động OpenCode từ Runtime để mở mã và phiên.</string>
+    <string name="native_abbac5c22111" formatted="false">Thoát khỏi ứng dụng?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Môi trường phát triển có thể tiếp tục chạy ở chế độ nền. Trở lại sau từ thông báo.</string>
+    <string name="native_814a8fb24b62" formatted="false">Thoát khỏi không gian làm việc hiện tại?</string>
+    <string name="native_a76464945c2d" formatted="false">Đồng thời dừng môi trường phát triển</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Thoát</string>
+    <string name="native_b00143b08ff1" formatted="false">Máy trạm phát triển đã sẵn sàng</string>
+    <string name="native_51bca456a350" formatted="false">Máy trạm phát triển Debian của bạn</string>
+    <string name="native_0c2acd0b6057" formatted="false">Đang chạy</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Đang khởi động</string>
+    <string name="native_44da7f6a451d" formatted="false">Đang dừng</string>
+    <string name="native_b7e1503a7239" formatted="false">Sửa chữa môi trường phát triển</string>
+    <string name="native_7c91bd67ff14" formatted="false">Cài đặt môi trường phát triển</string>
+    <string name="native_cfd73bb04860" formatted="false">Dừng môi trường</string>
+    <string name="native_e7ec95694dce" formatted="false">Bắt đầu OpenCode\nCập nhật</string>
+    <string name="native_5d4600a269e9" formatted="false">Kiểm tra môi trường</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Cập nhật công cụ dành cho nhà phát triển Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Bản sao lưu môi trường trước đó, dữ liệu dự án và phiên được giữ lại.</string>
+    <string name="native_eb3114155716" formatted="false">Cài đặt/cập nhật máy chủ ngôn ngữ</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) và Python (pylsp), được cài đặt trực tuyến từ kho lưu trữ Debian đã ký. Dừng OpenCode và máy tính để bàn trước.</string>
+    <string name="native_2c7251cce661" formatted="false">Nhấn vào nút nổi để chuyển trang. Kéo nó để định vị lại nó.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Thông tin thời gian chạy xuất hiện ở đây sau khi khởi động.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Thời gian chạy mở</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Phiên bản APK đi kèm</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Nhập .ocaupdate có chữ ký của nhà xuất bản ứng dụng này. Bản cập nhật chính thức của frontend và backend cùng nhau.</string>
+    <string name="native_8aad48b0508d" formatted="false">Nguồn cập nhật (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Kiểm tra nguồn cập nhật</string>
+    <string name="native_f73973cfadbb">Bản phát hành đã ký: %1$s\nCam kết: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Tải xuống và xác minh</string>
+    <string name="native_f2ef7965bf12" formatted="false">Chọn gói cập nhật</string>
+    <string name="native_165111adfe2c">Sẵn sàng cài đặt: %1$s\nCam kết: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Cài đặt bản cập nhật này</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Khôi phục phiên bản và phiên từ trước khi cập nhật</string>
+    <string name="native_6864335de653" formatted="false">Hủy cập nhật</string>
+    <string name="native_5e3472cf084e" formatted="false">Cài đặt bản cập nhật OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Khôi phục trạng thái trước khi cập nhật?</string>
+    <string name="native_11beb4a42abc">Cài đặt %1$s. Ứng dụng lưu ảnh chụp nhanh phiên, kiểm tra chương trình đã ký và khôi phục phiên bản trước đó nếu không thành công. Các tập tin dự án được giữ lại.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Các phiên quay trở lại trạng thái trước bản cập nhật này. Các phiên gần đây hơn vẫn ở trong bản sao lưu riêng tư. Các tập tin dự án được giữ lại.</string>
+    <string name="native_def5e273616d" formatted="false">Xác nhận cài đặt</string>
+    <string name="native_369d2eefccde" formatted="false">Không thể tách dữ liệu trình duyệt xem trước. Mở lại bản xem trước.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Không thể tải trang dự án. Kiểm tra máy chủ phát triển trong thiết bị đầu cuối của bạn.</string>
+    <string name="native_6e7408950cf5" formatted="false">Xem trước trang web dự án</string>
+    <string name="native_bfb4951e071d" formatted="false">Xem trước dự án</string>
+    <string name="native_f80652913d06" formatted="false">Khởi động máy chủ phát triển trong thiết bị đầu cuối, sau đó nhập cổng cục bộ của nó. Dữ liệu trình duyệt xem trước được tách biệt khỏi OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Cảng</string>
+    <string name="native_77c3a828a5c5" formatted="false">Nhập cổng phát triển từ 1024 đến 65535, ngoại trừ OpenCode và các dịch vụ máy tính để bàn.</string>
+    <string name="native_7311a9dfea51" formatted="false">Không có gì đang nghe trên cổng này. Kiểm tra dịch vụ trong thiết bị đầu cuối của bạn.</string>
+    <string name="native_4f8d84105475" formatted="false">Đang kiểm tra…</string>
+    <string name="native_4923c272b68e" formatted="false">Cổng phát triển phải là số nguyên</string>
+    <string name="native_04a87026e81f" formatted="false">Chọn cổng phát triển dự án hợp lệ</string>
+    <string name="native_a8a305819e54" formatted="false">Phiên phát triển OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Cài đặt môi trường phát triển</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Cập nhật Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Sửa chữa môi trường phát triển</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Kiểm tra môi trường phát triển</string>
+    <string name="native_9612d4419bb6" formatted="false">Cài đặt máy chủ ngôn ngữ</string>
+    <string name="native_f72fba77f87a" formatted="false">Phục hồi môi trường</string>
+    <string name="native_7c8162195c7c" formatted="false">Cài đặt máy tính để bàn</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Lần chạy trước đó bị gián đoạn. Khởi động lại rõ ràng từ Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Một tác vụ phát triển kiểu này vẫn đang chạy</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Sửa chữa hồ sơ hoạt động</string>
+    <string name="native_b66749ed72ea" formatted="false">Đã thoát quá trình</string>
+    <string name="native_6b25042064e2" formatted="false">Kết thúc bằng tín hiệu</string>
+    <string name="native_d6febdf1752b" formatted="false">Đã được thu hồi do bộ nhớ thấp</string>
+    <string name="native_1d13790f3c89" formatted="false">Lỗi ứng dụng</string>
+    <string name="native_28db94d1850d" formatted="false">Sự cố quy trình gốc</string>
+    <string name="native_86919539f7f1" formatted="false">Ứng dụng không phản hồi</string>
+    <string name="native_90fb8d6098a5" formatted="false">Khởi tạo không thành công</string>
+    <string name="native_38c60ab6654c" formatted="false">Quyền đã thay đổi</string>
+    <string name="native_6d2a6c71334d" formatted="false">Giới hạn tài nguyên</string>
+    <string name="native_19b2090b01a8" formatted="false">Người dùng đã yêu cầu dừng</string>
+    <string name="native_120d96445f1a" formatted="false">Bị dừng bởi người dùng</string>
+    <string name="native_3c8af14f66bc" formatted="false">Đã thoát quá trình phụ thuộc</string>
+    <string name="native_ca0941ce04ae" formatted="false">Lý do hệ thống khác</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Quá trình đóng băng</string>
+    <string name="native_0d48373023a8" formatted="false">Trạng thái ứng dụng đã thay đổi</string>
+    <string name="native_c752307db26b" formatted="false">Cập nhật ứng dụng</string>
+    <string name="native_b5015951cbdf" formatted="false">Hệ thống không đưa ra lý do thoát</string>
+    <string name="native_b62737b826ad">Thoát hệ thống (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Không thể mở thư mục dự án</string>
+    <string name="native_faf5d983c13e" formatted="false">Không thể tạo phiên OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">Thư mục phiên OpenCode không khớp</string>
+    <string name="native_ac19736908a2" formatted="false">Không thể đọc phiên OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Bảo trì môi trường</string>
+    <string name="native_f992d735d932" formatted="false">Dừng OpenCode, thiết bị đầu cuối và máy tính để bàn Debian, sau đó đợi các thao tác với tệp kết thúc</string>
+    <string name="native_489f137f1080" formatted="false">Khóa bảo trì môi trường không còn hiệu lực</string>
+    <string name="native_42380e2567fc" formatted="false">Đã khôi phục hoạt động bị gián đoạn. Mở lại không gian làm việc.</string>
+    <string name="native_17b00cac2b91" formatted="false">Khôi phục kết nối cục bộ không thành công. Thử lại từ Thời gian chạy.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Đang tiến hành bảo trì môi trường. Hãy thử lại sau.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Dừng máy tính để bàn Debian trước khi cập nhật môi trường phát triển</string>
+    <string name="native_548085b144c9" formatted="false">Đã khôi phục hoạt động bị gián đoạn. Bạn có thể bắt đầu môi trường phát triển.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Lần chạy trước đó bị gián đoạn. Lệnh đầu cuối sẽ không tự động phát lại. Khởi động lại rõ ràng từ Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Việc dọn dẹp cấu hình kết nối tạm thời chưa hoàn tất. Quá trình dọn dẹp tiếp tục.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Không thể tạo không gian làm việc helloworld. Kiểm tra thư mục và không gian có sẵn.</string>
+    <string name="native_68301868225a" formatted="false">Thư mục không gian làm việc trước đó không khả dụng. Đã mở helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Dự án mặc định chưa sẵn sàng. Thử lại từ Tệp.</string>
+    <string name="native_45d6ab452622" formatted="false">Cài đặt máy chủ ngôn ngữ</string>
+    <string name="native_9793c4a83295" formatted="false">Máy chủ ngôn ngữ C/C++ và Python đã sẵn sàng. Bắt đầu OpenCode để sử dụng LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Bản ghi hoạt động của thiết bị đầu cuối chưa được lưu. Tạo một thiết bị đầu cuối mới sau khi kết thúc quá trình.</string>
+    <string name="native_1978b311a9ff" formatted="false">Không thể hoàn tất việc lưu bản ghi thoát thiết bị đầu cuối.</string>
+    <string name="native_66dee11c3194" formatted="false">Tải xuống bản cập nhật OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Đang kết nối với nguồn cập nhật…</string>
+    <string name="native_8c39baf28e08" formatted="false">Không thể kết nối với nguồn cập nhật. Kiểm tra mạng, chữ ký nhà xuất bản, phiên bản máy chủ và dung lượng trống.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Đã hết thời gian tải xuống</string>
+    <string name="native_f75850093535">Đang tải xuống: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Đang xác minh chữ ký của nhà xuất bản…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Đang tải xuống gói cập nhật…</string>
+    <string name="native_2f9cd52dc66a">Chữ ký hợp lệ của nhà xuất bản: %1$s. Xem xét trước khi tải xuống.</string>
+    <string name="native_17548865632c" formatted="false">Tải xuống, phát hành siêu dữ liệu và chữ ký gói đã được xác minh. Xác nhận cài đặt.</string>
+    <string name="native_180cec958e7a" formatted="false">Đã hủy tải xuống. Phiên bản gốc được giữ lại.</string>
+    <string name="native_8df045f8ac12" formatted="false">Đã dừng tải xuống. Phiên bản gốc được giữ lại.</string>
+    <string name="native_778803f1c6bb" formatted="false">Hủy tải xuống</string>
+    <string name="native_2958898ce6f4" formatted="false">Phiên bản mới không thể khởi động cục bộ, kiểm tra phiên bản hoặc xác thực. Phiên bản trước đó sẽ được khôi phục.</string>
+    <string name="native_cc876dfbb261" formatted="false">Quá trình dùng thử vẫn đang diễn ra. Chờ phục hồi trước khi thử lại.</string>
+    <string name="native_adf977dcb47e" formatted="false">Mã định danh bản ghi cập nhật không hợp lệ</string>
+    <string name="native_5207cac670b7" formatted="false">Kích thước OpenCode độc lập đã cài đặt không khớp</string>
+    <string name="native_cf5b81887589" formatted="false">Tổng kiểm tra OpenCode độc lập đã cài đặt không khớp. Khôi phục phiên bản trước.</string>
+    <string name="native_393049b506cc" formatted="false">Chương trình gốc không có bằng chứng phù hợp với nhà xuất bản. Trạng thái trước đó không thay đổi.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Khôi phục bản cập nhật bị gián đoạn trước đó trước</string>
+    <string name="native_91d8da5525fa" formatted="false">Gói cập nhật đã thay đổi sau khi xác nhận</string>
+    <string name="native_093f2c091a30" formatted="false">Không đủ dung lượng lưu trữ. Phiên bản gốc không thay đổi.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Không có bản sao lưu cập nhật nào để khôi phục</string>
+    <string name="native_a9f4d9903c14" formatted="false">Bản sao lưu không khớp với phiên bản đang chạy</string>
+    <string name="native_6caa23763a42" formatted="false">Xác minh chương trình trước đó không thành công. Phiên hiện tại không thay đổi.</string>
+    <string name="native_c8b71b876695" formatted="false">Bản cập nhật APK hoặc Debian mới hơn đã thay thế chương trình đi kèm. Bản sao lưu phiên ban đầu được giữ lại; khôi phục chương trình tương ứng trước.</string>
+    <string name="native_c443df40964b" formatted="false">Thao tác khôi phục cập nhật không hợp lệ</string>
+    <string name="native_9071f05d58b3" formatted="false">Đang chuẩn bị cập nhật OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Dừng OpenCode, thiết bị đầu cuối và máy tính để bàn, sau đó đợi chúng thoát.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Lưu trạng thái, xác minh chương trình và chuyển đổi phiên bản</string>
+    <string name="native_5fc065ef6f50" formatted="false">Không thể khởi động dịch vụ bảo trì cập nhật.</string>
+    <string name="native_f7b560c8c820" formatted="false">Đang xác minh và dàn dựng chương trình chính thức…</string>
+    <string name="native_9606191c82dc" formatted="false">Giữ nguyên chương trình gốc và chữ ký của nhà xuất bản…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Đang lưu ảnh chụp nhanh trạng thái phiên…</string>
+    <string name="native_0c8cf4632889" formatted="false">Chuyển đổi phiên bản và xác minh dịch vụ cục bộ…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Đang khôi phục phiên bản và phiên từ trước khi cập nhật…</string>
+    <string name="native_856de41d3bf3" formatted="false">Khôi phục OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Đang cập nhật OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Đã khôi phục phiên bản và phiên trước đó. Các phiên gần đây hơn vẫn ở trong bản sao lưu riêng tư.</string>
+    <string name="native_07367ff18068" formatted="false">Cập nhật OpenCode đã hoàn tất. Khởi động sẽ sử dụng giao diện người dùng và phụ trợ chính thức phù hợp.</string>
+    <string name="native_4693930f5802" formatted="false">Đã hủy cập nhật. Xác nhận rằng trạng thái ban đầu đã được khôi phục.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Cập nhật chưa hoàn tất. Đang phục hồi ngay bây giờ; chương trình gốc và bản sao lưu phiên được giữ lại.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Quá trình khôi phục chưa hoàn tất. Tất cả các thư mục nhà nước được giữ lại. Giữ dữ liệu của bạn và thử khởi động lại để khôi phục.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Quá trình khôi phục phiên đã hoàn tất. Trạng thái gần đây hơn vẫn còn trong bản sao lưu.</string>
+    <string name="native_67c08a2911e1" formatted="false">Quá trình khôi phục không thể tiến hành với chương trình gốc hoặc bản sao lưu này. Phiên hiện tại và bản sao lưu không thay đổi.</string>
+    <string name="native_976d8c169cfa" formatted="false">Cập nhật bị hủy hoặc không thành công. Phiên bản gốc và phiên được khôi phục.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Đang xác minh chữ ký và tính toàn vẹn của gói cập nhật…</string>
+    <string name="native_0aa018b7337b" formatted="false">Không thể đọc tệp đã chọn</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Gói cập nhật quá lớn</string>
+    <string name="native_f068b83f40bf" formatted="false">Chữ ký và gói hàng đã được xác minh. Xem lại phiên bản trước khi cài đặt.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Không thể nhập: tệp không hợp lệ, chữ ký không khớp, phiên bản máy chủ không tương thích hoặc không đủ bộ nhớ.</string>
+    <string name="native_616412e65df4" formatted="false">Chương trình chính thức không khớp với bằng chứng của nhà xuất bản</string>
+    <string name="native_4bf19a158f27" formatted="false">Các gói thời gian chạy độc lập chỉ hỗ trợ ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Chữ ký cập nhật không thuộc về APK này</string>
+    <string name="native_c7273354727f" formatted="false">Tệp cập nhật vượt quá kích thước được khai báo</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Tổng kiểm tra chương trình cập nhật không khớp</string>
+    <string name="native_dd619076d456" formatted="false">Kích thước gói cập nhật không hợp lệ</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Kích thước gói cập nhật nén không khớp</string>
+    <string name="native_1de24edffcf5" formatted="false">Gói cập nhật chứa các mục bổ sung</string>
+    <string name="native_c5b339aa77e8" formatted="false">Nguồn gốc hoặc kiến trúc cập nhật không tương thích</string>
+    <string name="native_89d585f3661f" formatted="false">Hãy nâng cấp ứng dụng Android trước khi cài đặt bản cập nhật này</string>
+    <string name="native_800df084dea0" formatted="false">Tổng kiểm tra kho lưu trữ cập nhật không khớp</string>
+    <string name="native_ddf1a005e310" formatted="false">Định dạng ký APK này không hỗ trợ các bản cập nhật thời gian chạy độc lập</string>
+    <string name="native_172e063db474" formatted="false">Mục nhập gói cập nhật không hợp lệ</string>
+    <string name="native_1c08780aa99f" formatted="false">Siêu dữ liệu cập nhật phải sử dụng số nguyên</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Chương trình cập nhật không phải là Linux ELF 64-bit</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Chương trình cập nhật không đáp ứng được căn chỉnh 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">Chương trình cập nhật thiếu trình tải glibc của Debian</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Nhập nguồn cập nhật HTTPS hợp lệ</string>
+    <string name="native_c274c7dd5900" formatted="false">Nguồn cập nhật yêu cầu URL HTTPS không có thông tin xác thực của người dùng</string>
+    <string name="native_f459f5ec9dac" formatted="false">Trường nguồn cập nhật không hợp lệ</string>
+    <string name="native_bde2a736e30a" formatted="false">Trước tiên hãy nâng cấp máy chủ Android</string>
+    <string name="native_b980fd021bef" formatted="false">Thư mục cập nhật không hợp lệ</string>
+    <string name="native_c0e96727553e" formatted="false">Tệp cập nhật không hợp lệ</string>
+    <string name="native_86ff542c68ed" formatted="false">Không thể chuyển đổi thư mục cập nhật ở trạng thái này</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Trạng thái phiên đề cập đến một thư mục bên ngoài. Bản cập nhật không thể được kiểm tra một cách an toàn.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Không đủ dung lượng lưu trữ. Trạng thái ban đầu không thay đổi.</string>
+    <string name="native_099801d672b1" formatted="false">Đã hủy tải xuống</string>
+    <string name="native_f1304f707ec9" formatted="false">Quá nhiều chuyển hướng cập nhật</string>
+    <string name="native_0d07f458b607" formatted="false">Máy chủ cập nhật không chuyển byte gốc</string>
+    <string name="native_de331dfd8908" formatted="false">Độ dài tệp cập nhật không khớp</string>
+    <string name="native_416b8c87e69e" formatted="false">Tệp cập nhật chưa được tải xuống đầy đủ</string>
+    <string name="native_e1e74b76c427" formatted="false">Máy chủ cập nhật không trả về tệp hoàn chỉnh</string>
+    <string name="native_6afcf03cb130" formatted="false">Không đủ dung lượng dàn dựng cập nhật</string>
+    <string name="native_be1c695d9241" formatted="false">Tệp cập nhật SHA-256 không khớp</string>
+    <string name="native_a0133d117bb0" formatted="false">Gói cập nhật không khớp với thông tin phát hành đã được xác nhận</string>
+    <string name="native_8635a43ce28a" formatted="false">Thư mục dự án không hợp lệ</string>
+    <string name="native_d32ab8b004e6" formatted="false">Không thể lưu vị trí không gian làm việc</string>
+    <string name="native_43a5447014fd" formatted="false">Bắt đầu môi trường phát triển từ Runtime trước khi mở terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Nhà ga mới</string>
+    <string name="native_b3b7108a568f" formatted="false">Đóng hiện tại</string>
+    <string name="native_0e822affd5da">Thư mục ban đầu: %1$s</string>
+    <string name="native_72d769e3888d">Thư mục thiết bị đầu cuối mới: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Bộ chọn tệp hệ thống không khả dụng</string>
+    <string name="native_179a57921f91" formatted="false">Cài đặt hiển thị WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Tốc độ khung hình hiển thị</string>
+    <string name="native_55b6d7f645f3" formatted="false">Ưu tiên 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Theo dõi tốc độ làm mới màn hình</string>
+    <string name="native_d4ecf38c341d" formatted="false">Ưu tiên 60 Hz để giảm tải hiển thị trên màn hình có tốc độ làm mới cao. Theo dõi màn hình cho phép hệ thống lên lịch khung. Chỉ áp dụng cho cửa sổ của ứng dụng này.</string>
+    <string name="native_bf0d3a407418" formatted="false">Chưa được cài đặt</string>
+    <string name="native_2fb8edc75b25" formatted="false">Sẵn sàng</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Đang xác minh trình tải</string>
+    <string name="native_d1017c1eac80" formatted="false">Cài đặt Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Môi trường phát triển địa phương</string>
+    <string name="native_55aa84065de2" formatted="false">Phiên phát triển Debian cục bộ</string>
+    <string name="native_6e75b1822ebc" formatted="false">Dừng lại</string>
+    <string name="native_5f73a4e1e494" formatted="false">Đã cài đặt</string>
+    <string name="native_147e90d2ec02" formatted="false">Đang phục hồi</string>
+</resources>

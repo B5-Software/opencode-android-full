@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Ruang kerja pembangunan</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Halaman tunggal</string>
+    <string name="native_651ae6ea52ae" formatted="false">Pulihkan pandangan berpecah</string>
+    <string name="native_d7e97cfac66f" formatted="false">Reka letak ruang kerja</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Luaskan tetingkap untuk melihat berbilang panel bersama-sama.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Tunjukkan fail projek</string>
+    <string name="native_712d956931d1" formatted="false">Tunjukkan terminal\nTerminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">di bawah\nTerminal</string>
+    <string name="native_5de225480fa7" formatted="false">di sebelah kanan\nPanel</string>
+    <string name="native_35cdb3eacdc6" formatted="false">runtuh apabila ruang terhad dan kekal boleh diakses daripada menu terapung. Terminal sisi muncul dalam tingkap yang lebih luas. Seret pembahagi untuk mengubah saiz panel.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Left Alt: 1–5 Halaman · B Fail · T Terminal · M Desktop · Masukkan Tunggal/Split · \\\\ Reka Letak</string>
+    <string name="native_7a129a94c6ff" formatted="false">Selesai</string>
+    <string name="native_bcec2218fc21" formatted="false">Tetapkan semula perkadaran</string>
+    <string name="native_da88c62d1217">Tunjukkan %1$s dalam satu halaman</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Pembahagi fail Projek</string>
+    <string name="native_707c0891a0e6" formatted="false">Pembahagi terminal</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode dan pembahagi desktop</string>
+    <string name="native_50407ad8dfa8" formatted="false">Kecilkan panel sebelumnya</string>
+    <string name="native_b72c5c02a666" formatted="false">Besarkan panel sebelumnya</string>
+    <string name="native_3f3685e8d731" formatted="false">Terlalu banyak pautan PRoot untuk format arkib ini</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Pautan keras Linux memerlukan rootfs yang lengkap</string>
+    <string name="native_f336f1e17596" formatted="false">Sarang direktori sandaran terlalu dalam</string>
+    <string name="native_b6f744737a45" formatted="false">Panjang kata laluan sandaran tidak sah</string>
+    <string name="native_13bde5dd1812" formatted="false">Kata laluan sandaran mesti mengandungi sekurang-kurangnya 12 aksara</string>
+    <string name="native_be02cbd55932" formatted="false">Format sandaran tidak disokong</string>
+    <string name="native_7a91a3d586ae" formatted="false">Pengepala sandaran tidak sah</string>
+    <string name="native_2bbd318a5667" formatted="false">Parameter penyulitan sandaran yang tidak disokong</string>
+    <string name="native_18868da27841" formatted="false">Kata laluan sandaran salah atau fail rosak</string>
+    <string name="native_e41d6440468d" formatted="false">Rekod pemulihan terlalu besar</string>
+    <string name="native_282692502f14" formatted="false">Metadata sandaran terlalu besar</string>
+    <string name="native_61fdca8d6c82" formatted="false">Sarang metadata sandaran terlalu dalam</string>
+    <string name="native_8cefb30732d4" formatted="false">Metadata sandaran tidak sah</string>
+    <string name="native_5d3037708cad" formatted="false">Tetapan asli yang tidak disokong</string>
+    <string name="native_81a57c382f9d" formatted="false">Tidak dapat menyimpan tetapan asli</string>
+    <string name="native_50603e683d4a" formatted="false">Direktori induk tidak sah dalam laluan sandaran</string>
+    <string name="native_c3f838a46b8e" formatted="false">Akar stesen kerja mestilah bukan pautan simbolik</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Fail ditukar semasa sandaran</string>
+    <string name="native_77e1e85147db" formatted="false">Format data stesen kerja tidak disokong</string>
+    <string name="native_a927b5a565af" formatted="false">Sandaran mengandungi data tambahan</string>
+    <string name="native_c2b886d508f2" formatted="false">Sandaran mengandungi laluan pendua</string>
+    <string name="native_3dab8cd60102" formatted="false">Sandaran mengandungi tetapan masa jalan yang tidak boleh dipindahkan</string>
+    <string name="native_f45ba674a630" formatted="false">Sandaran terlalu besar atau storan tidak mencukupi</string>
+    <string name="native_140073e8e77b" formatted="false">Tidak dapat memulihkan cap masa pautan simbolik</string>
+    <string name="native_b0d411aaf62c" formatted="false">Tidak dapat memulihkan cap masa paip yang dinamakan</string>
+    <string name="native_0daee8026db1" formatted="false">Workstation membuat sandaran dan memulihkan</string>
+    <string name="native_1acc18928c5f" formatted="false">Termasuk Debian, alat pembangun, projek, rumah, sesi dan tetapan OpenCode, data penyemak imbas Linux dan tetapan susun atur asli.</string>
+    <string name="native_62254d31a535" formatted="false">Fail sementara dan sandaran lama dikecualikan. Storan Android WebView dan draf yang tidak dihantar kekal pada peranti ini dan tidak dipindahkan dengan sandaran ini.</string>
+    <string name="native_808eabc7811f" formatted="false">Cipta sandaran yang disulitkan</string>
+    <string name="native_201c10b38296" formatted="false">Import sandaran</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Simpan perubahan anda dalam editor fail dahulu.</string>
+    <string name="native_0559cd596453" formatted="false">Hentikan OpenCode, terminal dan desktop</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Operasi persekitaran tidak lengkap. Pulihkan dulu.</string>
+    <string name="native_185f58156330" formatted="false">Pulihkan operasi yang tidak lengkap</string>
+    <string name="native_20831b6f67a7" formatted="false">Buat asal pemulihan persekitaran terakhir</string>
+    <string name="native_4f392d5d6141">Salinan tempatan yang disulitkan: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Simpan ke fail</string>
+    <string name="native_f09619351eb9" formatted="false">Padam salinan tempatan</string>
+    <string name="native_85c686eb9841">Diproses %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Batalkan tugasan sandaran</string>
+    <string name="native_66c9d896407b" formatted="false">Sulitkan sandaran stesen kerja</string>
+    <string name="native_548cd9f0831e" formatted="false">Nyahsulit dan sahkan sandaran</string>
+    <string name="native_d248f5eca9a5" formatted="false">Sandaran mungkin mengandungi kunci peribadi SSH, kunci API dan data akaun. Gunakan sekurang-kurangnya 12 aksara. Kata laluan yang terlupa tidak boleh dipulihkan.</string>
+    <string name="native_f249422b9ec1" formatted="false">Sandaran dinyahsulit dan disahkan dalam direktori peribadi. Persekitaran anda diganti hanya selepas anda mengesahkan pemulihan.</string>
+    <string name="native_e7be6841703a" formatted="false">Kata laluan sandaran</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Ulang kata laluan</string>
+    <string name="native_eafdc5cd4882" formatted="false">Mulakan penyulitan</string>
+    <string name="native_2986b88beade" formatted="false">Nyahsulit dan sahkan</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Batal</string>
+    <string name="native_f46c5ed7412d" formatted="false">Pulihkan keseluruhan persekitaran sebelumnya?</string>
+    <string name="native_33eda0946a5b" formatted="false">Padamkan salinan tempatan yang disulitkan?</string>
+    <string name="native_26db24150f2e" formatted="false">Projek, rumah, Debian dan sesi akan kembali ke keadaan mereka sebelum pemulihan terakhir. Kerja yang lebih terkini akan kekal dalam sandaran peribadi di dalam apl.</string>
+    <string name="native_1153b30d51d5" formatted="false">Hanya salinan tempatan yang disulitkan di dalam apl dipadamkan. Fail yang disimpan di tempat lain kekal tersedia.</string>
+    <string name="native_427a78a4e69a" formatted="false">Sahkan</string>
+    <string name="native_7af46d7ee003" formatted="false">Pulihkan sandaran stesen kerja ini?</string>
+    <string name="native_ed40940162d0">%1$s\nEntri %2$s · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Sandaran mengandungi perisian Linux boleh laku. Sahkan bahawa anda mempercayai sumbernya. Pemulihan menggantikan keseluruhan persekitaran dan memeriksa perkhidmatan tempatan; persekitaran sebelumnya disimpan untuk pemulihan.\nSandaran</string>
+    <string name="native_c3d74ed0c054" formatted="false">disahkan. Menunggu pengesahan pemulihan.</string>
+    <string name="native_97076078c749" formatted="false">Juga dayakan mod keserasian Chromium (melumpuhkan kotak pasir proses Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Mati secara lalai. Anda boleh mendayakannya kemudian dalam tetapan desktop.</string>
+    <string name="native_ddf09383413c" formatted="false">Sahkan pemulihan</string>
+    <string name="native_8e6056b0f629" formatted="false">Batalkan import\nPersekitaran stesen kerja</string>
+    <string name="native_63a895901c76" formatted="false">berubah</string>
+    <string name="native_a4c994348a39" formatted="false">Buka semula ruang kerja</string>
+    <string name="native_774947f0653e" formatted="false">Batalkan tugas</string>
+    <string name="native_e09a22b18445" formatted="false">Tugas telah terganggu. Pilih operasi sekali lagi dan masukkan kata laluan.</string>
+    <string name="native_38c5fcc634db" formatted="false">Simpan suntingan fail dalam semua tetingkap dahulu. Batalkan import sedia ada sebelum mencuba semula.</string>
+    <string name="native_029bfa8ff772" formatted="false">Memulihkan stesen kerja dan mengesahkan program</string>
+    <string name="native_e4f04df818f8" formatted="false">Memproses operasi sandaran pilihan anda</string>
+    <string name="native_8206f072d5ee" formatted="false">Hentikan OpenCode, terminal dan desktop, kemudian tunggu operasi fail selesai.</string>
+    <string name="native_1a5cde18c609" formatted="false">Tidak dapat memulakan tugas sandaran. Cuba semula dengan apl di latar depan.</string>
+    <string name="native_1553b714941d" formatted="false">Menyahsulit dan mengesahkan sandaran. Persekitaran asal masih boleh dipulihkan…</string>
+    <string name="native_dafd005e953e" formatted="false">Sandaran disahkan. Sahkan pemulihan dalam apl.</string>
+    <string name="native_9fb236184596" formatted="false">Memadamkan salinan tempatan yang disulitkan di dalam apl.\nOperasi</string>
+    <string name="native_f98e9ac348b6" formatted="false">dibatalkan. Data persekitaran asal dikekalkan.\nOperasi</string>
+    <string name="native_2a7a367ee0d2" formatted="false">tidak lengkap. Semak kata laluan, integriti sandaran, versi hos dan ruang kosong. Data persekitaran asal dikekalkan.</string>
+    <string name="native_29deabd28960" formatted="false">Mencipta sandaran stesen kerja yang disulitkan…</string>
+    <string name="native_3d137e243806" formatted="false">Sandaran disulitkan dibuat. Pilih tempat untuk menyimpannya.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Memulihkan persekitaran dan memeriksa perkhidmatan tempatan. Pastikan data apl utuh…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Workstation dipulihkan. Persekitaran sebelumnya kekal dalam sandaran peribadi. Buka semula ruang kerja.\nPemeriksaan</string>
+    <string name="native_0392cd6152d2" formatted="false">gagal. Kembali ke persekitaran sebelumnya; data yang diimport kekal dalam sandaran peribadi.\nPemulihan</string>
+    <string name="native_5dc7410b600e" formatted="false">tidak lengkap. Semua direktori data dikekalkan. Simpan data apl dan cuba semula pemulihan.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Memulihkan persekitaran stesen kerja sebelumnya…</string>
+    <string name="native_15821323ff89" formatted="false">Persekitaran sebelumnya dipulihkan. Kerja yang lebih terkini kekal dalam sandaran peribadi. Buka semula ruang kerja.</string>
+    <string name="native_56dd94f47870" formatted="false">Tidak boleh buat asal pemulihan ini. Persekitaran semasa dan sandaran dikekalkan.</string>
+    <string name="native_93530f3fa029" formatted="false">Buat asal tidak lengkap. Semua direktori data dikekalkan. Simpan data apl dan cuba semula pemulihan.</string>
+    <string name="native_f12963c80def" formatted="false">Menyimpan sandaran yang disulitkan…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Sandaran yang disulitkan disimpan. Anda boleh menyimpan salinan tempatan sekali lagi atau memadamkannya secara manual.</string>
+    <string name="native_d660cccf65e0" formatted="false">Membersihkan import yang belum disahkan…\nImport</string>
+    <string name="native_800592163979" formatted="false">dibatalkan. Persekitaran asal tidak berubah.\nImport</string>
+    <string name="native_5a90367eb834" formatted="false">dibatalkan. Persekitaran asal tidak berubah; sesetengah data import sementara kekal dalam direktori peribadi apl.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Menyediakan penyahsulitan dan pengesahan…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Menyediakan sandaran yang disulitkan…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Tidak dapat memulakan perkhidmatan sandaran. Cuba semula di latar depan.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Pulihkan operasi persekitaran yang tidak lengkap dahulu</string>
+    <string name="native_f14aea7c819c" formatted="false">Rekod pemulihan tidak sah</string>
+    <string name="native_7c284c55ee08" formatted="false">Tiada direktori pemulihan</string>
+    <string name="native_bfc4792df15b" formatted="false">Tetapan asli melebihi had rekod pemulihan</string>
+    <string name="native_8d93770ba8c9">Hilang direktori persekitaran sebelumnya: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Peringkat pemulihan tidak diketahui</string>
+    <string name="native_20c5124fe175" formatted="false">Operasi pemulihan tidak diketahui</string>
+    <string name="native_1c457322b624" formatted="false">Tiada persekitaran sebelumnya tersedia untuk dipulihkan</string>
+    <string name="native_30db1666c8e5" formatted="false">Sandaran ini dimiliki oleh apl lain</string>
+    <string name="native_6687d1c64d75" formatted="false">Seni bina pemproses sandaran tidak sepadan</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Kemas kini hos Android kepada versi yang digunakan oleh sandaran ini dahulu</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Direktori sandaran tidak lengkap</string>
+    <string name="native_66106ab3e254" formatted="false">Sandaran lama tidak mempunyai bukti penerbit OpenCode yang boleh disahkan. Mulakan persekitaran asal dengan hos ini sebelum menyandarkannya semula.</string>
+    <string name="native_bec13cc92982" formatted="false">Tindakan sistem persekitaran pembangunan</string>
+    <string name="native_65de80229626" formatted="false">Debian meminta tindakan sistem</string>
+    <string name="native_5e38581cf19c" formatted="false">Ketik untuk menyemak dan mengendalikan permintaan</string>
+    <string name="native_749d406d2c67" formatted="false">Dari persekitaran pembangunan Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Buka penyemak imbas sistem?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Buka pratonton projek tempatan?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Baca papan keratan?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Salin ke papan keratan sistem?</string>
+    <string name="native_77f761eb70aa" formatted="false">Hantar pemberitahuan setempat?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Kongsi fail projek?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Import fail sistem?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Eksport fail projek?</string>
+    <string name="native_7ac295421c6d" formatted="false">Buka dalam penyemak imbas</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Buka pratonton</string>
+    <string name="native_14792d6cd7a6" formatted="false">Benarkan membaca</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Salin ke papan keratan</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Hantar pemberitahuan</string>
+    <string name="native_88152a09fa02" formatted="false">Pilih apl perkongsian</string>
+    <string name="native_7a49a79c57f9" formatted="false">Pilih fail</string>
+    <string name="native_99d9f87419c5" formatted="false">Pilih tempat untuk menyimpan</string>
+    <string name="native_23e5bb2090aa">%1$s\nDibuka dengan data penyemak imbas yang diasingkan daripada OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Berikan teks daripada papan keratan sistem kepada program Debian semasa.</string>
+    <string name="native_dcc6bec24e43">Pilih fail untuk diimport ke dalam %1$s. Fail sedia ada disimpan dan pendua dinamakan semula.</string>
+    <string name="native_efdb26088f68" formatted="false">Mod penyemak imbas Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">Mod keserasian menggunakan profil penyemak imbas yang berasingan dan melumpuhkan kotak pasir proses Linux Chromium. Penyemak imbas masih boleh mengakses fail dalam apl ini. Elakkan tapak web yang tidak dipercayai dan gunakan penyemak imbas sistem Android untuk akaun penting. Buka semula Chromium selepas menukar mod.</string>
+    <string name="native_a4317f2699a2" formatted="false">Kotak pasir Linux Standard didayakan secara lalai. Jika Chromium tidak boleh dimulakan, anda boleh memilih mod keserasian. Ia melumpuhkan kotak pasir proses Linux dan menggunakan profil yang berasingan, sambil mengekalkan akses kepada fail aplikasi. Elakkan laman web yang tidak dipercayai; gunakan penyemak imbas sistem Android untuk akaun penting.</string>
+    <string name="native_3a2596fa9517" formatted="false">Pulihkan mod standard</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Dayakan mod keserasian</string>
+    <string name="native_9a45442649f5" formatted="false">desktop Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Dikongsi /workspace\nPemilih fail Sistem</string>
+    <string name="native_fb7f60a63fac" formatted="false">Pemasangan pertama memuat turun komponen grafik. Selepas pemasangan, desktop boleh bermula dan berhenti secara bebas daripada OpenCode.\nCermin</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC</string>
+    <string name="native_41e865941e16" formatted="false">Cermin Debian Rasmi</string>
+    <string name="native_ea341b8a102b" formatted="false">Peleraian awal</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Desktop terus berjalan apabila anda menukar halaman. Hentikannya daripada Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Hentikan tugas desktop</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Mulakan desktop</string>
+    <string name="native_ea27a25e5114" formatted="false">Pasang komponen desktop</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: mod keserasian</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: mod standard</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Pasang alat pembangun Debian daripada Runtime dahulu.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Log aktiviti</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Tidak dapat membuka folder projek. Semak sama ada direktori itu wujud.</string>
+    <string name="native_83c76743b29d" formatted="false">Memulihkan operasi persekitaran yang terganggu</string>
+    <string name="native_739a730ae247" formatted="false">Penyelenggaraan persekitaran</string>
+    <string name="native_049281329843" formatted="false">Tunggu penyelenggaraan kemas kini atau tugas semasa selesai.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Tunggu tugasan persekitaran pembangunan semasa selesai</string>
+    <string name="native_83099168971c" formatted="false">Memasang desktop</string>
+    <string name="native_85e0c18dde8d" formatted="false">Memulakan desktop</string>
+    <string name="native_9a48f8196d8f" formatted="false">Perlu perhatian</string>
+    <string name="native_75470fb13121" formatted="false">Berhenti</string>
+    <string name="native_51a53c8109d5" formatted="false">Tidak boleh membaca atau menyimpan rekod aktiviti. Baikinya daripada Runtime atau kosongkan beberapa storan.</string>
+    <string name="native_d36a018cc619" formatted="false">Pasang persekitaran pembangunan Debian dahulu</string>
+    <string name="native_80be4c2928a5" formatted="false">Sambung ke rangkaian dahulu</string>
+    <string name="native_a065d81014b1" formatted="false">Pemasangan desktop tidak lengkap. Cuba semula pemasangan.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop dipasang. Mulakan apabila diperlukan.</string>
+    <string name="native_6c1c52771115" formatted="false">Pasang komponen desktop dahulu\nOperasi Desktop</string>
+    <string name="native_693d90a47827" formatted="false">gagal. Butiran terlalu panjang atau tidak tersedia.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Tidak dapat selesai menyimpan penanda henti. Pembersihan proses diteruskan.</string>
+    <string name="native_06083621a6ce" formatted="false">Tidak dapat menyelesaikan menyimpan rekod aktiviti. Pelancaran seterusnya akan menganggap ini sebagai gangguan.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop berjalan\nOperasi desktop</string>
+    <string name="native_c3f0acaf7a73" formatted="false">tamat masa. Semak log dan cuba semula.\nProses Desktop</string>
+    <string name="native_e70d328a3ca9">telah keluar (%1$s). Semak log aktiviti.</string>
+    <string name="native_df5c878f2852" formatted="false">Ruang kerja grafik tempatan</string>
+    <string name="native_7b0455a8daa4" formatted="false">Hentikan desktop</string>
+    <string name="native_a62123cde9c7" formatted="false">Tugas dan pemulihan terganggu</string>
+    <string name="native_279308947a14" formatted="false">Tidak boleh membaca rekod aktiviti. Pembaikan menyimpan salinan rekod yang rosak dan mengekalkan projek, sesi dan persekitaran Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Rekod aktiviti pembaikan</string>
+    <string name="native_6b43650c2c82" formatted="false">Tugas itu tamat tanpa diduga.\nTerminal</string>
+    <string name="native_acb0c970aaa6">%1$s tidak ditutup seperti biasa. Perintah berjalan mereka terganggu.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Mulakan semula disahkan. Arahan sebelumnya tidak dimainkan semula.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Projek dan sesi yang disimpan dikekalkan. Buka semula terminal secara manual; arahan yang belum selesai tidak akan disambung semula secara automatik.</string>
+    <string name="native_fa9669296762" formatted="false">Mulakan semula OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Desktop tidak akan dimulakan semula secara automatik. Mulakannya semula dari halaman Desktop.</string>
+    <string name="native_644f8f44251f" formatted="false">Buka fail</string>
+    <string name="native_9dfb5569d609" formatted="false">Kongsi fail</string>
+    <string name="native_a4500cff3a86" formatted="false">Direktori kerja mestilah bukan pautan simbolik</string>
+    <string name="native_8657d27661bd" formatted="false">Laluan direktori kerja tidak sah</string>
+    <string name="native_02b702a9adff" formatted="false">Pilih fail</string>
+    <string name="native_924874b746cc" formatted="false">Uruskan pautan simbolik dalam terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Nama fail tidak sah\nDirektori</string>
+    <string name="native_c4989dc37aab" formatted="false">tidak wujud</string>
+    <string name="native_d613dba39b44" formatted="false">Direktori destinasi tidak wujud</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Tidak boleh meletakkan folder di dalam dirinya sendiri atau keturunannya</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projek ini mengandungi peranti atau soket khas dan tidak boleh disalin</string>
+    <string name="native_6c36955b068b" formatted="false">Pilih fail biasa</string>
+    <string name="native_49191d7d489f" formatted="false">Fail ini melebihi 2 MB. Edit dengan OpenCode atau terminal.\nFail</string>
+    <string name="native_ee42414d36c2" formatted="false">terlalu besar</string>
+    <string name="native_f0a979f87157" formatted="false">Eksport fail binari untuk membukanya dalam apl lain</string>
+    <string name="native_88a9c82651fc" formatted="false">Edit fail yang bukan UTF-8 dengan OpenCode atau terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Alat lain menukar fail ini. Buka semula sebelum mengedit.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Direktori asal tidak lagi wujud. Pulihkan dahulu.</string>
+    <string name="native_46eae321049e" formatted="false">Tiada apl perkongsian tersedia</string>
+    <string name="native_87d699d3a26c" formatted="false">Sampah\nFail Projek</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Fail projek</string>
+    <string name="native_4dcf914f0b64" formatted="false">Fail yang dipadam boleh dipulihkan ke direktori asalnya</string>
+    <string name="native_c5b81b02354f" formatted="false">Belakang</string>
+    <string name="native_e56b99379169">Menyalin %1$s fail · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Menyalin…</string>
+    <string name="native_85199bb36b04" formatted="false">Batalkan operasi</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Tutup</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Sesi baharu</string>
+    <string name="native_23c250cc8e0b" formatted="false">Mulakan sesi OpenCode di sini\nTerminal</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Perubahan tidak disimpan</string>
+    <string name="native_2266227605c4" formatted="false">Jimat</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Sampah kosong\nPemulihan</string>
+    <string name="native_a9e739b13e52" formatted="false">Pulihkan</string>
+    <string name="native_45985dc2183e" formatted="false">Bergerak: \nSalinan</string>
+    <string name="native_31214130b5b7" formatted="false">: \nTampal</string>
+    <string name="native_07e5c3158f35" formatted="false">tampal</string>
+    <string name="native_831b4e0fb574" formatted="false">Baru</string>
+    <string name="native_ff65a22d7087" formatted="false">Folder baharu</string>
+    <string name="native_71faed44a86c" formatted="false">Fail baharu\nImport</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Muat semula</string>
+    <string name="native_ac9d73843736" formatted="false">Cari direktori ini</string>
+    <string name="native_21eef82963ee" formatted="false">Direktori ini kosong. Import fail atau buat projek.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Tiada fail yang sepadan</string>
+    <string name="native_d674bc0f86b8" formatted="false">Tindakan fail</string>
+    <string name="native_d04a47c87cc8" formatted="false">Pautan simbolik\nFolder</string>
+    <string name="native_e0ba66f5246a" formatted="false">folder</string>
+    <string name="native_f170b42599e8" formatted="false">Namakan semula\nSalinan</string>
+    <string name="native_4cdacf57ead2" formatted="false">salin</string>
+    <string name="native_124aa030694e" formatted="false">Beralih ke…</string>
+    <string name="native_ac990518ed87" formatted="false">Buka terminal di sini</string>
+    <string name="native_87bc93932d8a" formatted="false">Eksport ke fail sistem</string>
+    <string name="native_dd37f132172f" formatted="false">Alihkan ke sampah</string>
+    <string name="native_7318746d337c" formatted="false">Pindah ke sampah?</string>
+    <string name="native_2b5ee3f10a56">Anda boleh memulihkan \"%1$s\" daripada sampah.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Bergerak</string>
+    <string name="native_4e47aaa113fc" formatted="false">Buang perubahan yang belum disimpan?</string>
+    <string name="native_63b75399ef1a" formatted="false">Buang perubahan</string>
+    <string name="native_d9618f7b8d25" formatted="false">Teruskan mengedit\nNama</string>
+    <string name="native_76ce6aef5479" formatted="false">Nama</string>
+    <string name="native_35b0fc30b909" formatted="false">OK\nPersekitaran</string>
+    <string name="native_11b319774788" formatted="false">dipulihkan. Buka semula ruang kerja.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Selesaikan memulihkan operasi yang terganggu dalam Runtime dahulu</string>
+    <string name="native_f29af06e7c99" formatted="false">Penyelenggaraan persekitaran sedang dijalankan. Cuba semula kemudian.\nOperasi</string>
+    <string name="native_3bd28258feb0" formatted="false">dibatalkan</string>
+    <string name="native_c508721eb3cd" formatted="false">Fail dengan nama ini sudah wujud. Pilih nama lain.</string>
+    <string name="native_1e8274fe468a" formatted="false">Fail tidak lagi wujud. Muat semula direktori.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Kebenaran akses fail ditolak</string>
+    <string name="native_cd808e4c321e" formatted="false">Tidak dapat menyelesaikan operasi\nOperasi</string>
+    <string name="native_01cbe9be8b9f" formatted="false">tidak lengkap. Semak storan yang tersedia atau pilih fail sekali lagi.</string>
+    <string name="native_3f9983126fd7" formatted="false">Semak status permulaan OpenCode dalam Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Tidak dapat membuka terminal baharu. Semak bilangan sesi.</string>
+    <string name="native_2160fde3813a" formatted="false">Uruskan pautan simbolik dalam terminal. Pengurus fail tidak mengikuti pautan.</string>
+    <string name="native_7a844e9d4017" formatted="false">Pergerakan selesai\nSalinan</string>
+    <string name="native_573877894fcf" formatted="false">selesai</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Dialihkan ke sampah</string>
+    <string name="native_862330af933f" formatted="false">Dipulihkan ke direktori asal</string>
+    <string name="native_beda23c9d52b" formatted="false">Penyelenggaraan atau penggantian persekitaran telah berlaku. Buka semula ruang kerja sebelum mengedit.</string>
+    <string name="native_678c6953bb2b" formatted="false">Disimpan</string>
+    <string name="native_8063159f2178" formatted="false">Tidak dapat membaca fail yang dipilih</string>
+    <string name="native_4cdc2180d2ac">Diimport %1$s fail</string>
+    <string name="native_e98763643b93" formatted="false">Tidak boleh menulis ke lokasi yang dipilih</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksport selesai</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kod dan sesi\nDesktop</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Ruang kerja grafik\nFail</string>
+    <string name="native_770d49c5f689" formatted="false">Fail</string>
+    <string name="native_6a9b6480b58f" formatted="false">Masa Jalan</string>
+    <string name="native_b561fe9204cc" formatted="false">Perkhidmatan dan alat pembangun</string>
+    <string name="native_70850bdeeabd" formatted="false">Tutup menu halaman</string>
+    <string name="native_b4549acb48e8" formatted="false">Ruang Kerja</string>
+    <string name="native_3d3551f4660f">Kelegapan butang terapung %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Nilai yang lebih rendah menjadikan butang terapung lebih telus</string>
+    <string name="native_e031beabfc9a" formatted="false">Buka menu halaman</string>
+    <string name="native_106ee775b538" formatted="false">Menyambung ke OpenCode setempat…</string>
+    <string name="native_a021adc1f449" formatted="false">Sambungan tempatan memerlukan pemulihan</string>
+    <string name="native_dacb8837471c" formatted="false">Sambung semula</string>
+    <string name="native_17584aa60ae6" formatted="false">Tidak dapat menyediakan cache sumber tempatan</string>
+    <string name="native_3b3b80064ccb" formatted="false">Menyediakan OpenCode tempatan…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Cuba Semula</string>
+    <string name="native_b07809340403" formatted="false">Lokasi ruang kerja belum disimpan lagi. Cuba semula kemudian.</string>
+    <string name="native_e4ab10392d05" formatted="false">Perkhidmatan tempatan sedang bersiap sedia. Ruang kerja anda akan dibuka secara automatik setelah disambungkan.</string>
+    <string name="native_20ea15973287" formatted="false">Larian sebelumnya telah terganggu. Mulakan semula dari Runtime; arahan terminal tidak akan dimainkan semula secara automatik.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Mulakan OpenCode dari Runtime untuk membuka kod dan sesi.</string>
+    <string name="native_abbac5c22111" formatted="false">Keluar dari apl?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Persekitaran pembangunan boleh terus berjalan di latar belakang. Kembali kemudian dari pemberitahuan.</string>
+    <string name="native_814a8fb24b62" formatted="false">Keluar dari ruang kerja semasa?</string>
+    <string name="native_a76464945c2d" formatted="false">Juga hentikan persekitaran pembangunan</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Keluar</string>
+    <string name="native_b00143b08ff1" formatted="false">Stesen kerja pembangunan sedia</string>
+    <string name="native_51bca456a350" formatted="false">Stesen kerja pembangunan Debian anda</string>
+    <string name="native_0c2acd0b6057" formatted="false">Berlari</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Bermula</string>
+    <string name="native_44da7f6a451d" formatted="false">Berhenti</string>
+    <string name="native_b7e1503a7239" formatted="false">Membaiki persekitaran pembangunan</string>
+    <string name="native_7c91bd67ff14" formatted="false">Pasang persekitaran pembangunan</string>
+    <string name="native_cfd73bb04860" formatted="false">Persekitaran hentikan</string>
+    <string name="native_e7ec95694dce" formatted="false">Mulakan OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Semak persekitaran</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Kemas kini alat pembangun Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Sandaran persekitaran sebelumnya, projek dan data sesi dikekalkan.</string>
+    <string name="native_eb3114155716" formatted="false">Pasang / kemas kini pelayan bahasa</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) dan Python (pylsp), dipasang dalam talian daripada repositori Debian yang ditandatangani. Hentikan OpenCode dan desktop dahulu.</string>
+    <string name="native_2c7251cce661" formatted="false">Ketik butang terapung untuk menukar halaman. Seret ia untuk mengubah kedudukannya.\nMaklumat masa Jalan</string>
+    <string name="native_dcef145e6a9b" formatted="false">muncul di sini selepas permulaan.\nMasa Jalan Terbuka</string>
+    <string name="native_a8243a4e0d22" formatted="false">Buka Masa Jalan</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">versi APK Berpakatan\nKemas kini</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Import .ocaupdate yang ditandatangani oleh penerbit apl ini. Kemas kini bahagian hadapan dan bahagian belakang rasmi bersama-sama.</string>
+    <string name="native_8aad48b0508d" formatted="false">Sumber kemas kini (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Semak sumber kemas kini</string>
+    <string name="native_f73973cfadbb">Keluaran yang ditandatangani: %1$s\nKomit: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Muat turun dan sahkan</string>
+    <string name="native_f2ef7965bf12" formatted="false">Pilih pakej kemas kini</string>
+    <string name="native_165111adfe2c">Sedia untuk dipasang: %1$s\nKomit: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Pasang kemas kini ini</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Pulihkan versi dan sesi dari sebelum kemas kini</string>
+    <string name="native_6864335de653" formatted="false">Batalkan kemas kini</string>
+    <string name="native_5e3472cf084e" formatted="false">Pasang kemas kini OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Pulihkan keadaan sebelum kemas kini?</string>
+    <string name="native_11beb4a42abc">Pasang %1$s. Apl menyimpan petikan sesi, menyemak program yang ditandatangani dan memulihkan versi sebelumnya jika gagal. Fail projek disimpan.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessions kembali ke keadaan mereka sebelum kemas kini ini. Sesi yang lebih terkini kekal dalam sandaran peribadi. Fail projek disimpan.</string>
+    <string name="native_def5e273616d" formatted="false">Sahkan pemasangan</string>
+    <string name="native_369d2eefccde" formatted="false">Tidak dapat mengasingkan data pelayar pratonton. Buka semula pratonton.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Tidak dapat memuatkan halaman projek. Semak pelayan pembangunan di terminal anda.</string>
+    <string name="native_6e7408950cf5" formatted="false">Pratonton tapak web projek</string>
+    <string name="native_bfb4951e071d" formatted="false">Pratonton projek</string>
+    <string name="native_f80652913d06" formatted="false">Mulakan pelayan pembangunan dalam terminal, kemudian masukkan port tempatannya. Data pelayar pratonton diasingkan daripada OpenCode.\nPelabuhan</string>
+    <string name="native_2c41e85af61f" formatted="false">Pelabuhan</string>
+    <string name="native_77c3a828a5c5" formatted="false">Masukkan port pembangunan dari 1024 hingga 65535, tidak termasuk OpenCode dan perkhidmatan desktop.</string>
+    <string name="native_7311a9dfea51" formatted="false">Tiada apa-apa yang mendengar pada port ini. Semak perkhidmatan di terminal anda.</string>
+    <string name="native_4f8d84105475" formatted="false">Menyemak…</string>
+    <string name="native_4923c272b68e" formatted="false">Port pembangunan mestilah integer</string>
+    <string name="native_04a87026e81f" formatted="false">Pilih port pembangunan projek yang sah</string>
+    <string name="native_a8a305819e54" formatted="false">Sesi pembangunan OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Pemasangan persekitaran pembangunan</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">kemas kini Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Pembangunan pembaikan persekitaran</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Pemeriksaan persekitaran pembangunan</string>
+    <string name="native_9612d4419bb6" formatted="false">Pemasangan pelayan bahasa</string>
+    <string name="native_f72fba77f87a" formatted="false">Pemulihan persekitaran</string>
+    <string name="native_7c8162195c7c" formatted="false">Pemasangan desktop</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Larian sebelumnya telah terganggu. Mulakan semula secara eksplisit daripada Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Tugas pembangunan jenis ini masih berjalan</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Membaiki rekod aktiviti\nProses</string>
+    <string name="native_b66749ed72ea" formatted="false">keluar</string>
+    <string name="native_6b25042064e2" formatted="false">Ditamatkan oleh isyarat</string>
+    <string name="native_d6febdf1752b" formatted="false">Ditebus semula kerana ingatan rendah\nRanap aplikasi</string>
+    <string name="native_1d13790f3c89" formatted="false">Ranap aplikasi</string>
+    <string name="native_28db94d1850d" formatted="false">Ranap proses asli\nApl</string>
+    <string name="native_86919539f7f1" formatted="false">tidak bertindak balas</string>
+    <string name="native_90fb8d6098a5" formatted="false">Permulaan gagal\nKebenaran</string>
+    <string name="native_38c60ab6654c" formatted="false">ditukar</string>
+    <string name="native_6d2a6c71334d" formatted="false">Had sumber</string>
+    <string name="native_19b2090b01a8" formatted="false">Pengguna meminta berhenti</string>
+    <string name="native_120d96445f1a" formatted="false">Dihentikan oleh pengguna</string>
+    <string name="native_3c8af14f66bc" formatted="false">Proses bergantung keluar</string>
+    <string name="native_ca0941ce04ae" formatted="false">Sebab sistem lain</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Proses pembekuan\nKeadaan aplikasi</string>
+    <string name="native_0d48373023a8" formatted="false">telah berubah\nKemas kini apl</string>
+    <string name="native_c752307db26b" formatted="false">Kemas kini apl</string>
+    <string name="native_b5015951cbdf" formatted="false">Sistem tidak memberikan sebab keluar</string>
+    <string name="native_b62737b826ad">Sistem keluar (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Tidak dapat membuka direktori projek</string>
+    <string name="native_faf5d983c13e" formatted="false">Tidak dapat mencipta sesi OpenCode\nDirektori sesi</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode tidak sepadan</string>
+    <string name="native_ac19736908a2" formatted="false">Tidak dapat membaca sesi OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Penyelenggaraan persekitaran</string>
+    <string name="native_f992d735d932" formatted="false">Hentikan OpenCode, terminal dan desktop Debian, kemudian tunggu operasi fail selesai</string>
+    <string name="native_489f137f1080" formatted="false">Kunci penyelenggaraan persekitaran tidak lagi sah</string>
+    <string name="native_42380e2567fc" formatted="false">Operasi yang terganggu dipulihkan. Buka semula ruang kerja.</string>
+    <string name="native_17b00cac2b91" formatted="false">Pemulihan sambungan setempat gagal. Cuba semula dari Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Penyelenggaraan persekitaran sedang dijalankan. Cuba semula kemudian.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Hentikan desktop Debian sebelum mengemas kini persekitaran pembangunan</string>
+    <string name="native_548085b144c9" formatted="false">Operasi yang terganggu dipulihkan. Anda boleh memulakan persekitaran pembangunan.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Larian sebelumnya telah terganggu. Perintah terminal tidak akan dimainkan semula secara automatik. Mulakan semula secara eksplisit daripada Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Pembersihan konfigurasi sambungan sementara tidak lengkap. Pembersihan proses diteruskan.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Tidak dapat mencipta ruang kerja helloworld. Semak direktori dan ruang yang tersedia.</string>
+    <string name="native_68301868225a" formatted="false">Direktori ruang kerja sebelumnya tidak tersedia. Membuka helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Projek lalai belum siap lagi. Cuba semula dari Fail.</string>
+    <string name="native_45d6ab452622" formatted="false">Pasang pelayan bahasa</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ dan pelayan bahasa Python sudah sedia. Mulakan OpenCode untuk menggunakan LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Rekod aktiviti terminal tidak disimpan. Cipta terminal baharu selepas penamatan proses.</string>
+    <string name="native_1978b311a9ff" formatted="false">Tidak dapat selesai menyimpan rekod keluar terminal.\nMuat turun kemas kini</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Menyambung ke sumber kemas kini…</string>
+    <string name="native_8c39baf28e08" formatted="false">Tidak dapat menyambung ke sumber kemas kini. Semak rangkaian, tandatangan penerbit, versi hos dan ruang kosong.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Muat turun tamat masa</string>
+    <string name="native_f75850093535">Memuat turun: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Mengesahkan tandatangan penerbit…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Memuat turun pakej kemas kini…</string>
+    <string name="native_2f9cd52dc66a">Tandatangan penerbit yang sah: %1$s. Semak sebelum memuat turun.</string>
+    <string name="native_17548865632c" formatted="false">Muat turun, keluarkan metadata dan tandatangan pakej disahkan. Sahkan pemasangan.\nMuat turun</string>
+    <string name="native_180cec958e7a" formatted="false">dibatalkan. Versi asal dikekalkan.</string>
+    <string name="native_8df045f8ac12" formatted="false">Muat turun terhenti. Versi asal dikekalkan.</string>
+    <string name="native_778803f1c6bb" formatted="false">Batalkan muat turun</string>
+    <string name="native_2958898ce6f4" formatted="false">Versi baharu gagal semakan permulaan, versi atau pengesahan tempatan. Versi sebelumnya akan dipulihkan.</string>
+    <string name="native_cc876dfbb261" formatted="false">Proses percubaan masih keluar. Tunggu pemulihan sebelum mencuba semula.</string>
+    <string name="native_adf977dcb47e" formatted="false">Pengecam rekod kemas kini tidak sah</string>
+    <string name="native_5207cac670b7" formatted="false">Saiz OpenCode kendiri yang dipasang tidak sepadan</string>
+    <string name="native_cf5b81887589" formatted="false">Jumlah semak OpenCode kendiri yang dipasang tidak sepadan. Pulihkan versi sebelumnya.</string>
+    <string name="native_393049b506cc" formatted="false">Program asal tidak mempunyai bukti penerbit yang sepadan. Keadaan sebelumnya tidak berubah.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Pulihkan kemas kini tergendala sebelumnya dahulu</string>
+    <string name="native_91d8da5525fa" formatted="false">Pakej kemas kini berubah selepas pengesahan</string>
+    <string name="native_093f2c091a30" formatted="false">Storan tidak mencukupi. Versi asal tidak berubah.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Tiada sandaran kemas kini tersedia untuk dipulihkan</string>
+    <string name="native_a9f4d9903c14" formatted="false">Sandaran tidak sepadan dengan versi yang sedang berjalan</string>
+    <string name="native_6caa23763a42" formatted="false">Pengesahan program sebelumnya gagal. Sesi semasa tidak berubah.</string>
+    <string name="native_c8b71b876695" formatted="false">Kemas kini APK atau Debian yang kemudian menggantikan program yang digabungkan. Sandaran sesi asal dikekalkan; memulihkan program yang sepadan terlebih dahulu.</string>
+    <string name="native_c443df40964b" formatted="false">Operasi pemulihan kemas kini tidak sah</string>
+    <string name="native_9071f05d58b3" formatted="false">Menyediakan kemas kini OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Hentikan OpenCode, terminal dan desktop, kemudian tunggu sehingga ia keluar.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Menyimpan keadaan, mengesahkan program dan menukar versi</string>
+    <string name="native_5fc065ef6f50" formatted="false">Tidak dapat memulakan perkhidmatan penyelenggaraan kemas kini.</string>
+    <string name="native_f7b560c8c820" formatted="false">Mengesahkan dan mengadakan program rasmi…</string>
+    <string name="native_9606191c82dc" formatted="false">Memelihara program asal dan tandatangan penerbit…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Menyimpan petikan keadaan sesi…</string>
+    <string name="native_0c8cf4632889" formatted="false">Menukar versi dan mengesahkan perkhidmatan setempat…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Memulihkan versi dan sesi dari sebelum kemas kini…</string>
+    <string name="native_856de41d3bf3" formatted="false">Memulihkan OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Mengemas kini OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Memulihkan versi dan sesi sebelumnya. Sesi yang lebih terkini kekal dalam sandaran peribadi.\nKemas kini</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode selesai. Permulaan akan menggunakan bahagian hadapan dan bahagian belakang rasmi yang sepadan.\nKemas Kini</string>
+    <string name="native_4693930f5802" formatted="false">dibatalkan. Mengesahkan bahawa keadaan asal telah dipulihkan.\nKemas kini</string>
+    <string name="native_d0e37bc26edd" formatted="false">tidak lengkap. Pulih sekarang; sandaran program dan sesi asal dikekalkan.\nPemulihan</string>
+    <string name="native_9a32d6c2d207" formatted="false">tidak lengkap. Semua direktori negeri dikekalkan. Simpan data anda dan cuba semula permulaan untuk pulih.\nPemulihan sesi</string>
+    <string name="native_49ad3eeae83d" formatted="false">selesai. Keadaan yang lebih terkini kekal dalam sandaran.\nPemulihan</string>
+    <string name="native_67c08a2911e1" formatted="false">tidak dapat meneruskan dengan sandaran atau program asal ini. Sesi semasa dan sandaran tidak berubah.\nKemas kini</string>
+    <string name="native_976d8c169cfa" formatted="false">dibatalkan atau gagal. Versi asal dan sesi dipulihkan.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Mengesahkan tandatangan pakej kemas kini dan integriti…</string>
+    <string name="native_0aa018b7337b" formatted="false">Tidak dapat membaca fail yang dipilih\nPakej kemas kini</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">terlalu besar</string>
+    <string name="native_f068b83f40bf" formatted="false">Tandatangan dan pakej disahkan. Semak versi sebelum memasang.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Tidak boleh mengimport: fail tidak sah, tandatangan tidak sepadan, versi hos tidak serasi atau storan tidak mencukupi.</string>
+    <string name="native_616412e65df4" formatted="false">Program rasmi tidak sepadan dengan bukti penerbitnya</string>
+    <string name="native_4bf19a158f27" formatted="false">Pakej masa jalan kendiri menyokong ARM64 sahaja</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Tandatangan kemas kini bukan milik APK ini</string>
+    <string name="native_c7273354727f" formatted="false">Fail kemas kini melebihi saiz yang diisytiharkan\nJumlah semak program kemas kini</string>
+    <string name="native_2aa6c8e74abb" formatted="false">tidak sepadan</string>
+    <string name="native_dd619076d456" formatted="false">Saiz pakej kemas kini tidak sah</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Saiz pakej kemas kini termampat tidak sepadan</string>
+    <string name="native_1de24edffcf5" formatted="false">Pakej kemas kini mengandungi entri tambahan</string>
+    <string name="native_c5b339aa77e8" formatted="false">Asal kemas kini tidak serasi atau seni bina</string>
+    <string name="native_89d585f3661f" formatted="false">Tingkatkan apl Android sebelum memasang kemas kini ini\nJumlah semak arkib kemas kini</string>
+    <string name="native_800df084dea0" formatted="false">tidak sepadan</string>
+    <string name="native_ddf1a005e310" formatted="false">Format tandatangan APK ini tidak menyokong kemas kini masa jalan kendiri</string>
+    <string name="native_172e063db474" formatted="false">Kemas kini pakej tidak sah</string>
+    <string name="native_1c08780aa99f" formatted="false">Kemas kini metadata mesti menggunakan integer</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Program kemas kini bukan ELF Linux 64-bit</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Program kemas kini tidak memenuhi penjajaran 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">Program kemas kini tiada pemuat glibc Debian</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Masukkan sumber kemas kini HTTPS yang sah\nSumber kemas kini</string>
+    <string name="native_c274c7dd5900" formatted="false">memerlukan URL HTTPS tanpa bukti kelayakan pengguna</string>
+    <string name="native_f459f5ec9dac" formatted="false">Medan sumber kemas kini tidak sah</string>
+    <string name="native_bde2a736e30a" formatted="false">Tingkatkan hos Android dahulu</string>
+    <string name="native_b980fd021bef" formatted="false">Direktori kemas kini tidak sah</string>
+    <string name="native_c0e96727553e" formatted="false">Fail kemas kini tidak sah</string>
+    <string name="native_86ff542c68ed" formatted="false">Tidak boleh menukar direktori kemas kini dalam keadaan ini</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Keadaan sesi merujuk kepada direktori luaran. Kemas kini tidak boleh diuji dengan selamat.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Storan tidak mencukupi. Keadaan asal tidak berubah.\nMuat turun</string>
+    <string name="native_099801d672b1" formatted="false">dibatalkan</string>
+    <string name="native_f1304f707ec9" formatted="false">Terlalu banyak ubah hala kemas kini</string>
+    <string name="native_0d07f458b607" formatted="false">Pelayan kemas kini tidak memindahkan bait asal</string>
+    <string name="native_de331dfd8908" formatted="false">Kemas kini panjang fail tidak sepadan</string>
+    <string name="native_416b8c87e69e" formatted="false">Fail kemas kini tidak dimuat turun sepenuhnya</string>
+    <string name="native_e1e74b76c427" formatted="false">Pelayan kemas kini tidak mengembalikan fail lengkap</string>
+    <string name="native_6afcf03cb130" formatted="false">Ruang pementasan kemas kini tidak mencukupi</string>
+    <string name="native_be1c695d9241" formatted="false">Kemas kini fail SHA-256 tidak sepadan</string>
+    <string name="native_a0133d117bb0" formatted="false">Pakej kemas kini tidak sepadan dengan maklumat keluaran yang disahkan</string>
+    <string name="native_8635a43ce28a" formatted="false">Direktori projek tidak sah</string>
+    <string name="native_d32ab8b004e6" formatted="false">Tidak dapat menyimpan lokasi ruang kerja</string>
+    <string name="native_43a5447014fd" formatted="false">Mulakan persekitaran pembangunan daripada Runtime sebelum membuka terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Terminal baharu</string>
+    <string name="native_b3b7108a568f" formatted="false">Tutup arus</string>
+    <string name="native_0e822affd5da">Direktori awal: %1$s</string>
+    <string name="native_72d769e3888d">Direktori terminal baharu: %1$s\nPemilih fail Sistem</string>
+    <string name="native_16e83ec84bca" formatted="false">tidak tersedia\nTetapan pemaparan</string>
+    <string name="native_179a57921f91" formatted="false">WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Kadar bingkai pemaparan</string>
+    <string name="native_55b6d7f645f3" formatted="false">Lebih suka 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Ikut kadar penyegaran paparan</string>
+    <string name="native_d4ecf38c341d" formatted="false">Lebih suka 60 Hz untuk mengurangkan beban pemaparan pada paparan kadar penyegaran tinggi. Mengikuti paparan membolehkan sistem menjadualkan bingkai. Terpakai hanya pada tetingkap apl ini.</string>
+    <string name="native_bf0d3a407418" formatted="false">Tidak dipasang</string>
+    <string name="native_2fb8edc75b25" formatted="false">Sedia</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Mengesahkan pemuat</string>
+    <string name="native_d1017c1eac80" formatted="false">Memasang Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Persekitaran pembangunan tempatan</string>
+    <string name="native_55aa84065de2" formatted="false">Sesi pembangunan Debian Tempatan</string>
+    <string name="native_6e75b1822ebc" formatted="false">Berhenti</string>
+    <string name="native_5f73a4e1e494" formatted="false">Dipasang</string>
+    <string name="native_147e90d2ec02" formatted="false">Memulihkan</string>
+</resources>

@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Synthetic data only; this provider is never included in the application APK. -->
+        <provider android:name="io.github.opencodeandroid.ui.UploadFixtureProvider"
+            android:authorities="io.github.opencodeandroid.test.upload"
+            android:exported="true" android:grantUriPermissions="true" android:readPermission="android.permission.MANAGE_DOCUMENTS" android:writePermission="android.permission.MANAGE_DOCUMENTS" />
+        <provider android:name="io.github.opencodeandroid.ui.UploadFixtureControlProvider" android:authorities="io.github.opencodeandroid.test.control" android:exported="true" />
+    </application>
+</manifest>

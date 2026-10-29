@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">ልማት የስራ ቦታ</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + ዴስክቶፕ</string>
+    <string name="native_7f1c02616d60" formatted="false">ነጠላ ገጽ</string>
+    <string name="native_651ae6ea52ae" formatted="false">የተከፈለ እይታን ወደነበረበት መልስ</string>
+    <string name="native_d7e97cfac66f" formatted="false">የስራ ቦታ አቀማመጥ</string>
+    <string name="native_2a03e2ed30f9" formatted="false">ብዙ ፓነሎችን አንድ ላይ ለማየት መስኮቱን አስፉት።</string>
+    <string name="native_e792dd4cfa78" formatted="false">የፕሮጀክት ፋይሎችን አሳይ</string>
+    <string name="native_712d956931d1" formatted="false">አሳይ ተርሚናል</string>
+    <string name="native_073cc20d9ed9" formatted="false">ተርሚናል ከታች</string>
+    <string name="native_5de225480fa7" formatted="false">ተርሚናል በቀኝ በኩል</string>
+    <string name="native_35cdb3eacdc6" formatted="false">ፓነሎች ቦታ ሲገደብ ይፈርሳሉ እና ከተንሳፋፊው ሜኑ ተደራሽ ሆነው ይቆያሉ። የጎን ተርሚናል በሰፊው መስኮቶች ውስጥ ይታያል. የፓነሎችን መጠን ለመቀየር አካፋዮችን ይጎትቱ።</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + ግራ Alt፡ 1-5 ገፆች · B ፋይሎች · ቲ ተርሚናል · ኤም ዴስክቶፕ · ነጠላ/የተከፋፈለ ያስገቡ · \\\\ አቀማመጥ</string>
+    <string name="native_7a129a94c6ff" formatted="false">ተከናውኗል</string>
+    <string name="native_bcec2218fc21" formatted="false">ተመጣጣኖችን ዳግም አስጀምር</string>
+    <string name="native_da88c62d1217">%1$sን በአንድ ገጽ አሳይ</string>
+    <string name="native_1b4b3afbe52d" formatted="false">የፕሮጀክት ፋይሎች መከፋፈያ</string>
+    <string name="native_707c0891a0e6" formatted="false">ተርሚናል አካፋይ</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode እና የዴስክቶፕ መከፋፈያ\nለዚህ የማህደር ቅርጸት</string>
+    <string name="native_50407ad8dfa8" formatted="false">የቀደመውን ፓነል አሳንስ</string>
+    <string name="native_b72c5c02a666" formatted="false">የቀደመውን ፓነል ያሳድጉ</string>
+    <string name="native_3f3685e8d731" formatted="false">በጣም ብዙ PRoot አገናኞች</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux ደረቅ ማገናኛዎች የተሟላ rootfs ያስፈልጋቸዋል</string>
+    <string name="native_f336f1e17596" formatted="false">የመጠባበቂያ ማውጫ መክተቻ በጣም ጥልቅ ነው።</string>
+    <string name="native_b6f744737a45" formatted="false">ልክ ያልሆነ የመጠባበቂያ ይለፍ ቃል ርዝመት</string>
+    <string name="native_13bde5dd1812" formatted="false">የመጠባበቂያ ይለፍ ቃል ቢያንስ 12 ቁምፊዎችን መያዝ አለበት።</string>
+    <string name="native_be02cbd55932" formatted="false">የማይደገፍ የመጠባበቂያ ቅርጸት</string>
+    <string name="native_7a91a3d586ae" formatted="false">ልክ ያልሆነ የመጠባበቂያ ራስጌ</string>
+    <string name="native_2bbd318a5667" formatted="false">የማይደገፉ የመጠባበቂያ ምስጠራ መለኪያዎች</string>
+    <string name="native_18868da27841" formatted="false">የተሳሳተ የመጠባበቂያ ይለፍ ቃል ወይም የተበላሸ ፋይል</string>
+    <string name="native_e41d6440468d" formatted="false">የመልሶ ማግኛ መዝገብ በጣም ትልቅ ነው።</string>
+    <string name="native_282692502f14" formatted="false">ምትኬ ሜታዳታ በጣም ትልቅ ነው።</string>
+    <string name="native_61fdca8d6c82" formatted="false">ምትኬ ሜታዳታ መክተቻ በጣም ጥልቅ ነው።</string>
+    <string name="native_8cefb30732d4" formatted="false">ልክ ያልሆነ ምትኬ ዲበ ውሂብ</string>
+    <string name="native_5d3037708cad" formatted="false">የማይደገፉ ቤተኛ ቅንብሮች</string>
+    <string name="native_81a57c382f9d" formatted="false">ቤተኛ ቅንብሮችን ማስቀመጥ አልተቻለም</string>
+    <string name="native_50603e683d4a" formatted="false">በመጠባበቂያ መንገድ ላይ ልክ ያልሆነ የወላጅ ማውጫ</string>
+    <string name="native_c3f838a46b8e" formatted="false">የስራ ጣቢያው ስር ተምሳሌታዊ አገናኝ መሆን የለበትም</string>
+    <string name="native_9ddd2d8280c8" formatted="false">በመጠባበቂያ ጊዜ ፋይል ተቀይሯል።</string>
+    <string name="native_77e1e85147db" formatted="false">የማይደገፍ የስራ ጣቢያ ውሂብ ቅርጸት</string>
+    <string name="native_a927b5a565af" formatted="false">መጠባበቂያው ተጨማሪ ውሂብ ይዟል</string>
+    <string name="native_c2b886d508f2" formatted="false">መጠባበቂያው የተባዙ መንገዶችን ይዟል</string>
+    <string name="native_3dab8cd60102" formatted="false">መጠባበቂያው ሊሰደዱ የማይችሉ የአሂድ ጊዜ ቅንብሮችን ይዟል</string>
+    <string name="native_f45ba674a630" formatted="false">መጠባበቂያው በጣም ትልቅ ነው ወይም ማከማቻው በቂ አይደለም።</string>
+    <string name="native_140073e8e77b" formatted="false">ተምሳሌታዊ የአገናኝ የጊዜ ማህተሞችን ወደነበረበት መመለስ አልተቻለም</string>
+    <string name="native_b0d411aaf62c" formatted="false">የተሰየሙ የቧንቧ ጊዜ ማህተሞችን ወደነበረበት መመለስ አልተቻለም</string>
+    <string name="native_0daee8026db1" formatted="false">የስራ ጣቢያ ምትኬ እና እነበረበት መልስ</string>
+    <string name="native_1acc18928c5f" formatted="false">Debian፣ የገንቢ መሳሪያዎች፣ ፕሮጀክቶች፣ ቤት፣ የOpenCode ክፍለ-ጊዜዎች እና መቼቶች፣ የLinux አሳሽ ውሂብ እና ቤተኛ አቀማመጥ ቅንብሮችን ያካትታል።</string>
+    <string name="native_62254d31a535" formatted="false">ጊዜያዊ ፋይሎች እና የቆዩ መጠባበቂያዎች አልተካተቱም። Android WebView ማከማቻ እና ያልተላኩ ረቂቆች በዚህ መሳሪያ ላይ ይቀራሉ እና በዚህ ምትኬ አይተላለፉም።</string>
+    <string name="native_808eabc7811f" formatted="false">የተመሰጠረ ምትኬን ይፍጠሩ</string>
+    <string name="native_201c10b38296" formatted="false">አስመጣ ምትኬ</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">ለውጦችዎን በመጀመሪያ በፋይል አርታኢ ውስጥ ያስቀምጡ።</string>
+    <string name="native_0559cd596453" formatted="false">አቁም OpenCode, ተርሚናሎች እና ዴስክቶፕ</string>
+    <string name="native_fdf2be8e3b93" formatted="false">የአካባቢ ክዋኔ አልተጠናቀቀም። መጀመሪያ መልሰው ያግኙት።</string>
+    <string name="native_185f58156330" formatted="false">ያልተሟላ ስራን መልሰው ያግኙ</string>
+    <string name="native_20831b6f67a7" formatted="false">የመጨረሻውን አካባቢ ወደነበረበት መመለስ ይቀልብሱ</string>
+    <string name="native_4f392d5d6141">የተመሰጠረ አካባቢያዊ ቅጂ፡ %1$s</string>
+    <string name="native_80077c694212" formatted="false">ወደ ፋይል አስቀምጥ</string>
+    <string name="native_f09619351eb9" formatted="false">የአካባቢ ቅጂን ሰርዝ</string>
+    <string name="native_85c686eb9841">%1$s ተሰራ</string>
+    <string name="native_28d567b926cc" formatted="false">ምትኬን ሰርዝ</string>
+    <string name="native_66c9d896407b" formatted="false">የስራ ቦታ ምትኬን ኢንክሪፕት ያድርጉ</string>
+    <string name="native_548cd9f0831e" formatted="false">ዲክሪፕት ያድርጉ እና ምትኬን ያረጋግጡ</string>
+    <string name="native_d248f5eca9a5" formatted="false">ምትኬዎች SSH የግል ቁልፎችን፣ API ቁልፎችን እና የመለያ ውሂብን ሊይዙ ይችላሉ። ቢያንስ 12 ቁምፊዎችን ተጠቀም። የተረሳ የይለፍ ቃል መልሶ ማግኘት አይቻልም።</string>
+    <string name="native_f249422b9ec1" formatted="false">ምትኬ ዲክሪፕት ተደርጎ በግል ማውጫ ውስጥ የተረጋገጠ ነው። አካባቢዎ የሚተካው ማገገሙን ካረጋገጡ በኋላ ብቻ ነው።</string>
+    <string name="native_e7be6841703a" formatted="false">የመጠባበቂያ ይለፍ ቃል</string>
+    <string name="native_9f6aeedc5a00" formatted="false">የይለፍ ቃል ድገም</string>
+    <string name="native_eafdc5cd4882" formatted="false">ምስጠራን ጀምር</string>
+    <string name="native_2986b88beade" formatted="false">ዲክሪፕት ያድርጉ እና ያረጋግጡ</string>
+    <string name="native_0eddf4ad9b94" formatted="false">ሰርዝ</string>
+    <string name="native_f46c5ed7412d" formatted="false">ሙሉውን የቀድሞ አካባቢ ይመለስ?</string>
+    <string name="native_33eda0946a5b" formatted="false">የተመሰጠረውን የአካባቢ ቅጂ ይሰረዝ?</string>
+    <string name="native_26db24150f2e" formatted="false">ፕሮጀክቶች፣ ቤት፣ Debian እና ክፍለ-ጊዜዎች ከመጨረሻው እድሳት በፊት ወደነበሩበት ይመለሳሉ። የበለጠ የቅርብ ጊዜ ስራ በመተግበሪያው ውስጥ ባለው የግል ምትኬ ውስጥ ይቀራል።</string>
+    <string name="native_1153b30d51d5" formatted="false">በመተግበሪያው ውስጥ ያለው የተመሰጠረ አካባቢያዊ ቅጂ ብቻ ነው የተሰረዘው። በሌላ ቦታ የተቀመጡ ፋይሎች እንዳሉ ይቆያሉ።</string>
+    <string name="native_427a78a4e69a" formatted="false">ያረጋግጡ</string>
+    <string name="native_7af46d7ee003" formatted="false">ይህ የስራ ቦታ ምትኬ ወደነበረበት ይመለስ?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s ግቤቶች · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">መጠባበቂያው የሚተገበር Linux ሶፍትዌር ይዟል። ምንጩን እንደሚያምኑት ያረጋግጡ። መልሶ ማቋቋም መላውን አካባቢ ይተካዋል እና የአካባቢ አገልግሎቶችን ይፈትሻል; የቀድሞው አካባቢ ለማገገም ተይዟል.</string>
+    <string name="native_c3d74ed0c054" formatted="false">ምትኬ ተረጋግጧል። የመልሶ ማቋቋም ማረጋገጫን በመጠበቅ ላይ።</string>
+    <string name="native_97076078c749" formatted="false">እንዲሁም የChromium ተኳኋኝነት ሁነታን አንቃ (የLinux ሂደት ማጠሪያን ያሰናክላል)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">በነባሪ ጠፍቷል። በኋላ ላይ በዴስክቶፕ ቅንብሮች ውስጥ ማንቃት ይችላሉ።</string>
+    <string name="native_ddf09383413c" formatted="false">ወደነበረበት መመለስን ያረጋግጡ</string>
+    <string name="native_8e6056b0f629" formatted="false">ማስመጣትን ሰርዝ</string>
+    <string name="native_63a895901c76" formatted="false">የስራ ጣቢያ አካባቢ ተለውጧል</string>
+    <string name="native_a4c994348a39" formatted="false">የስራ ቦታን እንደገና ክፈት</string>
+    <string name="native_774947f0653e" formatted="false">ተግባር ሰርዝ</string>
+    <string name="native_e09a22b18445" formatted="false">ተግባሩ ተቋርጧል። አንድ ክወና እንደገና ይምረጡ እና የይለፍ ቃሉን ያስገቡ።</string>
+    <string name="native_38c5fcc634db" formatted="false">በመጀመሪያ በሁሉም መስኮቶች የፋይል አርትዖቶችን ያስቀምጡ። ዳግም ከመሞከርዎ በፊት ያለውን ማስመጣት ይሰርዙ።</string>
+    <string name="native_029bfa8ff772" formatted="false">የስራ ቦታውን ወደነበረበት መመለስ እና ፕሮግራሞችን ማረጋገጥ</string>
+    <string name="native_e4f04df818f8" formatted="false">የመረጡትን የመጠባበቂያ ክዋኔ በማስኬድ ላይ</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCodeን፣ ተርሚናሎችን እና ዴስክቶፕን አቁም፣ ከዚያ የፋይል ስራዎች እስኪጨርሱ ድረስ ይጠብቁ።</string>
+    <string name="native_1a5cde18c609" formatted="false">የመጠባበቂያ ተግባሩን መጀመር አልተቻለም። ከፊት ለፊት ባለው መተግበሪያ እንደገና ይሞክሩ።</string>
+    <string name="native_1553b714941d" formatted="false">መጠባበቂያውን መፍታት እና ማረጋገጥ። የመጀመሪያው አካባቢ መልሶ ማግኘት የሚቻል ነው…</string>
+    <string name="native_dafd005e953e" formatted="false">ምትኬ ተረጋግጧል። በመተግበሪያው ውስጥ ወደነበረበት መመለስን ያረጋግጡ።</string>
+    <string name="native_9fb236184596" formatted="false">በመተግበሪያው ውስጥ የተመሰጠረውን አካባቢያዊ ቅጂ ሰርዟል።</string>
+    <string name="native_f98e9ac348b6" formatted="false">ኦፕሬሽን ተሰርዟል። ዋናው የአካባቢ ውሂብ ተጠብቆ ይቆያል።</string>
+    <string name="native_2a7a367ee0d2" formatted="false">ክዋኔ አልተጠናቀቀም። የይለፍ ቃሉን ፣ የመጠባበቂያ ትክክለኛነትን ፣ የአስተናጋጅ ሥሪትን እና ነፃ ቦታን ያረጋግጡ። ዋናው የአካባቢ ውሂብ ተጠብቆ ይቆያል።</string>
+    <string name="native_29deabd28960" formatted="false">የተመሰጠረ የስራ ቦታ ምትኬን በመፍጠር ላይ…</string>
+    <string name="native_3d137e243806" formatted="false">የተመሰጠረ ምትኬ ተፈጥሯል። የት እንደሚያስቀምጡ ይምረጡ።</string>
+    <string name="native_0e2ac9266ad6" formatted="false">አካባቢን ወደነበረበት መመለስ እና የአካባቢ አገልግሎቶችን ማረጋገጥ። የመተግበሪያውን ውሂብ እንደተጠበቀ ያቆዩት…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">የስራ ቦታ ወደነበረበት ተመልሷል። የቀደመው አካባቢ በግል ምትኬ ውስጥ ይቆያል። የስራ ቦታውን እንደገና ይክፈቱ።</string>
+    <string name="native_0392cd6152d2" formatted="false">ወደነበሩበት መመለስ ቼኮች አልተሳኩም። ወደ ቀድሞው አካባቢ ተመልሷል; ከውጭ የመጣ ውሂብ በግል ምትኬ ውስጥ ይቀራል።</string>
+    <string name="native_5dc7410b600e" formatted="false">እነበረበት መልስ አልተጠናቀቀም። ሁሉም የውሂብ ማውጫዎች ተይዘዋል. የመተግበሪያውን ውሂብ አቆይ እና መልሶ ማግኘትን እንደገና ሞክር።</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">የቀድሞውን የሥራ ቦታ አካባቢ ወደነበረበት በመመለስ ላይ…</string>
+    <string name="native_15821323ff89" formatted="false">የቀድሞ አካባቢ ወደነበረበት ተመልሷል። የበለጠ የቅርብ ጊዜ ስራ በግል ምትኬ ውስጥ ይቀራል። የስራ ቦታውን እንደገና ይክፈቱ።</string>
+    <string name="native_56dd94f47870" formatted="false">ይህን ወደነበረበት መመለስ መቀልበስ አይችልም። የአሁኑ አካባቢ እና ምትኬዎች ተጠብቀዋል።</string>
+    <string name="native_93530f3fa029" formatted="false">መቀልበስ ያልተሟላ ነው። ሁሉም የውሂብ ማውጫዎች ተይዘዋል. የመተግበሪያውን ውሂብ አቆይ እና መልሶ ማግኘትን እንደገና ሞክር።</string>
+    <string name="native_f12963c80def" formatted="false">የተመሰጠረ ምትኬን በማስቀመጥ ላይ…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">የተመሰጠረ መጠባበቂያ ተቀምጧል። የአካባቢያዊ ቅጂውን እንደገና ማስቀመጥ ወይም እራስዎ መሰረዝ ይችላሉ.</string>
+    <string name="native_d660cccf65e0" formatted="false">ያልተረጋገጠ ማስመጣትን በማጽዳት ላይ…</string>
+    <string name="native_800592163979" formatted="false">ማስመጣት ተሰርዟል። ኦሪጅናል አካባቢ አልተለወጠም።</string>
+    <string name="native_5a90367eb834" formatted="false">ማስመጣት ተሰርዟል። ኦሪጅናል አካባቢ አልተለወጠም; አንዳንድ ጊዜያዊ የማስመጣት ውሂብ በመተግበሪያው የግል ማውጫ ውስጥ ይቀራል።</string>
+    <string name="native_5cd50eb8b75b" formatted="false">መፍታት እና ማረጋገጥን በማዘጋጀት ላይ…</string>
+    <string name="native_e9f2bea3118c" formatted="false">የተመሰጠረ ምትኬን በማዘጋጀት ላይ…</string>
+    <string name="native_7bd5a0c93818" formatted="false">የመጠባበቂያ አገልግሎቱን መጀመር አልተቻለም። ከፊት ለፊት እንደገና ይሞክሩ።</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">መጀመሪያ ያልተጠናቀቀውን የአካባቢ ሥራ መልሰው ያግኙ</string>
+    <string name="native_f14aea7c819c" formatted="false">ልክ ያልሆነ የመልሶ ማግኛ መዝገብ</string>
+    <string name="native_7c284c55ee08" formatted="false">የመልሶ ማግኛ ማውጫ ይጎድላል</string>
+    <string name="native_bfc4792df15b" formatted="false">ቤተኛ ቅንብሮች የመልሶ ማግኛ መዝገብ ገደብ አልፈዋል</string>
+    <string name="native_8d93770ba8c9">ቀዳሚ የአካባቢ ማውጫ ይጎድላል፡ %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">ያልታወቀ የመልሶ ማግኛ ደረጃ</string>
+    <string name="native_20c5124fe175" formatted="false">ያልታወቀ የመልሶ ማግኛ ክዋኔ</string>
+    <string name="native_1c457322b624" formatted="false">ወደነበረበት ለመመለስ ቀዳሚ አካባቢ የለም።</string>
+    <string name="native_30db1666c8e5" formatted="false">ይህ ምትኬ የሌላ መተግበሪያ ነው።</string>
+    <string name="native_6687d1c64d75" formatted="false">ምትኬ ፕሮሰሰር አርክቴክቸር አይዛመድም።</string>
+    <string name="native_b9b37d57fe6b" formatted="false">የAndroid አስተናጋጅ በዚህ ምትኬ መጀመሪያ ወደተጠቀመበት ስሪት ያዘምኑ</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">የመጠባበቂያ ማውጫው ያልተሟላ ነው።</string>
+    <string name="native_66106ab3e254" formatted="false">የድሮው ምትኬ ምንም የተረጋገጠ የOpenCode አታሚ ማረጋገጫ የለውም። እንደገና ከመደገፍዎ በፊት የመጀመሪያውን አካባቢ በዚህ አስተናጋጅ ይጀምሩ።</string>
+    <string name="native_bec13cc92982" formatted="false">ልማት አካባቢ ሥርዓት ድርጊቶች</string>
+    <string name="native_65de80229626" formatted="false">Debian የስርዓት እርምጃ ጠይቋል</string>
+    <string name="native_5e38581cf19c" formatted="false">ነካ ያድርጉ</string>
+    <string name="native_749d406d2c67" formatted="false">ከ Debian ልማት አካባቢ</string>
+    <string name="native_4032d33b2afd" formatted="false">የስርዓት አሳሹ ይከፈት?</string>
+    <string name="native_ce9491abbc6c" formatted="false">የአካባቢ ፕሮጀክት ቅድመ እይታ ይከፈት?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">ቅንጥብ ሰሌዳውን ያንብቡ?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">ወደ የስርዓት ቅንጥብ ሰሌዳ ይቅዱ?</string>
+    <string name="native_77f761eb70aa" formatted="false">የአካባቢ ማሳወቂያ ይላክ?</string>
+    <string name="native_e6b29e80abb7" formatted="false">የፕሮጀክት ፋይል ይጋራ?</string>
+    <string name="native_9d36f698b3c1" formatted="false">የስርዓት ፋይሎች ያስመጡ?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">የፕሮጀክት ፋይል ወደ ውጭ ይላክ?</string>
+    <string name="native_7ac295421c6d" formatted="false">በአሳሽ ውስጥ ክፈት</string>
+    <string name="native_bbdb6043b5e9" formatted="false">ቅድመ እይታን ክፈት</string>
+    <string name="native_14792d6cd7a6" formatted="false">ማንበብ ፍቀድ</string>
+    <string name="native_b4caf8b99ddd" formatted="false">ወደ ቅንጥብ ሰሌዳ ቅዳ</string>
+    <string name="native_4b3361a8c3a3" formatted="false">ማሳወቂያ ይላኩ።</string>
+    <string name="native_88152a09fa02" formatted="false">የማጋሪያ መተግበሪያ ይምረጡ</string>
+    <string name="native_7a49a79c57f9" formatted="false">ፋይሎችን ይምረጡ</string>
+    <string name="native_99d9f87419c5" formatted="false">የት እንደሚቀመጥ ይምረጡ</string>
+    <string name="native_23e5bb2090aa">%1$s\nከOpenCode በተገለለ የአሳሽ መረጃ ይከፈታል።</string>
+    <string name="native_ecf17eaad49e" formatted="false">ከስርዓት ቅንጥብ ሰሌዳ ወደ የአሁኑ የDebian ፕሮግራም ጽሑፍ ይስጡ።</string>
+    <string name="native_dcc6bec24e43">ወደ %1$s የሚገቡትን ፋይሎች ይምረጡ። ነባር ፋይሎች ይቀመጣሉ እና የተባዙት እንደገና ተሰይመዋል።</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium አሳሽ ሁነታ</string>
+    <string name="native_4767f37900f6" formatted="false">የተኳኋኝነት ሁነታ የተለየ የአሳሽ መገለጫ ይጠቀማል እና የChromium Linux ሂደት ማጠሪያን ያሰናክላል። አሳሹ አሁንም በዚህ መተግበሪያ ውስጥ ያሉ ፋይሎችን መድረስ ይችላል። የማይታመኑ ድረ-ገጾችን ያስወግዱ እና የ Android ስርዓት አሳሹን ለአስፈላጊ መለያዎች ይጠቀሙ። ሁነታዎችን ከቀየሩ በኋላ Chromiumን እንደገና ይክፈቱ።</string>
+    <string name="native_a4317f2699a2" formatted="false">መደበኛ Linux ማጠሪያ በነባሪነት ነቅቷል። Chromium መጀመር ካልቻለ የተኳኋኝነት ሁነታን መምረጥ ይችላሉ። የመተግበሪያ ፋይሎችን መዳረሻ በማቆየት የLinux ሂደት ማጠሪያን ያሰናክላል እና የተለየ መገለጫ ይጠቀማል። የማይታመኑ ድር ጣቢያዎችን ያስወግዱ; ለአስፈላጊ መለያዎች የ Android ስርዓት አሳሹን ይጠቀሙ።</string>
+    <string name="native_3a2596fa9517" formatted="false">መደበኛ ሁነታን እነበረበት መልስ</string>
+    <string name="native_eeb5e46d62ae" formatted="false">የተኳኋኝነት ሁነታን አንቃ</string>
+    <string name="native_9a45442649f5" formatted="false">Debian ዴስክቶፕ</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · የተጋራ /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">የመጀመሪያው ጭነት ስዕላዊ ክፍሎችን ያወርዳል. ከተጫነ በኋላ ዴስክቶፕ ከOpenCode ራሱን ችሎ መጀመር እና ማቆም ይችላል።</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC መስታወት</string>
+    <string name="native_41e865941e16" formatted="false">ኦፊሴላዊ Debian መስታወት</string>
+    <string name="native_ea341b8a102b" formatted="false">የመጀመሪያ ጥራት</string>
+    <string name="native_ff1cde9ba35d" formatted="false">ገጾችን ሲቀይሩ ዴስክቶፕ መስራቱን ይቀጥላል። ከ Runtime ያቁሙት።</string>
+    <string name="native_aadf816e2dc8" formatted="false">የዴስክቶፕ ተግባርን አቁም</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">ዴስክቶፕን ጀምር</string>
+    <string name="native_ea27a25e5114" formatted="false">የዴስክቶፕ ክፍሎችን ጫን</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium፡ የተኳኋኝነት ሁነታ</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium፡ መደበኛ ሁነታ</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">የDebian ገንቢ መሳሪያዎችን ከ Runtime መጀመሪያ ይጫኑ።</string>
+    <string name="native_d1fa7ef127a7" formatted="false">የእንቅስቃሴ ምዝግብ ማስታወሻ</string>
+    <string name="native_bfaa904aa4d4" formatted="false">የፕሮጀክት አቃፊውን መክፈት አልተቻለም። ማውጫው መኖሩን ያረጋግጡ።</string>
+    <string name="native_83c76743b29d" formatted="false">የተቋረጠውን አካባቢ ስራ በማገገም ላይ</string>
+    <string name="native_739a730ae247" formatted="false">የአካባቢ ጥበቃ</string>
+    <string name="native_049281329843" formatted="false">ለዝማኔ ጥገና ወይም አሁን ያለው ተግባር እስኪጠናቀቅ ይጠብቁ።</string>
+    <string name="native_07d5bdf94f1d" formatted="false">አሁን ያለው የልማት አካባቢ ተግባር እስኪጠናቀቅ ይጠብቁ</string>
+    <string name="native_83099168971c" formatted="false">ዴስክቶፕን በመጫን ላይ</string>
+    <string name="native_85e0c18dde8d" formatted="false">ዴስክቶፕን በመጀመር ላይ</string>
+    <string name="native_9a48f8196d8f" formatted="false">ትኩረት ይፈልጋል</string>
+    <string name="native_75470fb13121" formatted="false">ቆሟል</string>
+    <string name="native_51a53c8109d5" formatted="false">የእንቅስቃሴ መዝገቡን ማንበብ ወይም ማስቀመጥ አይቻልም። ከ Runtime ይጠግኑት ወይም የተወሰነ ማከማቻ ነጻ ያድርጉ።</string>
+    <string name="native_d36a018cc619" formatted="false">መጀመሪያ የDebian ልማት አካባቢን ይጫኑ</string>
+    <string name="native_80be4c2928a5" formatted="false">መጀመሪያ ከአውታረ መረብ ጋር ይገናኙ</string>
+    <string name="native_a065d81014b1" formatted="false">ዴስክቶፕ መጫን አልተጠናቀቀም። መጫኑን እንደገና ይሞክሩ።</string>
+    <string name="native_721c38b32c35" formatted="false">ዴስክቶፕ ተጭኗል። በሚያስፈልግበት ጊዜ ይጀምሩት.</string>
+    <string name="native_6c1c52771115" formatted="false">መጀመሪያ የዴስክቶፕ ክፍሎችን ይጫኑ\nየ</string>
+    <string name="native_693d90a47827" formatted="false">ዴስክቶፕ ስራ አልተሳካም። ዝርዝሮች በጣም ረጅም ናቸው ወይም አይገኙም።</string>
+    <string name="native_d3e7be3c38fd" formatted="false">የማቆሚያ ምልክት ማቆየቱን መጨረስ አልቻለም። የማጽዳት ሂደቱ ቀጥሏል።</string>
+    <string name="native_06083621a6ce" formatted="false">የእንቅስቃሴ መዝገቡን ማስቀመጥ መጨረስ አልቻለም። የሚቀጥለው ማስጀመር ይህንን እንደ መቆራረጥ ይቆጥረዋል።</string>
+    <string name="native_04d721a3819a" formatted="false">ዴስክቶፕ እየሰራ ነው።\nየ</string>
+    <string name="native_c3f0acaf7a73" formatted="false">ዴስክቶፕ ስራ ጊዜው አልፎበታል። መዝገቡን ይገምግሙ እና እንደገና ይሞክሩ።</string>
+    <string name="native_e70d328a3ca9">ዴስክቶፕ ሂደት (%1$s) ወጥቷል። የእንቅስቃሴ ምዝግብ ማስታወሻውን ይገምግሙ።</string>
+    <string name="native_df5c878f2852" formatted="false">የአካባቢ ስዕላዊ የስራ ቦታ</string>
+    <string name="native_7b0455a8daa4" formatted="false">ዴስክቶፕን አቁም</string>
+    <string name="native_a62123cde9c7" formatted="false">የተቋረጡ ተግባራት እና መልሶ ማግኛ</string>
+    <string name="native_279308947a14" formatted="false">የእንቅስቃሴ መዝገቡን ማንበብ አይችልም። ጥገና የተበላሸውን መዝገብ ቅጂ ይይዛል እና ፕሮጀክቶችን፣ ክፍለ ጊዜዎችን እና የLinux አካባቢን ይጠብቃል።</string>
+    <string name="native_2bd92fae24e5" formatted="false">የጥገና እንቅስቃሴ መዝገብ</string>
+    <string name="native_6b43650c2c82" formatted="false">ተግባሩ ባልተጠበቀ ሁኔታ ተጠናቀቀ።</string>
+    <string name="native_acb0c970aaa6">%1$s ተርሚናሎች በመደበኛነት አልተዘጉም። የሩጫ ትእዛዛቸው ተቋርጧል።</string>
+    <string name="native_4ba153d8dff5" formatted="false">ዳግም መጀመር ተረጋግጧል። የቀደሙት ትዕዛዞች እንደገና አልተጫወቱም።</string>
+    <string name="native_f03a2adbf5cd" formatted="false">የተቀመጡ ፕሮጀክቶች እና ክፍለ-ጊዜዎች እንዲቆዩ ተደርጓል። ተርሚናሎችን በእጅ ይክፈቱ; ያልተጠናቀቁ ትዕዛዞች በራስ-ሰር አይቀጥሉም።</string>
+    <string name="native_fa9669296762" formatted="false">OpenCode ዳግም አስጀምር</string>
+    <string name="native_bd8130bec5d9" formatted="false">ዴስክቶፕ በራስ ሰር ዳግም አይጀምርም። ከዴስክቶፕ ገጹ እንደገና ያስጀምሩት።</string>
+    <string name="native_644f8f44251f" formatted="false">ፋይል ክፈት</string>
+    <string name="native_9dfb5569d609" formatted="false">ፋይል አጋራ</string>
+    <string name="native_a4500cff3a86" formatted="false">የስራ ማውጫው ተምሳሌታዊ አገናኝ መሆን የለበትም</string>
+    <string name="native_8657d27661bd" formatted="false">ልክ ያልሆነ የስራ ማውጫ ዱካ</string>
+    <string name="native_02b702a9adff" formatted="false">ፋይል ይምረጡ</string>
+    <string name="native_924874b746cc" formatted="false">በተርሚናል ውስጥ ምሳሌያዊ አገናኞችን አስተዳድር</string>
+    <string name="native_efea6e422a54" formatted="false">ልክ ያልሆነ የፋይል ስም</string>
+    <string name="native_c4989dc37aab" formatted="false">ማውጫ የለም።</string>
+    <string name="native_d613dba39b44" formatted="false">መድረሻ ማውጫ የለም።</string>
+    <string name="native_4f9b3fb4920b" formatted="false">አቃፊ በራሱም ሆነ በዘሮቹ ውስጥ ማስቀመጥ አይችልም።</string>
+    <string name="native_c3acd5a3254c" formatted="false">ፕሮጀክቱ ልዩ መሳሪያዎችን ወይም ሶኬቶችን ይዟል እና ሊገለበጥ አይችልም</string>
+    <string name="native_6c36955b068b" formatted="false">መደበኛ ፋይል ይምረጡ</string>
+    <string name="native_49191d7d489f" formatted="false">ይህ ፋይል ከ2 MB ይበልጣል። በOpenCode ወይም በተርሚናል ያርትዑት።</string>
+    <string name="native_ee42414d36c2" formatted="false">ፋይል በጣም ትልቅ ነው።</string>
+    <string name="native_f0a979f87157" formatted="false">በሌላ መተግበሪያ ውስጥ ለመክፈት ሁለትዮሽ ፋይሎችን ወደ ውጭ ላክ</string>
+    <string name="native_88a9c82651fc" formatted="false">UTF-8 ያልሆኑ ፋይሎችን በOpenCode ወይም ተርሚናል ያርትዑ</string>
+    <string name="native_0189a5c3418c" formatted="false">ሌላ መሳሪያ ይህን ፋይል ለውጦታል። ከማርትዕ በፊት እንደገና ይክፈቱት።</string>
+    <string name="native_0ce79256f4ac" formatted="false">ዋናው ማውጫ ከአሁን በኋላ የለም። መጀመሪያ ወደነበረበት ይመልሱት።</string>
+    <string name="native_46eae321049e" formatted="false">ምንም የማጋሪያ መተግበሪያ የለም።</string>
+    <string name="native_87d699d3a26c" formatted="false">መጣያ</string>
+    <string name="native_d0a8c03d6c07" formatted="false">ፕሮጀክት ፋይሎች</string>
+    <string name="native_4dcf914f0b64" formatted="false">የተሰረዙ ፋይሎች ወደ መጀመሪያው ማውጫቸው ሊመለሱ ይችላሉ።</string>
+    <string name="native_c5b81b02354f" formatted="false">ተመለስ</string>
+    <string name="native_e56b99379169">%1$s ፋይሎች · %2$s ተቀድተዋል።</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">በመቅዳት ላይ…</string>
+    <string name="native_85199bb36b04" formatted="false">ክወና ሰርዝ</string>
+    <string name="native_e9dc52d1c24b" formatted="false">ዝጋ</string>
+    <string name="native_4e1e5aacac7f" formatted="false">አዲስ ክፍለ ጊዜ</string>
+    <string name="native_23c250cc8e0b" formatted="false">የOpenCode ክፍለ ጊዜ እዚህ ይጀምሩ</string>
+    <string name="native_f22da21fd54f" formatted="false">ተርሚናል</string>
+    <string name="native_3645f30b3412" formatted="false">ያልተቀመጡ ለውጦች</string>
+    <string name="native_2266227605c4" formatted="false">አስቀምጥ</string>
+    <string name="native_064fbc7ad3f3" formatted="false">መጣያ ባዶ ነው።</string>
+    <string name="native_a9e739b13e52" formatted="false">እነበረበት መልስ</string>
+    <string name="native_45985dc2183e" formatted="false">ውሰድ</string>
+    <string name="native_31214130b5b7" formatted="false">ቅጂ፡-</string>
+    <string name="native_07e5c3158f35" formatted="false">ለጥፍ</string>
+    <string name="native_831b4e0fb574" formatted="false">አዲስ</string>
+    <string name="native_ff65a22d7087" formatted="false">አዲስ አቃፊ</string>
+    <string name="native_71faed44a86c" formatted="false">አዲስ ፋይል</string>
+    <string name="native_8dddd460f6ae" formatted="false">አስመጣ</string>
+    <string name="native_d85825123e60" formatted="false">አድስ</string>
+    <string name="native_ac9d73843736" formatted="false">ይህንን ማውጫ ይፈልጉ</string>
+    <string name="native_21eef82963ee" formatted="false">ይህ ማውጫ ባዶ ነው። ፋይሎችን ያስመጡ ወይም ፕሮጀክት ይፍጠሩ።</string>
+    <string name="native_e8a4cecaa371" formatted="false">ምንም ተዛማጅ ፋይሎች የሉም</string>
+    <string name="native_d674bc0f86b8" formatted="false">ፋይል ድርጊቶች</string>
+    <string name="native_d04a47c87cc8" formatted="false">ተምሳሌታዊ አገናኝ</string>
+    <string name="native_e0ba66f5246a" formatted="false">አቃፊ</string>
+    <string name="native_f170b42599e8" formatted="false">እንደገና ይሰይሙ</string>
+    <string name="native_4cdacf57ead2" formatted="false">ቅጂ</string>
+    <string name="native_124aa030694e" formatted="false">ውሰድ ወደ…</string>
+    <string name="native_ac990518ed87" formatted="false">ተርሚናል እዚህ ይክፈቱ</string>
+    <string name="native_87bc93932d8a" formatted="false">ወደ የስርዓት ፋይሎች ላክ</string>
+    <string name="native_dd37f132172f" formatted="false">ወደ መጣያ ውሰድ</string>
+    <string name="native_7318746d337c" formatted="false">ወደ መጣያ ይወሰድ?</string>
+    <string name="native_2b5ee3f10a56">\"%1$s\" ከመጣያው ወደነበረበት መመለስ ይችላሉ።</string>
+    <string name="native_e49730c9e7e1" formatted="false">አንቀሳቅስ</string>
+    <string name="native_4e47aaa113fc" formatted="false">ያልተቀመጡ ለውጦች ይጣሉ?</string>
+    <string name="native_63b75399ef1a" formatted="false">ለውጦችን አስወግድ</string>
+    <string name="native_d9618f7b8d25" formatted="false">አርትዖት ይቀጥሉ</string>
+    <string name="native_76ce6aef5479" formatted="false">ስም</string>
+    <string name="native_35b0fc30b909" formatted="false">እሺ</string>
+    <string name="native_11b319774788" formatted="false">አካባቢ ወደነበረበት ተመልሷል። የስራ ቦታውን እንደገና ይክፈቱ።</string>
+    <string name="native_7e4a5bcb0461" formatted="false">የተቋረጠውን ክዋኔ በሩጫ ጊዜ መልሰው ይጨርሱ</string>
+    <string name="native_f29af06e7c99" formatted="false">የአካባቢ ጥበቃ በሂደት ላይ ነው። በኋላ እንደገና ይሞክሩ።</string>
+    <string name="native_3bd28258feb0" formatted="false">ኦፕሬሽን ተሰርዟል።</string>
+    <string name="native_c508721eb3cd" formatted="false">ይህ ስም ያለው ፋይል አስቀድሞ አለ። ሌላ ስም ይምረጡ።</string>
+    <string name="native_1e8274fe468a" formatted="false">ፋይሉ ከአሁን በኋላ የለም። ማውጫውን ያድሱ።</string>
+    <string name="native_ac05dcaad6ed" formatted="false">ፋይል መዳረሻ ፍቃድ ተከልክሏል።</string>
+    <string name="native_cd808e4c321e" formatted="false">ክዋኔውን ማጠናቀቅ አልቻለም</string>
+    <string name="native_01cbe9be8b9f" formatted="false">ክዋኔ አልተጠናቀቀም። ያለውን ማከማቻ ይፈትሹ ወይም ፋይሎቹን እንደገና ይምረጡ።</string>
+    <string name="native_3f9983126fd7" formatted="false">የOpenCode ጅምር ሁኔታን በሩጫ ጊዜ ያረጋግጡ</string>
+    <string name="native_6ed9fe2281bb" formatted="false">አዲስ ተርሚናል መክፈት አልቻለም። የክፍለ-ጊዜዎችን ብዛት ያረጋግጡ.</string>
+    <string name="native_2160fde3813a" formatted="false">በተርሚናል ውስጥ ምሳሌያዊ አገናኞችን አስተዳድር። የፋይል አቀናባሪው አገናኞችን አይከተልም።</string>
+    <string name="native_7a844e9d4017" formatted="false">እንቅስቃሴ ተጠናቅቋል</string>
+    <string name="native_573877894fcf" formatted="false">ቅጂ ተጠናቅቋል</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">ወደ መጣያ ተወስዷል</string>
+    <string name="native_862330af933f" formatted="false">ወደ መጀመሪያው ማውጫ ተመልሷል</string>
+    <string name="native_beda23c9d52b" formatted="false">የአካባቢ ጥበቃ ወይም መተካት ተከስቷል። ከማርትዕ በፊት የስራ ቦታውን እንደገና ይክፈቱ።</string>
+    <string name="native_678c6953bb2b" formatted="false">ተቀምጧል</string>
+    <string name="native_8063159f2178" formatted="false">የተመረጠውን ፋይል ማንበብ አይችልም።</string>
+    <string name="native_4cdc2180d2ac">%1$s ፋይሎችን ከውጭ መጥቷል።</string>
+    <string name="native_e98763643b93" formatted="false">በተመረጠው ቦታ ላይ መጻፍ አይችልም</string>
+    <string name="native_5afd173be7fa" formatted="false">ወደ ውጭ መላክ ተጠናቅቋል</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">ኮድ እና ክፍለ ጊዜዎች</string>
+    <string name="native_8745ed51cadd" formatted="false">ዴስክቶፕ</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">ግራፊክ የስራ ቦታ</string>
+    <string name="native_770d49c5f689" formatted="false">ፋይሎች</string>
+    <string name="native_6a9b6480b58f" formatted="false">የሩጫ ጊዜ</string>
+    <string name="native_b561fe9204cc" formatted="false">አገልግሎቶች እና የገንቢ መሳሪያዎች</string>
+    <string name="native_70850bdeeabd" formatted="false">የገጽ ምናሌን ዝጋ</string>
+    <string name="native_b4549acb48e8" formatted="false">የስራ ቦታ</string>
+    <string name="native_3d3551f4660f">ተንሳፋፊ አዝራር ግልጽነት %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">ዝቅተኛ እሴቶች ተንሳፋፊውን ቁልፍ የበለጠ ግልጽ ያደርጉታል።</string>
+    <string name="native_e031beabfc9a" formatted="false">የገጽ ምናሌን ክፈት</string>
+    <string name="native_106ee775b538" formatted="false">ከአካባቢያዊ OpenCode ጋር በመገናኘት ላይ…</string>
+    <string name="native_a021adc1f449" formatted="false">የአካባቢ ግንኙነት መልሶ ማግኘት ይፈልጋል</string>
+    <string name="native_dacb8837471c" formatted="false">ዳግም ያገናኙ</string>
+    <string name="native_17584aa60ae6" formatted="false">የአካባቢውን የመረጃ መሸጎጫ ማዘጋጀት አልተቻለም</string>
+    <string name="native_3b3b80064ccb" formatted="false">የአካባቢያዊ OpenCodeን በማዘጋጀት ላይ…</string>
+    <string name="native_2560ee8fdd16" formatted="false">እንደገና ይሞክሩ</string>
+    <string name="native_b07809340403" formatted="false">የስራ ቦታ መገኛ እስካሁን አልተቀመጠም። በኋላ እንደገና ይሞክሩ።</string>
+    <string name="native_e4ab10392d05" formatted="false">የአካባቢ አገልግሎት በመዘጋጀት ላይ ነው። አንዴ ከተገናኘ በኋላ የስራ ቦታዎ በራስ-ሰር ይከፈታል።</string>
+    <string name="native_20ea15973287" formatted="false">ቀዳሚው ሩጫ ተቋርጧል። ከ Runtime እንደገና ያስጀምሩ; የተርሚናል ትዕዛዞች በራስ-ሰር እንደገና አይጫወቱም።</string>
+    <string name="native_f2f2f6d32544" formatted="false">ጀምር OpenCode ከሩጫ ጊዜ ጀምሮ እስከ ኮድ እና ክፍለ-ጊዜዎች መክፈት።</string>
+    <string name="native_abbac5c22111" formatted="false">ከመተግበሪያው ይውጡ?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">የልማት አካባቢው ከበስተጀርባ መሮጡን ሊቀጥል ይችላል። ከማሳወቂያው በኋላ ይመለሱ።</string>
+    <string name="native_814a8fb24b62" formatted="false">አሁን ካለው የስራ ቦታ ይውጣ?</string>
+    <string name="native_a76464945c2d" formatted="false">እንዲሁም የልማት አካባቢን ያቁሙ</string>
+    <string name="native_b814fd8d6bc5" formatted="false">ውጣ</string>
+    <string name="native_b00143b08ff1" formatted="false">ልማት ሥራ ጣቢያ ዝግጁ</string>
+    <string name="native_51bca456a350" formatted="false">የእርስዎ Debian ልማት ሥራ ጣቢያ</string>
+    <string name="native_0c2acd0b6057" formatted="false">በመሮጥ ላይ</string>
+    <string name="native_cb40c67e7cb1" formatted="false">በመጀመር ላይ</string>
+    <string name="native_44da7f6a451d" formatted="false">ማቆም</string>
+    <string name="native_b7e1503a7239" formatted="false">የጥገና ልማት አካባቢ</string>
+    <string name="native_7c91bd67ff14" formatted="false">ጫን ልማት አካባቢ</string>
+    <string name="native_cfd73bb04860" formatted="false">አቁም አካባቢ</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode ጀምር</string>
+    <string name="native_5d4600a269e9" formatted="false">አካባቢን ይፈትሹ</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">የDebian ገንቢ መሳሪያዎችን ያዘምኑ</string>
+    <string name="native_c114ec62712b" formatted="false">የቀድሞ አካባቢ ምትኬ፣ፕሮጀክቶች እና የክፍለ-ጊዜ መረጃዎች ተጠብቀዋል።</string>
+    <string name="native_eb3114155716" formatted="false">የቋንቋ አገልጋዮችን ይጫኑ/ያዘምኑ</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) እና Python (pylsp)፣ በመስመር ላይ ከተፈረሙ የDebian ማከማቻዎች ተጭነዋል። መጀመሪያ OpenCode እና ዴስክቶፕን ያቁሙ።</string>
+    <string name="native_2c7251cce661" formatted="false">ገጾችን ለመቀየር ተንሳፋፊውን ቁልፍ ነካ ያድርጉ። ቦታውን ለመቀየር ይጎትቱት።</string>
+    <string name="native_dcef145e6a9b" formatted="false">የአሂድ ጊዜ መረጃ ከጅምር በኋላ እዚህ ይታያል።</string>
+    <string name="native_a8243a4e0d22" formatted="false">የሩጫ ጊዜ ክፈት</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">የተጠቀለለ APK ስሪት</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode ዝማኔዎች</string>
+    <string name="native_36ab16248f65" formatted="false">በዚህ መተግበሪያ አታሚ የተፈረመ .ocaupdate አስመጣ። ይፋዊው የፊት ለፊት እና የኋለኛ ክፍል አንድ ላይ ዝማኔ።</string>
+    <string name="native_8aad48b0508d" formatted="false">ምንጭ አዘምን (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">የዝማኔ ምንጭ ያረጋግጡ</string>
+    <string name="native_f73973cfadbb">የተፈረመበት ልቀት፡ %1$s\nቃል መግባት፡ %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">አውርድና አረጋግጥ</string>
+    <string name="native_f2ef7965bf12" formatted="false">የዝማኔ ጥቅል ይምረጡ</string>
+    <string name="native_165111adfe2c">ለመጫን ዝግጁ: %1$s\nቃል ኪዳን፡ %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">ይህን ዝማኔ ጫን</string>
+    <string name="native_f9432c4d9b1e" formatted="false">ስሪቱን እና ክፍለ-ጊዜዎችን ከዝማኔው በፊት ወደነበሩበት ይመልሱ</string>
+    <string name="native_6864335de653" formatted="false">ዝማኔን ሰርዝ</string>
+    <string name="native_5e3472cf084e" formatted="false">የOpenCode ዝመናን ይጫኑ?</string>
+    <string name="native_816bf3635d53" formatted="false">ከዝማኔው በፊት ሁኔታውን ወደነበረበት ይመለስ?</string>
+    <string name="native_11beb4a42abc">%1$s ጫን። መተግበሪያው የክፍለ ጊዜ ቅጽበታዊ ገጽ እይታን ያስቀምጣል, የተፈረመውን ፕሮግራም ይፈትሻል እና ቀዳሚውን ስሪት ካልተሳካ ወደነበረበት ይመልሳል. የፕሮጀክት ፋይሎች ተይዘዋል.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">ክፍለ-ጊዜዎች ከዚህ ዝማኔ በፊት ወደነበሩበት ይመለሳሉ። ተጨማሪ የቅርብ ጊዜ ክፍለ ጊዜዎች በግል ምትኬ ውስጥ ይቀራሉ። የፕሮጀክት ፋይሎች ተይዘዋል.</string>
+    <string name="native_def5e273616d" formatted="false">መጫኑን ያረጋግጡ</string>
+    <string name="native_369d2eefccde" formatted="false">የቅድመ እይታ የአሳሽ ውሂብን ማግለል አልተቻለም። ቅድመ እይታውን እንደገና ይክፈቱ።</string>
+    <string name="native_c3ac77c50f0b" formatted="false">የፕሮጀክቱን ገጽ መጫን አልተቻለም። በእርስዎ ተርሚናል ውስጥ ያለውን የልማት አገልጋይ ያረጋግጡ።</string>
+    <string name="native_6e7408950cf5" formatted="false">ቅድመ እይታ ፕሮጀክት ድር ጣቢያ\nየ</string>
+    <string name="native_bfb4951e071d" formatted="false">ፕሮጀክት ቅድመ እይታ</string>
+    <string name="native_f80652913d06" formatted="false">በተርሚናል ውስጥ የልማት አገልጋይ ያስጀምሩ እና ከዚያ የአካባቢ ወደቡን ያስገቡ። ቅድመ እይታ የአሳሽ ውሂብ ከOpenCode ተለይቷል።</string>
+    <string name="native_2c41e85af61f" formatted="false">ወደብ</string>
+    <string name="native_77c3a828a5c5" formatted="false">OpenCode እና የዴስክቶፕ አገልግሎቶችን ሳይጨምር ከ1024 እስከ 65535 የእድገት ወደብ አስገባ።</string>
+    <string name="native_7311a9dfea51" formatted="false">በዚህ ወደብ ላይ ምንም የሚሰማ ነገር የለም። በተርሚናልዎ ውስጥ ያለውን አገልግሎት ያረጋግጡ።</string>
+    <string name="native_4f8d84105475" formatted="false">በመፈተሽ ላይ…</string>
+    <string name="native_4923c272b68e" formatted="false">የልማት ወደብ ኢንቲጀር መሆን አለበት።</string>
+    <string name="native_04a87026e81f" formatted="false">የሚሰራ የፕሮጀክት ልማት ወደብ ይምረጡ</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode የእድገት ክፍለ ጊዜ</string>
+    <string name="native_e87a4529ab82" formatted="false">ልማት አካባቢ መጫን</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian ዝማኔ</string>
+    <string name="native_0c6301bc295d" formatted="false">ልማት አካባቢ ጥገና</string>
+    <string name="native_0ddf3d4297eb" formatted="false">ልማት አካባቢ ማረጋገጥ</string>
+    <string name="native_9612d4419bb6" formatted="false">ቋንቋ አገልጋይ መጫን</string>
+    <string name="native_f72fba77f87a" formatted="false">የአካባቢ መልሶ ማግኛ</string>
+    <string name="native_7c8162195c7c" formatted="false">ዴስክቶፕ መጫን</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">የቀድሞው ሩጫ ተቋርጧል። ከ Runtime በግልጽ እንደገና ያስጀምሩ።</string>
+    <string name="native_22b3b2e8ffad" formatted="false">የዚህ አይነት የልማት ተግባር አሁንም እየሰራ ነው።</string>
+    <string name="native_95a56e0a3fe2" formatted="false">የእንቅስቃሴ መዝገቡን መጠገን</string>
+    <string name="native_b66749ed72ea" formatted="false">ሂደት ወጥቷል።</string>
+    <string name="native_6b25042064e2" formatted="false">በሲግናል ተቋርጧል\nበዝቅተኛ ማህደረ ትውስታ ምክንያት</string>
+    <string name="native_d6febdf1752b" formatted="false">ተመልሷል</string>
+    <string name="native_1d13790f3c89" formatted="false">መተግበሪያ ብልሽት።</string>
+    <string name="native_28db94d1850d" formatted="false">ቤተኛ ሂደት ብልሽት።</string>
+    <string name="native_86919539f7f1" formatted="false">መተግበሪያ ምላሽ እየሰጠ አይደለም።</string>
+    <string name="native_90fb8d6098a5" formatted="false">ማስጀመር አልተሳካም።\nየ</string>
+    <string name="native_38c60ab6654c" formatted="false">ፈቃዶች ተለውጠዋል</string>
+    <string name="native_6d2a6c71334d" formatted="false">የንብረት ገደብ</string>
+    <string name="native_19b2090b01a8" formatted="false">ተጠቃሚ ለማቆም ጠየቀ</string>
+    <string name="native_120d96445f1a" formatted="false">በተጠቃሚ ቆሟል</string>
+    <string name="native_3c8af14f66bc" formatted="false">ጥገኛ ሂደት ወጥቷል።</string>
+    <string name="native_ca0941ce04ae" formatted="false">ሌላ የስርዓት ምክንያት</string>
+    <string name="native_2df1ac3c1d38" formatted="false">ሂደት መቀዝቀዝ</string>
+    <string name="native_0d48373023a8" formatted="false">መተግበሪያ ሁኔታ ተለውጧል\nየ</string>
+    <string name="native_c752307db26b" formatted="false">መተግበሪያ ዝማኔ</string>
+    <string name="native_b5015951cbdf" formatted="false">ስርዓቱ የመውጫ ምክንያት አልሰጠም።</string>
+    <string name="native_b62737b826ad">የስርዓት መውጫ (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">የፕሮጀክት ማውጫውን መክፈት አልተቻለም</string>
+    <string name="native_faf5d983c13e" formatted="false">የOpenCode ክፍለ ጊዜ መፍጠር አልተቻለም</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode ክፍለ ጊዜ ማውጫ አይዛመድም።</string>
+    <string name="native_ac19736908a2" formatted="false">የOpenCode ክፍለ ጊዜ ማንበብ አልቻለም</string>
+    <string name="native_2642997cfeec" formatted="false">የአካባቢ ጥበቃ</string>
+    <string name="native_f992d735d932" formatted="false">OpenCodeን፣ ተርሚናሎችን እና የDebian ዴስክቶፕን ያቁሙ፣ ከዚያ የፋይል ስራዎች እስኪጨርሱ ይጠብቁ</string>
+    <string name="native_489f137f1080" formatted="false">የአካባቢ ጥበቃ መቆለፊያ ከአሁን በኋላ የሚሰራ አይደለም።</string>
+    <string name="native_42380e2567fc" formatted="false">የተቋረጠ ክዋኔ ተመልሷል። የስራ ቦታውን እንደገና ይክፈቱ።</string>
+    <string name="native_17b00cac2b91" formatted="false">የአካባቢ ግንኙነት መልሶ ማግኘት አልተሳካም። ከ Runtime እንደገና ይሞክሩ።</string>
+    <string name="native_77e9ca4e944c" formatted="false">የአካባቢ ጥበቃ በሂደት ላይ ነው። በኋላ እንደገና ይሞክሩ።</string>
+    <string name="native_dbaebe3ce243" formatted="false">የልማት አካባቢውን ከማዘመንዎ በፊት የDebian ዴስክቶፕን ያቁሙ</string>
+    <string name="native_548085b144c9" formatted="false">የተቋረጠ ክዋኔ ተመልሷል። የልማት አካባቢን መጀመር ይችላሉ.</string>
+    <string name="native_b4a1531f9eac" formatted="false">የቀድሞው ሩጫ ተቋርጧል። የተርሚናል ትዕዛዞች በራስ ሰር ዳግም አይጫወቱም። ከ Runtime በግልጽ እንደገና ያስጀምሩ።</string>
+    <string name="native_295cafdfd512" formatted="false">ጊዜያዊ የግንኙነት ውቅር ጽዳት አልተጠናቀቀም። የማጽዳት ሂደቱ ቀጥሏል።</string>
+    <string name="native_ab16cdc08a8e" formatted="false">የ helloworld የስራ ቦታ መፍጠር አልተቻለም። ማውጫውን እና ያለውን ቦታ ያረጋግጡ።</string>
+    <string name="native_68301868225a" formatted="false">ቀዳሚው የስራ ቦታ ማውጫ የለም። helloworld ተከፍቷል።</string>
+    <string name="native_b33b3ca277eb" formatted="false">ነባሪው ፕሮጀክት ገና ዝግጁ አይደለም። ከፋይሎች እንደገና ይሞክሩ።</string>
+    <string name="native_45d6ab452622" formatted="false">የቋንቋ አገልጋዮችን ጫን</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ እና Python ቋንቋ አገልጋዮች ዝግጁ ናቸው። LSP ለመጠቀም OpenCode ጀምር።</string>
+    <string name="native_5ea1653deef8" formatted="false">የተርሚናል እንቅስቃሴ መዝገብ አልተቀመጠም። ከሂደቱ ማብቂያ በኋላ አዲስ ተርሚናል ይፍጠሩ።</string>
+    <string name="native_1978b311a9ff" formatted="false">የተርሚናል መውጫ መዝገቡን አስቀምጦ መጨረስ አልቻለም።</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode አዘምን ማውረድ</string>
+    <string name="native_06f76cca8fb9" formatted="false">ከዝማኔ ምንጭ ጋር በመገናኘት ላይ…</string>
+    <string name="native_8c39baf28e08" formatted="false">ከዝማኔው ምንጭ ጋር መገናኘት አልቻለም። አውታረ መረቡን፣ የአሳታሚ ፊርማ፣ የአስተናጋጅ ስሪት እና ነጻ ቦታን ያረጋግጡ።</string>
+    <string name="native_0bedbc8d185d" formatted="false">ማውረድ ጊዜው አልፎበታል።</string>
+    <string name="native_f75850093535">በማውረድ ላይ፡ %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">የአታሚ ፊርማ በማረጋገጥ ላይ…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">የዝማኔ ጥቅል በማውረድ ላይ…</string>
+    <string name="native_2f9cd52dc66a">ትክክለኛ የአሳታሚ ፊርማ፡ %1$s። ከማውረድዎ በፊት ይገምግሙ።</string>
+    <string name="native_17548865632c" formatted="false">አውርድ፣ ልቀቅ ሜታዳታ እና የጥቅል ፊርማ ተረጋግጧል። መጫኑን ያረጋግጡ።</string>
+    <string name="native_180cec958e7a" formatted="false">ማውረድ ተሰርዟል። ዋናው ስሪት ተይዟል።</string>
+    <string name="native_8df045f8ac12" formatted="false">ማውረድ ቆሟል። ዋናው ስሪት ተይዟል።</string>
+    <string name="native_778803f1c6bb" formatted="false">ማውረድ ሰርዝ</string>
+    <string name="native_2958898ce6f4" formatted="false">አዲሱ ስሪት የአካባቢ ጅምር፣ ስሪት ወይም የማረጋገጫ ፍተሻዎች አልተሳካም። የቀደመው ስሪት ወደነበረበት ይመለሳል።</string>
+    <string name="native_cc876dfbb261" formatted="false">የሙከራ ሂደቱ አሁንም በመውጣት ላይ ነው። እንደገና ከመሞከርዎ በፊት ለማገገም ይጠብቁ።</string>
+    <string name="native_adf977dcb47e" formatted="false">ልክ ያልሆነ የዝማኔ መዝገብ ለዪ</string>
+    <string name="native_5207cac670b7" formatted="false">የተጫነ ብቻውን OpenCode መጠን አይዛመድም</string>
+    <string name="native_cf5b81887589" formatted="false">የተጫነ ብቻውን OpenCode ቼክ አይዛመድም። የቀደመውን ስሪት ወደነበረበት ይመልሱ።</string>
+    <string name="native_393049b506cc" formatted="false">የመጀመሪያው ፕሮግራም ምንም ተዛማጅ የአሳታሚ ማረጋገጫ የለውም። የቀድሞ ሁኔታ አልተለወጠም።</string>
+    <string name="native_c5853bcfd56c" formatted="false">የቀደመውን የተቋረጠውን ዝመና መጀመሪያ መልሰው ያግኙ</string>
+    <string name="native_91d8da5525fa" formatted="false">የዝማኔው ጥቅል ከተረጋገጠ በኋላ ተቀይሯል።</string>
+    <string name="native_093f2c091a30" formatted="false">በቂ ያልሆነ ማከማቻ። ዋናው ስሪት አልተለወጠም።</string>
+    <string name="native_fc9bc82e0872" formatted="false">ወደነበረበት ለመመለስ ምንም የማዘመን ምትኬ የለም።</string>
+    <string name="native_a9f4d9903c14" formatted="false">መጠባበቂያው ከአሂድ ስሪት ጋር አይዛመድም።</string>
+    <string name="native_6caa23763a42" formatted="false">የቀድሞ ፕሮግራም ማረጋገጫ አልተሳካም። የአሁኑ ክፍለ ጊዜዎች አልተቀየሩም።</string>
+    <string name="native_c8b71b876695" formatted="false">አንድ በኋላ APK ወይም Debian ዝማኔ የተጠቀለለውን ፕሮግራም ተክቶታል። የመጀመሪያው ክፍለ ጊዜ መጠባበቂያ ተይዟል; መጀመሪያ ተጓዳኝ ፕሮግራሙን ወደነበረበት መመለስ.</string>
+    <string name="native_c443df40964b" formatted="false">ልክ ያልሆነ የማዘመን መልሶ ማግኛ ክዋኔ</string>
+    <string name="native_9071f05d58b3" formatted="false">የOpenCode ዝማኔን በማዘጋጀት ላይ…</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCodeን፣ ተርሚናሎችን እና ዴስክቶፕን ያቁሙ፣ ከዚያ እስኪወጡ ድረስ ይጠብቁ።</string>
+    <string name="native_90c07b54f8f8" formatted="false">ሁኔታን በማስቀመጥ ላይ, ፕሮግራሞችን ማረጋገጥ እና ስሪቶችን መቀየር</string>
+    <string name="native_5fc065ef6f50" formatted="false">የዝማኔ ጥገና አገልግሎቱን መጀመር አልቻለም።</string>
+    <string name="native_f7b560c8c820" formatted="false">ኦፊሴላዊ ፕሮግራሙን በማረጋገጥ እና በማዘጋጀት ላይ…</string>
+    <string name="native_9606191c82dc" formatted="false">ዋናውን ፕሮግራም እና የአሳታሚ ፊርማ በመጠበቅ ላይ…</string>
+    <string name="native_5c0d7787ee51" formatted="false">የክፍለ-ጊዜ ሁኔታ ቅጽበተ-ፎቶን በማስቀመጥ ላይ…</string>
+    <string name="native_0c8cf4632889" formatted="false">ስሪቶችን በመቀየር ላይ እና የአካባቢውን አገልግሎት በማረጋገጥ ላይ…</string>
+    <string name="native_3e81ea691a4a" formatted="false">ስሪቱን እና ክፍለ-ጊዜዎችን ከዝማኔው በፊት ወደነበረበት በመመለስ ላይ…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode ወደነበረበት በመመለስ ላይ</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode በማዘመን ላይ</string>
+    <string name="native_6b1ccd3778fa" formatted="false">ቀዳሚውን ስሪት እና ክፍለ-ጊዜዎች ወደነበሩበት ተመልሷል። ተጨማሪ የቅርብ ጊዜ ክፍለ ጊዜዎች በግል ምትኬ ውስጥ ይቀራሉ።</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode ዝማኔ ተጠናቋል። ጅምር የሚዛመደውን ይፋዊ የፊት ለፊት እና የኋላን ይጠቀማል።</string>
+    <string name="native_4693930f5802" formatted="false">ዝማኔ ተሰርዟል። የመጀመሪያው ሁኔታ ወደነበረበት መመለሱን በማረጋገጥ ላይ።</string>
+    <string name="native_d0e37bc26edd" formatted="false">ዝማኔ አልተጠናቀቀም። አሁን በማገገም ላይ; ኦሪጅናል ፕሮግራም እና የክፍለ ጊዜ መጠባበቂያዎች ተጠብቀዋል።</string>
+    <string name="native_9a32d6c2d207" formatted="false">መልሶ ማግኘት አልተጠናቀቀም። ሁሉም የግዛት ማውጫዎች ተጠብቀዋል። ውሂብዎን ያቆዩ እና መልሶ ለማግኘት ጅምርን እንደገና ይሞክሩ።</string>
+    <string name="native_49ad3eeae83d" formatted="false">የክፍለ-ጊዜ መልሶ ማግኛ ተጠናቅቋል። የበለጠ የቅርብ ጊዜ ሁኔታ በመጠባበቂያ ውስጥ ይቀራል።</string>
+    <string name="native_67c08a2911e1" formatted="false">መልሶ ማግኛ በዚህ ምትኬ ወይም ኦርጅናሌ ፕሮግራም መቀጠል አልቻለም። የአሁኑ ክፍለ ጊዜዎች እና ምትኬዎች አልተቀየሩም።\nየ</string>
+    <string name="native_976d8c169cfa" formatted="false">ዝማኔ ተሰርዟል ወይም አልተሳካም። የመጀመሪያው ስሪት እና ክፍለ-ጊዜዎች ወደነበሩበት ተመልሰዋል።</string>
+    <string name="native_7ac77d1513fc" formatted="false">የዝማኔ ጥቅል ፊርማ እና ታማኝነትን በማረጋገጥ ላይ…</string>
+    <string name="native_0aa018b7337b" formatted="false">የተመረጠውን ፋይል ማንበብ አይችልም።\nየ</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">ማሻሻያ ጥቅል በጣም ትልቅ ነው።</string>
+    <string name="native_f068b83f40bf" formatted="false">ፊርማ እና ጥቅል ተረጋግጧል። ከመጫንዎ በፊት ስሪቱን ይገምግሙ።</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">ማስመጣት አይቻልም፡ ልክ ያልሆነ ፋይል፣ የፊርማ አለመዛመድ፣ ተኳሃኝ ያልሆነ የአስተናጋጅ ስሪት ወይም በቂ ያልሆነ ማከማቻ።</string>
+    <string name="native_616412e65df4" formatted="false">ኦፊሴላዊው ፕሮግራም ከአሳታሚው ማረጋገጫ ጋር አይዛመድም።</string>
+    <string name="native_4bf19a158f27" formatted="false">ለብቻው የሚሄድ ጊዜ ጥቅሎች ARM64 ብቻ ይደግፋሉ</string>
+    <string name="native_63b1fc6fffc9" formatted="false">የዝማኔ ፊርማ የዚህ APK አባል አይደለም\nይህን ዝማኔ ከመጫንዎ በፊት</string>
+    <string name="native_c7273354727f" formatted="false">የማዘመን ፋይሉ ከተገለጸው መጠን ይበልጣል</string>
+    <string name="native_2aa6c8e74abb" formatted="false">የማዘመን ፕሮግራም ቼክሰም አይዛመድም።</string>
+    <string name="native_dd619076d456" formatted="false">ልክ ያልሆነ የዝማኔ ጥቅል መጠን</string>
+    <string name="native_20c5bdfeffc0" formatted="false">የታመቀ የዝማኔ ጥቅል መጠን አይዛመድም።</string>
+    <string name="native_1de24edffcf5" formatted="false">የዝማኔ ጥቅሉ ተጨማሪ ግቤቶችን ይዟል</string>
+    <string name="native_c5b339aa77e8" formatted="false">ተኳሃኝ ያልሆነ የዝማኔ መነሻ ወይም አርክቴክቸር\nይህን ዝማኔ ከመጫንዎ በፊት</string>
+    <string name="native_89d585f3661f" formatted="false">የAndroid መተግበሪያን ያሻሽሉ</string>
+    <string name="native_800df084dea0" formatted="false">የማህደር ቼክ ድምርን ያዘምኑ አይዛመድም።</string>
+    <string name="native_ddf1a005e310" formatted="false">ይህ የAPK ፊርማ ቅርጸት ራሱን የቻለ የአሂድ ጊዜ ዝማኔዎችን አይደግፍም።</string>
+    <string name="native_172e063db474" formatted="false">ልክ ያልሆነ የዝማኔ ጥቅል ግቤት</string>
+    <string name="native_1c08780aa99f" formatted="false">ሜታዳታ አዘምን ኢንቲጀሮችን መጠቀም አለበት።</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">የማሻሻያ ፕሮግራሙ ባለ 64-ቢት Linux ELF አይደለም</string>
+    <string name="native_d51ff4ed57b4" formatted="false">የማሻሻያ ፕሮግራሙ የ16 KiB ELF አሰላለፍ አያሟላም</string>
+    <string name="native_3afa3741911b" formatted="false">የማሻሻያ ፕሮግራሙ የDebian glibc ጫኚ ይጎድላል።</string>
+    <string name="native_6b0b9e864f5b" formatted="false">የሚሰራ HTTPS ማዘመኛ ምንጭ አስገባ</string>
+    <string name="native_c274c7dd5900" formatted="false">የማዘመን ምንጮች ያለተጠቃሚ ምስክርነቶች HTTPS ዩአርኤሎችን ይፈልጋሉ</string>
+    <string name="native_f459f5ec9dac" formatted="false">ልክ ያልሆነ የዝማኔ ምንጭ መስክ</string>
+    <string name="native_bde2a736e30a" formatted="false">መጀመሪያ የAndroid አስተናጋጅ አሻሽል።</string>
+    <string name="native_b980fd021bef" formatted="false">ልክ ያልሆነ የዝማኔ ማውጫ</string>
+    <string name="native_c0e96727553e" formatted="false">ልክ ያልሆነ የማዘመን ፋይል</string>
+    <string name="native_86ff542c68ed" formatted="false">የዝማኔ ማውጫዎችን በዚህ ሁኔታ መቀየር አይችልም።</string>
+    <string name="native_fbf82dc7ef22" formatted="false">የክፍለ ጊዜ ሁኔታ ውጫዊ ማውጫን ያመለክታል። ዝመናው በደህና ሊሞከር አይችልም።</string>
+    <string name="native_796dc6b7ca29" formatted="false">በቂ ያልሆነ ማከማቻ። ኦሪጅናል ሁኔታ አልተለወጠም።</string>
+    <string name="native_099801d672b1" formatted="false">ማውረድ ተሰርዟል።</string>
+    <string name="native_f1304f707ec9" formatted="false">በጣም ብዙ የዝማኔ አቅጣጫዎች</string>
+    <string name="native_0d07f458b607" formatted="false">የዝማኔ አገልጋዩ የመጀመሪያውን ባይት አላስተላለፈም።</string>
+    <string name="native_de331dfd8908" formatted="false">የማዘመን የፋይል ርዝመት አይዛመድም።</string>
+    <string name="native_416b8c87e69e" formatted="false">የማዘመን ፋይሉ ሙሉ በሙሉ አልወረደም።</string>
+    <string name="native_e1e74b76c427" formatted="false">የዝማኔ አገልጋዩ ሙሉውን ፋይል አልመለሰም።</string>
+    <string name="native_6afcf03cb130" formatted="false">በቂ ያልሆነ የዝማኔ ዝግጅት ቦታ</string>
+    <string name="native_be1c695d9241" formatted="false">ፋይል ያዘምኑ SHA-256 አይዛመድም።</string>
+    <string name="native_a0133d117bb0" formatted="false">የማሻሻያ ጥቅሉ ከተረጋገጠ የመልቀቂያ መረጃ ጋር አይዛመድም።</string>
+    <string name="native_8635a43ce28a" formatted="false">ልክ ያልሆነ የፕሮጀክት ማውጫ</string>
+    <string name="native_d32ab8b004e6" formatted="false">የስራ ቦታውን ማስቀመጥ አልተቻለም</string>
+    <string name="native_43a5447014fd" formatted="false">ተርሚናል ከመክፈትዎ በፊት የእድገት አካባቢውን ከ Runtime ይጀምሩ።</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ አዲስ ተርሚናል</string>
+    <string name="native_b3b7108a568f" formatted="false">የአሁኑን ዝጋ</string>
+    <string name="native_0e822affd5da">የመጀመሪያ ማውጫ፡ %1$s</string>
+    <string name="native_72d769e3888d">አዲስ ተርሚናል ማውጫ፡ %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">የስርዓት ፋይል መራጭ የለም።</string>
+    <string name="native_179a57921f91" formatted="false">WebView የማሳያ ቅንብሮች</string>
+    <string name="native_3024ec603eb7" formatted="false">የፍሬም ፍጥነት</string>
+    <string name="native_55b6d7f645f3" formatted="false">60 Hz ይመርጣል</string>
+    <string name="native_66f8bafa9f7f" formatted="false">የማሳያ እድሳት ፍጥነትን ተከተል</string>
+    <string name="native_d4ecf38c341d" formatted="false">በከፍተኛ የማደስ ፍጥነት ማሳያዎች ላይ የማሳየትን ጭነት ለመቀነስ 60 Hzን እመርጣለሁ። ማሳያውን ተከትሎ የስርዓቱ ፍሬሞችን መርሐግብር ያስችለዋል። የሚመለከተው በዚህ መተግበሪያ መስኮት ላይ ብቻ ነው።</string>
+    <string name="native_bf0d3a407418" formatted="false">አልተጫነም።</string>
+    <string name="native_2fb8edc75b25" formatted="false">ዝግጁ</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">የሚያረጋግጥ ጫኚ</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian በመጫን ላይ</string>
+    <string name="native_f863d955fa6e" formatted="false">የአካባቢ ልማት አካባቢ</string>
+    <string name="native_55aa84065de2" formatted="false">የአካባቢ Debian ልማት ክፍለ ጊዜ</string>
+    <string name="native_6e75b1822ebc" formatted="false">አቁም</string>
+    <string name="native_5f73a4e1e494" formatted="false">ተጭኗል</string>
+    <string name="native_147e90d2ec02" formatted="false">በማገገም ላይ</string>
+</resources>

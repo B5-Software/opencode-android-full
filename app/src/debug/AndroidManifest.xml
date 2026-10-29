@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <permission android:name="io.github.opencodeandroid.permission.BACKGROUND_DIAGNOSTICS" android:protectionLevel="signature" />
+    <application>
+        <service android:name=".diagnostics.BackgroundDiagnosticsService" android:process=":background_diagnostics" android:exported="true" android:permission="io.github.opencodeandroid.permission.BACKGROUND_DIAGNOSTICS" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Debug only, finite user-started background acceptance of a fresh synthetic Linux workstation, controlled by a separately signed diagnostic test APK." />
+        </service>
+        <service android:name=".runtime.LifecycleProbeService" android:process=":lifecycle_probe" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Debug instrumentation only; real runtime in a new private Debian tree for controlled host-process-death acceptance." />
+        </service>
+        <service android:name=".backup.WorkstationBackupHarnessService" android:exported="false" android:foregroundServiceType="specialUse">
+            <property android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE" android:value="Debug instrumentation only; exercises native backup actions in an injected private synthetic namespace." />
+        </service>
+    </application>
+</manifest>

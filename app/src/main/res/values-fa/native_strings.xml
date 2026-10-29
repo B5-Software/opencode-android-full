@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">توسعه فضای کاری</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">تک صفحه</string>
+    <string name="native_651ae6ea52ae" formatted="false">نمای تقسیم شده را بازیابی کنید</string>
+    <string name="native_d7e97cfac66f" formatted="false">طرح‌بندی فضای کاری</string>
+    <string name="native_2a03e2ed30f9" formatted="false">پنجره را باز کنید تا چند پانل را با هم مشاهده کنید.</string>
+    <string name="native_e792dd4cfa78" formatted="false">نمایش فایل های پروژه</string>
+    <string name="native_712d956931d1" formatted="false">نمایش پایانه</string>
+    <string name="native_073cc20d9ed9" formatted="false">ترمینال زیر</string>
+    <string name="native_5de225480fa7" formatted="false">ترمینال در سمت راست</string>
+    <string name="native_35cdb3eacdc6" formatted="false">پانل ها وقتی فضا محدود است جمع می شوند و از منوی شناور در دسترس باقی می مانند. ترمینال جانبی در پنجره های عریض تر ظاهر می شود. تقسیم کننده ها را برای تغییر اندازه پانل ها بکشید.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt چپ: 1–5 صفحه · فایلهای B · ترمینال T · دسکتاپ M · ورود به Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">انجام شد</string>
+    <string name="native_bcec2218fc21" formatted="false">تناسب را بازنشانی کنید</string>
+    <string name="native_da88c62d1217">%1$s را در یک صفحه نشان دهید</string>
+    <string name="native_1b4b3afbe52d" formatted="false">تقسیم‌کننده فایل‌های پروژه</string>
+    <string name="native_707c0891a0e6" formatted="false">تقسیم کننده پایانه</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode و تقسیم کننده دسکتاپ</string>
+    <string name="native_50407ad8dfa8" formatted="false">پانل قبلی را کوچک کنید</string>
+    <string name="native_b72c5c02a666" formatted="false">پانل قبلی را بزرگ کنید</string>
+    <string name="native_3f3685e8d731" formatted="false">پیوندهای PRoot بسیار زیاد برای این قالب آرشیو\nپیوندهای سخت</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux به یک rootfs کامل نیاز دارند</string>
+    <string name="native_f336f1e17596" formatted="false">تودرتوی دایرکتوری پشتیبان خیلی عمیق است</string>
+    <string name="native_b6f744737a45" formatted="false">طول رمز عبور پشتیبان نامعتبر است</string>
+    <string name="native_13bde5dd1812" formatted="false">رمز عبور پشتیبان باید حداقل دارای 12 کاراکتر باشد</string>
+    <string name="native_be02cbd55932" formatted="false">قالب پشتیبان پشتیبانی نشده است</string>
+    <string name="native_7a91a3d586ae" formatted="false">عنوان پشتیبان نامعتبر است</string>
+    <string name="native_2bbd318a5667" formatted="false">پارامترهای رمزگذاری پشتیبان پشتیبانی نشده</string>
+    <string name="native_18868da27841" formatted="false">رمز عبور پشتیبان نادرست یا فایل آسیب دیده</string>
+    <string name="native_e41d6440468d" formatted="false">سابقه بازیابی بسیار بزرگ است</string>
+    <string name="native_282692502f14" formatted="false">ابرداده پشتیبان خیلی بزرگ است</string>
+    <string name="native_61fdca8d6c82" formatted="false">تودرتوی ابرداده پشتیبان خیلی عمیق است</string>
+    <string name="native_8cefb30732d4" formatted="false">ابرداده پشتیبان نامعتبر است</string>
+    <string name="native_5d3037708cad" formatted="false">تنظیمات بومی پشتیبانی نشده</string>
+    <string name="native_81a57c382f9d" formatted="false">تنظیمات بومی ذخیره نشد</string>
+    <string name="native_50603e683d4a" formatted="false">دایرکتوری والد نامعتبر در مسیر پشتیبان</string>
+    <string name="native_c3f838a46b8e" formatted="false">ریشه ایستگاه کاری نباید یک پیوند نمادین باشد</string>
+    <string name="native_9ddd2d8280c8" formatted="false">فایلی در حین پشتیبان‌گیری تغییر کرد</string>
+    <string name="native_77e1e85147db" formatted="false">قالب داده ایستگاه کاری پشتیبانی نشده است</string>
+    <string name="native_a927b5a565af" formatted="false">نسخه پشتیبان حاوی اطلاعات اضافی است</string>
+    <string name="native_c2b886d508f2" formatted="false">نسخه پشتیبان شامل مسیرهای تکراری است</string>
+    <string name="native_3dab8cd60102" formatted="false">نسخه پشتیبان شامل تنظیمات زمان اجرا است که قابل انتقال نیستند</string>
+    <string name="native_f45ba674a630" formatted="false">پشتیبان‌گیری خیلی بزرگ است یا فضای ذخیره‌سازی کافی نیست</string>
+    <string name="native_140073e8e77b" formatted="false">مهر زمانی پیوند نمادین بازیابی نشد</string>
+    <string name="native_b0d411aaf62c" formatted="false">مهر زمانی لوله نامگذاری شده بازیابی نشد</string>
+    <string name="native_0daee8026db1" formatted="false">پشتیبان گیری و بازیابی ایستگاه کاری</string>
+    <string name="native_1acc18928c5f" formatted="false">شامل Debian، ابزارهای توسعه‌دهنده، پروژه‌ها، صفحه اصلی، جلسات و تنظیمات OpenCode، داده‌های مرورگر Linux و تنظیمات طرح‌بندی بومی است.\nپروژه های</string>
+    <string name="native_62254d31a535" formatted="false">فایل‌های موقت و نسخه‌های پشتیبان قدیمی مستثنی هستند. فضای ذخیره‌سازی Android WebView و پیش‌نویس‌های ارسال نشده در این دستگاه باقی می‌مانند و با این نسخه پشتیبان منتقل نمی‌شوند.</string>
+    <string name="native_808eabc7811f" formatted="false">پشتیبان رمزگذاری شده ایجاد کنید</string>
+    <string name="native_201c10b38296" formatted="false">پشتیبان وارد کنید</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">ابتدا تغییرات خود را در ویرایشگر فایل ذخیره کنید.</string>
+    <string name="native_0559cd596453" formatted="false">OpenCode، پایانه ها و دسکتاپ را متوقف کنید\n[0052] یک عملیات محیطی ناقص است. ابتدا آن را بازیابی کنید.</string>
+    <string name="native_fdf2be8e3b93" formatted="false">یک عملیات محیطی ناقص است. ابتدا آن را بازیابی کنید.</string>
+    <string name="native_185f58156330" formatted="false">عملیات ناقص را بازیابی کنید</string>
+    <string name="native_20831b6f67a7" formatted="false">آخرین بازیابی محیط را لغو کنید</string>
+    <string name="native_4f392d5d6141">کپی محلی رمزگذاری شده: %1$s</string>
+    <string name="native_80077c694212" formatted="false">ذخیره در فایل</string>
+    <string name="native_f09619351eb9" formatted="false">کپی محلی را حذف کنید</string>
+    <string name="native_85c686eb9841">%1$s پردازش شد</string>
+    <string name="native_28d567b926cc" formatted="false">وظیفه پشتیبان‌گیری را لغو کنید</string>
+    <string name="native_66c9d896407b" formatted="false">پشتیبان‌گیری از ایستگاه کاری را رمزگذاری کنید\n[0061]] پشتیبان را رمزگشایی و تأیید کنید</string>
+    <string name="native_548cd9f0831e" formatted="false">رمزگشایی و تأیید نسخه پشتیبان</string>
+    <string name="native_d248f5eca9a5" formatted="false">پشتیبان‌گیری‌ها ممکن است حاوی کلیدهای خصوصی SSH، کلیدهای API و داده‌های حساب باشند. از حداقل 12 کاراکتر استفاده کنید. رمز عبور فراموش شده قابل بازیابی نیست.</string>
+    <string name="native_f249422b9ec1" formatted="false">نسخه پشتیبان در یک فهرست خصوصی رمزگشایی و تأیید می شود. محیط شما تنها پس از تایید بازیابی جایگزین می شود.</string>
+    <string name="native_e7be6841703a" formatted="false">رمز عبور پشتیبان</string>
+    <string name="native_9f6aeedc5a00" formatted="false">رمز عبور را تکرار کنید</string>
+    <string name="native_eafdc5cd4882" formatted="false">رمزگذاری را شروع کنید</string>
+    <string name="native_2986b88beade" formatted="false">رمزگشایی و تأیید کنید</string>
+    <string name="native_0eddf4ad9b94" formatted="false">لغو</string>
+    <string name="native_f46c5ed7412d" formatted="false">کل محیط قبلی بازیابی شود؟</string>
+    <string name="native_33eda0946a5b" formatted="false">کپی محلی رمزگذاری شده حذف شود؟</string>
+    <string name="native_26db24150f2e" formatted="false">، خانه، Debian و جلسات قبل از آخرین بازیابی به حالت خود باز می گردند. کارهای جدیدتر در یک نسخه پشتیبان خصوصی در داخل برنامه باقی خواهد ماند.</string>
+    <string name="native_1153b30d51d5" formatted="false">فقط کپی محلی رمزگذاری شده داخل برنامه حذف می شود. فایل های ذخیره شده در جاهای دیگر در دسترس باقی می مانند.</string>
+    <string name="native_427a78a4e69a" formatted="false">تأیید کنید</string>
+    <string name="native_7af46d7ee003" formatted="false">پشتیبان این ایستگاه کاری بازیابی شود؟</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s ورودی · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">نسخه پشتیبان شامل نرم افزار Linux قابل اجرا می باشد. اطمینان حاصل کنید که به منبع آن اعتماد دارید. بازسازی کل محیط را جایگزین می کند و خدمات محلی را بررسی می کند. محیط قبلی برای بازیابی نگهداری می شود.</string>
+    <string name="native_c3d74ed0c054" formatted="false">پشتیبان‌گیری تأیید شد. در انتظار تایید بازسازی</string>
+    <string name="native_97076078c749" formatted="false">همچنین حالت سازگاری Chromium را فعال کنید (صندوق فرآیند Linux را غیرفعال می کند)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">به طور پیش فرض خاموش است. بعداً می توانید آن را در تنظیمات دسکتاپ فعال کنید.</string>
+    <string name="native_ddf09383413c" formatted="false">بازیابی را تأیید کنید</string>
+    <string name="native_8e6056b0f629" formatted="false">واردات را لغو کنید</string>
+    <string name="native_63a895901c76" formatted="false">محیط ایستگاه کاری تغییر کرد</string>
+    <string name="native_a4c994348a39" formatted="false">فضای کاری را دوباره باز کنید</string>
+    <string name="native_774947f0653e" formatted="false">لغو کار\n[0085] کار قطع شد. یک عملیات را دوباره انتخاب کنید و رمز عبور را وارد کنید.</string>
+    <string name="native_e09a22b18445" formatted="false">کار قطع شد. یک عملیات را دوباره انتخاب کنید و رمز عبور را وارد کنید.</string>
+    <string name="native_38c5fcc634db" formatted="false">ابتدا ویرایش های فایل را در همه ویندوزها ذخیره کنید. قبل از تلاش مجدد، یک واردات موجود را لغو کنید.</string>
+    <string name="native_029bfa8ff772" formatted="false">بازیابی ایستگاه کاری و تأیید برنامه‌ها</string>
+    <string name="native_e4f04df818f8" formatted="false">در حال پردازش عملیات پشتیبان گیری انتخابی شما</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCode، پایانه ها و دسکتاپ را متوقف کنید، سپس منتظر بمانید تا عملیات فایل به پایان برسد.\n[0090]] نمی‌توان کار پشتیبان‌گیری را شروع کرد. با برنامه در پیش زمینه دوباره امتحان کنید.\n[0091]] رمزگشایی و تأیید نسخه پشتیبان. محیط اصلی قابل بازیابی باقی می ماند…</string>
+    <string name="native_1a5cde18c609" formatted="false">نمی توان کار پشتیبان را شروع کرد. با برنامه در پیش زمینه دوباره امتحان کنید.</string>
+    <string name="native_1553b714941d" formatted="false">رمزگشایی و تأیید نسخه پشتیبان. محیط اصلی قابل بازیابی باقی می ماند…</string>
+    <string name="native_dafd005e953e" formatted="false">پشتیبان‌گیری تأیید شد. بازیابی را در برنامه تأیید کنید.\n[0093]] کپی محلی رمزگذاری شده داخل برنامه حذف شد.</string>
+    <string name="native_9fb236184596" formatted="false">کپی محلی رمزگذاری شده داخل برنامه حذف شد.</string>
+    <string name="native_f98e9ac348b6" formatted="false">عملیات لغو شد. داده های محیط اصلی حفظ شد.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">عملیات ناقص است. رمز عبور، یکپارچگی نسخه پشتیبان، نسخه میزبان و فضای خالی را بررسی کنید. داده های محیط اصلی حفظ شد.</string>
+    <string name="native_29deabd28960" formatted="false">ایجاد پشتیبان ایستگاه کاری رمزگذاری شده…</string>
+    <string name="native_3d137e243806" formatted="false">پشتیبان رمزگذاری شده ایجاد شد. محل ذخیره آن را انتخاب کنید.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">بازیابی محیط و بررسی خدمات محلی. داده های برنامه را دست نخورده نگه دارید…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">ایستگاه کاری بازیابی شد. محیط قبلی در یک نسخه پشتیبان خصوصی باقی می ماند. فضای کار را دوباره باز کنید.</string>
+    <string name="native_0392cd6152d2" formatted="false">بازیابی چک انجام نشد. بازگشت به محیط قبلی؛ داده های وارد شده در یک نسخه پشتیبان خصوصی باقی می ماند.</string>
+    <string name="native_5dc7410b600e" formatted="false">بازسازی کامل نیست. همه فهرست های داده ها حفظ می شوند. داده های برنامه را نگه دارید و بازیابی را دوباره امتحان کنید.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">بازیابی محیط ایستگاه کاری قبلی…</string>
+    <string name="native_15821323ff89" formatted="false">محیط قبلی بازیابی شد. کارهای جدیدتر در یک نسخه پشتیبان خصوصی باقی می ماند. فضای کار را دوباره باز کنید.</string>
+    <string name="native_56dd94f47870" formatted="false">این بازیابی قابل واگرد نیست. محیط فعلی و نسخه‌های پشتیبان حفظ می‌شوند.</string>
+    <string name="native_93530f3fa029" formatted="false">واگرد ناقص است. همه فهرست های داده ها حفظ می شوند. داده های برنامه را نگه دارید و بازیابی را دوباره امتحان کنید.</string>
+    <string name="native_f12963c80def" formatted="false">ذخیره پشتیبان رمزگذاری شده…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">نسخه پشتیبان رمزگذاری شده ذخیره شد. می توانید کپی محلی را دوباره ذخیره کنید یا آن را به صورت دستی حذف کنید.</string>
+    <string name="native_d660cccf65e0" formatted="false">پاک کردن یک واردات تایید نشده…</string>
+    <string name="native_800592163979" formatted="false">واردات لغو شد. محیط اصلی بدون تغییر</string>
+    <string name="native_5a90367eb834" formatted="false">واردات لغو شد. محیط اصلی بدون تغییر؛ برخی از داده های واردات موقت در فهرست خصوصی برنامه باقی می ماند.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">در حال آماده سازی رمزگشایی و تأیید…</string>
+    <string name="native_e9f2bea3118c" formatted="false">در حال آماده سازی نسخه پشتیبان رمزگذاری شده…</string>
+    <string name="native_7bd5a0c93818" formatted="false">نمی‌توان سرویس پشتیبان‌گیری را شروع کرد. در پیش زمینه دوباره تلاش کنید.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">ابتدا عملیات ناقص محیط را بازیابی کنید</string>
+    <string name="native_f14aea7c819c" formatted="false">سابقه بازیابی نامعتبر است</string>
+    <string name="native_7c284c55ee08" formatted="false">فهرست راهنمای بازیابی وجود ندارد</string>
+    <string name="native_bfc4792df15b" formatted="false">تنظیمات بومی بیش از حد رکورد بازیابی است</string>
+    <string name="native_8d93770ba8c9">فهرست راهنمای محیط قبلی موجود نیست: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">مرحله بهبودی نامشخص</string>
+    <string name="native_20c5124fe175" formatted="false">عملیات بازیابی ناشناخته</string>
+    <string name="native_1c457322b624" formatted="false">هیچ محیط قبلی برای بازیابی در دسترس نیست</string>
+    <string name="native_30db1666c8e5" formatted="false">این نسخه پشتیبان به برنامه دیگری تعلق دارد</string>
+    <string name="native_6687d1c64d75" formatted="false">معماری پردازنده پشتیبان مطابقت ندارد</string>
+    <string name="native_b9b37d57fe6b" formatted="false">ابتدا میزبان Android را به نسخه استفاده شده توسط این پشتیبان به روز کنید</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">دایرکتوری پشتیبان ناقص است</string>
+    <string name="native_66106ab3e254" formatted="false">نسخه پشتیبان قدیمی هیچ سند ناشر OpenCode قابل تأییدی ندارد. قبل از پشتیبان گیری مجدد، محیط اصلی را با این هاست شروع کنید.\n[0127] اقدامات سیستم محیطی توسعه</string>
+    <string name="native_bec13cc92982" formatted="false">اقدامات سیستم محیطی توسعه</string>
+    <string name="native_65de80229626" formatted="false">Debian یک اقدام سیستمی را درخواست کرد</string>
+    <string name="native_5e38581cf19c" formatted="false">برای بررسی و رسیدگی به درخواست ضربه بزنید</string>
+    <string name="native_749d406d2c67" formatted="false">از محیط توسعه Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">مرورگر سیستم باز شود؟</string>
+    <string name="native_ce9491abbc6c" formatted="false">پیش نمایش پروژه محلی باز شود؟</string>
+    <string name="native_53ce0dec7ef3" formatted="false">کلیپ بورد را بخوانید؟</string>
+    <string name="native_8dfca23f0aa0" formatted="false">در کلیپ بورد سیستم کپی شود؟</string>
+    <string name="native_77f761eb70aa" formatted="false">اعلان محلی ارسال شود؟</string>
+    <string name="native_e6b29e80abb7" formatted="false">فایل پروژه را به اشتراک بگذارید؟</string>
+    <string name="native_9d36f698b3c1" formatted="false">فایل‌های سیستم را وارد کنید؟</string>
+    <string name="native_8f05ff8c2dea" formatted="false">فایل پروژه صادر شود؟</string>
+    <string name="native_7ac295421c6d" formatted="false">در مرورگر باز کنید</string>
+    <string name="native_bbdb6043b5e9" formatted="false">پیش‌نمایش را باز کنید</string>
+    <string name="native_14792d6cd7a6" formatted="false">اجازه خواندن</string>
+    <string name="native_b4caf8b99ddd" formatted="false">کپی در کلیپ بورد</string>
+    <string name="native_4b3361a8c3a3" formatted="false">ارسال اعلان</string>
+    <string name="native_88152a09fa02" formatted="false">یک برنامه اشتراک‌گذاری را انتخاب کنید</string>
+    <string name="native_7a49a79c57f9" formatted="false">فایل‌ها را انتخاب کنید</string>
+    <string name="native_99d9f87419c5" formatted="false">محل ذخیره را انتخاب کنید</string>
+    <string name="native_23e5bb2090aa">%1$s\nبا داده های مرورگر جدا شده از OpenCode باز می شود.</string>
+    <string name="native_ecf17eaad49e" formatted="false">متنی را از کلیپ بورد سیستم به برنامه فعلی Debian بدهید.\nحالت مرورگر</string>
+    <string name="native_dcc6bec24e43">فایل‌هایی را برای وارد کردن به %1$s انتخاب کنید. فایل های موجود نگهداری می شوند و موارد تکراری تغییر نام می دهند.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium\nحالت سازگاری</string>
+    <string name="native_4767f37900f6" formatted="false">از یک نمایه مرورگر مجزا استفاده می کند و جعبه ایمنی فرآیند Chromium Linux را غیرفعال می کند. مرورگر همچنان می‌تواند به فایل‌های داخل این برنامه دسترسی داشته باشد. از وب سایت های غیرقابل اعتماد خودداری کنید و از مرورگر سیستم Android برای حساب های مهم استفاده کنید. پس از تغییر حالت، Chromium را دوباره باز کنید.</string>
+    <string name="native_a4317f2699a2" formatted="false">استاندارد Linux sandboxing به طور پیش فرض فعال است. اگر Chromium نمی تواند راه اندازی شود، می توانید حالت سازگاری را انتخاب کنید. این سندباکس فرآیند Linux را غیرفعال می‌کند و از یک نمایه جداگانه استفاده می‌کند، در حالی که دسترسی به فایل‌های برنامه را حفظ می‌کند. اجتناب از وب سایت های غیر قابل اعتماد؛ از مرورگر سیستم Android برای حساب های مهم استفاده کنید.</string>
+    <string name="native_3a2596fa9517" formatted="false">حالت استاندارد را بازیابی کنید</string>
+    <string name="native_eeb5e46d62ae" formatted="false">حالت سازگاری را فعال کنید</string>
+    <string name="native_9a45442649f5" formatted="false">Debian رومیزی</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · /workspace مشترک\nآینه رسمی</string>
+    <string name="native_fb7f60a63fac" formatted="false">اولین نصب مؤلفه های گرافیکی را دانلود می کند. پس از نصب، دسکتاپ می تواند مستقل از OpenCode شروع و متوقف شود.\n[[0158] آینه USTC</string>
+    <string name="native_d8eb56c08cd5" formatted="false">آینه USTC</string>
+    <string name="native_41e865941e16" formatted="false">Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">وضوح اولیه</string>
+    <string name="native_ff1cde9ba35d" formatted="false">وقتی صفحات را تغییر می‌دهید، دسکتاپ به کار خود ادامه می‌دهد. آن را از Runtime متوقف کنید.</string>
+    <string name="native_aadf816e2dc8" formatted="false">کار دسکتاپ را متوقف کنید</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">دسکتاپ را شروع کنید</string>
+    <string name="native_ea27a25e5114" formatted="false">اجزای دسکتاپ را نصب کنید</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: حالت سازگاری</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: حالت استاندارد</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">ابتدا ابزارهای توسعه دهنده Debian را از Runtime نصب کنید.\n[[0168] گزارش فعالیت</string>
+    <string name="native_d1fa7ef127a7" formatted="false">گزارش فعالیت</string>
+    <string name="native_bfaa904aa4d4" formatted="false">پوشه پروژه باز نشد. بررسی کنید که دایرکتوری وجود دارد.</string>
+    <string name="native_83c76743b29d" formatted="false">بازیابی عملیات محیطی قطع شده</string>
+    <string name="native_739a730ae247" formatted="false">نگهداری از محیط زیست</string>
+    <string name="native_049281329843" formatted="false">منتظر بمانید تا نگهداری به‌روزرسانی یا کار فعلی تمام شود.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">منتظر بمانید تا کار محیط توسعه فعلی به پایان برسد</string>
+    <string name="native_83099168971c" formatted="false">نصب دسکتاپ</string>
+    <string name="native_85e0c18dde8d" formatted="false">شروع دسکتاپ</string>
+    <string name="native_9a48f8196d8f" formatted="false">نیاز به توجه دارد</string>
+    <string name="native_75470fb13121" formatted="false">متوقف شد</string>
+    <string name="native_51a53c8109d5" formatted="false">نمی‌توان سابقه فعالیت را خواند یا ذخیره کرد. آن را از Runtime تعمیر کنید یا مقداری فضای ذخیره سازی آزاد کنید.</string>
+    <string name="native_d36a018cc619" formatted="false">ابتدا محیط توسعه Debian را نصب کنید</string>
+    <string name="native_80be4c2928a5" formatted="false">ابتدا به یک شبکه متصل شوید</string>
+    <string name="native_a065d81014b1" formatted="false">نصب روی دسکتاپ ناقص است. نصب مجدد را امتحان کنید.</string>
+    <string name="native_721c38b32c35" formatted="false">دسکتاپ نصب شده است. در صورت نیاز آن را شروع کنید.</string>
+    <string name="native_6c1c52771115" formatted="false">ابتدا اجزای دسکتاپ را نصب کنید</string>
+    <string name="native_693d90a47827" formatted="false">عملیات دسکتاپ ناموفق بود. جزئیات خیلی طولانی هستند یا در دسترس نیستند.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">ذخیره نشانگر توقف پایان یافت. پاکسازی فرآیند ادامه یافت.</string>
+    <string name="native_06083621a6ce" formatted="false">ذخیره سابقه فعالیت تمام نشد. راه اندازی بعدی این را به عنوان یک وقفه در نظر می گیرد.</string>
+    <string name="native_04d721a3819a" formatted="false">رومیزی در حال اجرا</string>
+    <string name="native_c3f0acaf7a73" formatted="false">زمان عملیات دسکتاپ تمام شد. گزارش را مرور کنید و دوباره امتحان کنید.</string>
+    <string name="native_e70d328a3ca9">فرآیند دسکتاپ خارج شد (%1$s). گزارش فعالیت را مرور کنید.</string>
+    <string name="native_df5c878f2852" formatted="false">فضای کاری گرافیکی محلی</string>
+    <string name="native_7b0455a8daa4" formatted="false">دسکتاپ را متوقف کنید</string>
+    <string name="native_a62123cde9c7" formatted="false">وظایف و بازیابی قطع شده است</string>
+    <string name="native_279308947a14" formatted="false">نمی تواند سابقه فعالیت را بخواند. Repair یک کپی از رکورد آسیب دیده را نگه می دارد و پروژه ها، جلسات و محیط Linux را حفظ می کند.</string>
+    <string name="native_2bd92fae24e5" formatted="false">سابقه فعالیت تعمیر</string>
+    <string name="native_6b43650c2c82" formatted="false">کار به طور غیرمنتظره ای به پایان رسید.</string>
+    <string name="native_acb0c970aaa6">پایانه‌های %1$s به طور معمول بسته نشدند. دستورات در حال اجرا آنها قطع شد.</string>
+    <string name="native_4ba153d8dff5" formatted="false">راه‌اندازی مجدد تأیید شد. دستورات قبلی دوباره پخش نشد.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">پروژه ها و جلسات ذخیره شده حفظ می شوند. باز کردن مجدد پایانه ها به صورت دستی؛ دستورات ناتمام به طور خودکار از سر نمی گیرند.</string>
+    <string name="native_fa9669296762" formatted="false">OpenCode را مجدداً راه اندازی کنید</string>
+    <string name="native_bd8130bec5d9" formatted="false">دسکتاپ به طور خودکار راه اندازی مجدد نمی شود. آن را دوباره از صفحه دسکتاپ شروع کنید.</string>
+    <string name="native_644f8f44251f" formatted="false">فایل را باز کنید</string>
+    <string name="native_9dfb5569d609" formatted="false">فایل را به اشتراک بگذارید</string>
+    <string name="native_a4500cff3a86" formatted="false">دایرکتوری کاری نباید یک پیوند نمادین باشد</string>
+    <string name="native_8657d27661bd" formatted="false">مسیر فهرست کاری نامعتبر است</string>
+    <string name="native_02b702a9adff" formatted="false">یک فایل را انتخاب کنید</string>
+    <string name="native_924874b746cc" formatted="false">پیوندهای نمادین را در ترمینال مدیریت کنید</string>
+    <string name="native_efea6e422a54" formatted="false">نام فایل نامعتبر است\n[[0208] دایرکتوری وجود ندارد</string>
+    <string name="native_c4989dc37aab" formatted="false">دایرکتوری وجود ندارد</string>
+    <string name="native_d613dba39b44" formatted="false">فهرست مقصد وجود ندارد</string>
+    <string name="native_4f9b3fb4920b" formatted="false">نمی‌توان یک پوشه را در داخل خود یا فرزندان آن قرار داد</string>
+    <string name="native_c3acd5a3254c" formatted="false">پروژه شامل دستگاه‌ها یا سوکت‌های خاصی است و قابل کپی نیست</string>
+    <string name="native_6c36955b068b" formatted="false">یک فایل معمولی را انتخاب کنید</string>
+    <string name="native_49191d7d489f" formatted="false">این فایل از 2 MB بیشتر است. آن را با OpenCode یا ترمینال ویرایش کنید.</string>
+    <string name="native_ee42414d36c2" formatted="false">فایل خیلی بزرگ است</string>
+    <string name="native_f0a979f87157" formatted="false">فایل های باینری را صادر کنید تا در برنامه دیگری باز شوند</string>
+    <string name="native_88a9c82651fc" formatted="false">فایل هایی را که UTF-8 نیستند با OpenCode یا ترمینال ویرایش کنید</string>
+    <string name="native_0189a5c3418c" formatted="false">ابزار دیگری این فایل را تغییر داد. قبل از ویرایش دوباره آن را باز کنید.</string>
+    <string name="native_0ce79256f4ac" formatted="false">فهرست اصلی دیگر وجود ندارد. ابتدا آن را بازیابی کنید.</string>
+    <string name="native_46eae321049e" formatted="false">هیچ برنامه اشتراک‌گذاری در دسترس نیست\n[[0220] سطل زباله</string>
+    <string name="native_87d699d3a26c" formatted="false">سطل زباله</string>
+    <string name="native_d0a8c03d6c07" formatted="false">فایل های پروژه</string>
+    <string name="native_4dcf914f0b64" formatted="false">فایل های حذف شده را می توان به فهرست های اصلی خود بازگرداند</string>
+    <string name="native_c5b81b02354f" formatted="false">برگشت</string>
+    <string name="native_e56b99379169">%1$s فایل کپی شد · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">در حال کپی کردن…</string>
+    <string name="native_85199bb36b04" formatted="false">عملیات را لغو کنید</string>
+    <string name="native_e9dc52d1c24b" formatted="false">بستن\n[[0228] جلسه جدید</string>
+    <string name="native_4e1e5aacac7f" formatted="false">جلسه جدید</string>
+    <string name="native_23c250cc8e0b" formatted="false">یک جلسه OpenCode را از اینجا شروع کنید</string>
+    <string name="native_f22da21fd54f" formatted="false">ترمینال</string>
+    <string name="native_3645f30b3412" formatted="false">تغییرات ذخیره نشده</string>
+    <string name="native_2266227605c4" formatted="false">ذخیره کنید\n[[0233] سطل زباله خالی است</string>
+    <string name="native_064fbc7ad3f3" formatted="false">سطل زباله خالی است</string>
+    <string name="native_a9e739b13e52" formatted="false">بازیابی</string>
+    <string name="native_45985dc2183e" formatted="false">حرکت:</string>
+    <string name="native_31214130b5b7" formatted="false">کپی:</string>
+    <string name="native_07e5c3158f35" formatted="false">چسباندن</string>
+    <string name="native_831b4e0fb574" formatted="false">جدید</string>
+    <string name="native_ff65a22d7087" formatted="false">پوشه جدید</string>
+    <string name="native_71faed44a86c" formatted="false">فایل جدید</string>
+    <string name="native_8dddd460f6ae" formatted="false">واردات</string>
+    <string name="native_d85825123e60" formatted="false">تازه کردن</string>
+    <string name="native_ac9d73843736" formatted="false">این فهرست را جستجو کنید</string>
+    <string name="native_21eef82963ee" formatted="false">این فهرست خالی است. فایل ها را وارد کنید یا یک پروژه ایجاد کنید.</string>
+    <string name="native_e8a4cecaa371" formatted="false">فایل منطبقی وجود ندارد</string>
+    <string name="native_d674bc0f86b8" formatted="false">اقدامات فایل</string>
+    <string name="native_d04a47c87cc8" formatted="false">پیوند نمادین</string>
+    <string name="native_e0ba66f5246a" formatted="false">پوشه</string>
+    <string name="native_f170b42599e8" formatted="false">تغییر نام</string>
+    <string name="native_4cdacf57ead2" formatted="false">کپی</string>
+    <string name="native_124aa030694e" formatted="false">انتقال به…</string>
+    <string name="native_ac990518ed87" formatted="false">ترمینال را اینجا باز کنید</string>
+    <string name="native_87bc93932d8a" formatted="false">صادرات به فایل های سیستم</string>
+    <string name="native_dd37f132172f" formatted="false">انتقال به سطل زباله</string>
+    <string name="native_7318746d337c" formatted="false">به سطل زباله منتقل شود؟</string>
+    <string name="native_2b5ee3f10a56">می‌توانید «%1$s» را از سطل زباله بازیابی کنید.</string>
+    <string name="native_e49730c9e7e1" formatted="false">حرکت کنید</string>
+    <string name="native_4e47aaa113fc" formatted="false">تغییرات ذخیره نشده کنار گذاشته شوند؟</string>
+    <string name="native_63b75399ef1a" formatted="false">تغییرات را کنار بگذارید</string>
+    <string name="native_d9618f7b8d25" formatted="false">ویرایش را ادامه دهید</string>
+    <string name="native_76ce6aef5479" formatted="false">نام</string>
+    <string name="native_35b0fc30b909" formatted="false">باشه</string>
+    <string name="native_11b319774788" formatted="false">محیط زیست بازسازی شد. فضای کار را دوباره باز کنید.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">ابتدا بازیابی عملیات قطع شده در Runtime را تمام کنید</string>
+    <string name="native_f29af06e7c99" formatted="false">تعمیر و نگهداری محیط در حال انجام است. بعداً دوباره امتحان کنید.</string>
+    <string name="native_3bd28258feb0" formatted="false">عملیات لغو شد</string>
+    <string name="native_c508721eb3cd" formatted="false">فایلی با این نام از قبل وجود دارد. نام دیگری انتخاب کنید</string>
+    <string name="native_1e8274fe468a" formatted="false">فایل دیگر وجود ندارد. دایرکتوری را تازه کنید.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">اجازه دسترسی به فایل رد شد</string>
+    <string name="native_cd808e4c321e" formatted="false">عملیات تکمیل نشد</string>
+    <string name="native_01cbe9be8b9f" formatted="false">عملیات ناقص است. فضای ذخیره‌سازی موجود را بررسی کنید یا فایل‌ها را دوباره انتخاب کنید.</string>
+    <string name="native_3f9983126fd7" formatted="false">وضعیت راه اندازی OpenCode را در Runtime بررسی کنید</string>
+    <string name="native_6ed9fe2281bb" formatted="false">ترمینال جدید باز نشد. تعداد جلسات را بررسی کنید.</string>
+    <string name="native_2160fde3813a" formatted="false">پیوندهای نمادین را در ترمینال مدیریت کنید. مدیر فایل پیوندها را دنبال نمی کند.</string>
+    <string name="native_7a844e9d4017" formatted="false">انتقال کامل شد</string>
+    <string name="native_573877894fcf" formatted="false">کپی تکمیل شد</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">به سطل زباله منتقل شد</string>
+    <string name="native_862330af933f" formatted="false">به فهرست اصلی بازیابی شد</string>
+    <string name="native_beda23c9d52b" formatted="false">نگهداری یا جایگزینی محیط رخ داده است. قبل از ویرایش، فضای کاری را دوباره باز کنید.</string>
+    <string name="native_678c6953bb2b" formatted="false">ذخیره شد</string>
+    <string name="native_8063159f2178" formatted="false">نمی‌توان فایل انتخابی را خواند</string>
+    <string name="native_4cdc2180d2ac">%1$s فایل وارد شد</string>
+    <string name="native_e98763643b93" formatted="false">نمی توان در مکان انتخابی نوشت</string>
+    <string name="native_5afd173be7fa" formatted="false">صادرات تکمیل شد</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">کد و جلسات</string>
+    <string name="native_8745ed51cadd" formatted="false">رومیزی</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">فضای کاری گرافیکی</string>
+    <string name="native_770d49c5f689" formatted="false">فایل‌ها</string>
+    <string name="native_6a9b6480b58f" formatted="false">زمان اجرا</string>
+    <string name="native_b561fe9204cc" formatted="false">خدمات و ابزارهای توسعه‌دهنده</string>
+    <string name="native_70850bdeeabd" formatted="false">منوی صفحه را ببندید</string>
+    <string name="native_b4549acb48e8" formatted="false">فضای کاری</string>
+    <string name="native_3d3551f4660f">تیرگی دکمه شناور %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">مقادیر کمتر، دکمه شناور را شفاف‌تر می‌کند</string>
+    <string name="native_e031beabfc9a" formatted="false">منوی صفحه را باز کنید</string>
+    <string name="native_106ee775b538" formatted="false">در حال اتصال به OpenCode محلی…</string>
+    <string name="native_a021adc1f449" formatted="false">اتصال محلی نیاز به بازیابی دارد</string>
+    <string name="native_dacb8837471c" formatted="false">دوباره وصل شوید</string>
+    <string name="native_17584aa60ae6" formatted="false">کش منبع محلی آماده نشد</string>
+    <string name="native_3b3b80064ccb" formatted="false">آماده سازی OpenCode محلی…</string>
+    <string name="native_2560ee8fdd16" formatted="false">دوباره امتحان کنید</string>
+    <string name="native_b07809340403" formatted="false">مکان فضای کاری هنوز ذخیره نشده است. بعداً دوباره امتحان کنید.</string>
+    <string name="native_e4ab10392d05" formatted="false">سرویس محلی در حال آماده شدن است. پس از اتصال، فضای کاری شما به طور خودکار باز می شود.</string>
+    <string name="native_20ea15973287" formatted="false">اجرای قبلی قطع شد. راه اندازی مجدد از Runtime. دستورات ترمینال به طور خودکار پخش نمی شوند.</string>
+    <string name="native_f2f2f6d32544" formatted="false">OpenCode را از Runtime شروع کنید تا کد و جلسات باز شود.</string>
+    <string name="native_abbac5c22111" formatted="false">از برنامه خارج شوید؟</string>
+    <string name="native_fd8eb11aab0a" formatted="false">محیط توسعه می‌تواند در پس‌زمینه به کار خود ادامه دهد. بعداً از اعلان برگردید.</string>
+    <string name="native_814a8fb24b62" formatted="false">از فضای کاری فعلی خارج شوید؟</string>
+    <string name="native_a76464945c2d" formatted="false">همچنین محیط توسعه را متوقف کنید</string>
+    <string name="native_b814fd8d6bc5" formatted="false">خروج</string>
+    <string name="native_b00143b08ff1" formatted="false">ایستگاه کاری توسعه آماده است</string>
+    <string name="native_51bca456a350" formatted="false">ایستگاه کاری توسعه Debian شما</string>
+    <string name="native_0c2acd0b6057" formatted="false">دویدن</string>
+    <string name="native_cb40c67e7cb1" formatted="false">شروع</string>
+    <string name="native_44da7f6a451d" formatted="false">توقف</string>
+    <string name="native_b7e1503a7239" formatted="false">محیط توسعه تعمیر</string>
+    <string name="native_7c91bd67ff14" formatted="false">محیط توسعه را نصب کنید</string>
+    <string name="native_cfd73bb04860" formatted="false">محیط توقف</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode را شروع کنید</string>
+    <string name="native_5d4600a269e9" formatted="false">محیط را بررسی کنید</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">ابزارهای توسعه دهنده Debian را به روز کنید</string>
+    <string name="native_c114ec62712b" formatted="false">پشتیبان‌گیری از محیط قبلی، پروژه‌ها و داده‌های جلسه حفظ می‌شوند.</string>
+    <string name="native_eb3114155716" formatted="false">سرورهای زبان را نصب یا به روز کنید</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) و Python (pylsp)، به صورت آنلاین از مخازن امضا شده Debian نصب شده اند. ابتدا OpenCode و دسکتاپ را متوقف کنید.</string>
+    <string name="native_2c7251cce661" formatted="false">برای جابجایی صفحات، روی دکمه شناور ضربه بزنید. برای تغییر مکان آن را بکشید.</string>
+    <string name="native_dcef145e6a9b" formatted="false">اطلاعات زمان اجرا پس از راه اندازی اینجا ظاهر می شود.</string>
+    <string name="native_a8243a4e0d22" formatted="false">زمان اجرا را باز کنید</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">نسخه APK همراه</string>
+    <string name="native_e6b986511faf" formatted="false">به‌روزرسانی‌های OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">یک .ocaupdate با امضای ناشر این برنامه وارد کنید. ظاهر رسمی و باطن آپدیت با هم.\nبه روز رسانی</string>
+    <string name="native_8aad48b0508d" formatted="false">منبع به‌روزرسانی (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">منبع به‌روزرسانی را بررسی کنید</string>
+    <string name="native_f73973cfadbb">انتشار امضا شده: %1$s\nتعهد: %2$s · %3$s مگابایت</string>
+    <string name="native_a9fe3a2301f5" formatted="false">دانلود و تأیید کنید</string>
+    <string name="native_f2ef7965bf12" formatted="false">بسته به‌روزرسانی را انتخاب کنید</string>
+    <string name="native_165111adfe2c">آماده نصب: %1$s\nتعهد: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">این به‌روزرسانی را نصب کنید</string>
+    <string name="native_f9432c4d9b1e" formatted="false">نسخه و جلسات را از قبل از به‌روزرسانی بازیابی کنید</string>
+    <string name="native_6864335de653" formatted="false">لغو به‌روزرسانی</string>
+    <string name="native_5e3472cf084e" formatted="false">به‌روزرسانی OpenCode نصب شود؟</string>
+    <string name="native_816bf3635d53" formatted="false">وضعیت قبل از به‌روزرسانی بازیابی شود؟</string>
+    <string name="native_11beb4a42abc">%1$s را نصب کنید. این برنامه یک عکس فوری از جلسه را ذخیره می کند، برنامه امضا شده را بررسی می کند و در صورت عدم موفقیت، نسخه قبلی را بازیابی می کند. فایل های پروژه حفظ می شوند.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">جلسات قبل از این به‌روزرسانی به حالت خود باز می‌گردند. جلسات اخیر بیشتر در یک نسخه پشتیبان خصوصی باقی می مانند. فایل های پروژه حفظ می شوند.</string>
+    <string name="native_def5e273616d" formatted="false">نصب را تأیید کنید</string>
+    <string name="native_369d2eefccde" formatted="false">نمی‌توان داده‌های پیش‌نمایش مرورگر را جدا کرد. پیش نمایش را دوباره باز کنید.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">صفحه پروژه بارگیری نشد. سرور توسعه را در ترمینال خود بررسی کنید.</string>
+    <string name="native_6e7408950cf5" formatted="false">پیش نمایش وب سایت پروژه</string>
+    <string name="native_bfb4951e071d" formatted="false">پیش نمایش پروژه</string>
+    <string name="native_f80652913d06" formatted="false">یک سرور توسعه را در ترمینال راه اندازی کنید، سپس پورت محلی آن را وارد کنید. پیش نمایش داده های مرورگر از OpenCode جدا شده است.</string>
+    <string name="native_2c41e85af61f" formatted="false">بندر</string>
+    <string name="native_77c3a828a5c5" formatted="false">یک پورت توسعه از 1024 تا 65535 را وارد کنید، به استثنای خدمات OpenCode و دسکتاپ.</string>
+    <string name="native_7311a9dfea51" formatted="false">هیچ چیزی در این پورت گوش نمی دهد. سرویس را در ترمینال خود بررسی کنید.</string>
+    <string name="native_4f8d84105475" formatted="false">در حال بررسی…</string>
+    <string name="native_4923c272b68e" formatted="false">پورت توسعه باید یک عدد صحیح باشد</string>
+    <string name="native_04a87026e81f" formatted="false">یک پورت توسعه پروژه معتبر را انتخاب کنید</string>
+    <string name="native_a8a305819e54" formatted="false">جلسه توسعه OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">نصب محیط توسعه</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">تعمیر محیط توسعه</string>
+    <string name="native_0ddf3d4297eb" formatted="false">بررسی محیط توسعه</string>
+    <string name="native_9612d4419bb6" formatted="false">نصب سرور زبان</string>
+    <string name="native_f72fba77f87a" formatted="false">بازیابی محیط زیست</string>
+    <string name="native_7c8162195c7c" formatted="false">نصب رومیزی</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">اجرای قبلی قطع شد. به صراحت از Runtime راه اندازی مجدد کنید.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">یک کار توسعه از این نوع هنوز در حال اجرا است</string>
+    <string name="native_95a56e0a3fe2" formatted="false">تعمیر سابقه فعالیت</string>
+    <string name="native_b66749ed72ea" formatted="false">فرآیند خارج شد</string>
+    <string name="native_6b25042064e2" formatted="false">با سیگنال خاتمه یافت</string>
+    <string name="native_d6febdf1752b" formatted="false">به دلیل حافظه کم بازیابی شد</string>
+    <string name="native_1d13790f3c89" formatted="false">خرابی برنامه</string>
+    <string name="native_28db94d1850d" formatted="false">خرابی فرآیند بومی</string>
+    <string name="native_86919539f7f1" formatted="false">برنامه پاسخ نمی‌دهد</string>
+    <string name="native_90fb8d6098a5" formatted="false">راه‌اندازی ناموفق بود</string>
+    <string name="native_38c60ab6654c" formatted="false">مجوزها تغییر کردند</string>
+    <string name="native_6d2a6c71334d" formatted="false">محدودیت منابع</string>
+    <string name="native_19b2090b01a8" formatted="false">کاربر توقف درخواست کرد</string>
+    <string name="native_120d96445f1a" formatted="false">توسط کاربر متوقف شد</string>
+    <string name="native_3c8af14f66bc" formatted="false">فرآیند وابسته خارج شد</string>
+    <string name="native_ca0941ce04ae" formatted="false">دلیل دیگر سیستم\n[[0380] انجماد فرآیند</string>
+    <string name="native_2df1ac3c1d38" formatted="false">انجماد فرآیند</string>
+    <string name="native_0d48373023a8" formatted="false">وضعیت برنامه تغییر کرد</string>
+    <string name="native_c752307db26b" formatted="false">به‌روزرسانی برنامه</string>
+    <string name="native_b5015951cbdf" formatted="false">سیستم دلیل خروج ارائه نکرده است</string>
+    <string name="native_b62737b826ad">خروج از سیستم (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">دایرکتوری پروژه باز نشد</string>
+    <string name="native_faf5d983c13e" formatted="false">جلسه OpenCode ایجاد نشد</string>
+    <string name="native_2152aab78ab8" formatted="false">دایرکتوری جلسه OpenCode مطابقت ندارد</string>
+    <string name="native_ac19736908a2" formatted="false">نمی‌توان جلسه OpenCode را خواند</string>
+    <string name="native_2642997cfeec" formatted="false">نگهداری محیط زیست</string>
+    <string name="native_f992d735d932" formatted="false">OpenCode، پایانه‌ها و دسکتاپ Debian را متوقف کنید، سپس منتظر بمانید تا عملیات فایل به پایان برسد.</string>
+    <string name="native_489f137f1080" formatted="false">قفل نگهداری محیط دیگر معتبر نیست</string>
+    <string name="native_42380e2567fc" formatted="false">عملیات قطع شده بازیابی شد. فضای کار را دوباره باز کنید.</string>
+    <string name="native_17b00cac2b91" formatted="false">بازیابی اتصال محلی انجام نشد. از Runtime دوباره امتحان کنید.</string>
+    <string name="native_77e9ca4e944c" formatted="false">تعمیر و نگهداری محیط در حال انجام است. بعداً دوباره امتحان کنید.</string>
+    <string name="native_dbaebe3ce243" formatted="false">دسکتاپ Debian را قبل از به‌روزرسانی محیط توسعه متوقف کنید</string>
+    <string name="native_548085b144c9" formatted="false">عملیات قطع شده بازیابی شد. شما می توانید محیط توسعه را شروع کنید.</string>
+    <string name="native_b4a1531f9eac" formatted="false">اجرای قبلی قطع شد. دستورات ترمینال به طور خودکار پخش نمی شوند. به صراحت از Runtime راه اندازی مجدد کنید.</string>
+    <string name="native_295cafdfd512" formatted="false">پاکسازی پیکربندی اتصال موقت ناقص است. پاکسازی فرآیند ادامه یافت.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">فضای کاری helloworld ایجاد نشد. دایرکتوری و فضای موجود را بررسی کنید.</string>
+    <string name="native_68301868225a" formatted="false">فهرست راهنمای فضای کاری قبلی در دسترس نیست. helloworld باز شد.</string>
+    <string name="native_b33b3ca277eb" formatted="false">پروژه پیش فرض هنوز آماده نیست. از Files دوباره امتحان کنید.</string>
+    <string name="native_45d6ab452622" formatted="false">سرورهای زبان را نصب کنید</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ و سرورهای زبان پایتون آماده هستند. OpenCode را برای استفاده از LSP راه اندازی کنید.</string>
+    <string name="native_5ea1653deef8" formatted="false">سابقه فعالیت ترمینال ذخیره نشد. پس از پایان فرآیند یک ترمینال جدید ایجاد کنید.</string>
+    <string name="native_1978b311a9ff" formatted="false">ذخیره رکورد خروج از ترمینال پایان یافت.</string>
+    <string name="native_66dee11c3194" formatted="false">بارگیری به‌روزرسانی OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">در حال اتصال به منبع به‌روزرسانی…</string>
+    <string name="native_8c39baf28e08" formatted="false">نمی توان به منبع به روز رسانی متصل شد. شبکه، امضای ناشر، نسخه میزبان و فضای رایگان را بررسی کنید.</string>
+    <string name="native_0bedbc8d185d" formatted="false">زمان دانلود تمام شد</string>
+    <string name="native_f75850093535">در حال بارگیری: %1$s / %2$s مگابایت</string>
+    <string name="native_30a778f1389a" formatted="false">تأیید امضای ناشر…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">در حال بارگیری بسته به‌روزرسانی…</string>
+    <string name="native_2f9cd52dc66a">امضای ناشر معتبر: %1$s. قبل از دانلود مرور کنید</string>
+    <string name="native_17548865632c" formatted="false">دانلود، انتشار فراداده و امضای بسته تأیید شد. نصب را تایید کنید.</string>
+    <string name="native_180cec958e7a" formatted="false">دانلود لغو شد. نسخه اصلی حفظ شد.</string>
+    <string name="native_8df045f8ac12" formatted="false">دانلود متوقف شد. نسخه اصلی حفظ شد.</string>
+    <string name="native_778803f1c6bb" formatted="false">لغو دانلود</string>
+    <string name="native_2958898ce6f4" formatted="false">نسخه جدید راه اندازی محلی، نسخه یا بررسی احراز هویت ناموفق بود. نسخه قبلی بازیابی خواهد شد.</string>
+    <string name="native_cc876dfbb261" formatted="false">روند آزمایشی هنوز در حال خروج است. قبل از تلاش مجدد منتظر بازیابی باشید.</string>
+    <string name="native_adf977dcb47e" formatted="false">شناسه رکورد به‌روزرسانی نامعتبر است</string>
+    <string name="native_5207cac670b7" formatted="false">اندازه OpenCode مستقل نصب شده مطابقت ندارد</string>
+    <string name="native_cf5b81887589" formatted="false">جمع کنترلی OpenCode مستقل نصب شده مطابقت ندارد. نسخه قبلی را بازیابی کنید.</string>
+    <string name="native_393049b506cc" formatted="false">برنامه اصلی هیچ مدرک ناشر مشابهی ندارد. وضعیت قبلی بدون تغییر</string>
+    <string name="native_c5853bcfd56c" formatted="false">ابتدا به‌روزرسانی قطع شده قبلی را بازیابی کنید</string>
+    <string name="native_91d8da5525fa" formatted="false">بسته به‌روزرسانی پس از تأیید تغییر کرد</string>
+    <string name="native_093f2c091a30" formatted="false">ذخیره سازی کافی نیست. نسخه اصلی بدون تغییر</string>
+    <string name="native_fc9bc82e0872" formatted="false">هیچ نسخه پشتیبان به‌روزرسانی برای بازیابی موجود نیست</string>
+    <string name="native_a9f4d9903c14" formatted="false">نسخه پشتیبان با نسخه در حال اجرا مطابقت ندارد</string>
+    <string name="native_6caa23763a42" formatted="false">تأیید برنامه قبلی ناموفق بود. جلسات فعلی بدون تغییر</string>
+    <string name="native_c8b71b876695" formatted="false">آپدیت بعدی APK یا Debian جایگزین برنامه همراه شد. نسخه پشتیبان جلسه اصلی حفظ می شود. ابتدا برنامه مربوطه را بازیابی کنید.</string>
+    <string name="native_c443df40964b" formatted="false">عملیات بازیابی به‌روزرسانی نامعتبر است</string>
+    <string name="native_9071f05d58b3" formatted="false">در حال آماده‌سازی به‌روزرسانی OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCode، پایانه‌ها و دسکتاپ را متوقف کنید، سپس منتظر بمانید تا آنها خارج شوند.</string>
+    <string name="native_90c07b54f8f8" formatted="false">ذخیره وضعیت، تأیید برنامه‌ها و تغییر نسخه‌ها</string>
+    <string name="native_5fc065ef6f50" formatted="false">نمی‌توان سرویس نگهداری به‌روزرسانی را شروع کرد.</string>
+    <string name="native_f7b560c8c820" formatted="false">تأیید و اجرای برنامه رسمی…</string>
+    <string name="native_9606191c82dc" formatted="false">حفظ برنامه اصلی و امضای ناشر…</string>
+    <string name="native_5c0d7787ee51" formatted="false">ذخیره عکس فوری وضعیت جلسه…</string>
+    <string name="native_0c8cf4632889" formatted="false">تغییر نسخه و تأیید سرویس محلی…</string>
+    <string name="native_3e81ea691a4a" formatted="false">بازیابی نسخه و جلسات قبل از به‌روزرسانی…</string>
+    <string name="native_856de41d3bf3" formatted="false">بازیابی OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">به روز رسانی OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">نسخه و جلسات قبلی را بازیابی کرد. جلسات اخیر بیشتر در یک نسخه پشتیبان خصوصی باقی می مانند.</string>
+    <string name="native_07367ff18068" formatted="false">به‌روزرسانی OpenCode تکمیل شد. راه اندازی از صفحه اصلی و باطن رسمی منطبق استفاده می کند.</string>
+    <string name="native_4693930f5802" formatted="false">به‌روزرسانی لغو شد. تأیید اینکه حالت اولیه بازیابی شده است.</string>
+    <string name="native_d0e37bc26edd" formatted="false">به روز رسانی ناقص است. در حال بهبودی؛ نسخه پشتیبان برنامه اصلی و جلسه حفظ می شود.</string>
+    <string name="native_9a32d6c2d207" formatted="false">بازیابی ناقص است. همه فهرست های ایالتی حفظ می شوند. داده های خود را نگه دارید و برای بازیابی راه اندازی مجدد را امتحان کنید.</string>
+    <string name="native_49ad3eeae83d" formatted="false">بازیابی جلسه تکمیل شد. وضعیت جدیدتر در یک نسخه پشتیبان باقی می ماند.</string>
+    <string name="native_67c08a2911e1" formatted="false">بازیابی نمی تواند با این نسخه پشتیبان یا برنامه اصلی ادامه یابد. جلسات و پشتیبان‌گیری‌های فعلی بدون تغییر هستند.</string>
+    <string name="native_976d8c169cfa" formatted="false">به‌روزرسانی لغو شد یا ناموفق بود. نسخه اصلی و جلسات بازیابی شد.</string>
+    <string name="native_7ac77d1513fc" formatted="false">تأیید امضای بسته به‌روزرسانی و یکپارچگی…</string>
+    <string name="native_0aa018b7337b" formatted="false">نمی‌توان فایل انتخابی را خواند</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">بسته به‌روزرسانی خیلی بزرگ است</string>
+    <string name="native_f068b83f40bf" formatted="false">امضا و بسته تأیید شده است. قبل از نصب نسخه را بررسی کنید.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">نمی‌توان وارد کرد: فایل نامعتبر، عدم تطابق امضا، نسخه میزبان ناسازگار یا فضای ذخیره‌سازی ناکافی.</string>
+    <string name="native_616412e65df4" formatted="false">برنامه رسمی با مدرک ناشر آن مطابقت ندارد</string>
+    <string name="native_4bf19a158f27" formatted="false">بسته‌های زمان اجرا مستقل فقط از ARM64 پشتیبانی می‌کنند</string>
+    <string name="native_63b1fc6fffc9" formatted="false">امضای به‌روزرسانی متعلق به این APK نیست</string>
+    <string name="native_c7273354727f" formatted="false">فایل به روز رسانی از اندازه اعلام شده خود بیشتر است</string>
+    <string name="native_2aa6c8e74abb" formatted="false">جمع کنترلی برنامه به روز رسانی مطابقت ندارد</string>
+    <string name="native_dd619076d456" formatted="false">اندازه بسته به‌روزرسانی نامعتبر است</string>
+    <string name="native_20c5bdfeffc0" formatted="false">اندازه بسته به‌روزرسانی فشرده مطابقت ندارد</string>
+    <string name="native_1de24edffcf5" formatted="false">بسته به‌روزرسانی حاوی ورودی‌های اضافی است</string>
+    <string name="native_c5b339aa77e8" formatted="false">مبدا یا معماری به‌روزرسانی ناسازگار</string>
+    <string name="native_89d585f3661f" formatted="false">قبل از نصب این به‌روزرسانی، برنامه Android را ارتقا دهید</string>
+    <string name="native_800df084dea0" formatted="false">جمع کنترلی بایگانی به‌روزرسانی مطابقت ندارد</string>
+    <string name="native_ddf1a005e310" formatted="false">این فرمت امضای APK از به‌روزرسانی‌های زمان اجرا مستقل پشتیبانی نمی‌کند</string>
+    <string name="native_172e063db474" formatted="false">ورودی بسته به‌روزرسانی نامعتبر است</string>
+    <string name="native_1c08780aa99f" formatted="false">ابرداده به‌روزرسانی باید از اعداد صحیح استفاده کند</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">برنامه به روز رسانی یک Linux ELF 64 بیتی نیست</string>
+    <string name="native_d51ff4ed57b4" formatted="false">برنامه به روز رسانی تراز ELF 16 KiB را برآورده نمی کند</string>
+    <string name="native_3afa3741911b" formatted="false">برنامه به روز رسانی فاقد لودر glibc Debian است</string>
+    <string name="native_6b0b9e864f5b" formatted="false">منبع به‌روزرسانی معتبر HTTPS را وارد کنید</string>
+    <string name="native_c274c7dd5900" formatted="false">منابع به‌روزرسانی به نشانی‌های وب HTTPS بدون اعتبار کاربری نیاز دارند</string>
+    <string name="native_f459f5ec9dac" formatted="false">فیلد منبع به‌روزرسانی نامعتبر است</string>
+    <string name="native_bde2a736e30a" formatted="false">ابتدا میزبان Android را ارتقا دهید</string>
+    <string name="native_b980fd021bef" formatted="false">فهرست به‌روزرسانی نامعتبر است</string>
+    <string name="native_c0e96727553e" formatted="false">فایل به‌روزرسانی نامعتبر است</string>
+    <string name="native_86ff542c68ed" formatted="false">نمی‌توان دایرکتوری‌های به‌روزرسانی را در این حالت تغییر داد</string>
+    <string name="native_fbf82dc7ef22" formatted="false">حالت جلسه به یک دایرکتوری خارجی اشاره دارد. به روز رسانی را نمی توان به طور ایمن آزمایش کرد.</string>
+    <string name="native_796dc6b7ca29" formatted="false">ذخیره سازی کافی نیست. حالت اولیه بدون تغییر</string>
+    <string name="native_099801d672b1" formatted="false">دانلود لغو شد</string>
+    <string name="native_f1304f707ec9" formatted="false">تغییر مسیرهای به روز رسانی بسیار زیاد</string>
+    <string name="native_0d07f458b607" formatted="false">سرور به روز رسانی بایت های اصلی را انتقال نداد</string>
+    <string name="native_de331dfd8908" formatted="false">طول فایل به‌روزرسانی مطابقت ندارد</string>
+    <string name="native_416b8c87e69e" formatted="false">فایل به روز رسانی به طور کامل دانلود نشد</string>
+    <string name="native_e1e74b76c427" formatted="false">سرور به روز رسانی فایل کامل را برنگرداند</string>
+    <string name="native_6afcf03cb130" formatted="false">فضای مرحله‌بندی به‌روزرسانی کافی نیست</string>
+    <string name="native_be1c695d9241" formatted="false">فایل به‌روزرسانی SHA-256 مطابقت ندارد</string>
+    <string name="native_a0133d117bb0" formatted="false">بسته به‌روزرسانی با اطلاعات انتشار تأیید شده مطابقت ندارد</string>
+    <string name="native_8635a43ce28a" formatted="false">فهرست راهنمای پروژه نامعتبر است</string>
+    <string name="native_d32ab8b004e6" formatted="false">مکان فضای کاری ذخیره نشد</string>
+    <string name="native_43a5447014fd" formatted="false">قبل از باز کردن ترمینال، محیط توسعه را از Runtime شروع کنید.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ ترمینال جدید</string>
+    <string name="native_b3b7108a568f" formatted="false">جریان را ببندید</string>
+    <string name="native_0e822affd5da">فهرست اولیه: %1$s</string>
+    <string name="native_72d769e3888d">فهرست ترمینال جدید: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">انتخابگر فایل سیستم در دسترس نیست</string>
+    <string name="native_179a57921f91" formatted="false">تنظیمات رندر WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">نرخ فریم رندر</string>
+    <string name="native_55b6d7f645f3" formatted="false">60 هرتز را ترجیح می دهند</string>
+    <string name="native_66f8bafa9f7f" formatted="false">نرخ تازه سازی صفحه نمایش را دنبال کنید</string>
+    <string name="native_d4ecf38c341d" formatted="false">60 هرتز را برای کاهش بار رندر در نمایشگرهای با نرخ تازه سازی بالا ترجیح دهید. دنبال کردن نمایشگر به سیستم اجازه می دهد تا فریم ها را برنامه ریزی کند. فقط برای پنجره این برنامه اعمال می شود.</string>
+    <string name="native_bf0d3a407418" formatted="false">نصب نشده است</string>
+    <string name="native_2fb8edc75b25" formatted="false">آماده است</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">تأیید لودر</string>
+    <string name="native_d1017c1eac80" formatted="false">در حال نصب Debian\nجلسه توسعه</string>
+    <string name="native_f863d955fa6e" formatted="false">محیط توسعه محلی</string>
+    <string name="native_55aa84065de2" formatted="false">محلی Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">توقف کنید</string>
+    <string name="native_5f73a4e1e494" formatted="false">نصب شده است</string>
+    <string name="native_147e90d2ec02" formatted="false">بهبودی</string>
+</resources>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">සංවර්ධන වැඩබිම</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">තනි පිටුව</string>
+    <string name="native_651ae6ea52ae" formatted="false">බෙදීම් දර්ශනය ප්‍රතිසාධනය කරන්න</string>
+    <string name="native_d7e97cfac66f" formatted="false">වැඩබිම් පිරිසැලසුම</string>
+    <string name="native_2a03e2ed30f9" formatted="false">පැනල් කිහිපයක් එකට බැලීමට කවුළුව පුළුල් කරන්න.</string>
+    <string name="native_e792dd4cfa78" formatted="false">ව්‍යාපෘති ගොනු පෙන්වන්න</string>
+    <string name="native_712d956931d1" formatted="false">පර්යන්තය පෙන්වන්න</string>
+    <string name="native_073cc20d9ed9" formatted="false">පර්යන්තය පහතින්\nදකුණු පසින්</string>
+    <string name="native_5de225480fa7" formatted="false">පර්යන්තය</string>
+    <string name="native_35cdb3eacdc6" formatted="false">ඉඩ සීමිත වූ විට පැනල් කඩා වැටෙන අතර පාවෙන මෙනුවෙන් ප්‍රවේශ විය හැකිය. පැති පර්යන්තය පුළුල් කවුළු වල දිස්වේ. පැනල ප්‍රතිප්‍රමාණ කිරීමට බෙදීම් අදින්න.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + වම් Alt: 1–5 පිටු · B ගොනු · T පර්යන්තය · M ඩෙස්ක්ටොප් · තනි/බෙදීම · \\\\ පිරිසැලසුම ඇතුළු කරන්න</string>
+    <string name="native_7a129a94c6ff" formatted="false">නිමයි</string>
+    <string name="native_bcec2218fc21" formatted="false">සමානුපාතය යළි පිහිටුවන්න</string>
+    <string name="native_da88c62d1217">තනි පිටුවක %1$s පෙන්වන්න</string>
+    <string name="native_1b4b3afbe52d" formatted="false">ව්‍යාපෘති ගොනු බෙදුම්කරු</string>
+    <string name="native_707c0891a0e6" formatted="false">පර්යන්ත බෙදුම්කරු</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode සහ desktop Divider</string>
+    <string name="native_50407ad8dfa8" formatted="false">පෙර පැනලය හැකිලීම</string>
+    <string name="native_b72c5c02a666" formatted="false">පෙර පැනලය විශාල කරන්න</string>
+    <string name="native_3f3685e8d731" formatted="false">මෙම සංරක්ෂිත ආකෘතිය සඳහා PRoot සබැඳි බොහෝය</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux දෘඪ සබැඳි සඳහා සම්පූර්ණ rootfs අවශ්ය වේ</string>
+    <string name="native_f336f1e17596" formatted="false">උපස්ථ නාමාවලි කැදැල්ල ඉතා ගැඹුරුය</string>
+    <string name="native_b6f744737a45" formatted="false">වලංගු නොවන උපස්ථ මුරපද දිග</string>
+    <string name="native_13bde5dd1812" formatted="false">උපස්ථ මුරපදයේ අවම වශයෙන් අක්ෂර 12ක් වත් අඩංගු විය යුතුය</string>
+    <string name="native_be02cbd55932" formatted="false">සහාය නොදක්වන උපස්ථ ආකෘතිය</string>
+    <string name="native_7a91a3d586ae" formatted="false">වලංගු නොවන උපස්ථ ශීර්ෂකය</string>
+    <string name="native_2bbd318a5667" formatted="false">සහාය නොදක්වන උපස්ථ සංකේතන පරාමිති</string>
+    <string name="native_18868da27841" formatted="false">වැරදි උපස්ථ මුරපදය හෝ හානි වූ ගොනුව</string>
+    <string name="native_e41d6440468d" formatted="false">ප්‍රතිසාධන වාර්තාව විශාල වැඩිය</string>
+    <string name="native_282692502f14" formatted="false">උපස්ථ පාරදත්ත විශාල වැඩිය</string>
+    <string name="native_61fdca8d6c82" formatted="false">උපස්ථ පාරදත්ත කැදැල්ල ඉතා ගැඹුරුය</string>
+    <string name="native_8cefb30732d4" formatted="false">වලංගු නොවන උපස්ථ පාර-දත්ත</string>
+    <string name="native_5d3037708cad" formatted="false">සහය නොදක්වන දේශීය සැකසුම්</string>
+    <string name="native_81a57c382f9d" formatted="false">ස්වදේශීය සැකසුම් සුරැකිය නොහැක</string>
+    <string name="native_50603e683d4a" formatted="false">උපස්ථ මාර්ගයේ වලංගු නොවන මාපිය නාමාවලිය</string>
+    <string name="native_c3f838a46b8e" formatted="false">වැඩපොළ මූල සංකේතාත්මක සබැඳියක් නොවිය යුතුය</string>
+    <string name="native_9ddd2d8280c8" formatted="false">උපස්ථ කිරීමේදී ගොනුවක් වෙනස් විය</string>
+    <string name="native_77e1e85147db" formatted="false">සහාය නොදක්වන වැඩපොළ දත්ත ආකෘතිය</string>
+    <string name="native_a927b5a565af" formatted="false">උපස්ථයේ අමතර දත්ත අඩංගු වේ</string>
+    <string name="native_c2b886d508f2" formatted="false">උපස්ථයේ අනුපිටපත් මාර්ග අඩංගු වේ</string>
+    <string name="native_3dab8cd60102" formatted="false">උපස්ථයේ සංක්‍රමණය කළ නොහැකි ධාවන කාල සැකසුම් අඩංගු වේ</string>
+    <string name="native_f45ba674a630" formatted="false">උපස්ථය ඉතා විශාල හෝ ගබඩාව ප්‍රමාණවත් නොවේ</string>
+    <string name="native_140073e8e77b" formatted="false">සංකේතාත්මක සබැඳි වේලා මුද්දර ප්‍රතිසාධනය කළ නොහැකි විය</string>
+    <string name="native_b0d411aaf62c" formatted="false">නම් කරන ලද නල වේලා මුද්‍රා ප්‍රතිසාධනය කළ නොහැකි විය</string>
+    <string name="native_0daee8026db1" formatted="false">වැඩපොළ උපස්ථ කිරීම සහ ප්‍රතිසාධනය කිරීම</string>
+    <string name="native_1acc18928c5f" formatted="false">Debian, සංවර්ධක මෙවලම්, ව්‍යාපෘති, නිවස, OpenCode සැසි සහ සැකසුම්, Linux බ්‍රවුසර දත්ත, සහ ස්වදේශීය පිරිසැලසුම් සැකසුම් ඇතුළත් වේ.</string>
+    <string name="native_62254d31a535" formatted="false">තාවකාලික ගොනු සහ පැරණි උපස්ථ බැහැර කර ඇත. Android WebView ආචයනය සහ නොයවන ලද කෙටුම්පත් මෙම උපාංගයේ පවතින අතර මෙම උපස්ථය සමඟ මාරු නොකෙරේ.</string>
+    <string name="native_808eabc7811f" formatted="false">සංකේතාත්මක උපස්ථයක් සාදන්න</string>
+    <string name="native_201c10b38296" formatted="false">ආයාත උපස්ථය</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">පළමුව ගොනු සංස්කාරකයේ ඔබගේ වෙනස්කම් සුරකින්න.</string>
+    <string name="native_0559cd596453" formatted="false">OpenCode, terminals සහ desktop නවත්වන්න</string>
+    <string name="native_fdf2be8e3b93" formatted="false">පරිසර මෙහෙයුමක් අසම්පූර්ණයි. මුලින්ම ඒක අයකරගන්න.</string>
+    <string name="native_185f58156330" formatted="false">අසම්පූර්ණ මෙහෙයුම ප්‍රතිසාධනය කරන්න</string>
+    <string name="native_20831b6f67a7" formatted="false">අවසාන පරිසර ප්‍රතිසාධනය අහෝසි කරන්න</string>
+    <string name="native_4f392d5d6141">සංකේතනය කළ දේශීය පිටපත: %1$s</string>
+    <string name="native_80077c694212" formatted="false">ගොනුවට සුරකින්න</string>
+    <string name="native_f09619351eb9" formatted="false">දේශීය පිටපත මකන්න</string>
+    <string name="native_85c686eb9841">%1$s සකසන ලදී</string>
+    <string name="native_28d567b926cc" formatted="false">උපස්ථ කාර්යය අවලංගු කරන්න</string>
+    <string name="native_66c9d896407b" formatted="false">වැඩපොළ උපස්ථය සංකේතනය කරන්න</string>
+    <string name="native_548cd9f0831e" formatted="false">උපස්ථය විකේතනය කර සත්‍යාපනය කරන්න</string>
+    <string name="native_d248f5eca9a5" formatted="false">උපස්ථවල SSH පුද්ගලික යතුරු, API යතුරු සහ ගිණුම් දත්ත අඩංගු විය හැක. අවම වශයෙන් අක්ෂර 12 ක් භාවිතා කරන්න. අමතක වූ මුරපදය නැවත ලබා ගත නොහැක.</string>
+    <string name="native_f249422b9ec1" formatted="false">උපස්ථය පුද්ගලික නාමාවලියක විකේතනය කර සත්‍යාපනය කර ඇත. ඔබේ පරිසරය ප්‍රතිස්ථාපනය වන්නේ ඔබ ප්‍රතිසාධනය තහවුරු කිරීමෙන් පසුව පමණි.</string>
+    <string name="native_e7be6841703a" formatted="false">උපස්ථ මුරපදය</string>
+    <string name="native_9f6aeedc5a00" formatted="false">මුරපදය නැවත කරන්න</string>
+    <string name="native_eafdc5cd4882" formatted="false">සංකේතනය ආරම්භ කරන්න</string>
+    <string name="native_2986b88beade" formatted="false">විකේතනය කර සත්‍යාපනය කරන්න</string>
+    <string name="native_0eddf4ad9b94" formatted="false">අවලංගු කරන්න</string>
+    <string name="native_f46c5ed7412d" formatted="false">සම්පූර්ණ පෙර පරිසරය ප්‍රතිසාධනය කරන්නද?</string>
+    <string name="native_33eda0946a5b" formatted="false">සංකේතනය කළ දේශීය පිටපත මකන්නද?</string>
+    <string name="native_26db24150f2e" formatted="false">ව්‍යාපෘති, නිවස, Debian සහ සැසි අවසන් ප්‍රතිසාධනයට පෙර ඔවුන්ගේ තත්ත්වයට ආපසු පැමිණේ. වඩාත් මෑතකාලීන වැඩ යෙදුම තුළ පුද්ගලික උපස්ථයක පවතිනු ඇත.</string>
+    <string name="native_1153b30d51d5" formatted="false">යෙදුම තුළ ඇති සංකේතාත්මක දේශීය පිටපත පමණක් මකනු ලැබේ. වෙනත් තැනක සුරකින ලද ගොනු තිබේ.</string>
+    <string name="native_427a78a4e69a" formatted="false">තහවුරු කරන්න</string>
+    <string name="native_7af46d7ee003" formatted="false">මෙම වැඩපොළ උපස්ථය ප්‍රතිසාධනය කරන්නද?</string>
+    <string name="native_ed40940162d0">%1$s\nඇතුළත් කිරීම් %2$s · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">උපස්ථයේ ක්‍රියාත්මක කළ හැකි Linux මෘදුකාංග අඩංගු වේ. ඔබ එහි මූලාශ්‍රය විශ්වාස කරන බව තහවුරු කරන්න. ප්‍රතිසංස්කරණය සමස්ත පරිසරයම ප්‍රතිස්ථාපනය කරන අතර දේශීය සේවාවන් පරීක්ෂා කරයි; පෙර පරිසරය යථා තත්ත්වයට පත් කිරීම සඳහා තබා ඇත.</string>
+    <string name="native_c3d74ed0c054" formatted="false">උපස්ථය සත්‍යාපනය කරන ලදී. ප්‍රතිසාධනය තහවුරු කිරීම සඳහා රැඳී සිටිමින්.</string>
+    <string name="native_97076078c749" formatted="false">Chromium අනුකූලතා මාදිලිය ද සක්‍රීය කරන්න (Linux ක්‍රියාවලි වැලිපිල්ල අක්‍රීය කරයි)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">පෙරනිමියෙන් අක්‍රියයි. ඔබට එය පසුව ඩෙස්ක්ටොප් සැකසුම් තුළ සබල කළ හැක.</string>
+    <string name="native_ddf09383413c" formatted="false">ප්‍රතිසාධනය තහවුරු කරන්න</string>
+    <string name="native_8e6056b0f629" formatted="false">ආනයනය අවලංගු කරන්න</string>
+    <string name="native_63a895901c76" formatted="false">වැඩපොළ පරිසරය වෙනස් විය</string>
+    <string name="native_a4c994348a39" formatted="false">වැඩබිම නැවත විවෘත කරන්න</string>
+    <string name="native_774947f0653e" formatted="false">කාර්යය අවලංගු කරන්න</string>
+    <string name="native_e09a22b18445" formatted="false">කාර්යයට බාධා විය. නැවත මෙහෙයුමක් තෝරා මුරපදය ඇතුළත් කරන්න.</string>
+    <string name="native_38c5fcc634db" formatted="false">පළමුව සියලුම කවුළු වල ගොනු සංස්කරණ සුරකින්න. නැවත උත්සාහ කිරීමට පෙර පවතින ආයාත කිරීමක් අවලංගු කරන්න.</string>
+    <string name="native_029bfa8ff772" formatted="false">වැඩපොළ ප්‍රතිස්ථාපනය කිරීම සහ වැඩසටහන් සත්‍යාපනය කිරීම</string>
+    <string name="native_e4f04df818f8" formatted="false">ඔබගේ තෝරාගත් උපස්ථ මෙහෙයුම සැකසීම</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCode, terminals සහ desktop නවත්වන්න, පසුව ගොනු මෙහෙයුම් අවසන් වන තෙක් රැඳී සිටින්න.</string>
+    <string name="native_1a5cde18c609" formatted="false">උපස්ථ කාර්යය ආරම්භ කළ නොහැක. පෙරබිමෙහි ඇති යෙදුම සමඟ නැවත උත්සාහ කරන්න.</string>
+    <string name="native_1553b714941d" formatted="false">උපස්ථය විකේතනය කිරීම සහ සත්‍යාපනය කිරීම. මුල් පරිසරය නැවත ලබා ගත හැක...</string>
+    <string name="native_dafd005e953e" formatted="false">උපස්ථය සත්‍යාපනය කරන ලදී. යෙදුම තුළ ප්‍රතිසාධනය තහවුරු කරන්න.</string>
+    <string name="native_9fb236184596" formatted="false">යෙදුම තුළ සංකේතාත්මක දේශීය පිටපත මකා දමන ලදී.</string>
+    <string name="native_f98e9ac348b6" formatted="false">මෙහෙයුම අවලංගු කරන ලදී. මුල් පරිසර දත්ත රඳවා ඇත.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">මෙහෙයුම අසම්පූර්ණයි. මුරපදය, උපස්ථ අඛණ්ඩතාව, සත්කාරක අනුවාදය සහ නිදහස් ඉඩ පරීක්ෂා කරන්න. මුල් පරිසර දත්ත රඳවා ඇත.</string>
+    <string name="native_29deabd28960" formatted="false">සංකේතාත්මක වැඩපොළ උපස්ථයක් නිර්මාණය කරමින්...</string>
+    <string name="native_3d137e243806" formatted="false">සංකේතනය කළ උපස්ථය සාදන ලදී. එය සුරැකිය යුතු ස්ථානය තෝරන්න.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">පරිසරය යථා තත්ත්වයට පත් කිරීම සහ දේශීය සේවා පරීක්ෂා කිරීම. යෙදුම් දත්ත නොවෙනස්ව තබා ගන්න...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">වැඩපොළ ප්‍රතිසාධනය කරන ලදී. පෙර පරිසරය පුද්ගලික උපස්ථයක පවතී. වැඩබිම නැවත විවෘත කරන්න.</string>
+    <string name="native_0392cd6152d2" formatted="false">ප්‍රතිසාධන චෙක්පත් අසාර්ථක විය. පෙර පරිසරයට ආපසු; ආනයනය කරන ලද දත්ත පුද්ගලික උපස්ථයක පවතී.</string>
+    <string name="native_5dc7410b600e" formatted="false">ප්‍රතිසාධනය අසම්පූර්ණයි. සියලුම දත්ත නාමාවලි රඳවා ඇත. යෙදුම් දත්ත තබාගෙන ප්‍රතිසාධනය නැවත උත්සාහ කරන්න.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">පෙර වැඩපොළ පරිසරය ප්‍රතිසාධනය කරමින්...</string>
+    <string name="native_15821323ff89" formatted="false">පෙර පරිසරය ප්‍රතිසාධනය කරන ලදී. වඩාත් මෑත වැඩ පුද්ගලික උපස්ථයක පවතී. වැඩබිම නැවත විවෘත කරන්න.</string>
+    <string name="native_56dd94f47870" formatted="false">මෙම ප්‍රතිසාධනය පසුගමනය කළ නොහැක. වත්මන් පරිසරය සහ උපස්ථ රඳවා ඇත.</string>
+    <string name="native_93530f3fa029" formatted="false">අහෝසි කිරීම අසම්පූර්ණයි. සියලුම දත්ත නාමාවලි රඳවා ඇත. යෙදුම් දත්ත තබාගෙන ප්‍රතිසාධනය නැවත උත්සාහ කරන්න.</string>
+    <string name="native_f12963c80def" formatted="false">සංකේතනය කළ උපස්ථය සුරකිමින්...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">සංකේතනය කළ උපස්ථය සුරකින ලදී. ඔබට දේශීය පිටපත නැවත සුරැකීමට හෝ එය අතින් මකා දැමිය හැක.</string>
+    <string name="native_d660cccf65e0" formatted="false">තහවුරු නොකළ ආනයනයක් පිරිසිදු කරමින්...</string>
+    <string name="native_800592163979" formatted="false">ආයාත කිරීම අවලංගු කරන ලදී. මුල් පරිසරය වෙනස් නොවේ.</string>
+    <string name="native_5a90367eb834" formatted="false">ආයාත කිරීම අවලංගු කරන ලදී. මුල් පරිසරය වෙනස් නොවේ; සමහර තාවකාලික ආනයන දත්ත යෙදුමේ පුද්ගලික නාමාවලියෙහි පවතී.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">විකේතනය සහ සත්‍යාපනය සූදානම් කරමින්...</string>
+    <string name="native_e9f2bea3118c" formatted="false">සංකේතනය කළ උපස්ථය සූදානම් කරමින්...</string>
+    <string name="native_7bd5a0c93818" formatted="false">උපස්ථ සේවාව ආරම්භ කළ නොහැක. පෙරබිමෙහි නැවත උත්සාහ කරන්න.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">අසම්පූර්ණ පරිසර මෙහෙයුම පළමුව ප්‍රතිසාධනය කරන්න</string>
+    <string name="native_f14aea7c819c" formatted="false">වලංගු නොවන ප්‍රතිසාධන වාර්තාවක්</string>
+    <string name="native_7c284c55ee08" formatted="false">ප්‍රතිසාධන නාමාවලිය අස්ථානගත වී ඇත</string>
+    <string name="native_bfc4792df15b" formatted="false">දේශීය සැකසුම් ප්‍රතිසාධන වාර්තා සීමාව ඉක්මවයි</string>
+    <string name="native_8d93770ba8c9">පෙර පරිසර නාමාවලිය අස්ථානගත වී ඇත: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">නොදන්නා ප්‍රතිසාධන අදියර</string>
+    <string name="native_20c5124fe175" formatted="false">නොදන්නා ප්‍රතිසාධන මෙහෙයුම</string>
+    <string name="native_1c457322b624" formatted="false">ප්‍රතිසාධනය කිරීමට පෙර පරිසරයක් නොමැත</string>
+    <string name="native_30db1666c8e5" formatted="false">මෙම උපස්ථය වෙනත් යෙදුමකට අයත් වේ</string>
+    <string name="native_6687d1c64d75" formatted="false">Backup processor architecture එක නොගැලපේ</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Android ධාරකය මෙම උපස්ථය භාවිතා කරන අනුවාදයට පළමුව යාවත්කාලීන කරන්න</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">උපස්ථ නාමාවලිය අසම්පූර්ණයි</string>
+    <string name="native_66106ab3e254" formatted="false">පැරණි උපස්ථයේ සත්‍යාපනය කළ හැකි OpenCode ප්‍රකාශක සාක්ෂි නොමැත. එය නැවත උපස්ථ කිරීමට පෙර මෙම ධාරකය සමඟ මුල් පරිසරය ආරම්භ කරන්න.</string>
+    <string name="native_bec13cc92982" formatted="false">සංවර්ධන පරිසර පද්ධති ක්‍රියා</string>
+    <string name="native_65de80229626" formatted="false">Debian පද්ධති ක්‍රියාවක් ඉල්ලා ඇත</string>
+    <string name="native_5e38581cf19c" formatted="false">ඉල්ලීම සමාලෝචනය කිරීමට සහ හැසිරවීමට තට්ටු කරන්න</string>
+    <string name="native_749d406d2c67" formatted="false">Debian සංවර්ධන පරිසරයෙන්</string>
+    <string name="native_4032d33b2afd" formatted="false">පද්ධති බ්‍රවුසරය විවෘත කරන්නද?</string>
+    <string name="native_ce9491abbc6c" formatted="false">දේශීය ව්‍යාපෘති පෙරදසුනක් විවෘත කරන්නද?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">පසුරු පුවරුව කියවන්නද?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">පද්ධති පසුරු පුවරුවට පිටපත් කරන්නද?</string>
+    <string name="native_77f761eb70aa" formatted="false">දේශීය දැනුම්දීමක් යවන්නද?</string>
+    <string name="native_e6b29e80abb7" formatted="false">ව්‍යාපෘති ගොනුවක් බෙදා ගන්නද?</string>
+    <string name="native_9d36f698b3c1" formatted="false">පද්ධති ගොනු ආනයනය කරන්නද?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">ව්‍යාපෘති ගොනුවක් අපනයනය කරන්නද?</string>
+    <string name="native_7ac295421c6d" formatted="false">බ්‍රවුසරයේ විවෘත කරන්න</string>
+    <string name="native_bbdb6043b5e9" formatted="false">පෙරදසුන විවෘත කරන්න</string>
+    <string name="native_14792d6cd7a6" formatted="false">කියවීමට ඉඩ දෙන්න</string>
+    <string name="native_b4caf8b99ddd" formatted="false">පසුරු පුවරුවට පිටපත් කරන්න</string>
+    <string name="native_4b3361a8c3a3" formatted="false">දැනුම්දීම යවන්න</string>
+    <string name="native_88152a09fa02" formatted="false">බෙදාගැනීමේ යෙදුමක් තෝරන්න</string>
+    <string name="native_7a49a79c57f9" formatted="false">ගොනු තෝරන්න</string>
+    <string name="native_99d9f87419c5" formatted="false">සුරැකිය යුතු ස්ථානය තෝරන්න</string>
+    <string name="native_23e5bb2090aa">%1$s\nOpenCode වෙතින් හුදකලා වූ බ්‍රවුසර දත්ත සමඟ විවෘත වේ.</string>
+    <string name="native_ecf17eaad49e" formatted="false">වත්මන් Debian වැඩසටහනට පද්ධති පසුරු පුවරුවෙන් පෙළ ලබා දෙන්න.</string>
+    <string name="native_dcc6bec24e43">%1$s වෙත ආයාත කිරීමට ගොනු තෝරන්න. පවතින ගොනු තබා ඇති අතර අනුපිටපත් නැවත නම් කරනු ලැබේ.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium බ්‍රවුසර මාදිලිය</string>
+    <string name="native_4767f37900f6" formatted="false">අනුකූලතා මාදිලිය වෙනම බ්‍රවුසර පැතිකඩක් භාවිතා කරන අතර Chromium හි Linux ක්‍රියාවලි වැලිපිල්ල අක්‍රීය කරයි. බ්‍රවුසරයට තවමත් මෙම යෙදුම තුළ ඇති ගොනු වෙත ප්‍රවේශ විය හැක. විශ්වාස නොකළ වෙබ් අඩවි වළක්වා වැදගත් ගිණුම් සඳහා Android පද්ධති බ්‍රවුසරය භාවිතා කරන්න. මාතයන් වෙනස් කිරීමෙන් පසු Chromium නැවත විවෘත කරන්න.</string>
+    <string name="native_a4317f2699a2" formatted="false">සම්මත Linux වැලිපිල්ල පෙරනිමියෙන් සක්‍රීය කර ඇත. Chromium ආරම්භ කළ නොහැකි නම්, ඔබට අනුකූලතා මාදිලිය තෝරාගත හැක. එය Linux ක්‍රියාවලි වැලිපිල්ල අක්‍රිය කරන අතර යෙදුම් ගොනු වෙත ප්‍රවේශය රඳවා ගනිමින් වෙනම පැතිකඩක් භාවිත කරයි. විශ්වාස නොකළ වෙබ් අඩවි වලින් වළකින්න; වැදගත් ගිණුම් සඳහා Android පද්ධති බ්‍රවුසරය භාවිතා කරන්න.</string>
+    <string name="native_3a2596fa9517" formatted="false">සම්මත මාදිලිය ප්‍රතිසාධනය කරන්න</string>
+    <string name="native_eeb5e46d62ae" formatted="false">අනුකූලතා මාදිලිය සබල කරන්න</string>
+    <string name="native_9a45442649f5" formatted="false">Debian ඩෙස්ක්ටොප්</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · බෙදාගත් /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">පළමු ස්ථාපනය චිත්රක සංරචක බාගත කරයි. ස්ථාපනය කිරීමෙන් පසු, ඩෙස්ක්ටොප් එක OpenCode වලින් ස්වාධීනව ආරම්භ කිරීමට සහ නැවැත්වීමට හැකිය.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC දර්පණය</string>
+    <string name="native_41e865941e16" formatted="false">නිල Debian දර්පණය</string>
+    <string name="native_ea341b8a102b" formatted="false">මූලික විභේදනය</string>
+    <string name="native_ff1cde9ba35d" formatted="false">ඔබ පිටු මාරු කරන විට ඩෙස්ක්ටොප් එක දිගටම ක්‍රියාත්මක වේ. Runtime එකෙන් නවත්තන්න.</string>
+    <string name="native_aadf816e2dc8" formatted="false">ඩෙස්ක්ටොප් කාර්යය නතර කරන්න</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">ඩෙස්ක්ටොප් ආරම්භ කරන්න</string>
+    <string name="native_ea27a25e5114" formatted="false">ඩෙස්ක්ටොප් සංරචක ස්ථාපනය කරන්න</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: අනුකූලතා මාදිලිය</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: සම්මත මාදිලිය</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">මුලින්ම Runtime සිට Debian සංවර්ධක මෙවලම් ස්ථාපනය කරන්න.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">ක්‍රියාකාරකම් ලොගය</string>
+    <string name="native_bfaa904aa4d4" formatted="false">ව්‍යාපෘති ෆෝල්ඩරය විවෘත කළ නොහැක. නාමාවලිය පවතින බව පරීක්ෂා කරන්න.</string>
+    <string name="native_83c76743b29d" formatted="false">බාධා කළ පරිසර මෙහෙයුම ප්‍රතිසාධනය කිරීම</string>
+    <string name="native_739a730ae247" formatted="false">පරිසර නඩත්තුව</string>
+    <string name="native_049281329843" formatted="false">යාවත්කාලීන නඩත්තු කිරීම හෝ වත්මන් කාර්යය අවසන් කිරීමට රැඳී සිටින්න.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">වත්මන් සංවර්ධන පරිසර කාර්යය අවසන් වන තෙක් රැඳී සිටින්න</string>
+    <string name="native_83099168971c" formatted="false">ඩෙස්ක්ටොප් ස්ථාපනය කිරීම</string>
+    <string name="native_85e0c18dde8d" formatted="false">ආරම්භක ඩෙස්ක්ටොප්</string>
+    <string name="native_9a48f8196d8f" formatted="false">අවධානය අවශ්යයි</string>
+    <string name="native_75470fb13121" formatted="false">නතර විය</string>
+    <string name="native_51a53c8109d5" formatted="false">ක්‍රියාකාරකම් වාර්තාව කියවීමට හෝ සුරැකීමට නොහැක. ධාවන වේලාවෙන් එය අලුත්වැඩියා කරන්න හෝ යම් ගබඩාවක් නිදහස් කරන්න.</string>
+    <string name="native_d36a018cc619" formatted="false">පළමුව Debian සංවර්ධන පරිසරය ස්ථාපනය කරන්න</string>
+    <string name="native_80be4c2928a5" formatted="false">පළමුව ජාලයකට සම්බන්ධ වන්න</string>
+    <string name="native_a065d81014b1" formatted="false">ඩෙස්ක්ටොප් ස්ථාපනය අසම්පූර්ණයි. ස්ථාපනය නැවත උත්සාහ කරන්න.</string>
+    <string name="native_721c38b32c35" formatted="false">ඩෙස්ක්ටොප් ස්ථාපනය කර ඇත. අවශ්ය විට එය ආරම්භ කරන්න.</string>
+    <string name="native_6c1c52771115" formatted="false">පළමුව ඩෙස්ක්ටොප් සංරචක ස්ථාපනය කරන්න</string>
+    <string name="native_693d90a47827" formatted="false">ඩෙස්ක්ටොප් මෙහෙයුම අසාර්ථක විය. විස්තර ඉතා දිගු හෝ ලබා ගත නොහැක.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">නැවතුම් ලකුණුකරය සුරැකීම අවසන් කළ නොහැක. ක්රියාවලිය පිරිසිදු කිරීම දිගටම කරගෙන ගියේය.</string>
+    <string name="native_06083621a6ce" formatted="false">ක්‍රියාකාරකම් වාර්තාව සුරැකීම අවසන් කළ නොහැක. මීළඟ දියත් කිරීම මෙය බාධාවක් ලෙස සලකනු ඇත.</string>
+    <string name="native_04d721a3819a" formatted="false">ඩෙස්ක්ටොප් ධාවනය</string>
+    <string name="native_c3f0acaf7a73" formatted="false">ඩෙස්ක්ටොප් මෙහෙයුම කල් ඉකුත් විය. ලොගය සමාලෝචනය කර නැවත උත්සාහ කරන්න.</string>
+    <string name="native_e70d328a3ca9">ඩෙස්ක්ටොප් ක්‍රියාවලිය ඉවත් විය (%1$s). ක්‍රියාකාරකම් ලොගය සමාලෝචනය කරන්න.</string>
+    <string name="native_df5c878f2852" formatted="false">දේශීය චිත්‍රක වැඩබිම</string>
+    <string name="native_7b0455a8daa4" formatted="false">Stop desktop</string>
+    <string name="native_a62123cde9c7" formatted="false">බාධා කළ කාර්යයන් සහ ප්‍රතිසාධනය</string>
+    <string name="native_279308947a14" formatted="false">ක්‍රියාකාරකම් වාර්තාව කියවිය නොහැක. අළුත්වැඩියා කිරීම හානියට පත් වාර්තාවේ පිටපතක් තබා ගන්නා අතර ව්‍යාපෘති, සැසි සහ Linux පරිසරය සංරක්ෂණය කරයි.</string>
+    <string name="native_2bd92fae24e5" formatted="false">අලුත්වැඩියා ක්‍රියාකාරකම් වාර්තාව</string>
+    <string name="native_6b43650c2c82" formatted="false">කාර්යය අනපේක්ෂිත ලෙස අවසන් විය.</string>
+    <string name="native_acb0c970aaa6">%1$s පර්යන්ත සාමාන්‍යයෙන් වසා නොතිබුණි. ඔවුන්ගේ ධාවන විධාන බාධා විය.</string>
+    <string name="native_4ba153d8dff5" formatted="false">නැවත ආරම්භ කිරීම තහවුරු කර ඇත. පෙර විධාන නැවත ධාවනය කර නැත.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">සුරැකි ව්‍යාපෘති සහ සැසි රඳවා ඇත. පර්යන්ත අතින් නැවත විවෘත කරන්න; නිම නොකළ විධාන ස්වයංක්‍රීයව නැවත ආරම්භ නොවේ.</string>
+    <string name="native_fa9669296762" formatted="false">OpenCode නැවත ආරම්භ කරන්න</string>
+    <string name="native_bd8130bec5d9" formatted="false">ඩෙස්ක්ටොප් එක ස්වයංක්‍රීයව නැවත ආරම්භ නොවේ. ඩෙස්ක්ටොප් පිටුවෙන් එය නැවත ආරම්භ කරන්න.</string>
+    <string name="native_644f8f44251f" formatted="false">ගොනුව විවෘත කරන්න</string>
+    <string name="native_9dfb5569d609" formatted="false">ගොනුව බෙදා ගන්න</string>
+    <string name="native_a4500cff3a86" formatted="false">වැඩ කරන නාමාවලිය සංකේතාත්මක සබැඳියක් නොවිය යුතුය</string>
+    <string name="native_8657d27661bd" formatted="false">වලංගු නොවන වැඩ කරන නාමාවලි මාර්ගය</string>
+    <string name="native_02b702a9adff" formatted="false">ගොනුවක් තෝරන්න</string>
+    <string name="native_924874b746cc" formatted="false">පර්යන්තයේ සංකේතාත්මක සබැඳි කළමනාකරණය කරන්න</string>
+    <string name="native_efea6e422a54" formatted="false">වලංගු නොවන ගොනු නම</string>
+    <string name="native_c4989dc37aab" formatted="false">නාමාවලිය නොපවතී</string>
+    <string name="native_d613dba39b44" formatted="false">ගමනාන්ත නාමාවලිය නොපවතී</string>
+    <string name="native_4f9b3fb4920b" formatted="false">ෆෝල්ඩරයක් එහි හෝ එහි පරම්පරාව තුළ තැබිය නොහැක</string>
+    <string name="native_c3acd5a3254c" formatted="false">ව්‍යාපෘතියේ විශේෂ උපාංග හෝ සොකට් අඩංගු වන අතර පිටපත් කළ නොහැක</string>
+    <string name="native_6c36955b068b" formatted="false">සාමාන්‍ය ගොනුවක් තෝරන්න</string>
+    <string name="native_49191d7d489f" formatted="false">මෙම ගොනුව 2 MB ඉක්මවයි. එය OpenCode හෝ ටර්මිනලය සමඟ සංස්කරණය කරන්න.</string>
+    <string name="native_ee42414d36c2" formatted="false">ගොනුව විශාල වැඩිය</string>
+    <string name="native_f0a979f87157" formatted="false">ද්විමය ගොනු වෙනත් යෙදුමකින් විවෘත කිරීමට අපනයනය කරන්න</string>
+    <string name="native_88a9c82651fc" formatted="false">OpenCode හෝ ටර්මිනලය සමඟ UTF-8 නොවන ගොනු සංස්කරණය කරන්න</string>
+    <string name="native_0189a5c3418c" formatted="false">වෙනත් මෙවලමක් මෙම ගොනුව වෙනස් කළේය. සංස්කරණය කිරීමට පෙර එය නැවත විවෘත කරන්න.</string>
+    <string name="native_0ce79256f4ac" formatted="false">මුල් නාමාවලිය තවදුරටත් නොපවතී. මුලින්ම එය යථා තත්වයට පත් කරන්න.</string>
+    <string name="native_46eae321049e" formatted="false">බෙදාගැනීමේ යෙදුමක් නොමැත</string>
+    <string name="native_87d699d3a26c" formatted="false">කුණු කූඩය</string>
+    <string name="native_d0a8c03d6c07" formatted="false">ව්‍යාපෘති ගොනු</string>
+    <string name="native_4dcf914f0b64" formatted="false">මකා දැමූ ගොනු ඒවායේ මුල් නාමාවලි වෙත ප්‍රතිසාධනය කළ හැක</string>
+    <string name="native_c5b81b02354f" formatted="false">ආපසු</string>
+    <string name="native_e56b99379169">පිටපත් %1$s ගොනු · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">පිටපත් කරමින්...</string>
+    <string name="native_85199bb36b04" formatted="false">මෙහෙයුම අවලංගු කරන්න</string>
+    <string name="native_e9dc52d1c24b" formatted="false">වසන්න</string>
+    <string name="native_4e1e5aacac7f" formatted="false">නව සැසිය</string>
+    <string name="native_23c250cc8e0b" formatted="false">OpenCode සැසියක් මෙතැනින් ආරම්භ කරන්න</string>
+    <string name="native_f22da21fd54f" formatted="false">පර්යන්තය</string>
+    <string name="native_3645f30b3412" formatted="false">නොසුරකින ලද වෙනස්කම්</string>
+    <string name="native_2266227605c4" formatted="false">සුරකින්න</string>
+    <string name="native_064fbc7ad3f3" formatted="false">කුණු කූඩය හිස්ය</string>
+    <string name="native_a9e739b13e52" formatted="false">ප්‍රතිසාධනය</string>
+    <string name="native_45985dc2183e" formatted="false">චලනය:</string>
+    <string name="native_31214130b5b7" formatted="false">පිටපත:</string>
+    <string name="native_07e5c3158f35" formatted="false">පේස්ට්</string>
+    <string name="native_831b4e0fb574" formatted="false">නව</string>
+    <string name="native_ff65a22d7087" formatted="false">නව ෆෝල්ඩරය</string>
+    <string name="native_71faed44a86c" formatted="false">නව ගොනුව</string>
+    <string name="native_8dddd460f6ae" formatted="false">ආනයනය</string>
+    <string name="native_d85825123e60" formatted="false">නැවුම් කරන්න</string>
+    <string name="native_ac9d73843736" formatted="false">මෙම නාමාවලිය සොයන්න</string>
+    <string name="native_21eef82963ee" formatted="false">මෙම නාමාවලිය හිස්ය. ගොනු ආයාත කරන්න හෝ ව්‍යාපෘතියක් සාදන්න.</string>
+    <string name="native_e8a4cecaa371" formatted="false">ගැළපෙන ගොනු නොමැත</string>
+    <string name="native_d674bc0f86b8" formatted="false">ගොනු ක්රියා</string>
+    <string name="native_d04a47c87cc8" formatted="false">සංකේතාත්මක සබැඳිය</string>
+    <string name="native_e0ba66f5246a" formatted="false">ෆෝල්ඩරය</string>
+    <string name="native_f170b42599e8" formatted="false">නැවත නම් කරන්න</string>
+    <string name="native_4cdacf57ead2" formatted="false">පිටපත</string>
+    <string name="native_124aa030694e" formatted="false">වෙත ගෙන යන්න…</string>
+    <string name="native_ac990518ed87" formatted="false">පර්යන්තය මෙතැනින් විවෘත කරන්න</string>
+    <string name="native_87bc93932d8a" formatted="false">පද්ධති ගොනු වෙත අපනයනය කරන්න</string>
+    <string name="native_dd37f132172f" formatted="false">කුණු කූඩයට ගෙන යන්න</string>
+    <string name="native_7318746d337c" formatted="false">කුණු කූඩයට ගෙන යන්නද?</string>
+    <string name="native_2b5ee3f10a56">ඔබට කුණු කූඩයෙන් \"%1$s\" ප්‍රතිසාධනය කළ හැක.</string>
+    <string name="native_e49730c9e7e1" formatted="false">චලනය</string>
+    <string name="native_4e47aaa113fc" formatted="false">නොසුරකින ලද වෙනස්කම් ඉවතලන්නද?</string>
+    <string name="native_63b75399ef1a" formatted="false">වෙනස්කම් ඉවතලන්න</string>
+    <string name="native_d9618f7b8d25" formatted="false">සංස්කරණය දිගටම කරගෙන යන්න</string>
+    <string name="native_76ce6aef5479" formatted="false">නම</string>
+    <string name="native_35b0fc30b909" formatted="false">හරි</string>
+    <string name="native_11b319774788" formatted="false">පරිසරය ප්‍රතිසාධනය කරන ලදී. වැඩබිම නැවත විවෘත කරන්න.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">ප්‍රථමයෙන් ධාවන කාලය තුළ බාධා වූ මෙහෙයුම ප්‍රතිසාධනය කිරීම අවසන් කරන්න</string>
+    <string name="native_f29af06e7c99" formatted="false">පරිසර නඩත්තු කටයුතු සිදු වෙමින් පවතී. පසුව නැවත උත්සාහ කරන්න.</string>
+    <string name="native_3bd28258feb0" formatted="false">මෙහෙයුම අවලංගු කරන ලදී</string>
+    <string name="native_c508721eb3cd" formatted="false">මෙම නම සහිත ගොනුවක් දැනටමත් පවතී. වෙනත් නමක් තෝරන්න.</string>
+    <string name="native_1e8274fe468a" formatted="false">ගොනුව තවදුරටත් නොපවතී. නාමාවලිය නැවුම් කරන්න.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">ගොනු ප්‍රවේශ අවසරය ප්‍රතික්ෂේප විය</string>
+    <string name="native_cd808e4c321e" formatted="false">මෙහෙයුම සම්පූර්ණ කළ නොහැකි විය</string>
+    <string name="native_01cbe9be8b9f" formatted="false">මෙහෙයුම අසම්පූර්ණයි. පවතින ගබඩාව පරීක්ෂා කරන්න හෝ ගොනු නැවත තෝරන්න.</string>
+    <string name="native_3f9983126fd7" formatted="false">ධාවන කාලය තුළ OpenCode ආරම්භක තත්ත්වය පරීක්ෂා කරන්න</string>
+    <string name="native_6ed9fe2281bb" formatted="false">නව පර්යන්තයක් විවෘත කළ නොහැක. සැසි ගණන පරීක්ෂා කරන්න.</string>
+    <string name="native_2160fde3813a" formatted="false">පර්යන්තයේ සංකේතාත්මක සබැඳි කළමනාකරණය කරන්න. ගොනු කළමනාකරු සබැඳි අනුගමනය නොකරයි.</string>
+    <string name="native_7a844e9d4017" formatted="false">චලනය සම්පූර්ණයි</string>
+    <string name="native_573877894fcf" formatted="false">පිටපත සම්පූර්ණයි</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">කුණු කූඩයට ගෙන යන ලදී</string>
+    <string name="native_862330af933f" formatted="false">මුල් නාමාවලියට ප්‍රතිසාධනය කරන ලදී</string>
+    <string name="native_beda23c9d52b" formatted="false">පරිසරය නඩත්තු කිරීම හෝ ප්‍රතිස්ථාපනය සිදු විය. සංස්කරණය කිරීමට පෙර වැඩබිම නැවත විවෘත කරන්න.</string>
+    <string name="native_678c6953bb2b" formatted="false">සුරකින ලදී</string>
+    <string name="native_8063159f2178" formatted="false">තෝරාගත් ගොනුව කියවිය නොහැක</string>
+    <string name="native_4cdc2180d2ac">ආයාත කළ ගොනු %1$s</string>
+    <string name="native_e98763643b93" formatted="false">තෝරාගත් ස්ථානයට ලිවිය නොහැක</string>
+    <string name="native_5afd173be7fa" formatted="false">අපනයනය අවසන්</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">කේතය සහ සැසි</string>
+    <string name="native_8745ed51cadd" formatted="false">ඩෙස්ක්ටොප්</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">චිත්රක වැඩ අවකාශය</string>
+    <string name="native_770d49c5f689" formatted="false">ගොනු</string>
+    <string name="native_6a9b6480b58f" formatted="false">ධාවන කාලය</string>
+    <string name="native_b561fe9204cc" formatted="false">සේවා සහ සංවර්ධක මෙවලම්</string>
+    <string name="native_70850bdeeabd" formatted="false">පිටු මෙනුව වසන්න</string>
+    <string name="native_b4549acb48e8" formatted="false">වැඩබිම</string>
+    <string name="native_3d3551f4660f">පාවෙන බොත්තම් පාරාන්ධතාව %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">පහළ අගයන් පාවෙන බොත්තම වඩාත් විනිවිද පෙනෙන කරයි</string>
+    <string name="native_e031beabfc9a" formatted="false">පිටු මෙනුව විවෘත කරන්න</string>
+    <string name="native_106ee775b538" formatted="false">දේශීය OpenCode වෙත සම්බන්ධ වෙමින්...</string>
+    <string name="native_a021adc1f449" formatted="false">දේශීය සම්බන්ධතාවයට ප්‍රතිසාධනය අවශ්‍යයි</string>
+    <string name="native_dacb8837471c" formatted="false">නැවත සම්බන්ධ කරන්න</string>
+    <string name="native_17584aa60ae6" formatted="false">දේශීය සම්පත් හැඹිලිය සකස් කිරීමට නොහැකි විය</string>
+    <string name="native_3b3b80064ccb" formatted="false">දේශීය OpenCode සූදානම් කරමින්...</string>
+    <string name="native_2560ee8fdd16" formatted="false">නැවත උත්සාහ කරන්න</string>
+    <string name="native_b07809340403" formatted="false">Workspace ස්ථානය තවම සුරැකී නැත. පසුව නැවත උත්සාහ කරන්න.</string>
+    <string name="native_e4ab10392d05" formatted="false">දේශීය සේවය සූදානම් වෙමින් පවතී. සම්බන්ධ වූ පසු ඔබේ වැඩබිම ස්වයංක්‍රීයව විවෘත වේ.</string>
+    <string name="native_20ea15973287" formatted="false">පෙර ධාවනයට බාධා විය. ධාවන වේලාවෙන් නැවත ආරම්භ කරන්න; ටර්මිනල් විධාන ස්වයංක්‍රීයව නැවත ධාවනය නොවේ.</string>
+    <string name="native_f2f2f6d32544" formatted="false">කේතය සහ සැසි විවෘත කිරීමට ධාවන කාලයේ සිට OpenCode ආරම්භ කරන්න.</string>
+    <string name="native_abbac5c22111" formatted="false">යෙදුමෙන් පිටවන්නද?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">සංවර්ධන පරිසරය පසුබිමේ දිගටම ක්‍රියාත්මක විය හැක. දැනුම්දීමෙන් පසුව ආපසු යන්න.</string>
+    <string name="native_814a8fb24b62" formatted="false">වත්මන් වැඩබිමෙන් පිටවන්නද?</string>
+    <string name="native_a76464945c2d" formatted="false">සංවර්ධන පරිසරයද නවත්වන්න</string>
+    <string name="native_b814fd8d6bc5" formatted="false">පිටවීම</string>
+    <string name="native_b00143b08ff1" formatted="false">සංවර්ධන වැඩපොළ සූදානම්</string>
+    <string name="native_51bca456a350" formatted="false">ඔබේ Debian සංවර්ධන වැඩපොළ</string>
+    <string name="native_0c2acd0b6057" formatted="false">ධාවනය</string>
+    <string name="native_cb40c67e7cb1" formatted="false">ආරම්භ වේ</string>
+    <string name="native_44da7f6a451d" formatted="false">නැවැත්වීම</string>
+    <string name="native_b7e1503a7239" formatted="false">අලුත්වැඩියා සංවර්ධන පරිසරය</string>
+    <string name="native_7c91bd67ff14" formatted="false">සංවර්ධන පරිසරය ස්ථාපනය කරන්න</string>
+    <string name="native_cfd73bb04860" formatted="false">නැවතුම් පරිසරය</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode ආරම්භ කරන්න</string>
+    <string name="native_5d4600a269e9" formatted="false">පරිසරය පරීක්ෂා කරන්න</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">යාවත්කාලීන Debian සංවර්ධක මෙවලම්</string>
+    <string name="native_c114ec62712b" formatted="false">පෙර පරිසර උපස්ථ, ව්‍යාපෘති සහ සැසි දත්ත රඳවා ඇත.</string>
+    <string name="native_eb3114155716" formatted="false">භාෂා සේවාදායකයන් ස්ථාපනය / යාවත්කාලීන කරන්න</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) සහ Python (pylsp), අත්සන් කරන ලද Debian ගබඩාවලින් මාර්ගගතව ස්ථාපනය කර ඇත. මුලින්ම OpenCode සහ desktop එක නවත්වන්න.</string>
+    <string name="native_2c7251cce661" formatted="false">පිටු මාරු කිරීමට පාවෙන බොත්තම තට්ටු කරන්න. එය නැවත ස්ථානගත කිරීමට එය අදින්න.</string>
+    <string name="native_dcef145e6a9b" formatted="false">ධාවන කාල තොරතුරු ආරම්භයෙන් පසුව මෙහි දිස්වේ.</string>
+    <string name="native_a8243a4e0d22" formatted="false">විවෘත ධාවන කාලය</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">බණ්ඩල් APK අනුවාදය</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode යාවත්කාලීන</string>
+    <string name="native_36ab16248f65" formatted="false">මෙම යෙදුමේ ප්‍රකාශකයා විසින් අත්සන් කරන ලද .ocaupdate ආයාත කරන්න. නිල ඉදිරිපස සහ පසුපෙළ එකට යාවත්කාලීන කිරීම.</string>
+    <string name="native_8aad48b0508d" formatted="false">යාවත්කාලීන මූලාශ්‍රය (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">යාවත්කාලීන මූලාශ්‍රය පරීක්ෂා කරන්න</string>
+    <string name="native_f73973cfadbb">අත්සන් කළ නිකුතුව: %1$s\nකැපවීම: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">බාගත කර සත්‍යාපනය කරන්න</string>
+    <string name="native_f2ef7965bf12" formatted="false">යාවත්කාලීන පැකේජය තෝරන්න</string>
+    <string name="native_165111adfe2c">ස්ථාපනය කිරීමට සූදානම්: %1$s\nකැපවීම: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">මෙම යාවත්කාලීනය ස්ථාපනය කරන්න</string>
+    <string name="native_f9432c4d9b1e" formatted="false">යාවත්කාලීන කිරීමට පෙර සිට අනුවාදය සහ සැසි ප්‍රතිසාධනය කරන්න</string>
+    <string name="native_6864335de653" formatted="false">යාවත්කාලීන අවලංගු කරන්න</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode යාවත්කාලීන ස්ථාපනය කරන්නද?</string>
+    <string name="native_816bf3635d53" formatted="false">යාවත්කාලීන කිරීමට පෙර සිට තත්වය ප්‍රතිසාධනය කරන්නද?</string>
+    <string name="native_11beb4a42abc">%1$s ස්ථාපනය කරන්න. යෙදුම සැසි ස්නැප්ෂොට් එකක් සුරකියි, අත්සන් කළ වැඩසටහන පරීක්ෂා කර එය අසාර්ථක වුවහොත් පෙර අනුවාදය ප්‍රතිසාධනය කරයි. ව්‍යාපෘති ගොනු රඳවා ඇත.\nමෙම යාවත්කාලීන කිරීමට පෙර</string>
+    <string name="native_bc7b4149e7d2" formatted="false">සැසි ඔවුන්ගේ තත්වයට ආපසු පැමිණේ. වඩාත් මෑත සැසි පුද්ගලික උපස්ථයක පවතී. ව්‍යාපෘති ගොනු රඳවා ඇත.</string>
+    <string name="native_def5e273616d" formatted="false">ස්ථාපනය තහවුරු කරන්න</string>
+    <string name="native_369d2eefccde" formatted="false">පෙරදසුන් බ්‍රවුසර දත්ත හුදකලා කළ නොහැක. පෙරදසුන නැවත විවෘත කරන්න.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">ව්‍යාපෘති පිටුව පූරණය කළ නොහැක. ඔබගේ ටර්මිනලයේ සංවර්ධන සේවාදායකය පරීක්ෂා කරන්න.</string>
+    <string name="native_6e7408950cf5" formatted="false">ව්‍යාපෘති වෙබ් අඩවිය පෙරදසුන් කරන්න</string>
+    <string name="native_bfb4951e071d" formatted="false">ව්‍යාපෘති පෙරදසුන</string>
+    <string name="native_f80652913d06" formatted="false">ටර්මිනලයේ සංවර්ධන සේවාදායකයක් අරඹන්න, ඉන්පසු එහි දේශීය වරාය ඇතුළු කරන්න. පෙරදසුන් බ්‍රවුසර දත්ත OpenCode වෙතින් හුදකලා වේ.</string>
+    <string name="native_2c41e85af61f" formatted="false">වරාය</string>
+    <string name="native_77c3a828a5c5" formatted="false">OpenCode සහ ඩෙස්ක්ටොප් සේවා හැර 1024 සිට 65535 දක්වා සංවර්ධන වරායක් ඇතුළු කරන්න.</string>
+    <string name="native_7311a9dfea51" formatted="false">මෙම වරායේ කිසිවක් අසන්නේ නැත. ඔබගේ පර්යන්තයේ සේවාව පරීක්ෂා කරන්න.</string>
+    <string name="native_4f8d84105475" formatted="false">පරීක්ෂා කරමින්...</string>
+    <string name="native_4923c272b68e" formatted="false">සංවර්ධන වරාය පූර්ණ සංඛ්‍යාවක් විය යුතුය</string>
+    <string name="native_04a87026e81f" formatted="false">වලංගු ව්‍යාපෘති සංවර්ධන වරායක් තෝරන්න</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode සංවර්ධන සැසිය</string>
+    <string name="native_e87a4529ab82" formatted="false">සංවර්ධන පරිසරය ස්ථාපනය</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian යාවත්කාලීන කිරීම</string>
+    <string name="native_0c6301bc295d" formatted="false">සංවර්ධන පරිසරය අලුත්වැඩියා කිරීම</string>
+    <string name="native_0ddf3d4297eb" formatted="false">සංවර්ධන පරිසරය පරීක්ෂා කිරීම</string>
+    <string name="native_9612d4419bb6" formatted="false">භාෂා සේවාදායක ස්ථාපනය</string>
+    <string name="native_f72fba77f87a" formatted="false">පරිසරය යථා තත්ත්වයට පත් කිරීම</string>
+    <string name="native_7c8162195c7c" formatted="false">ඩෙස්ක්ටොප් ස්ථාපනය</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">පෙර ධාවනයට බාධා විය. ධාවන වේලාවෙන් පැහැදිලිව නැවත ආරම්භ කරන්න.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">මෙම වර්ගයේ සංවර්ධන කාර්යයක් තවමත් ක්‍රියාත්මක වේ</string>
+    <string name="native_95a56e0a3fe2" formatted="false">ක්‍රියාකාරකම් වාර්තාව අලුත්වැඩියා කිරීම</string>
+    <string name="native_b66749ed72ea" formatted="false">ක්‍රියාවලිය පිටවිය</string>
+    <string name="native_6b25042064e2" formatted="false">සංඥාව මගින් අවසන් කරන ලදී</string>
+    <string name="native_d6febdf1752b" formatted="false">අඩු මතකය හේතුවෙන් නැවත ලබා ගන්නා ලදී</string>
+    <string name="native_1d13790f3c89" formatted="false">යෙදුම් බිඳවැටීම</string>
+    <string name="native_28db94d1850d" formatted="false">ස්වදේශීය ක්‍රියාවලි බිඳ වැටීම</string>
+    <string name="native_86919539f7f1" formatted="false">යෙදුම ප්‍රතිචාර නොදක්වයි</string>
+    <string name="native_90fb8d6098a5" formatted="false">ආරම්භ කිරීම අසාර්ථක විය</string>
+    <string name="native_38c60ab6654c" formatted="false">අවසර වෙනස් විය</string>
+    <string name="native_6d2a6c71334d" formatted="false">සම්පත් සීමාව</string>
+    <string name="native_19b2090b01a8" formatted="false">පරිශීලකයා නතර කිරීමට ඉල්ලා ඇත</string>
+    <string name="native_120d96445f1a" formatted="false">පරිශීලකයා විසින් නතර කරන ලදී</string>
+    <string name="native_3c8af14f66bc" formatted="false">යැපෙන ක්‍රියාවලිය පිටවී ඇත</string>
+    <string name="native_ca0941ce04ae" formatted="false">වෙනත් පද්ධති හේතුව</string>
+    <string name="native_2df1ac3c1d38" formatted="false">ක්‍රියාවලි කැටි කිරීම</string>
+    <string name="native_0d48373023a8" formatted="false">යෙදුම් තත්ත්වය වෙනස් විය</string>
+    <string name="native_c752307db26b" formatted="false">යෙදුම් යාවත්කාලීන කිරීම</string>
+    <string name="native_b5015951cbdf" formatted="false">පද්ධතිය පිටවීමේ හේතුවක් සපයා නැත</string>
+    <string name="native_b62737b826ad">පද්ධති පිටවීම (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">ව්‍යාපෘති නාමාවලිය විවෘත කළ නොහැක</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode සැසියක් තැනීමට නොහැකි විය</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode සැසි නාමාවලිය නොගැලපේ</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode සැසිය කියවීමට නොහැකි විය</string>
+    <string name="native_2642997cfeec" formatted="false">පරිසර නඩත්තුව</string>
+    <string name="native_f992d735d932" formatted="false">OpenCode, Terminals සහ Debian ඩෙස්ක්ටොප් එක නවත්වන්න, පසුව ගොනු මෙහෙයුම් අවසන් වන තෙක් රැඳී සිටින්න</string>
+    <string name="native_489f137f1080" formatted="false">පරිසර නඩත්තු අගුල තවදුරටත් වලංගු නොවේ</string>
+    <string name="native_42380e2567fc" formatted="false">බාධා වූ මෙහෙයුම ප්‍රතිසාධනය කරන ලදී. වැඩබිම නැවත විවෘත කරන්න.</string>
+    <string name="native_17b00cac2b91" formatted="false">දේශීය සම්බන්ධතා ප්‍රතිසාධනය අසාර්ථක විය. ධාවන වේලාවෙන් නැවත උත්සාහ කරන්න.</string>
+    <string name="native_77e9ca4e944c" formatted="false">පරිසර නඩත්තු කටයුතු සිදු වෙමින් පවතී. පසුව නැවත උත්සාහ කරන්න.</string>
+    <string name="native_dbaebe3ce243" formatted="false">සංවර්ධන පරිසරය යාවත්කාලීන කිරීමට පෙර Debian ඩෙස්ක්ටොප් එක නවත්වන්න</string>
+    <string name="native_548085b144c9" formatted="false">බාධා කළ මෙහෙයුම ප්‍රතිසාධනය කරන ලදී. ඔබට සංවර්ධන පරිසරය ආරම්භ කළ හැකිය.</string>
+    <string name="native_b4a1531f9eac" formatted="false">පෙර ධාවනයට බාධා විය. ටර්මිනල් විධාන ස්වයංක්‍රීයව නැවත ධාවනය නොවේ. ධාවන වේලාවෙන් පැහැදිලිව නැවත ආරම්භ කරන්න.</string>
+    <string name="native_295cafdfd512" formatted="false">තාවකාලික සම්බන්ධතා වින්‍යාස පිරිසිදු කිරීම අසම්පූර්ණයි. ක්රියාවලිය පිරිසිදු කිරීම දිගටම කරගෙන ගියේය.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld වැඩබිම තැනීමට නොහැකි විය. නාමාවලිය සහ පවතින ඉඩ පරීක්ෂා කරන්න.</string>
+    <string name="native_68301868225a" formatted="false">පෙර වැඩබිම් නාමාවලිය නොමැත. helloworld විවෘත කරන ලදී.</string>
+    <string name="native_b33b3ca277eb" formatted="false">පෙරනිමි ව්‍යාපෘතිය තවම සූදානම් නැත. ගොනු වෙතින් නැවත උත්සාහ කරන්න.</string>
+    <string name="native_45d6ab452622" formatted="false">භාෂා සේවාදායකයන් ස්ථාපනය කරන්න</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ සහ Python භාෂා සේවාදායකයන් සූදානම්. LSP භාවිතා කිරීමට OpenCode ආරම්භ කරන්න.</string>
+    <string name="native_5ea1653deef8" formatted="false">ටර්මිනල් ක්‍රියාකාරකම් වාර්තාව සුරැකුණේ නැත. ක්‍රියාවලිය අවසන් කිරීමෙන් පසු නව පර්යන්තයක් සාදන්න.</string>
+    <string name="native_1978b311a9ff" formatted="false">පර්යන්ත පිටවීමේ වාර්තාව සුරැකීම අවසන් කළ නොහැක.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode යාවත්කාලීන බාගැනීම</string>
+    <string name="native_06f76cca8fb9" formatted="false">යාවත්කාලීන මූලාශ්‍රය වෙත සම්බන්ධ වෙමින්...</string>
+    <string name="native_8c39baf28e08" formatted="false">යාවත්කාලීන මූලාශ්‍රය වෙත සම්බන්ධ විය නොහැක. ජාලය, ප්‍රකාශක අත්සන, සත්කාරක අනුවාදය සහ නිදහස් ඉඩ පරීක්ෂා කරන්න.</string>
+    <string name="native_0bedbc8d185d" formatted="false">බාගැනීමේ කාලය අවසන් විය</string>
+    <string name="native_f75850093535">බාගැනීම: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">ප්‍රකාශක අත්සන සත්‍යාපනය කරමින්...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">යාවත්කාලීන පැකේජය බාගනිමින්…</string>
+    <string name="native_2f9cd52dc66a">වලංගු ප්‍රකාශක අත්සන: %1$s. බාගත කිරීමට පෙර සමාලෝචනය කරන්න.</string>
+    <string name="native_17548865632c" formatted="false">බාගැනීම, පාරදත්ත නිකුත් කිරීම සහ පැකේජ අත්සන සත්‍යාපනය කර ඇත. ස්ථාපනය තහවුරු කරන්න.</string>
+    <string name="native_180cec958e7a" formatted="false">බාගැනීම අවලංගු කරන ලදී. මුල් පිටපත රඳවා ඇත.</string>
+    <string name="native_8df045f8ac12" formatted="false">බාගැනීම නතර විය. මුල් පිටපත රඳවා ඇත.</string>
+    <string name="native_778803f1c6bb" formatted="false">බාගැනීම අවලංගු කරන්න</string>
+    <string name="native_2958898ce6f4" formatted="false">නව අනුවාදය දේශීය ආරම්භය, අනුවාදය හෝ සත්‍යාපන පරීක්ෂාවන් අසාර්ථක විය. පෙර අනුවාදය ප්රතිෂ්ඨාපනය වනු ඇත.</string>
+    <string name="native_cc876dfbb261" formatted="false">අත්හදා බැලීමේ ක්‍රියාවලිය තවමත් පිටවෙමින් පවතී. නැවත උත්සාහ කිරීමට පෙර ප්‍රතිසාධනය සඳහා රැඳී සිටින්න.</string>
+    <string name="native_adf977dcb47e" formatted="false">වලංගු නොවන යාවත්කාලීන වාර්තා හඳුනාගැනීම</string>
+    <string name="native_5207cac670b7" formatted="false">ස්ථාපනය කර ඇති ස්වාධීන OpenCode ප්‍රමාණය නොගැලපේ</string>
+    <string name="native_cf5b81887589" formatted="false">ස්ථාපනය කර ඇති ස්වාධීන OpenCode චෙක්සම් නොගැලපේ. පෙර අනුවාදය ප්‍රතිසාධනය කරන්න.</string>
+    <string name="native_393049b506cc" formatted="false">මුල් වැඩසටහනට ගැළපෙන ප්‍රකාශක සාක්ෂි නොමැත. පෙර පැවති තත්වය වෙනස් නොවේ.</string>
+    <string name="native_c5853bcfd56c" formatted="false">කලින් බාධා කළ යාවත්කාලීනය ප්‍රතිසාධනය කරන්න</string>
+    <string name="native_91d8da5525fa" formatted="false">තහවුරු කිරීමෙන් පසු යාවත්කාලීන පැකේජය වෙනස් විය</string>
+    <string name="native_093f2c091a30" formatted="false">ගබඩා ප්‍රමාණවත් නැත. මුල් පිටපත නොවෙනස්ව ඇත.</string>
+    <string name="native_fc9bc82e0872" formatted="false">ප්‍රතිසාධනය කිරීමට යාවත්කාලීන උපස්ථයක් නොමැත</string>
+    <string name="native_a9f4d9903c14" formatted="false">උපස්ථය ධාවන අනුවාදයට නොගැලපේ</string>
+    <string name="native_6caa23763a42" formatted="false">පෙර වැඩසටහන් සත්‍යාපනය අසාර්ථක විය. වත්මන් සැසි නොවෙනස්ව ඇත.</string>
+    <string name="native_c8b71b876695" formatted="false">පසුකාලීන APK හෝ Debian යාවත්කාලීනයක් බණ්ඩල් කරන ලද වැඩසටහන ප්‍රතිස්ථාපනය විය. මුල් සැසි උපස්ථය රඳවා තබා ඇත; පළමුව අදාළ වැඩසටහන ප්‍රතිසාධනය කරන්න.</string>
+    <string name="native_c443df40964b" formatted="false">වලංගු නොවන යාවත්කාලීන ප්‍රතිසාධන මෙහෙයුම</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode යාවත්කාලීනය සූදානම් කරමින්...</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCode, පර්යන්ත සහ ඩෙස්ක්ටොප් එක නවත්වන්න, ඉන්පසු ඒවා පිටවන තෙක් රැඳී සිටින්න.</string>
+    <string name="native_90c07b54f8f8" formatted="false">තත්වය සුරැකීම, වැඩසටහන් සත්‍යාපනය කිරීම සහ අනුවාද මාරු කිරීම</string>
+    <string name="native_5fc065ef6f50" formatted="false">යාවත්කාලීන නඩත්තු සේවාව ආරම්භ කළ නොහැක.</string>
+    <string name="native_f7b560c8c820" formatted="false">නිල වැඩසටහන සත්‍යාපනය කිරීම සහ වේදිකාගත කිරීම...</string>
+    <string name="native_9606191c82dc" formatted="false">මුල් වැඩසටහන සහ ප්‍රකාශක අත්සන සංරක්ෂණය කරමින්...</string>
+    <string name="native_5c0d7787ee51" formatted="false">සැසි තත්ත්‍වයේ සැණ රුව සුරැකීම...</string>
+    <string name="native_0c8cf4632889" formatted="false">අනුවාද මාරු කිරීම සහ දේශීය සේවාව සත්‍යාපනය කරමින්...</string>
+    <string name="native_3e81ea691a4a" formatted="false">යාවත්කාලීන කිරීමට පෙර සිට අනුවාදය සහ සැසි ප්‍රතිසාධනය කරමින්...</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode ප්‍රතිසාධනය කරමින්</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode යාවත්කාලීන කරමින්</string>
+    <string name="native_6b1ccd3778fa" formatted="false">පෙර අනුවාදය සහ සැසි ප්‍රතිසාධනය කරන ලදී. වඩාත් මෑත සැසි පුද්ගලික උපස්ථයක පවතී.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode යාවත්කාලීන කිරීම සම්පූර්ණයි. ආරම්භය ගැලපෙන නිල ඉදිරිපස සහ පසුපෙළ භාවිතා කරනු ඇත.</string>
+    <string name="native_4693930f5802" formatted="false">යාවත්කාලීනය අවලංගු කරන ලදී. මුල් තත්ත්වය යථා තත්ත්වයට පත් කර ඇති බව තහවුරු කිරීම.</string>
+    <string name="native_d0e37bc26edd" formatted="false">යාවත්කාලීන අසම්පූර්ණයි. දැන් යථා තත්ත්වයට පත්වෙමින්; මුල් වැඩසටහන් සහ සැසි උපස්ථ රඳවා තබා ඇත.</string>
+    <string name="native_9a32d6c2d207" formatted="false">ප්‍රතිසාධනය අසම්පූර්ණයි. සියලුම රාජ්ය නාමාවලි රඳවා තබා ඇත. ඔබේ දත්ත තබාගෙන ප්‍රතිසාධනය කිරීමට නැවත ආරම්භ කරන්න.</string>
+    <string name="native_49ad3eeae83d" formatted="false">සැසි ප්‍රතිසාධනය සම්පූර්ණයි. වඩාත් මෑත කාලීන තත්ත්වය උපස්ථයක පවතී.</string>
+    <string name="native_67c08a2911e1" formatted="false">ප්‍රතිසාධනය මෙම උපස්ථය හෝ මුල් වැඩසටහන සමඟ ඉදිරියට යාමට නොහැකි විය. වත්මන් සැසි සහ උපස්ථ නොවෙනස්ව ඇත.</string>
+    <string name="native_976d8c169cfa" formatted="false">යාවත්කාලීනය අවලංගු කර හෝ අසාර්ථක විය. මුල් අනුවාදය සහ සැසි ප්‍රතිසාධනය කරන ලදී.</string>
+    <string name="native_7ac77d1513fc" formatted="false">යාවත්කාලීන පැකේජ අත්සන සහ අඛණ්ඩතාව තහවුරු කරමින්...</string>
+    <string name="native_0aa018b7337b" formatted="false">තෝරාගත් ගොනුව කියවිය නොහැක</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">යාවත්කාලීන පැකේජය විශාල වැඩිය</string>
+    <string name="native_f068b83f40bf" formatted="false">අත්සන සහ පැකේජය සත්‍යාපනය කරන ලදී. ස්ථාපනය කිරීමට පෙර අනුවාදය සමාලෝචනය කරන්න.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">ආයාත කළ නොහැක: වලංගු නොවන ගොනුවක්, අත්සන නොගැලපීම, නොගැලපෙන ධාරක අනුවාදය හෝ ප්‍රමාණවත් ගබඩා නොවේ.</string>
+    <string name="native_616412e65df4" formatted="false">නිල වැඩසටහන එහි ප්‍රකාශක සාක්ෂියට නොගැලපේ</string>
+    <string name="native_4bf19a158f27" formatted="false">ස්වාධීන ධාවන කාල පැකේජ ARM64 සඳහා පමණක් සහය දක්වයි</string>
+    <string name="native_63b1fc6fffc9" formatted="false">යාවත්කාලීන අත්සන මෙම APK එකට අයත් නොවේ</string>
+    <string name="native_c7273354727f" formatted="false">යාවත්කාලීන ගොනුව එහි ප්‍රකාශිත ප්‍රමාණය ඉක්මවයි</string>
+    <string name="native_2aa6c8e74abb" formatted="false">යාවත්කාලීන වැඩසටහන් චෙක්සම් නොගැලපේ</string>
+    <string name="native_dd619076d456" formatted="false">වලංගු නොවන යාවත්කාලීන පැකේජ ප්‍රමාණය</string>
+    <string name="native_20c5bdfeffc0" formatted="false">සම්පීඩිත යාවත්කාලීන පැකේජ ප්‍රමාණය නොගැලපේ</string>
+    <string name="native_1de24edffcf5" formatted="false">යාවත්කාලීන පැකේජයේ අමතර ඇතුළත් කිරීම් අඩංගු වේ</string>
+    <string name="native_c5b339aa77e8" formatted="false">නොගැලපෙන යාවත්කාලීන සම්භවය හෝ ගෘහ නිර්මාණ ශිල්පය</string>
+    <string name="native_89d585f3661f" formatted="false">මෙම යාවත්කාලීනය ස්ථාපනය කිරීමට පෙර Android යෙදුම උත්ශ්‍රේණි කරන්න</string>
+    <string name="native_800df084dea0" formatted="false">යාවත්කාලීන සංරක්ෂිත චෙක්සම් නොගැලපේ</string>
+    <string name="native_ddf1a005e310" formatted="false">මෙම APK අත්සන් කිරීමේ ආකෘතිය ස්වාධීන ධාවන කාල යාවත්කාලීන සඳහා සහය නොදක්වයි</string>
+    <string name="native_172e063db474" formatted="false">අවලංගු යාවත්කාලීන පැකේජ ඇතුළත් කිරීම</string>
+    <string name="native_1c08780aa99f" formatted="false">යාවත්කාලීන පාර-දත්ත නිඛිල භාවිතා කළ යුතුය</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">යාවත්කාලීන වැඩසටහන 64-bit Linux ELF නොවේ</string>
+    <string name="native_d51ff4ed57b4" formatted="false">යාවත්කාලීන වැඩසටහන 16 KiB ELF පෙළගැස්ම සපුරාලන්නේ නැත</string>
+    <string name="native_3afa3741911b" formatted="false">යාවත්කාලීන වැඩසටහනේ Debian glibc ලෝඩරය මග හැරී ඇත</string>
+    <string name="native_6b0b9e864f5b" formatted="false">වලංගු HTTPS යාවත්කාලීන මූලාශ්‍රයක් ඇතුළත් කරන්න</string>
+    <string name="native_c274c7dd5900" formatted="false">යාවත්කාලීන මූලාශ්‍ර සඳහා පරිශීලක අක්තපත්‍ර නොමැතිව HTTPS URL අවශ්‍ය වේ</string>
+    <string name="native_f459f5ec9dac" formatted="false">වලංගු නොවන යාවත්කාලීන මූලාශ්‍ර ක්ෂේත්‍රය</string>
+    <string name="native_bde2a736e30a" formatted="false">මුලින්ම Android සත්කාරක උත්ශ්‍රේණි කරන්න</string>
+    <string name="native_b980fd021bef" formatted="false">වලංගු නොවන යාවත්කාලීන නාමාවලිය</string>
+    <string name="native_c0e96727553e" formatted="false">වලංගු නොවන යාවත්කාලීන ගොනුව</string>
+    <string name="native_86ff542c68ed" formatted="false">මෙම තත්ත්වය තුළ යාවත්කාලීන නාමාවලි මාරු කළ නොහැක</string>
+    <string name="native_fbf82dc7ef22" formatted="false">සැසි තත්ත්වය බාහිර නාමාවලියකට යොමු කරයි. යාවත්කාලීන කිරීම ආරක්ෂිතව පරීක්ෂා කළ නොහැක.</string>
+    <string name="native_796dc6b7ca29" formatted="false">ගබඩා ප්‍රමාණවත් නැත. මුල් තත්ත්වය වෙනස් නොවේ.</string>
+    <string name="native_099801d672b1" formatted="false">බාගැනීම අවලංගු කරන ලදී</string>
+    <string name="native_f1304f707ec9" formatted="false">බොහෝ යාවත්කාලීන යළි-යොමුවීම්</string>
+    <string name="native_0d07f458b607" formatted="false">යාවත්කාලීන සේවාදායකය මුල් බයිට් මාරු කළේ නැත</string>
+    <string name="native_de331dfd8908" formatted="false">යාවත්කාලීන ගොනු දිග නොගැලපේ</string>
+    <string name="native_416b8c87e69e" formatted="false">යාවත්කාලීන ගොනුව සම්පූර්ණයෙන්ම බාගත කර නැත</string>
+    <string name="native_e1e74b76c427" formatted="false">යාවත්කාලීන සේවාදායකය සම්පූර්ණ ගොනුව ආපසු ලබා දුන්නේ නැත</string>
+    <string name="native_6afcf03cb130" formatted="false">යාවත්කාලීන වේදිකා ඉඩ ප්‍රමාණවත් නැත</string>
+    <string name="native_be1c695d9241" formatted="false">යාවත්කාලීන ගොනුව SHA-256 නොගැලපේ</string>
+    <string name="native_a0133d117bb0" formatted="false">යාවත්කාලීන පැකේජය තහවුරු කළ නිකුතු තොරතුරු සමඟ නොගැලපේ</string>
+    <string name="native_8635a43ce28a" formatted="false">වලංගු නොවන ව්‍යාපෘති නාමාවලිය</string>
+    <string name="native_d32ab8b004e6" formatted="false">කාර්ය ඉඩ ස්ථානය සුරැකීමට නොහැකි විය</string>
+    <string name="native_43a5447014fd" formatted="false">පර්යන්තයක් විවෘත කිරීමට පෙර ධාවන කාලයෙන් සංවර්ධන පරිසරය ආරම්භ කරන්න.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ නව පර්යන්තය</string>
+    <string name="native_b3b7108a568f" formatted="false">ධාරාව වසා දමන්න</string>
+    <string name="native_0e822affd5da">මූලික නාමාවලිය: %1$s</string>
+    <string name="native_72d769e3888d">නව පර්යන්ත නාමාවලිය: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">පද්ධති ගොනු තෝරකය නොමැත</string>
+    <string name="native_179a57921f91" formatted="false">WebView විදැහුම්කරණ සැකසුම්</string>
+    <string name="native_3024ec603eb7" formatted="false">විදැහුම්කරණ රාමු අනුපාතය</string>
+    <string name="native_55b6d7f645f3" formatted="false">60 Hz කැමති</string>
+    <string name="native_66f8bafa9f7f" formatted="false">සංදර්ශක නැවුම් කිරීමේ අනුපාතය අනුගමනය කරන්න</string>
+    <string name="native_d4ecf38c341d" formatted="false">ඉහළ නැවුම් අනුපාත සංදර්ශක මත විදැහුම් භාරය අඩු කිරීමට 60 Hz කැමති. සංදර්ශකය අනුගමනය කිරීමෙන් පද්ධතියට රාමු කාලසටහන් කිරීමට ඉඩ දෙයි. මෙම යෙදුමේ කවුළුවට පමණක් අදාළ වේ.</string>
+    <string name="native_bf0d3a407418" formatted="false">ස්ථාපනය කර නැත</string>
+    <string name="native_2fb8edc75b25" formatted="false">සූදානම්</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">සත්‍යාපන පූරකය</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian ස්ථාපනය කරමින්</string>
+    <string name="native_f863d955fa6e" formatted="false">ප්‍රාදේශීය සංවර්ධන පරිසරය</string>
+    <string name="native_55aa84065de2" formatted="false">දේශීය Debian සංවර්ධන සැසිය</string>
+    <string name="native_6e75b1822ebc" formatted="false">නවත්වන්න</string>
+    <string name="native_5f73a4e1e494" formatted="false">ස්ථාපනය කර ඇත</string>
+    <string name="native_147e90d2ec02" formatted="false">ප්‍රතිසාධනය</string>
+</resources>

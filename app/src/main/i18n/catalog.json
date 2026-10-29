@@ -1,0 +1,5744 @@
+[
+  {
+    "key": "native_900a3d90c179",
+    "source": "开发工作区",
+    "parts": [
+      "开发工作区"
+    ],
+    "en": "Development workspace",
+    "references": [
+      "AdaptiveWorkspace.kt:28"
+    ]
+  },
+  {
+    "key": "native_e1e32462ea43",
+    "source": "OpenCode + 桌面",
+    "parts": [
+      "OpenCode + 桌面"
+    ],
+    "en": "OpenCode + Desktop",
+    "references": [
+      "AdaptiveWorkspace.kt:28"
+    ]
+  },
+  {
+    "key": "native_7f1c02616d60",
+    "source": "单页专注",
+    "parts": [
+      "单页专注"
+    ],
+    "en": "Single page",
+    "references": [
+      "AdaptiveWorkspace.kt:28"
+    ]
+  },
+  {
+    "key": "native_651ae6ea52ae",
+    "source": "恢复分屏",
+    "parts": [
+      "恢复分屏"
+    ],
+    "en": "Restore split view",
+    "references": [
+      "AdaptiveWorkspace.kt:145"
+    ]
+  },
+  {
+    "key": "native_d7e97cfac66f",
+    "source": "工作区布局",
+    "parts": [
+      "工作区布局"
+    ],
+    "en": "Workspace layout",
+    "references": [
+      "AdaptiveWorkspace.kt:145",
+      "AdaptiveWorkspace.kt:148",
+      "FloatingWorkspaceNavigation.kt:56"
+    ]
+  },
+  {
+    "key": "native_2a03e2ed30f9",
+    "source": "拉宽窗口后可同时查看多个面板。",
+    "parts": [
+      "拉宽窗口后可同时查看多个面板。"
+    ],
+    "en": "Widen the window to view multiple panels together.",
+    "references": [
+      "AdaptiveWorkspace.kt:156"
+    ]
+  },
+  {
+    "key": "native_e792dd4cfa78",
+    "source": "显示项目文件",
+    "parts": [
+      "显示项目文件"
+    ],
+    "en": "Show project files",
+    "references": [
+      "AdaptiveWorkspace.kt:157"
+    ]
+  },
+  {
+    "key": "native_712d956931d1",
+    "source": "显示终端",
+    "parts": [
+      "显示终端"
+    ],
+    "en": "Show terminal",
+    "references": [
+      "AdaptiveWorkspace.kt:158"
+    ]
+  },
+  {
+    "key": "native_073cc20d9ed9",
+    "source": "底部终端",
+    "parts": [
+      "底部终端"
+    ],
+    "en": "Terminal below",
+    "references": [
+      "AdaptiveWorkspace.kt:160"
+    ]
+  },
+  {
+    "key": "native_5de225480fa7",
+    "source": "右侧终端",
+    "parts": [
+      "右侧终端"
+    ],
+    "en": "Terminal on the right",
+    "references": [
+      "AdaptiveWorkspace.kt:161"
+    ]
+  },
+  {
+    "key": "native_35cdb3eacdc6",
+    "source": "空间不足时自动收起面板，可从悬浮球单独打开。右侧终端在更宽的窗口中显示。拖动分割线可调整大小。",
+    "parts": [
+      "空间不足时自动收起面板，可从悬浮球单独打开。右侧终端在更宽的窗口中显示。拖动分割线可调整大小。"
+    ],
+    "en": "Panels collapse when space is limited and remain accessible from the floating menu. The side terminal appears in wider windows. Drag dividers to resize panels.",
+    "references": [
+      "AdaptiveWorkspace.kt:163"
+    ]
+  },
+  {
+    "key": "native_babbb870cf97",
+    "source": "Ctrl + 左 Alt：1–5 切换页面 · B 文件 · T 终端 · M 桌面协作 · Enter 单页/分屏 · \\ 布局",
+    "parts": [
+      "Ctrl + 左 Alt：1–5 切换页面 · B 文件 · T 终端 · M 桌面协作 · Enter 单页/分屏 · \\ 布局"
+    ],
+    "en": "Ctrl + Left Alt: 1–5 Pages · B Files · T Terminal · M Desktop · Enter Single/Split · \\\\ Layout",
+    "references": [
+      "AdaptiveWorkspace.kt:164"
+    ]
+  },
+  {
+    "key": "native_7a129a94c6ff",
+    "source": "完成",
+    "parts": [
+      "完成"
+    ],
+    "en": "Done",
+    "references": [
+      "AdaptiveWorkspace.kt:166",
+      "WebViewRenderingControls.kt:26"
+    ]
+  },
+  {
+    "key": "native_bcec2218fc21",
+    "source": "重置比例",
+    "parts": [
+      "重置比例"
+    ],
+    "en": "Reset proportions",
+    "references": [
+      "AdaptiveWorkspace.kt:167"
+    ]
+  },
+  {
+    "key": "native_da88c62d1217",
+    "source": "单页显示%1$s",
+    "parts": [
+      "单页显示",
+      ""
+    ],
+    "en": "Show %1$s in a single page",
+    "references": [
+      "AdaptiveWorkspace.kt:183"
+    ]
+  },
+  {
+    "key": "native_1b4b3afbe52d",
+    "source": "项目文件分割线",
+    "parts": [
+      "项目文件分割线"
+    ],
+    "en": "Project files divider",
+    "references": [
+      "AdaptiveWorkspace.kt:243"
+    ]
+  },
+  {
+    "key": "native_707c0891a0e6",
+    "source": "终端分割线",
+    "parts": [
+      "终端分割线"
+    ],
+    "en": "Terminal divider",
+    "references": [
+      "AdaptiveWorkspace.kt:243"
+    ]
+  },
+  {
+    "key": "native_ea8048b59238",
+    "source": "OpenCode 与桌面分割线",
+    "parts": [
+      "OpenCode 与桌面分割线"
+    ],
+    "en": "OpenCode and desktop divider",
+    "references": [
+      "AdaptiveWorkspace.kt:243"
+    ]
+  },
+  {
+    "key": "native_50407ad8dfa8",
+    "source": "缩小前一个面板",
+    "parts": [
+      "缩小前一个面板"
+    ],
+    "en": "Shrink previous panel",
+    "references": [
+      "AdaptiveWorkspace.kt:248"
+    ]
+  },
+  {
+    "key": "native_b72c5c02a666",
+    "source": "放大前一个面板",
+    "parts": [
+      "放大前一个面板"
+    ],
+    "en": "Enlarge previous panel",
+    "references": [
+      "AdaptiveWorkspace.kt:248"
+    ]
+  },
+  {
+    "key": "native_3f3685e8d731",
+    "source": "PRoot 链接数量超过当前格式上限",
+    "parts": [
+      "PRoot 链接数量超过当前格式上限"
+    ],
+    "en": "Too many PRoot links for this archive format",
+    "references": [
+      "backup\\ArchiveLinks.kt:17"
+    ]
+  },
+  {
+    "key": "native_8ef36dd4de1f",
+    "source": "Linux 硬链接需要完整 rootfs",
+    "parts": [
+      "Linux 硬链接需要完整 rootfs"
+    ],
+    "en": "Linux hard links require a complete rootfs",
+    "references": [
+      "backup\\ArchiveLinks.kt:24"
+    ]
+  },
+  {
+    "key": "native_f336f1e17596",
+    "source": "备份目录层级过深",
+    "parts": [
+      "备份目录层级过深"
+    ],
+    "en": "Backup directory nesting is too deep",
+    "references": [
+      "backup\\ArchiveTraversal.kt:17"
+    ]
+  },
+  {
+    "key": "native_b6f744737a45",
+    "source": "备份密码长度无效",
+    "parts": [
+      "备份密码长度无效"
+    ],
+    "en": "Invalid backup password length",
+    "references": [
+      "backup\\BackupEnvelope.kt:33"
+    ]
+  },
+  {
+    "key": "native_13bde5dd1812",
+    "source": "备份密码至少需要 12 个字符",
+    "parts": [
+      "备份密码至少需要 12 个字符"
+    ],
+    "en": "The backup password must contain at least 12 characters",
+    "references": [
+      "backup\\BackupEnvelope.kt:41"
+    ]
+  },
+  {
+    "key": "native_be02cbd55932",
+    "source": "不支持的备份格式",
+    "parts": [
+      "不支持的备份格式"
+    ],
+    "en": "Unsupported backup format",
+    "references": [
+      "backup\\BackupEnvelope.kt:60"
+    ]
+  },
+  {
+    "key": "native_7a91a3d586ae",
+    "source": "备份头无效",
+    "parts": [
+      "备份头无效"
+    ],
+    "en": "Invalid backup header",
+    "references": [
+      "backup\\BackupEnvelope.kt:63"
+    ]
+  },
+  {
+    "key": "native_2bbd318a5667",
+    "source": "不支持的备份加密参数",
+    "parts": [
+      "不支持的备份加密参数"
+    ],
+    "en": "Unsupported backup encryption parameters",
+    "references": [
+      "backup\\BackupEnvelope.kt:76"
+    ]
+  },
+  {
+    "key": "native_18868da27841",
+    "source": "备份密码错误或文件损坏",
+    "parts": [
+      "备份密码错误或文件损坏"
+    ],
+    "en": "Incorrect backup password or damaged file",
+    "references": [
+      "backup\\BackupEnvelope.kt:79"
+    ]
+  },
+  {
+    "key": "native_e41d6440468d",
+    "source": "恢复记录过大",
+    "parts": [
+      "恢复记录过大"
+    ],
+    "en": "Recovery record is too large",
+    "references": [
+      "backup\\BackupJson.kt:12"
+    ]
+  },
+  {
+    "key": "native_282692502f14",
+    "source": "备份元数据过大",
+    "parts": [
+      "备份元数据过大"
+    ],
+    "en": "Backup metadata is too large",
+    "references": [
+      "backup\\BackupJson.kt:20"
+    ]
+  },
+  {
+    "key": "native_61fdca8d6c82",
+    "source": "备份元数据嵌套过深",
+    "parts": [
+      "备份元数据嵌套过深"
+    ],
+    "en": "Backup metadata nesting is too deep",
+    "references": [
+      "backup\\BackupJson.kt:29"
+    ]
+  },
+  {
+    "key": "native_8cefb30732d4",
+    "source": "备份元数据无效",
+    "parts": [
+      "备份元数据无效"
+    ],
+    "en": "Invalid backup metadata",
+    "references": [
+      "backup\\BackupJson.kt:30",
+      "backup\\BackupJson.kt:33"
+    ]
+  },
+  {
+    "key": "native_5d3037708cad",
+    "source": "不支持的原生设置",
+    "parts": [
+      "不支持的原生设置"
+    ],
+    "en": "Unsupported native settings",
+    "references": [
+      "backup\\PortableSettings.kt:24"
+    ]
+  },
+  {
+    "key": "native_81a57c382f9d",
+    "source": "原生设置保存失败",
+    "parts": [
+      "原生设置保存失败"
+    ],
+    "en": "Could not save native settings",
+    "references": [
+      "backup\\PortableSettings.kt:81"
+    ]
+  },
+  {
+    "key": "native_50603e683d4a",
+    "source": "备份路径的父目录无效",
+    "parts": [
+      "备份路径的父目录无效"
+    ],
+    "en": "Invalid parent directory in backup path",
+    "references": [
+      "backup\\WorkstationArchive.kt:42"
+    ]
+  },
+  {
+    "key": "native_c3f838a46b8e",
+    "source": "工作站根目录不能是符号链接",
+    "parts": [
+      "工作站根目录不能是符号链接"
+    ],
+    "en": "The workstation root must not be a symbolic link",
+    "references": [
+      "backup\\WorkstationArchive.kt:65"
+    ]
+  },
+  {
+    "key": "native_9ddd2d8280c8",
+    "source": "文件在备份过程中发生变化",
+    "parts": [
+      "文件在备份过程中发生变化"
+    ],
+    "en": "A file changed during backup",
+    "references": [
+      "backup\\WorkstationArchive.kt:108"
+    ]
+  },
+  {
+    "key": "native_77e1e85147db",
+    "source": "不支持的工作站数据格式",
+    "parts": [
+      "不支持的工作站数据格式"
+    ],
+    "en": "Unsupported workstation data format",
+    "references": [
+      "backup\\WorkstationArchive.kt:135"
+    ]
+  },
+  {
+    "key": "native_a927b5a565af",
+    "source": "备份包含额外数据",
+    "parts": [
+      "备份包含额外数据"
+    ],
+    "en": "The backup contains additional data",
+    "references": [
+      "backup\\WorkstationArchive.kt:150"
+    ]
+  },
+  {
+    "key": "native_c2b886d508f2",
+    "source": "备份包含重复路径",
+    "parts": [
+      "备份包含重复路径"
+    ],
+    "en": "The backup contains duplicate paths",
+    "references": [
+      "backup\\WorkstationArchive.kt:152"
+    ]
+  },
+  {
+    "key": "native_3dab8cd60102",
+    "source": "备份包含不可迁移的运行时配置",
+    "parts": [
+      "备份包含不可迁移的运行时配置"
+    ],
+    "en": "The backup contains runtime settings that cannot be migrated",
+    "references": [
+      "backup\\WorkstationArchive.kt:153"
+    ]
+  },
+  {
+    "key": "native_f45ba674a630",
+    "source": "备份过大或空间不足",
+    "parts": [
+      "备份过大或空间不足"
+    ],
+    "en": "The backup is too large or storage is insufficient",
+    "references": [
+      "backup\\WorkstationArchive.kt:163"
+    ]
+  },
+  {
+    "key": "native_140073e8e77b",
+    "source": "无法恢复符号链接时间戳",
+    "parts": [
+      "无法恢复符号链接时间戳"
+    ],
+    "en": "Could not restore symbolic link timestamps",
+    "references": [
+      "backup\\WorkstationArchive.kt:176"
+    ]
+  },
+  {
+    "key": "native_b0d411aaf62c",
+    "source": "无法恢复命名管道时间戳",
+    "parts": [
+      "无法恢复命名管道时间戳"
+    ],
+    "en": "Could not restore named pipe timestamps",
+    "references": [
+      "backup\\WorkstationArchive.kt:189"
+    ]
+  },
+  {
+    "key": "native_0daee8026db1",
+    "source": "工作站备份与恢复",
+    "parts": [
+      "工作站备份与恢复"
+    ],
+    "en": "Workstation backup and restore",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:65",
+      "backup\\WorkstationBackupControls.kt:155",
+      "backup\\WorkstationBackupControls.kt:156",
+      "backup\\WorkstationBackupService.kt:36",
+      "backup\\WorkstationBackupService.kt:41",
+      "backup\\WorkstationBackupService.kt:85"
+    ]
+  },
+  {
+    "key": "native_1acc18928c5f",
+    "source": "包括 Debian、开发套件、项目、home、OpenCode 会话与配置、Linux 浏览器资料及原生布局设置。",
+    "parts": [
+      "包括 Debian、开发套件、项目、home、OpenCode 会话与配置、Linux 浏览器资料及原生布局设置。"
+    ],
+    "en": "Includes Debian, developer tools, projects, home, OpenCode sessions and settings, Linux browser data, and native layout settings.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:66"
+    ]
+  },
+  {
+    "key": "native_62254d31a535",
+    "source": "临时文件和旧备份不重复打包。Android WebView 的网页存储与未发送草稿留在本机，跨设备时不随此备份迁移。",
+    "parts": [
+      "临时文件和旧备份不重复打包。Android WebView 的网页存储与未发送草稿留在本机，跨设备时不随此备份迁移。"
+    ],
+    "en": "Temporary files and old backups are excluded. Android WebView storage and unsent drafts remain on this device and are not transferred with this backup.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:67"
+    ]
+  },
+  {
+    "key": "native_808eabc7811f",
+    "source": "生成加密备份",
+    "parts": [
+      "生成加密备份"
+    ],
+    "en": "Create encrypted backup",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:69"
+    ]
+  },
+  {
+    "key": "native_201c10b38296",
+    "source": "导入备份",
+    "parts": [
+      "导入备份"
+    ],
+    "en": "Import backup",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:70"
+    ]
+  },
+  {
+    "key": "native_b0e4e4eb7ebd",
+    "source": "文件编辑器还有未保存内容，请先保存。",
+    "parts": [
+      "文件编辑器还有未保存内容，请先保存。"
+    ],
+    "en": "Save your changes in the file editor first.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:72"
+    ]
+  },
+  {
+    "key": "native_0559cd596453",
+    "source": "停止 OpenCode、终端和桌面",
+    "parts": [
+      "停止 OpenCode、终端和桌面"
+    ],
+    "en": "Stop OpenCode, terminals and desktop",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:76",
+      "OpenCodeUpdateControls.kt:63"
+    ]
+  },
+  {
+    "key": "native_fdf2be8e3b93",
+    "source": "有未完成的环境操作，请先恢复。",
+    "parts": [
+      "有未完成的环境操作，请先恢复。"
+    ],
+    "en": "An environment operation is incomplete. Recover it first.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:78"
+    ]
+  },
+  {
+    "key": "native_185f58156330",
+    "source": "恢复未完成的操作",
+    "parts": [
+      "恢复未完成的操作"
+    ],
+    "en": "Recover incomplete operation",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:79"
+    ]
+  },
+  {
+    "key": "native_20831b6f67a7",
+    "source": "还原上次恢复前的整套环境",
+    "parts": [
+      "还原上次恢复前的整套环境"
+    ],
+    "en": "Undo the last environment restore",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:81"
+    ]
+  },
+  {
+    "key": "native_4f392d5d6141",
+    "source": "加密暂存：%1$s",
+    "parts": [
+      "加密暂存：",
+      ""
+    ],
+    "en": "Encrypted local copy: %1$s",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:83"
+    ]
+  },
+  {
+    "key": "native_80077c694212",
+    "source": "保存到文件",
+    "parts": [
+      "保存到文件"
+    ],
+    "en": "Save to file",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:85"
+    ]
+  },
+  {
+    "key": "native_f09619351eb9",
+    "source": "删除暂存副本",
+    "parts": [
+      "删除暂存副本"
+    ],
+    "en": "Delete local copy",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:86"
+    ]
+  },
+  {
+    "key": "native_85c686eb9841",
+    "source": "已处理 %1$s",
+    "parts": [
+      "已处理 ",
+      ""
+    ],
+    "en": "Processed %1$s",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:91",
+      "backup\\WorkstationBackupControls.kt:159"
+    ]
+  },
+  {
+    "key": "native_28d567b926cc",
+    "source": "取消备份任务",
+    "parts": [
+      "取消备份任务"
+    ],
+    "en": "Cancel backup task",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:92"
+    ]
+  },
+  {
+    "key": "native_66c9d896407b",
+    "source": "加密工作站备份",
+    "parts": [
+      "加密工作站备份"
+    ],
+    "en": "Encrypt workstation backup",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:97"
+    ]
+  },
+  {
+    "key": "native_548cd9f0831e",
+    "source": "解密并验证备份",
+    "parts": [
+      "解密并验证备份"
+    ],
+    "en": "Decrypt and verify backup",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:97"
+    ]
+  },
+  {
+    "key": "native_d248f5eca9a5",
+    "source": "备份可能包含 SSH 私钥、API 密钥和账户资料。密码至少 12 个字符，忘记后无法恢复。",
+    "parts": [
+      "备份可能包含 SSH 私钥、API 密钥和账户资料。密码至少 12 个字符，忘记后无法恢复。"
+    ],
+    "en": "Backups may contain SSH private keys, API keys and account data. Use at least 12 characters. A forgotten password cannot be recovered.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:100"
+    ]
+  },
+  {
+    "key": "native_f249422b9ec1",
+    "source": "先在私有目录中解密验证，确认恢复前不会替换当前环境。",
+    "parts": [
+      "先在私有目录中解密验证，确认恢复前不会替换当前环境。"
+    ],
+    "en": "The backup is decrypted and verified in a private directory. Your environment is replaced only after you confirm restoration.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:100"
+    ]
+  },
+  {
+    "key": "native_e7be6841703a",
+    "source": "备份密码",
+    "parts": [
+      "备份密码"
+    ],
+    "en": "Backup password",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:101"
+    ]
+  },
+  {
+    "key": "native_9f6aeedc5a00",
+    "source": "再次输入密码",
+    "parts": [
+      "再次输入密码"
+    ],
+    "en": "Repeat password",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:103"
+    ]
+  },
+  {
+    "key": "native_eafdc5cd4882",
+    "source": "开始加密",
+    "parts": [
+      "开始加密"
+    ],
+    "en": "Start encryption",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:111"
+    ]
+  },
+  {
+    "key": "native_2986b88beade",
+    "source": "解密验证",
+    "parts": [
+      "解密验证"
+    ],
+    "en": "Decrypt and verify",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:111"
+    ]
+  },
+  {
+    "key": "native_0eddf4ad9b94",
+    "source": "取消",
+    "parts": [
+      "取消"
+    ],
+    "en": "Cancel",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:112",
+      "backup\\WorkstationBackupControls.kt:122",
+      "bridge\\BridgeRequests.kt:119",
+      "desktop\\DesktopPage.kt:42",
+      "files\\ProjectFilesPage.kt:109",
+      "files\\ProjectFilesPage.kt:174",
+      "files\\ProjectFilesPage.kt:176",
+      "files\\ProjectFilesPage.kt:183",
+      "MainActivity.kt:229",
+      "OpenCodeUpdateControls.kt:85",
+      "preview\\PreviewLauncher.kt:43"
+    ]
+  },
+  {
+    "key": "native_f46c5ed7412d",
+    "source": "还原整套旧环境？",
+    "parts": [
+      "还原整套旧环境？"
+    ],
+    "en": "Restore the entire previous environment?",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:115"
+    ]
+  },
+  {
+    "key": "native_33eda0946a5b",
+    "source": "删除加密暂存副本？",
+    "parts": [
+      "删除加密暂存副本？"
+    ],
+    "en": "Delete the encrypted local copy?",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:115"
+    ]
+  },
+  {
+    "key": "native_26db24150f2e",
+    "source": "项目、home、Debian 和会话将回到上次恢复之前。当前较新的工作也会保留在应用私有备份中。",
+    "parts": [
+      "项目、home、Debian 和会话将回到上次恢复之前。当前较新的工作也会保留在应用私有备份中。"
+    ],
+    "en": "Projects, home, Debian and sessions will return to their state before the last restore. More recent work will remain in a private backup inside the app.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:116"
+    ]
+  },
+  {
+    "key": "native_1153b30d51d5",
+    "source": "仅删除应用内这份加密暂存文件，已保存到其他位置的文件保留。",
+    "parts": [
+      "仅删除应用内这份加密暂存文件，已保存到其他位置的文件保留。"
+    ],
+    "en": "Only the encrypted local copy inside the app is deleted. Files saved elsewhere remain available.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:116"
+    ]
+  },
+  {
+    "key": "native_427a78a4e69a",
+    "source": "确认",
+    "parts": [
+      "确认"
+    ],
+    "en": "Confirm",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:121"
+    ]
+  },
+  {
+    "key": "native_7af46d7ee003",
+    "source": "恢复这份工作站备份？",
+    "parts": [
+      "恢复这份工作站备份？"
+    ],
+    "en": "Restore this workstation backup?",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:134"
+    ]
+  },
+  {
+    "key": "native_ed40940162d0",
+    "source": "%1$s\n%2$s 个条目 · %3$s\nOpenCode：%4$s",
+    "parts": [
+      "",
+      "\n",
+      " 个条目 · ",
+      "\nOpenCode：",
+      ""
+    ],
+    "en": "%1$s\n%2$s entries · %3$s\nOpenCode: %4$s",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:136"
+    ]
+  },
+  {
+    "key": "native_8370cb5d4818",
+    "source": "备份包含可执行的 Linux 环境，请确认来源可信。确认后会替换整套环境并检查本地服务，旧环境保留以便还原。",
+    "parts": [
+      "备份包含可执行的 Linux 环境，请确认来源可信。确认后会替换整套环境并检查本地服务，旧环境保留以便还原。"
+    ],
+    "en": "The backup contains executable Linux software. Confirm that you trust its source. Restoration replaces the entire environment and checks local services; the previous environment is kept for recovery.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:137"
+    ]
+  },
+  {
+    "key": "native_c3d74ed0c054",
+    "source": "备份验证完成，等待确认恢复。",
+    "parts": [
+      "备份验证完成，等待确认恢复。"
+    ],
+    "en": "Backup verified. Waiting for restoration confirmation.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:138",
+      "backup\\WorkstationBackupService.kt:118"
+    ]
+  },
+  {
+    "key": "native_97076078c749",
+    "source": "同时启用 Chromium 兼容模式（关闭 Linux 进程沙箱）",
+    "parts": [
+      "同时启用 Chromium 兼容模式（关闭 Linux 进程沙箱）"
+    ],
+    "en": "Also enable Chromium compatibility mode (disables the Linux process sandbox)",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:140"
+    ]
+  },
+  {
+    "key": "native_1bfcd9fe12e4",
+    "source": "默认关闭，可稍后在桌面设置重新启用。",
+    "parts": [
+      "默认关闭，可稍后在桌面设置重新启用。"
+    ],
+    "en": "Off by default. You can enable it later in desktop settings.",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:141"
+    ]
+  },
+  {
+    "key": "native_ddf09383413c",
+    "source": "确认恢复",
+    "parts": [
+      "确认恢复"
+    ],
+    "en": "Confirm restore",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:144",
+      "OpenCodeUpdateControls.kt:84"
+    ]
+  },
+  {
+    "key": "native_8e6056b0f629",
+    "source": "取消导入",
+    "parts": [
+      "取消导入"
+    ],
+    "en": "Cancel import",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:145"
+    ]
+  },
+  {
+    "key": "native_63a895901c76",
+    "source": "工作站环境已切换",
+    "parts": [
+      "工作站环境已切换"
+    ],
+    "en": "Workstation environment changed",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:149"
+    ]
+  },
+  {
+    "key": "native_a4c994348a39",
+    "source": "重开工作区",
+    "parts": [
+      "重开工作区"
+    ],
+    "en": "Reopen workspace",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:154"
+    ]
+  },
+  {
+    "key": "native_774947f0653e",
+    "source": "取消任务",
+    "parts": [
+      "取消任务"
+    ],
+    "en": "Cancel task",
+    "references": [
+      "backup\\WorkstationBackupControls.kt:161"
+    ]
+  },
+  {
+    "key": "native_e09a22b18445",
+    "source": "任务已中断，请重新选择操作并输入密码。",
+    "parts": [
+      "任务已中断，请重新选择操作并输入密码。"
+    ],
+    "en": "The task was interrupted. Select an operation again and enter the password.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:76"
+    ]
+  },
+  {
+    "key": "native_38c5fcc634db",
+    "source": "请先保存所有窗口中的文件编辑内容；已有导入可取消后再重试。",
+    "parts": [
+      "请先保存所有窗口中的文件编辑内容；已有导入可取消后再重试。"
+    ],
+    "en": "Save file edits in all windows first. Cancel an existing import before retrying.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:80"
+    ]
+  },
+  {
+    "key": "native_029bfa8ff772",
+    "source": "正在恢复工作站并验证程序",
+    "parts": [
+      "正在恢复工作站并验证程序"
+    ],
+    "en": "Restoring the workstation and verifying programs",
+    "references": [
+      "backup\\WorkstationBackupService.kt:86"
+    ]
+  },
+  {
+    "key": "native_e4f04df818f8",
+    "source": "正在处理用户选择的备份任务",
+    "parts": [
+      "正在处理用户选择的备份任务"
+    ],
+    "en": "Processing your selected backup operation",
+    "references": [
+      "backup\\WorkstationBackupService.kt:86"
+    ]
+  },
+  {
+    "key": "native_8206f072d5ee",
+    "source": "请先停止 OpenCode、终端和桌面，并等待文件操作结束。",
+    "parts": [
+      "请先停止 OpenCode、终端和桌面，并等待文件操作结束。"
+    ],
+    "en": "Stop OpenCode, terminals and desktop, then wait for file operations to finish.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:89"
+    ]
+  },
+  {
+    "key": "native_1a5cde18c609",
+    "source": "无法开始备份任务，请在前台重试。",
+    "parts": [
+      "无法开始备份任务，请在前台重试。"
+    ],
+    "en": "Could not start the backup task. Retry with the app in the foreground.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:94"
+    ]
+  },
+  {
+    "key": "native_1553b714941d",
+    "source": "正在解密并验证备份，原环境保持可恢复…",
+    "parts": [
+      "正在解密并验证备份，原环境保持可恢复…"
+    ],
+    "en": "Decrypting and verifying the backup. The original environment remains recoverable…",
+    "references": [
+      "backup\\WorkstationBackupService.kt:106"
+    ]
+  },
+  {
+    "key": "native_dafd005e953e",
+    "source": "备份已验证，等待在应用中确认恢复",
+    "parts": [
+      "备份已验证，等待在应用中确认恢复"
+    ],
+    "en": "Backup verified. Confirm restoration in the app.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:120"
+    ]
+  },
+  {
+    "key": "native_9fb236184596",
+    "source": "已删除应用内的加密暂存副本。",
+    "parts": [
+      "已删除应用内的加密暂存副本。"
+    ],
+    "en": "Deleted the encrypted local copy inside the app.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:128"
+    ]
+  },
+  {
+    "key": "native_f98e9ac348b6",
+    "source": "已取消操作，原环境数据保留。",
+    "parts": [
+      "已取消操作，原环境数据保留。"
+    ],
+    "en": "Operation cancelled. Original environment data retained.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:131"
+    ]
+  },
+  {
+    "key": "native_2a7a367ee0d2",
+    "source": "操作未完成。请检查密码、备份完整性、Host 版本和可用空间；原环境数据保留。",
+    "parts": [
+      "操作未完成。请检查密码、备份完整性、Host 版本和可用空间；原环境数据保留。"
+    ],
+    "en": "Operation incomplete. Check the password, backup integrity, host version and free space. Original environment data retained.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:134"
+    ]
+  },
+  {
+    "key": "native_29deabd28960",
+    "source": "正在生成加密工作站备份…",
+    "parts": [
+      "正在生成加密工作站备份…"
+    ],
+    "en": "Creating encrypted workstation backup…",
+    "references": [
+      "backup\\WorkstationBackupService.kt:161"
+    ]
+  },
+  {
+    "key": "native_3d137e243806",
+    "source": "加密备份已生成，请选择保存位置。",
+    "parts": [
+      "加密备份已生成，请选择保存位置。"
+    ],
+    "en": "Encrypted backup created. Choose where to save it.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:175"
+    ]
+  },
+  {
+    "key": "native_0e2ac9266ad6",
+    "source": "正在恢复环境并验证本地服务，请勿清除应用数据…",
+    "parts": [
+      "正在恢复环境并验证本地服务，请勿清除应用数据…"
+    ],
+    "en": "Restoring the environment and checking local services. Keep the app data intact…",
+    "references": [
+      "backup\\WorkstationBackupService.kt:182"
+    ]
+  },
+  {
+    "key": "native_840a6a8bf2e6",
+    "source": "工作站已恢复，旧环境保留在应用内备份中。请重开工作区。",
+    "parts": [
+      "工作站已恢复，旧环境保留在应用内备份中。请重开工作区。"
+    ],
+    "en": "Workstation restored. The previous environment remains in a private backup. Reopen the workspace.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:203"
+    ]
+  },
+  {
+    "key": "native_0392cd6152d2",
+    "source": "恢复未通过检查，已回到旧环境；导入的数据保留在私有备份中。",
+    "parts": [
+      "恢复未通过检查，已回到旧环境；导入的数据保留在私有备份中。"
+    ],
+    "en": "Restore checks failed. Returned to the previous environment; imported data remains in a private backup.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:203"
+    ]
+  },
+  {
+    "key": "native_5dc7410b600e",
+    "source": "恢复尚未完成，所有数据目录保留。请保留应用数据并重试恢复。",
+    "parts": [
+      "恢复尚未完成，所有数据目录保留。请保留应用数据并重试恢复。"
+    ],
+    "en": "Restoration is incomplete. All data directories are retained. Keep the app data and retry recovery.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:203"
+    ]
+  },
+  {
+    "key": "native_6d0d4efb0bc4",
+    "source": "正在还原上一套工作站环境…",
+    "parts": [
+      "正在还原上一套工作站环境…"
+    ],
+    "en": "Restoring the previous workstation environment…",
+    "references": [
+      "backup\\WorkstationBackupService.kt:208"
+    ]
+  },
+  {
+    "key": "native_15821323ff89",
+    "source": "已还原旧环境，恢复后的较新工作也保留在私有备份中。请重开工作区。",
+    "parts": [
+      "已还原旧环境，恢复后的较新工作也保留在私有备份中。请重开工作区。"
+    ],
+    "en": "Previous environment restored. More recent work remains in a private backup. Reopen the workspace.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:217"
+    ]
+  },
+  {
+    "key": "native_56dd94f47870",
+    "source": "还原条件不满足，当前环境与备份保留。",
+    "parts": [
+      "还原条件不满足，当前环境与备份保留。"
+    ],
+    "en": "Cannot undo this restore. Current environment and backups retained.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:217"
+    ]
+  },
+  {
+    "key": "native_93530f3fa029",
+    "source": "还原尚未完成，所有数据目录保留。请保留应用数据并重试恢复。",
+    "parts": [
+      "还原尚未完成，所有数据目录保留。请保留应用数据并重试恢复。"
+    ],
+    "en": "Undo is incomplete. All data directories are retained. Keep the app data and retry recovery.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:217"
+    ]
+  },
+  {
+    "key": "native_f12963c80def",
+    "source": "正在保存加密备份…",
+    "parts": [
+      "正在保存加密备份…"
+    ],
+    "en": "Saving encrypted backup…",
+    "references": [
+      "backup\\WorkstationBackupService.kt:222"
+    ]
+  },
+  {
+    "key": "native_0c1c02e2deb6",
+    "source": "加密备份已保存；应用内副本仍可再次保存或手动删除。",
+    "parts": [
+      "加密备份已保存；应用内副本仍可再次保存或手动删除。"
+    ],
+    "en": "Encrypted backup saved. You can save the local copy again or delete it manually.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:233"
+    ]
+  },
+  {
+    "key": "native_d660cccf65e0",
+    "source": "正在清理未确认的导入暂存…",
+    "parts": [
+      "正在清理未确认的导入暂存…"
+    ],
+    "en": "Cleaning up an unconfirmed import…",
+    "references": [
+      "backup\\WorkstationBackupService.kt:237"
+    ]
+  },
+  {
+    "key": "native_800592163979",
+    "source": "已取消导入，原环境保持不变。",
+    "parts": [
+      "已取消导入，原环境保持不变。"
+    ],
+    "en": "Import cancelled. Original environment unchanged.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:238"
+    ]
+  },
+  {
+    "key": "native_5a90367eb834",
+    "source": "已取消导入，原环境保持不变；部分暂存数据仍在应用私有目录中。",
+    "parts": [
+      "已取消导入，原环境保持不变；部分暂存数据仍在应用私有目录中。"
+    ],
+    "en": "Import cancelled. Original environment unchanged; some temporary import data remains in the app's private directory.",
+    "references": [
+      "backup\\WorkstationBackupService.kt:239"
+    ]
+  },
+  {
+    "key": "native_5cd50eb8b75b",
+    "source": "正在准备解密验证…",
+    "parts": [
+      "正在准备解密验证…"
+    ],
+    "en": "Preparing decryption and verification…",
+    "references": [
+      "backup\\WorkstationBackupState.kt:30"
+    ]
+  },
+  {
+    "key": "native_e9f2bea3118c",
+    "source": "正在准备加密备份…",
+    "parts": [
+      "正在准备加密备份…"
+    ],
+    "en": "Preparing encrypted backup…",
+    "references": [
+      "backup\\WorkstationBackupState.kt:30"
+    ]
+  },
+  {
+    "key": "native_7bd5a0c93818",
+    "source": "无法启动备份服务，请在前台重试。",
+    "parts": [
+      "无法启动备份服务，请在前台重试。"
+    ],
+    "en": "Could not start the backup service. Retry in the foreground.",
+    "references": [
+      "backup\\WorkstationBackupState.kt:36"
+    ]
+  },
+  {
+    "key": "native_fa2a1b7be3ec",
+    "source": "请先恢复未完成的环境操作",
+    "parts": [
+      "请先恢复未完成的环境操作"
+    ],
+    "en": "Recover the incomplete environment operation first",
+    "references": [
+      "backup\\WorkstationRestore.kt:33"
+    ]
+  },
+  {
+    "key": "native_f14aea7c819c",
+    "source": "恢复记录无效",
+    "parts": [
+      "恢复记录无效"
+    ],
+    "en": "Invalid recovery record",
+    "references": [
+      "backup\\WorkstationRestore.kt:40"
+    ]
+  },
+  {
+    "key": "native_7c284c55ee08",
+    "source": "恢复目录缺失",
+    "parts": [
+      "恢复目录缺失"
+    ],
+    "en": "Missing recovery directory",
+    "references": [
+      "backup\\WorkstationRestore.kt:42"
+    ]
+  },
+  {
+    "key": "native_bfc4792df15b",
+    "source": "原生设置超过恢复记录限制",
+    "parts": [
+      "原生设置超过恢复记录限制"
+    ],
+    "en": "Native settings exceed the recovery record limit",
+    "references": [
+      "backup\\WorkstationRestore.kt:102"
+    ]
+  },
+  {
+    "key": "native_8d93770ba8c9",
+    "source": "旧环境目录缺失：%1$s",
+    "parts": [
+      "旧环境目录缺失：",
+      ""
+    ],
+    "en": "Missing previous environment directory: %1$s",
+    "references": [
+      "backup\\WorkstationRestore.kt:144",
+      "backup\\WorkstationRestore.kt:162",
+      "backup\\WorkstationRestore.kt:174"
+    ]
+  },
+  {
+    "key": "native_46c0dc084c29",
+    "source": "未知恢复阶段",
+    "parts": [
+      "未知恢复阶段"
+    ],
+    "en": "Unknown recovery stage",
+    "references": [
+      "backup\\WorkstationRestore.kt:150"
+    ]
+  },
+  {
+    "key": "native_20c5124fe175",
+    "source": "未知恢复操作",
+    "parts": [
+      "未知恢复操作"
+    ],
+    "en": "Unknown recovery operation",
+    "references": [
+      "backup\\WorkstationRestore.kt:153"
+    ]
+  },
+  {
+    "key": "native_1c457322b624",
+    "source": "没有可还原的旧环境",
+    "parts": [
+      "没有可还原的旧环境"
+    ],
+    "en": "No previous environment is available to restore",
+    "references": [
+      "backup\\WorkstationRestore.kt:159"
+    ]
+  },
+  {
+    "key": "native_30db1666c8e5",
+    "source": "备份不属于此应用",
+    "parts": [
+      "备份不属于此应用"
+    ],
+    "en": "This backup belongs to a different app",
+    "references": [
+      "backup\\WorkstationValidation.kt:19"
+    ]
+  },
+  {
+    "key": "native_6687d1c64d75",
+    "source": "备份的处理器架构不匹配",
+    "parts": [
+      "备份的处理器架构不匹配"
+    ],
+    "en": "Backup processor architecture does not match",
+    "references": [
+      "backup\\WorkstationValidation.kt:20"
+    ]
+  },
+  {
+    "key": "native_b9b37d57fe6b",
+    "source": "请先将 Android Host 更新到备份所用版本",
+    "parts": [
+      "请先将 Android Host 更新到备份所用版本"
+    ],
+    "en": "Update the Android host to the version used by this backup first",
+    "references": [
+      "backup\\WorkstationValidation.kt:22"
+    ]
+  },
+  {
+    "key": "native_ba5e0a4a9deb",
+    "source": "备份目录不完整",
+    "parts": [
+      "备份目录不完整"
+    ],
+    "en": "The backup directory is incomplete",
+    "references": [
+      "backup\\WorkstationValidation.kt:31"
+    ]
+  },
+  {
+    "key": "native_66106ab3e254",
+    "source": "旧备份缺少可验证的 OpenCode 发布者证明，请用当前 Host 先启动原环境再备份",
+    "parts": [
+      "旧备份缺少可验证的 OpenCode 发布者证明，请用当前 Host 先启动原环境再备份"
+    ],
+    "en": "The old backup has no verifiable OpenCode publisher proof. Start the original environment with this host before backing it up again.",
+    "references": [
+      "backup\\WorkstationValidation.kt:39"
+    ]
+  },
+  {
+    "key": "native_bec13cc92982",
+    "source": "开发环境系统操作",
+    "parts": [
+      "开发环境系统操作"
+    ],
+    "en": "Development environment system actions",
+    "references": [
+      "bridge\\AndroidBridge.kt:164"
+    ]
+  },
+  {
+    "key": "native_65de80229626",
+    "source": "Debian 请求系统操作",
+    "parts": [
+      "Debian 请求系统操作"
+    ],
+    "en": "Debian requested a system action",
+    "references": [
+      "bridge\\AndroidBridge.kt:273"
+    ]
+  },
+  {
+    "key": "native_5e38581cf19c",
+    "source": "点按查看并处理请求",
+    "parts": [
+      "点按查看并处理请求"
+    ],
+    "en": "Tap to review and handle the request",
+    "references": [
+      "bridge\\AndroidBridge.kt:273"
+    ]
+  },
+  {
+    "key": "native_749d406d2c67",
+    "source": "来自 Debian 开发环境",
+    "parts": [
+      "来自 Debian 开发环境"
+    ],
+    "en": "From the Debian development environment",
+    "references": [
+      "bridge\\BridgeRequests.kt:81"
+    ]
+  },
+  {
+    "key": "native_4032d33b2afd",
+    "source": "打开系统浏览器？",
+    "parts": [
+      "打开系统浏览器？"
+    ],
+    "en": "Open the system browser?",
+    "references": [
+      "bridge\\BridgeRequests.kt:123"
+    ]
+  },
+  {
+    "key": "native_ce9491abbc6c",
+    "source": "打开本地项目预览？",
+    "parts": [
+      "打开本地项目预览？"
+    ],
+    "en": "Open a local project preview?",
+    "references": [
+      "bridge\\BridgeRequests.kt:124"
+    ]
+  },
+  {
+    "key": "native_53ce0dec7ef3",
+    "source": "读取剪贴板？",
+    "parts": [
+      "读取剪贴板？"
+    ],
+    "en": "Read the clipboard?",
+    "references": [
+      "bridge\\BridgeRequests.kt:125"
+    ]
+  },
+  {
+    "key": "native_8dfca23f0aa0",
+    "source": "复制到系统剪贴板？",
+    "parts": [
+      "复制到系统剪贴板？"
+    ],
+    "en": "Copy to the system clipboard?",
+    "references": [
+      "bridge\\BridgeRequests.kt:126"
+    ]
+  },
+  {
+    "key": "native_77f761eb70aa",
+    "source": "发送本地通知？",
+    "parts": [
+      "发送本地通知？"
+    ],
+    "en": "Send a local notification?",
+    "references": [
+      "bridge\\BridgeRequests.kt:127"
+    ]
+  },
+  {
+    "key": "native_e6b29e80abb7",
+    "source": "分享项目文件？",
+    "parts": [
+      "分享项目文件？"
+    ],
+    "en": "Share a project file?",
+    "references": [
+      "bridge\\BridgeRequests.kt:128"
+    ]
+  },
+  {
+    "key": "native_9d36f698b3c1",
+    "source": "导入系统文件？",
+    "parts": [
+      "导入系统文件？"
+    ],
+    "en": "Import system files?",
+    "references": [
+      "bridge\\BridgeRequests.kt:129"
+    ]
+  },
+  {
+    "key": "native_8f05ff8c2dea",
+    "source": "导出项目文件？",
+    "parts": [
+      "导出项目文件？"
+    ],
+    "en": "Export a project file?",
+    "references": [
+      "bridge\\BridgeRequests.kt:130"
+    ]
+  },
+  {
+    "key": "native_7ac295421c6d",
+    "source": "在浏览器中打开",
+    "parts": [
+      "在浏览器中打开"
+    ],
+    "en": "Open in browser",
+    "references": [
+      "bridge\\BridgeRequests.kt:133"
+    ]
+  },
+  {
+    "key": "native_bbdb6043b5e9",
+    "source": "打开预览",
+    "parts": [
+      "打开预览"
+    ],
+    "en": "Open preview",
+    "references": [
+      "bridge\\BridgeRequests.kt:134",
+      "preview\\PreviewLauncher.kt:42"
+    ]
+  },
+  {
+    "key": "native_14792d6cd7a6",
+    "source": "允许读取",
+    "parts": [
+      "允许读取"
+    ],
+    "en": "Allow reading",
+    "references": [
+      "bridge\\BridgeRequests.kt:135"
+    ]
+  },
+  {
+    "key": "native_b4caf8b99ddd",
+    "source": "复制到剪贴板",
+    "parts": [
+      "复制到剪贴板"
+    ],
+    "en": "Copy to clipboard",
+    "references": [
+      "bridge\\BridgeRequests.kt:136"
+    ]
+  },
+  {
+    "key": "native_4b3361a8c3a3",
+    "source": "发送通知",
+    "parts": [
+      "发送通知"
+    ],
+    "en": "Send notification",
+    "references": [
+      "bridge\\BridgeRequests.kt:137"
+    ]
+  },
+  {
+    "key": "native_88152a09fa02",
+    "source": "选择分享应用",
+    "parts": [
+      "选择分享应用"
+    ],
+    "en": "Choose a sharing app",
+    "references": [
+      "bridge\\BridgeRequests.kt:138"
+    ]
+  },
+  {
+    "key": "native_7a49a79c57f9",
+    "source": "选择文件",
+    "parts": [
+      "选择文件"
+    ],
+    "en": "Choose files",
+    "references": [
+      "bridge\\BridgeRequests.kt:139"
+    ]
+  },
+  {
+    "key": "native_99d9f87419c5",
+    "source": "选择保存位置",
+    "parts": [
+      "选择保存位置"
+    ],
+    "en": "Choose where to save",
+    "references": [
+      "bridge\\BridgeRequests.kt:140"
+    ]
+  },
+  {
+    "key": "native_23e5bb2090aa",
+    "source": "%1$s\n使用与 OpenCode 隔离的浏览数据打开。",
+    "parts": [
+      "",
+      "\n使用与 OpenCode 隔离的浏览数据打开。"
+    ],
+    "en": "%1$s\nOpens with browser data isolated from OpenCode.",
+    "references": [
+      "bridge\\BridgeRequests.kt:144"
+    ]
+  },
+  {
+    "key": "native_ecf17eaad49e",
+    "source": "将系统剪贴板中的文字交给当前 Debian 程序。",
+    "parts": [
+      "将系统剪贴板中的文字交给当前 Debian 程序。"
+    ],
+    "en": "Give text from the system clipboard to the current Debian program.",
+    "references": [
+      "bridge\\BridgeRequests.kt:145"
+    ]
+  },
+  {
+    "key": "native_dcc6bec24e43",
+    "source": "选择文件并导入到 %1$s。同名文件将另存。",
+    "parts": [
+      "选择文件并导入到 ",
+      "。同名文件将另存。"
+    ],
+    "en": "Choose files to import into %1$s. Existing files are kept and duplicates are renamed.",
+    "references": [
+      "bridge\\BridgeRequests.kt:148"
+    ]
+  },
+  {
+    "key": "native_efdb26088f68",
+    "source": "Chromium 浏览器模式",
+    "parts": [
+      "Chromium 浏览器模式"
+    ],
+    "en": "Chromium browser mode",
+    "references": [
+      "desktop\\DesktopPage.kt:37"
+    ]
+  },
+  {
+    "key": "native_4767f37900f6",
+    "source": "当前为兼容模式，使用独立浏览器配置。Chromium 的 Linux 进程沙箱已关闭，仍可访问本应用内的文件。请避免不受信任的网站，重要账号登录请使用 Android 系统浏览器。切换模式后需重新打开 Chromium。",
+    "parts": [
+      "当前为兼容模式，使用独立浏览器配置。Chromium 的 Linux 进程沙箱已关闭，仍可访问本应用内的文件。请避免不受信任的网站，重要账号登录请使用 Android 系统浏览器。切换模式后需重新打开 Chromium。"
+    ],
+    "en": "Compatibility mode uses a separate browser profile and disables Chromium's Linux process sandbox. The browser can still access files inside this app. Avoid untrusted websites and use the Android system browser for important accounts. Reopen Chromium after changing modes.",
+    "references": [
+      "desktop\\DesktopPage.kt:38"
+    ]
+  },
+  {
+    "key": "native_a4317f2699a2",
+    "source": "默认使用标准 Linux 沙箱。若 Chromium 无法启动，可选择兼容模式。兼容模式会关闭其 Linux 进程沙箱，并使用独立浏览器配置；它仍可访问本应用内文件。请避免不受信任的网站，重要账号登录请使用 Android 系统浏览器。",
+    "parts": [
+      "默认使用标准 Linux 沙箱。若 Chromium 无法启动，可选择兼容模式。兼容模式会关闭其 Linux 进程沙箱，并使用独立浏览器配置；它仍可访问本应用内文件。请避免不受信任的网站，重要账号登录请使用 Android 系统浏览器。"
+    ],
+    "en": "Standard Linux sandboxing is enabled by default. If Chromium cannot start, you can select compatibility mode. It disables the Linux process sandbox and uses a separate profile, while retaining access to app files. Avoid untrusted websites; use the Android system browser for important accounts.",
+    "references": [
+      "desktop\\DesktopPage.kt:38"
+    ]
+  },
+  {
+    "key": "native_3a2596fa9517",
+    "source": "恢复标准模式",
+    "parts": [
+      "恢复标准模式"
+    ],
+    "en": "Restore standard mode",
+    "references": [
+      "desktop\\DesktopPage.kt:42"
+    ]
+  },
+  {
+    "key": "native_eeb5e46d62ae",
+    "source": "启用兼容模式",
+    "parts": [
+      "启用兼容模式"
+    ],
+    "en": "Enable compatibility mode",
+    "references": [
+      "desktop\\DesktopPage.kt:42"
+    ]
+  },
+  {
+    "key": "native_9a45442649f5",
+    "source": "Debian 桌面",
+    "parts": [
+      "Debian 桌面"
+    ],
+    "en": "Debian desktop",
+    "references": [
+      "desktop\\DesktopPage.kt:49",
+      "desktop\\DesktopService.kt:41",
+      "desktop\\DesktopService.kt:222",
+      "runtime\\DevelopmentSessionJournal.kt:17"
+    ]
+  },
+  {
+    "key": "native_db276240d492",
+    "source": "XFCE · Chromium · 共享 /workspace",
+    "parts": [
+      "XFCE · Chromium · 共享 /workspace"
+    ],
+    "en": "XFCE · Chromium · Shared /workspace",
+    "references": [
+      "desktop\\DesktopPage.kt:50"
+    ]
+  },
+  {
+    "key": "native_fb7f60a63fac",
+    "source": "首次安装会联网下载图形组件。安装完成后，桌面可独立于 OpenCode 启停。",
+    "parts": [
+      "首次安装会联网下载图形组件。安装完成后，桌面可独立于 OpenCode 启停。"
+    ],
+    "en": "The first installation downloads graphical components. After installation, the desktop can start and stop independently of OpenCode.",
+    "references": [
+      "desktop\\DesktopPage.kt:55"
+    ]
+  },
+  {
+    "key": "native_d8eb56c08cd5",
+    "source": "中科大镜像",
+    "parts": [
+      "中科大镜像"
+    ],
+    "en": "USTC mirror",
+    "references": [
+      "desktop\\DesktopPage.kt:57"
+    ]
+  },
+  {
+    "key": "native_41e865941e16",
+    "source": "Debian 官方源",
+    "parts": [
+      "Debian 官方源"
+    ],
+    "en": "Official Debian mirror",
+    "references": [
+      "desktop\\DesktopPage.kt:58"
+    ]
+  },
+  {
+    "key": "native_ea341b8a102b",
+    "source": "初始分辨率",
+    "parts": [
+      "初始分辨率"
+    ],
+    "en": "Initial resolution",
+    "references": [
+      "desktop\\DesktopPage.kt:61"
+    ]
+  },
+  {
+    "key": "native_ff1cde9ba35d",
+    "source": "切换页面时桌面继续运行，可在运行环境中停止桌面。",
+    "parts": [
+      "切换页面时桌面继续运行，可在运行环境中停止桌面。"
+    ],
+    "en": "The desktop keeps running when you switch pages. Stop it from Runtime.",
+    "references": [
+      "desktop\\DesktopPage.kt:65"
+    ]
+  },
+  {
+    "key": "native_aadf816e2dc8",
+    "source": "停止桌面任务",
+    "parts": [
+      "停止桌面任务"
+    ],
+    "en": "Stop desktop task",
+    "references": [
+      "desktop\\DesktopPage.kt:68"
+    ]
+  },
+  {
+    "key": "native_ba6d7f6c69ac",
+    "source": "启动桌面",
+    "parts": [
+      "启动桌面"
+    ],
+    "en": "Start desktop",
+    "references": [
+      "desktop\\DesktopPage.kt:68"
+    ]
+  },
+  {
+    "key": "native_ea27a25e5114",
+    "source": "安装桌面组件",
+    "parts": [
+      "安装桌面组件"
+    ],
+    "en": "Install desktop components",
+    "references": [
+      "desktop\\DesktopPage.kt:68"
+    ]
+  },
+  {
+    "key": "native_d3034f064ed3",
+    "source": "Chromium：兼容模式",
+    "parts": [
+      "Chromium：兼容模式"
+    ],
+    "en": "Chromium: compatibility mode",
+    "references": [
+      "desktop\\DesktopPage.kt:70"
+    ]
+  },
+  {
+    "key": "native_d708b8c308e2",
+    "source": "Chromium：标准模式",
+    "parts": [
+      "Chromium：标准模式"
+    ],
+    "en": "Chromium: standard mode",
+    "references": [
+      "desktop\\DesktopPage.kt:70"
+    ]
+  },
+  {
+    "key": "native_0cffb5b0c8e8",
+    "source": "请先在运行环境中安装 Debian 开发套件。",
+    "parts": [
+      "请先在运行环境中安装 Debian 开发套件。"
+    ],
+    "en": "Install the Debian developer tools from Runtime first.",
+    "references": [
+      "desktop\\DesktopPage.kt:71"
+    ]
+  },
+  {
+    "key": "native_d1fa7ef127a7",
+    "source": "运行记录",
+    "parts": [
+      "运行记录"
+    ],
+    "en": "Activity log",
+    "references": [
+      "desktop\\DesktopPage.kt:81",
+      "MainActivity.kt:294"
+    ]
+  },
+  {
+    "key": "native_bfaa904aa4d4",
+    "source": "项目文件夹未能打开，请检查目录是否存在。",
+    "parts": [
+      "项目文件夹未能打开，请检查目录是否存在。"
+    ],
+    "en": "Could not open the project folder. Check that the directory exists.",
+    "references": [
+      "desktop\\DesktopService.kt:68",
+      "desktop\\DesktopService.kt:70"
+    ]
+  },
+  {
+    "key": "native_83c76743b29d",
+    "source": "正在恢复中断的环境操作",
+    "parts": [
+      "正在恢复中断的环境操作"
+    ],
+    "en": "Recovering the interrupted environment operation",
+    "references": [
+      "desktop\\DesktopService.kt:89",
+      "runtime\\RuntimeService.kt:94"
+    ]
+  },
+  {
+    "key": "native_739a730ae247",
+    "source": "环境维护中",
+    "parts": [
+      "环境维护中"
+    ],
+    "en": "Environment maintenance",
+    "references": [
+      "desktop\\DesktopService.kt:90"
+    ]
+  },
+  {
+    "key": "native_049281329843",
+    "source": "请等待更新维护或当前运行任务结束。",
+    "parts": [
+      "请等待更新维护或当前运行任务结束。"
+    ],
+    "en": "Wait for update maintenance or the current task to finish.",
+    "references": [
+      "desktop\\DesktopService.kt:91",
+      "runtime\\RuntimeService.kt:96"
+    ]
+  },
+  {
+    "key": "native_07d5bdf94f1d",
+    "source": "请等待当前开发环境任务结束",
+    "parts": [
+      "请等待当前开发环境任务结束"
+    ],
+    "en": "Wait for the current development environment task to finish",
+    "references": [
+      "desktop\\DesktopService.kt:94"
+    ]
+  },
+  {
+    "key": "native_83099168971c",
+    "source": "正在安装桌面",
+    "parts": [
+      "正在安装桌面"
+    ],
+    "en": "Installing desktop",
+    "references": [
+      "desktop\\DesktopService.kt:95"
+    ]
+  },
+  {
+    "key": "native_85e0c18dde8d",
+    "source": "正在启动桌面",
+    "parts": [
+      "正在启动桌面"
+    ],
+    "en": "Starting desktop",
+    "references": [
+      "desktop\\DesktopService.kt:95"
+    ]
+  },
+  {
+    "key": "native_9a48f8196d8f",
+    "source": "需要处理",
+    "parts": [
+      "需要处理"
+    ],
+    "en": "Needs attention",
+    "references": [
+      "desktop\\DesktopService.kt:98",
+      "desktop\\DesktopService.kt:142",
+      "desktop\\DesktopService.kt:155",
+      "MainActivity.kt:250"
+    ]
+  },
+  {
+    "key": "native_75470fb13121",
+    "source": "已停止",
+    "parts": [
+      "已停止"
+    ],
+    "en": "Stopped",
+    "references": [
+      "desktop\\DesktopService.kt:103",
+      "desktop\\DesktopState.kt:9",
+      "MainActivity.kt:250"
+    ]
+  },
+  {
+    "key": "native_51a53c8109d5",
+    "source": "运行记录无法读取或保存，请在运行环境修复记录或释放空间。",
+    "parts": [
+      "运行记录无法读取或保存，请在运行环境修复记录或释放空间。"
+    ],
+    "en": "Cannot read or save the activity record. Repair it from Runtime or free some storage.",
+    "references": [
+      "desktop\\DesktopService.kt:110",
+      "runtime\\RuntimeService.kt:119"
+    ]
+  },
+  {
+    "key": "native_d36a018cc619",
+    "source": "请先安装 Debian 开发环境",
+    "parts": [
+      "请先安装 Debian 开发环境"
+    ],
+    "en": "Install the Debian development environment first",
+    "references": [
+      "desktop\\DesktopService.kt:113"
+    ]
+  },
+  {
+    "key": "native_80be4c2928a5",
+    "source": "请先连接网络",
+    "parts": [
+      "请先连接网络"
+    ],
+    "en": "Connect to a network first",
+    "references": [
+      "desktop\\DesktopService.kt:118"
+    ]
+  },
+  {
+    "key": "native_a065d81014b1",
+    "source": "桌面组件安装不完整，请重试安装",
+    "parts": [
+      "桌面组件安装不完整，请重试安装"
+    ],
+    "en": "Desktop installation is incomplete. Retry installation.",
+    "references": [
+      "desktop\\DesktopService.kt:121"
+    ]
+  },
+  {
+    "key": "native_721c38b32c35",
+    "source": "桌面已安装，可按需启动。",
+    "parts": [
+      "桌面已安装，可按需启动。"
+    ],
+    "en": "Desktop installed. Start it when needed.",
+    "references": [
+      "desktop\\DesktopService.kt:122"
+    ]
+  },
+  {
+    "key": "native_6c1c52771115",
+    "source": "请先安装桌面组件",
+    "parts": [
+      "请先安装桌面组件"
+    ],
+    "en": "Install desktop components first",
+    "references": [
+      "desktop\\DesktopService.kt:124"
+    ]
+  },
+  {
+    "key": "native_693d90a47827",
+    "source": "桌面操作失败，详细信息过长或不可用。",
+    "parts": [
+      "桌面操作失败，详细信息过长或不可用。"
+    ],
+    "en": "Desktop operation failed. Details are too long or unavailable.",
+    "references": [
+      "desktop\\DesktopService.kt:141"
+    ]
+  },
+  {
+    "key": "native_d3e7be3c38fd",
+    "source": "停止标记未完成保存；已继续清理进程。",
+    "parts": [
+      "停止标记未完成保存；已继续清理进程。"
+    ],
+    "en": "Could not finish saving the stop marker. Process cleanup continued.",
+    "references": [
+      "desktop\\DesktopService.kt:153"
+    ]
+  },
+  {
+    "key": "native_06083621a6ce",
+    "source": "运行记录未完成保存，重开后按中断处理。",
+    "parts": [
+      "运行记录未完成保存，重开后按中断处理。"
+    ],
+    "en": "Could not finish saving the activity record. The next launch will treat this as an interruption.",
+    "references": [
+      "desktop\\DesktopService.kt:156",
+      "runtime\\RuntimeService.kt:154"
+    ]
+  },
+  {
+    "key": "native_04d721a3819a",
+    "source": "桌面运行中",
+    "parts": [
+      "桌面运行中"
+    ],
+    "en": "Desktop running",
+    "references": [
+      "desktop\\DesktopService.kt:179"
+    ]
+  },
+  {
+    "key": "native_c3f0acaf7a73",
+    "source": "桌面操作超时，可查看记录后重试",
+    "parts": [
+      "桌面操作超时，可查看记录后重试"
+    ],
+    "en": "Desktop operation timed out. Review the log and retry.",
+    "references": [
+      "desktop\\DesktopService.kt:181"
+    ]
+  },
+  {
+    "key": "native_e70d328a3ca9",
+    "source": "桌面进程退出（%1$s），请查看运行记录",
+    "parts": [
+      "桌面进程退出（",
+      "），请查看运行记录"
+    ],
+    "en": "Desktop process exited (%1$s). Review the activity log.",
+    "references": [
+      "desktop\\DesktopService.kt:184"
+    ]
+  },
+  {
+    "key": "native_df5c878f2852",
+    "source": "本地图形工作区",
+    "parts": [
+      "本地图形工作区"
+    ],
+    "en": "Local graphical workspace",
+    "references": [
+      "desktop\\DesktopService.kt:222"
+    ]
+  },
+  {
+    "key": "native_7b0455a8daa4",
+    "source": "停止桌面",
+    "parts": [
+      "停止桌面"
+    ],
+    "en": "Stop desktop",
+    "references": [
+      "desktop\\DesktopService.kt:222",
+      "MainActivity.kt:272"
+    ]
+  },
+  {
+    "key": "native_a62123cde9c7",
+    "source": "运行中断与恢复",
+    "parts": [
+      "运行中断与恢复"
+    ],
+    "en": "Interrupted tasks and recovery",
+    "references": [
+      "DevelopmentRecoveryControls.kt:29"
+    ]
+  },
+  {
+    "key": "native_279308947a14",
+    "source": "运行记录无法读取。修复会保留损坏记录副本，不更改项目、会话或 Linux 环境。",
+    "parts": [
+      "运行记录无法读取。修复会保留损坏记录副本，不更改项目、会话或 Linux 环境。"
+    ],
+    "en": "Cannot read the activity record. Repair keeps a copy of the damaged record and preserves projects, sessions and the Linux environment.",
+    "references": [
+      "DevelopmentRecoveryControls.kt:31"
+    ]
+  },
+  {
+    "key": "native_2bd92fae24e5",
+    "source": "修复运行记录",
+    "parts": [
+      "修复运行记录"
+    ],
+    "en": "Repair activity record",
+    "references": [
+      "DevelopmentRecoveryControls.kt:32"
+    ]
+  },
+  {
+    "key": "native_6b43650c2c82",
+    "source": "任务已异常结束。",
+    "parts": [
+      "任务已异常结束。"
+    ],
+    "en": "The task ended unexpectedly.",
+    "references": [
+      "DevelopmentRecoveryControls.kt:36"
+    ]
+  },
+  {
+    "key": "native_acb0c970aaa6",
+    "source": "%1$s 个终端未正常关闭，执行中的命令已中断。",
+    "parts": [
+      "",
+      " 个终端未正常关闭，执行中的命令已中断。"
+    ],
+    "en": "%1$s terminals were not closed normally. Their running commands were interrupted.",
+    "references": [
+      "DevelopmentRecoveryControls.kt:37"
+    ]
+  },
+  {
+    "key": "native_4ba153d8dff5",
+    "source": "已确认重新启动；旧命令没有重放。",
+    "parts": [
+      "已确认重新启动；旧命令没有重放。"
+    ],
+    "en": "Restart confirmed. Previous commands were not replayed.",
+    "references": [
+      "DevelopmentRecoveryControls.kt:38"
+    ]
+  },
+  {
+    "key": "native_f03a2adbf5cd",
+    "source": "已保存的项目与会话保留。需要手动重新打开终端，未完成的命令不会自动继续。",
+    "parts": [
+      "已保存的项目与会话保留。需要手动重新打开终端，未完成的命令不会自动继续。"
+    ],
+    "en": "Saved projects and sessions are retained. Reopen terminals manually; unfinished commands will not resume automatically.",
+    "references": [
+      "DevelopmentRecoveryControls.kt:40"
+    ]
+  },
+  {
+    "key": "native_fa9669296762",
+    "source": "重新启动 OpenCode",
+    "parts": [
+      "重新启动 OpenCode"
+    ],
+    "en": "Restart OpenCode",
+    "references": [
+      "DevelopmentRecoveryControls.kt:41"
+    ]
+  },
+  {
+    "key": "native_bd8130bec5d9",
+    "source": "桌面不会自动重启，可从桌面页重新启动。",
+    "parts": [
+      "桌面不会自动重启，可从桌面页重新启动。"
+    ],
+    "en": "The desktop will not restart automatically. Start it again from the Desktop page.",
+    "references": [
+      "DevelopmentRecoveryControls.kt:42"
+    ]
+  },
+  {
+    "key": "native_644f8f44251f",
+    "source": "打开文件",
+    "parts": [
+      "打开文件"
+    ],
+    "en": "Open file",
+    "references": [
+      "files\\FileSharing.kt:48"
+    ]
+  },
+  {
+    "key": "native_9dfb5569d609",
+    "source": "分享文件",
+    "parts": [
+      "分享文件"
+    ],
+    "en": "Share file",
+    "references": [
+      "files\\FileSharing.kt:48",
+      "files\\ProjectFilesPage.kt:171"
+    ]
+  },
+  {
+    "key": "native_a4500cff3a86",
+    "source": "工作目录不能是符号链接",
+    "parts": [
+      "工作目录不能是符号链接"
+    ],
+    "en": "The working directory must not be a symbolic link",
+    "references": [
+      "files\\ProjectFiles.kt:35",
+      "files\\ProjectFiles.kt:54"
+    ]
+  },
+  {
+    "key": "native_8657d27661bd",
+    "source": "工作目录路径无效",
+    "parts": [
+      "工作目录路径无效"
+    ],
+    "en": "Invalid working directory path",
+    "references": [
+      "files\\ProjectFiles.kt:37"
+    ]
+  },
+  {
+    "key": "native_02b702a9adff",
+    "source": "请选择一个文件",
+    "parts": [
+      "请选择一个文件"
+    ],
+    "en": "Select a file",
+    "references": [
+      "files\\ProjectFiles.kt:53"
+    ]
+  },
+  {
+    "key": "native_924874b746cc",
+    "source": "请在终端中处理符号链接",
+    "parts": [
+      "请在终端中处理符号链接"
+    ],
+    "en": "Manage symbolic links in the terminal",
+    "references": [
+      "files\\ProjectFiles.kt:61"
+    ]
+  },
+  {
+    "key": "native_efea6e422a54",
+    "source": "文件名无效",
+    "parts": [
+      "文件名无效"
+    ],
+    "en": "Invalid file name",
+    "references": [
+      "files\\ProjectFiles.kt:68"
+    ]
+  },
+  {
+    "key": "native_c4989dc37aab",
+    "source": "目录不存在",
+    "parts": [
+      "目录不存在"
+    ],
+    "en": "Directory does not exist",
+    "references": [
+      "files\\ProjectFiles.kt:75"
+    ]
+  },
+  {
+    "key": "native_d613dba39b44",
+    "source": "目标目录不存在",
+    "parts": [
+      "目标目录不存在"
+    ],
+    "en": "Destination directory does not exist",
+    "references": [
+      "files\\ProjectFiles.kt:110"
+    ]
+  },
+  {
+    "key": "native_4f9b3fb4920b",
+    "source": "不能将文件夹放入自身或子目录",
+    "parts": [
+      "不能将文件夹放入自身或子目录"
+    ],
+    "en": "Cannot place a folder inside itself or its descendants",
+    "references": [
+      "files\\ProjectFiles.kt:111"
+    ]
+  },
+  {
+    "key": "native_c3acd5a3254c",
+    "source": "项目中含特殊设备或套接字，无法复制",
+    "parts": [
+      "项目中含特殊设备或套接字，无法复制"
+    ],
+    "en": "The project contains special devices or sockets and cannot be copied",
+    "references": [
+      "files\\ProjectFiles.kt:134"
+    ]
+  },
+  {
+    "key": "native_6c36955b068b",
+    "source": "请选择普通文件",
+    "parts": [
+      "请选择普通文件"
+    ],
+    "en": "Select a regular file",
+    "references": [
+      "files\\ProjectFiles.kt:182",
+      "files\\ProjectFiles.kt:238"
+    ]
+  },
+  {
+    "key": "native_49191d7d489f",
+    "source": "文件超过 2 MB，请使用 OpenCode 或终端编辑",
+    "parts": [
+      "文件超过 2 MB，请使用 OpenCode 或终端编辑"
+    ],
+    "en": "This file exceeds 2 MB. Edit it with OpenCode or the terminal.",
+    "references": [
+      "files\\ProjectFiles.kt:183"
+    ]
+  },
+  {
+    "key": "native_ee42414d36c2",
+    "source": "文件过大",
+    "parts": [
+      "文件过大"
+    ],
+    "en": "File is too large",
+    "references": [
+      "files\\ProjectFiles.kt:191",
+      "files\\ProjectFiles.kt:209"
+    ]
+  },
+  {
+    "key": "native_f0a979f87157",
+    "source": "二进制文件可导出到其他应用打开",
+    "parts": [
+      "二进制文件可导出到其他应用打开"
+    ],
+    "en": "Export binary files to open them in another app",
+    "references": [
+      "files\\ProjectFiles.kt:202"
+    ]
+  },
+  {
+    "key": "native_88a9c82651fc",
+    "source": "请使用 OpenCode 或终端编辑非 UTF-8 文件",
+    "parts": [
+      "请使用 OpenCode 或终端编辑非 UTF-8 文件"
+    ],
+    "en": "Edit files that are not UTF-8 with OpenCode or the terminal",
+    "references": [
+      "files\\ProjectFiles.kt:204"
+    ]
+  },
+  {
+    "key": "native_0189a5c3418c",
+    "source": "文件已被其他工具修改，请重新打开后再编辑",
+    "parts": [
+      "文件已被其他工具修改，请重新打开后再编辑"
+    ],
+    "en": "Another tool changed this file. Reopen it before editing.",
+    "references": [
+      "files\\ProjectFiles.kt:211",
+      "files\\ProjectFiles.kt:218"
+    ]
+  },
+  {
+    "key": "native_0ce79256f4ac",
+    "source": "原目录已不存在，请先恢复原目录",
+    "parts": [
+      "原目录已不存在，请先恢复原目录"
+    ],
+    "en": "The original directory no longer exists. Restore it first.",
+    "references": [
+      "files\\ProjectFiles.kt:274"
+    ]
+  },
+  {
+    "key": "native_46eae321049e",
+    "source": "没有可用的分享应用",
+    "parts": [
+      "没有可用的分享应用"
+    ],
+    "en": "No sharing app is available",
+    "references": [
+      "files\\ProjectFilesPage.kt:55"
+    ]
+  },
+  {
+    "key": "native_87d699d3a26c",
+    "source": "回收站",
+    "parts": [
+      "回收站"
+    ],
+    "en": "Trash",
+    "references": [
+      "files\\ProjectFilesPage.kt:63",
+      "files\\ProjectFilesPage.kt:119",
+      "files\\ProjectFilesPage.kt:128"
+    ]
+  },
+  {
+    "key": "native_d0a8c03d6c07",
+    "source": "项目文件",
+    "parts": [
+      "项目文件"
+    ],
+    "en": "Project files",
+    "references": [
+      "files\\ProjectFilesPage.kt:63",
+      "FloatingWorkspaceNavigation.kt:52"
+    ]
+  },
+  {
+    "key": "native_4dcf914f0b64",
+    "source": "删除的文件可恢复到原目录",
+    "parts": [
+      "删除的文件可恢复到原目录"
+    ],
+    "en": "Deleted files can be restored to their original directories",
+    "references": [
+      "files\\ProjectFilesPage.kt:64"
+    ]
+  },
+  {
+    "key": "native_c5b81b02354f",
+    "source": "返回",
+    "parts": [
+      "返回"
+    ],
+    "en": "Back",
+    "references": [
+      "files\\ProjectFilesPage.kt:66",
+      "preview\\PreviewActivity.kt:138"
+    ]
+  },
+  {
+    "key": "native_e56b99379169",
+    "source": "已复制 %1$s 个文件 · %2$s",
+    "parts": [
+      "已复制 ",
+      " 个文件 · ",
+      ""
+    ],
+    "en": "Copied %1$s files · %2$s",
+    "references": [
+      "files\\ProjectFilesPage.kt:70"
+    ]
+  },
+  {
+    "key": "native_00d9f8ffd4a2",
+    "source": "正在复制…",
+    "parts": [
+      "正在复制…"
+    ],
+    "en": "Copying…",
+    "references": [
+      "files\\ProjectFilesPage.kt:70"
+    ]
+  },
+  {
+    "key": "native_85199bb36b04",
+    "source": "取消操作",
+    "parts": [
+      "取消操作"
+    ],
+    "en": "Cancel operation",
+    "references": [
+      "files\\ProjectFilesPage.kt:71"
+    ]
+  },
+  {
+    "key": "native_e9dc52d1c24b",
+    "source": "关闭",
+    "parts": [
+      "关闭"
+    ],
+    "en": "Close",
+    "references": [
+      "files\\ProjectFilesPage.kt:77"
+    ]
+  },
+  {
+    "key": "native_4e1e5aacac7f",
+    "source": "新会话",
+    "parts": [
+      "新会话"
+    ],
+    "en": "New session",
+    "references": [
+      "files\\ProjectFilesPage.kt:82"
+    ]
+  },
+  {
+    "key": "native_23c250cc8e0b",
+    "source": "在此开始 OpenCode 会话",
+    "parts": [
+      "在此开始 OpenCode 会话"
+    ],
+    "en": "Start an OpenCode session here",
+    "references": [
+      "files\\ProjectFilesPage.kt:82",
+      "files\\ProjectFilesPage.kt:167"
+    ]
+  },
+  {
+    "key": "native_f22da21fd54f",
+    "source": "终端",
+    "parts": [
+      "终端"
+    ],
+    "en": "Terminal",
+    "references": [
+      "files\\ProjectFilesPage.kt:83",
+      "FloatingWorkspaceNavigation.kt:51"
+    ]
+  },
+  {
+    "key": "native_3645f30b3412",
+    "source": "有未保存的更改",
+    "parts": [
+      "有未保存的更改"
+    ],
+    "en": "Unsaved changes",
+    "references": [
+      "files\\ProjectFilesPage.kt:88"
+    ]
+  },
+  {
+    "key": "native_2266227605c4",
+    "source": "保存",
+    "parts": [
+      "保存"
+    ],
+    "en": "Save",
+    "references": [
+      "files\\ProjectFilesPage.kt:89"
+    ]
+  },
+  {
+    "key": "native_064fbc7ad3f3",
+    "source": "回收站是空的",
+    "parts": [
+      "回收站是空的"
+    ],
+    "en": "Trash is empty",
+    "references": [
+      "files\\ProjectFilesPage.kt:97"
+    ]
+  },
+  {
+    "key": "native_a9e739b13e52",
+    "source": "恢复",
+    "parts": [
+      "恢复"
+    ],
+    "en": "Restore",
+    "references": [
+      "files\\ProjectFilesPage.kt:99"
+    ]
+  },
+  {
+    "key": "native_45985dc2183e",
+    "source": "待移动：",
+    "parts": [
+      "待移动："
+    ],
+    "en": "Move: ",
+    "references": [
+      "files\\ProjectFilesPage.kt:107"
+    ]
+  },
+  {
+    "key": "native_31214130b5b7",
+    "source": "待复制：",
+    "parts": [
+      "待复制："
+    ],
+    "en": "Copy: ",
+    "references": [
+      "files\\ProjectFilesPage.kt:107"
+    ]
+  },
+  {
+    "key": "native_07e5c3158f35",
+    "source": "粘贴",
+    "parts": [
+      "粘贴"
+    ],
+    "en": "Paste",
+    "references": [
+      "files\\ProjectFilesPage.kt:108"
+    ]
+  },
+  {
+    "key": "native_831b4e0fb574",
+    "source": "新建",
+    "parts": [
+      "新建"
+    ],
+    "en": "New",
+    "references": [
+      "files\\ProjectFilesPage.kt:115"
+    ]
+  },
+  {
+    "key": "native_ff65a22d7087",
+    "source": "新建文件夹",
+    "parts": [
+      "新建文件夹"
+    ],
+    "en": "New folder",
+    "references": [
+      "files\\ProjectFilesPage.kt:117",
+      "files\\ProjectFilesPage.kt:125",
+      "files\\ProjectFilesPage.kt:158"
+    ]
+  },
+  {
+    "key": "native_71faed44a86c",
+    "source": "新建文件",
+    "parts": [
+      "新建文件"
+    ],
+    "en": "New file",
+    "references": [
+      "files\\ProjectFilesPage.kt:118",
+      "files\\ProjectFilesPage.kt:126",
+      "files\\ProjectFilesPage.kt:158"
+    ]
+  },
+  {
+    "key": "native_8dddd460f6ae",
+    "source": "导入",
+    "parts": [
+      "导入"
+    ],
+    "en": "Import",
+    "references": [
+      "files\\ProjectFilesPage.kt:122",
+      "files\\ProjectFilesPage.kt:127"
+    ]
+  },
+  {
+    "key": "native_d85825123e60",
+    "source": "刷新",
+    "parts": [
+      "刷新"
+    ],
+    "en": "Refresh",
+    "references": [
+      "files\\ProjectFilesPage.kt:123",
+      "files\\ProjectFilesPage.kt:129",
+      "preview\\PreviewActivity.kt:140"
+    ]
+  },
+  {
+    "key": "native_ac9d73843736",
+    "source": "搜索当前目录",
+    "parts": [
+      "搜索当前目录"
+    ],
+    "en": "Search this directory",
+    "references": [
+      "files\\ProjectFilesPage.kt:131"
+    ]
+  },
+  {
+    "key": "native_21eef82963ee",
+    "source": "目录是空的，可导入文件或创建项目。",
+    "parts": [
+      "目录是空的，可导入文件或创建项目。"
+    ],
+    "en": "This directory is empty. Import files or create a project.",
+    "references": [
+      "files\\ProjectFilesPage.kt:134"
+    ]
+  },
+  {
+    "key": "native_e8a4cecaa371",
+    "source": "没有匹配的文件",
+    "parts": [
+      "没有匹配的文件"
+    ],
+    "en": "No matching files",
+    "references": [
+      "files\\ProjectFilesPage.kt:134"
+    ]
+  },
+  {
+    "key": "native_d674bc0f86b8",
+    "source": "文件操作",
+    "parts": [
+      "文件操作"
+    ],
+    "en": "File actions",
+    "references": [
+      "files\\ProjectFilesPage.kt:146"
+    ]
+  },
+  {
+    "key": "native_d04a47c87cc8",
+    "source": "符号链接",
+    "parts": [
+      "符号链接"
+    ],
+    "en": "Symbolic link",
+    "references": [
+      "files\\ProjectFilesPage.kt:148"
+    ]
+  },
+  {
+    "key": "native_e0ba66f5246a",
+    "source": "文件夹",
+    "parts": [
+      "文件夹"
+    ],
+    "en": "Folder",
+    "references": [
+      "files\\ProjectFilesPage.kt:148"
+    ]
+  },
+  {
+    "key": "native_f170b42599e8",
+    "source": "重命名",
+    "parts": [
+      "重命名"
+    ],
+    "en": "Rename",
+    "references": [
+      "files\\ProjectFilesPage.kt:159",
+      "files\\ProjectFilesPage.kt:163"
+    ]
+  },
+  {
+    "key": "native_4cdacf57ead2",
+    "source": "复制",
+    "parts": [
+      "复制"
+    ],
+    "en": "Copy",
+    "references": [
+      "files\\ProjectFilesPage.kt:164"
+    ]
+  },
+  {
+    "key": "native_124aa030694e",
+    "source": "移动到…",
+    "parts": [
+      "移动到…"
+    ],
+    "en": "Move to…",
+    "references": [
+      "files\\ProjectFilesPage.kt:165"
+    ]
+  },
+  {
+    "key": "native_ac990518ed87",
+    "source": "在此打开终端",
+    "parts": [
+      "在此打开终端"
+    ],
+    "en": "Open terminal here",
+    "references": [
+      "files\\ProjectFilesPage.kt:168"
+    ]
+  },
+  {
+    "key": "native_87bc93932d8a",
+    "source": "导出到系统文件",
+    "parts": [
+      "导出到系统文件"
+    ],
+    "en": "Export to system files",
+    "references": [
+      "files\\ProjectFilesPage.kt:170"
+    ]
+  },
+  {
+    "key": "native_dd37f132172f",
+    "source": "移入回收站",
+    "parts": [
+      "移入回收站"
+    ],
+    "en": "Move to trash",
+    "references": [
+      "files\\ProjectFilesPage.kt:172"
+    ]
+  },
+  {
+    "key": "native_7318746d337c",
+    "source": "移入回收站？",
+    "parts": [
+      "移入回收站？"
+    ],
+    "en": "Move to trash?",
+    "references": [
+      "files\\ProjectFilesPage.kt:176"
+    ]
+  },
+  {
+    "key": "native_2b5ee3f10a56",
+    "source": "“%1$s”可在回收站中恢复。",
+    "parts": [
+      "“",
+      "”可在回收站中恢复。"
+    ],
+    "en": "You can restore “%1$s” from the trash.",
+    "references": [
+      "files\\ProjectFilesPage.kt:176"
+    ]
+  },
+  {
+    "key": "native_e49730c9e7e1",
+    "source": "移入",
+    "parts": [
+      "移入"
+    ],
+    "en": "Move",
+    "references": [
+      "files\\ProjectFilesPage.kt:176"
+    ]
+  },
+  {
+    "key": "native_4e47aaa113fc",
+    "source": "放弃未保存的更改？",
+    "parts": [
+      "放弃未保存的更改？"
+    ],
+    "en": "Discard unsaved changes?",
+    "references": [
+      "files\\ProjectFilesPage.kt:177"
+    ]
+  },
+  {
+    "key": "native_63b75399ef1a",
+    "source": "放弃更改",
+    "parts": [
+      "放弃更改"
+    ],
+    "en": "Discard changes",
+    "references": [
+      "files\\ProjectFilesPage.kt:177"
+    ]
+  },
+  {
+    "key": "native_d9618f7b8d25",
+    "source": "继续编辑",
+    "parts": [
+      "继续编辑"
+    ],
+    "en": "Continue editing",
+    "references": [
+      "files\\ProjectFilesPage.kt:177"
+    ]
+  },
+  {
+    "key": "native_76ce6aef5479",
+    "source": "名称",
+    "parts": [
+      "名称"
+    ],
+    "en": "Name",
+    "references": [
+      "files\\ProjectFilesPage.kt:182"
+    ]
+  },
+  {
+    "key": "native_35b0fc30b909",
+    "source": "确定",
+    "parts": [
+      "确定"
+    ],
+    "en": "OK",
+    "references": [
+      "files\\ProjectFilesPage.kt:183"
+    ]
+  },
+  {
+    "key": "native_11b319774788",
+    "source": "环境已恢复，请重开工作区",
+    "parts": [
+      "环境已恢复，请重开工作区"
+    ],
+    "en": "Environment restored. Reopen the workspace.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:58"
+    ]
+  },
+  {
+    "key": "native_7e4a5bcb0461",
+    "source": "请先在运行环境中完成中断操作的恢复",
+    "parts": [
+      "请先在运行环境中完成中断操作的恢复"
+    ],
+    "en": "Finish recovering the interrupted operation in Runtime first",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:61"
+    ]
+  },
+  {
+    "key": "native_f29af06e7c99",
+    "source": "环境正在维护，请稍后重试",
+    "parts": [
+      "环境正在维护，请稍后重试"
+    ],
+    "en": "Environment maintenance is in progress. Retry later.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:64"
+    ]
+  },
+  {
+    "key": "native_3bd28258feb0",
+    "source": "操作已取消",
+    "parts": [
+      "操作已取消"
+    ],
+    "en": "Operation cancelled",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:69"
+    ]
+  },
+  {
+    "key": "native_c508721eb3cd",
+    "source": "已有同名文件，请换一个名称",
+    "parts": [
+      "已有同名文件，请换一个名称"
+    ],
+    "en": "A file with this name already exists. Choose another name.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:71"
+    ]
+  },
+  {
+    "key": "native_1e8274fe468a",
+    "source": "文件已不存在，请刷新目录",
+    "parts": [
+      "文件已不存在，请刷新目录"
+    ],
+    "en": "The file no longer exists. Refresh the directory.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:72"
+    ]
+  },
+  {
+    "key": "native_ac05dcaad6ed",
+    "source": "没有文件访问权限",
+    "parts": [
+      "没有文件访问权限"
+    ],
+    "en": "File access permission denied",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:73"
+    ]
+  },
+  {
+    "key": "native_cd808e4c321e",
+    "source": "无法完成操作",
+    "parts": [
+      "无法完成操作"
+    ],
+    "en": "Could not complete the operation",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:74"
+    ]
+  },
+  {
+    "key": "native_01cbe9be8b9f",
+    "source": "操作未完成，请检查存储空间或重新选择文件",
+    "parts": [
+      "操作未完成，请检查存储空间或重新选择文件"
+    ],
+    "en": "Operation incomplete. Check available storage or select the files again.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:75"
+    ]
+  },
+  {
+    "key": "native_3f9983126fd7",
+    "source": "请在运行环境中检查 OpenCode 启动状态",
+    "parts": [
+      "请在运行环境中检查 OpenCode 启动状态"
+    ],
+    "en": "Check the OpenCode startup status in Runtime",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:109"
+    ]
+  },
+  {
+    "key": "native_6ed9fe2281bb",
+    "source": "无法打开新终端，请检查会话数量",
+    "parts": [
+      "无法打开新终端，请检查会话数量"
+    ],
+    "en": "Could not open a new terminal. Check the number of sessions.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:112"
+    ]
+  },
+  {
+    "key": "native_2160fde3813a",
+    "source": "符号链接可在终端中处理，文件管理器不会跟随链接",
+    "parts": [
+      "符号链接可在终端中处理，文件管理器不会跟随链接"
+    ],
+    "en": "Manage symbolic links in the terminal. The file manager does not follow links.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:134"
+    ]
+  },
+  {
+    "key": "native_7a844e9d4017",
+    "source": "移动完成",
+    "parts": [
+      "移动完成"
+    ],
+    "en": "Move completed",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:163"
+    ]
+  },
+  {
+    "key": "native_573877894fcf",
+    "source": "复制完成",
+    "parts": [
+      "复制完成"
+    ],
+    "en": "Copy completed",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:163"
+    ]
+  },
+  {
+    "key": "native_cc9b4d8d36ad",
+    "source": "已移入回收站",
+    "parts": [
+      "已移入回收站"
+    ],
+    "en": "Moved to trash",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:177"
+    ]
+  },
+  {
+    "key": "native_862330af933f",
+    "source": "已恢复到原目录",
+    "parts": [
+      "已恢复到原目录"
+    ],
+    "en": "Restored to the original directory",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:185"
+    ]
+  },
+  {
+    "key": "native_beda23c9d52b",
+    "source": "环境正在维护或已切换，请重开工作区后继续编辑",
+    "parts": [
+      "环境正在维护或已切换，请重开工作区后继续编辑"
+    ],
+    "en": "Environment maintenance or replacement occurred. Reopen the workspace before editing.",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:189"
+    ]
+  },
+  {
+    "key": "native_678c6953bb2b",
+    "source": "已保存",
+    "parts": [
+      "已保存"
+    ],
+    "en": "Saved",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:196"
+    ]
+  },
+  {
+    "key": "native_8063159f2178",
+    "source": "无法读取所选文件",
+    "parts": [
+      "无法读取所选文件"
+    ],
+    "en": "Cannot read the selected file",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:228"
+    ]
+  },
+  {
+    "key": "native_4cdc2180d2ac",
+    "source": "已导入 %1$s 个文件",
+    "parts": [
+      "已导入 ",
+      " 个文件"
+    ],
+    "en": "Imported %1$s files",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:233"
+    ]
+  },
+  {
+    "key": "native_e98763643b93",
+    "source": "无法写入所选位置",
+    "parts": [
+      "无法写入所选位置"
+    ],
+    "en": "Cannot write to the selected location",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:238"
+    ]
+  },
+  {
+    "key": "native_5afd173be7fa",
+    "source": "导出完成",
+    "parts": [
+      "导出完成"
+    ],
+    "en": "Export completed",
+    "references": [
+      "files\\ProjectFilesViewModel.kt:240"
+    ]
+  },
+  {
+    "key": "native_05fc7dc7dd9b",
+    "source": "代码与会话",
+    "parts": [
+      "代码与会话"
+    ],
+    "en": "Code and sessions",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:51"
+    ]
+  },
+  {
+    "key": "native_8745ed51cadd",
+    "source": "桌面",
+    "parts": [
+      "桌面"
+    ],
+    "en": "Desktop",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:52"
+    ]
+  },
+  {
+    "key": "native_3dcdcfc4b80d",
+    "source": "图形工作区",
+    "parts": [
+      "图形工作区"
+    ],
+    "en": "Graphical workspace",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:52"
+    ]
+  },
+  {
+    "key": "native_770d49c5f689",
+    "source": "文件",
+    "parts": [
+      "文件"
+    ],
+    "en": "Files",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:52"
+    ]
+  },
+  {
+    "key": "native_6a9b6480b58f",
+    "source": "运行环境",
+    "parts": [
+      "运行环境"
+    ],
+    "en": "Runtime",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:52",
+      "MainActivity.kt:242"
+    ]
+  },
+  {
+    "key": "native_b561fe9204cc",
+    "source": "服务与开发工具",
+    "parts": [
+      "服务与开发工具"
+    ],
+    "en": "Services and developer tools",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:52"
+    ]
+  },
+  {
+    "key": "native_70850bdeeabd",
+    "source": "关闭页面菜单",
+    "parts": [
+      "关闭页面菜单"
+    ],
+    "en": "Close page menu",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:81",
+      "FloatingWorkspaceNavigation.kt:127"
+    ]
+  },
+  {
+    "key": "native_b4549acb48e8",
+    "source": "工作空间",
+    "parts": [
+      "工作空间"
+    ],
+    "en": "Workspace",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:91"
+    ]
+  },
+  {
+    "key": "native_3d3551f4660f",
+    "source": "悬浮球不透明度 %1$s%",
+    "parts": [
+      "悬浮球不透明度 ",
+      "%"
+    ],
+    "en": "Floating button opacity %1$s%",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:112"
+    ]
+  },
+  {
+    "key": "native_26b155693efb",
+    "source": "数值越低，悬浮球越透明",
+    "parts": [
+      "数值越低，悬浮球越透明"
+    ],
+    "en": "Lower values make the floating button more transparent",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:114"
+    ]
+  },
+  {
+    "key": "native_e031beabfc9a",
+    "source": "打开页面菜单",
+    "parts": [
+      "打开页面菜单"
+    ],
+    "en": "Open page menu",
+    "references": [
+      "FloatingWorkspaceNavigation.kt:127"
+    ]
+  },
+  {
+    "key": "native_106ee775b538",
+    "source": "正在连接本地 OpenCode…",
+    "parts": [
+      "正在连接本地 OpenCode…"
+    ],
+    "en": "Connecting to local OpenCode…",
+    "references": [
+      "LocalWebView.kt:123"
+    ]
+  },
+  {
+    "key": "native_a021adc1f449",
+    "source": "本地连接需要恢复",
+    "parts": [
+      "本地连接需要恢复"
+    ],
+    "en": "Local connection needs recovery",
+    "references": [
+      "LocalWebView.kt:123"
+    ]
+  },
+  {
+    "key": "native_dacb8837471c",
+    "source": "重新连接",
+    "parts": [
+      "重新连接"
+    ],
+    "en": "Reconnect",
+    "references": [
+      "LocalWebView.kt:124"
+    ]
+  },
+  {
+    "key": "native_17584aa60ae6",
+    "source": "本地资源缓存准备失败",
+    "parts": [
+      "本地资源缓存准备失败"
+    ],
+    "en": "Could not prepare the local resource cache",
+    "references": [
+      "LocalWebView.kt:230"
+    ]
+  },
+  {
+    "key": "native_3b3b80064ccb",
+    "source": "正在准备本地 OpenCode…",
+    "parts": [
+      "正在准备本地 OpenCode…"
+    ],
+    "en": "Preparing local OpenCode…",
+    "references": [
+      "LocalWebView.kt:230"
+    ]
+  },
+  {
+    "key": "native_2560ee8fdd16",
+    "source": "重试",
+    "parts": [
+      "重试"
+    ],
+    "en": "Retry",
+    "references": [
+      "LocalWebView.kt:231"
+    ]
+  },
+  {
+    "key": "native_b07809340403",
+    "source": "工作区位置暂未保存，可稍后重试。",
+    "parts": [
+      "工作区位置暂未保存，可稍后重试。"
+    ],
+    "en": "Workspace location has not been saved yet. Retry later.",
+    "references": [
+      "MainActivity.kt:185"
+    ]
+  },
+  {
+    "key": "native_e4ab10392d05",
+    "source": "本地服务正在准备，连接后会自动打开工作区。",
+    "parts": [
+      "本地服务正在准备，连接后会自动打开工作区。"
+    ],
+    "en": "The local service is getting ready. Your workspace will open automatically once connected.",
+    "references": [
+      "MainActivity.kt:206"
+    ]
+  },
+  {
+    "key": "native_20ea15973287",
+    "source": "上次运行已中断。请前往运行环境重新启动，终端命令不会自动重放。",
+    "parts": [
+      "上次运行已中断。请前往运行环境重新启动，终端命令不会自动重放。"
+    ],
+    "en": "The previous run was interrupted. Restart from Runtime; terminal commands will not be replayed automatically.",
+    "references": [
+      "MainActivity.kt:206"
+    ]
+  },
+  {
+    "key": "native_f2f2f6d32544",
+    "source": "在运行环境中启动 OpenCode，即可进入代码与会话。",
+    "parts": [
+      "在运行环境中启动 OpenCode，即可进入代码与会话。"
+    ],
+    "en": "Start OpenCode from Runtime to open code and sessions.",
+    "references": [
+      "MainActivity.kt:206"
+    ]
+  },
+  {
+    "key": "native_abbac5c22111",
+    "source": "退出应用？",
+    "parts": [
+      "退出应用？"
+    ],
+    "en": "Exit the app?",
+    "references": [
+      "MainActivity.kt:218"
+    ]
+  },
+  {
+    "key": "native_fd8eb11aab0a",
+    "source": "开发环境可以继续在后台运行，稍后可从通知栏返回。",
+    "parts": [
+      "开发环境可以继续在后台运行，稍后可从通知栏返回。"
+    ],
+    "en": "The development environment can keep running in the background. Return later from the notification.",
+    "references": [
+      "MainActivity.kt:221"
+    ]
+  },
+  {
+    "key": "native_814a8fb24b62",
+    "source": "确认退出当前工作区。",
+    "parts": [
+      "确认退出当前工作区。"
+    ],
+    "en": "Exit the current workspace?",
+    "references": [
+      "MainActivity.kt:221"
+    ]
+  },
+  {
+    "key": "native_a76464945c2d",
+    "source": "同时停止开发环境",
+    "parts": [
+      "同时停止开发环境"
+    ],
+    "en": "Also stop the development environment",
+    "references": [
+      "MainActivity.kt:224"
+    ]
+  },
+  {
+    "key": "native_b814fd8d6bc5",
+    "source": "退出",
+    "parts": [
+      "退出"
+    ],
+    "en": "Exit",
+    "references": [
+      "MainActivity.kt:228"
+    ]
+  },
+  {
+    "key": "native_b00143b08ff1",
+    "source": "开发工作站已就绪",
+    "parts": [
+      "开发工作站已就绪"
+    ],
+    "en": "Development workstation ready",
+    "references": [
+      "MainActivity.kt:244"
+    ]
+  },
+  {
+    "key": "native_51bca456a350",
+    "source": "你的 Debian 开发工作站",
+    "parts": [
+      "你的 Debian 开发工作站"
+    ],
+    "en": "Your Debian development workstation",
+    "references": [
+      "MainActivity.kt:244"
+    ]
+  },
+  {
+    "key": "native_0c2acd0b6057",
+    "source": "运行中",
+    "parts": [
+      "运行中"
+    ],
+    "en": "Running",
+    "references": [
+      "MainActivity.kt:250"
+    ]
+  },
+  {
+    "key": "native_cb40c67e7cb1",
+    "source": "正在启动",
+    "parts": [
+      "正在启动"
+    ],
+    "en": "Starting",
+    "references": [
+      "MainActivity.kt:250"
+    ]
+  },
+  {
+    "key": "native_44da7f6a451d",
+    "source": "正在停止",
+    "parts": [
+      "正在停止"
+    ],
+    "en": "Stopping",
+    "references": [
+      "MainActivity.kt:250"
+    ]
+  },
+  {
+    "key": "native_b7e1503a7239",
+    "source": "修复开发环境",
+    "parts": [
+      "修复开发环境"
+    ],
+    "en": "Repair development environment",
+    "references": [
+      "MainActivity.kt:255"
+    ]
+  },
+  {
+    "key": "native_7c91bd67ff14",
+    "source": "安装开发环境",
+    "parts": [
+      "安装开发环境"
+    ],
+    "en": "Install development environment",
+    "references": [
+      "MainActivity.kt:255"
+    ]
+  },
+  {
+    "key": "native_cfd73bb04860",
+    "source": "停止环境",
+    "parts": [
+      "停止环境"
+    ],
+    "en": "Stop environment",
+    "references": [
+      "MainActivity.kt:256"
+    ]
+  },
+  {
+    "key": "native_e7ec95694dce",
+    "source": "启动 OpenCode",
+    "parts": [
+      "启动 OpenCode"
+    ],
+    "en": "Start OpenCode",
+    "references": [
+      "MainActivity.kt:256"
+    ]
+  },
+  {
+    "key": "native_5d4600a269e9",
+    "source": "检查环境",
+    "parts": [
+      "检查环境"
+    ],
+    "en": "Check environment",
+    "references": [
+      "MainActivity.kt:257"
+    ]
+  },
+  {
+    "key": "native_67b4d4b8d1c0",
+    "source": "更新 Debian 开发套件",
+    "parts": [
+      "更新 Debian 开发套件"
+    ],
+    "en": "Update Debian developer tools",
+    "references": [
+      "MainActivity.kt:260"
+    ]
+  },
+  {
+    "key": "native_c114ec62712b",
+    "source": "保留旧环境备份、项目与会话数据。",
+    "parts": [
+      "保留旧环境备份、项目与会话数据。"
+    ],
+    "en": "Previous environment backup, projects and session data are retained.",
+    "references": [
+      "MainActivity.kt:261"
+    ]
+  },
+  {
+    "key": "native_eb3114155716",
+    "source": "安装 / 更新语言服务",
+    "parts": [
+      "安装 / 更新语言服务"
+    ],
+    "en": "Install / update language servers",
+    "references": [
+      "MainActivity.kt:265"
+    ]
+  },
+  {
+    "key": "native_01af25e5a7d9",
+    "source": "C/C++（clangd）与 Python（pylsp），通过签名 Debian 源联网安装。请先停止 OpenCode 和桌面。",
+    "parts": [
+      "C/C++（clangd）与 Python（pylsp），通过签名 Debian 源联网安装。请先停止 OpenCode 和桌面。"
+    ],
+    "en": "C/C++ (clangd) and Python (pylsp), installed online from signed Debian repositories. Stop OpenCode and the desktop first.",
+    "references": [
+      "MainActivity.kt:266"
+    ]
+  },
+  {
+    "key": "native_2c7251cce661",
+    "source": "轻点悬浮球切换页面，拖动可调整位置。",
+    "parts": [
+      "轻点悬浮球切换页面，拖动可调整位置。"
+    ],
+    "en": "Tap the floating button to switch pages. Drag it to reposition it.",
+    "references": [
+      "MainActivity.kt:286"
+    ]
+  },
+  {
+    "key": "native_dcef145e6a9b",
+    "source": "启动后，运行信息会显示在这里。",
+    "parts": [
+      "启动后，运行信息会显示在这里。"
+    ],
+    "en": "Runtime information appears here after startup.",
+    "references": [
+      "MainActivity.kt:297"
+    ]
+  },
+  {
+    "key": "native_a8243a4e0d22",
+    "source": "打开运行环境",
+    "parts": [
+      "打开运行环境"
+    ],
+    "en": "Open Runtime",
+    "references": [
+      "MainActivity.kt:310"
+    ]
+  },
+  {
+    "key": "native_6c5d2fe4f42a",
+    "source": "APK 内置版本",
+    "parts": [
+      "APK 内置版本"
+    ],
+    "en": "Bundled APK version",
+    "references": [
+      "OpenCodeUpdateControls.kt:26",
+      "OpenCodeUpdateControls.kt:33"
+    ]
+  },
+  {
+    "key": "native_e6b986511faf",
+    "source": "OpenCode 更新",
+    "parts": [
+      "OpenCode 更新"
+    ],
+    "en": "OpenCode updates",
+    "references": [
+      "OpenCodeUpdateControls.kt:39",
+      "runtime\\update\\OpenCodeFetchService.kt:106",
+      "runtime\\update\\OpenCodeUpdateService.kt:30",
+      "runtime\\update\\OpenCodeUpdateService.kt:33"
+    ]
+  },
+  {
+    "key": "native_36ab16248f65",
+    "source": "导入由本应用发布者签名的 .ocaupdate，官方前后端一起更新。",
+    "parts": [
+      "导入由本应用发布者签名的 .ocaupdate，官方前后端一起更新。"
+    ],
+    "en": "Import an .ocaupdate signed by this app's publisher. The official frontend and backend update together.",
+    "references": [
+      "OpenCodeUpdateControls.kt:41"
+    ]
+  },
+  {
+    "key": "native_8aad48b0508d",
+    "source": "更新源（HTTPS .ocafeed）",
+    "parts": [
+      "更新源（HTTPS .ocafeed）"
+    ],
+    "en": "Update source (HTTPS .ocafeed)",
+    "references": [
+      "OpenCodeUpdateControls.kt:43"
+    ]
+  },
+  {
+    "key": "native_7932c7a883eb",
+    "source": "检查更新源",
+    "parts": [
+      "检查更新源"
+    ],
+    "en": "Check update source",
+    "references": [
+      "OpenCodeUpdateControls.kt:46"
+    ]
+  },
+  {
+    "key": "native_f73973cfadbb",
+    "source": "签名发布：%1$s\n提交：%2$s · %3$s MiB",
+    "parts": [
+      "签名发布：",
+      "\n提交：",
+      " · ",
+      " MiB"
+    ],
+    "en": "Signed release: %1$s\nCommit: %2$s · %3$s MiB",
+    "references": [
+      "OpenCodeUpdateControls.kt:48"
+    ]
+  },
+  {
+    "key": "native_a9fe3a2301f5",
+    "source": "下载并验证",
+    "parts": [
+      "下载并验证"
+    ],
+    "en": "Download and verify",
+    "references": [
+      "OpenCodeUpdateControls.kt:51"
+    ]
+  },
+  {
+    "key": "native_f2ef7965bf12",
+    "source": "选择更新包",
+    "parts": [
+      "选择更新包"
+    ],
+    "en": "Select update package",
+    "references": [
+      "OpenCodeUpdateControls.kt:53"
+    ]
+  },
+  {
+    "key": "native_165111adfe2c",
+    "source": "待安装：%1$s\n提交：%2$s",
+    "parts": [
+      "待安装：",
+      "\n提交：",
+      ""
+    ],
+    "en": "Ready to install: %1$s\nCommit: %2$s",
+    "references": [
+      "OpenCodeUpdateControls.kt:55"
+    ]
+  },
+  {
+    "key": "native_fdf1c88487d1",
+    "source": "安装此更新",
+    "parts": [
+      "安装此更新"
+    ],
+    "en": "Install this update",
+    "references": [
+      "OpenCodeUpdateControls.kt:56"
+    ]
+  },
+  {
+    "key": "native_f9432c4d9b1e",
+    "source": "恢复更新前的版本与会话",
+    "parts": [
+      "恢复更新前的版本与会话"
+    ],
+    "en": "Restore the version and sessions from before the update",
+    "references": [
+      "OpenCodeUpdateControls.kt:58"
+    ]
+  },
+  {
+    "key": "native_6864335de653",
+    "source": "取消更新",
+    "parts": [
+      "取消更新"
+    ],
+    "en": "Cancel update",
+    "references": [
+      "OpenCodeUpdateControls.kt:71"
+    ]
+  },
+  {
+    "key": "native_5e3472cf084e",
+    "source": "安装 OpenCode 更新？",
+    "parts": [
+      "安装 OpenCode 更新？"
+    ],
+    "en": "Install OpenCode update?",
+    "references": [
+      "OpenCodeUpdateControls.kt:76"
+    ]
+  },
+  {
+    "key": "native_816bf3635d53",
+    "source": "恢复更新前的状态？",
+    "parts": [
+      "恢复更新前的状态？"
+    ],
+    "en": "Restore the state from before the update?",
+    "references": [
+      "OpenCodeUpdateControls.kt:76"
+    ]
+  },
+  {
+    "key": "native_11beb4a42abc",
+    "source": "安装 %1$s。应用将保存会话快照、试运行签名程序，失败时恢复原版本；项目文件保留。",
+    "parts": [
+      "安装 ",
+      "。应用将保存会话快照、试运行签名程序，失败时恢复原版本；项目文件保留。"
+    ],
+    "en": "Install %1$s. The app saves a session snapshot, checks the signed program and restores the previous version if it fails. Project files are retained.",
+    "references": [
+      "OpenCodeUpdateControls.kt:77"
+    ]
+  },
+  {
+    "key": "native_bc7b4149e7d2",
+    "source": "会话恢复到本次更新前。较新的会话保留在私有备份中，项目文件保留。",
+    "parts": [
+      "会话恢复到本次更新前。较新的会话保留在私有备份中，项目文件保留。"
+    ],
+    "en": "Sessions return to their state before this update. More recent sessions remain in a private backup. Project files are retained.",
+    "references": [
+      "OpenCodeUpdateControls.kt:77"
+    ]
+  },
+  {
+    "key": "native_def5e273616d",
+    "source": "确认安装",
+    "parts": [
+      "确认安装"
+    ],
+    "en": "Confirm installation",
+    "references": [
+      "OpenCodeUpdateControls.kt:84"
+    ]
+  },
+  {
+    "key": "native_369d2eefccde",
+    "source": "无法隔离预览浏览数据，请重新打开预览",
+    "parts": [
+      "无法隔离预览浏览数据，请重新打开预览"
+    ],
+    "en": "Could not isolate preview browser data. Reopen the preview.",
+    "references": [
+      "preview\\PreviewActivity.kt:63"
+    ]
+  },
+  {
+    "key": "native_c3ac77c50f0b",
+    "source": "无法加载项目页面，请检查终端中的开发服务器。",
+    "parts": [
+      "无法加载项目页面，请检查终端中的开发服务器。"
+    ],
+    "en": "Could not load the project page. Check the development server in your terminal.",
+    "references": [
+      "preview\\PreviewActivity.kt:115"
+    ]
+  },
+  {
+    "key": "native_6e7408950cf5",
+    "source": "预览项目网页",
+    "parts": [
+      "预览项目网页"
+    ],
+    "en": "Preview project website",
+    "references": [
+      "preview\\PreviewLauncher.kt:21"
+    ]
+  },
+  {
+    "key": "native_bfb4951e071d",
+    "source": "项目预览",
+    "parts": [
+      "项目预览"
+    ],
+    "en": "Project preview",
+    "references": [
+      "preview\\PreviewLauncher.kt:22"
+    ]
+  },
+  {
+    "key": "native_f80652913d06",
+    "source": "先在终端启动开发服务器，再输入它的本地端口。预览与 OpenCode 隔离浏览数据。",
+    "parts": [
+      "先在终端启动开发服务器，再输入它的本地端口。预览与 OpenCode 隔离浏览数据。"
+    ],
+    "en": "Start a development server in the terminal, then enter its local port. Preview browser data is isolated from OpenCode.",
+    "references": [
+      "preview\\PreviewLauncher.kt:24"
+    ]
+  },
+  {
+    "key": "native_2c41e85af61f",
+    "source": "端口",
+    "parts": [
+      "端口"
+    ],
+    "en": "Port",
+    "references": [
+      "preview\\PreviewLauncher.kt:25"
+    ]
+  },
+  {
+    "key": "native_77c3a828a5c5",
+    "source": "请输入 1024–65535 的开发端口，避开 OpenCode 和桌面服务。",
+    "parts": [
+      "请输入 1024–65535 的开发端口，避开 OpenCode 和桌面服务。"
+    ],
+    "en": "Enter a development port from 1024 to 65535, excluding OpenCode and desktop services.",
+    "references": [
+      "preview\\PreviewLauncher.kt:32"
+    ]
+  },
+  {
+    "key": "native_7311a9dfea51",
+    "source": "这个端口尚未监听，请检查终端中的服务。",
+    "parts": [
+      "这个端口尚未监听，请检查终端中的服务。"
+    ],
+    "en": "Nothing is listening on this port. Check the service in your terminal.",
+    "references": [
+      "preview\\PreviewLauncher.kt:40"
+    ]
+  },
+  {
+    "key": "native_4f8d84105475",
+    "source": "检查中…",
+    "parts": [
+      "检查中…"
+    ],
+    "en": "Checking…",
+    "references": [
+      "preview\\PreviewLauncher.kt:42"
+    ]
+  },
+  {
+    "key": "native_4923c272b68e",
+    "source": "开发端口必须是整数",
+    "parts": [
+      "开发端口必须是整数"
+    ],
+    "en": "The development port must be an integer",
+    "references": [
+      "preview\\PreviewTarget.kt:17"
+    ]
+  },
+  {
+    "key": "native_04a87026e81f",
+    "source": "请选择有效的项目开发端口",
+    "parts": [
+      "请选择有效的项目开发端口"
+    ],
+    "en": "Choose a valid project development port",
+    "references": [
+      "preview\\PreviewTarget.kt:21"
+    ]
+  },
+  {
+    "key": "native_a8a305819e54",
+    "source": "OpenCode 开发会话",
+    "parts": [
+      "OpenCode 开发会话"
+    ],
+    "en": "OpenCode development session",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:15"
+    ]
+  },
+  {
+    "key": "native_e87a4529ab82",
+    "source": "开发环境安装",
+    "parts": [
+      "开发环境安装"
+    ],
+    "en": "Development environment installation",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:15"
+    ]
+  },
+  {
+    "key": "native_dafb9bf1e3ae",
+    "source": "Debian 更新",
+    "parts": [
+      "Debian 更新"
+    ],
+    "en": "Debian update",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:15"
+    ]
+  },
+  {
+    "key": "native_0c6301bc295d",
+    "source": "开发环境修复",
+    "parts": [
+      "开发环境修复"
+    ],
+    "en": "Development environment repair",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:15"
+    ]
+  },
+  {
+    "key": "native_0ddf3d4297eb",
+    "source": "开发环境检查",
+    "parts": [
+      "开发环境检查"
+    ],
+    "en": "Development environment check",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:16"
+    ]
+  },
+  {
+    "key": "native_9612d4419bb6",
+    "source": "语言服务安装",
+    "parts": [
+      "语言服务安装"
+    ],
+    "en": "Language server installation",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:16"
+    ]
+  },
+  {
+    "key": "native_f72fba77f87a",
+    "source": "环境恢复",
+    "parts": [
+      "环境恢复"
+    ],
+    "en": "Environment recovery",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:16"
+    ]
+  },
+  {
+    "key": "native_7c8162195c7c",
+    "source": "桌面安装",
+    "parts": [
+      "桌面安装"
+    ],
+    "en": "Desktop installation",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:17"
+    ]
+  },
+  {
+    "key": "native_1a6f8bc8cb71",
+    "source": "上次运行已中断，请在运行环境中明确重新启动。",
+    "parts": [
+      "上次运行已中断，请在运行环境中明确重新启动。"
+    ],
+    "en": "The previous run was interrupted. Restart explicitly from Runtime.",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:28"
+    ]
+  },
+  {
+    "key": "native_22b3b2e8ffad",
+    "source": "此类开发任务仍在运行",
+    "parts": [
+      "此类开发任务仍在运行"
+    ],
+    "en": "A development task of this type is still running",
+    "references": [
+      "runtime\\DevelopmentSessionJournal.kt:114"
+    ]
+  },
+  {
+    "key": "native_95a56e0a3fe2",
+    "source": "正在修复运行记录",
+    "parts": [
+      "正在修复运行记录"
+    ],
+    "en": "Repairing the activity record",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:29"
+    ]
+  },
+  {
+    "key": "native_b66749ed72ea",
+    "source": "进程自行退出",
+    "parts": [
+      "进程自行退出"
+    ],
+    "en": "Process exited",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:36"
+    ]
+  },
+  {
+    "key": "native_6b25042064e2",
+    "source": "信号终止",
+    "parts": [
+      "信号终止"
+    ],
+    "en": "Terminated by signal",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:36"
+    ]
+  },
+  {
+    "key": "native_d6febdf1752b",
+    "source": "低内存回收",
+    "parts": [
+      "低内存回收"
+    ],
+    "en": "Reclaimed due to low memory",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:36"
+    ]
+  },
+  {
+    "key": "native_1d13790f3c89",
+    "source": "应用崩溃",
+    "parts": [
+      "应用崩溃"
+    ],
+    "en": "App crash",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:36"
+    ]
+  },
+  {
+    "key": "native_28db94d1850d",
+    "source": "原生进程崩溃",
+    "parts": [
+      "原生进程崩溃"
+    ],
+    "en": "Native process crash",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:36"
+    ]
+  },
+  {
+    "key": "native_86919539f7f1",
+    "source": "应用无响应",
+    "parts": [
+      "应用无响应"
+    ],
+    "en": "App not responding",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:37"
+    ]
+  },
+  {
+    "key": "native_90fb8d6098a5",
+    "source": "初始化失败",
+    "parts": [
+      "初始化失败"
+    ],
+    "en": "Initialization failed",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:37"
+    ]
+  },
+  {
+    "key": "native_38c60ab6654c",
+    "source": "权限变更",
+    "parts": [
+      "权限变更"
+    ],
+    "en": "Permissions changed",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:37"
+    ]
+  },
+  {
+    "key": "native_6d2a6c71334d",
+    "source": "资源限制",
+    "parts": [
+      "资源限制"
+    ],
+    "en": "Resource limit",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:37"
+    ]
+  },
+  {
+    "key": "native_19b2090b01a8",
+    "source": "用户请求停止",
+    "parts": [
+      "用户请求停止"
+    ],
+    "en": "User requested stop",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:37"
+    ]
+  },
+  {
+    "key": "native_120d96445f1a",
+    "source": "用户停止",
+    "parts": [
+      "用户停止"
+    ],
+    "en": "Stopped by user",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:38"
+    ]
+  },
+  {
+    "key": "native_3c8af14f66bc",
+    "source": "依赖进程退出",
+    "parts": [
+      "依赖进程退出"
+    ],
+    "en": "Dependent process exited",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:38"
+    ]
+  },
+  {
+    "key": "native_ca0941ce04ae",
+    "source": "其他系统原因",
+    "parts": [
+      "其他系统原因"
+    ],
+    "en": "Other system reason",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:38"
+    ]
+  },
+  {
+    "key": "native_2df1ac3c1d38",
+    "source": "进程冻结处理",
+    "parts": [
+      "进程冻结处理"
+    ],
+    "en": "Process freezing",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:38"
+    ]
+  },
+  {
+    "key": "native_0d48373023a8",
+    "source": "应用状态变更",
+    "parts": [
+      "应用状态变更"
+    ],
+    "en": "App state changed",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:38"
+    ]
+  },
+  {
+    "key": "native_c752307db26b",
+    "source": "应用更新",
+    "parts": [
+      "应用更新"
+    ],
+    "en": "App update",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:38"
+    ]
+  },
+  {
+    "key": "native_b5015951cbdf",
+    "source": "系统未提供退出原因",
+    "parts": [
+      "系统未提供退出原因"
+    ],
+    "en": "The system did not provide an exit reason",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:39"
+    ]
+  },
+  {
+    "key": "native_b62737b826ad",
+    "source": "系统退出（%1$s）",
+    "parts": [
+      "系统退出（",
+      "）"
+    ],
+    "en": "System exit (%1$s)",
+    "references": [
+      "runtime\\DevelopmentSessions.kt:39"
+    ]
+  },
+  {
+    "key": "native_342b2b592f34",
+    "source": "无法打开项目目录",
+    "parts": [
+      "无法打开项目目录"
+    ],
+    "en": "Could not open the project directory",
+    "references": [
+      "runtime\\LocalOpenCode.kt:36"
+    ]
+  },
+  {
+    "key": "native_faf5d983c13e",
+    "source": "无法创建 OpenCode 会话",
+    "parts": [
+      "无法创建 OpenCode 会话"
+    ],
+    "en": "Could not create an OpenCode session",
+    "references": [
+      "runtime\\LocalOpenCode.kt:43"
+    ]
+  },
+  {
+    "key": "native_2152aab78ab8",
+    "source": "OpenCode 会话目录不匹配",
+    "parts": [
+      "OpenCode 会话目录不匹配"
+    ],
+    "en": "OpenCode session directory does not match",
+    "references": [
+      "runtime\\LocalOpenCode.kt:45"
+    ]
+  },
+  {
+    "key": "native_ac19736908a2",
+    "source": "无法读取 OpenCode 会话",
+    "parts": [
+      "无法读取 OpenCode 会话"
+    ],
+    "en": "Could not read the OpenCode session",
+    "references": [
+      "runtime\\LocalOpenCode.kt:52"
+    ]
+  },
+  {
+    "key": "native_2642997cfeec",
+    "source": "环境维护",
+    "parts": [
+      "环境维护"
+    ],
+    "en": "Environment maintenance",
+    "references": [
+      "runtime\\RuntimeCoordination.kt:18"
+    ]
+  },
+  {
+    "key": "native_f992d735d932",
+    "source": "请先停止 OpenCode、终端和 Debian 桌面，并等待文件操作结束",
+    "parts": [
+      "请先停止 OpenCode、终端和 Debian 桌面，并等待文件操作结束"
+    ],
+    "en": "Stop OpenCode, terminals and the Debian desktop, then wait for file operations to finish",
+    "references": [
+      "runtime\\RuntimeCoordination.kt:19"
+    ]
+  },
+  {
+    "key": "native_489f137f1080",
+    "source": "环境维护锁已失效",
+    "parts": [
+      "环境维护锁已失效"
+    ],
+    "en": "The environment maintenance lock is no longer valid",
+    "references": [
+      "runtime\\RuntimeCoordination.kt:23"
+    ]
+  },
+  {
+    "key": "native_42380e2567fc",
+    "source": "已完成中断操作的恢复，请重开工作区。",
+    "parts": [
+      "已完成中断操作的恢复，请重开工作区。"
+    ],
+    "en": "Interrupted operation recovered. Reopen the workspace.",
+    "references": [
+      "runtime\\RuntimeRecovery.kt:17"
+    ]
+  },
+  {
+    "key": "native_17b00cac2b91",
+    "source": "本地连接恢复失败，请在运行环境重试。",
+    "parts": [
+      "本地连接恢复失败，请在运行环境重试。"
+    ],
+    "en": "Local connection recovery failed. Retry from Runtime.",
+    "references": [
+      "runtime\\RuntimeService.kt:86"
+    ]
+  },
+  {
+    "key": "native_77e9ca4e944c",
+    "source": "环境维护中，请稍后重试",
+    "parts": [
+      "环境维护中，请稍后重试"
+    ],
+    "en": "Environment maintenance is in progress. Retry later.",
+    "references": [
+      "runtime\\RuntimeService.kt:95"
+    ]
+  },
+  {
+    "key": "native_dbaebe3ce243",
+    "source": "请先停止 Debian 桌面，再更新开发环境",
+    "parts": [
+      "请先停止 Debian 桌面，再更新开发环境"
+    ],
+    "en": "Stop the Debian desktop before updating the development environment",
+    "references": [
+      "runtime\\RuntimeService.kt:99"
+    ]
+  },
+  {
+    "key": "native_548085b144c9",
+    "source": "已完成中断操作的恢复，可启动开发环境。",
+    "parts": [
+      "已完成中断操作的恢复，可启动开发环境。"
+    ],
+    "en": "Interrupted operation recovered. You can start the development environment.",
+    "references": [
+      "runtime\\RuntimeService.kt:129"
+    ]
+  },
+  {
+    "key": "native_b4a1531f9eac",
+    "source": "上次运行已中断，终端命令不会自动重放。请在运行环境中明确重新启动。",
+    "parts": [
+      "上次运行已中断，终端命令不会自动重放。请在运行环境中明确重新启动。"
+    ],
+    "en": "The previous run was interrupted. Terminal commands will not replay automatically. Restart explicitly from Runtime.",
+    "references": [
+      "runtime\\RuntimeService.kt:134"
+    ]
+  },
+  {
+    "key": "native_295cafdfd512",
+    "source": "临时连接配置未完成清理；已继续清理进程。",
+    "parts": [
+      "临时连接配置未完成清理；已继续清理进程。"
+    ],
+    "en": "Temporary connection configuration cleanup is incomplete. Process cleanup continued.",
+    "references": [
+      "runtime\\RuntimeService.kt:151"
+    ]
+  },
+  {
+    "key": "native_ab16cdc08a8e",
+    "source": "无法创建 helloworld 工作区，请检查目录或可用空间",
+    "parts": [
+      "无法创建 helloworld 工作区，请检查目录或可用空间"
+    ],
+    "en": "Could not create the helloworld workspace. Check the directory and available space.",
+    "references": [
+      "runtime\\RuntimeService.kt:207"
+    ]
+  },
+  {
+    "key": "native_68301868225a",
+    "source": "上次工作区目录已不可用，已打开 helloworld。",
+    "parts": [
+      "上次工作区目录已不可用，已打开 helloworld。"
+    ],
+    "en": "The previous workspace directory is unavailable. Opened helloworld.",
+    "references": [
+      "runtime\\RuntimeService.kt:212"
+    ]
+  },
+  {
+    "key": "native_b33b3ca277eb",
+    "source": "默认项目尚未就绪，可从文件页重试。",
+    "parts": [
+      "默认项目尚未就绪，可从文件页重试。"
+    ],
+    "en": "The default project is not ready yet. Retry from Files.",
+    "references": [
+      "runtime\\RuntimeService.kt:246"
+    ]
+  },
+  {
+    "key": "native_45d6ab452622",
+    "source": "安装语言服务",
+    "parts": [
+      "安装语言服务"
+    ],
+    "en": "Install language servers",
+    "references": [
+      "runtime\\RuntimeService.kt:293"
+    ]
+  },
+  {
+    "key": "native_9793c4a83295",
+    "source": "C/C++ 和 Python 语言服务已就绪，启动 OpenCode 后可使用 LSP。",
+    "parts": [
+      "C/C++ 和 Python 语言服务已就绪，启动 OpenCode 后可使用 LSP。"
+    ],
+    "en": "C/C++ and Python language servers are ready. Start OpenCode to use LSP.",
+    "references": [
+      "runtime\\RuntimeService.kt:299"
+    ]
+  },
+  {
+    "key": "native_5ea1653deef8",
+    "source": "终端运行记录未保存；进程回收后需新建终端。",
+    "parts": [
+      "终端运行记录未保存；进程回收后需新建终端。"
+    ],
+    "en": "The terminal activity record was not saved. Create a new terminal after process termination.",
+    "references": [
+      "runtime\\TerminalSessions.kt:39"
+    ]
+  },
+  {
+    "key": "native_1978b311a9ff",
+    "source": "终端退出记录未完成保存。",
+    "parts": [
+      "终端退出记录未完成保存。"
+    ],
+    "en": "Could not finish saving the terminal exit record.",
+    "references": [
+      "runtime\\TerminalSessions.kt:60"
+    ]
+  },
+  {
+    "key": "native_66dee11c3194",
+    "source": "OpenCode 更新下载",
+    "parts": [
+      "OpenCode 更新下载"
+    ],
+    "en": "OpenCode update download",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:25"
+    ]
+  },
+  {
+    "key": "native_06f76cca8fb9",
+    "source": "正在连接更新源…",
+    "parts": [
+      "正在连接更新源…"
+    ],
+    "en": "Connecting to the update source…",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:26",
+      "runtime\\update\\OpenCodeFetchService.kt:28"
+    ]
+  },
+  {
+    "key": "native_8c39baf28e08",
+    "source": "更新源连接失败，请检查网络、发布者签名、Host 版本或可用空间。",
+    "parts": [
+      "更新源连接失败，请检查网络、发布者签名、Host 版本或可用空间。"
+    ],
+    "en": "Cannot connect to the update source. Check the network, publisher signature, host version and free space.",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:37"
+    ]
+  },
+  {
+    "key": "native_0bedbc8d185d",
+    "source": "下载超时",
+    "parts": [
+      "下载超时"
+    ],
+    "en": "Download timed out",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:45"
+    ]
+  },
+  {
+    "key": "native_f75850093535",
+    "source": "正在下载：%1$s / %2$s MiB",
+    "parts": [
+      "正在下载：",
+      " / ",
+      " MiB"
+    ],
+    "en": "Downloading: %1$s / %2$s MiB",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:50"
+    ]
+  },
+  {
+    "key": "native_30a778f1389a",
+    "source": "正在验证发布者签名…",
+    "parts": [
+      "正在验证发布者签名…"
+    ],
+    "en": "Verifying publisher signature…",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:54"
+    ]
+  },
+  {
+    "key": "native_9b989e7bcd6c",
+    "source": "正在下载更新包…",
+    "parts": [
+      "正在下载更新包…"
+    ],
+    "en": "Downloading update package…",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:54"
+    ]
+  },
+  {
+    "key": "native_2f9cd52dc66a",
+    "source": "发布者签名有效：%1$s。请核对后下载。",
+    "parts": [
+      "发布者签名有效：",
+      "。请核对后下载。"
+    ],
+    "en": "Valid publisher signature: %1$s. Review before downloading.",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:62"
+    ]
+  },
+  {
+    "key": "native_17548865632c",
+    "source": "下载、发布信息和包体签名校验通过，请确认安装。",
+    "parts": [
+      "下载、发布信息和包体签名校验通过，请确认安装。"
+    ],
+    "en": "Download, release metadata and package signature verified. Confirm installation.",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:70"
+    ]
+  },
+  {
+    "key": "native_180cec958e7a",
+    "source": "下载已取消，原版本保留。",
+    "parts": [
+      "下载已取消，原版本保留。"
+    ],
+    "en": "Download cancelled. Original version retained.",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:72"
+    ]
+  },
+  {
+    "key": "native_8df045f8ac12",
+    "source": "下载已停止，原版本保留。",
+    "parts": [
+      "下载已停止，原版本保留。"
+    ],
+    "en": "Download stopped. Original version retained.",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:87"
+    ]
+  },
+  {
+    "key": "native_778803f1c6bb",
+    "source": "取消下载",
+    "parts": [
+      "取消下载"
+    ],
+    "en": "Cancel download",
+    "references": [
+      "runtime\\update\\OpenCodeFetchService.kt:107"
+    ]
+  },
+  {
+    "key": "native_2958898ce6f4",
+    "source": "新版本未通过本地服务启动、版本和认证检查；将恢复原版本",
+    "parts": [
+      "新版本未通过本地服务启动、版本和认证检查；将恢复原版本"
+    ],
+    "en": "The new version failed local startup, version or authentication checks. The previous version will be restored.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateProbe.kt:37"
+    ]
+  },
+  {
+    "key": "native_cc876dfbb261",
+    "source": "新版本试运行仍在退出，请等待恢复后重试",
+    "parts": [
+      "新版本试运行仍在退出，请等待恢复后重试"
+    ],
+    "en": "The trial process is still exiting. Wait for recovery before retrying.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateProbe.kt:40"
+    ]
+  },
+  {
+    "key": "native_adf977dcb47e",
+    "source": "更新记录标识无效",
+    "parts": [
+      "更新记录标识无效"
+    ],
+    "en": "Invalid update record identifier",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:22"
+    ]
+  },
+  {
+    "key": "native_5207cac670b7",
+    "source": "已安装的独立 OpenCode 大小不匹配",
+    "parts": [
+      "已安装的独立 OpenCode 大小不匹配"
+    ],
+    "en": "Installed standalone OpenCode size does not match",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:41"
+    ]
+  },
+  {
+    "key": "native_cf5b81887589",
+    "source": "已安装的独立 OpenCode 摘要不匹配，请恢复上一版本",
+    "parts": [
+      "已安装的独立 OpenCode 摘要不匹配，请恢复上一版本"
+    ],
+    "en": "Installed standalone OpenCode checksum does not match. Restore the previous version.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:42"
+    ]
+  },
+  {
+    "key": "native_393049b506cc",
+    "source": "原程序缺少匹配的发布者证明，旧状态保持不变",
+    "parts": [
+      "原程序缺少匹配的发布者证明，旧状态保持不变"
+    ],
+    "en": "The original program has no matching publisher proof. Previous state unchanged.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:69"
+    ]
+  },
+  {
+    "key": "native_c5853bcfd56c",
+    "source": "请先恢复上次中断的更新",
+    "parts": [
+      "请先恢复上次中断的更新"
+    ],
+    "en": "Recover the previous interrupted update first",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:84"
+    ]
+  },
+  {
+    "key": "native_91d8da5525fa",
+    "source": "更新包在确认后发生变化",
+    "parts": [
+      "更新包在确认后发生变化"
+    ],
+    "en": "The update package changed after confirmation",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:87",
+      "runtime\\update\\SignedOpenCodeUpdate.kt:55"
+    ]
+  },
+  {
+    "key": "native_093f2c091a30",
+    "source": "空间不足，原版本保持不变",
+    "parts": [
+      "空间不足，原版本保持不变"
+    ],
+    "en": "Insufficient storage. Original version unchanged.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:88"
+    ]
+  },
+  {
+    "key": "native_fc9bc82e0872",
+    "source": "没有可恢复的更新备份",
+    "parts": [
+      "没有可恢复的更新备份"
+    ],
+    "en": "No update backup is available to restore",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:130"
+    ]
+  },
+  {
+    "key": "native_a9f4d9903c14",
+    "source": "备份与当前运行版本不匹配",
+    "parts": [
+      "备份与当前运行版本不匹配"
+    ],
+    "en": "The backup does not match the running version",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:133"
+    ]
+  },
+  {
+    "key": "native_6caa23763a42",
+    "source": "旧程序校验失败，当前会话保持不变",
+    "parts": [
+      "旧程序校验失败，当前会话保持不变"
+    ],
+    "en": "Previous program verification failed. Current sessions unchanged.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:136"
+    ]
+  },
+  {
+    "key": "native_c8b71b876695",
+    "source": "内置程序已被后续 APK 或 Debian 更新替换；原会话备份保留，需先恢复对应程序",
+    "parts": [
+      "内置程序已被后续 APK 或 Debian 更新替换；原会话备份保留，需先恢复对应程序"
+    ],
+    "en": "A later APK or Debian update replaced the bundled program. The original session backup is retained; restore the corresponding program first.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:140"
+    ]
+  },
+  {
+    "key": "native_c443df40964b",
+    "source": "更新恢复操作无效",
+    "parts": [
+      "更新恢复操作无效"
+    ],
+    "en": "Invalid update recovery operation",
+    "references": [
+      "runtime\\update\\OpenCodeUpdates.kt:179"
+    ]
+  },
+  {
+    "key": "native_9071f05d58b3",
+    "source": "正在准备 OpenCode 更新…",
+    "parts": [
+      "正在准备 OpenCode 更新…"
+    ],
+    "en": "Preparing OpenCode update…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:25"
+    ]
+  },
+  {
+    "key": "native_2968d4dfdc70",
+    "source": "请先停止 OpenCode、终端和桌面，并等待它们退出。",
+    "parts": [
+      "请先停止 OpenCode、终端和桌面，并等待它们退出。"
+    ],
+    "en": "Stop OpenCode, terminals and the desktop, then wait for them to exit.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:27"
+    ]
+  },
+  {
+    "key": "native_90c07b54f8f8",
+    "source": "正在保存状态、验证程序和处理版本切换",
+    "parts": [
+      "正在保存状态、验证程序和处理版本切换"
+    ],
+    "en": "Saving state, verifying programs and switching versions",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:33"
+    ]
+  },
+  {
+    "key": "native_5fc065ef6f50",
+    "source": "无法启动更新维护服务。",
+    "parts": [
+      "无法启动更新维护服务。"
+    ],
+    "en": "Could not start the update maintenance service.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:35"
+    ]
+  },
+  {
+    "key": "native_f7b560c8c820",
+    "source": "正在验证并暂存官方程序…",
+    "parts": [
+      "正在验证并暂存官方程序…"
+    ],
+    "en": "Verifying and staging the official program…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:44"
+    ]
+  },
+  {
+    "key": "native_9606191c82dc",
+    "source": "正在保留原程序及发布者签名…",
+    "parts": [
+      "正在保留原程序及发布者签名…"
+    ],
+    "en": "Preserving the original program and publisher signature…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:45"
+    ]
+  },
+  {
+    "key": "native_5c0d7787ee51",
+    "source": "正在保存会话状态快照…",
+    "parts": [
+      "正在保存会话状态快照…"
+    ],
+    "en": "Saving session state snapshot…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:46"
+    ]
+  },
+  {
+    "key": "native_0c8cf4632889",
+    "source": "正在切换版本并验证本地服务…",
+    "parts": [
+      "正在切换版本并验证本地服务…"
+    ],
+    "en": "Switching versions and verifying the local service…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:47"
+    ]
+  },
+  {
+    "key": "native_3e81ea691a4a",
+    "source": "正在恢复更新前的版本与会话…",
+    "parts": [
+      "正在恢复更新前的版本与会话…"
+    ],
+    "en": "Restoring the version and sessions from before the update…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:48"
+    ]
+  },
+  {
+    "key": "native_856de41d3bf3",
+    "source": "正在恢复 OpenCode",
+    "parts": [
+      "正在恢复 OpenCode"
+    ],
+    "en": "Restoring OpenCode",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:53"
+    ]
+  },
+  {
+    "key": "native_8d0137ab8618",
+    "source": "正在更新 OpenCode",
+    "parts": [
+      "正在更新 OpenCode"
+    ],
+    "en": "Updating OpenCode",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:53"
+    ]
+  },
+  {
+    "key": "native_6b1ccd3778fa",
+    "source": "已恢复更新前的版本与会话，较新的会话仍保存在私有备份中。",
+    "parts": [
+      "已恢复更新前的版本与会话，较新的会话仍保存在私有备份中。"
+    ],
+    "en": "Restored the previous version and sessions. More recent sessions remain in a private backup.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:60"
+    ]
+  },
+  {
+    "key": "native_07367ff18068",
+    "source": "OpenCode 更新完成，启动后使用匹配的官方前后端。",
+    "parts": [
+      "OpenCode 更新完成，启动后使用匹配的官方前后端。"
+    ],
+    "en": "OpenCode update completed. Startup will use the matching official frontend and backend.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:60"
+    ]
+  },
+  {
+    "key": "native_4693930f5802",
+    "source": "已取消更新，正在确认原状态已恢复。",
+    "parts": [
+      "已取消更新，正在确认原状态已恢复。"
+    ],
+    "en": "Update cancelled. Confirming that the original state has been restored.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:61"
+    ]
+  },
+  {
+    "key": "native_d0e37bc26edd",
+    "source": "更新未完成，正在恢复。原程序与会话备份会保留。",
+    "parts": [
+      "更新未完成，正在恢复。原程序与会话备份会保留。"
+    ],
+    "en": "Update incomplete. Recovering now; original program and session backups are retained.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:62"
+    ]
+  },
+  {
+    "key": "native_9a32d6c2d207",
+    "source": "恢复尚未完成，所有状态目录均已保留。请保留数据并重试启动以恢复。",
+    "parts": [
+      "恢复尚未完成，所有状态目录均已保留。请保留数据并重试启动以恢复。"
+    ],
+    "en": "Recovery is incomplete. All state directories are retained. Keep your data and retry startup to recover.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:68"
+    ]
+  },
+  {
+    "key": "native_49ad3eeae83d",
+    "source": "已完成会话恢复；较新的状态保留在备份中。",
+    "parts": [
+      "已完成会话恢复；较新的状态保留在备份中。"
+    ],
+    "en": "Session recovery completed. More recent state remains in a backup.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:72"
+    ]
+  },
+  {
+    "key": "native_67c08a2911e1",
+    "source": "未能恢复：备份或原程序条件不满足，当前会话与备份保持不变。",
+    "parts": [
+      "未能恢复：备份或原程序条件不满足，当前会话与备份保持不变。"
+    ],
+    "en": "Recovery could not proceed with this backup or original program. Current sessions and backups unchanged.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:72"
+    ]
+  },
+  {
+    "key": "native_976d8c169cfa",
+    "source": "更新已取消或失败，原版本与会话已恢复。",
+    "parts": [
+      "更新已取消或失败，原版本与会话已恢复。"
+    ],
+    "en": "Update cancelled or failed. Original version and sessions restored.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateService.kt:72"
+    ]
+  },
+  {
+    "key": "native_7ac77d1513fc",
+    "source": "正在验证更新包签名与完整性…",
+    "parts": [
+      "正在验证更新包签名与完整性…"
+    ],
+    "en": "Verifying update package signature and integrity…",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateState.kt:43"
+    ]
+  },
+  {
+    "key": "native_0aa018b7337b",
+    "source": "无法读取选择的文件",
+    "parts": [
+      "无法读取选择的文件"
+    ],
+    "en": "Cannot read the selected file",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateState.kt:51"
+    ]
+  },
+  {
+    "key": "native_19e9ad1e1f6e",
+    "source": "更新包过大",
+    "parts": [
+      "更新包过大"
+    ],
+    "en": "Update package is too large",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateState.kt:54"
+    ]
+  },
+  {
+    "key": "native_f068b83f40bf",
+    "source": "签名与包体校验通过，请核对版本后安装。",
+    "parts": [
+      "签名与包体校验通过，请核对版本后安装。"
+    ],
+    "en": "Signature and package verified. Review the version before installing.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateState.kt:61"
+    ]
+  },
+  {
+    "key": "native_0c0b0b3f04e0",
+    "source": "无法导入：文件无效、签名不匹配、Host 版本不兼容或存储空间不足。",
+    "parts": [
+      "无法导入：文件无效、签名不匹配、Host 版本不兼容或存储空间不足。"
+    ],
+    "en": "Cannot import: invalid file, signature mismatch, incompatible host version or insufficient storage.",
+    "references": [
+      "runtime\\update\\OpenCodeUpdateState.kt:62"
+    ]
+  },
+  {
+    "key": "native_616412e65df4",
+    "source": "官方程序与发布者证明不匹配",
+    "parts": [
+      "官方程序与发布者证明不匹配"
+    ],
+    "en": "The official program does not match its publisher proof",
+    "references": [
+      "runtime\\update\\PublishedOpenCode.kt:49"
+    ]
+  },
+  {
+    "key": "native_4bf19a158f27",
+    "source": "独立运行包仅支持 ARM64",
+    "parts": [
+      "独立运行包仅支持 ARM64"
+    ],
+    "en": "Standalone runtime packages support ARM64 only",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:30"
+    ]
+  },
+  {
+    "key": "native_63b1fc6fffc9",
+    "source": "更新签名不属于当前 APK",
+    "parts": [
+      "更新签名不属于当前 APK"
+    ],
+    "en": "The update signature does not belong to this APK",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:50"
+    ]
+  },
+  {
+    "key": "native_c7273354727f",
+    "source": "更新文件超过声明大小",
+    "parts": [
+      "更新文件超过声明大小"
+    ],
+    "en": "The update file exceeds its declared size",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:65",
+      "runtime\\update\\UpdateHttpsClient.kt:52"
+    ]
+  },
+  {
+    "key": "native_2aa6c8e74abb",
+    "source": "更新程序摘要不匹配",
+    "parts": [
+      "更新程序摘要不匹配"
+    ],
+    "en": "Update program checksum does not match",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:74"
+    ]
+  },
+  {
+    "key": "native_dd619076d456",
+    "source": "更新包大小无效",
+    "parts": [
+      "更新包大小无效"
+    ],
+    "en": "Invalid update package size",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:79"
+    ]
+  },
+  {
+    "key": "native_20c5bdfeffc0",
+    "source": "更新包压缩大小不匹配",
+    "parts": [
+      "更新包压缩大小不匹配"
+    ],
+    "en": "Compressed update package size does not match",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:88"
+    ]
+  },
+  {
+    "key": "native_1de24edffcf5",
+    "source": "更新包包含额外数据项",
+    "parts": [
+      "更新包包含额外数据项"
+    ],
+    "en": "The update package contains extra entries",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:90"
+    ]
+  },
+  {
+    "key": "native_c5b339aa77e8",
+    "source": "更新来源或架构不兼容",
+    "parts": [
+      "更新来源或架构不兼容"
+    ],
+    "en": "Incompatible update origin or architecture",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:97"
+    ]
+  },
+  {
+    "key": "native_89d585f3661f",
+    "source": "此更新需要先升级 Android 应用",
+    "parts": [
+      "此更新需要先升级 Android 应用"
+    ],
+    "en": "Upgrade the Android app before installing this update",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:101"
+    ]
+  },
+  {
+    "key": "native_800df084dea0",
+    "source": "更新压缩包摘要不匹配",
+    "parts": [
+      "更新压缩包摘要不匹配"
+    ],
+    "en": "Update archive checksum does not match",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:112"
+    ]
+  },
+  {
+    "key": "native_ddf1a005e310",
+    "source": "当前 APK 的签名形式不支持独立运行包更新",
+    "parts": [
+      "当前 APK 的签名形式不支持独立运行包更新"
+    ],
+    "en": "This APK signing format does not support standalone runtime updates",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:124"
+    ]
+  },
+  {
+    "key": "native_172e063db474",
+    "source": "更新包数据项无效",
+    "parts": [
+      "更新包数据项无效"
+    ],
+    "en": "Invalid update package entry",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:133"
+    ]
+  },
+  {
+    "key": "native_1c08780aa99f",
+    "source": "更新元数据必须使用整数",
+    "parts": [
+      "更新元数据必须使用整数"
+    ],
+    "en": "Update metadata must use integers",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:148"
+    ]
+  },
+  {
+    "key": "native_fabfcb8b5f0e",
+    "source": "更新程序不是 64 位 Linux ELF",
+    "parts": [
+      "更新程序不是 64 位 Linux ELF"
+    ],
+    "en": "The update program is not a 64-bit Linux ELF",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:154"
+    ]
+  },
+  {
+    "key": "native_d51ff4ed57b4",
+    "source": "更新程序不满足 16 KiB ELF 对齐",
+    "parts": [
+      "更新程序不满足 16 KiB ELF 对齐"
+    ],
+    "en": "The update program does not meet 16 KiB ELF alignment",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:168"
+    ]
+  },
+  {
+    "key": "native_3afa3741911b",
+    "source": "更新程序缺少 Debian glibc 加载器",
+    "parts": [
+      "更新程序缺少 Debian glibc 加载器"
+    ],
+    "en": "The update program is missing the Debian glibc loader",
+    "references": [
+      "runtime\\update\\SignedOpenCodeUpdate.kt:178"
+    ]
+  },
+  {
+    "key": "native_6b0b9e864f5b",
+    "source": "请输入有效的 HTTPS 更新源",
+    "parts": [
+      "请输入有效的 HTTPS 更新源"
+    ],
+    "en": "Enter a valid HTTPS update source",
+    "references": [
+      "runtime\\update\\SignedUpdateFeed.kt:14"
+    ]
+  },
+  {
+    "key": "native_c274c7dd5900",
+    "source": "更新源仅支持无用户凭据的 HTTPS 地址",
+    "parts": [
+      "更新源仅支持无用户凭据的 HTTPS 地址"
+    ],
+    "en": "Update sources require HTTPS URLs without user credentials",
+    "references": [
+      "runtime\\update\\SignedUpdateFeed.kt:17"
+    ]
+  },
+  {
+    "key": "native_f459f5ec9dac",
+    "source": "更新源字段无效",
+    "parts": [
+      "更新源字段无效"
+    ],
+    "en": "Invalid update source field",
+    "references": [
+      "runtime\\update\\SignedUpdateFeed.kt:39"
+    ]
+  },
+  {
+    "key": "native_bde2a736e30a",
+    "source": "请先升级 Android Host",
+    "parts": [
+      "请先升级 Android Host"
+    ],
+    "en": "Upgrade the Android host first",
+    "references": [
+      "runtime\\update\\SignedUpdateFeed.kt:42"
+    ]
+  },
+  {
+    "key": "native_b980fd021bef",
+    "source": "更新目录无效",
+    "parts": [
+      "更新目录无效"
+    ],
+    "en": "Invalid update directory",
+    "references": [
+      "runtime\\update\\UpdateFiles.kt:20"
+    ]
+  },
+  {
+    "key": "native_c0e96727553e",
+    "source": "更新文件无效",
+    "parts": [
+      "更新文件无效"
+    ],
+    "en": "Invalid update file",
+    "references": [
+      "runtime\\update\\UpdateFiles.kt:24"
+    ]
+  },
+  {
+    "key": "native_86ff542c68ed",
+    "source": "更新目录切换条件不满足",
+    "parts": [
+      "更新目录切换条件不满足"
+    ],
+    "en": "Cannot switch update directories in this state",
+    "references": [
+      "runtime\\update\\UpdateFiles.kt:51"
+    ]
+  },
+  {
+    "key": "native_fbf82dc7ef22",
+    "source": "会话状态引用了外部目录，无法安全地试运行更新",
+    "parts": [
+      "会话状态引用了外部目录，无法安全地试运行更新"
+    ],
+    "en": "Session state refers to an external directory. The update cannot be tested safely.",
+    "references": [
+      "runtime\\update\\UpdateFiles.kt:77"
+    ]
+  },
+  {
+    "key": "native_796dc6b7ca29",
+    "source": "空间不足，原状态保持不变",
+    "parts": [
+      "空间不足，原状态保持不变"
+    ],
+    "en": "Insufficient storage. Original state unchanged.",
+    "references": [
+      "runtime\\update\\UpdateFiles.kt:82"
+    ]
+  },
+  {
+    "key": "native_099801d672b1",
+    "source": "下载已取消",
+    "parts": [
+      "下载已取消"
+    ],
+    "en": "Download cancelled",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:23"
+    ]
+  },
+  {
+    "key": "native_f1304f707ec9",
+    "source": "更新重定向次数过多",
+    "parts": [
+      "更新重定向次数过多"
+    ],
+    "en": "Too many update redirects",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:37",
+      "runtime\\update\\UpdateHttpsClient.kt:64"
+    ]
+  },
+  {
+    "key": "native_0d07f458b607",
+    "source": "更新服务器未按原始字节传输",
+    "parts": [
+      "更新服务器未按原始字节传输"
+    ],
+    "en": "The update server did not transfer the original bytes",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:43"
+    ]
+  },
+  {
+    "key": "native_de331dfd8908",
+    "source": "更新文件长度不匹配",
+    "parts": [
+      "更新文件长度不匹配"
+    ],
+    "en": "Update file length does not match",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:46"
+    ]
+  },
+  {
+    "key": "native_416b8c87e69e",
+    "source": "更新文件未完整下载",
+    "parts": [
+      "更新文件未完整下载"
+    ],
+    "en": "The update file was not fully downloaded",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:57"
+    ]
+  },
+  {
+    "key": "native_e1e74b76c427",
+    "source": "更新服务器未返回完整文件",
+    "parts": [
+      "更新服务器未返回完整文件"
+    ],
+    "en": "The update server did not return the complete file",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:60"
+    ]
+  },
+  {
+    "key": "native_6afcf03cb130",
+    "source": "更新暂存空间不足",
+    "parts": [
+      "更新暂存空间不足"
+    ],
+    "en": "Insufficient update staging space",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:72"
+    ]
+  },
+  {
+    "key": "native_be1c695d9241",
+    "source": "更新文件 SHA-256 不匹配",
+    "parts": [
+      "更新文件 SHA-256 不匹配"
+    ],
+    "en": "Update file SHA-256 does not match",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:78"
+    ]
+  },
+  {
+    "key": "native_a0133d117bb0",
+    "source": "更新包与已确认的发布信息不一致",
+    "parts": [
+      "更新包与已确认的发布信息不一致"
+    ],
+    "en": "The update package does not match the confirmed release information",
+    "references": [
+      "runtime\\update\\UpdateHttpsClient.kt:84"
+    ]
+  },
+  {
+    "key": "native_8635a43ce28a",
+    "source": "无效的项目目录",
+    "parts": [
+      "无效的项目目录"
+    ],
+    "en": "Invalid project directory",
+    "references": [
+      "runtime\\WorkspaceContext.kt:59"
+    ]
+  },
+  {
+    "key": "native_d32ab8b004e6",
+    "source": "无法保存工作区位置",
+    "parts": [
+      "无法保存工作区位置"
+    ],
+    "en": "Could not save the workspace location",
+    "references": [
+      "runtime\\WorkspaceSelectionStore.kt:27"
+    ]
+  },
+  {
+    "key": "native_43a5447014fd",
+    "source": "在 Runtime 启动开发环境后打开终端。",
+    "parts": [
+      "在 Runtime 启动开发环境后打开终端。"
+    ],
+    "en": "Start the development environment from Runtime before opening a terminal.",
+    "references": [
+      "TerminalView.kt:47"
+    ]
+  },
+  {
+    "key": "native_8fdcba6ce35a",
+    "source": "＋ 新终端",
+    "parts": [
+      "＋ 新终端"
+    ],
+    "en": "＋ New terminal",
+    "references": [
+      "TerminalView.kt:62"
+    ]
+  },
+  {
+    "key": "native_b3b7108a568f",
+    "source": "关闭当前",
+    "parts": [
+      "关闭当前"
+    ],
+    "en": "Close current",
+    "references": [
+      "TerminalView.kt:63"
+    ]
+  },
+  {
+    "key": "native_0e822affd5da",
+    "source": "初始目录：%1$s",
+    "parts": [
+      "初始目录：",
+      ""
+    ],
+    "en": "Initial directory: %1$s",
+    "references": [
+      "TerminalView.kt:74"
+    ]
+  },
+  {
+    "key": "native_72d769e3888d",
+    "source": "新终端目录：%1$s",
+    "parts": [
+      "新终端目录：",
+      ""
+    ],
+    "en": "New terminal directory: %1$s",
+    "references": [
+      "TerminalView.kt:88"
+    ]
+  },
+  {
+    "key": "native_16e83ec84bca",
+    "source": "系统文件选择器不可用",
+    "parts": [
+      "系统文件选择器不可用"
+    ],
+    "en": "System file picker is unavailable",
+    "references": [
+      "WebFilePicker.kt:60"
+    ]
+  },
+  {
+    "key": "native_179a57921f91",
+    "source": "WebView 渲染设置",
+    "parts": [
+      "WebView 渲染设置"
+    ],
+    "en": "WebView rendering settings",
+    "references": [
+      "WebViewRenderingControls.kt:15"
+    ]
+  },
+  {
+    "key": "native_3024ec603eb7",
+    "source": "渲染帧率",
+    "parts": [
+      "渲染帧率"
+    ],
+    "en": "Rendering frame rate",
+    "references": [
+      "WebViewRenderingControls.kt:16"
+    ]
+  },
+  {
+    "key": "native_55b6d7f645f3",
+    "source": "优先 60 Hz",
+    "parts": [
+      "优先 60 Hz"
+    ],
+    "en": "Prefer 60 Hz",
+    "references": [
+      "WebViewRenderingControls.kt:18"
+    ]
+  },
+  {
+    "key": "native_66f8bafa9f7f",
+    "source": "跟随屏幕刷新率",
+    "parts": [
+      "跟随屏幕刷新率"
+    ],
+    "en": "Follow display refresh rate",
+    "references": [
+      "WebViewRenderingControls.kt:18"
+    ]
+  },
+  {
+    "key": "native_d4ecf38c341d",
+    "source": "优先请求 60 Hz，减轻高刷新率下的渲染负担。跟随屏幕时由系统自动调度。仅影响本应用窗口。",
+    "parts": [
+      "优先请求 60 Hz，减轻高刷新率下的渲染负担。跟随屏幕时由系统自动调度。仅影响本应用窗口。"
+    ],
+    "en": "Prefer 60 Hz to reduce rendering load on high refresh rate displays. Following the display lets the system schedule frames. Applies only to this app's window.",
+    "references": [
+      "WebViewRenderingControls.kt:24"
+    ]
+  },
+  {
+    "key": "native_bf0d3a407418",
+    "source": "未安装",
+    "parts": [
+      "未安装"
+    ],
+    "en": "Not installed",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_2fb8edc75b25",
+    "source": "就绪",
+    "parts": [
+      "就绪"
+    ],
+    "en": "Ready",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_4d4e2f76dd8d",
+    "source": "正在检查运行器",
+    "parts": [
+      "正在检查运行器"
+    ],
+    "en": "Verifying loader",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_d1017c1eac80",
+    "source": "正在安装 Debian",
+    "parts": [
+      "正在安装 Debian"
+    ],
+    "en": "Installing Debian",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_f863d955fa6e",
+    "source": "本地开发环境",
+    "parts": [
+      "本地开发环境"
+    ],
+    "en": "Local development environment",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_55aa84065de2",
+    "source": "本地 Debian 开发会话",
+    "parts": [
+      "本地 Debian 开发会话"
+    ],
+    "en": "Local Debian development session",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_6e75b1822ebc",
+    "source": "停止",
+    "parts": [
+      "停止"
+    ],
+    "en": "Stop",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_5f73a4e1e494",
+    "source": "已安装",
+    "parts": [
+      "已安装"
+    ],
+    "en": "Installed",
+    "references": [
+      "native status/notification label"
+    ]
+  },
+  {
+    "key": "native_147e90d2ec02",
+    "source": "正在恢复",
+    "parts": [
+      "正在恢复"
+    ],
+    "en": "Recovering",
+    "references": [
+      "native status/notification label"
+    ]
+  }
+]

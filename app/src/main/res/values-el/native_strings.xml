@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Χώρος εργασίας ανάπτυξης</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Μονοσελίδα</string>
+    <string name="native_651ae6ea52ae" formatted="false">Επαναφορά διαίρεσης προβολής</string>
+    <string name="native_d7e97cfac66f" formatted="false">Διάταξη χώρου εργασίας</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Διευρύνετε το παράθυρο για να δείτε πολλά πάνελ μαζί.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Εμφάνιση αρχείων έργου</string>
+    <string name="native_712d956931d1" formatted="false">Εμφάνιση τερματικού</string>
+    <string name="native_073cc20d9ed9" formatted="false">Τερματικό παρακάτω</string>
+    <string name="native_5de225480fa7" formatted="false">Τερματικό στα δεξιά\nΤα πάνελ</string>
+    <string name="native_35cdb3eacdc6" formatted="false">συμπτύσσονται όταν ο χώρος είναι περιορισμένος και παραμένουν προσβάσιμα από το αιωρούμενο μενού. Ο πλευρικός ακροδέκτης εμφανίζεται σε ευρύτερα παράθυρα. Σύρετε διαχωριστικά για να αλλάξετε το μέγεθος των πινάκων.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Left Alt: 1–5 σελίδες · B αρχεία · T τερματικό · M Desktop · Enter Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Έγινε</string>
+    <string name="native_bcec2218fc21" formatted="false">Επαναφορά αναλογιών</string>
+    <string name="native_da88c62d1217">Εμφάνιση %1$s σε μία σελίδα</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Διαιρέτης αρχείων έργου</string>
+    <string name="native_707c0891a0e6" formatted="false">Τερματικό διαχωριστικό</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode και διαχωριστικό επιφάνειας εργασίας</string>
+    <string name="native_50407ad8dfa8" formatted="false">Συρρίκνωση προηγούμενου πίνακα</string>
+    <string name="native_b72c5c02a666" formatted="false">Μεγέθυνση του προηγούμενου πίνακα</string>
+    <string name="native_3f3685e8d731" formatted="false">Πάρα πολλοί σύνδεσμοι PRoot για αυτήν τη μορφή αρχείου\nΟι σκληροί σύνδεσμοι</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux απαιτούν ένα πλήρες rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Η ένθεση του εφεδρικού καταλόγου είναι πολύ βαθιά</string>
+    <string name="native_b6f744737a45" formatted="false">Μη έγκυρο μήκος κωδικού πρόσβασης ασφαλείας</string>
+    <string name="native_13bde5dd1812" formatted="false">Ο εφεδρικός κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 12 χαρακτήρες</string>
+    <string name="native_be02cbd55932" formatted="false">Μη υποστηριζόμενη μορφή αντιγράφου ασφαλείας</string>
+    <string name="native_7a91a3d586ae" formatted="false">Μη έγκυρη κεφαλίδα αντιγράφων ασφαλείας</string>
+    <string name="native_2bbd318a5667" formatted="false">Μη υποστηριζόμενες παράμετροι κρυπτογράφησης αντιγράφου ασφαλείας</string>
+    <string name="native_18868da27841" formatted="false">Λανθασμένος κωδικός αντιγράφου ασφαλείας ή κατεστραμμένο αρχείο</string>
+    <string name="native_e41d6440468d" formatted="false">Η εγγραφή ανάκτησης είναι πολύ μεγάλη\nΤα μεταδεδομένα των αντιγράφων ασφαλείας</string>
+    <string name="native_282692502f14" formatted="false">είναι πολύ μεγάλα</string>
+    <string name="native_61fdca8d6c82" formatted="false">Η ένθεση των μεταδεδομένων αντιγράφων ασφαλείας είναι πολύ βαθιά</string>
+    <string name="native_8cefb30732d4" formatted="false">Μη έγκυρα μεταδεδομένα αντιγράφων ασφαλείας</string>
+    <string name="native_5d3037708cad" formatted="false">Μη υποστηριζόμενες εγγενείς ρυθμίσεις</string>
+    <string name="native_81a57c382f9d" formatted="false">Δεν ήταν δυνατή η αποθήκευση των εγγενών ρυθμίσεων</string>
+    <string name="native_50603e683d4a" formatted="false">Μη έγκυρος γονικός κατάλογος στη διαδρομή δημιουργίας αντιγράφων ασφαλείας</string>
+    <string name="native_c3f838a46b8e" formatted="false">Η ρίζα του σταθμού εργασίας δεν πρέπει να είναι συμβολική σύνδεση</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Ένα αρχείο άλλαξε κατά τη δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="native_77e1e85147db" formatted="false">Μη υποστηριζόμενη μορφή δεδομένων σταθμού εργασίας</string>
+    <string name="native_a927b5a565af" formatted="false">Το αντίγραφο ασφαλείας περιέχει πρόσθετα δεδομένα</string>
+    <string name="native_c2b886d508f2" formatted="false">Το αντίγραφο ασφαλείας περιέχει διπλότυπες διαδρομές</string>
+    <string name="native_3dab8cd60102" formatted="false">Το αντίγραφο ασφαλείας περιέχει ρυθμίσεις χρόνου εκτέλεσης που δεν μπορούν να μετεγκατασταθούν</string>
+    <string name="native_f45ba674a630" formatted="false">Το αντίγραφο ασφαλείας είναι πολύ μεγάλο ή ο αποθηκευτικός χώρος είναι ανεπαρκής</string>
+    <string name="native_140073e8e77b" formatted="false">Δεν ήταν δυνατή η επαναφορά των συμβολικών χρονικών σφραγίδων συνδέσμων</string>
+    <string name="native_b0d411aaf62c" formatted="false">Δεν ήταν δυνατή η επαναφορά των χρονικών σφραγίδων με όνομα σωλήνα\nΔημιουργία αντιγράφων ασφαλείας και επαναφορά σταθμού εργασίας</string>
+    <string name="native_0daee8026db1" formatted="false">Δημιουργία αντιγράφων ασφαλείας και επαναφορά σταθμού εργασίας</string>
+    <string name="native_1acc18928c5f" formatted="false">Περιλαμβάνει Debian, εργαλεία προγραμματιστή, έργα, σπίτι, συνεδρίες και ρυθμίσεις OpenCode, δεδομένα προγράμματος περιήγησης Linux και ρυθμίσεις εγγενούς διάταξης.</string>
+    <string name="native_62254d31a535" formatted="false">Τα προσωρινά αρχεία και τα παλιά αντίγραφα ασφαλείας εξαιρούνται. Ο αποθηκευτικός χώρος Android WebView και τα μη απεσταλμένα πρόχειρα παραμένουν σε αυτήν τη συσκευή και δεν μεταφέρονται με αυτό το αντίγραφο ασφαλείας.</string>
+    <string name="native_808eabc7811f" formatted="false">Δημιουργία κρυπτογραφημένου αντιγράφου ασφαλείας</string>
+    <string name="native_201c10b38296" formatted="false">Εισαγωγή αντιγράφου ασφαλείας</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Αποθηκεύστε πρώτα τις αλλαγές σας στον επεξεργαστή αρχείων.</string>
+    <string name="native_0559cd596453" formatted="false">Διακοπή OpenCode, τερματικά και επιφάνεια εργασίας</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Μια λειτουργία περιβάλλοντος δεν έχει ολοκληρωθεί. Ανακτήστε το πρώτα.</string>
+    <string name="native_185f58156330" formatted="false">Ανάκτηση ημιτελούς λειτουργίας</string>
+    <string name="native_20831b6f67a7" formatted="false">Αναίρεση της τελευταίας επαναφοράς περιβάλλοντος</string>
+    <string name="native_4f392d5d6141">Κρυπτογραφημένο τοπικό αντίγραφο: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Αποθήκευση στο αρχείο</string>
+    <string name="native_f09619351eb9" formatted="false">Διαγραφή τοπικού αντιγράφου</string>
+    <string name="native_85c686eb9841">Επεξεργασία %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Ακύρωση εργασίας δημιουργίας αντιγράφων ασφαλείας</string>
+    <string name="native_66c9d896407b" formatted="false">Κρυπτογράφηση αντιγράφου ασφαλείας σταθμού εργασίας</string>
+    <string name="native_548cd9f0831e" formatted="false">Αποκρυπτογραφήστε και επαληθεύστε το αντίγραφο ασφαλείας\nΤα αντίγραφα ασφαλείας</string>
+    <string name="native_d248f5eca9a5" formatted="false">ενδέχεται να περιέχουν ιδιωτικά κλειδιά SSH, κλειδιά API και δεδομένα λογαριασμού. Χρησιμοποιήστε τουλάχιστον 12 χαρακτήρες. Δεν είναι δυνατή η ανάκτηση ενός ξεχασμένου κωδικού πρόσβασης.</string>
+    <string name="native_f249422b9ec1" formatted="false">Το αντίγραφο ασφαλείας αποκρυπτογραφείται και επαληθεύεται σε έναν ιδιωτικό κατάλογο. Το περιβάλλον σας αντικαθίσταται μόνο αφού επιβεβαιώσετε την αποκατάσταση.</string>
+    <string name="native_e7be6841703a" formatted="false">Εφεδρικός κωδικός πρόσβασης</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Επαναλάβετε τον κωδικό πρόσβασης</string>
+    <string name="native_eafdc5cd4882" formatted="false">Έναρξη κρυπτογράφησης</string>
+    <string name="native_2986b88beade" formatted="false">Αποκρυπτογραφήστε και επαληθεύστε</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Ακύρωση</string>
+    <string name="native_f46c5ed7412d" formatted="false">Επαναφορά ολόκληρου του προηγούμενου περιβάλλοντος;</string>
+    <string name="native_33eda0946a5b" formatted="false">Διαγραφή του κρυπτογραφημένου τοπικού αντιγράφου;</string>
+    <string name="native_26db24150f2e" formatted="false">Τα έργα, το σπίτι, το Debian και οι συνεδρίες θα επιστρέψουν στην κατάστασή τους πριν από την τελευταία επαναφορά. Η πιο πρόσφατη εργασία θα παραμείνει σε ιδιωτικό αντίγραφο ασφαλείας εντός της εφαρμογής.</string>
+    <string name="native_1153b30d51d5" formatted="false">Διαγράφεται μόνο το κρυπτογραφημένο τοπικό αντίγραφο μέσα στην εφαρμογή. Τα αρχεία που έχουν αποθηκευτεί αλλού παραμένουν διαθέσιμα.</string>
+    <string name="native_427a78a4e69a" formatted="false">Επιβεβαίωση</string>
+    <string name="native_7af46d7ee003" formatted="false">Επαναφορά αυτού του αντιγράφου ασφαλείας του σταθμού εργασίας;</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s καταχωρήσεις · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Το αντίγραφο ασφαλείας περιέχει εκτελέσιμο λογισμικό Linux. Επιβεβαιώστε ότι εμπιστεύεστε την πηγή του. Η αποκατάσταση αντικαθιστά ολόκληρο το περιβάλλον και ελέγχει τις τοπικές υπηρεσίες. το προηγούμενο περιβάλλον διατηρείται για ανάκτηση.\nΤο αντίγραφο ασφαλείας</string>
+    <string name="native_c3d74ed0c054" formatted="false">επαληθεύτηκε. Αναμονή για επιβεβαίωση αποκατάστασης.</string>
+    <string name="native_97076078c749" formatted="false">Ενεργοποιήστε επίσης τη λειτουργία συμβατότητας Chromium (απενεργοποιεί το περιβάλλον δοκιμών επεξεργασίας Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Απενεργοποίηση από προεπιλογή. Μπορείτε να το ενεργοποιήσετε αργότερα στις ρυθμίσεις επιφάνειας εργασίας.</string>
+    <string name="native_ddf09383413c" formatted="false">Επιβεβαίωση επαναφοράς</string>
+    <string name="native_8e6056b0f629" formatted="false">Ακύρωση εισαγωγής\nΤο περιβάλλον του σταθμού εργασίας</string>
+    <string name="native_63a895901c76" formatted="false">άλλαξε</string>
+    <string name="native_a4c994348a39" formatted="false">Ανοίξτε ξανά τον χώρο εργασίας</string>
+    <string name="native_774947f0653e" formatted="false">Ακύρωση εργασίας</string>
+    <string name="native_e09a22b18445" formatted="false">Η εργασία διακόπηκε. Επιλέξτε ξανά μια λειτουργία και εισαγάγετε τον κωδικό πρόσβασης.</string>
+    <string name="native_38c5fcc634db" formatted="false">Αποθηκεύστε πρώτα τις επεξεργασίες αρχείων σε όλα τα παράθυρα. Ακυρώστε μια υπάρχουσα εισαγωγή πριν προσπαθήσετε ξανά.</string>
+    <string name="native_029bfa8ff772" formatted="false">Επαναφορά του σταθμού εργασίας και επαλήθευση προγραμμάτων</string>
+    <string name="native_e4f04df818f8" formatted="false">Επεξεργάζεται την επιλεγμένη λειτουργία δημιουργίας αντιγράφων ασφαλείας</string>
+    <string name="native_8206f072d5ee" formatted="false">Σταματήστε τον OpenCode, τα τερματικά και την επιφάνεια εργασίας και μετά περιμένετε να ολοκληρωθούν οι λειτουργίες του αρχείου.</string>
+    <string name="native_1a5cde18c609" formatted="false">Δεν ήταν δυνατή η έναρξη της εργασίας δημιουργίας αντιγράφων ασφαλείας. Δοκιμάστε ξανά με την εφαρμογή στο προσκήνιο.</string>
+    <string name="native_1553b714941d" formatted="false">Αποκρυπτογράφηση και επαλήθευση του αντιγράφου ασφαλείας. Το αρχικό περιβάλλον παραμένει ανακτήσιμο…\nΤο αντίγραφο ασφαλείας</string>
+    <string name="native_dafd005e953e" formatted="false">επαληθεύτηκε. Επιβεβαιώστε την επαναφορά στην εφαρμογή.</string>
+    <string name="native_9fb236184596" formatted="false">Διέγραψε το κρυπτογραφημένο τοπικό αντίγραφο μέσα στην εφαρμογή.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Η λειτουργία ακυρώθηκε. Διατηρούνται αρχικά δεδομένα περιβάλλοντος.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Η λειτουργία δεν έχει ολοκληρωθεί. Ελέγξτε τον κωδικό πρόσβασης, την ακεραιότητα του αντιγράφου ασφαλείας, την έκδοση κεντρικού υπολογιστή και τον ελεύθερο χώρο. Διατηρούνται αρχικά δεδομένα περιβάλλοντος.</string>
+    <string name="native_29deabd28960" formatted="false">Δημιουργία κρυπτογραφημένου αντιγράφου ασφαλείας σταθμού εργασίας…</string>
+    <string name="native_3d137e243806" formatted="false">Δημιουργήθηκε κρυπτογραφημένο αντίγραφο ασφαλείας. Επιλέξτε πού θα το αποθηκεύσετε.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Αποκατάσταση περιβάλλοντος και έλεγχος τοπικών υπηρεσιών. Διατηρήστε ανέπαφα τα δεδομένα της εφαρμογής…\nΟ σταθμός εργασίας</string>
+    <string name="native_840a6a8bf2e6" formatted="false">αποκαταστάθηκε. Το προηγούμενο περιβάλλον παραμένει σε ιδιωτικό αντίγραφο ασφαλείας. Ανοίξτε ξανά τον χώρο εργασίας.</string>
+    <string name="native_0392cd6152d2" formatted="false">Οι έλεγχοι επαναφοράς απέτυχαν. Επέστρεψε στο προηγούμενο περιβάλλον. Τα εισαγόμενα δεδομένα παραμένουν σε ιδιωτικό αντίγραφο ασφαλείας.\nΗ αποκατάσταση</string>
+    <string name="native_5dc7410b600e" formatted="false">δεν έχει ολοκληρωθεί. Όλοι οι κατάλογοι δεδομένων διατηρούνται. Διατηρήστε τα δεδομένα της εφαρμογής και δοκιμάστε ξανά την ανάκτηση.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Επαναφορά του προηγούμενου περιβάλλοντος σταθμού εργασίας…</string>
+    <string name="native_15821323ff89" formatted="false">Αποκαταστάθηκε το προηγούμενο περιβάλλον. Η πιο πρόσφατη εργασία παραμένει σε ιδιωτικό αντίγραφο ασφαλείας. Ανοίξτε ξανά τον χώρο εργασίας.</string>
+    <string name="native_56dd94f47870" formatted="false">Δεν είναι δυνατή η αναίρεση αυτής της επαναφοράς. Το τρέχον περιβάλλον και τα αντίγραφα ασφαλείας διατηρούνται.</string>
+    <string name="native_93530f3fa029" formatted="false">Η αναίρεση δεν έχει ολοκληρωθεί. Όλοι οι κατάλογοι δεδομένων διατηρούνται. Διατηρήστε τα δεδομένα της εφαρμογής και δοκιμάστε ξανά την ανάκτηση.</string>
+    <string name="native_f12963c80def" formatted="false">Αποθήκευση κρυπτογραφημένου αντιγράφου ασφαλείας…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Το κρυπτογραφημένο αντίγραφο ασφαλείας αποθηκεύτηκε. Μπορείτε να αποθηκεύσετε ξανά το τοπικό αντίγραφο ή να το διαγράψετε μη αυτόματα.</string>
+    <string name="native_d660cccf65e0" formatted="false">Εκκαθάριση μη επιβεβαιωμένης εισαγωγής…</string>
+    <string name="native_800592163979" formatted="false">Η εισαγωγή ακυρώθηκε. Το αρχικό περιβάλλον αμετάβλητο.</string>
+    <string name="native_5a90367eb834" formatted="false">Η εισαγωγή ακυρώθηκε. Το αρχικό περιβάλλον αμετάβλητο. ορισμένα προσωρινά δεδομένα εισαγωγής παραμένουν στον ιδιωτικό κατάλογο της εφαρμογής.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Προετοιμασία αποκρυπτογράφησης και επαλήθευσης…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Προετοιμασία κρυπτογραφημένου αντιγράφου ασφαλείας…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Δεν ήταν δυνατή η εκκίνηση της υπηρεσίας δημιουργίας αντιγράφων ασφαλείας. Προσπαθήστε ξανά στο προσκήνιο.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Ανακτήστε πρώτα την ημιτελή λειτουργία περιβάλλοντος</string>
+    <string name="native_f14aea7c819c" formatted="false">Μη έγκυρη εγγραφή ανάκτησης</string>
+    <string name="native_7c284c55ee08" formatted="false">Λείπει ο κατάλογος ανάκτησης</string>
+    <string name="native_bfc4792df15b" formatted="false">Οι εγγενείς ρυθμίσεις υπερβαίνουν το όριο εγγραφής ανάκτησης</string>
+    <string name="native_8d93770ba8c9">Λείπει ο προηγούμενος κατάλογος περιβάλλοντος: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Άγνωστο στάδιο ανάκτησης</string>
+    <string name="native_20c5124fe175" formatted="false">Άγνωστη λειτουργία ανάκτησης</string>
+    <string name="native_1c457322b624" formatted="false">Δεν υπάρχει προηγούμενο περιβάλλον για επαναφορά</string>
+    <string name="native_30db1666c8e5" formatted="false">Αυτό το αντίγραφο ασφαλείας ανήκει σε διαφορετική εφαρμογή</string>
+    <string name="native_6687d1c64d75" formatted="false">Η αρχιτεκτονική του εφεδρικού επεξεργαστή δεν ταιριάζει</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Ενημερώστε πρώτα τον κεντρικό υπολογιστή Android στην έκδοση που χρησιμοποιείται από αυτό το αντίγραφο ασφαλείας</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Ο κατάλογος αντιγράφων ασφαλείας δεν είναι πλήρης</string>
+    <string name="native_66106ab3e254" formatted="false">Το παλιό αντίγραφο ασφαλείας δεν έχει επαληθεύσιμη απόδειξη εκδότη OpenCode. Ξεκινήστε το αρχικό περιβάλλον με αυτόν τον κεντρικό υπολογιστή προτού δημιουργήσετε ξανά αντίγραφο ασφαλείας.</string>
+    <string name="native_bec13cc92982" formatted="false">Ενέργειες συστήματος περιβάλλοντος ανάπτυξης\nΤο</string>
+    <string name="native_65de80229626" formatted="false">Το Debian ζήτησε μια ενέργεια συστήματος</string>
+    <string name="native_5e38581cf19c" formatted="false">Πατήστε για να ελέγξετε και να χειριστείτε το αίτημα</string>
+    <string name="native_749d406d2c67" formatted="false">Από το περιβάλλον ανάπτυξης του Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Άνοιγμα του προγράμματος περιήγησης συστήματος;</string>
+    <string name="native_ce9491abbc6c" formatted="false">Άνοιγμα μιας τοπικής προεπισκόπησης έργου;</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Διαβάστε το πρόχειρο;</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Αντιγραφή στο πρόχειρο του συστήματος;</string>
+    <string name="native_77f761eb70aa" formatted="false">Αποστολή τοπικής ειδοποίησης;</string>
+    <string name="native_e6b29e80abb7" formatted="false">Κοινή χρήση αρχείου έργου;</string>
+    <string name="native_9d36f698b3c1" formatted="false">Εισαγωγή αρχείων συστήματος;</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Εξαγωγή αρχείου έργου;</string>
+    <string name="native_7ac295421c6d" formatted="false">Άνοιγμα στο πρόγραμμα περιήγησης</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Άνοιγμα προεπισκόπησης</string>
+    <string name="native_14792d6cd7a6" formatted="false">Να επιτρέπεται η ανάγνωση</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Αντιγραφή στο πρόχειρο</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Αποστολή ειδοποίησης</string>
+    <string name="native_88152a09fa02" formatted="false">Επιλέξτε μια εφαρμογή κοινής χρήσης</string>
+    <string name="native_7a49a79c57f9" formatted="false">Επιλέξτε αρχεία</string>
+    <string name="native_99d9f87419c5" formatted="false">Επιλέξτε πού να αποθηκεύσετε</string>
+    <string name="native_23e5bb2090aa">%1$s\nΑνοίγει με δεδομένα προγράμματος περιήγησης που απομονώνονται από το OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Δώστε κείμενο από το πρόχειρο του συστήματος στο τρέχον πρόγραμμα του Debian.</string>
+    <string name="native_dcc6bec24e43">Επιλέξτε αρχεία για εισαγωγή στο %1$s. Τα υπάρχοντα αρχεία διατηρούνται και τα διπλότυπα μετονομάζονται.</string>
+    <string name="native_efdb26088f68" formatted="false">Λειτουργία προγράμματος περιήγησης Chromium\nΗ λειτουργία συμβατότητας</string>
+    <string name="native_4767f37900f6" formatted="false">χρησιμοποιεί ένα ξεχωριστό προφίλ προγράμματος περιήγησης και απενεργοποιεί το περιβάλλον δοκιμών επεξεργασίας Linux του Chromium. Το πρόγραμμα περιήγησης εξακολουθεί να έχει πρόσβαση σε αρχεία μέσα σε αυτήν την εφαρμογή. Αποφύγετε μη αξιόπιστους ιστότοπους και χρησιμοποιήστε το πρόγραμμα περιήγησης συστήματος Android για σημαντικούς λογαριασμούς. Ανοίξτε ξανά το Chromium αφού αλλάξετε τις λειτουργίες.\nΤο</string>
+    <string name="native_a4317f2699a2" formatted="false">Το Standard Linux sandboxing είναι ενεργοποιημένο από προεπιλογή. Εάν το Chromium δεν μπορεί να ξεκινήσει, μπορείτε να επιλέξετε τη λειτουργία συμβατότητας. Απενεργοποιεί το περιβάλλον δοκιμών του Linux και χρησιμοποιεί ξεχωριστό προφίλ, ενώ διατηρεί την πρόσβαση στα αρχεία εφαρμογών. Αποφύγετε μη αξιόπιστους ιστότοπους. χρησιμοποιήστε το πρόγραμμα περιήγησης συστήματος Android για σημαντικούς λογαριασμούς.</string>
+    <string name="native_3a2596fa9517" formatted="false">Επαναφορά τυπικής λειτουργίας</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Ενεργοποίηση λειτουργίας συμβατότητας</string>
+    <string name="native_9a45442649f5" formatted="false">Debian desktop</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Κοινόχρηστο /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Η πρώτη εγκατάσταση κατεβάζει στοιχεία γραφικών. Μετά την εγκατάσταση, η επιφάνεια εργασίας μπορεί να ξεκινήσει και να σταματήσει ανεξάρτητα από το OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">καθρέφτης USTC</string>
+    <string name="native_41e865941e16" formatted="false">Επίσημος καθρέφτης του Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Αρχική ανάλυση</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Η επιφάνεια εργασίας συνεχίζει να λειτουργεί όταν αλλάζετε σελίδες. Σταματήστε το από το Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Διακοπή εργασίας στην επιφάνεια εργασίας</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Εκκίνηση επιφάνειας εργασίας</string>
+    <string name="native_ea27a25e5114" formatted="false">Εγκαταστήστε εξαρτήματα επιφάνειας εργασίας</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: λειτουργία συμβατότητας</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: τυπική λειτουργία</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Εγκαταστήστε πρώτα τα εργαλεία προγραμματιστών Debian από το Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Αρχείο καταγραφής δραστηριοτήτων</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Δεν ήταν δυνατό το άνοιγμα του φακέλου του έργου. Ελέγξτε ότι ο κατάλογος υπάρχει.</string>
+    <string name="native_83c76743b29d" formatted="false">Ανάκτηση της λειτουργίας περιβάλλοντος που έχει διακοπεί</string>
+    <string name="native_739a730ae247" formatted="false">Συντήρηση περιβάλλοντος</string>
+    <string name="native_049281329843" formatted="false">Περιμένετε να ολοκληρωθεί η συντήρηση της ενημέρωσης ή η τρέχουσα εργασία.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Περιμένετε να ολοκληρωθεί η τρέχουσα εργασία περιβάλλοντος ανάπτυξης</string>
+    <string name="native_83099168971c" formatted="false">Εγκατάσταση επιτραπέζιου υπολογιστή</string>
+    <string name="native_85e0c18dde8d" formatted="false">Εκκίνηση επιφάνειας εργασίας</string>
+    <string name="native_9a48f8196d8f" formatted="false">Θέλει προσοχή</string>
+    <string name="native_75470fb13121" formatted="false">Σταμάτησε</string>
+    <string name="native_51a53c8109d5" formatted="false">Δεν είναι δυνατή η ανάγνωση ή η αποθήκευση της εγγραφής δραστηριότητας. Επισκευάστε το από το Runtime ή ελευθερώστε λίγο χώρο αποθήκευσης.</string>
+    <string name="native_d36a018cc619" formatted="false">Εγκαταστήστε πρώτα το περιβάλλον ανάπτυξης Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Συνδεθείτε πρώτα σε ένα δίκτυο\nΗ εγκατάσταση του</string>
+    <string name="native_a065d81014b1" formatted="false">στην επιφάνεια εργασίας δεν έχει ολοκληρωθεί. Δοκιμάστε ξανά την εγκατάσταση.\nΕγκαταστάθηκε η επιφάνεια εργασίας</string>
+    <string name="native_721c38b32c35" formatted="false">. Ξεκινήστε το όταν χρειάζεται.</string>
+    <string name="native_6c1c52771115" formatted="false">Εγκαταστήστε πρώτα στοιχεία επιφάνειας εργασίας</string>
+    <string name="native_693d90a47827" formatted="false">Η λειτουργία επιφάνειας εργασίας απέτυχε. Οι λεπτομέρειες είναι πολύ μεγάλες ή δεν είναι διαθέσιμες.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Δεν ήταν δυνατή η ολοκλήρωση της αποθήκευσης του δείκτη διακοπής. Η διαδικασία καθαρισμού συνεχίστηκε.</string>
+    <string name="native_06083621a6ce" formatted="false">Δεν ήταν δυνατή η ολοκλήρωση της αποθήκευσης της εγγραφής δραστηριότητας. Η επόμενη εκκίνηση θα το αντιμετωπίσει ως διακοπή.</string>
+    <string name="native_04d721a3819a" formatted="false">Επιτραπέζιος υπολογιστής σε λειτουργία</string>
+    <string name="native_c3f0acaf7a73" formatted="false">έληξε η λειτουργία της επιφάνειας εργασίας. Ελέγξτε το αρχείο καταγραφής και δοκιμάστε ξανά.\nΈγινε έξοδος από τη διαδικασία επιτραπέζιου υπολογιστή</string>
+    <string name="native_e70d328a3ca9">(%1$s). Ελέγξτε το αρχείο καταγραφής δραστηριοτήτων.</string>
+    <string name="native_df5c878f2852" formatted="false">Τοπικός γραφικός χώρος εργασίας</string>
+    <string name="native_7b0455a8daa4" formatted="false">Διακοπή επιφάνειας εργασίας</string>
+    <string name="native_a62123cde9c7" formatted="false">Διακοπή εργασιών και ανάκτηση</string>
+    <string name="native_279308947a14" formatted="false">Δεν είναι δυνατή η ανάγνωση της εγγραφής δραστηριότητας. Το Repair διατηρεί ένα αντίγραφο του κατεστραμμένου αρχείου και διατηρεί έργα, περιόδους λειτουργίας και το περιβάλλον Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Καταγραφή δραστηριότητας επισκευής</string>
+    <string name="native_6b43650c2c82" formatted="false">Η εργασία έληξε απροσδόκητα.\nΤα τερματικά</string>
+    <string name="native_acb0c970aaa6">%1$s δεν έκλεισαν κανονικά. Οι εντολές λειτουργίας τους διακόπηκαν.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Επιβεβαιώθηκε η επανεκκίνηση. Οι προηγούμενες εντολές δεν αναπαράχθηκαν ξανά.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Τα αποθηκευμένα έργα και οι περίοδοι λειτουργίας διατηρούνται. Ανοίξτε ξανά τα τερματικά χειροκίνητα. οι ημιτελείς εντολές δεν θα συνεχιστούν αυτόματα.</string>
+    <string name="native_fa9669296762" formatted="false">Κάντε επανεκκίνηση του OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Η επιφάνεια εργασίας δεν θα επανεκκινηθεί αυτόματα. Ξεκινήστε το ξανά από τη σελίδα του Desktop.</string>
+    <string name="native_644f8f44251f" formatted="false">Άνοιγμα αρχείου</string>
+    <string name="native_9dfb5569d609" formatted="false">Κοινή χρήση αρχείου</string>
+    <string name="native_a4500cff3a86" formatted="false">Ο κατάλογος εργασίας δεν πρέπει να είναι συμβολικός σύνδεσμος</string>
+    <string name="native_8657d27661bd" formatted="false">Μη έγκυρη διαδρομή καταλόγου εργασίας</string>
+    <string name="native_02b702a9adff" formatted="false">Επιλέξτε ένα αρχείο</string>
+    <string name="native_924874b746cc" formatted="false">Διαχειριστείτε συμβολικούς συνδέσμους στο τερματικό</string>
+    <string name="native_efea6e422a54" formatted="false">Μη έγκυρο όνομα αρχείου\nΟ κατάλογος</string>
+    <string name="native_c4989dc37aab" formatted="false">δεν υπάρχει\nΟ κατάλογος προορισμού</string>
+    <string name="native_d613dba39b44" formatted="false">δεν υπάρχει</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Δεν μπορεί να τοποθετηθεί φάκελος μέσα στον εαυτό του ή στους απογόνους του</string>
+    <string name="native_c3acd5a3254c" formatted="false">Το έργο περιέχει ειδικές συσκευές ή υποδοχές και δεν μπορεί να αντιγραφεί</string>
+    <string name="native_6c36955b068b" formatted="false">Επιλέξτε ένα κανονικό αρχείο</string>
+    <string name="native_49191d7d489f" formatted="false">Αυτό το αρχείο υπερβαίνει τα 2 MB. Επεξεργαστείτε το με το OpenCode ή το τερματικό.\nΤο αρχείο</string>
+    <string name="native_ee42414d36c2" formatted="false">είναι πολύ μεγάλο</string>
+    <string name="native_f0a979f87157" formatted="false">Εξάγετε δυαδικά αρχεία για να τα ανοίξετε σε άλλη εφαρμογή</string>
+    <string name="native_88a9c82651fc" formatted="false">Επεξεργαστείτε αρχεία που δεν είναι UTF-8 με το OpenCode ή το τερματικό</string>
+    <string name="native_0189a5c3418c" formatted="false">Ένα άλλο εργαλείο άλλαξε αυτό το αρχείο. Ανοίξτε το ξανά πριν από την επεξεργασία.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Ο αρχικός κατάλογος δεν υπάρχει πλέον. Αποκαταστήστε το πρώτα.</string>
+    <string name="native_46eae321049e" formatted="false">Δεν υπάρχει διαθέσιμη εφαρμογή κοινής χρήσης</string>
+    <string name="native_87d699d3a26c" formatted="false">Σκουπίδια</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Αρχεία έργου</string>
+    <string name="native_4dcf914f0b64" formatted="false">Τα διαγραμμένα αρχεία μπορούν να επαναφερθούν στους αρχικούς τους καταλόγους</string>
+    <string name="native_c5b81b02354f" formatted="false">Πίσω</string>
+    <string name="native_e56b99379169">Αντιγράφηκαν %1$s αρχεία · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Αντιγραφή…</string>
+    <string name="native_85199bb36b04" formatted="false">Ακύρωση λειτουργίας</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Κλείσιμο</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Νέα συνεδρία</string>
+    <string name="native_23c250cc8e0b" formatted="false">Ξεκινήστε μια περίοδο λειτουργίας OpenCode εδώ\nΤερματικό</string>
+    <string name="native_f22da21fd54f" formatted="false">Τερματικό</string>
+    <string name="native_3645f30b3412" formatted="false">Μη αποθηκευμένες αλλαγές</string>
+    <string name="native_2266227605c4" formatted="false">Αποθήκευση</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Ο κάδος απορριμμάτων είναι κενός</string>
+    <string name="native_a9e739b13e52" formatted="false">Επαναφορά</string>
+    <string name="native_45985dc2183e" formatted="false">Μετακίνηση:</string>
+    <string name="native_31214130b5b7" formatted="false">Αντίγραφο:</string>
+    <string name="native_07e5c3158f35" formatted="false">Επικόλληση</string>
+    <string name="native_831b4e0fb574" formatted="false">Νέο</string>
+    <string name="native_ff65a22d7087" formatted="false">Νέος φάκελος</string>
+    <string name="native_71faed44a86c" formatted="false">Νέο αρχείο</string>
+    <string name="native_8dddd460f6ae" formatted="false">Εισαγωγή</string>
+    <string name="native_d85825123e60" formatted="false">Ανανέωση</string>
+    <string name="native_ac9d73843736" formatted="false">Αναζήτηση σε αυτόν τον κατάλογο</string>
+    <string name="native_21eef82963ee" formatted="false">Αυτός ο κατάλογος είναι κενός. Εισαγάγετε αρχεία ή δημιουργήστε ένα έργο.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Δεν υπάρχουν αρχεία που να ταιριάζουν</string>
+    <string name="native_d674bc0f86b8" formatted="false">Ενέργειες αρχείου</string>
+    <string name="native_d04a47c87cc8" formatted="false">Συμβολικός σύνδεσμος\nΦάκελος</string>
+    <string name="native_e0ba66f5246a" formatted="false">Ντοσιέ</string>
+    <string name="native_f170b42599e8" formatted="false">Μετονομασία</string>
+    <string name="native_4cdacf57ead2" formatted="false">Αντίγραφο</string>
+    <string name="native_124aa030694e" formatted="false">Μετακίνηση σε…</string>
+    <string name="native_ac990518ed87" formatted="false">Ανοίξτε το τερματικό εδώ</string>
+    <string name="native_87bc93932d8a" formatted="false">Εξαγωγή σε αρχεία συστήματος</string>
+    <string name="native_dd37f132172f" formatted="false">Μετακίνηση στον κάδο απορριμμάτων</string>
+    <string name="native_7318746d337c" formatted="false">Μετακίνηση στον κάδο απορριμμάτων;</string>
+    <string name="native_2b5ee3f10a56">Μπορείτε να επαναφέρετε το \"%1$s\" από τον κάδο απορριμμάτων.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Μετακίνηση</string>
+    <string name="native_4e47aaa113fc" formatted="false">Απόρριψη μη αποθηκευμένων αλλαγών;</string>
+    <string name="native_63b75399ef1a" formatted="false">Απόρριψη αλλαγών</string>
+    <string name="native_d9618f7b8d25" formatted="false">Συνεχίστε την επεξεργασία</string>
+    <string name="native_76ce6aef5479" formatted="false">Όνομα</string>
+    <string name="native_35b0fc30b909" formatted="false">ΟΚ</string>
+    <string name="native_11b319774788" formatted="false">Αποκαταστάθηκε το περιβάλλον. Ανοίξτε ξανά τον χώρο εργασίας.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Ολοκληρώστε πρώτα την ανάκτηση της διακοπείσας λειτουργίας στο Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Η συντήρηση περιβάλλοντος βρίσκεται σε εξέλιξη. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="native_3bd28258feb0" formatted="false">Η λειτουργία ακυρώθηκε</string>
+    <string name="native_c508721eb3cd" formatted="false">Υπάρχει ήδη αρχείο με αυτό το όνομα. Επιλέξτε άλλο όνομα.</string>
+    <string name="native_1e8274fe468a" formatted="false">Το αρχείο δεν υπάρχει πλέον. Ανανεώστε τον κατάλογο.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Δεν επιτρέπεται η πρόσβαση σε αρχείο</string>
+    <string name="native_cd808e4c321e" formatted="false">Δεν ήταν δυνατή η ολοκλήρωση της λειτουργίας</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Η λειτουργία δεν έχει ολοκληρωθεί. Ελέγξτε τον διαθέσιμο χώρο αποθήκευσης ή επιλέξτε ξανά τα αρχεία.</string>
+    <string name="native_3f9983126fd7" formatted="false">Ελέγξτε την κατάσταση εκκίνησης OpenCode στο Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Δεν ήταν δυνατό το άνοιγμα νέου τερματικού. Ελέγξτε τον αριθμό των συνεδριών.</string>
+    <string name="native_2160fde3813a" formatted="false">Διαχειριστείτε συμβολικούς συνδέσμους στο τερματικό. Ο διαχειριστής αρχείων δεν ακολουθεί συνδέσμους.</string>
+    <string name="native_7a844e9d4017" formatted="false">Η μετακίνηση ολοκληρώθηκε</string>
+    <string name="native_573877894fcf" formatted="false">Η αντιγραφή ολοκληρώθηκε</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Μεταφέρθηκε στον κάδο απορριμμάτων</string>
+    <string name="native_862330af933f" formatted="false">Επαναφέρθηκε στον αρχικό κατάλογο</string>
+    <string name="native_beda23c9d52b" formatted="false">Έγινε συντήρηση ή αντικατάσταση περιβάλλοντος. Ανοίξτε ξανά τον χώρο εργασίας πριν από την επεξεργασία.</string>
+    <string name="native_678c6953bb2b" formatted="false">Αποθηκεύτηκε</string>
+    <string name="native_8063159f2178" formatted="false">Δεν είναι δυνατή η ανάγνωση του επιλεγμένου αρχείου</string>
+    <string name="native_4cdc2180d2ac">Εισήχθησαν %1$s αρχεία</string>
+    <string name="native_e98763643b93" formatted="false">Δεν είναι δυνατή η εγγραφή στην επιλεγμένη τοποθεσία</string>
+    <string name="native_5afd173be7fa" formatted="false">Η εξαγωγή ολοκληρώθηκε</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Κώδικας και συνεδρίες</string>
+    <string name="native_8745ed51cadd" formatted="false">Επιτραπέζιος υπολογιστής</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Γραφικός χώρος εργασίας\nΑρχεία</string>
+    <string name="native_770d49c5f689" formatted="false">Αρχεία</string>
+    <string name="native_6a9b6480b58f" formatted="false">Χρόνος εκτέλεσης</string>
+    <string name="native_b561fe9204cc" formatted="false">Υπηρεσίες και εργαλεία προγραμματιστών</string>
+    <string name="native_70850bdeeabd" formatted="false">Κλείσιμο μενού σελίδας</string>
+    <string name="native_b4549acb48e8" formatted="false">Χώρος εργασίας</string>
+    <string name="native_3d3551f4660f">Κυμαινόμενο κουμπί αδιαφάνειας %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Οι χαμηλότερες τιμές κάνουν το αιωρούμενο κουμπί πιο διαφανές</string>
+    <string name="native_e031beabfc9a" formatted="false">Άνοιγμα μενού σελίδας</string>
+    <string name="native_106ee775b538" formatted="false">Σύνδεση σε τοπικό OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Η τοπική σύνδεση χρειάζεται ανάκτηση</string>
+    <string name="native_dacb8837471c" formatted="false">Επανασυνδέστε</string>
+    <string name="native_17584aa60ae6" formatted="false">Δεν ήταν δυνατή η προετοιμασία της προσωρινής μνήμης τοπικών πόρων</string>
+    <string name="native_3b3b80064ccb" formatted="false">Προετοιμασία τοπικού OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Επανάληψη\nΗ τοποθεσία του χώρου εργασίας</string>
+    <string name="native_b07809340403" formatted="false">δεν έχει αποθηκευτεί ακόμα. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="native_e4ab10392d05" formatted="false">Η τοπική υπηρεσία ετοιμάζεται. Ο χώρος εργασίας σας θα ανοίξει αυτόματα μόλις συνδεθείτε.</string>
+    <string name="native_20ea15973287" formatted="false">Η προηγούμενη εκτέλεση διακόπηκε. Επανεκκίνηση από το Runtime. Οι εντολές τερματικού δεν θα αναπαραχθούν αυτόματα.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Ξεκινήστε το OpenCode από το Runtime για να ανοίξετε τον κώδικα και τις περιόδους λειτουργίας.</string>
+    <string name="native_abbac5c22111" formatted="false">Έξοδος από την εφαρμογή;</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Το περιβάλλον ανάπτυξης μπορεί να συνεχίσει να λειτουργεί στο παρασκήνιο. Επιστρέψτε αργότερα από την ειδοποίηση.</string>
+    <string name="native_814a8fb24b62" formatted="false">Έξοδος από τον τρέχοντα χώρο εργασίας;</string>
+    <string name="native_a76464945c2d" formatted="false">Σταματήστε επίσης το περιβάλλον ανάπτυξης</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Έξοδος\nΈτοιμος ο σταθμός εργασίας ανάπτυξης</string>
+    <string name="native_b00143b08ff1" formatted="false">Έτοιμος ο σταθμός εργασίας ανάπτυξης</string>
+    <string name="native_51bca456a350" formatted="false">Ο σταθμός εργασίας ανάπτυξης του Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">Τρέξιμο</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Εκκίνηση</string>
+    <string name="native_44da7f6a451d" formatted="false">Διακοπή</string>
+    <string name="native_b7e1503a7239" formatted="false">Περιβάλλον ανάπτυξης επισκευής</string>
+    <string name="native_7c91bd67ff14" formatted="false">Εγκαταστήστε το περιβάλλον ανάπτυξης</string>
+    <string name="native_cfd73bb04860" formatted="false">Περιβάλλον διακοπής</string>
+    <string name="native_e7ec95694dce" formatted="false">Εκκίνηση OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Ελέγξτε το περιβάλλον</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Ενημερώστε τα εργαλεία προγραμματιστών του Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Προηγούμενα αντίγραφα ασφαλείας περιβάλλοντος, έργα και δεδομένα περιόδου λειτουργίας διατηρούνται.</string>
+    <string name="native_eb3114155716" formatted="false">Εγκατάσταση / ενημέρωση διακομιστών γλώσσας</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) και Python (pylsp), εγκατεστημένα ηλεκτρονικά από υπογεγραμμένα αποθετήρια Debian. Σταματήστε πρώτα το OpenCode και την επιφάνεια εργασίας.</string>
+    <string name="native_2c7251cce661" formatted="false">Πατήστε το αιωρούμενο κουμπί για εναλλαγή σελίδων. Σύρετε το για να το επανατοποθετήσετε.\nΟι πληροφορίες χρόνου εκτέλεσης</string>
+    <string name="native_dcef145e6a9b" formatted="false">εμφανίζονται εδώ μετά την εκκίνηση.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Ανοιχτός χρόνος εκτέλεσης</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Πακέτο έκδοση APK</string>
+    <string name="native_e6b986511faf" formatted="false">ενημερώσεις OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Εισαγάγετε ένα .ocaupdate υπογεγραμμένο από τον εκδότη αυτής της εφαρμογής. Το επίσημο frontend και το backend ενημέρωση μαζί.</string>
+    <string name="native_8aad48b0508d" formatted="false">Πηγή ενημέρωσης (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Ελέγξτε την πηγή ενημέρωσης</string>
+    <string name="native_f73973cfadbb">Υπογεγραμμένη έκδοση: %1$s\nΔέσμευση: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Λήψη και επαλήθευση</string>
+    <string name="native_f2ef7965bf12" formatted="false">Επιλέξτε πακέτο ενημέρωσης</string>
+    <string name="native_165111adfe2c">Έτοιμο για εγκατάσταση: %1$s\nΔέσμευση: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Εγκαταστήστε αυτήν την ενημέρωση</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Επαναφέρετε την έκδοση και τις περιόδους λειτουργίας πριν από την ενημέρωση</string>
+    <string name="native_6864335de653" formatted="false">Ακύρωση ενημέρωσης</string>
+    <string name="native_5e3472cf084e" formatted="false">Εγκατάσταση ενημέρωσης OpenCode;</string>
+    <string name="native_816bf3635d53" formatted="false">Επαναφορά της κατάστασης πριν από την ενημέρωση;</string>
+    <string name="native_11beb4a42abc">Εγκατάσταση %1$s. Η εφαρμογή αποθηκεύει ένα στιγμιότυπο περιόδου λειτουργίας, ελέγχει το υπογεγραμμένο πρόγραμμα και επαναφέρει την προηγούμενη έκδοση εάν αποτύχει. Τα αρχεία του έργου διατηρούνται.\nΟι περίοδοι λειτουργίας</string>
+    <string name="native_bc7b4149e7d2" formatted="false">επιστρέφουν στην κατάστασή τους πριν από αυτήν την ενημέρωση. Οι πιο πρόσφατες συνεδρίες παραμένουν σε ιδιωτικό αντίγραφο ασφαλείας. Τα αρχεία του έργου διατηρούνται.</string>
+    <string name="native_def5e273616d" formatted="false">Επιβεβαιώστε την εγκατάσταση</string>
+    <string name="native_369d2eefccde" formatted="false">Δεν ήταν δυνατή η απομόνωση των δεδομένων προεπισκόπησης του προγράμματος περιήγησης. Ανοίξτε ξανά την προεπισκόπηση.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Δεν ήταν δυνατή η φόρτωση της σελίδας του έργου. Ελέγξτε τον διακομιστή ανάπτυξης στο τερματικό σας.</string>
+    <string name="native_6e7408950cf5" formatted="false">Προεπισκόπηση ιστότοπου έργου</string>
+    <string name="native_bfb4951e071d" formatted="false">Προεπισκόπηση έργου</string>
+    <string name="native_f80652913d06" formatted="false">Ξεκινήστε έναν διακομιστή ανάπτυξης στο τερματικό και, στη συνέχεια, εισαγάγετε την τοπική του θύρα. Τα δεδομένα του προγράμματος περιήγησης προεπισκόπησης απομονώνονται από το OpenCode.\nΘύρα</string>
+    <string name="native_2c41e85af61f" formatted="false">Λιμάνι</string>
+    <string name="native_77c3a828a5c5" formatted="false">Εισαγάγετε μια θύρα ανάπτυξης από το 1024 έως το 65535, εξαιρουμένων των υπηρεσιών OpenCode και επιτραπέζιων υπολογιστών.</string>
+    <string name="native_7311a9dfea51" formatted="false">Δεν ακούγεται τίποτα σε αυτήν τη θύρα. Ελέγξτε την υπηρεσία στο τερματικό σας.</string>
+    <string name="native_4f8d84105475" formatted="false">Έλεγχος…</string>
+    <string name="native_4923c272b68e" formatted="false">Η θύρα ανάπτυξης πρέπει να είναι ακέραιος</string>
+    <string name="native_04a87026e81f" formatted="false">Επιλέξτε μια έγκυρη θύρα ανάπτυξης έργου\nΣυνεδρία ανάπτυξης</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Εγκατάσταση περιβάλλοντος ανάπτυξης</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Ενημέρωση Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Επισκευή περιβάλλοντος ανάπτυξης</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Έλεγχος περιβάλλοντος ανάπτυξης</string>
+    <string name="native_9612d4419bb6" formatted="false">Εγκατάσταση διακομιστή γλώσσας</string>
+    <string name="native_f72fba77f87a" formatted="false">Ανάκτηση περιβάλλοντος</string>
+    <string name="native_7c8162195c7c" formatted="false">Εγκατάσταση επιτραπέζιου υπολογιστή</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Η προηγούμενη εκτέλεση διακόπηκε. Επανεκκινήστε ρητά από το Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Μια εργασία ανάπτυξης αυτού του τύπου εξακολουθεί να εκτελείται</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Επισκευή της εγγραφής δραστηριότητας</string>
+    <string name="native_b66749ed72ea" formatted="false">Έγινε έξοδος από τη διαδικασία</string>
+    <string name="native_6b25042064e2" formatted="false">Τερματίζεται με σήμα</string>
+    <string name="native_d6febdf1752b" formatted="false">Ανακτήθηκε λόγω χαμηλής μνήμης\nΣυντριβή εφαρμογής</string>
+    <string name="native_1d13790f3c89" formatted="false">Σφάλμα εφαρμογής</string>
+    <string name="native_28db94d1850d" formatted="false">Συντριβή εγγενούς διαδικασίας\nΗ εφαρμογή</string>
+    <string name="native_86919539f7f1" formatted="false">δεν ανταποκρίνεται</string>
+    <string name="native_90fb8d6098a5" formatted="false">Η εκκίνηση απέτυχε</string>
+    <string name="native_38c60ab6654c" formatted="false">Άλλαξαν δικαιώματα</string>
+    <string name="native_6d2a6c71334d" formatted="false">Όριο πόρων</string>
+    <string name="native_19b2090b01a8" formatted="false">Ο χρήστης ζήτησε διακοπή</string>
+    <string name="native_120d96445f1a" formatted="false">Σταμάτησε ο χρήστης\nΈγινε έξοδος από την εξαρτημένη διαδικασία</string>
+    <string name="native_3c8af14f66bc" formatted="false">Έγινε έξοδος από εξαρτημένη διαδικασία</string>
+    <string name="native_ca0941ce04ae" formatted="false">Άλλος λόγος συστήματος</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Διαδικασία κατάψυξης</string>
+    <string name="native_0d48373023a8" formatted="false">Η κατάσταση εφαρμογής άλλαξε\nΕνημέρωση εφαρμογής</string>
+    <string name="native_c752307db26b" formatted="false">Ενημέρωση εφαρμογής</string>
+    <string name="native_b5015951cbdf" formatted="false">Το σύστημα δεν παρείχε λόγο εξόδου</string>
+    <string name="native_b62737b826ad">Έξοδος συστήματος (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Δεν ήταν δυνατό το άνοιγμα του καταλόγου του έργου</string>
+    <string name="native_faf5d983c13e" formatted="false">Δεν ήταν δυνατή η δημιουργία συνεδρίας OpenCode\nΟ κατάλογος συνεδρίας</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode δεν ταιριάζει</string>
+    <string name="native_ac19736908a2" formatted="false">Δεν ήταν δυνατή η ανάγνωση της περιόδου λειτουργίας OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Συντήρηση περιβάλλοντος</string>
+    <string name="native_f992d735d932" formatted="false">Σταματήστε τον OpenCode, τα τερματικά και την επιφάνεια εργασίας του Debian και μετά περιμένετε να ολοκληρωθούν οι λειτουργίες του αρχείου</string>
+    <string name="native_489f137f1080" formatted="false">Το κλείδωμα συντήρησης περιβάλλοντος δεν ισχύει πλέον</string>
+    <string name="native_42380e2567fc" formatted="false">Ανακτήθηκε η διακοπείσα λειτουργία. Ανοίξτε ξανά τον χώρο εργασίας.</string>
+    <string name="native_17b00cac2b91" formatted="false">Η αποκατάσταση τοπικής σύνδεσης απέτυχε. Επανάληψη από το Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Η συντήρηση του περιβάλλοντος βρίσκεται σε εξέλιξη. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Σταματήστε την επιφάνεια εργασίας του Debian πριν ενημερώσετε το περιβάλλον ανάπτυξης</string>
+    <string name="native_548085b144c9" formatted="false">Ανακτήθηκε η διακοπείσα λειτουργία. Μπορείτε να ξεκινήσετε το περιβάλλον ανάπτυξης.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Η προηγούμενη εκτέλεση διακόπηκε. Οι εντολές τερματικού δεν θα αναπαραχθούν αυτόματα. Επανεκκινήστε ρητά από το Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Ο καθαρισμός της προσωρινής διαμόρφωσης σύνδεσης δεν έχει ολοκληρωθεί. Η διαδικασία καθαρισμού συνεχίστηκε.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Δεν ήταν δυνατή η δημιουργία του χώρου εργασίας helloworld. Ελέγξτε τον κατάλογο και τον διαθέσιμο χώρο.</string>
+    <string name="native_68301868225a" formatted="false">Ο προηγούμενος κατάλογος χώρου εργασίας δεν είναι διαθέσιμος. Άνοιξε το helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Το προεπιλεγμένο έργο δεν είναι ακόμα έτοιμο. Επανάληψη από το Files.</string>
+    <string name="native_45d6ab452622" formatted="false">Εγκαταστήστε διακομιστές γλώσσας\nΟι διακομιστές</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ και Python είναι έτοιμοι. Ξεκινήστε το OpenCode για να χρησιμοποιήσετε το LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Η εγγραφή δραστηριότητας τερματικού δεν αποθηκεύτηκε. Δημιουργήστε ένα νέο τερματικό μετά τον τερματισμό της διαδικασίας.</string>
+    <string name="native_1978b311a9ff" formatted="false">Δεν ήταν δυνατή η ολοκλήρωση της αποθήκευσης της εγγραφής εξόδου τερματικού.\nΛήψη ενημέρωσης</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Σύνδεση στην πηγή ενημέρωσης…</string>
+    <string name="native_8c39baf28e08" formatted="false">Δεν είναι δυνατή η σύνδεση στην πηγή ενημέρωσης. Ελέγξτε το δίκτυο, την υπογραφή του εκδότη, την έκδοση κεντρικού υπολογιστή και τον ελεύθερο χώρο.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Ο χρόνος λήψης έληξε</string>
+    <string name="native_f75850093535">Λήψη: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Επαλήθευση υπογραφής εκδότη…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Λήψη πακέτου ενημέρωσης…</string>
+    <string name="native_2f9cd52dc66a">Έγκυρη υπογραφή εκδότη: %1$s. Ελέγξτε πριν τη λήψη.</string>
+    <string name="native_17548865632c" formatted="false">Λήψη, έκδοση μεταδεδομένων και επαλήθευση της υπογραφής του πακέτου. Επιβεβαιώστε την εγκατάσταση.</string>
+    <string name="native_180cec958e7a" formatted="false">Η λήψη ακυρώθηκε. Διατηρήθηκε η αρχική έκδοση.</string>
+    <string name="native_8df045f8ac12" formatted="false">Η λήψη σταμάτησε. Διατηρήθηκε η αρχική έκδοση.</string>
+    <string name="native_778803f1c6bb" formatted="false">Ακύρωση λήψης</string>
+    <string name="native_2958898ce6f4" formatted="false">Η νέα έκδοση απέτυχε στους τοπικούς ελέγχους εκκίνησης, έκδοσης ή ελέγχου ταυτότητας. Θα γίνει επαναφορά της προηγούμενης έκδοσης.</string>
+    <string name="native_cc876dfbb261" formatted="false">Η δοκιμαστική διαδικασία είναι ακόμα σε εξέλιξη. Περιμένετε για ανάκτηση πριν προσπαθήσετε ξανά.</string>
+    <string name="native_adf977dcb47e" formatted="false">Μη έγκυρο αναγνωριστικό εγγραφής ενημέρωσης</string>
+    <string name="native_5207cac670b7" formatted="false">Το εγκατεστημένο αυτόνομο μέγεθος OpenCode δεν ταιριάζει</string>
+    <string name="native_cf5b81887589" formatted="false">Το εγκατεστημένο αυτόνομο άθροισμα ελέγχου OpenCode δεν ταιριάζει. Επαναφέρετε την προηγούμενη έκδοση.</string>
+    <string name="native_393049b506cc" formatted="false">Το αρχικό πρόγραμμα δεν έχει αντίστοιχη απόδειξη εκδότη. Προηγούμενη κατάσταση αμετάβλητη.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Ανακτήστε πρώτα την προηγούμενη ενημέρωση που διακόπηκε</string>
+    <string name="native_91d8da5525fa" formatted="false">Το πακέτο ενημέρωσης άλλαξε μετά την επιβεβαίωση</string>
+    <string name="native_093f2c091a30" formatted="false">Ανεπαρκής αποθήκευση. Η αρχική έκδοση δεν άλλαξε.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Δεν υπάρχει διαθέσιμο αντίγραφο ασφαλείας ενημέρωσης για επαναφορά</string>
+    <string name="native_a9f4d9903c14" formatted="false">Το αντίγραφο ασφαλείας δεν ταιριάζει με την εκτελούμενη έκδοση</string>
+    <string name="native_6caa23763a42" formatted="false">Η επαλήθευση του προηγούμενου προγράμματος απέτυχε. Οι τρέχουσες συνεδρίες αμετάβλητες.</string>
+    <string name="native_c8b71b876695" formatted="false">Μια μεταγενέστερη ενημέρωση APK ή Debian αντικατέστησε το πακέτο του προγράμματος. Το αρχικό αντίγραφο ασφαλείας της περιόδου λειτουργίας διατηρείται. επαναφέρετε πρώτα το αντίστοιχο πρόγραμμα.</string>
+    <string name="native_c443df40964b" formatted="false">Μη έγκυρη λειτουργία ανάκτησης ενημέρωσης</string>
+    <string name="native_9071f05d58b3" formatted="false">Προετοιμασία ενημέρωσης OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Σταματήστε το OpenCode, τα τερματικά και την επιφάνεια εργασίας και μετά περιμένετε να φύγουν.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Αποθήκευση κατάστασης, επαλήθευση προγραμμάτων και εναλλαγή εκδόσεων</string>
+    <string name="native_5fc065ef6f50" formatted="false">Δεν ήταν δυνατή η έναρξη της υπηρεσίας συντήρησης ενημερώσεων.</string>
+    <string name="native_f7b560c8c820" formatted="false">Επαλήθευση και εκτέλεση του επίσημου προγράμματος…</string>
+    <string name="native_9606191c82dc" formatted="false">Διατήρηση του αρχικού προγράμματος και της υπογραφής του εκδότη…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Αποθήκευση στιγμιότυπου κατάστασης περιόδου σύνδεσης…</string>
+    <string name="native_0c8cf4632889" formatted="false">Εναλλαγή εκδόσεων και επαλήθευση της τοπικής υπηρεσίας…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Επαναφορά της έκδοσης και των περιόδων σύνδεσης πριν από την ενημέρωση…</string>
+    <string name="native_856de41d3bf3" formatted="false">Επαναφορά OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Ενημέρωση OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Επαναφορά της προηγούμενης έκδοσης και των συνεδριών. Οι πιο πρόσφατες συνεδρίες παραμένουν σε ιδιωτικό αντίγραφο ασφαλείας.\nΗ ενημέρωση</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode ολοκληρώθηκε. Η εκκίνηση θα χρησιμοποιήσει το αντίστοιχο επίσημο frontend και backend.</string>
+    <string name="native_4693930f5802" formatted="false">Η ενημέρωση ακυρώθηκε. Επιβεβαίωση ότι η αρχική κατάσταση έχει αποκατασταθεί.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Η ενημέρωση δεν ολοκληρώθηκε. Ανάκτηση τώρα? Τα αντίγραφα ασφαλείας του αρχικού προγράμματος και της περιόδου λειτουργίας διατηρούνται.\nΗ ανάκτηση</string>
+    <string name="native_9a32d6c2d207" formatted="false">δεν έχει ολοκληρωθεί. Όλοι οι κρατικοί κατάλογοι διατηρούνται. Διατηρήστε τα δεδομένα σας και δοκιμάστε ξανά την εκκίνηση για ανάκτηση.\nΟλοκληρώθηκε η ανάκτηση συνεδρίας</string>
+    <string name="native_49ad3eeae83d" formatted="false">. Η πιο πρόσφατη κατάσταση παραμένει σε εφεδρικό.\nΗ ανάκτηση</string>
+    <string name="native_67c08a2911e1" formatted="false">δεν μπόρεσε να προχωρήσει με αυτό το αντίγραφο ασφαλείας ή το αρχικό πρόγραμμα. Οι τρέχουσες περίοδοι λειτουργίας και τα αντίγραφα ασφαλείας δεν άλλαξαν.</string>
+    <string name="native_976d8c169cfa" formatted="false">Η ενημέρωση ακυρώθηκε ή απέτυχε. Η αρχική έκδοση και οι συνεδρίες αποκαταστάθηκαν.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Επαλήθευση της υπογραφής και της ακεραιότητας του πακέτου ενημέρωσης…</string>
+    <string name="native_0aa018b7337b" formatted="false">Δεν είναι δυνατή η ανάγνωση του επιλεγμένου αρχείου</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Το πακέτο ενημέρωσης είναι πολύ μεγάλο</string>
+    <string name="native_f068b83f40bf" formatted="false">Επαληθεύτηκε η υπογραφή και το πακέτο. Ελέγξτε την έκδοση πριν την εγκατάσταση.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Δεν είναι δυνατή η εισαγωγή: μη έγκυρο αρχείο, αναντιστοιχία υπογραφής, μη συμβατή έκδοση κεντρικού υπολογιστή ή ανεπαρκής αποθήκευση.</string>
+    <string name="native_616412e65df4" formatted="false">Το επίσημο πρόγραμμα δεν ταιριάζει με την απόδειξη εκδότη του\nΤα αυτόνομα πακέτα χρόνου εκτέλεσης</string>
+    <string name="native_4bf19a158f27" formatted="false">υποστηρίζουν μόνο ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Η υπογραφή ενημέρωσης δεν ανήκει σε αυτό το APK</string>
+    <string name="native_c7273354727f" formatted="false">Το αρχείο ενημέρωσης υπερβαίνει το δηλωμένο μέγεθός του</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Το άθροισμα ελέγχου προγράμματος ενημέρωσης δεν ταιριάζει</string>
+    <string name="native_dd619076d456" formatted="false">Μη έγκυρο μέγεθος πακέτου ενημέρωσης</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Συμπιεσμένο μέγεθος πακέτου ενημέρωσης δεν ταιριάζει</string>
+    <string name="native_1de24edffcf5" formatted="false">Το πακέτο ενημέρωσης περιέχει επιπλέον καταχωρήσεις</string>
+    <string name="native_c5b339aa77e8" formatted="false">Μη συμβατή προέλευση ή αρχιτεκτονική ενημέρωσης</string>
+    <string name="native_89d585f3661f" formatted="false">Αναβαθμίστε την εφαρμογή Android πριν εγκαταστήσετε αυτήν την ενημέρωση</string>
+    <string name="native_800df084dea0" formatted="false">Το άθροισμα ελέγχου αρχείου ενημέρωσης δεν ταιριάζει</string>
+    <string name="native_ddf1a005e310" formatted="false">Αυτή η μορφή υπογραφής APK δεν υποστηρίζει αυτόνομες ενημερώσεις χρόνου εκτέλεσης</string>
+    <string name="native_172e063db474" formatted="false">Μη έγκυρη καταχώριση πακέτου ενημέρωσης</string>
+    <string name="native_1c08780aa99f" formatted="false">Τα μεταδεδομένα ενημέρωσης πρέπει να χρησιμοποιούν ακέραιους αριθμούς</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Το πρόγραμμα ενημέρωσης δεν είναι 64-bit Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Το πρόγραμμα ενημέρωσης δεν πληροί την ευθυγράμμιση ELF 16 KiB</string>
+    <string name="native_3afa3741911b" formatted="false">Από το πρόγραμμα ενημέρωσης λείπει ο φορτωτής glibc του Debian</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Εισαγάγετε μια έγκυρη πηγή ενημέρωσης HTTPS\nΟι πηγές ενημέρωσης</string>
+    <string name="native_c274c7dd5900" formatted="false">απαιτούν διευθύνσεις URL HTTPS χωρίς διαπιστευτήρια χρήστη</string>
+    <string name="native_f459f5ec9dac" formatted="false">Μη έγκυρο πεδίο πηγής ενημέρωσης</string>
+    <string name="native_bde2a736e30a" formatted="false">Αναβαθμίστε πρώτα τον κεντρικό υπολογιστή Android</string>
+    <string name="native_b980fd021bef" formatted="false">Μη έγκυρος κατάλογος ενημέρωσης</string>
+    <string name="native_c0e96727553e" formatted="false">Μη έγκυρο αρχείο ενημέρωσης</string>
+    <string name="native_86ff542c68ed" formatted="false">Δεν είναι δυνατή η εναλλαγή καταλόγων ενημέρωσης σε αυτήν την κατάσταση</string>
+    <string name="native_fbf82dc7ef22" formatted="false">αναφέρεται σε έναν εξωτερικό κατάλογο. Η ενημέρωση δεν μπορεί να δοκιμαστεί με ασφάλεια.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Ανεπαρκής αποθήκευση. Η αρχική κατάσταση αμετάβλητη.</string>
+    <string name="native_099801d672b1" formatted="false">Η λήψη ακυρώθηκε</string>
+    <string name="native_f1304f707ec9" formatted="false">Πάρα πολλές ανακατευθύνσεις ενημερώσεων</string>
+    <string name="native_0d07f458b607" formatted="false">Ο διακομιστής ενημέρωσης δεν μετέφερε τα αρχικά byte</string>
+    <string name="native_de331dfd8908" formatted="false">Το μήκος του αρχείου ενημέρωσης δεν ταιριάζει</string>
+    <string name="native_416b8c87e69e" formatted="false">Δεν έγινε πλήρης λήψη του αρχείου ενημέρωσης</string>
+    <string name="native_e1e74b76c427" formatted="false">Ο διακομιστής ενημέρωσης δεν επέστρεψε το πλήρες αρχείο</string>
+    <string name="native_6afcf03cb130" formatted="false">Ανεπαρκής χώρος σταδιακής ενημέρωσης</string>
+    <string name="native_be1c695d9241" formatted="false">Το αρχείο ενημέρωσης SHA-256 δεν ταιριάζει</string>
+    <string name="native_a0133d117bb0" formatted="false">Το πακέτο ενημέρωσης δεν ταιριάζει με τις πληροφορίες επιβεβαιωμένης έκδοσης</string>
+    <string name="native_8635a43ce28a" formatted="false">Μη έγκυρος κατάλογος έργου</string>
+    <string name="native_d32ab8b004e6" formatted="false">Δεν ήταν δυνατή η αποθήκευση της τοποθεσίας του χώρου εργασίας</string>
+    <string name="native_43a5447014fd" formatted="false">Ξεκινήστε το περιβάλλον ανάπτυξης από το Runtime πριν ανοίξετε ένα τερματικό.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Νέο τερματικό</string>
+    <string name="native_b3b7108a568f" formatted="false">Κλείσιμο ρεύματος</string>
+    <string name="native_0e822affd5da">Αρχικός κατάλογος: %1$s</string>
+    <string name="native_72d769e3888d">Νέος κατάλογος τερματικού: %1$s\nΤο πρόγραμμα επιλογής αρχείων συστήματος</string>
+    <string name="native_16e83ec84bca" formatted="false">δεν είναι διαθέσιμο</string>
+    <string name="native_179a57921f91" formatted="false">Ρυθμίσεις απόδοσης WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Ρυθμός καρέ απόδοσης</string>
+    <string name="native_55b6d7f645f3" formatted="false">Προτιμήστε 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Ακολουθήστε τον ρυθμό ανανέωσης της οθόνης</string>
+    <string name="native_d4ecf38c341d" formatted="false">Προτιμήστε τα 60 Hz για να μειώσετε το φορτίο απόδοσης σε οθόνες υψηλού ρυθμού ανανέωσης. Ακολουθώντας την οθόνη, το σύστημα προγραμματίζει καρέ. Ισχύει μόνο για το παράθυρο αυτής της εφαρμογής.</string>
+    <string name="native_bf0d3a407418" formatted="false">Δεν έχει εγκατασταθεί</string>
+    <string name="native_2fb8edc75b25" formatted="false">Έτοιμο</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Επαλήθευση φορτωτή</string>
+    <string name="native_d1017c1eac80" formatted="false">Εγκατάσταση του Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Περιβάλλον τοπικής ανάπτυξης</string>
+    <string name="native_55aa84065de2" formatted="false">Τοπική συνεδρία ανάπτυξης Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">Στάση\nΤο</string>
+    <string name="native_5f73a4e1e494" formatted="false">εγκαταστάθηκε</string>
+    <string name="native_147e90d2ec02" formatted="false">Ανάκτηση</string>
+</resources>

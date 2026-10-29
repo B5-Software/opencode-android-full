@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">განვითარების სამუშაო სივრცე</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">ერთი გვერდი</string>
+    <string name="native_651ae6ea52ae" formatted="false">გაყოფილი ხედის აღდგენა</string>
+    <string name="native_d7e97cfac66f" formatted="false">სამუშაო სივრცის განლაგება</string>
+    <string name="native_2a03e2ed30f9" formatted="false">გააფართოვეთ ფანჯარა მრავალი პანელის ერთად სანახავად.</string>
+    <string name="native_e792dd4cfa78" formatted="false">პროექტის ფაილების ჩვენება</string>
+    <string name="native_712d956931d1" formatted="false">ტერმინალის ჩვენება</string>
+    <string name="native_073cc20d9ed9" formatted="false">ტერმინალი ქვემოთ</string>
+    <string name="native_5de225480fa7" formatted="false">ტერმინალი მარჯვნივ</string>
+    <string name="native_35cdb3eacdc6" formatted="false">პანელები იშლება, როდესაც სივრცე შეზღუდულია და რჩება ხელმისაწვდომი მცურავი მენიუდან. გვერდითი ტერმინალი ჩნდება ფართო ფანჯრებში. გადაიტანეთ გამყოფები პანელების ზომის შესაცვლელად.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + მარცხენა Alt: 1–5 გვერდი · B ფაილები · T ტერმინალი · M სამუშაო მაგიდა · შეიყვანეთ Single/Split · \\\\ განლაგება</string>
+    <string name="native_7a129a94c6ff" formatted="false">შესრულებულია</string>
+    <string name="native_bcec2218fc21" formatted="false">პროპორციების გადატვირთვა</string>
+    <string name="native_da88c62d1217">%1$s-ის ჩვენება ერთ გვერდზე</string>
+    <string name="native_1b4b3afbe52d" formatted="false">პროექტის ფაილების გამყოფი</string>
+    <string name="native_707c0891a0e6" formatted="false">ტერმინალის გამყოფი</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode და დესკტოპის გამყოფი</string>
+    <string name="native_50407ad8dfa8" formatted="false">წინა პანელის შემცირება</string>
+    <string name="native_b72c5c02a666" formatted="false">წინა პანელის გადიდება</string>
+    <string name="native_3f3685e8d731" formatted="false">ძალიან ბევრი PRoot ბმული ამ არქივის ფორმატისთვის</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux-ის მყარ ბმულებს სჭირდება სრული rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">სარეზერვო დირექტორიაში ჩასმა ძალიან ღრმაა</string>
+    <string name="native_b6f744737a45" formatted="false">არასწორი სარეზერვო პაროლის სიგრძე</string>
+    <string name="native_13bde5dd1812" formatted="false">სარეზერვო პაროლი უნდა შეიცავდეს მინიმუმ 12 სიმბოლოს</string>
+    <string name="native_be02cbd55932" formatted="false">მხარდაუჭერელი სარეზერვო ფორმატი</string>
+    <string name="native_7a91a3d586ae" formatted="false">არასწორი სარეზერვო სათაური</string>
+    <string name="native_2bbd318a5667" formatted="false">მხარდაუჭერელი სარეზერვო დაშიფვრის პარამეტრები</string>
+    <string name="native_18868da27841" formatted="false">არასწორი სარეზერვო პაროლი ან დაზიანებული ფაილი</string>
+    <string name="native_e41d6440468d" formatted="false">აღდგენის ჩანაწერი ძალიან დიდია</string>
+    <string name="native_282692502f14" formatted="false">სარეზერვო მეტამონაცემები ძალიან დიდია</string>
+    <string name="native_61fdca8d6c82" formatted="false">სარეზერვო მეტამონაცემების ჩადგმა ძალიან ღრმაა</string>
+    <string name="native_8cefb30732d4" formatted="false">არასწორი სარეზერვო მეტამონაცემები</string>
+    <string name="native_5d3037708cad" formatted="false">მხარდაუჭერელი მშობლიური პარამეტრები</string>
+    <string name="native_81a57c382f9d" formatted="false">მშობლიური პარამეტრების შენახვა ვერ მოხერხდა</string>
+    <string name="native_50603e683d4a" formatted="false">არასწორი მშობლის დირექტორია სარეზერვო გზაზე</string>
+    <string name="native_c3f838a46b8e" formatted="false">სამუშაო სადგურის ფესვი არ უნდა იყოს სიმბოლური ბმული</string>
+    <string name="native_9ddd2d8280c8" formatted="false">ფაილი შეიცვალა სარეზერვო ასლის შექმნისას</string>
+    <string name="native_77e1e85147db" formatted="false">მხარდაუჭერელი სამუშაო სადგურის მონაცემთა ფორმატი</string>
+    <string name="native_a927b5a565af" formatted="false">სარეზერვო ასლი შეიცავს დამატებით მონაცემებს</string>
+    <string name="native_c2b886d508f2" formatted="false">სარეზერვო ასლი შეიცავს დუბლიკატ ბილიკებს</string>
+    <string name="native_3dab8cd60102" formatted="false">სარეზერვო ასლი შეიცავს მუშაობის დროის პარამეტრებს, რომელთა მიგრაცია შეუძლებელია</string>
+    <string name="native_f45ba674a630" formatted="false">სარეზერვო ასლი ძალიან დიდია ან მეხსიერება არასაკმარისია</string>
+    <string name="native_140073e8e77b" formatted="false">სიმბოლური ბმულის დროის ანაბეჭდების აღდგენა ვერ მოხერხდა</string>
+    <string name="native_b0d411aaf62c" formatted="false">დასახელებული მილის დროის ანაბეჭდების აღდგენა ვერ მოხერხდა</string>
+    <string name="native_0daee8026db1" formatted="false">სამუშაო სადგურის სარეზერვო და აღდგენა</string>
+    <string name="native_1acc18928c5f" formatted="false">მოიცავს Debian-ს, დეველოპერის ინსტრუმენტებს, პროექტებს, სახლს, OpenCode სესიებს და პარამეტრებს, Linux ბრაუზერის მონაცემებს და მშობლიურ განლაგების პარამეტრებს.</string>
+    <string name="native_62254d31a535" formatted="false">დროებითი ფაილები და ძველი სარეზერვო ასლები გამორიცხულია. Android WebView მეხსიერება და გამოუგზავნილი მონახაზები რჩება ამ მოწყობილობაზე და არ გადაიცემა ამ სარეზერვო ასლით.</string>
+    <string name="native_808eabc7811f" formatted="false">შექმენით დაშიფრული სარეზერვო ასლი</string>
+    <string name="native_201c10b38296" formatted="false">სარეზერვო ასლის იმპორტი</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">ჯერ შეინახეთ ცვლილებები ფაილის რედაქტორში.</string>
+    <string name="native_0559cd596453" formatted="false">შეაჩერე OpenCode, ტერმინალები და დესკტოპი</string>
+    <string name="native_fdf2be8e3b93" formatted="false">გარემოს ოპერაცია არასრულია. ჯერ აღადგინე.</string>
+    <string name="native_185f58156330" formatted="false">არასრული ოპერაციის აღდგენა</string>
+    <string name="native_20831b6f67a7" formatted="false">გააუქმეთ ბოლო გარემოს აღდგენა</string>
+    <string name="native_4f392d5d6141">დაშიფრული ლოკალური ასლი: %1$s</string>
+    <string name="native_80077c694212" formatted="false">ფაილში შენახვა</string>
+    <string name="native_f09619351eb9" formatted="false">წაშალეთ ადგილობრივი ასლი</string>
+    <string name="native_85c686eb9841">დამუშავებულია %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">გააუქმეთ სარეზერვო დავალება</string>
+    <string name="native_66c9d896407b" formatted="false">სამუშაო სადგურის სარეზერვო ასლის დაშიფვრა</string>
+    <string name="native_548cd9f0831e" formatted="false">გაშიფრეთ და გადაამოწმეთ სარეზერვო ასლი</string>
+    <string name="native_d248f5eca9a5" formatted="false">სარეზერვო ასლები შეიძლება შეიცავდეს SSH პირად გასაღებებს, API კლავიშებს და ანგარიშის მონაცემებს. გამოიყენეთ მინიმუმ 12 სიმბოლო. დავიწყებული პაროლის აღდგენა შეუძლებელია.</string>
+    <string name="native_f249422b9ec1" formatted="false">სარეზერვო ასლი გაშიფრულია და დამოწმებულია პირად დირექტორიაში. თქვენი გარემო შეიცვლება მხოლოდ მას შემდეგ, რაც დაადასტურებთ აღდგენას.</string>
+    <string name="native_e7be6841703a" formatted="false">სარეზერვო პაროლი</string>
+    <string name="native_9f6aeedc5a00" formatted="false">გაიმეორეთ პაროლი</string>
+    <string name="native_eafdc5cd4882" formatted="false">დაიწყეთ დაშიფვრა</string>
+    <string name="native_2986b88beade" formatted="false">გაშიფვრა და გადამოწმება</string>
+    <string name="native_0eddf4ad9b94" formatted="false">გაუქმება</string>
+    <string name="native_f46c5ed7412d" formatted="false">აღვადგინოთ მთელი წინა გარემო?</string>
+    <string name="native_33eda0946a5b" formatted="false">წაშალოთ დაშიფრული ადგილობრივი ასლი?</string>
+    <string name="native_26db24150f2e" formatted="false">პროექტები, სახლი, Debian და სესიები დაუბრუნდება თავის მდგომარეობას ბოლო აღდგენამდე. უახლესი ნამუშევარი დარჩება პირად სარეზერვო ასლში აპის შიგნით.</string>
+    <string name="native_1153b30d51d5" formatted="false">წაიშლება მხოლოდ დაშიფრული ლოკალური ასლი აპის შიგნით. სხვაგან შენახული ფაილები ხელმისაწვდომი რჩება.</string>
+    <string name="native_427a78a4e69a" formatted="false">დაადასტურეთ</string>
+    <string name="native_7af46d7ee003" formatted="false">გსურთ ამ სამუშაო სადგურის სარეზერვო ასლის აღდგენა?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s ჩანაწერი · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">სარეზერვო ასლი შეიცავს Linux-ის შესრულებად პროგრამულ უზრუნველყოფას. დაადასტურეთ, რომ ენდობით მის წყაროს. რესტავრაცია ცვლის მთელ გარემოს და ამოწმებს ადგილობრივ სერვისებს; წინა გარემო ინახება აღდგენისთვის.</string>
+    <string name="native_c3d74ed0c054" formatted="false">სარეზერვო ასლი დამოწმებულია. ელოდება აღდგენის დადასტურებას.</string>
+    <string name="native_97076078c749" formatted="false">ასევე ჩართეთ Chromium-ის თავსებადობის რეჟიმი (გამორთავს Linux პროცესის სავარჯიშოში)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">გამორთულია ნაგულისხმევად. შეგიძლიათ მოგვიანებით ჩართოთ დესკტოპის პარამეტრებში.</string>
+    <string name="native_ddf09383413c" formatted="false">დაადასტურეთ აღდგენა</string>
+    <string name="native_8e6056b0f629" formatted="false">იმპორტის გაუქმება</string>
+    <string name="native_63a895901c76" formatted="false">სამუშაო სადგურის გარემო შეიცვალა</string>
+    <string name="native_a4c994348a39" formatted="false">ხელახლა გახსენით სამუშაო ადგილი</string>
+    <string name="native_774947f0653e" formatted="false">ამოცანის გაუქმება</string>
+    <string name="native_e09a22b18445" formatted="false">ამოცანა შეწყდა. კვლავ აირჩიეთ ოპერაცია და შეიყვანეთ პაროლი.</string>
+    <string name="native_38c5fcc634db" formatted="false">ჯერ შეინახეთ ფაილის რედაქტირება ყველა ფანჯარაში. გააუქმეთ არსებული იმპორტი ხელახლა ცდამდე.</string>
+    <string name="native_029bfa8ff772" formatted="false">სამუშაო სადგურის აღდგენა და პროგრამების გადამოწმება</string>
+    <string name="native_e4f04df818f8" formatted="false">არჩეული სარეზერვო ოპერაციის დამუშავება</string>
+    <string name="native_8206f072d5ee" formatted="false">გააჩერეთ OpenCode, ტერმინალები და დესკტოპი, შემდეგ დაელოდეთ ფაილის ოპერაციების დასრულებას.</string>
+    <string name="native_1a5cde18c609" formatted="false">სარეზერვო დავალების დაწყება ვერ მოხერხდა. ხელახლა სცადეთ აპი წინა პლანზე.</string>
+    <string name="native_1553b714941d" formatted="false">სარეზერვო ასლის გაშიფვრა და გადამოწმება. ორიგინალური გარემო რჩება აღდგენითი…</string>
+    <string name="native_dafd005e953e" formatted="false">სარეზერვო ასლი დამოწმებულია. დაადასტურეთ აღდგენა აპში.</string>
+    <string name="native_9fb236184596" formatted="false">წაშალა დაშიფრული ლოკალური ასლი აპის შიგნით.</string>
+    <string name="native_f98e9ac348b6" formatted="false">ოპერაცია გაუქმდა. შენახულია ორიგინალური გარემოს მონაცემები.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">ოპერაცია არასრულია. შეამოწმეთ პაროლი, სარეზერვო მთლიანობა, ჰოსტის ვერსია და თავისუფალი ადგილი. შენახულია ორიგინალური გარემოს მონაცემები.</string>
+    <string name="native_29deabd28960" formatted="false">დაშიფრული სამუშაო სადგურის სარეზერვო ასლის შექმნა…\nშეიქმნა</string>
+    <string name="native_3d137e243806" formatted="false">დაშიფრული სარეზერვო ასლი. აირჩიეთ სად შეინახოთ იგი.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">გარემოს აღდგენა და ადგილობრივი სერვისების შემოწმება. შეინახეთ აპის მონაცემები ხელუხლებელი…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">სამუშაო სადგური აღდგენილია. წინა გარემო რჩება პირად სარეზერვოში. ხელახლა გახსენით სამუშაო ადგილი.</string>
+    <string name="native_0392cd6152d2" formatted="false">აღდგენის შემოწმებები ვერ მოხერხდა. დაბრუნდა წინა გარემოში; იმპორტირებული მონაცემები რჩება პირად სარეზერვო ასლში.</string>
+    <string name="native_5dc7410b600e" formatted="false">აღდგენა არასრულია. ყველა მონაცემთა დირექტორია შენახულია. შეინახეთ აპის მონაცემები და ხელახლა სცადეთ აღდგენა.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">წინა სამუშაო სადგურის გარემოს აღდგენა…</string>
+    <string name="native_15821323ff89" formatted="false">წინა გარემო აღდგენილია. უახლესი ნამუშევარი რჩება პირად სარეზერვო ასლში. ხელახლა გახსენით სამუშაო ადგილი.</string>
+    <string name="native_56dd94f47870" formatted="false">ამ აღდგენის გაუქმება შეუძლებელია. შენახულია მიმდინარე გარემო და სარეზერვო ასლები.</string>
+    <string name="native_93530f3fa029" formatted="false">გაუქმება არასრულია. ყველა მონაცემთა დირექტორია შენახულია. შეინახეთ აპის მონაცემები და ხელახლა სცადეთ აღდგენა.</string>
+    <string name="native_f12963c80def" formatted="false">დაშიფრული სარეზერვო ასლის შენახვა…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">დაშიფრული სარეზერვო ასლი შენახულია. შეგიძლიათ კვლავ შეინახოთ ადგილობრივი ასლი ან წაშალოთ ხელით.</string>
+    <string name="native_d660cccf65e0" formatted="false">მიმდინარეობს დაუდასტურებელი იმპორტის გასუფთავება…</string>
+    <string name="native_800592163979" formatted="false">იმპორტი გაუქმდა. ორიგინალური გარემო უცვლელი.</string>
+    <string name="native_5a90367eb834" formatted="false">იმპორტი გაუქმდა. ორიგინალური გარემო უცვლელი; გარკვეული დროებითი იმპორტის მონაცემები რჩება აპის პირად დირექტორიაში.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">მიმდინარეობს გაშიფვრისა და დადასტურების მომზადება…</string>
+    <string name="native_e9f2bea3118c" formatted="false">დაშიფრული სარეზერვო ასლის მომზადება…</string>
+    <string name="native_7bd5a0c93818" formatted="false">სარეზერვო სერვისის დაწყება ვერ მოხერხდა. ხელახლა სცადეთ წინა პლანზე.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">ჯერ აღადგინეთ არასრული გარემოს ოპერაცია</string>
+    <string name="native_f14aea7c819c" formatted="false">არასწორი აღდგენის ჩანაწერი</string>
+    <string name="native_7c284c55ee08" formatted="false">აკლია აღდგენის დირექტორია</string>
+    <string name="native_bfc4792df15b" formatted="false">მშობლიური პარამეტრები აღემატება აღდგენის ჩანაწერის ლიმიტს</string>
+    <string name="native_8d93770ba8c9">აკლია წინა გარემოს დირექტორია: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">აღდგენის უცნობი ეტაპი</string>
+    <string name="native_20c5124fe175" formatted="false">უცნობი აღდგენის ოპერაცია</string>
+    <string name="native_1c457322b624" formatted="false">წინა გარემო არ არის ხელმისაწვდომი აღდგენისთვის</string>
+    <string name="native_30db1666c8e5" formatted="false">ეს სარეზერვო ასლი ეკუთვნის სხვა აპს</string>
+    <string name="native_6687d1c64d75" formatted="false">სარეზერვო პროცესორის არქიტექტურა არ ემთხვევა</string>
+    <string name="native_b9b37d57fe6b" formatted="false">განაახლეთ Android ჰოსტი ჯერ ამ სარეზერვო ასლის მიერ გამოყენებული ვერსიით</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">სარეზერვო დირექტორია არასრულია</string>
+    <string name="native_66106ab3e254" formatted="false">ძველ სარეზერვო ასლს არ გააჩნია OpenCode-ის გამომცემლის დამადასტურებელი მტკიცებულება. დაიწყეთ ორიგინალური გარემო ამ ჰოსტთან, სანამ ხელახლა შექმნით მის სარეზერვო ასლს.</string>
+    <string name="native_bec13cc92982" formatted="false">განვითარების გარემოს სისტემის მოქმედებები</string>
+    <string name="native_65de80229626" formatted="false">Debian-მა მოითხოვა სისტემის მოქმედება</string>
+    <string name="native_5e38581cf19c" formatted="false">შეეხეთ მოთხოვნის განხილვისა და დასამუშავებლად</string>
+    <string name="native_749d406d2c67" formatted="false">Debian განვითარების გარემოდან</string>
+    <string name="native_4032d33b2afd" formatted="false">გახსენით სისტემის ბრაუზერი?</string>
+    <string name="native_ce9491abbc6c" formatted="false">გახსნა ადგილობრივი პროექტის გადახედვა?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">წაიკითხეთ ბუფერში?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">დააკოპირეთ სისტემის ბუფერში?</string>
+    <string name="native_77f761eb70aa" formatted="false">გაგზავნეთ ადგილობრივი შეტყობინების გაგზავნა?</string>
+    <string name="native_e6b29e80abb7" formatted="false">გააზიარეთ პროექტის ფაილი?</string>
+    <string name="native_9d36f698b3c1" formatted="false">სისტემური ფაილების იმპორტი?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">გსურთ პროექტის ფაილის ექსპორტი?</string>
+    <string name="native_7ac295421c6d" formatted="false">გახსენით ბრაუზერში</string>
+    <string name="native_bbdb6043b5e9" formatted="false">გახსენით გადახედვა</string>
+    <string name="native_14792d6cd7a6" formatted="false">წაკითხვის დაშვება</string>
+    <string name="native_b4caf8b99ddd" formatted="false">კოპირება ბუფერში</string>
+    <string name="native_4b3361a8c3a3" formatted="false">შეტყობინების გაგზავნა</string>
+    <string name="native_88152a09fa02" formatted="false">აირჩიეთ გაზიარების აპი</string>
+    <string name="native_7a49a79c57f9" formatted="false">აირჩიეთ ფაილები</string>
+    <string name="native_99d9f87419c5" formatted="false">აირჩიეთ სად შეინახოთ</string>
+    <string name="native_23e5bb2090aa">%1$s\nიხსნება OpenCode-დან იზოლირებული ბრაუზერის მონაცემებით.</string>
+    <string name="native_ecf17eaad49e" formatted="false">მიეცით ტექსტი სისტემის ბუფერიდან Debian-ის მიმდინარე პროგრამას.</string>
+    <string name="native_dcc6bec24e43">აირჩიეთ ფაილები %1$s-ში იმპორტისთვის. არსებული ფაილები ინახება და დუბლიკატების სახელი გადაერქვა.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium ბრაუზერის რეჟიმი</string>
+    <string name="native_4767f37900f6" formatted="false">თავსებადობის რეჟიმი იყენებს ბრაუზერის ცალკეულ პროფილს და თიშავს Chromium-ის Linux პროცესის სავარჯიშოს. ბრაუზერს კვლავ შეუძლია წვდომა ფაილებზე ამ აპში. მოერიდეთ არასანდო ვებსაიტებს და გამოიყენეთ Android სისტემის ბრაუზერი მნიშვნელოვანი ანგარიშებისთვის. ხელახლა გახსენით Chromium რეჟიმების შეცვლის შემდეგ.</string>
+    <string name="native_a4317f2699a2" formatted="false">სტანდარტული Linux sandboxing ჩართულია ნაგულისხმევად. თუ Chromium ვერ დაიწყებს, შეგიძლიათ აირჩიოთ თავსებადობის რეჟიმი. ის თიშავს Linux-ის პროცესის სავარჯიშოს და იყენებს ცალკეულ პროფილს, ხოლო აპის ფაილებზე წვდომას ინარჩუნებს. მოერიდეთ არასანდო ვებსაიტებს; გამოიყენეთ Android სისტემის ბრაუზერი მნიშვნელოვანი ანგარიშებისთვის.</string>
+    <string name="native_3a2596fa9517" formatted="false">სტანდარტული რეჟიმის აღდგენა</string>
+    <string name="native_eeb5e46d62ae" formatted="false">ჩართეთ თავსებადობის რეჟიმი</string>
+    <string name="native_9a45442649f5" formatted="false">Debian დესკტოპი</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · გაზიარებული /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">პირველი ინსტალაცია ჩამოტვირთავს გრაფიკულ კომპონენტებს. ინსტალაციის შემდეგ, დესკტოპს შეუძლია OpenCode-ისგან დამოუკიდებლად გაშვება და გაჩერება.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC სარკე</string>
+    <string name="native_41e865941e16" formatted="false">ოფიციალური Debian სარკე</string>
+    <string name="native_ea341b8a102b" formatted="false">საწყისი გარჩევადობა</string>
+    <string name="native_ff1cde9ba35d" formatted="false">დესკტოპი აგრძელებს მუშაობას გვერდების გადართვისას. გააჩერეთ Runtime-დან.</string>
+    <string name="native_aadf816e2dc8" formatted="false">შეაჩერე დესკტოპის დავალება</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">დესკტოპის დაწყება</string>
+    <string name="native_ea27a25e5114" formatted="false">დააინსტალირეთ დესკტოპის კომპონენტები</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: თავსებადობის რეჟიმი</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: სტანდარტული რეჟიმი</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">ჯერ დააინსტალირეთ Debian დეველოპერის ხელსაწყოები Runtime-დან.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">აქტივობის ჟურნალი</string>
+    <string name="native_bfaa904aa4d4" formatted="false">პროექტის საქაღალდის გახსნა ვერ მოხერხდა. შეამოწმეთ, რომ დირექტორია არსებობს.</string>
+    <string name="native_83c76743b29d" formatted="false">შეწყვეტილი გარემოს მუშაობის აღდგენა</string>
+    <string name="native_739a730ae247" formatted="false">გარემოს მოვლა</string>
+    <string name="native_049281329843" formatted="false">დაელოდეთ განახლების შენარჩუნებას ან მიმდინარე დავალების დასრულებას.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">დაელოდეთ განვითარების გარემოს მიმდინარე ამოცანის დასრულებას</string>
+    <string name="native_83099168971c" formatted="false">დესკტოპის ინსტალაცია</string>
+    <string name="native_85e0c18dde8d" formatted="false">დესკტოპის გაშვება</string>
+    <string name="native_9a48f8196d8f" formatted="false">ყურადღებას საჭიროებს</string>
+    <string name="native_75470fb13121" formatted="false">შეჩერდა</string>
+    <string name="native_51a53c8109d5" formatted="false">აქტივობის ჩანაწერის წაკითხვა ან შენახვა შეუძლებელია. შეაკეთეთ იგი Runtime-დან ან გაათავისუფლეთ საცავი.</string>
+    <string name="native_d36a018cc619" formatted="false">ჯერ დააინსტალირეთ Debian განვითარების გარემო</string>
+    <string name="native_80be4c2928a5" formatted="false">ჯერ დაუკავშირდით ქსელს</string>
+    <string name="native_a065d81014b1" formatted="false">დესკტოპის ინსტალაცია არასრულია. ხელახლა სცადეთ ინსტალაცია.\nდაინსტალირებულია</string>
+    <string name="native_721c38b32c35" formatted="false">სამუშაო მაგიდა. დაიწყეთ როცა საჭიროა.</string>
+    <string name="native_6c1c52771115" formatted="false">ჯერ დააინსტალირეთ დესკტოპის კომპონენტები</string>
+    <string name="native_693d90a47827" formatted="false">დესკტოპის ოპერაცია ვერ მოხერხდა. დეტალები ძალიან გრძელია ან მიუწვდომელია.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">გაჩერების მარკერის შენახვა ვერ დასრულდა. გაწმენდის პროცესი გაგრძელდა.</string>
+    <string name="native_06083621a6ce" formatted="false">აქტივობის ჩანაწერის შენახვა ვერ დასრულდა. შემდეგი გაშვება განიხილავს ამას, როგორც შეფერხებას.</string>
+    <string name="native_04d721a3819a" formatted="false">სამუშაო მაგიდა</string>
+    <string name="native_c3f0acaf7a73" formatted="false">დესკტოპის მუშაობის დრო ამოიწურა. გადახედეთ ჟურნალს და ხელახლა სცადეთ.</string>
+    <string name="native_e70d328a3ca9">დესკტოპის პროცესი გავიდა (%1$s). გადახედეთ აქტივობის ჟურნალს.</string>
+    <string name="native_df5c878f2852" formatted="false">ლოკალური გრაფიკული სამუშაო სივრცე</string>
+    <string name="native_7b0455a8daa4" formatted="false">შეაჩერე დესკტოპი</string>
+    <string name="native_a62123cde9c7" formatted="false">შეწყვეტილი ამოცანები და აღდგენა</string>
+    <string name="native_279308947a14" formatted="false">აქტივობის ჩანაწერის წაკითხვა შეუძლებელია. Repair ინახავს დაზიანებული ჩანაწერის ასლს და ინახავს პროექტებს, სესიებს და Linux გარემოს.</string>
+    <string name="native_2bd92fae24e5" formatted="false">სარემონტო საქმიანობის ჩანაწერი</string>
+    <string name="native_6b43650c2c82" formatted="false">ამოცანა მოულოდნელად დასრულდა.</string>
+    <string name="native_acb0c970aaa6">%1$s ტერმინალები ჩვეულებრივ არ დაიხურა. მათი გაშვებული ბრძანებები შეწყდა.</string>
+    <string name="native_4ba153d8dff5" formatted="false">გადატვირთვა დადასტურდა. წინა ბრძანებები არ იყო გამეორებული.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">შენახული პროექტები და სესიები შენარჩუნებულია. ხელახლა გახსენით ტერმინალები ხელით; დაუმთავრებელი ბრძანებები ავტომატურად არ განახლდება.</string>
+    <string name="native_fa9669296762" formatted="false">გადატვირთეთ OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">დესკტოპი ავტომატურად არ გადაიტვირთება. ხელახლა დაიწყე დესკტოპის გვერდიდან.</string>
+    <string name="native_644f8f44251f" formatted="false">გახსენით ფაილი</string>
+    <string name="native_9dfb5569d609" formatted="false">ფაილის გაზიარება</string>
+    <string name="native_a4500cff3a86" formatted="false">სამუშაო დირექტორია არ უნდა იყოს სიმბოლური ბმული</string>
+    <string name="native_8657d27661bd" formatted="false">არასწორი სამუშაო დირექტორიას გზა</string>
+    <string name="native_02b702a9adff" formatted="false">აირჩიეთ ფაილი</string>
+    <string name="native_924874b746cc" formatted="false">მართეთ სიმბოლური ბმულები ტერმინალში</string>
+    <string name="native_efea6e422a54" formatted="false">ფაილის სახელი არასწორია</string>
+    <string name="native_c4989dc37aab" formatted="false">დირექტორია არ არსებობს</string>
+    <string name="native_d613dba39b44" formatted="false">დანიშნულების დირექტორია არ არსებობს</string>
+    <string name="native_4f9b3fb4920b" formatted="false">არ შეუძლია საქაღალდის განთავსება საკუთარ თავში ან მის შთამომავლებში</string>
+    <string name="native_c3acd5a3254c" formatted="false">პროექტი შეიცავს სპეციალურ მოწყობილობებს ან სოკეტებს და მისი კოპირება შეუძლებელია</string>
+    <string name="native_6c36955b068b" formatted="false">აირჩიეთ ჩვეულებრივი ფაილი</string>
+    <string name="native_49191d7d489f" formatted="false">ეს ფაილი აღემატება 2 MB. შეცვალეთ იგი OpenCode ან ტერმინალით.</string>
+    <string name="native_ee42414d36c2" formatted="false">ფაილი ძალიან დიდია</string>
+    <string name="native_f0a979f87157" formatted="false">ორობითი ფაილების ექსპორტი სხვა აპლიკაციაში გასახსნელად</string>
+    <string name="native_88a9c82651fc" formatted="false">შეცვალეთ ფაილები, რომლებიც არ არის UTF-8 OpenCode-ით ან ტერმინალით</string>
+    <string name="native_0189a5c3418c" formatted="false">კიდევ ერთმა ინსტრუმენტმა შეცვალა ეს ფაილი. ხელახლა გახსენით რედაქტირებამდე.</string>
+    <string name="native_0ce79256f4ac" formatted="false">ორიგინალური დირექტორია აღარ არსებობს. ჯერ აღადგინე.</string>
+    <string name="native_46eae321049e" formatted="false">გაზიარების აპი არ არის ხელმისაწვდომი</string>
+    <string name="native_87d699d3a26c" formatted="false">ნაგავი</string>
+    <string name="native_d0a8c03d6c07" formatted="false">პროექტის ფაილები</string>
+    <string name="native_4dcf914f0b64" formatted="false">წაშლილი ფაილები შეიძლება აღდგეს თავდაპირველ დირექტორიაში</string>
+    <string name="native_c5b81b02354f" formatted="false">უკან</string>
+    <string name="native_e56b99379169">დაკოპირებულია %1$s ფაილი · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">კოპირება…</string>
+    <string name="native_85199bb36b04" formatted="false">გააუქმეთ ოპერაცია</string>
+    <string name="native_e9dc52d1c24b" formatted="false">დახურვა</string>
+    <string name="native_4e1e5aacac7f" formatted="false">ახალი სესია</string>
+    <string name="native_23c250cc8e0b" formatted="false">დაიწყეთ OpenCode სესია აქ</string>
+    <string name="native_f22da21fd54f" formatted="false">ტერმინალი</string>
+    <string name="native_3645f30b3412" formatted="false">შენახული ცვლილებები</string>
+    <string name="native_2266227605c4" formatted="false">შენახვა</string>
+    <string name="native_064fbc7ad3f3" formatted="false">ნაგავი ცარიელია</string>
+    <string name="native_a9e739b13e52" formatted="false">აღდგენა</string>
+    <string name="native_45985dc2183e" formatted="false">გადაადგილება:</string>
+    <string name="native_31214130b5b7" formatted="false">ასლი:</string>
+    <string name="native_07e5c3158f35" formatted="false">პასტა</string>
+    <string name="native_831b4e0fb574" formatted="false">ახალი</string>
+    <string name="native_ff65a22d7087" formatted="false">ახალი საქაღალდე</string>
+    <string name="native_71faed44a86c" formatted="false">ახალი ფაილი</string>
+    <string name="native_8dddd460f6ae" formatted="false">იმპორტი</string>
+    <string name="native_d85825123e60" formatted="false">განახლება</string>
+    <string name="native_ac9d73843736" formatted="false">მოძებნეთ ეს დირექტორია</string>
+    <string name="native_21eef82963ee" formatted="false">ეს დირექტორია ცარიელი. ფაილების იმპორტი ან პროექტის შექმნა.</string>
+    <string name="native_e8a4cecaa371" formatted="false">შესატყვისი ფაილები არ არის</string>
+    <string name="native_d674bc0f86b8" formatted="false">ფაილის მოქმედებები</string>
+    <string name="native_d04a47c87cc8" formatted="false">სიმბოლური ბმული</string>
+    <string name="native_e0ba66f5246a" formatted="false">საქაღალდე</string>
+    <string name="native_f170b42599e8" formatted="false">გადარქმევა</string>
+    <string name="native_4cdacf57ead2" formatted="false">ასლი</string>
+    <string name="native_124aa030694e" formatted="false">გადატანა…</string>
+    <string name="native_ac990518ed87" formatted="false">გახსენით ტერმინალი აქ</string>
+    <string name="native_87bc93932d8a" formatted="false">ექსპორტი სისტემის ფაილებში</string>
+    <string name="native_dd37f132172f" formatted="false">ნაგავში გადატანა</string>
+    <string name="native_7318746d337c" formatted="false">გადატანა ნაგავში?</string>
+    <string name="native_2b5ee3f10a56">შეგიძლიათ აღადგინოთ „%1$s“ ურნადან.</string>
+    <string name="native_e49730c9e7e1" formatted="false">გადაადგილება</string>
+    <string name="native_4e47aaa113fc" formatted="false">გაუქმდეს შენახული ცვლილებები?</string>
+    <string name="native_63b75399ef1a" formatted="false">ცვლილებების გაუქმება</string>
+    <string name="native_d9618f7b8d25" formatted="false">განაგრძეთ რედაქტირება</string>
+    <string name="native_76ce6aef5479" formatted="false">სახელი</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">გარემო აღდგენილია. ხელახლა გახსენით სამუშაო ადგილი.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">ჯერ დაასრულეთ შეწყვეტილი ოპერაციის აღდგენა Runtime-ში</string>
+    <string name="native_f29af06e7c99" formatted="false">მიმდინარეობს გარემოს მოვლა. ხელახლა სცადეთ მოგვიანებით.</string>
+    <string name="native_3bd28258feb0" formatted="false">ოპერაცია გაუქმდა</string>
+    <string name="native_c508721eb3cd" formatted="false">ამ სახელის ფაილი უკვე არსებობს. აირჩიეთ სხვა სახელი.</string>
+    <string name="native_1e8274fe468a" formatted="false">ფაილი აღარ არსებობს. განაახლეთ დირექტორია.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">ფაილზე წვდომის ნებართვა უარყოფილია</string>
+    <string name="native_cd808e4c321e" formatted="false">ოპერაციის დასრულება ვერ მოხერხდა</string>
+    <string name="native_01cbe9be8b9f" formatted="false">ოპერაცია არასრულია. შეამოწმეთ ხელმისაწვდომი მეხსიერება ან აირჩიეთ ფაილები ხელახლა.</string>
+    <string name="native_3f9983126fd7" formatted="false">შეამოწმეთ OpenCode გაშვების სტატუსი Runtime-ში</string>
+    <string name="native_6ed9fe2281bb" formatted="false">ახალი ტერმინალის გახსნა ვერ მოხერხდა. შეამოწმეთ სესიების რაოდენობა.</string>
+    <string name="native_2160fde3813a" formatted="false">მართეთ სიმბოლური ბმულები ტერმინალში. ფაილის მენეჯერი არ მიჰყვება ბმულებს.</string>
+    <string name="native_7a844e9d4017" formatted="false">გადაადგილება დასრულდა</string>
+    <string name="native_573877894fcf" formatted="false">ასლი დასრულდა</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">გადატანილია ნაგავში</string>
+    <string name="native_862330af933f" formatted="false">აღდგენილია თავდაპირველ დირექტორიაში</string>
+    <string name="native_beda23c9d52b" formatted="false">მოხდა გარემოს შენარჩუნება ან შეცვლა. ხელახლა გახსენით სამუშაო ადგილი რედაქტირებამდე.</string>
+    <string name="native_678c6953bb2b" formatted="false">შენახულია</string>
+    <string name="native_8063159f2178" formatted="false">არჩეული ფაილის წაკითხვა შეუძლებელია</string>
+    <string name="native_4cdc2180d2ac">იმპორტირებულია %1$s ფაილი</string>
+    <string name="native_e98763643b93" formatted="false">არჩეულ მდებარეობაზე ჩაწერა შეუძლებელია</string>
+    <string name="native_5afd173be7fa" formatted="false">ექსპორტი დასრულდა</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">კოდი და სესიები</string>
+    <string name="native_8745ed51cadd" formatted="false">სამუშაო მაგიდა</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">გრაფიკული სამუშაო ადგილი</string>
+    <string name="native_770d49c5f689" formatted="false">ფაილები</string>
+    <string name="native_6a9b6480b58f" formatted="false">გაშვების დრო</string>
+    <string name="native_b561fe9204cc" formatted="false">სერვისები და დეველოპერის ხელსაწყოები</string>
+    <string name="native_70850bdeeabd" formatted="false">გვერდის მენიუს დახურვა</string>
+    <string name="native_b4549acb48e8" formatted="false">სამუშაო სივრცე</string>
+    <string name="native_3d3551f4660f">მცურავი ღილაკის გამჭვირვალობა %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">ქვედა მნიშვნელობები მცურავ ღილაკს უფრო გამჭვირვალეს ხდის</string>
+    <string name="native_e031beabfc9a" formatted="false">გახსენით გვერდის მენიუ</string>
+    <string name="native_106ee775b538" formatted="false">ადგილობრივ OpenCode-თან დაკავშირება…</string>
+    <string name="native_a021adc1f449" formatted="false">ლოკალურ კავშირს აღდგენა სჭირდება</string>
+    <string name="native_dacb8837471c" formatted="false">ხელახლა დაკავშირება</string>
+    <string name="native_17584aa60ae6" formatted="false">ადგილობრივი რესურსის ქეშის მომზადება ვერ მოხერხდა</string>
+    <string name="native_3b3b80064ccb" formatted="false">ადგილობრივი OpenCode მომზადება…</string>
+    <string name="native_2560ee8fdd16" formatted="false">ხელახლა სცადეთ</string>
+    <string name="native_b07809340403" formatted="false">სამუშაო სივრცის მდებარეობა ჯერ არ არის შენახული. ხელახლა სცადეთ მოგვიანებით.</string>
+    <string name="native_e4ab10392d05" formatted="false">ადგილობრივი სერვისი ემზადება. თქვენი სამუშაო სივრცე ავტომატურად გაიხსნება დაკავშირების შემდეგ.</string>
+    <string name="native_20ea15973287" formatted="false">წინა გაშვება შეწყდა. გადატვირთვა Runtime-დან; ტერმინალის ბრძანებები არ განმეორდება ავტომატურად.</string>
+    <string name="native_f2f2f6d32544" formatted="false">დაიწყეთ OpenCode Runtime-დან კოდისა და სესიების გასახსნელად.</string>
+    <string name="native_abbac5c22111" formatted="false">გახვიდეთ აპიდან?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">განვითარების გარემოს შეუძლია გააგრძელოს მუშაობა ფონზე. მოგვიანებით დაბრუნდით შეტყობინებებიდან.</string>
+    <string name="native_814a8fb24b62" formatted="false">გახვიდეთ მიმდინარე სამუშაო სივრციდან?</string>
+    <string name="native_a76464945c2d" formatted="false">ასევე შეაჩერე განვითარების გარემო</string>
+    <string name="native_b814fd8d6bc5" formatted="false">გასვლა</string>
+    <string name="native_b00143b08ff1" formatted="false">განვითარების სამუშაო სადგური მზად არის</string>
+    <string name="native_51bca456a350" formatted="false">თქვენი Debian განვითარების სამუშაო სადგური</string>
+    <string name="native_0c2acd0b6057" formatted="false">გაშვებული</string>
+    <string name="native_cb40c67e7cb1" formatted="false">იწყება</string>
+    <string name="native_44da7f6a451d" formatted="false">გაჩერება</string>
+    <string name="native_b7e1503a7239" formatted="false">სარემონტო განვითარების გარემო</string>
+    <string name="native_7c91bd67ff14" formatted="false">დააინსტალირეთ განვითარების გარემო</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop გარემო</string>
+    <string name="native_e7ec95694dce" formatted="false">დაწყება OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">შეამოწმეთ გარემო</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">განაახლეთ Debian დეველოპერის ხელსაწყოები</string>
+    <string name="native_c114ec62712b" formatted="false">წინა გარემოს სარეზერვო ასლი, პროექტები და სესიის მონაცემები შენახულია.</string>
+    <string name="native_eb3114155716" formatted="false">ენის სერვერების ინსტალაცია/განახლება</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) და Python (pylsp), დაინსტალირებული ონლაინ ხელმოწერილი Debian საცავებიდან. ჯერ გააჩერეთ OpenCode და დესკტოპი.</string>
+    <string name="native_2c7251cce661" formatted="false">შეეხეთ მცურავ ღილაკს გვერდების გადასართავად. გადაიტანეთ იგი მის გადასაადგილებლად.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime ინფორმაცია აქ გამოჩნდება გაშვების შემდეგ.</string>
+    <string name="native_a8243a4e0d22" formatted="false">ღია გაშვების დრო</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">შეფუთული APK ვერსია</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode განახლებები</string>
+    <string name="native_36ab16248f65" formatted="false">შემოიტანეთ .ocaupdate ხელმოწერილი ამ აპის გამომცემლის მიერ. ოფიციალური frontend და backend განახლება ერთად.</string>
+    <string name="native_8aad48b0508d" formatted="false">განახლების წყარო (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">შეამოწმეთ განახლების წყარო</string>
+    <string name="native_f73973cfadbb">ხელმოწერილი გამოშვება: %1$s\nვალდებულება: %2$s · %3$s მიბაიტი</string>
+    <string name="native_a9fe3a2301f5" formatted="false">ჩამოტვირთეთ და გადაამოწმეთ</string>
+    <string name="native_f2ef7965bf12" formatted="false">აირჩიეთ განახლების პაკეტი</string>
+    <string name="native_165111adfe2c">მზადაა ინსტალაციისთვის: %1$s\nვალდებულება: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">დააინსტალირეთ ეს განახლება</string>
+    <string name="native_f9432c4d9b1e" formatted="false">აღადგინეთ ვერსია და სესიები განახლებამდე</string>
+    <string name="native_6864335de653" formatted="false">გააუქმეთ განახლება</string>
+    <string name="native_5e3472cf084e" formatted="false">დააინსტალიროთ OpenCode განახლება?</string>
+    <string name="native_816bf3635d53" formatted="false">აღვადგინოთ მდგომარეობა განახლებამდე?</string>
+    <string name="native_11beb4a42abc">დააინსტალირეთ %1$s. აპლიკაცია ინახავს სესიის სურათს, ამოწმებს ხელმოწერილ პროგრამას და აღადგენს წინა ვერსიას, თუ ის ვერ მოხერხდა. პროექტის ფაილები შენახულია.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">სესიები უბრუნდება თავის მდგომარეობას ამ განახლებამდე. უახლესი სესიები რჩება პირად სარეზერვო ასლში. პროექტის ფაილები შენახულია.</string>
+    <string name="native_def5e273616d" formatted="false">დაადასტურეთ ინსტალაცია</string>
+    <string name="native_369d2eefccde" formatted="false">ბრაუზერის წინასწარი გადახედვის მონაცემების იზოლირება ვერ მოხერხდა. ხელახლა გახსენით გადახედვა.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">პროექტის გვერდი ვერ ჩაიტვირთა. შეამოწმეთ განვითარების სერვერი თქვენს ტერმინალში.</string>
+    <string name="native_6e7408950cf5" formatted="false">გადახედეთ პროექტის ვებსაიტს</string>
+    <string name="native_bfb4951e071d" formatted="false">პროექტის გადახედვა</string>
+    <string name="native_f80652913d06" formatted="false">გაუშვით განვითარების სერვერი ტერმინალში, შემდეგ შედით მის ლოკალურ პორტში. ბრაუზერის წინასწარი გადახედვის მონაცემები იზოლირებულია OpenCode-დან.</string>
+    <string name="native_2c41e85af61f" formatted="false">პორტი</string>
+    <string name="native_77c3a828a5c5" formatted="false">შეიყვანეთ განვითარების პორტი 1024-დან 65535-მდე, OpenCode-ისა და დესკტოპის სერვისების გამოკლებით.</string>
+    <string name="native_7311a9dfea51" formatted="false">ამ პორტზე არაფერი ისმის. შეამოწმეთ სერვისი თქვენს ტერმინალში.</string>
+    <string name="native_4f8d84105475" formatted="false">შემოწმება…</string>
+    <string name="native_4923c272b68e" formatted="false">განვითარების პორტი უნდა იყოს მთელი რიცხვი</string>
+    <string name="native_04a87026e81f" formatted="false">აირჩიეთ პროექტის განვითარების მოქმედი პორტი</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode განვითარების სესია</string>
+    <string name="native_e87a4529ab82" formatted="false">განვითარების გარემოს ინსტალაცია</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian განახლება</string>
+    <string name="native_0c6301bc295d" formatted="false">დეველოპერული გარემოს შეკეთება</string>
+    <string name="native_0ddf3d4297eb" formatted="false">განვითარების გარემოს შემოწმება</string>
+    <string name="native_9612d4419bb6" formatted="false">ენის სერვერის ინსტალაცია</string>
+    <string name="native_f72fba77f87a" formatted="false">გარემოს აღდგენა</string>
+    <string name="native_7c8162195c7c" formatted="false">დესკტოპის ინსტალაცია</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">წინა გაშვება შეწყდა. პირდაპირ გადატვირთეთ Runtime-დან.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">ამ ტიპის განვითარების ამოცანა ჯერ კიდევ მუშაობს</string>
+    <string name="native_95a56e0a3fe2" formatted="false">აქტივობის ჩანაწერის შეკეთება</string>
+    <string name="native_b66749ed72ea" formatted="false">პროცესი გავიდა</string>
+    <string name="native_6b25042064e2" formatted="false">წყდება სიგნალით</string>
+    <string name="native_d6febdf1752b" formatted="false">აღდგენილია დაბალი მეხსიერების გამო</string>
+    <string name="native_1d13790f3c89" formatted="false">აპის ავარია</string>
+    <string name="native_28db94d1850d" formatted="false">ძირითადი პროცესის ავარია</string>
+    <string name="native_86919539f7f1" formatted="false">აპლიკაცია არ პასუხობს</string>
+    <string name="native_90fb8d6098a5" formatted="false">ინიციალიზაცია ვერ მოხერხდა</string>
+    <string name="native_38c60ab6654c" formatted="false">ნებართვები შეიცვალა</string>
+    <string name="native_6d2a6c71334d" formatted="false">რესურსის ლიმიტი</string>
+    <string name="native_19b2090b01a8" formatted="false">მომხმარებელმა მოითხოვა გაჩერება</string>
+    <string name="native_120d96445f1a" formatted="false">შეჩერებულია მომხმარებლის მიერ</string>
+    <string name="native_3c8af14f66bc" formatted="false">დამოკიდებული პროცესი გავიდა</string>
+    <string name="native_ca0941ce04ae" formatted="false">სხვა სისტემური მიზეზი</string>
+    <string name="native_2df1ac3c1d38" formatted="false">პროცესის გაყინვა</string>
+    <string name="native_0d48373023a8" formatted="false">აპის მდგომარეობა შეიცვალა</string>
+    <string name="native_c752307db26b" formatted="false">აპლიკაციის განახლება</string>
+    <string name="native_b5015951cbdf" formatted="false">სისტემამ არ მიუთითა გასვლის მიზეზი</string>
+    <string name="native_b62737b826ad">სისტემიდან გასვლა (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">პროექტის დირექტორიას გახსნა ვერ მოხერხდა</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode სესიის შექმნა ვერ მოხერხდა</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode სესიის დირექტორია არ ემთხვევა</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode სესიის წაკითხვა ვერ მოხერხდა</string>
+    <string name="native_2642997cfeec" formatted="false">გარემოს მოვლა</string>
+    <string name="native_f992d735d932" formatted="false">შეაჩერე OpenCode, ტერმინალები და Debian დესკტოპი, შემდეგ დაელოდე ფაილის ოპერაციების დასრულებას</string>
+    <string name="native_489f137f1080" formatted="false">გარემოს მოვლის საკეტი აღარ მოქმედებს</string>
+    <string name="native_42380e2567fc" formatted="false">შეწყვეტილი ოპერაცია აღდგენილია. ხელახლა გახსენით სამუშაო ადგილი.</string>
+    <string name="native_17b00cac2b91" formatted="false">ადგილობრივი კავშირის აღდგენა ვერ მოხერხდა. ხელახლა სცადეთ Runtime-დან.</string>
+    <string name="native_77e9ca4e944c" formatted="false">მიმდინარეობს გარემოს მოვლა. ხელახლა სცადეთ მოგვიანებით.</string>
+    <string name="native_dbaebe3ce243" formatted="false">შეაჩერე Debian დესკტოპი განვითარების გარემოს განახლებამდე</string>
+    <string name="native_548085b144c9" formatted="false">შეწყვეტილი ოპერაცია აღდგენილია. თქვენ შეგიძლიათ დაიწყოთ განვითარების გარემო.</string>
+    <string name="native_b4a1531f9eac" formatted="false">წინა გაშვება შეწყდა. ტერმინალის ბრძანებები არ განმეორდება ავტომატურად. პირდაპირ გადატვირთეთ Runtime-დან.</string>
+    <string name="native_295cafdfd512" formatted="false">დროებითი კავშირის კონფიგურაციის გასუფთავება არასრულია. გაწმენდის პროცესი გაგრძელდა.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld სამუშაო სივრცის შექმნა ვერ მოხერხდა. შეამოწმეთ დირექტორია და ხელმისაწვდომი სივრცე.</string>
+    <string name="native_68301868225a" formatted="false">წინა სამუშაო სივრცის დირექტორია მიუწვდომელია. გაიხსნა helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">ნაგულისხმევი პროექტი ჯერ არ არის მზად. ხელახლა სცადეთ ფაილებიდან.</string>
+    <string name="native_45d6ab452622" formatted="false">დააინსტალირეთ ენის სერვერები</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ და Python ენის სერვერები მზად არის. დაიწყეთ OpenCode LSP-ის გამოსაყენებლად.</string>
+    <string name="native_5ea1653deef8" formatted="false">ტერმინალის აქტივობის ჩანაწერი არ იყო შენახული. შექმენით ახალი ტერმინალი პროცესის დასრულების შემდეგ.</string>
+    <string name="native_1978b311a9ff" formatted="false">ტერმინალის გასვლის ჩანაწერის შენახვა ვერ დასრულდა.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode განახლების ჩამოტვირთვა</string>
+    <string name="native_06f76cca8fb9" formatted="false">მიმდინარეობს განახლების წყაროსთან დაკავშირება…</string>
+    <string name="native_8c39baf28e08" formatted="false">განახლების წყაროსთან დაკავშირება შეუძლებელია. შეამოწმეთ ქსელი, გამომცემლის ხელმოწერა, ჰოსტის ვერსია და თავისუფალი ადგილი.</string>
+    <string name="native_0bedbc8d185d" formatted="false">ჩამოტვირთვის დრო ამოიწურა</string>
+    <string name="native_f75850093535">ჩამოტვირთვა: %1$s / %2$s მიბაიტი</string>
+    <string name="native_30a778f1389a" formatted="false">მიმდინარეობს გამომცემლის ხელმოწერის შემოწმება…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">მიმდინარეობს განახლების პაკეტის ჩამოტვირთვა…</string>
+    <string name="native_2f9cd52dc66a">მოქმედი გამომცემლის ხელმოწერა: %1$s. გადახედეთ გადმოტვირთვამდე.</string>
+    <string name="native_17548865632c" formatted="false">ჩამოტვირთეთ, გამოუშვით მეტამონაცემები და პაკეტის ხელმოწერა დამოწმებულია. დაადასტურეთ ინსტალაცია.</string>
+    <string name="native_180cec958e7a" formatted="false">ჩამოტვირთვა გაუქმდა. ორიგინალური ვერსია შენახულია.</string>
+    <string name="native_8df045f8ac12" formatted="false">ჩამოტვირთვა შეჩერდა. ორიგინალური ვერსია შენახულია.</string>
+    <string name="native_778803f1c6bb" formatted="false">ჩამოტვირთვის გაუქმება</string>
+    <string name="native_2958898ce6f4" formatted="false">ახალი ვერსია ვერ მოხერხდა ადგილობრივი გაშვების, ვერსიის ან ავთენტიფიკაციის შემოწმება. წინა ვერსია აღდგება.</string>
+    <string name="native_cc876dfbb261" formatted="false">საცდელი პროცესი ჯერ კიდევ მიმდინარეობს. დაელოდეთ აღდგენას ხელახლა ცდამდე.</string>
+    <string name="native_adf977dcb47e" formatted="false">არასწორი განახლების ჩანაწერის იდენტიფიკატორი</string>
+    <string name="native_5207cac670b7" formatted="false">დაყენებული დამოუკიდებელი OpenCode ზომა არ ემთხვევა</string>
+    <string name="native_cf5b81887589" formatted="false">დაინსტალირებული დამოუკიდებელი OpenCode საკონტროლო ჯამი არ ემთხვევა. წინა ვერსიის აღდგენა.</string>
+    <string name="native_393049b506cc" formatted="false">თავდაპირველ პროგრამას არ აქვს შესაბამისი გამომცემლის მტკიცებულება. წინა მდგომარეობა უცვლელია.</string>
+    <string name="native_c5853bcfd56c" formatted="false">ჯერ აღადგინეთ წინა შეწყვეტილი განახლება</string>
+    <string name="native_91d8da5525fa" formatted="false">განახლების პაკეტი შეიცვალა დადასტურების შემდეგ</string>
+    <string name="native_093f2c091a30" formatted="false">არასაკმარისი საცავი. ორიგინალი ვერსია უცვლელი.</string>
+    <string name="native_fc9bc82e0872" formatted="false">განახლების სარეზერვო ასლი არ არის ხელმისაწვდომი აღსადგენად</string>
+    <string name="native_a9f4d9903c14" formatted="false">სარეზერვო ასლი არ ემთხვევა გაშვებულ ვერსიას</string>
+    <string name="native_6caa23763a42" formatted="false">წინა პროგრამის დადასტურება ვერ მოხერხდა. მიმდინარე სესიები უცვლელია.</string>
+    <string name="native_c8b71b876695" formatted="false">მოგვიანებით APK ან Debian განახლებამ შეცვალა შეფუთული პროგრამა. თავდაპირველი სესიის სარეზერვო ასლი შენახულია; ჯერ აღადგინეთ შესაბამისი პროგრამა.</string>
+    <string name="native_c443df40964b" formatted="false">განახლების აღდგენის არასწორი ოპერაცია</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode განახლების მომზადება…</string>
+    <string name="native_2968d4dfdc70" formatted="false">შეაჩერე OpenCode, ტერმინალები და სამუშაო მაგიდა, შემდეგ დაელოდე მათ გამოსვლას.</string>
+    <string name="native_90c07b54f8f8" formatted="false">მდგომარეობის შენახვა, პროგრამების გადამოწმება და ვერსიების გადართვა</string>
+    <string name="native_5fc065ef6f50" formatted="false">განახლების ტექნიკური სერვისის დაწყება ვერ მოხერხდა.</string>
+    <string name="native_f7b560c8c820" formatted="false">ოფიციალური პროგრამის გადამოწმება და დადგმა…</string>
+    <string name="native_9606191c82dc" formatted="false">ორიგინალური პროგრამისა და გამომცემლის ხელმოწერის შენარჩუნება…</string>
+    <string name="native_5c0d7787ee51" formatted="false">სესიის მდგომარეობის სნეპშოტის შენახვა…</string>
+    <string name="native_0c8cf4632889" formatted="false">ვერსიების გადართვა და ადგილობრივი სერვისის გადამოწმება…</string>
+    <string name="native_3e81ea691a4a" formatted="false">ვერსიისა და სესიების აღდგენა განახლებამდე…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode-ის აღდგენა</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode-ის განახლება</string>
+    <string name="native_6b1ccd3778fa" formatted="false">აღადგინა წინა ვერსია და სესიები. უახლესი სესიები რჩება პირად სარეზერვო ასლში.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode განახლება დასრულდა. სტარტაპი გამოიყენებს შესაბამის ოფიციალურ ფრონტენდს და ბექენდს.</string>
+    <string name="native_4693930f5802" formatted="false">განახლება გაუქმდა. დადასტურება, რომ თავდაპირველი მდგომარეობა აღდგენილია.</string>
+    <string name="native_d0e37bc26edd" formatted="false">განახლება არასრულია. აღდგენა ახლა; ორიგინალური პროგრამა და სესიის სარეზერვო ასლები ინახება.</string>
+    <string name="native_9a32d6c2d207" formatted="false">აღდგენა არასრულია. ყველა სახელმწიფო დირექტორია შენახულია. შეინახეთ თქვენი მონაცემები და ხელახლა სცადეთ გაშვება აღდგენისთვის.</string>
+    <string name="native_49ad3eeae83d" formatted="false">სესიის აღდგენა დასრულდა. უახლესი მდგომარეობა რჩება სარეზერვო.</string>
+    <string name="native_67c08a2911e1" formatted="false">აღდგენა ვერ გაგრძელდა ამ სარეზერვო ან ორიგინალური პროგრამით. მიმდინარე სესიები და სარეზერვო ასლები უცვლელია.</string>
+    <string name="native_976d8c169cfa" formatted="false">განახლება გაუქმდა ან ვერ მოხერხდა. ორიგინალური ვერსია და სესიები აღდგენილია.</string>
+    <string name="native_7ac77d1513fc" formatted="false">მიმდინარეობს განახლების პაკეტის ხელმოწერისა და მთლიანობის შემოწმება…</string>
+    <string name="native_0aa018b7337b" formatted="false">არჩეული ფაილის წაკითხვა შეუძლებელია</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">განახლების პაკეტი ძალიან დიდია</string>
+    <string name="native_f068b83f40bf" formatted="false">ხელმოწერა და პაკეტი დამოწმებულია. ინსტალაციამდე გადახედეთ ვერსიას.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">შეუძლებელია იმპორტი: არასწორი ფაილი, ხელმოწერის შეუსაბამობა, ჰოსტის შეუთავსებელი ვერსია ან არასაკმარისი მეხსიერება.</string>
+    <string name="native_616412e65df4" formatted="false">ოფიციალური პროგრამა არ ემთხვევა მის გამომცემლის მტკიცებულებას</string>
+    <string name="native_4bf19a158f27" formatted="false">დამოუკიდებელი გაშვების პაკეტები მხარს უჭერს მხოლოდ ARM64-ს</string>
+    <string name="native_63b1fc6fffc9" formatted="false">განახლების ხელმოწერა არ ეკუთვნის ამ APK-ს</string>
+    <string name="native_c7273354727f" formatted="false">განახლების ფაილი აღემატება დეკლარირებულ ზომას</string>
+    <string name="native_2aa6c8e74abb" formatted="false">განახლების პროგრამის საკონტროლო ჯამი არ ემთხვევა</string>
+    <string name="native_dd619076d456" formatted="false">არასწორი განახლების პაკეტის ზომა</string>
+    <string name="native_20c5bdfeffc0" formatted="false">შეკუმშული განახლების პაკეტის ზომა არ ემთხვევა</string>
+    <string name="native_1de24edffcf5" formatted="false">განახლების პაკეტი შეიცავს დამატებით ჩანაწერებს</string>
+    <string name="native_c5b339aa77e8" formatted="false">შეუთავსებელი განახლების წარმოშობა ან არქიტექტურა</string>
+    <string name="native_89d585f3661f" formatted="false">განაახლეთ Android აპი ამ განახლების ინსტალაციამდე</string>
+    <string name="native_800df084dea0" formatted="false">განახლების არქივის საკონტროლო ჯამი არ ემთხვევა</string>
+    <string name="native_ddf1a005e310" formatted="false">ეს APK ხელმოწერის ფორმატი არ უჭერს მხარს დამოუკიდებელ გაშვების განახლებებს</string>
+    <string name="native_172e063db474" formatted="false">არასწორი განახლების პაკეტის ჩანაწერი</string>
+    <string name="native_1c08780aa99f" formatted="false">განახლების მეტამონაცემებმა უნდა გამოიყენონ მთელი რიცხვები</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">განახლების პროგრამა არ არის 64-ბიტიანი Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">განახლების პროგრამა არ აკმაყოფილებს 16 KiB ELF გასწორებას</string>
+    <string name="native_3afa3741911b" formatted="false">განახლების პროგრამას აკლია Debian glibc loader</string>
+    <string name="native_6b0b9e864f5b" formatted="false">შეიყვანეთ HTTPS განახლების სწორი წყარო</string>
+    <string name="native_c274c7dd5900" formatted="false">განახლების წყაროები საჭიროებენ HTTPS URL-ებს მომხმარებლის რწმუნებათა სიგელების გარეშე</string>
+    <string name="native_f459f5ec9dac" formatted="false">არასწორი განახლების წყაროს ველი</string>
+    <string name="native_bde2a736e30a" formatted="false">ჯერ განაახლეთ Android ჰოსტი</string>
+    <string name="native_b980fd021bef" formatted="false">არასწორი განახლების დირექტორია</string>
+    <string name="native_c0e96727553e" formatted="false">არასწორი განახლების ფაილი</string>
+    <string name="native_86ff542c68ed" formatted="false">ამ მდგომარეობაში განახლების დირექტორიების გადართვა შეუძლებელია</string>
+    <string name="native_fbf82dc7ef22" formatted="false">სესიის მდგომარეობა ეხება გარე დირექტორიას. განახლების უსაფრთხოდ ტესტირება შეუძლებელია.</string>
+    <string name="native_796dc6b7ca29" formatted="false">არასაკმარისი საცავი. საწყისი მდგომარეობა უცვლელია.</string>
+    <string name="native_099801d672b1" formatted="false">ჩამოტვირთვა გაუქმდა</string>
+    <string name="native_f1304f707ec9" formatted="false">განახლების ძალიან ბევრი გადამისამართება</string>
+    <string name="native_0d07f458b607" formatted="false">განახლების სერვერმა არ გადაიტანა ორიგინალური ბაიტები</string>
+    <string name="native_de331dfd8908" formatted="false">განახლების ფაილის სიგრძე არ ემთხვევა</string>
+    <string name="native_416b8c87e69e" formatted="false">განახლების ფაილი სრულად არ იყო ჩამოტვირთული</string>
+    <string name="native_e1e74b76c427" formatted="false">განახლების სერვერმა არ დააბრუნა სრული ფაილი</string>
+    <string name="native_6afcf03cb130" formatted="false">განახლების არასაკმარისი ადგილი</string>
+    <string name="native_be1c695d9241" formatted="false">განახლების ფაილი SHA-256 არ ემთხვევა</string>
+    <string name="native_a0133d117bb0" formatted="false">განახლების პაკეტი არ ემთხვევა დადასტურებულ გამოშვების ინფორმაციას</string>
+    <string name="native_8635a43ce28a" formatted="false">არასწორი პროექტის დირექტორია</string>
+    <string name="native_d32ab8b004e6" formatted="false">სამუშაო სივრცის მდებარეობის შენახვა ვერ მოხერხდა</string>
+    <string name="native_43a5447014fd" formatted="false">ტერმინალის გახსნამდე დაიწყეთ განვითარების გარემო Runtime-დან.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ ახალი ტერმინალი</string>
+    <string name="native_b3b7108a568f" formatted="false">დახურეთ მიმდინარე</string>
+    <string name="native_0e822affd5da">საწყისი დირექტორია: %1$s</string>
+    <string name="native_72d769e3888d">ახალი ტერმინალის დირექტორია: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">სისტემის ფაილების ამომრჩევი მიუწვდომელია</string>
+    <string name="native_179a57921f91" formatted="false">WebView რენდერის პარამეტრები</string>
+    <string name="native_3024ec603eb7" formatted="false">გადაღების სიხშირე</string>
+    <string name="native_55b6d7f645f3" formatted="false">ურჩევნია 60 ჰც</string>
+    <string name="native_66f8bafa9f7f" formatted="false">დაიცავით ეკრანის განახლების სიჩქარე</string>
+    <string name="native_d4ecf38c341d" formatted="false">უპირატესობა მიანიჭეთ 60 ჰერცს, რათა შეამციროთ რენდერის დატვირთვა მაღალი განახლების სიჩქარის ეკრანებზე. ჩვენების შემდეგ სისტემა საშუალებას აძლევს დანიშნოს ჩარჩოები. ვრცელდება მხოლოდ ამ აპის ფანჯარაზე.</string>
+    <string name="native_bf0d3a407418" formatted="false">არ არის დაინსტალირებული</string>
+    <string name="native_2fb8edc75b25" formatted="false">მზადაა</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">ჩამტვირთველის გადამოწმება</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian-ის ინსტალაცია</string>
+    <string name="native_f863d955fa6e" formatted="false">ადგილობრივი განვითარების გარემო</string>
+    <string name="native_55aa84065de2" formatted="false">ლოკალური Debian განვითარების სესია</string>
+    <string name="native_6e75b1822ebc" formatted="false">გაჩერება</string>
+    <string name="native_5f73a4e1e494" formatted="false">დამონტაჟებულია</string>
+    <string name="native_147e90d2ec02" formatted="false">აღდგენა</string>
+</resources>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">開發工作區</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + 桌面</string>
+    <string name="native_7f1c02616d60" formatted="false">單頁</string>
+    <string name="native_651ae6ea52ae" formatted="false">恢復分割畫面</string>
+    <string name="native_d7e97cfac66f" formatted="false">工作區配置</string>
+    <string name="native_2a03e2ed30f9" formatted="false">擴大視窗以同時查看多個面板。</string>
+    <string name="native_e792dd4cfa78" formatted="false">顯示專案檔案</string>
+    <string name="native_712d956931d1" formatted="false">顯示終端機</string>
+    <string name="native_073cc20d9ed9" formatted="false">底部終端機</string>
+    <string name="native_5de225480fa7" formatted="false">右側終端機</string>
+    <string name="native_35cdb3eacdc6" formatted="false">當空間有限時，面板會折疊起來，並且仍然可以透過浮動選單進行存取。側面終端出現在較寬的視窗中。拖曳分隔線以調整面板大小。</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + 左 Alt：1–5 頁 · B 檔案 · T 終端機 · M 桌面 · 輸入單/分割 · \\\\ 版面</string>
+    <string name="native_7a129a94c6ff" formatted="false">完成</string>
+    <string name="native_bcec2218fc21" formatted="false">重置比例</string>
+    <string name="native_da88c62d1217">在單頁中顯示 %1$s</string>
+    <string name="native_1b4b3afbe52d" formatted="false">專案文件分割器</string>
+    <string name="native_707c0891a0e6" formatted="false">端子分配器</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode 和桌面分隔器</string>
+    <string name="native_50407ad8dfa8" formatted="false">縮小前面板</string>
+    <string name="native_b72c5c02a666" formatted="false">放大前面板</string>
+    <string name="native_3f3685e8d731" formatted="false">此存档格式的 PRoot 链接过多</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux硬連結需要完整的rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">備份目錄嵌套太深</string>
+    <string name="native_b6f744737a45" formatted="false">備份密碼長度無效</string>
+    <string name="native_13bde5dd1812" formatted="false">備份密碼必須至少包含12個字元</string>
+    <string name="native_be02cbd55932" formatted="false">不支援的備份格式</string>
+    <string name="native_7a91a3d586ae" formatted="false">備份標頭無效</string>
+    <string name="native_2bbd318a5667" formatted="false">不支援的備份加密參數</string>
+    <string name="native_18868da27841" formatted="false">備份密碼錯誤或檔案損壞</string>
+    <string name="native_e41d6440468d" formatted="false">恢復紀錄太大</string>
+    <string name="native_282692502f14" formatted="false">備份元資料太大</string>
+    <string name="native_61fdca8d6c82" formatted="false">備份元資料嵌套太深</string>
+    <string name="native_8cefb30732d4" formatted="false">備份元資料無效</string>
+    <string name="native_5d3037708cad" formatted="false">不支援的本機設置</string>
+    <string name="native_81a57c382f9d" formatted="false">無法儲存本機設置</string>
+    <string name="native_50603e683d4a" formatted="false">備份路徑中的父目錄無效</string>
+    <string name="native_c3f838a46b8e" formatted="false">工作站根目錄不能是符號鏈接</string>
+    <string name="native_9ddd2d8280c8" formatted="false">備份期間檔案發生更改</string>
+    <string name="native_77e1e85147db" formatted="false">不支援的工作站資料格式</string>
+    <string name="native_a927b5a565af" formatted="false">備份包含附加數據</string>
+    <string name="native_c2b886d508f2" formatted="false">備份包含重複路徑</string>
+    <string name="native_3dab8cd60102" formatted="false">備份包含無法遷移的運行時設置</string>
+    <string name="native_f45ba674a630" formatted="false">備份太大或儲存空間不足</string>
+    <string name="native_140073e8e77b" formatted="false">無法恢復符號連結時間戳</string>
+    <string name="native_b0d411aaf62c" formatted="false">無法恢復命名管道時間戳</string>
+    <string name="native_0daee8026db1" formatted="false">工作站備份與恢復</string>
+    <string name="native_1acc18928c5f" formatted="false">包括 Debian、開發人員工具、專案、主頁、OpenCode 會話和設定、Linux 瀏覽器資料以及本機佈局設定。</string>
+    <string name="native_62254d31a535" formatted="false">排除臨時檔案和舊備份。 Android WebView 儲存體和未傳送的草稿保留在此裝置上，並且不會隨此備份一起傳輸。</string>
+    <string name="native_808eabc7811f" formatted="false">建立加密備份</string>
+    <string name="native_201c10b38296" formatted="false">匯入備份</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">首先在檔案編輯器中儲存變更。</string>
+    <string name="native_0559cd596453" formatted="false">停止 OpenCode、終端機和桌面</string>
+    <string name="native_fdf2be8e3b93" formatted="false">環境操作不完整。先恢復吧。</string>
+    <string name="native_185f58156330" formatted="false">恢復不完整的操作</string>
+    <string name="native_20831b6f67a7" formatted="false">撤銷上次環境恢復</string>
+    <string name="native_4f392d5d6141">加密本機副本：%1$s</string>
+    <string name="native_80077c694212" formatted="false">儲存到文件</string>
+    <string name="native_f09619351eb9" formatted="false">刪除本機副本</string>
+    <string name="native_85c686eb9841">已處理 %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">取消備份任務</string>
+    <string name="native_66c9d896407b" formatted="false">加密工作站備份</string>
+    <string name="native_548cd9f0831e" formatted="false">解密並驗證備份</string>
+    <string name="native_d248f5eca9a5" formatted="false">備份可能包含 SSH 私密金鑰、API 金鑰和帳戶資料。至少使用 12 個字元。忘記的密碼無法恢復。</string>
+    <string name="native_f249422b9ec1" formatted="false">備份在私有目錄中解密和驗證。只有當您確認恢復後，您的環境才會被取代。</string>
+    <string name="native_e7be6841703a" formatted="false">備份密碼</string>
+    <string name="native_9f6aeedc5a00" formatted="false">重複密碼</string>
+    <string name="native_eafdc5cd4882" formatted="false">開始加密</string>
+    <string name="native_2986b88beade" formatted="false">解密並驗證</string>
+    <string name="native_0eddf4ad9b94" formatted="false">取消</string>
+    <string name="native_f46c5ed7412d" formatted="false">恢復整個之前的環境？</string>
+    <string name="native_33eda0946a5b" formatted="false">刪除加密的本機副本？</string>
+    <string name="native_26db24150f2e" formatted="false">項目、主頁、Debian 和會話將返回到上次恢復之前的狀態。最近的工作將保留在應用程式內的私人備份中。</string>
+    <string name="native_1153b30d51d5" formatted="false">僅刪除應用程式內的加密本機副本。保存在其他地方的文件仍然可用。</string>
+    <string name="native_427a78a4e69a" formatted="false">確認</string>
+    <string name="native_7af46d7ee003" formatted="false">恢復該工作站備份嗎？</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s 條目 · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">備份包含可執行的 Linux 軟體。確認您信任其來源。恢復更換整個環境並檢查本地服務；保留先前的環境以進行恢復。</string>
+    <string name="native_c3d74ed0c054" formatted="false">備份已驗證。等待恢復確認。</string>
+    <string name="native_97076078c749" formatted="false">同時啟用 Chromium 相容模式（停用 Linux 進程沙箱）</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">預設為關閉。您可以稍後在桌面設定中啟用它。</string>
+    <string name="native_ddf09383413c" formatted="false">確認恢復</string>
+    <string name="native_8e6056b0f629" formatted="false">取消導入</string>
+    <string name="native_63a895901c76" formatted="false">工作站環境已更改</string>
+    <string name="native_a4c994348a39" formatted="false">重新開啟工作區</string>
+    <string name="native_774947f0653e" formatted="false">取消任務</string>
+    <string name="native_e09a22b18445" formatted="false">任務中斷。再次選擇操作並輸入密碼。</string>
+    <string name="native_38c5fcc634db" formatted="false">首先在所有視窗中儲存檔案編輯。重試之前取消現有導入。</string>
+    <string name="native_029bfa8ff772" formatted="false">恢復工作站並驗證程序</string>
+    <string name="native_e4f04df818f8" formatted="false">處理您選擇的備份作業</string>
+    <string name="native_8206f072d5ee" formatted="false">停止 OpenCode、終端機和桌面，然後等待檔案操作完成。</string>
+    <string name="native_1a5cde18c609" formatted="false">無法開始備份工作，請回到前景再試一次。</string>
+    <string name="native_1553b714941d" formatted="false">解密並驗證備份。原來的環境仍可恢復…</string>
+    <string name="native_dafd005e953e" formatted="false">備份已驗證。在應用程式中確認恢復。</string>
+    <string name="native_9fb236184596" formatted="false">刪除了應用程式內的加密本機副本。</string>
+    <string name="native_f98e9ac348b6" formatted="false">作業已取消。保留原始環境資料。</string>
+    <string name="native_2a7a367ee0d2" formatted="false">操作不完整。檢查密碼、備份完整性、主機版本和可用空間。保留原始環境資料。</string>
+    <string name="native_29deabd28960" formatted="false">建立加密工作站備份...</string>
+    <string name="native_3d137e243806" formatted="false">已建立加密備份。選擇儲存位置。</string>
+    <string name="native_0e2ac9266ad6" formatted="false">恢復環境並檢查本機服務。保持應用程式資料完整...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">工作站已恢復。以前的環境保留在私人備份中。重新開啟工作區。</string>
+    <string name="native_0392cd6152d2" formatted="false">恢復檢查失敗。回到之前的環境；導入的資料保留在私人備份中。</string>
+    <string name="native_5dc7410b600e" formatted="false">恢復不完整。所有資料目錄均被保留。保留應用程式資料並重試恢復。</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">恢復之前的工作站環境...</string>
+    <string name="native_15821323ff89" formatted="false">恢復之前的環境。最近的工作仍保留在私人備份中。重新開啟工作區。</string>
+    <string name="native_56dd94f47870" formatted="false">無法撤銷此恢復。保留當前環境和備份。</string>
+    <string name="native_93530f3fa029" formatted="false">撤銷不完整。所有資料目錄均被保留。保留應用程式資料並重試恢復。</string>
+    <string name="native_f12963c80def" formatted="false">正在儲存加密備份...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">已儲存加密備份。您可以重新儲存本機副本或手動刪除。</string>
+    <string name="native_d660cccf65e0" formatted="false">正在清理未確認的導入...</string>
+    <string name="native_800592163979" formatted="false">進口已取消。原環境不變。</string>
+    <string name="native_5a90367eb834" formatted="false">進口已取消。原有環境不變；有些臨時導入資料保留在應用程式的私有目錄中。</string>
+    <string name="native_5cd50eb8b75b" formatted="false">正在準備解密和驗證...</string>
+    <string name="native_e9f2bea3118c" formatted="false">正在準備加密備份...</string>
+    <string name="native_7bd5a0c93818" formatted="false">無法啟動備份服務。在前台重試。</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">先恢復不完整的環境操作</string>
+    <string name="native_f14aea7c819c" formatted="false">無效的恢復記錄</string>
+    <string name="native_7c284c55ee08" formatted="false">遺失復原目錄</string>
+    <string name="native_bfc4792df15b" formatted="false">本機設定超出恢復記錄限制</string>
+    <string name="native_8d93770ba8c9">缺少先前的環境目錄：%1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">未知恢復階段</string>
+    <string name="native_20c5124fe175" formatted="false">未知恢復操作</string>
+    <string name="native_1c457322b624" formatted="false">沒有可恢復的先前環境</string>
+    <string name="native_30db1666c8e5" formatted="false">此備份屬於不同的應用程式</string>
+    <string name="native_6687d1c64d75" formatted="false">備份處理器架構不匹配</string>
+    <string name="native_b9b37d57fe6b" formatted="false">先將Android主機更新到本次備份所使用的版本</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">備份目錄不完整</string>
+    <string name="native_66106ab3e254" formatted="false">舊備份沒有可驗證的 OpenCode 發布者證明。使用該主機啟動原始環境，然後再次備份。</string>
+    <string name="native_bec13cc92982" formatted="false">開發環境系統動作</string>
+    <string name="native_65de80229626" formatted="false">Debian 請求系統操作</string>
+    <string name="native_5e38581cf19c" formatted="false">點擊查看並處理請求</string>
+    <string name="native_749d406d2c67" formatted="false">來自Debian開發環境</string>
+    <string name="native_4032d33b2afd" formatted="false">開啟系統瀏覽器？</string>
+    <string name="native_ce9491abbc6c" formatted="false">開啟本地專案預覽？</string>
+    <string name="native_53ce0dec7ef3" formatted="false">讀取剪貼簿？</string>
+    <string name="native_8dfca23f0aa0" formatted="false">複製到系統剪貼簿？</string>
+    <string name="native_77f761eb70aa" formatted="false">發送本地通知？</string>
+    <string name="native_e6b29e80abb7" formatted="false">共享專案文件嗎？</string>
+    <string name="native_9d36f698b3c1" formatted="false">導入系統檔？</string>
+    <string name="native_8f05ff8c2dea" formatted="false">匯出專案文件？</string>
+    <string name="native_7ac295421c6d" formatted="false">在瀏覽器中開啟</string>
+    <string name="native_bbdb6043b5e9" formatted="false">開啟預覽</string>
+    <string name="native_14792d6cd7a6" formatted="false">允許讀取</string>
+    <string name="native_b4caf8b99ddd" formatted="false">複製到剪貼簿</string>
+    <string name="native_4b3361a8c3a3" formatted="false">發送通知</string>
+    <string name="native_88152a09fa02" formatted="false">選擇分享應用</string>
+    <string name="native_7a49a79c57f9" formatted="false">選擇文件</string>
+    <string name="native_99d9f87419c5" formatted="false">選擇儲存位置</string>
+    <string name="native_23e5bb2090aa">%1$s\n使用與 OpenCode 隔離的瀏覽器資料開啟。</string>
+    <string name="native_ecf17eaad49e" formatted="false">將系統剪貼簿中的文字提供給目前的 Debian 程式。</string>
+    <string name="native_dcc6bec24e43">選擇要匯入 %1$s 的檔案。保留現有文件並重新命名重複文件。</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium瀏覽器模式</string>
+    <string name="native_4767f37900f6" formatted="false">相容模式使用單獨的瀏覽器設定檔並停用 Chromium 的 Linux 進程沙箱。瀏覽器仍然可以存取此應用程式內的文件。避免造訪不受信任的網站，重要帳號請使用Android系統瀏覽器。更改模式後重新開啟 Chromium。</string>
+    <string name="native_a4317f2699a2" formatted="false">標準 Linux 沙箱預設為啟用。如果Chromium無法啟動，您可以選擇相容模式。它會停用 Linux 進程沙箱並使用單獨的設定文件，同時保留對應用程式檔案的存取權限。避免造訪不受信任的網站；重要帳號請使用Android系統瀏覽器。</string>
+    <string name="native_3a2596fa9517" formatted="false">恢復標準模式</string>
+    <string name="native_eeb5e46d62ae" formatted="false">啟用相容模式</string>
+    <string name="native_9a45442649f5" formatted="false">Debian 桌面</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · 共享 /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">第一次安裝下載圖形元件。安裝後，桌面可以獨立於 OpenCode 啟動和停止。</string>
+    <string name="native_d8eb56c08cd5" formatted="false">中科大鏡子</string>
+    <string name="native_41e865941e16" formatted="false">官方 Debian 鏡像</string>
+    <string name="native_ea341b8a102b" formatted="false">初始分辨率</string>
+    <string name="native_ff1cde9ba35d" formatted="false">切換頁面時桌面保持運作。從運行時停止它。</string>
+    <string name="native_aadf816e2dc8" formatted="false">停止桌面任務</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">啟動桌面</string>
+    <string name="native_ea27a25e5114" formatted="false">安裝桌面組件</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium：相容模式</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium：標準模式</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">首先從運行時安裝 Debian 開發人員工具。</string>
+    <string name="native_d1fa7ef127a7" formatted="false">活動日誌</string>
+    <string name="native_bfaa904aa4d4" formatted="false">無法開啟專案資料夾。檢查該目錄是否存在。</string>
+    <string name="native_83c76743b29d" formatted="false">恢復中斷的環境操作</string>
+    <string name="native_739a730ae247" formatted="false">環境維護</string>
+    <string name="native_049281329843" formatted="false">等待更新維護或目前任務完成。</string>
+    <string name="native_07d5bdf94f1d" formatted="false">等待目前開發環境任務完成</string>
+    <string name="native_83099168971c" formatted="false">安裝桌面</string>
+    <string name="native_85e0c18dde8d" formatted="false">啟動桌面</string>
+    <string name="native_9a48f8196d8f" formatted="false">需要注意</string>
+    <string name="native_75470fb13121" formatted="false">已停止</string>
+    <string name="native_51a53c8109d5" formatted="false">無法讀取或儲存活動記錄。從運行時修復它或釋放一些存儲空間。</string>
+    <string name="native_d36a018cc619" formatted="false">先安裝Debian開發環境</string>
+    <string name="native_80be4c2928a5" formatted="false">先連接網絡</string>
+    <string name="native_a065d81014b1" formatted="false">桌面安裝不完整。重試安裝。</string>
+    <string name="native_721c38b32c35" formatted="false">桌面安裝。需要時啟動它。</string>
+    <string name="native_6c1c52771115" formatted="false">先安裝桌面元件</string>
+    <string name="native_693d90a47827" formatted="false">桌面操作失敗。詳細資訊太長或無法使用。</string>
+    <string name="native_d3e7be3c38fd" formatted="false">無法完成停止標記的儲存。進程清理仍在繼續。</string>
+    <string name="native_06083621a6ce" formatted="false">無法完成活動記錄的儲存。下次啟動時會將其視為中斷。</string>
+    <string name="native_04d721a3819a" formatted="false">桌面運行</string>
+    <string name="native_c3f0acaf7a73" formatted="false">桌面操作逾時。查看日誌並重試。</string>
+    <string name="native_e70d328a3ca9">桌面進程已退出 (%1$s)。查看活動日誌。</string>
+    <string name="native_df5c878f2852" formatted="false">本地圖形工作區</string>
+    <string name="native_7b0455a8daa4" formatted="false">停止桌面</string>
+    <string name="native_a62123cde9c7" formatted="false">任務中斷及恢復</string>
+    <string name="native_279308947a14" formatted="false">無法讀取活動記錄。修復保留損壞記錄的副本並保留專案、會話和 Linux 環境。</string>
+    <string name="native_2bd92fae24e5" formatted="false">維修活動紀錄</string>
+    <string name="native_6b43650c2c82" formatted="false">任務意外結束。</string>
+    <string name="native_acb0c970aaa6">%1$s 終端未正常關閉。他們的運行命令被打斷了。</string>
+    <string name="native_4ba153d8dff5" formatted="false">重啟已確認。以前的指令沒有重播。</string>
+    <string name="native_f03a2adbf5cd" formatted="false">保留已儲存的項目和會話。手動重新開啟終端機；未完成的命令不會自動恢復。</string>
+    <string name="native_fa9669296762" formatted="false">重啟 OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">桌面不會自動重新啟動。從桌面頁面再次啟動它。</string>
+    <string name="native_644f8f44251f" formatted="false">開啟文件</string>
+    <string name="native_9dfb5569d609" formatted="false">分享檔案</string>
+    <string name="native_a4500cff3a86" formatted="false">工作目錄不能是符號鏈接</string>
+    <string name="native_8657d27661bd" formatted="false">無效的工作目錄路徑</string>
+    <string name="native_02b702a9adff" formatted="false">選擇文件</string>
+    <string name="native_924874b746cc" formatted="false">管理終端機中的符號鏈接</string>
+    <string name="native_efea6e422a54" formatted="false">檔案名稱無效</string>
+    <string name="native_c4989dc37aab" formatted="false">目錄不存在</string>
+    <string name="native_d613dba39b44" formatted="false">目標目錄不存在</string>
+    <string name="native_4f9b3fb4920b" formatted="false">無法將資料夾放入自身或其後代中</string>
+    <string name="native_c3acd5a3254c" formatted="false">此項目包含特殊設備或套接字，無法複製</string>
+    <string name="native_6c36955b068b" formatted="false">選擇常規文件</string>
+    <string name="native_49191d7d489f" formatted="false">該檔案超過 2 MB。使用 OpenCode 或終端對其進行編輯。</string>
+    <string name="native_ee42414d36c2" formatted="false">檔案太大</string>
+    <string name="native_f0a979f87157" formatted="false">匯出二進位檔案以在另一個應用程式中開啟它們</string>
+    <string name="native_88a9c82651fc" formatted="false">使用 OpenCode 或終端機編輯非 UTF-8 的文件</string>
+    <string name="native_0189a5c3418c" formatted="false">另一個工具更改了此檔案。編輯前重新打開它。</string>
+    <string name="native_0ce79256f4ac" formatted="false">原目錄已不存在。先恢復一下吧</string>
+    <string name="native_46eae321049e" formatted="false">沒有可用的共享應用程式</string>
+    <string name="native_87d699d3a26c" formatted="false">資源回收筒</string>
+    <string name="native_d0a8c03d6c07" formatted="false">專案檔案</string>
+    <string name="native_4dcf914f0b64" formatted="false">刪除的檔案可以恢復到原來的目錄</string>
+    <string name="native_c5b81b02354f" formatted="false">返回</string>
+    <string name="native_e56b99379169">已複製 %1$s 檔案 · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">影印…</string>
+    <string name="native_85199bb36b04" formatted="false">取消操作</string>
+    <string name="native_e9dc52d1c24b" formatted="false">關閉</string>
+    <string name="native_4e1e5aacac7f" formatted="false">新工作階段</string>
+    <string name="native_23c250cc8e0b" formatted="false">在此開始 OpenCode 會話</string>
+    <string name="native_f22da21fd54f" formatted="false">終端機</string>
+    <string name="native_3645f30b3412" formatted="false">未儲存的更改</string>
+    <string name="native_2266227605c4" formatted="false">儲存</string>
+    <string name="native_064fbc7ad3f3" formatted="false">垃圾箱為空</string>
+    <string name="native_a9e739b13e52" formatted="false">恢復</string>
+    <string name="native_45985dc2183e" formatted="false">移動：</string>
+    <string name="native_31214130b5b7" formatted="false">複製：</string>
+    <string name="native_07e5c3158f35" formatted="false">貼上</string>
+    <string name="native_831b4e0fb574" formatted="false">新款</string>
+    <string name="native_ff65a22d7087" formatted="false">新增資料夾</string>
+    <string name="native_71faed44a86c" formatted="false">新增檔案</string>
+    <string name="native_8dddd460f6ae" formatted="false">進口</string>
+    <string name="native_d85825123e60" formatted="false">刷新</string>
+    <string name="native_ac9d73843736" formatted="false">搜尋該目錄</string>
+    <string name="native_21eef82963ee" formatted="false">該目錄為空。導入文件或建立專案。</string>
+    <string name="native_e8a4cecaa371" formatted="false">沒有符合的文件</string>
+    <string name="native_d674bc0f86b8" formatted="false">檔案操作</string>
+    <string name="native_d04a47c87cc8" formatted="false">符號鏈接</string>
+    <string name="native_e0ba66f5246a" formatted="false">資料夾</string>
+    <string name="native_f170b42599e8" formatted="false">重新命名</string>
+    <string name="native_4cdacf57ead2" formatted="false">複製</string>
+    <string name="native_124aa030694e" formatted="false">移至...</string>
+    <string name="native_ac990518ed87" formatted="false">在此開啟終端</string>
+    <string name="native_87bc93932d8a" formatted="false">匯出到系統文件</string>
+    <string name="native_dd37f132172f" formatted="false">移至垃圾箱</string>
+    <string name="native_7318746d337c" formatted="false">移至垃圾箱？</string>
+    <string name="native_2b5ee3f10a56">您可以从垃圾箱中恢复“%1$s”。</string>
+    <string name="native_e49730c9e7e1" formatted="false">移動</string>
+    <string name="native_4e47aaa113fc" formatted="false">放棄未儲存的變更？</string>
+    <string name="native_63b75399ef1a" formatted="false">捨棄變更</string>
+    <string name="native_d9618f7b8d25" formatted="false">繼續編輯</string>
+    <string name="native_76ce6aef5479" formatted="false">名稱</string>
+    <string name="native_35b0fc30b909" formatted="false">好的</string>
+    <string name="native_11b319774788" formatted="false">環境已恢復。重新開啟工作區。</string>
+    <string name="native_7e4a5bcb0461" formatted="false">先完成Runtime中中断操作的恢复</string>
+    <string name="native_f29af06e7c99" formatted="false">環境維護中。稍後重試。</string>
+    <string name="native_3bd28258feb0" formatted="false">操作取消</string>
+    <string name="native_c508721eb3cd" formatted="false">同名的檔案已存在。選擇另一個名稱。</string>
+    <string name="native_1e8274fe468a" formatted="false">該檔案不再存在。刷新目錄。</string>
+    <string name="native_ac05dcaad6ed" formatted="false">檔案存取權限被拒絕</string>
+    <string name="native_cd808e4c321e" formatted="false">無法完成操作</string>
+    <string name="native_01cbe9be8b9f" formatted="false">操作不完整。檢查可用儲存空間或再次選擇檔案。</string>
+    <string name="native_3f9983126fd7" formatted="false">在Runtime中检查OpenCode启动状态</string>
+    <string name="native_6ed9fe2281bb" formatted="false">無法開啟新終端。檢查會話數。</string>
+    <string name="native_2160fde3813a" formatted="false">管理終端機中的符號連結。文件管理器不追蹤連結。</string>
+    <string name="native_7a844e9d4017" formatted="false">搬遷完成</string>
+    <string name="native_573877894fcf" formatted="false">複製完成</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">已移至垃圾箱</string>
+    <string name="native_862330af933f" formatted="false">恢復到原目錄</string>
+    <string name="native_beda23c9d52b" formatted="false">發生環境維護或更換。編輯前重新開啟工作區。</string>
+    <string name="native_678c6953bb2b" formatted="false">已儲存</string>
+    <string name="native_8063159f2178" formatted="false">无法读取所选文件</string>
+    <string name="native_4cdc2180d2ac">已导入 %1$s 个文件</string>
+    <string name="native_e98763643b93" formatted="false">无法写入所选位置</string>
+    <string name="native_5afd173be7fa" formatted="false">匯出完成</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">程式碼與工作階段</string>
+    <string name="native_8745ed51cadd" formatted="false">桌上型電腦</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">圖形工作區</string>
+    <string name="native_770d49c5f689" formatted="false">檔案</string>
+    <string name="native_6a9b6480b58f" formatted="false">執行環境</string>
+    <string name="native_b561fe9204cc" formatted="false">服務與開發工具</string>
+    <string name="native_70850bdeeabd" formatted="false">关闭页面菜单</string>
+    <string name="native_b4549acb48e8" formatted="false">工作空間</string>
+    <string name="native_3d3551f4660f">浮動按鈕不透明度%1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">較低的值使浮動按鈕更透明</string>
+    <string name="native_e031beabfc9a" formatted="false">開啟頁面選單</string>
+    <string name="native_106ee775b538" formatted="false">正在連線到本機 OpenCode...</string>
+    <string name="native_a021adc1f449" formatted="false">本地连接需要恢复</string>
+    <string name="native_dacb8837471c" formatted="false">重新連接</string>
+    <string name="native_17584aa60ae6" formatted="false">无法准备本地资源缓存</string>
+    <string name="native_3b3b80064ccb" formatted="false">正在准备本地 OpenCode...</string>
+    <string name="native_2560ee8fdd16" formatted="false">重試</string>
+    <string name="native_b07809340403" formatted="false">工作区位置尚未保存。稍後重試。</string>
+    <string name="native_e4ab10392d05" formatted="false">本地服务准备就绪。連線後，您的工作區將自動開啟。</string>
+    <string name="native_20ea15973287" formatted="false">上次运行被中断。從運行時重新啟動；終端命令不會自動重播。</string>
+    <string name="native_f2f2f6d32544" formatted="false">從運行時啟動 OpenCode 以開啟程式碼和會話。</string>
+    <string name="native_abbac5c22111" formatted="false">退出应用程序吗？</string>
+    <string name="native_fd8eb11aab0a" formatted="false">開發環境可以在背景持續運作。稍後從通知中返回。</string>
+    <string name="native_814a8fb24b62" formatted="false">退出当前工作区？</string>
+    <string name="native_a76464945c2d" formatted="false">也停止開發環境</string>
+    <string name="native_b814fd8d6bc5" formatted="false">退出</string>
+    <string name="native_b00143b08ff1" formatted="false">開發工作站就緒</string>
+    <string name="native_51bca456a350" formatted="false">您的 Debian 開發工作站</string>
+    <string name="native_0c2acd0b6057" formatted="false">運行</string>
+    <string name="native_cb40c67e7cb1" formatted="false">啟動</string>
+    <string name="native_44da7f6a451d" formatted="false">停止</string>
+    <string name="native_b7e1503a7239" formatted="false">修復開發環境</string>
+    <string name="native_7c91bd67ff14" formatted="false">安裝開發環境</string>
+    <string name="native_cfd73bb04860" formatted="false">停止環境</string>
+    <string name="native_e7ec95694dce" formatted="false">啟動 OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">檢查環境</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">更新 Debian 開發者工具</string>
+    <string name="native_c114ec62712b" formatted="false">保留先前的環境備份、專案和會話資料。</string>
+    <string name="native_eb3114155716" formatted="false">安裝/更新語言伺服器</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) 和 Python (pylsp)，從簽署的 Debian 儲存庫線上安裝。首先停止 OpenCode 和桌面。</string>
+    <string name="native_2c7251cce661" formatted="false">點選浮動按鈕可切換頁面。拖曳它以重新定位它。</string>
+    <string name="native_dcef145e6a9b" formatted="false">啟動後，此處顯示運行時資訊。</string>
+    <string name="native_a8243a4e0d22" formatted="false">開放運行時</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">捆綁APK版本</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode 更新</string>
+    <string name="native_36ab16248f65" formatted="false">匯入由該應用程式的發布者簽署的 .ocaupdate。官方前端和後端一起更新。</string>
+    <string name="native_8aad48b0508d" formatted="false">更新來源 (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">檢查更新來源</string>
+    <string name="native_f73973cfadbb">已簽名版本：%1$s\n提交：%2$s·%3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">下載並驗證</string>
+    <string name="native_f2ef7965bf12" formatted="false">選擇更新包</string>
+    <string name="native_165111adfe2c">準備安裝：%1$s\n提交：%2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">安裝此更新</string>
+    <string name="native_f9432c4d9b1e" formatted="false">恢復更新前的版本和會話</string>
+    <string name="native_6864335de653" formatted="false">取消更新</string>
+    <string name="native_5e3472cf084e" formatted="false">安裝 OpenCode 更新嗎？</string>
+    <string name="native_816bf3635d53" formatted="false">恢復更新前的狀態嗎？</string>
+    <string name="native_11beb4a42abc">安裝%1$s。該應用程式保存會話快照，檢查簽署的程式並在失敗時恢復先前的版本。項目文件被保留。</string>
+    <string name="native_bc7b4149e7d2" formatted="false">會話回到此更新之前的狀態。最近的會話保留在私人備份中。項目文件被保留。</string>
+    <string name="native_def5e273616d" formatted="false">確認安裝</string>
+    <string name="native_369d2eefccde" formatted="false">無法隔離預覽瀏覽器資料。重新打開預覽。</string>
+    <string name="native_c3ac77c50f0b" formatted="false">無法載入專案頁面。檢查終端機中的開發伺服器。</string>
+    <string name="native_6e7408950cf5" formatted="false">預覽專案網站</string>
+    <string name="native_bfb4951e071d" formatted="false">專案預覽</string>
+    <string name="native_f80652913d06" formatted="false">在終端機中啟動開發伺服器，然後輸入其本機連接埠。預覽瀏覽器資料與 OpenCode 隔離。</string>
+    <string name="native_2c41e85af61f" formatted="false">端口</string>
+    <string name="native_77c3a828a5c5" formatted="false">輸入從 1024 到 65535 的開發端口，不包括 OpenCode 和桌面服務。</string>
+    <string name="native_7311a9dfea51" formatted="false">沒有任何內容正在偵聽此連接埠。檢查終端中的服務。</string>
+    <string name="native_4f8d84105475" formatted="false">正在檢查...</string>
+    <string name="native_4923c272b68e" formatted="false">開發埠必須是整數</string>
+    <string name="native_04a87026e81f" formatted="false">選擇有效的專案開發端口</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode 開發會議</string>
+    <string name="native_e87a4529ab82" formatted="false">開發環境安裝</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian 更新</string>
+    <string name="native_0c6301bc295d" formatted="false">開發環境修復</string>
+    <string name="native_0ddf3d4297eb" formatted="false">開發環境檢查</string>
+    <string name="native_9612d4419bb6" formatted="false">語言伺服器安裝</string>
+    <string name="native_f72fba77f87a" formatted="false">環境恢復</string>
+    <string name="native_7c8162195c7c" formatted="false">桌面安裝</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">上次運作中斷。從運行時明確重新啟動。</string>
+    <string name="native_22b3b2e8ffad" formatted="false">此類型開發任務仍在運行</string>
+    <string name="native_95a56e0a3fe2" formatted="false">修復活動記錄</string>
+    <string name="native_b66749ed72ea" formatted="false">進程退出</string>
+    <string name="native_6b25042064e2" formatted="false">由訊號終止</string>
+    <string name="native_d6febdf1752b" formatted="false">由於記憶體不足而被回收</string>
+    <string name="native_1d13790f3c89" formatted="false">應用程式崩潰</string>
+    <string name="native_28db94d1850d" formatted="false">本機進程崩潰</string>
+    <string name="native_86919539f7f1" formatted="false">應用程式沒有回應</string>
+    <string name="native_90fb8d6098a5" formatted="false">初始化失敗</string>
+    <string name="native_38c60ab6654c" formatted="false">權限已更改</string>
+    <string name="native_6d2a6c71334d" formatted="false">資源限制</string>
+    <string name="native_19b2090b01a8" formatted="false">用戶請求停止</string>
+    <string name="native_120d96445f1a" formatted="false">被用戶停止</string>
+    <string name="native_3c8af14f66bc" formatted="false">依賴進程退出</string>
+    <string name="native_ca0941ce04ae" formatted="false">其他系統原因</string>
+    <string name="native_2df1ac3c1d38" formatted="false">過程凍結</string>
+    <string name="native_0d48373023a8" formatted="false">應用程式狀態已更改</string>
+    <string name="native_c752307db26b" formatted="false">應用程式更新</string>
+    <string name="native_b5015951cbdf" formatted="false">系統未提供退出原因</string>
+    <string name="native_b62737b826ad">系統退出（%1$s）</string>
+    <string name="native_342b2b592f34" formatted="false">無法開啟專案目錄</string>
+    <string name="native_faf5d983c13e" formatted="false">無法建立 OpenCode 會話</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode 會話目錄不匹配</string>
+    <string name="native_ac19736908a2" formatted="false">無法讀取 OpenCode 會話</string>
+    <string name="native_2642997cfeec" formatted="false">環境維護</string>
+    <string name="native_f992d735d932" formatted="false">停止 OpenCode、終端機和 Debian 桌面，然後等待檔案作業完成</string>
+    <string name="native_489f137f1080" formatted="false">環境維護鎖定不再有效</string>
+    <string name="native_42380e2567fc" formatted="false">中斷的操作已恢復。重新開啟工作區。</string>
+    <string name="native_17b00cac2b91" formatted="false">本機連線復原失敗。從運行時重試。</string>
+    <string name="native_77e9ca4e944c" formatted="false">環境維護中。稍後重試。</string>
+    <string name="native_dbaebe3ce243" formatted="false">更新開發環境之前停止Debian桌面</string>
+    <string name="native_548085b144c9" formatted="false">中斷的操作已恢復。就可以啟動開發環境了。</string>
+    <string name="native_b4a1531f9eac" formatted="false">上次運作中斷。終端命令不會自動重播。從運行時明確重新啟動。</string>
+    <string name="native_295cafdfd512" formatted="false">臨時連線設定清理不完整。進程清理仍在繼續。</string>
+    <string name="native_ab16cdc08a8e" formatted="false">無法建立 helloworld 工作區。檢查目錄和可用空間。</string>
+    <string name="native_68301868225a" formatted="false">之前的工作空间目录不可用。開啟helloworld。</string>
+    <string name="native_b33b3ca277eb" formatted="false">預設項目尚未準備好。從文件重試。</string>
+    <string name="native_45d6ab452622" formatted="false">安裝語言伺服器</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ and Python language servers are ready.啟動 OpenCode 以使用 LSP。</string>
+    <string name="native_5ea1653deef8" formatted="false">The terminal activity record was not saved.進程終止後建立一個新終端。</string>
+    <string name="native_1978b311a9ff" formatted="false">Could not finish saving the terminal exit record.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode更新下載</string>
+    <string name="native_06f76cca8fb9" formatted="false">正在連接更新來源...</string>
+    <string name="native_8c39baf28e08" formatted="false">無法連接到更新來源。 Check the network, publisher signature, host version and free space.</string>
+    <string name="native_0bedbc8d185d" formatted="false">下載逾時</string>
+    <string name="native_f75850093535">下載：%1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">正在驗證發布者簽章...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">正在下載更新包...</string>
+    <string name="native_2f9cd52dc66a">有效發佈者簽名：%1$s。下載前查看。</string>
+    <string name="native_17548865632c" formatted="false">Download, release metadata and package signature verified.確認安裝。</string>
+    <string name="native_180cec958e7a" formatted="false">下載已取消。保留原始版本。</string>
+    <string name="native_8df045f8ac12" formatted="false">下載已停止。保留原始版本。</string>
+    <string name="native_778803f1c6bb" formatted="false">取消下載</string>
+    <string name="native_2958898ce6f4" formatted="false">新版本未透過本機啟動、版本或驗證檢查。將恢復先前的版本。</string>
+    <string name="native_cc876dfbb261" formatted="false">試用過程仍在進行中。等待恢復後再重試。</string>
+    <string name="native_adf977dcb47e" formatted="false">更新記錄標識符無效</string>
+    <string name="native_5207cac670b7" formatted="false">Installed standalone OpenCode size does not match</string>
+    <string name="native_cf5b81887589" formatted="false">Installed standalone OpenCode checksum does not match.恢復之前的版本。</string>
+    <string name="native_393049b506cc" formatted="false">The original program has no matching publisher proof.之前的狀態不變。</string>
+    <string name="native_c5853bcfd56c" formatted="false">Recover the previous interrupted update first</string>
+    <string name="native_91d8da5525fa" formatted="false">The update package changed after confirmation</string>
+    <string name="native_093f2c091a30" formatted="false">儲存空間不足。原版不變。</string>
+    <string name="native_fc9bc82e0872" formatted="false">沒有可恢復的更新備份</string>
+    <string name="native_a9f4d9903c14" formatted="false">The backup does not match the running version</string>
+    <string name="native_6caa23763a42" formatted="false">之前的程式驗證失敗。目前會話不變。</string>
+    <string name="native_c8b71b876695" formatted="false">A later APK or Debian update replaced the bundled program.保留原有會話備份；先恢復對應的程式。</string>
+    <string name="native_c443df40964b" formatted="false">無效的更新恢復操作</string>
+    <string name="native_9071f05d58b3" formatted="false">Preparing OpenCode update…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Stop OpenCode, terminals and the desktop, then wait for them to exit.</string>
+    <string name="native_90c07b54f8f8" formatted="false">儲存狀態、驗證程式、切換版本</string>
+    <string name="native_5fc065ef6f50" formatted="false">Could not start the update maintenance service.</string>
+    <string name="native_f7b560c8c820" formatted="false">Verifying and staging the official program…</string>
+    <string name="native_9606191c82dc" formatted="false">Preserving the original program and publisher signature…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Saving session state snapshot…</string>
+    <string name="native_0c8cf4632889" formatted="false">切換版本並驗證本機服務...</string>
+    <string name="native_3e81ea691a4a" formatted="false">正在恢復更新之前的版本和會話...</string>
+    <string name="native_856de41d3bf3" formatted="false">恢復 OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">更新 OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">恢復了先前的版本和會話。最近的會話保留在私人備份中。</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode 更新完成。啟動將使用匹配的官方前端和後端。</string>
+    <string name="native_4693930f5802" formatted="false">更新已取消。確認已恢復原始狀態。</string>
+    <string name="native_d0e37bc26edd" formatted="false">更新不完整。現在正在康復中；保留原始程式和會話備份。</string>
+    <string name="native_9a32d6c2d207" formatted="false">恢復不完整。所有狀態目錄均保留。保留您的資料並重試啟動以恢復。</string>
+    <string name="native_49ad3eeae83d" formatted="false">會話恢復已完成。更新的狀態保留在備份中。</string>
+    <string name="native_67c08a2911e1" formatted="false">復原無法繼續使用此備份或原始程式。目前會話和備份不變。</string>
+    <string name="native_976d8c169cfa" formatted="false">更新已取消或失敗。恢復了原始版本和會話。</string>
+    <string name="native_7ac77d1513fc" formatted="false">正在驗證更新包簽章和完整性...</string>
+    <string name="native_0aa018b7337b" formatted="false">無法讀取所選文件</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">更新包太大</string>
+    <string name="native_f068b83f40bf" formatted="false">簽章和套件已驗證。安裝前檢查版本。</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">無法匯入：檔案無效、簽章不符、主機版本不相容或儲存空間不足。</string>
+    <string name="native_616412e65df4" formatted="false">官方程式與其發布者證明不符</string>
+    <string name="native_4bf19a158f27" formatted="false">獨立運行時套件僅支援 ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">更新簽章不屬於該APK</string>
+    <string name="native_c7273354727f" formatted="false">更新檔案超出其聲明的大小</string>
+    <string name="native_2aa6c8e74abb" formatted="false">更新程式校驗與不匹配</string>
+    <string name="native_dd619076d456" formatted="false">更新套件大小無效</string>
+    <string name="native_20c5bdfeffc0" formatted="false">壓縮更新包大小不匹配</string>
+    <string name="native_1de24edffcf5" formatted="false">更新包包含額外條目</string>
+    <string name="native_c5b339aa77e8" formatted="false">不相容的更新來源或架構</string>
+    <string name="native_89d585f3661f" formatted="false">在安裝此更新之前升級 Android 應用程式</string>
+    <string name="native_800df084dea0" formatted="false">更新存檔校驗與不匹配</string>
+    <string name="native_ddf1a005e310" formatted="false">此 APK 簽章格式不支援獨立運行時更新</string>
+    <string name="native_172e063db474" formatted="false">更新套件條目無效</string>
+    <string name="native_1c08780aa99f" formatted="false">更新元資料必須使用整數</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">更新程式不是64位元Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">更新程式不符合16 KiB ELF對齊</string>
+    <string name="native_3afa3741911b" formatted="false">更新程式缺少 Debian glibc 載入程序</string>
+    <string name="native_6b0b9e864f5b" formatted="false">輸入有效的 HTTPS 更新來源</string>
+    <string name="native_c274c7dd5900" formatted="false">更新來源需要 HTTPS URL，無需使用者憑證</string>
+    <string name="native_f459f5ec9dac" formatted="false">更新來源欄位無效</string>
+    <string name="native_bde2a736e30a" formatted="false">先升級Android主機</string>
+    <string name="native_b980fd021bef" formatted="false">更新目錄無效</string>
+    <string name="native_c0e96727553e" formatted="false">更新檔無效</string>
+    <string name="native_86ff542c68ed" formatted="false">在此狀態下無法切換更新目錄</string>
+    <string name="native_fbf82dc7ef22" formatted="false">會話狀態指的是外部目錄。無法安全地測試更新。</string>
+    <string name="native_796dc6b7ca29" formatted="false">儲存空間不足。原狀態不變。</string>
+    <string name="native_099801d672b1" formatted="false">下載已取消</string>
+    <string name="native_f1304f707ec9" formatted="false">更新重定向過多</string>
+    <string name="native_0d07f458b607" formatted="false">更新伺服器未傳輸原始位元組</string>
+    <string name="native_de331dfd8908" formatted="false">更新檔長度不匹配</string>
+    <string name="native_416b8c87e69e" formatted="false">更新檔未完全下載</string>
+    <string name="native_e1e74b76c427" formatted="false">更新伺服器未回傳完整文件</string>
+    <string name="native_6afcf03cb130" formatted="false">更新暫存空間不足</string>
+    <string name="native_be1c695d9241" formatted="false">更新檔 SHA-256 不匹配</string>
+    <string name="native_a0133d117bb0" formatted="false">更新包與確認的發布資訊不符</string>
+    <string name="native_8635a43ce28a" formatted="false">無效的項目目錄</string>
+    <string name="native_d32ab8b004e6" formatted="false">無法儲存工作區位置</string>
+    <string name="native_43a5447014fd" formatted="false">在開啟終端之前從運行時啟動開發環境。</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ 新終端</string>
+    <string name="native_b3b7108a568f" formatted="false">閉合電流</string>
+    <string name="native_0e822affd5da">初始目錄：%1$s</string>
+    <string name="native_72d769e3888d">新終端目錄：%1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">系統檔案選擇器不可用</string>
+    <string name="native_179a57921f91" formatted="false">WebView渲染設置</string>
+    <string name="native_3024ec603eb7" formatted="false">渲染幀率</string>
+    <string name="native_55b6d7f645f3" formatted="false">首選 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">跟隨顯示更新率</string>
+    <string name="native_d4ecf38c341d" formatted="false">優選 60 Hz 以減少高更新率顯示器上的渲染負載。跟隨顯示讓系統安排幀。僅適用於該應用程式的視窗。</string>
+    <string name="native_bf0d3a407418" formatted="false">未安裝</string>
+    <string name="native_2fb8edc75b25" formatted="false">就緒</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">驗證裝載機</string>
+    <string name="native_d1017c1eac80" formatted="false">安裝 Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">本機開發環境</string>
+    <string name="native_55aa84065de2" formatted="false">本地 Debian 開發會議</string>
+    <string name="native_6e75b1822ebc" formatted="false">停止</string>
+    <string name="native_5f73a4e1e494" formatted="false">已安裝</string>
+    <string name="native_147e90d2ec02" formatted="false">恢復中</string>
+</resources>

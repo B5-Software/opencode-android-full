@@ -1,0 +1,31 @@
+From: OpenCode Android Full contributors
+Subject: [PATCH] Read fork-event payload before other ptrace requests
+
+Some Android kernels invalidate event payloads after another ptrace request.
+Fetching registers before the event's child PID needlessly forces the slow
+pending-child fallback, which is especially problematic for vfork parents.
+Read the payload first and retain the existing fallback for kernels which
+cannot supply it at all.
+
+--- a/src/tracee/tracee.c
++++ b/src/tracee/tracee.c
+@@ -588,6 +588,10 @@
+ {
+ 	unsigned long pid = 0;
+ 	int status;
++	int event_status;
++
++	/* Preserve the event before GETREGSET or PEEKDATA can invalidate it. */
++	event_status = ptrace(PTRACE_GETEVENTMSG, parent->pid, NULL, &pid);
+ 
+ 	/* If the tracee calls clone(2) with the CLONE_VFORK flag,
+ 	 * PTRACE_EVENT_VFORK will be delivered instead [...];
+@@ -616,7 +620,6 @@
+ 	 * the child's own stop when @parent can't get there before the
+ 	 * child has run, ie. when blocked in vfork(2).  */
+-	status = ptrace(PTRACE_GETEVENTMSG, parent->pid, NULL, &pid);
+-	if (status < 0 || pid == 0) {
++	if (event_status < 0 || pid == 0) {
+ 		VERBOSE(parent, 1, "vpid %" PRIu64 ": fork event without the child's pid",
+ 			parent->vpid);
+ 		parent->pending_child = true;

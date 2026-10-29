@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "keyringSha256": "506b815cbb32d9b6066b4a2aa524071e071761e7e7f68c3ac74f3061ba852017",
+  "keyringOrigin": "usr/share/keyrings/debian-archive-keyring.pgp in the pinned Debian APK rootfs",
+  "fingerprintReference": "https://ftp-master.debian.org/keys.html",
+  "primaryFingerprints": {
+    "debian": ["04B54C3CDCA79751B16BC6B5225629DF75B188BD", "41587F7DB8C774BCCF131416762F67A0B2C39DE4"],
+    "debian-security": ["5E04A1E3223A19A20706E20F9904613D4CCE68C6"]
+  }
+}

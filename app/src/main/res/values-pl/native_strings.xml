@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Obszar roboczy programowania</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Pulpit</string>
+    <string name="native_7f1c02616d60" formatted="false">Pojedyncza strona</string>
+    <string name="native_651ae6ea52ae" formatted="false">Przywróć podzielony widok</string>
+    <string name="native_d7e97cfac66f" formatted="false">Układ przestrzeni roboczej</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Poszerz okno, aby wyświetlić wiele paneli razem.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Pokaż pliki projektu</string>
+    <string name="native_712d956931d1" formatted="false">Pokaż terminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal poniżej</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal po prawej stronie\n[0010] Panele zwijają się, gdy przestrzeń jest ograniczona i pozostają dostępne z pływającego menu. Terminal boczny pojawia się w szerszych oknach. Przeciągnij separatory, aby zmienić rozmiar paneli.</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Panele zwijają się, gdy przestrzeń jest ograniczona i pozostają dostępne z pływającego menu. Terminal boczny pojawia się w szerszych oknach. Przeciągnij separatory, aby zmienić rozmiar paneli.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Lewy Alt: 1–5 stron · Pliki B · Terminal T · M Pulpit · Wprowadź Pojedynczy/Podział · \\\\ Układ</string>
+    <string name="native_7a129a94c6ff" formatted="false">Gotowe</string>
+    <string name="native_bcec2218fc21" formatted="false">Zresetuj proporcje</string>
+    <string name="native_da88c62d1217">Pokaż %1$s na jednej stronie</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Dzielnik plików projektu</string>
+    <string name="native_707c0891a0e6" formatted="false">Rozdzielacz terminala</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode i rozdzielacz pulpitu</string>
+    <string name="native_50407ad8dfa8" formatted="false">Zmniejsz poprzedni panel</string>
+    <string name="native_b72c5c02a666" formatted="false">Powiększ poprzedni panel</string>
+    <string name="native_3f3685e8d731" formatted="false">Zbyt wiele linków PRoot dla tego formatu archiwum</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux wymagają kompletnego rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Zagnieżdżenie katalogu kopii zapasowych jest zbyt głębokie</string>
+    <string name="native_b6f744737a45" formatted="false">Nieprawidłowa długość hasła zapasowego</string>
+    <string name="native_13bde5dd1812" formatted="false">Hasło zapasowe musi zawierać co najmniej 12 znaków</string>
+    <string name="native_be02cbd55932" formatted="false">Nieobsługiwany format kopii zapasowej</string>
+    <string name="native_7a91a3d586ae" formatted="false">Nieprawidłowy nagłówek kopii zapasowej</string>
+    <string name="native_2bbd318a5667" formatted="false">Nieobsługiwane parametry szyfrowania kopii zapasowych</string>
+    <string name="native_18868da27841" formatted="false">Nieprawidłowe hasło kopii zapasowej lub uszkodzony plik</string>
+    <string name="native_e41d6440468d" formatted="false">Zapis odzyskiwania jest zbyt duży</string>
+    <string name="native_282692502f14" formatted="false">Metadane kopii zapasowej są zbyt duże</string>
+    <string name="native_61fdca8d6c82" formatted="false">Zagnieżdżenie metadanych kopii zapasowej jest zbyt głębokie</string>
+    <string name="native_8cefb30732d4" formatted="false">Nieprawidłowe metadane kopii zapasowej</string>
+    <string name="native_5d3037708cad" formatted="false">Nieobsługiwane ustawienia natywne</string>
+    <string name="native_81a57c382f9d" formatted="false">Nie można zapisać ustawień natywnych</string>
+    <string name="native_50603e683d4a" formatted="false">Nieprawidłowy katalog nadrzędny w ścieżce kopii zapasowej</string>
+    <string name="native_c3f838a46b8e" formatted="false">Katalog główny stacji roboczej nie może być dowiązaniem symbolicznym</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Plik został zmieniony podczas tworzenia kopii zapasowej</string>
+    <string name="native_77e1e85147db" formatted="false">Nieobsługiwany format danych stacji roboczej</string>
+    <string name="native_a927b5a565af" formatted="false">Kopia zapasowa zawiera dodatkowe dane</string>
+    <string name="native_c2b886d508f2" formatted="false">Kopia zapasowa zawiera zduplikowane ścieżki</string>
+    <string name="native_3dab8cd60102" formatted="false">Kopia zapasowa zawiera ustawienia środowiska wykonawczego, których nie można migrować</string>
+    <string name="native_f45ba674a630" formatted="false">Kopia zapasowa jest zbyt duża lub pamięć jest niewystarczająca</string>
+    <string name="native_140073e8e77b" formatted="false">Nie można było przywrócić znaczników czasu dowiązań symbolicznych</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nie można było przywrócić znaczników czasu nazwanych potoków</string>
+    <string name="native_0daee8026db1" formatted="false">Tworzenie kopii zapasowych i przywracanie stacji roboczej</string>
+    <string name="native_1acc18928c5f" formatted="false">Obejmuje Debiana, narzędzia programistyczne, projekty, stronę główną, sesje i ustawienia OpenCode, dane przeglądarki Linux i ustawienia układu natywnego.</string>
+    <string name="native_62254d31a535" formatted="false">Pliki tymczasowe i stare kopie zapasowe są wykluczone. Pamięć Android WebView i niewysłane wersje robocze pozostają na tym urządzeniu i nie są przenoszone wraz z tą kopią zapasową.</string>
+    <string name="native_808eabc7811f" formatted="false">Utwórz zaszyfrowaną kopię zapasową</string>
+    <string name="native_201c10b38296" formatted="false">Importuj kopię zapasową</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Najpierw zapisz zmiany w edytorze plików.</string>
+    <string name="native_0559cd596453" formatted="false">Zatrzymaj OpenCode, terminale i pulpit\n[0052]] Operacja środowiskowa jest niekompletna. Najpierw go odzyskaj.</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Operacja środowiskowa jest niekompletna. Najpierw go odzyskaj.</string>
+    <string name="native_185f58156330" formatted="false">Odzyskaj niekompletną operację</string>
+    <string name="native_20831b6f67a7" formatted="false">Cofnij ostatnie przywracanie środowiska</string>
+    <string name="native_4f392d5d6141">Zaszyfrowana kopia lokalna: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Zapisz do pliku</string>
+    <string name="native_f09619351eb9" formatted="false">Usuń kopię lokalną</string>
+    <string name="native_85c686eb9841">Przetworzono %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Anuluj zadanie tworzenia kopii zapasowej</string>
+    <string name="native_66c9d896407b" formatted="false">Szyfruj kopię zapasową stacji roboczej</string>
+    <string name="native_548cd9f0831e" formatted="false">Odszyfruj i zweryfikuj kopię zapasową</string>
+    <string name="native_d248f5eca9a5" formatted="false">Kopie zapasowe mogą zawierać klucze prywatne SSH, klucze API i dane konta. Użyj co najmniej 12 znaków. Zapomnianego hasła nie można odzyskać.</string>
+    <string name="native_f249422b9ec1" formatted="false">Kopia zapasowa jest odszyfrowywana i weryfikowana w prywatnym katalogu. Twoje środowisko zostanie zastąpione dopiero po potwierdzeniu przywrócenia.</string>
+    <string name="native_e7be6841703a" formatted="false">Hasło zapasowe</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Powtórz hasło</string>
+    <string name="native_eafdc5cd4882" formatted="false">Rozpocznij szyfrowanie</string>
+    <string name="native_2986b88beade" formatted="false">Odszyfruj i zweryfikuj</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Anuluj</string>
+    <string name="native_f46c5ed7412d" formatted="false">Przywrócić całe poprzednie środowisko?</string>
+    <string name="native_33eda0946a5b" formatted="false">Usunąć zaszyfrowaną kopię lokalną?</string>
+    <string name="native_26db24150f2e" formatted="false">Projekty, home, Debian i sesje powrócą do stanu sprzed ostatniego przywrócenia. Nowsze prace pozostaną w prywatnej kopii zapasowej w aplikacji.</string>
+    <string name="native_1153b30d51d5" formatted="false">Usuwana jest tylko zaszyfrowana kopia lokalna wewnątrz aplikacji. Pliki zapisane gdzie indziej pozostają dostępne.</string>
+    <string name="native_427a78a4e69a" formatted="false">Potwierdź</string>
+    <string name="native_7af46d7ee003" formatted="false">Przywrócić kopię zapasową tej stacji roboczej?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s wpisów · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Kopia zapasowa zawiera wykonywalne oprogramowanie Linux. Potwierdź, że ufasz jego źródłu. Renowacja zastępuje całe środowisko i sprawdza lokalne usługi; poprzednie środowisko jest zachowywane do odzyskania.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Kopia zapasowa zweryfikowana. Czekam na potwierdzenie przywrócenia.</string>
+    <string name="native_97076078c749" formatted="false">Włącz także tryb zgodności z Chromium (wyłącza piaskownicę procesów w systemie Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Domyślnie wyłączone. Możesz włączyć tę opcję później w ustawieniach pulpitu.</string>
+    <string name="native_ddf09383413c" formatted="false">Potwierdź przywrócenie</string>
+    <string name="native_8e6056b0f629" formatted="false">Anuluj import</string>
+    <string name="native_63a895901c76" formatted="false">Zmieniono środowisko stacji roboczej</string>
+    <string name="native_a4c994348a39" formatted="false">Otwórz ponownie obszar roboczy</string>
+    <string name="native_774947f0653e" formatted="false">Anuluj zadanie</string>
+    <string name="native_e09a22b18445" formatted="false">Zadanie zostało przerwane. Wybierz ponownie operację i wprowadź hasło.</string>
+    <string name="native_38c5fcc634db" formatted="false">Najpierw zapisz zmiany we wszystkich oknach. Anuluj istniejący import przed ponowną próbą.</string>
+    <string name="native_029bfa8ff772" formatted="false">Przywracanie stacji roboczej i weryfikacja programów</string>
+    <string name="native_e4f04df818f8" formatted="false">Przetwarzanie wybranej operacji tworzenia kopii zapasowej</string>
+    <string name="native_8206f072d5ee" formatted="false">Zatrzymaj OpenCode, terminale i pulpit, a następnie poczekaj na zakończenie operacji na plikach.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nie można rozpocząć zadania tworzenia kopii zapasowej. Spróbuj ponownie z aplikacją na pierwszym planie.</string>
+    <string name="native_1553b714941d" formatted="false">Odszyfrowanie i weryfikacja kopii zapasowej. Oryginalne środowisko można odzyskać…</string>
+    <string name="native_dafd005e953e" formatted="false">Kopia zapasowa zweryfikowana. Potwierdź przywrócenie w aplikacji.</string>
+    <string name="native_9fb236184596" formatted="false">Usunięto zaszyfrowaną kopię lokalną w aplikacji.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operacja anulowana. Zachowane oryginalne dane środowiska.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operacja niekompletna. Sprawdź hasło, integralność kopii zapasowej, wersję hosta i wolne miejsce. Zachowane oryginalne dane środowiska.</string>
+    <string name="native_29deabd28960" formatted="false">Tworzenie zaszyfrowanej kopii zapasowej stacji roboczej…</string>
+    <string name="native_3d137e243806" formatted="false">Utworzono zaszyfrowaną kopię zapasową. Wybierz, gdzie chcesz go zapisać.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Przywracanie środowiska i sprawdzanie usług lokalnych. Zachowaj dane aplikacji w nienaruszonym stanie…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Stacja robocza przywrócona. Poprzednie środowisko pozostaje w prywatnej kopii zapasowej. Otwórz ponownie obszar roboczy.</string>
+    <string name="native_0392cd6152d2" formatted="false">Sprawdzanie przywracania nie powiodło się. Wrócił do poprzedniego środowiska; zaimportowane dane pozostają w prywatnej kopii zapasowej.</string>
+    <string name="native_5dc7410b600e" formatted="false">Przywrócenie jest niekompletne. Wszystkie katalogi danych zostaną zachowane. Zachowaj dane aplikacji i ponów próbę odzyskiwania.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Przywracanie poprzedniego środowiska stacji roboczej…</string>
+    <string name="native_15821323ff89" formatted="false">Przywrócono poprzednie środowisko. Nowsze prace pozostają w prywatnej kopii zapasowej. Otwórz ponownie obszar roboczy.</string>
+    <string name="native_56dd94f47870" formatted="false">Nie można cofnąć tego przywracania. Bieżące środowisko i kopie zapasowe zachowane.</string>
+    <string name="native_93530f3fa029" formatted="false">Cofanie jest niekompletne. Wszystkie katalogi danych zostaną zachowane. Zachowaj dane aplikacji i ponów próbę odzyskiwania.</string>
+    <string name="native_f12963c80def" formatted="false">Zapisywanie zaszyfrowanej kopii zapasowej…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Zaszyfrowana kopia zapasowa została zapisana. Możesz ponownie zapisać kopię lokalną lub usunąć ją ręcznie.</string>
+    <string name="native_d660cccf65e0" formatted="false">Czyszczenie niepotwierdzonego importu…</string>
+    <string name="native_800592163979" formatted="false">Import anulowany. Oryginalne środowisko bez zmian.</string>
+    <string name="native_5a90367eb834" formatted="false">Import anulowany. Oryginalne środowisko niezmienione; niektóre dane tymczasowego importu pozostają w prywatnym katalogu aplikacji.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Przygotowanie do deszyfrowania i weryfikacji…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Przygotowywanie zaszyfrowanej kopii zapasowej…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Nie można uruchomić usługi tworzenia kopii zapasowych. Spróbuj ponownie na pierwszym planie.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Najpierw odzyskaj niekompletne działanie środowiska</string>
+    <string name="native_f14aea7c819c" formatted="false">Nieprawidłowy zapis odzyskiwania</string>
+    <string name="native_7c284c55ee08" formatted="false">Brakujący katalog odzyskiwania</string>
+    <string name="native_bfc4792df15b" formatted="false">Ustawienia natywne przekraczają limit rekordu odzyskiwania</string>
+    <string name="native_8d93770ba8c9">Brak poprzedniego katalogu środowiska: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Nieznany etap odzyskiwania</string>
+    <string name="native_20c5124fe175" formatted="false">Nieznana operacja odzyskiwania</string>
+    <string name="native_1c457322b624" formatted="false">Żadne poprzednie środowisko nie jest dostępne do przywrócenia</string>
+    <string name="native_30db1666c8e5" formatted="false">Ta kopia zapasowa należy do innej aplikacji</string>
+    <string name="native_6687d1c64d75" formatted="false">Architektura procesora zapasowego nie pasuje</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Najpierw zaktualizuj hosta Androida do wersji używanej przez tę kopię zapasową</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Katalog kopii zapasowej jest niekompletny</string>
+    <string name="native_66106ab3e254" formatted="false">Stara kopia zapasowa nie ma sprawdzalnego dowodu wydawcy OpenCode. Uruchom oryginalne środowisko na tym hoście przed ponownym utworzeniem jego kopii zapasowej.</string>
+    <string name="native_bec13cc92982" formatted="false">Działania systemu środowiska programistycznego</string>
+    <string name="native_65de80229626" formatted="false">Debian zażądał akcji systemowej</string>
+    <string name="native_5e38581cf19c" formatted="false">Kliknij, aby przejrzeć i obsłużyć żądanie</string>
+    <string name="native_749d406d2c67" formatted="false">Ze środowiska programistycznego Debiana</string>
+    <string name="native_4032d33b2afd" formatted="false">Otworzyć przeglądarkę systemową?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Otworzyć lokalny podgląd projektu?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Czytasz schowek?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Kopiować do schowka systemowego?</string>
+    <string name="native_77f761eb70aa" formatted="false">Wysłać lokalne powiadomienie?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Udostępnić plik projektu?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Importować pliki systemowe?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Eksportować plik projektu?</string>
+    <string name="native_7ac295421c6d" formatted="false">Otwórz w przeglądarce</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Otwórz podgląd</string>
+    <string name="native_14792d6cd7a6" formatted="false">Zezwól na odczyt</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Skopiuj do schowka</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Wyślij powiadomienie</string>
+    <string name="native_88152a09fa02" formatted="false">Wybierz aplikację do udostępniania</string>
+    <string name="native_7a49a79c57f9" formatted="false">Wybierz pliki</string>
+    <string name="native_99d9f87419c5" formatted="false">Wybierz miejsce zapisania</string>
+    <string name="native_23e5bb2090aa">%1$s\nOtwiera się z danymi przeglądarki izolowanymi od OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Podaj tekst ze schowka systemowego do bieżącego programu Debiana.</string>
+    <string name="native_dcc6bec24e43">Wybierz pliki do zaimportowania do %1$s. Istniejące pliki zostaną zachowane, a nazwy duplikatów zostaną zmienione.</string>
+    <string name="native_efdb26088f68" formatted="false">Tryb przeglądarki Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">Tryb zgodności wykorzystuje oddzielny profil przeglądarki i wyłącza piaskownicę procesu Linux Chromium. Przeglądarka nadal może uzyskiwać dostęp do plików w tej aplikacji. Unikaj niezaufanych stron internetowych i korzystaj z przeglądarki systemowej Android do obsługi ważnych kont. Otwórz ponownie Chromium po zmianie trybów.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standardowa piaskownica w systemie Linux jest domyślnie włączona. Jeśli Chromium nie może się uruchomić, możesz wybrać tryb zgodności. Wyłącza piaskownicę procesów systemu Linux i używa osobnego profilu, zachowując jednocześnie dostęp do plików aplikacji. Unikaj niezaufanych witryn internetowych; korzystaj z przeglądarki systemu Android dla ważnych kont.</string>
+    <string name="native_3a2596fa9517" formatted="false">Przywróć tryb standardowy</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Włącz tryb zgodności</string>
+    <string name="native_9a45442649f5" formatted="false">Pulpit Debiana</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Wspólne /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Pierwsza instalacja pobiera komponenty graficzne. Po instalacji pulpit może się uruchamiać i zatrzymywać niezależnie od OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">Lustro USTC</string>
+    <string name="native_41e865941e16" formatted="false">Oficjalny serwer lustrzany Debiana</string>
+    <string name="native_ea341b8a102b" formatted="false">Początkowa rozdzielczość</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Pulpit nadal działa, kiedy przełączasz strony. Zatrzymaj to w środowisku wykonawczym.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Zatrzymaj zadanie na pulpicie</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Uruchom pulpit</string>
+    <string name="native_ea27a25e5114" formatted="false">Zainstaluj komponenty pulpitu</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: tryb zgodności</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: tryb standardowy</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Najpierw zainstaluj narzędzia programistyczne Debiana z Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Dziennik aktywności</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nie można otworzyć folderu projektu. Sprawdź, czy katalog istnieje.</string>
+    <string name="native_83c76743b29d" formatted="false">Odzyskiwanie przerwanego działania środowiska</string>
+    <string name="native_739a730ae247" formatted="false">Utrzymanie środowiska</string>
+    <string name="native_049281329843" formatted="false">Poczekaj na konserwację aktualizacji lub zakończenie bieżącego zadania.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Poczekaj na zakończenie bieżącego zadania środowiska programistycznego</string>
+    <string name="native_83099168971c" formatted="false">Instalowanie pulpitu</string>
+    <string name="native_85e0c18dde8d" formatted="false">Uruchamianie pulpitu</string>
+    <string name="native_9a48f8196d8f" formatted="false">Wymaga uwagi</string>
+    <string name="native_75470fb13121" formatted="false">Zatrzymano</string>
+    <string name="native_51a53c8109d5" formatted="false">Nie można odczytać ani zapisać zapisu aktywności. Napraw go w środowisku wykonawczym lub zwolnij trochę miejsca.</string>
+    <string name="native_d36a018cc619" formatted="false">Najpierw zainstaluj środowisko programistyczne Debiana</string>
+    <string name="native_80be4c2928a5" formatted="false">Najpierw połącz się z siecią</string>
+    <string name="native_a065d81014b1" formatted="false">Instalacja na komputerze stacjonarnym jest niekompletna. Ponów instalację.</string>
+    <string name="native_721c38b32c35" formatted="false">Zainstalowano pulpit. Uruchom go, gdy zajdzie taka potrzeba.</string>
+    <string name="native_6c1c52771115" formatted="false">Najpierw zainstaluj komponenty pulpitu</string>
+    <string name="native_693d90a47827" formatted="false">Operacja na pulpicie nie powiodła się. Szczegóły są za długie lub niedostępne.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nie można dokończyć zapisywania znacznika zatrzymania. Kontynuowano czyszczenie procesu.</string>
+    <string name="native_06083621a6ce" formatted="false">Nie można dokończyć zapisywania rekordu aktywności. Następne uruchomienie potraktuje to jako przerwę.</string>
+    <string name="native_04d721a3819a" formatted="false">Pulpit uruchomiony</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Upłynął limit czasu operacji na pulpicie. Przejrzyj dziennik i spróbuj ponownie.</string>
+    <string name="native_e70d328a3ca9">Proces na pulpicie został zakończony (%1$s). Przejrzyj dziennik aktywności.</string>
+    <string name="native_df5c878f2852" formatted="false">Lokalny graficzny obszar roboczy</string>
+    <string name="native_7b0455a8daa4" formatted="false">Zatrzymaj pulpit</string>
+    <string name="native_a62123cde9c7" formatted="false">Przerwane zadania i powrót do zdrowia</string>
+    <string name="native_279308947a14" formatted="false">Nie można odczytać zapisu aktywności. Naprawa przechowuje kopię uszkodzonego rekordu i chroni projekty, sesje i środowisko Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Zapis czynności naprawczych</string>
+    <string name="native_6b43650c2c82" formatted="false">Zadanie zakończyło się nieoczekiwanie.</string>
+    <string name="native_acb0c970aaa6">Terminale %1$s nie zostały normalnie zamknięte. Ich polecenia biegowe zostały przerwane.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Ponowne uruchomienie potwierdzone. Poprzednie polecenia nie zostały odtworzone.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Zapisane projekty i sesje pozostają zachowane. Otwórz ponownie terminale ręcznie; niedokończone polecenia nie zostaną automatycznie wznowione.</string>
+    <string name="native_fa9669296762" formatted="false">Uruchom ponownie OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Pulpit nie uruchomi się ponownie automatycznie. Uruchom go ponownie ze strony Pulpit.</string>
+    <string name="native_644f8f44251f" formatted="false">Otwórz plik</string>
+    <string name="native_9dfb5569d609" formatted="false">Udostępnij plik</string>
+    <string name="native_a4500cff3a86" formatted="false">Katalog roboczy nie może być dowiązaniem symbolicznym</string>
+    <string name="native_8657d27661bd" formatted="false">Nieprawidłowa ścieżka katalogu roboczego</string>
+    <string name="native_02b702a9adff" formatted="false">Wybierz plik</string>
+    <string name="native_924874b746cc" formatted="false">Zarządzaj łączami symbolicznymi w terminalu</string>
+    <string name="native_efea6e422a54" formatted="false">Nieprawidłowa nazwa pliku</string>
+    <string name="native_c4989dc37aab" formatted="false">Katalog nie istnieje</string>
+    <string name="native_d613dba39b44" formatted="false">Katalog docelowy nie istnieje</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Nie można umieścić folderu w sobie lub w jego potomkach</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekt zawiera specjalne urządzenia lub gniazda i nie można go kopiować</string>
+    <string name="native_6c36955b068b" formatted="false">Wybierz zwykły plik</string>
+    <string name="native_49191d7d489f" formatted="false">Ten plik przekracza 2 MB. Edytuj go za pomocą OpenCode lub terminala.</string>
+    <string name="native_ee42414d36c2" formatted="false">Plik jest za duży</string>
+    <string name="native_f0a979f87157" formatted="false">Eksportuj pliki binarne, aby otworzyć je w innej aplikacji</string>
+    <string name="native_88a9c82651fc" formatted="false">Edytuj pliki w formacie innym niż UTF-8 za pomocą OpenCode lub terminala</string>
+    <string name="native_0189a5c3418c" formatted="false">Inne narzędzie zmieniło ten plik. Otwórz go ponownie przed edycją.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Oryginalny katalog już nie istnieje. Najpierw go przywróć.</string>
+    <string name="native_46eae321049e" formatted="false">Żadna aplikacja do udostępniania nie jest dostępna</string>
+    <string name="native_87d699d3a26c" formatted="false">Śmieci</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Pliki projektu</string>
+    <string name="native_4dcf914f0b64" formatted="false">Usunięte pliki można przywrócić do ich oryginalnych katalogów</string>
+    <string name="native_c5b81b02354f" formatted="false">Z powrotem</string>
+    <string name="native_e56b99379169">Skopiowano pliki %1$s · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopiowanie…</string>
+    <string name="native_85199bb36b04" formatted="false">Anuluj operację</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Zamknij</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Nowa sesja</string>
+    <string name="native_23c250cc8e0b" formatted="false">Rozpocznij tutaj sesję OpenCode</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Niezapisane zmiany</string>
+    <string name="native_2266227605c4" formatted="false">Zapisz</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Kosz jest pusty</string>
+    <string name="native_a9e739b13e52" formatted="false">Przywróć</string>
+    <string name="native_45985dc2183e" formatted="false">Przesuń:</string>
+    <string name="native_31214130b5b7" formatted="false">Kopia:</string>
+    <string name="native_07e5c3158f35" formatted="false">Wklej</string>
+    <string name="native_831b4e0fb574" formatted="false">Nowość</string>
+    <string name="native_ff65a22d7087" formatted="false">Nowy folder</string>
+    <string name="native_71faed44a86c" formatted="false">Nowy plik</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">Odśwież</string>
+    <string name="native_ac9d73843736" formatted="false">Przeszukaj ten katalog</string>
+    <string name="native_21eef82963ee" formatted="false">Ten katalog jest pusty. Zaimportuj pliki lub utwórz projekt.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Brak pasujących plików</string>
+    <string name="native_d674bc0f86b8" formatted="false">Akcje plików</string>
+    <string name="native_d04a47c87cc8" formatted="false">Łącze symboliczne</string>
+    <string name="native_e0ba66f5246a" formatted="false">Folder</string>
+    <string name="native_f170b42599e8" formatted="false">Zmień nazwę</string>
+    <string name="native_4cdacf57ead2" formatted="false">Kopia</string>
+    <string name="native_124aa030694e" formatted="false">Przejdź do…</string>
+    <string name="native_ac990518ed87" formatted="false">Otwórz terminal tutaj</string>
+    <string name="native_87bc93932d8a" formatted="false">Eksport do plików systemowych</string>
+    <string name="native_dd37f132172f" formatted="false">Przenieś do kosza</string>
+    <string name="native_7318746d337c" formatted="false">Przenieść do kosza?</string>
+    <string name="native_2b5ee3f10a56">Możesz przywrócić „%1$s” z kosza.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Ruszaj się</string>
+    <string name="native_4e47aaa113fc" formatted="false">Odrzucić niezapisane zmiany?</string>
+    <string name="native_63b75399ef1a" formatted="false">Odrzuć zmiany</string>
+    <string name="native_d9618f7b8d25" formatted="false">Kontynuuj edycję</string>
+    <string name="native_76ce6aef5479" formatted="false">Imię</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Środowisko przywrócone. Otwórz ponownie obszar roboczy.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Najpierw zakończ odzyskiwanie przerwanej operacji w Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Trwa konserwacja środowiska. Spróbuj ponownie później.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operacja anulowana</string>
+    <string name="native_c508721eb3cd" formatted="false">Plik o tej nazwie już istnieje. Wybierz inną nazwę.</string>
+    <string name="native_1e8274fe468a" formatted="false">Plik już nie istnieje. Odśwież katalog.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Odmowa dostępu do pliku</string>
+    <string name="native_cd808e4c321e" formatted="false">Nie można ukończyć operacji</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operacja niekompletna. Sprawdź dostępną pamięć lub wybierz pliki ponownie.</string>
+    <string name="native_3f9983126fd7" formatted="false">Sprawdź status uruchamiania OpenCode w Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nie można otworzyć nowego terminala. Sprawdź liczbę sesji.</string>
+    <string name="native_2160fde3813a" formatted="false">Zarządzaj łączami symbolicznymi w terminalu. Menedżer plików nie podąża za linkami.</string>
+    <string name="native_7a844e9d4017" formatted="false">Przenoszenie zakończone</string>
+    <string name="native_573877894fcf" formatted="false">Kopia ukończona</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Przeniesiono do kosza</string>
+    <string name="native_862330af933f" formatted="false">Przywrócono do oryginalnego katalogu</string>
+    <string name="native_beda23c9d52b" formatted="false">Nastąpiła konserwacja lub wymiana środowiska. Otwórz ponownie obszar roboczy przed edycją.</string>
+    <string name="native_678c6953bb2b" formatted="false">Zapisano</string>
+    <string name="native_8063159f2178" formatted="false">Nie można odczytać wybranego pliku</string>
+    <string name="native_4cdc2180d2ac">Zaimportowano pliki %1$s</string>
+    <string name="native_e98763643b93" formatted="false">Nie można zapisać w wybranej lokalizacji</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksport zakończony</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kod i sesje</string>
+    <string name="native_8745ed51cadd" formatted="false">Pulpit</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Graficzny obszar roboczy</string>
+    <string name="native_770d49c5f689" formatted="false">Pliki</string>
+    <string name="native_6a9b6480b58f" formatted="false">Czas działania</string>
+    <string name="native_b561fe9204cc" formatted="false">Usługi i narzędzia programistyczne</string>
+    <string name="native_70850bdeeabd" formatted="false">Zamknij menu strony</string>
+    <string name="native_b4549acb48e8" formatted="false">Przestrzeń robocza</string>
+    <string name="native_3d3551f4660f">Nieprzezroczystość pływającego przycisku %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Niższe wartości powodują, że pływający przycisk jest bardziej przezroczysty</string>
+    <string name="native_e031beabfc9a" formatted="false">Otwórz menu strony</string>
+    <string name="native_106ee775b538" formatted="false">Łączenie z lokalnym OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Połączenie lokalne wymaga przywrócenia</string>
+    <string name="native_dacb8837471c" formatted="false">Połącz ponownie</string>
+    <string name="native_17584aa60ae6" formatted="false">Nie można przygotować lokalnej pamięci podręcznej zasobów</string>
+    <string name="native_3b3b80064ccb" formatted="false">Przygotowanie lokalnego OpenCode…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Spróbuj ponownie</string>
+    <string name="native_b07809340403" formatted="false">Lokalizacja obszaru roboczego nie została jeszcze zapisana. Spróbuj ponownie później.</string>
+    <string name="native_e4ab10392d05" formatted="false">Lokalny serwis się przygotowuje. Twój obszar roboczy otworzy się automatycznie po nawiązaniu połączenia.</string>
+    <string name="native_20ea15973287" formatted="false">Poprzedni przebieg został przerwany. Uruchom ponownie ze środowiska wykonawczego; polecenia terminala nie będą odtwarzane automatycznie.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Uruchom OpenCode z Runtime, aby otworzyć kod i sesje.</string>
+    <string name="native_abbac5c22111" formatted="false">Wyjść z aplikacji?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Środowisko programistyczne może działać w tle. Wróć później z powiadomienia.</string>
+    <string name="native_814a8fb24b62" formatted="false">Wyjść z bieżącego obszaru roboczego?</string>
+    <string name="native_a76464945c2d" formatted="false">Zatrzymaj także środowisko programistyczne</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Wyjdź</string>
+    <string name="native_b00143b08ff1" formatted="false">Rozwojowa stacja robocza gotowa</string>
+    <string name="native_51bca456a350" formatted="false">Twoja stacja robocza deweloperska Debiana</string>
+    <string name="native_0c2acd0b6057" formatted="false">Bieganie</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Rozpoczęcie</string>
+    <string name="native_44da7f6a451d" formatted="false">Zatrzymywanie</string>
+    <string name="native_b7e1503a7239" formatted="false">Naprawa środowiska programistycznego</string>
+    <string name="native_7c91bd67ff14" formatted="false">Zainstaluj środowisko programistyczne</string>
+    <string name="native_cfd73bb04860" formatted="false">Zatrzymaj środowisko</string>
+    <string name="native_e7ec95694dce" formatted="false">Uruchom OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Sprawdź środowisko</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Zaktualizuj narzędzia programistyczne Debiana</string>
+    <string name="native_c114ec62712b" formatted="false">Kopia zapasowa poprzedniego środowiska, projekty i dane sesji zostają zachowane.</string>
+    <string name="native_eb3114155716" formatted="false">Zainstaluj/zaktualizuj serwery językowe</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) i Python (pylsp), instalowane online z podpisanych repozytoriów Debiana. Najpierw zatrzymaj OpenCode i pulpit.</string>
+    <string name="native_2c7251cce661" formatted="false">Naciśnij pływający przycisk, aby przełączać strony. Przeciągnij, aby zmienić położenie.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Informacje o czasie działania pojawiają się tutaj po uruchomieniu.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Otwórz środowisko wykonawcze</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Dołączona wersja APK</string>
+    <string name="native_e6b986511faf" formatted="false">Aktualizacje OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Zaimportuj plik .ocaupdate podpisany przez wydawcę tej aplikacji. Oficjalna aktualizacja frontendu i backendu razem.</string>
+    <string name="native_8aad48b0508d" formatted="false">Źródło aktualizacji (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Sprawdź źródło aktualizacji</string>
+    <string name="native_f73973cfadbb">Podpisana wersja: %1$s\nZatwierdź: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Pobierz i sprawdź</string>
+    <string name="native_f2ef7965bf12" formatted="false">Wybierz pakiet aktualizacji</string>
+    <string name="native_165111adfe2c">Gotowy do instalacji: %1$s\nZatwierdź: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Zainstaluj tę aktualizację</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Przywróć wersję i sesje sprzed aktualizacji</string>
+    <string name="native_6864335de653" formatted="false">Anuluj aktualizację</string>
+    <string name="native_5e3472cf084e" formatted="false">Zainstalować aktualizację OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Przywrócić stan sprzed aktualizacji?</string>
+    <string name="native_11beb4a42abc">Zainstaluj %1$s. Aplikacja zapisuje migawkę sesji, sprawdza podpisany program i przywraca poprzednią wersję w przypadku niepowodzenia. Pliki projektu zostaną zachowane.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sesje wracają do stanu sprzed tej aktualizacji. Nowsze sesje pozostają w prywatnej kopii zapasowej. Pliki projektu zostaną zachowane.</string>
+    <string name="native_def5e273616d" formatted="false">Potwierdź instalację</string>
+    <string name="native_369d2eefccde" formatted="false">Nie można wyizolować danych przeglądarki podglądu. Otwórz ponownie podgląd.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Nie można załadować strony projektu. Sprawdź serwer programistyczny w swoim terminalu.</string>
+    <string name="native_6e7408950cf5" formatted="false">Podgląd strony projektu</string>
+    <string name="native_bfb4951e071d" formatted="false">Podgląd projektu</string>
+    <string name="native_f80652913d06" formatted="false">Uruchom serwer deweloperski w terminalu, następnie wprowadź jego port lokalny. Dane przeglądarki podglądu są odizolowane od OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Wprowadź port programistyczny od 1024 do 65535, z wyłączeniem usług OpenCode i komputerów stacjonarnych.</string>
+    <string name="native_7311a9dfea51" formatted="false">Nic nie nasłuchuje na tym porcie. Sprawdź usługę w swoim terminalu.</string>
+    <string name="native_4f8d84105475" formatted="false">Sprawdzam…</string>
+    <string name="native_4923c272b68e" formatted="false">Port deweloperski musi być liczbą całkowitą</string>
+    <string name="native_04a87026e81f" formatted="false">Wybierz prawidłowy port rozwoju projektu</string>
+    <string name="native_a8a305819e54" formatted="false">Sesja programistyczna OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Instalacja środowiska programistycznego</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Aktualizacja Debiana</string>
+    <string name="native_0c6301bc295d" formatted="false">Naprawa środowiska programistycznego</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Kontrola środowiska programistycznego</string>
+    <string name="native_9612d4419bb6" formatted="false">Instalacja serwera językowego</string>
+    <string name="native_f72fba77f87a" formatted="false">Odzyskiwanie środowiska</string>
+    <string name="native_7c8162195c7c" formatted="false">Instalacja na pulpicie</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Poprzedni przebieg został przerwany. Uruchom ponownie jawnie ze środowiska wykonawczego.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Zadanie rozwojowe tego typu jest nadal uruchomione</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Naprawa zapisu aktywności</string>
+    <string name="native_b66749ed72ea" formatted="false">Proces został zakończony</string>
+    <string name="native_6b25042064e2" formatted="false">Zakończone sygnałem</string>
+    <string name="native_d6febdf1752b" formatted="false">Odzyskane z powodu małej ilości pamięci</string>
+    <string name="native_1d13790f3c89" formatted="false">Awaria aplikacji</string>
+    <string name="native_28db94d1850d" formatted="false">Awaria procesu natywnego</string>
+    <string name="native_86919539f7f1" formatted="false">Aplikacja nie odpowiada</string>
+    <string name="native_90fb8d6098a5" formatted="false">Inicjalizacja nie powiodła się</string>
+    <string name="native_38c60ab6654c" formatted="false">Uprawnienia zmienione</string>
+    <string name="native_6d2a6c71334d" formatted="false">Limit zasobów</string>
+    <string name="native_19b2090b01a8" formatted="false">Użytkownik zażądał zatrzymania</string>
+    <string name="native_120d96445f1a" formatted="false">Zatrzymany przez użytkownika</string>
+    <string name="native_3c8af14f66bc" formatted="false">Zakończono zależny proces</string>
+    <string name="native_ca0941ce04ae" formatted="false">Inna przyczyna systemowa</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Zamrażanie procesu</string>
+    <string name="native_0d48373023a8" formatted="false">Stan aplikacji zmieniony</string>
+    <string name="native_c752307db26b" formatted="false">Aktualizacja aplikacji</string>
+    <string name="native_b5015951cbdf" formatted="false">System nie podał powodu wyjścia</string>
+    <string name="native_b62737b826ad">Wyjście z systemu (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nie można otworzyć katalogu projektu</string>
+    <string name="native_faf5d983c13e" formatted="false">Nie można utworzyć sesji OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">Katalog sesji OpenCode nie pasuje</string>
+    <string name="native_ac19736908a2" formatted="false">Nie można odczytać sesji OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Utrzymanie środowiska</string>
+    <string name="native_f992d735d932" formatted="false">Zatrzymaj OpenCode, terminale i pulpit Debiana, a następnie poczekaj na zakończenie operacji na plikach</string>
+    <string name="native_489f137f1080" formatted="false">Blokada konserwacji środowiska nie jest już ważna</string>
+    <string name="native_42380e2567fc" formatted="false">Przerwana praca została przywrócona. Otwórz ponownie obszar roboczy.</string>
+    <string name="native_17b00cac2b91" formatted="false">Odzyskiwanie połączenia lokalnego nie powiodło się. Spróbuj ponownie w środowisku wykonawczym.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Konserwacja środowiska jest w toku. Spróbuj ponownie później.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Zatrzymaj pulpit Debiana przed aktualizacją środowiska programistycznego</string>
+    <string name="native_548085b144c9" formatted="false">Przywrócono przerwaną pracę. Możesz uruchomić środowisko programistyczne.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Poprzedni przebieg został przerwany. Polecenia terminala nie będą odtwarzane automatycznie. Uruchom ponownie jawnie ze środowiska wykonawczego.</string>
+    <string name="native_295cafdfd512" formatted="false">Tymczasowe czyszczenie konfiguracji połączenia jest niekompletne. Kontynuowano czyszczenie procesu.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nie można utworzyć obszaru roboczego helloworld. Sprawdź katalog i dostępne miejsce.</string>
+    <string name="native_68301868225a" formatted="false">Poprzedni katalog obszaru roboczego jest niedostępny. Otwarto helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Domyślny projekt nie jest jeszcze gotowy. Spróbuj ponownie z plików.</string>
+    <string name="native_45d6ab452622" formatted="false">Zainstaluj serwery językowe</string>
+    <string name="native_9793c4a83295" formatted="false">Serwery języków C/C++ i Python są gotowe. Uruchom OpenCode, aby korzystać z LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Zapis aktywności terminala nie został zapisany. Utwórz nowy terminal po zakończeniu procesu.</string>
+    <string name="native_1978b311a9ff" formatted="false">Nie można dokończyć zapisywania rekordu wyjścia terminala.</string>
+    <string name="native_66dee11c3194" formatted="false">Pobieranie aktualizacji OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Łączenie ze źródłem aktualizacji…</string>
+    <string name="native_8c39baf28e08" formatted="false">Nie można połączyć się ze źródłem aktualizacji. Sprawdź sieć, podpis wydawcy, wersję hosta i wolne miejsce.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Upłynął limit czasu pobierania</string>
+    <string name="native_f75850093535">Pobieranie: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Weryfikacja podpisu wydawcy…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Pobieram pakiet aktualizacji…</string>
+    <string name="native_2f9cd52dc66a">Prawidłowy podpis wydawcy: %1$s. Przejrzyj przed pobraniem.</string>
+    <string name="native_17548865632c" formatted="false">Zweryfikowano pobieranie, udostępnianie metadanych i podpis pakietu. Potwierdź instalację.</string>
+    <string name="native_180cec958e7a" formatted="false">Pobieranie anulowane. Zachowano wersję oryginalną.</string>
+    <string name="native_8df045f8ac12" formatted="false">Pobieranie zatrzymane. Zachowano wersję oryginalną.</string>
+    <string name="native_778803f1c6bb" formatted="false">Anuluj pobieranie</string>
+    <string name="native_2958898ce6f4" formatted="false">Nowa wersja nie przeszła lokalnego sprawdzenia podczas uruchamiania, wersji lub uwierzytelnienia. Poprzednia wersja zostanie przywrócona.</string>
+    <string name="native_cc876dfbb261" formatted="false">Proces próbny wciąż się kończy. Poczekaj na odzyskanie, zanim spróbujesz ponownie.</string>
+    <string name="native_adf977dcb47e" formatted="false">Nieprawidłowy identyfikator rekordu aktualizacji</string>
+    <string name="native_5207cac670b7" formatted="false">Zainstalowany samodzielny rozmiar OpenCode nie pasuje</string>
+    <string name="native_cf5b81887589" formatted="false">Zainstalowana niezależna suma kontrolna OpenCode nie jest zgodna. Przywróć poprzednią wersję.</string>
+    <string name="native_393049b506cc" formatted="false">Oryginalny program nie ma pasującego dowodu wydawcy. Stan poprzedni bez zmian.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Najpierw odzyskaj poprzednio przerwaną aktualizację</string>
+    <string name="native_91d8da5525fa" formatted="false">Pakiet aktualizacji został zmieniony po potwierdzeniu</string>
+    <string name="native_093f2c091a30" formatted="false">Niewystarczające przechowywanie. Wersja oryginalna bez zmian.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Nie jest dostępna kopia zapasowa aktualizacji do przywrócenia</string>
+    <string name="native_a9f4d9903c14" formatted="false">Kopia zapasowa nie jest zgodna z działającą wersją</string>
+    <string name="native_6caa23763a42" formatted="false">Weryfikacja poprzedniego programu nie powiodła się. Obecne sesje bez zmian.</string>
+    <string name="native_c8b71b876695" formatted="false">Późniejsza aktualizacja APK lub Debiana zastąpiła dołączony program. Oryginalna kopia zapasowa sesji zostaje zachowana; najpierw przywróć odpowiedni program.</string>
+    <string name="native_c443df40964b" formatted="false">Nieprawidłowa operacja odzyskiwania aktualizacji</string>
+    <string name="native_9071f05d58b3" formatted="false">Przygotowywanie aktualizacji OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Zatrzymaj OpenCode, terminale i pulpit, a następnie poczekaj, aż wyjdą.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Zapisywanie stanu, weryfikacja programów i przełączanie wersji</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nie można uruchomić usługi konserwacji aktualizacji.</string>
+    <string name="native_f7b560c8c820" formatted="false">Weryfikacja i przygotowanie oficjalnego programu…</string>
+    <string name="native_9606191c82dc" formatted="false">Zachowanie oryginalnego programu i podpisu wydawcy…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Zapisywanie migawki stanu sesji…</string>
+    <string name="native_0c8cf4632889" formatted="false">Zmiana wersji i weryfikacja lokalnego serwisu…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Przywracanie wersji i sesji sprzed aktualizacji…</string>
+    <string name="native_856de41d3bf3" formatted="false">Przywracanie OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Aktualizacja OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Przywrócono poprzednią wersję i sesje. Nowsze sesje pozostają w prywatnej kopii zapasowej.</string>
+    <string name="native_07367ff18068" formatted="false">Aktualizacja OpenCode zakończona. Startup będzie korzystał z pasującego oficjalnego frontendu i backendu.</string>
+    <string name="native_4693930f5802" formatted="false">Aktualizacja anulowana. Potwierdzenie, że stan pierwotny został przywrócony.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Aktualizacja niekompletna. Teraz wracam do zdrowia; oryginalne kopie zapasowe programów i sesji zostaną zachowane.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Odzysk jest niekompletny. Wszystkie katalogi stanowe zostają zachowane. Zachowaj dane i spróbuj ponownie uruchomić komputer, aby je odzyskać.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Odzyskiwanie sesji zakończone. Nowszy stan pozostaje w kopii zapasowej.</string>
+    <string name="native_67c08a2911e1" formatted="false">Odzyskiwanie nie mogło być kontynuowane przy użyciu tej kopii zapasowej lub oryginalnego programu. Bieżące sesje i kopie zapasowe nie uległy zmianie.</string>
+    <string name="native_976d8c169cfa" formatted="false">Aktualizacja anulowana lub nie powiodła się. Przywrócono oryginalną wersję i sesje.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Sprawdzanie podpisu i integralności pakietu aktualizacji…</string>
+    <string name="native_0aa018b7337b" formatted="false">Nie można odczytać wybranego pliku</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Pakiet aktualizacji jest za duży</string>
+    <string name="native_f068b83f40bf" formatted="false">Podpis i paczka zweryfikowana. Sprawdź wersję przed instalacją.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nie można zaimportować: nieprawidłowy plik, niezgodny podpis, niekompatybilna wersja hosta lub niewystarczająca ilość pamięci.</string>
+    <string name="native_616412e65df4" formatted="false">Oficjalny program nie jest zgodny z dowodem wydawcy</string>
+    <string name="native_4bf19a158f27" formatted="false">Samodzielne pakiety wykonawcze obsługują tylko ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Podpis aktualizacji nie należy do tego pliku APK</string>
+    <string name="native_c7273354727f" formatted="false">Plik aktualizacji przekracza deklarowany rozmiar</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Suma kontrolna programu aktualizacji nie jest zgodna</string>
+    <string name="native_dd619076d456" formatted="false">Nieprawidłowy rozmiar pakietu aktualizacji</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Rozmiar skompresowanego pakietu aktualizacji nie jest zgodny</string>
+    <string name="native_1de24edffcf5" formatted="false">Pakiet aktualizacji zawiera dodatkowe wpisy</string>
+    <string name="native_c5b339aa77e8" formatted="false">Niekompatybilne pochodzenie aktualizacji lub architektura</string>
+    <string name="native_89d585f3661f" formatted="false">Zaktualizuj aplikację na Androida przed zainstalowaniem tej aktualizacji</string>
+    <string name="native_800df084dea0" formatted="false">Suma kontrolna archiwum aktualizacji nie jest zgodna</string>
+    <string name="native_ddf1a005e310" formatted="false">Ten format podpisywania pliku APK nie obsługuje samodzielnych aktualizacji środowiska wykonawczego</string>
+    <string name="native_172e063db474" formatted="false">Nieprawidłowy wpis pakietu aktualizacji</string>
+    <string name="native_1c08780aa99f" formatted="false">Metadane aktualizacji muszą zawierać liczby całkowite</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Program aktualizacyjny nie jest 64-bitowym systemem Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Program aktualizacji nie jest zgodny z wyrównaniem 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">W programie aktualizacyjnym brakuje modułu ładującego glibc Debiana</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Podaj prawidłowe źródło aktualizacji HTTPS</string>
+    <string name="native_c274c7dd5900" formatted="false">Źródła aktualizacji wymagają adresów URL HTTPS bez poświadczeń użytkownika</string>
+    <string name="native_f459f5ec9dac" formatted="false">Nieprawidłowe pole źródła aktualizacji</string>
+    <string name="native_bde2a736e30a" formatted="false">Najpierw zaktualizuj hosta Androida</string>
+    <string name="native_b980fd021bef" formatted="false">Nieprawidłowy katalog aktualizacji</string>
+    <string name="native_c0e96727553e" formatted="false">Nieprawidłowy plik aktualizacji</string>
+    <string name="native_86ff542c68ed" formatted="false">Nie można przełączyć katalogów aktualizacji w tym stanie</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Stan sesji odnosi się do katalogu zewnętrznego. Aktualizacji nie można bezpiecznie przetestować.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Niewystarczające przechowywanie. Stan oryginalny bez zmian.</string>
+    <string name="native_099801d672b1" formatted="false">Pobieranie anulowane</string>
+    <string name="native_f1304f707ec9" formatted="false">Zbyt wiele przekierowań aktualizacji</string>
+    <string name="native_0d07f458b607" formatted="false">Serwer aktualizacji nie przesłał oryginalnych bajtów</string>
+    <string name="native_de331dfd8908" formatted="false">Długość pliku aktualizacji nie jest zgodna</string>
+    <string name="native_416b8c87e69e" formatted="false">Plik aktualizacji nie został w całości pobrany</string>
+    <string name="native_e1e74b76c427" formatted="false">Serwer aktualizacji nie zwrócił całego pliku</string>
+    <string name="native_6afcf03cb130" formatted="false">Niewystarczająca przestrzeń przejściowa aktualizacji</string>
+    <string name="native_be1c695d9241" formatted="false">Plik aktualizacji SHA-256 nie pasuje</string>
+    <string name="native_a0133d117bb0" formatted="false">Pakiet aktualizacji nie jest zgodny z potwierdzonymi informacjami o wydaniu</string>
+    <string name="native_8635a43ce28a" formatted="false">Nieprawidłowy katalog projektu</string>
+    <string name="native_d32ab8b004e6" formatted="false">Nie można zapisać lokalizacji obszaru roboczego</string>
+    <string name="native_43a5447014fd" formatted="false">Uruchom środowisko programistyczne z Runtime przed otwarciem terminala.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">+ Nowy terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Zamknięcie prądu</string>
+    <string name="native_0e822affd5da">Katalog początkowy: %1$s</string>
+    <string name="native_72d769e3888d">Nowy katalog terminala: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Selektor plików systemowych jest niedostępny</string>
+    <string name="native_179a57921f91" formatted="false">Ustawienia renderowania WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Liczba klatek na sekundę renderowania</string>
+    <string name="native_55b6d7f645f3" formatted="false">Preferuj 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Śledź częstotliwość odświeżania wyświetlacza</string>
+    <string name="native_d4ecf38c341d" formatted="false">Preferuj 60 Hz, aby zmniejszyć obciążenie renderowania na wyświetlaczach o wysokiej częstotliwości odświeżania. Podążanie za wyświetlaczem pozwala systemowi zaplanować ramki. Dotyczy tylko okna tej aplikacji.</string>
+    <string name="native_bf0d3a407418" formatted="false">Nie zainstalowano</string>
+    <string name="native_2fb8edc75b25" formatted="false">Gotowe</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Sprawdzanie modułu ładującego</string>
+    <string name="native_d1017c1eac80" formatted="false">Instalowanie Debiana</string>
+    <string name="native_f863d955fa6e" formatted="false">Lokalne środowisko rozwoju</string>
+    <string name="native_55aa84065de2" formatted="false">Lokalna sesja rozwojowa Debiana</string>
+    <string name="native_6e75b1822ebc" formatted="false">Zatrzymaj się</string>
+    <string name="native_5f73a4e1e494" formatted="false">Zainstalowano</string>
+    <string name="native_147e90d2ec02" formatted="false">Odzyskiwanie</string>
+</resources>

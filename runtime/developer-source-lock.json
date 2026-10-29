@@ -1,0 +1,23 @@
+{
+  "debian/trixie": {
+    "snapshot": "20261027T000000Z",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z",
+    "inReleaseSha256": "0584fba32e13e0ab8285fb16c27adea1ec03a73669c18702821094fd6ca86675",
+    "packagesSha256": "be16b37b2f740f066ea93d35d56f04f94d63693e5a3eb421b052bf86fae75bcd",
+    "size": 9614192
+  },
+  "debian/trixie-updates": {
+    "snapshot": "20261027T000000Z",
+    "url": "https://snapshot.debian.org/archive/debian/20261027T000000Z",
+    "inReleaseSha256": "a1da7288f506c5c4e6cb46f0c6f54e312412f1806b991ccea88145057cf857cc",
+    "packagesSha256": "235fb859490d45c1490bc69836bd2607c9a8557b629ebc33bab1008edb6e9e6d",
+    "size": 720
+  },
+  "debian-security/trixie-security": {
+    "snapshot": "20261027T000000Z",
+    "url": "https://snapshot.debian.org/archive/debian-security/20261027T000000Z",
+    "inReleaseSha256": "d46d9cabaf766523f5eb204a70f31e47908398829118424537750a30f334ad7d",
+    "packagesSha256": "d0788ae81070e4261168e32c061ecfeb40c6bdd2f6d757274a33367929319ff6",
+    "size": 270772
+  }
+}

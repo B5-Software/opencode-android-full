@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">izstrādes darbvieta</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + darbvirsma</string>
+    <string name="native_7f1c02616d60" formatted="false">Viena lapa</string>
+    <string name="native_651ae6ea52ae" formatted="false">Atjaunot dalīto skatu</string>
+    <string name="native_d7e97cfac66f" formatted="false">Darbvietas izkārtojums</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Paplašiniet logu, lai skatītu vairākus paneļus kopā.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Rādīt projekta failus</string>
+    <string name="native_712d956931d1" formatted="false">Parādīt termināli</string>
+    <string name="native_073cc20d9ed9" formatted="false">terminālis zemāk</string>
+    <string name="native_5de225480fa7" formatted="false">terminālis labajā pusē</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Paneļi sabrūk, kad vieta ir ierobežota, un tie paliek pieejami no peldošās izvēlnes. Sānu terminālis parādās plašākos logos. Velciet sadalītājus, lai mainītu paneļu izmērus.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + kreisais Alt: 1–5 lapas · B faili · T terminālis · M darbvirsma · Ievadiet vienu/sadalīt · \\\\ Izkārtojums</string>
+    <string name="native_7a129a94c6ff" formatted="false">Gatavs</string>
+    <string name="native_bcec2218fc21" formatted="false">Atiestatīt proporcijas</string>
+    <string name="native_da88c62d1217">Rādīt %1$s vienā lapā</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Projekta failu dalītājs</string>
+    <string name="native_707c0891a0e6" formatted="false">Termināla dalītājs</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode un darbvirsmas dalītājs</string>
+    <string name="native_50407ad8dfa8" formatted="false">Samazināt iepriekšējo paneli</string>
+    <string name="native_b72c5c02a666" formatted="false">Palielināt iepriekšējo paneli</string>
+    <string name="native_3f3685e8d731" formatted="false">Pārāk daudz PRoot saišu šim arhīva formātam</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux cietajām saitēm ir nepieciešams pilnīgs rootfs</string>
+    <string name="native_f336f1e17596" formatted="false">Rezerves direktorija ligzdošana ir pārāk dziļa</string>
+    <string name="native_b6f744737a45" formatted="false">Nederīgs rezerves paroles garums</string>
+    <string name="native_13bde5dd1812" formatted="false">Rezerves parolei jāsatur vismaz 12 rakstzīmes</string>
+    <string name="native_be02cbd55932" formatted="false">Neatbalstīts dublējuma formāts</string>
+    <string name="native_7a91a3d586ae" formatted="false">Nederīga dublējuma galvene</string>
+    <string name="native_2bbd318a5667" formatted="false">Neatbalstīti dublējuma šifrēšanas parametri</string>
+    <string name="native_18868da27841" formatted="false">Nepareiza dublējuma parole vai bojāts fails</string>
+    <string name="native_e41d6440468d" formatted="false">Atkopšanas ieraksts ir pārāk liels</string>
+    <string name="native_282692502f14" formatted="false">Dublējuma metadati ir pārāk lieli</string>
+    <string name="native_61fdca8d6c82" formatted="false">Dublējuma metadatu ligzdošana ir pārāk dziļa</string>
+    <string name="native_8cefb30732d4" formatted="false">Nederīgi dublējuma metadati</string>
+    <string name="native_5d3037708cad" formatted="false">Neatbalstīti vietējie iestatījumi</string>
+    <string name="native_81a57c382f9d" formatted="false">Nevarēja saglabāt sākotnējos iestatījumus</string>
+    <string name="native_50603e683d4a" formatted="false">Nederīgs vecākdirektorijs rezerves ceļā</string>
+    <string name="native_c3f838a46b8e" formatted="false">Darbstacijas sakne nedrīkst būt simboliska saite</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Dublēšanas laikā mainīts fails</string>
+    <string name="native_77e1e85147db" formatted="false">Neatbalstīts darbstacijas datu formāts</string>
+    <string name="native_a927b5a565af" formatted="false">Dublējums satur papildu datus</string>
+    <string name="native_c2b886d508f2" formatted="false">Dublējums satur ceļu dublikātus</string>
+    <string name="native_3dab8cd60102" formatted="false">Dublējums satur izpildlaika iestatījumus, kurus nevar migrēt</string>
+    <string name="native_f45ba674a630" formatted="false">Dublējums ir pārāk liels vai krātuvē nepietiek vietas</string>
+    <string name="native_140073e8e77b" formatted="false">Nevarēja atjaunot simboliskās saites laikspiedolus</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nevarēja atjaunot nosauktās caurules laikspiedolus</string>
+    <string name="native_0daee8026db1" formatted="false">darbstacijas dublēšana un atjaunošana</string>
+    <string name="native_1acc18928c5f" formatted="false">Ietver Debian, izstrādātāju rīkus, projektus, mājas, OpenCode sesijas un iestatījumus, Linux pārlūkprogrammas datus un vietējos izkārtojuma iestatījumus.</string>
+    <string name="native_62254d31a535" formatted="false">Pagaidu faili un vecie dublējumkopijas nav iekļauti. Android WebView krātuve un nenosūtītie melnraksti paliek šajā ierīcē un netiek pārsūtīti kopā ar šo dublējumu.</string>
+    <string name="native_808eabc7811f" formatted="false">Izveidojiet šifrētu dublējumu</string>
+    <string name="native_201c10b38296" formatted="false">Importējiet dublējumu</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Vispirms saglabājiet izmaiņas failu redaktorā.</string>
+    <string name="native_0559cd596453" formatted="false">Stop OpenCode, termināļi un darbvirsma</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Vides darbība ir nepilnīga. Vispirms atkopiet to.</string>
+    <string name="native_185f58156330" formatted="false">Nepilnīgas darbības atjaunošana</string>
+    <string name="native_20831b6f67a7" formatted="false">Atsaukt pēdējo vides atjaunošanu</string>
+    <string name="native_4f392d5d6141">Šifrēta lokālā kopija: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Saglabāt failā</string>
+    <string name="native_f09619351eb9" formatted="false">Dzēst vietējo kopiju</string>
+    <string name="native_85c686eb9841">Apstrādāts %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Atceliet dublēšanas uzdevumu</string>
+    <string name="native_66c9d896407b" formatted="false">Šifrējiet darbstacijas dublējumu</string>
+    <string name="native_548cd9f0831e" formatted="false">Atšifrēt un pārbaudīt dublējumu</string>
+    <string name="native_d248f5eca9a5" formatted="false">dublējumkopijās var būt SSH privātās atslēgas, API atslēgas un konta dati. Izmantojiet vismaz 12 rakstzīmes. Aizmirstu paroli nevar atgūt.</string>
+    <string name="native_f249422b9ec1" formatted="false">Dublējums tiek atšifrēts un pārbaudīts privātā direktorijā. Jūsu vide tiek nomainīta tikai pēc atjaunošanas apstiprināšanas.</string>
+    <string name="native_e7be6841703a" formatted="false">Rezerves parole</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Atkārtojiet paroli</string>
+    <string name="native_eafdc5cd4882" formatted="false">Sāciet šifrēšanu</string>
+    <string name="native_2986b88beade" formatted="false">Atšifrēt un pārbaudīt</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Atcelt</string>
+    <string name="native_f46c5ed7412d" formatted="false">Vai atjaunot visu iepriekšējo vidi?</string>
+    <string name="native_33eda0946a5b" formatted="false">Vai dzēst šifrēto lokālo kopiju?</string>
+    <string name="native_26db24150f2e" formatted="false">Projekti, mājas, Debian un sesijas atgriezīsies savā stāvoklī pirms pēdējās atjaunošanas. Jaunākie darbi paliks privātā dublējumkopijā lietotnē.</string>
+    <string name="native_1153b30d51d5" formatted="false">Tiek dzēsta tikai šifrētā vietējā kopija lietotnē. Citur saglabātie faili paliek pieejami.</string>
+    <string name="native_427a78a4e69a" formatted="false">Apstipriniet</string>
+    <string name="native_7af46d7ee003" formatted="false">Vai atjaunot šīs darbstacijas dublējumu?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s ieraksti · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Dublējums satur izpildāmu Linux programmatūru. Apstipriniet, ka uzticaties tā avotam. Restaurācija aizvieto visu vidi un pārbauda vietējos pakalpojumus; iepriekšējā vide tiek saglabāta atjaunošanai.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Dublējums pārbaudīts. Gaida atjaunošanas apstiprinājumu.</string>
+    <string name="native_97076078c749" formatted="false">Iespējojiet arī Chromium saderības režīmu (atspējo Linux procesa smilškaste)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Pēc noklusējuma izslēgts. Varat to iespējot vēlāk darbvirsmas iestatījumos.</string>
+    <string name="native_ddf09383413c" formatted="false">Apstipriniet atjaunošanu</string>
+    <string name="native_8e6056b0f629" formatted="false">Atcelt importēšanu</string>
+    <string name="native_63a895901c76" formatted="false">Darbstacijas vide mainīta</string>
+    <string name="native_a4c994348a39" formatted="false">Atkārtoti atveriet darbvietu</string>
+    <string name="native_774947f0653e" formatted="false">Atcelt uzdevumu</string>
+    <string name="native_e09a22b18445" formatted="false">Uzdevums tika pārtraukts. Vēlreiz atlasiet darbību un ievadiet paroli.</string>
+    <string name="native_38c5fcc634db" formatted="false">Vispirms saglabājiet failu labojumus visos logos. Pirms atkārtotas mēģinājuma atceliet esošo importēšanu.</string>
+    <string name="native_029bfa8ff772" formatted="false">Darbstacijas atjaunošana un programmu pārbaude</string>
+    <string name="native_e4f04df818f8" formatted="false">Notiek atlasītās dublēšanas darbības apstrāde</string>
+    <string name="native_8206f072d5ee" formatted="false">Apturiet OpenCode, termināļus un darbvirsmu, pēc tam pagaidiet, līdz tiek pabeigtas failu darbības.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nevarēja sākt dublēšanas uzdevumu. Mēģiniet vēlreiz ar lietotni priekšplānā.</string>
+    <string name="native_1553b714941d" formatted="false">Dublējuma atšifrēšana un pārbaude. Sākotnējā vide joprojām ir atjaunojama…</string>
+    <string name="native_dafd005e953e" formatted="false">Dublējums pārbaudīts. Apstipriniet atjaunošanu lietotnē.</string>
+    <string name="native_9fb236184596" formatted="false">Lietotnē tika izdzēsta šifrētā vietējā kopija.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Darbība atcelta. Saglabāti sākotnējie vides dati.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Darbība nav pabeigta. Pārbaudiet paroli, dublējuma integritāti, resursdatora versiju un brīvo vietu. Saglabāti sākotnējie vides dati.</string>
+    <string name="native_29deabd28960" formatted="false">Notiek šifrētas darbstacijas dublējuma izveide…</string>
+    <string name="native_3d137e243806" formatted="false">Izveidota šifrēta dublējumkopija. Izvēlieties, kur to saglabāt.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Vides atjaunošana un vietējo pakalpojumu pārbaude. Saglabājiet lietotnes datus neskartus…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">darbstacija atjaunota. Iepriekšējā vide paliek privātā dublējumkopijā. Atkārtoti atveriet darbvietu.</string>
+    <string name="native_0392cd6152d2" formatted="false">Atjaunošanas pārbaudes neizdevās. Atgriezts iepriekšējā vidē; importētie dati paliek privātā dublējumkopijā.</string>
+    <string name="native_5dc7410b600e" formatted="false">Restaurācija ir nepilnīga. Visi datu direktoriji tiek saglabāti. Saglabājiet lietotnes datus un mēģiniet atkopt vēlreiz.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Notiek iepriekšējās darbstacijas vides atjaunošana…</string>
+    <string name="native_15821323ff89" formatted="false">Atjaunota iepriekšējā vide. Jaunākie darbi paliek privātā dublējumkopijā. Atkārtoti atveriet darbvietu.</string>
+    <string name="native_56dd94f47870" formatted="false">Šo atjaunošanu nevar atsaukt. Saglabāta pašreizējā vide un dublējumkopijas.</string>
+    <string name="native_93530f3fa029" formatted="false">atsaukšana ir nepilnīga. Visi datu direktoriji tiek saglabāti. Saglabājiet lietotnes datus un mēģiniet atkopt vēlreiz.</string>
+    <string name="native_f12963c80def" formatted="false">Notiek šifrētās dublējuma saglabāšana…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Šifrēta dublējums saglabāts. Varat vēlreiz saglabāt vietējo kopiju vai izdzēst to manuāli.</string>
+    <string name="native_d660cccf65e0" formatted="false">Notiek neapstiprināta importa tīrīšana…</string>
+    <string name="native_800592163979" formatted="false">Importēšana ir atcelta. Sākotnējā vide nemainīga.</string>
+    <string name="native_5a90367eb834" formatted="false">Importēšana ir atcelta. Sākotnējā vide nemainīga; daži pagaidu importēšanas dati paliek lietotnes privātajā direktorijā.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Notiek atšifrēšanas un pārbaudes sagatavošana…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Notiek šifrētas dublēšanas sagatavošana…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Nevarēja palaist dublēšanas pakalpojumu. Mēģiniet vēlreiz priekšplānā.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Vispirms atkopiet nepilnīgo vides darbību</string>
+    <string name="native_f14aea7c819c" formatted="false">Nederīgs atkopšanas ieraksts</string>
+    <string name="native_7c284c55ee08" formatted="false">Trūkst atkopšanas direktorija</string>
+    <string name="native_bfc4792df15b" formatted="false">Vietējie iestatījumi pārsniedz atkopšanas ieraksta ierobežojumu</string>
+    <string name="native_8d93770ba8c9">Trūkst iepriekšējā vides direktorija: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Nezināma atkopšanas stadija</string>
+    <string name="native_20c5124fe175" formatted="false">Nezināma atkopšanas darbība</string>
+    <string name="native_1c457322b624" formatted="false">Nav pieejama iepriekšējā vide, ko atjaunot</string>
+    <string name="native_30db1666c8e5" formatted="false">Šis dublējums pieder citai lietotnei</string>
+    <string name="native_6687d1c64d75" formatted="false">Dublējuma procesora arhitektūra neatbilst</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Vispirms atjauniniet Android resursdatoru uz versiju, ko izmanto šis dublējums</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Dublējuma direktorijs ir nepilnīgs</string>
+    <string name="native_66106ab3e254" formatted="false">Vecajam dublējumam nav pārbaudāma OpenCode izdevēja pierādījuma. Pirms atkārtotas dublēšanas palaidiet sākotnējo vidi ar šo saimniekdatoru.</string>
+    <string name="native_bec13cc92982" formatted="false">Izstrādes vides sistēmas darbības</string>
+    <string name="native_65de80229626" formatted="false">Debian pieprasīja sistēmas darbību</string>
+    <string name="native_5e38581cf19c" formatted="false">Pieskarieties, lai pārskatītu un apstrādātu pieprasījumu</string>
+    <string name="native_749d406d2c67" formatted="false">No Debian izstrādes vides</string>
+    <string name="native_4032d33b2afd" formatted="false">Vai atvērt sistēmas pārlūkprogrammu?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Vai atvērt vietējā projekta priekšskatījumu?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Vai lasīt starpliktuvē?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Vai kopēt sistēmas starpliktuvē?</string>
+    <string name="native_77f761eb70aa" formatted="false">Vai nosūtīt vietējo paziņojumu?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Vai kopīgot projekta failu?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Vai importēt sistēmas failus?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Vai eksportēt projekta failu?</string>
+    <string name="native_7ac295421c6d" formatted="false">Atvērt pārlūkprogrammā</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Atvērt priekšskatījumu</string>
+    <string name="native_14792d6cd7a6" formatted="false">Atļaut nolasīšanu</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopēt starpliktuvē</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Nosūtīt paziņojumu</string>
+    <string name="native_88152a09fa02" formatted="false">Izvēlieties koplietošanas lietotni</string>
+    <string name="native_7a49a79c57f9" formatted="false">Izvēlieties failus</string>
+    <string name="native_99d9f87419c5" formatted="false">Izvēlieties, kur saglabāt</string>
+    <string name="native_23e5bb2090aa">%1$s\nTiek atvērts ar pārlūkprogrammas datiem, kas izolēti no OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Sniedziet tekstu no sistēmas starpliktuves pašreizējai Debian programmai.</string>
+    <string name="native_dcc6bec24e43">Izvēlieties failus, ko importēt mapē %1$s. Esošie faili tiek saglabāti, un dublikāti tiek pārdēvēti.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium pārlūka režīms</string>
+    <string name="native_4767f37900f6" formatted="false">Saderības režīms izmanto atsevišķu pārlūkprogrammas profilu un atspējo Chromium Linux procesa smilškaste. Pārlūkprogramma joprojām var piekļūt failiem šajā lietotnē. Izvairieties no neuzticamām vietnēm un svarīgiem kontiem izmantojiet Android sistēmas pārlūkprogrammu. Pēc režīmu maiņas atkārtoti atveriet Chromium.</string>
+    <string name="native_a4317f2699a2" formatted="false">standarta Linux smilškastes darbība ir iespējota pēc noklusējuma. Ja Chromium nevar startēt, varat atlasīt saderības režīmu. Tas atspējo Linux procesa smilškaste un izmanto atsevišķu profilu, vienlaikus saglabājot piekļuvi lietotņu failiem. Izvairieties no neuzticamām vietnēm; svarīgiem kontiem izmantojiet Android sistēmas pārlūkprogrammu.</string>
+    <string name="native_3a2596fa9517" formatted="false">Atjaunot standarta režīmu</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Iespējot saderības režīmu</string>
+    <string name="native_9a45442649f5" formatted="false">Debian darbvirsma</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Koplietots /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Pirmajā instalācijā tiek lejupielādēti grafiskie komponenti. Pēc instalēšanas darbvirsma var startēt un apstāties neatkarīgi no OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC spogulis</string>
+    <string name="native_41e865941e16" formatted="false">Oficiālais Debian spogulis</string>
+    <string name="native_ea341b8a102b" formatted="false">Sākotnējā izšķirtspēja</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Darbvirsma turpina darboties, kad pārslēdzat lapas. Pārtrauciet to no Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Apturēt darbvirsmas uzdevumu</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Sākt darbvirsmu</string>
+    <string name="native_ea27a25e5114" formatted="false">Instalējiet darbvirsmas komponentus</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: saderības režīms</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standarta režīms</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Vispirms instalējiet Debian izstrādātāja rīkus no Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Darbību žurnāls</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nevarēja atvērt projekta mapi. Pārbaudiet, vai direktorijs pastāv.</string>
+    <string name="native_83c76743b29d" formatted="false">Pārtrauktās vides darbības atjaunošana</string>
+    <string name="native_739a730ae247" formatted="false">Vides uzturēšana</string>
+    <string name="native_049281329843" formatted="false">Pagaidiet, līdz tiek veikta atjaunināšanas apkope vai pašreizējais uzdevums tiks pabeigts.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Pagaidiet, līdz tiek pabeigts pašreizējais izstrādes vides uzdevums</string>
+    <string name="native_83099168971c" formatted="false">Darbvirsmas instalēšana</string>
+    <string name="native_85e0c18dde8d" formatted="false">Darbvirsmas palaišana</string>
+    <string name="native_9a48f8196d8f" formatted="false">Nepieciešama uzmanība</string>
+    <string name="native_75470fb13121" formatted="false">apstājās</string>
+    <string name="native_51a53c8109d5" formatted="false">Nevar nolasīt vai saglabāt darbības ierakstu. Labojiet to no Runtime vai atbrīvojiet vietu krātuvē.</string>
+    <string name="native_d36a018cc619" formatted="false">Vispirms instalējiet Debian izstrādes vidi</string>
+    <string name="native_80be4c2928a5" formatted="false">Vispirms izveidojiet savienojumu ar tīklu</string>
+    <string name="native_a065d81014b1" formatted="false">darbvirsmas instalēšana ir nepilnīga. Mēģiniet instalēt vēlreiz.</string>
+    <string name="native_721c38b32c35" formatted="false">darbvirsma ir instalēta. Sāciet to, kad nepieciešams.</string>
+    <string name="native_6c1c52771115" formatted="false">Vispirms instalējiet darbvirsmas komponentus</string>
+    <string name="native_693d90a47827" formatted="false">Darbvirsmas darbība neizdevās. Sīkāka informācija ir pārāk gara vai nav pieejama.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nevarēja pabeigt pieturas marķiera saglabāšanu. Procesa tīrīšana turpinājās.</string>
+    <string name="native_06083621a6ce" formatted="false">Nevarēja pabeigt darbības ieraksta saglabāšanu. Nākamajā palaišanas reizē tas tiks uzskatīts par pārtraukumu.\nDarbojas darbvirsma</string>
+    <string name="native_04d721a3819a" formatted="false">Darbvirsma darbojas</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Darbvirsmas darbībai iestājās taimauts. Pārskatiet žurnālu un mēģiniet vēlreiz.</string>
+    <string name="native_e70d328a3ca9">darbvirsmas process ir iziets (%1$s). Pārskatiet darbību žurnālu.</string>
+    <string name="native_df5c878f2852" formatted="false">Lokālā grafiskā darbvieta</string>
+    <string name="native_7b0455a8daa4" formatted="false">Apturēt darbvirsmu</string>
+    <string name="native_a62123cde9c7" formatted="false">Pārtraukti uzdevumi un atkopšana</string>
+    <string name="native_279308947a14" formatted="false">Nevar nolasīt darbības ierakstu. Remonts saglabā bojātā ieraksta kopiju un saglabā projektus, sesijas un Linux vidi.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Remonta darbības ieraksts</string>
+    <string name="native_6b43650c2c82" formatted="false">Uzdevums negaidīti beidzās.</string>
+    <string name="native_acb0c970aaa6">%1$s termināļi netika normāli aizvērti. Viņu darba komandas tika pārtrauktas.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Restartēšana apstiprināta. Iepriekšējās komandas netika atskaņotas atkārtoti.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Saglabātie projekti un sesijas tiek saglabāti. Atkārtoti atveriet termināļus manuāli; nepabeigtās komandas netiks automātiski atsāktas.</string>
+    <string name="native_fa9669296762" formatted="false">Restartējiet OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Darbvirsma netiks automātiski restartēta. Sāciet to vēlreiz no darbvirsmas lapas.</string>
+    <string name="native_644f8f44251f" formatted="false">Atvērt failu</string>
+    <string name="native_9dfb5569d609" formatted="false">Kopīgojiet failu</string>
+    <string name="native_a4500cff3a86" formatted="false">Darba direktorijs nedrīkst būt simboliska saite</string>
+    <string name="native_8657d27661bd" formatted="false">Nederīgs darba direktorija ceļš</string>
+    <string name="native_02b702a9adff" formatted="false">Izvēlieties failu</string>
+    <string name="native_924874b746cc" formatted="false">Pārvaldiet simboliskās saites terminālī</string>
+    <string name="native_efea6e422a54" formatted="false">Nederīgs faila nosaukums</string>
+    <string name="native_c4989dc37aab" formatted="false">direktorijs nepastāv</string>
+    <string name="native_d613dba39b44" formatted="false">Galamērķa direktorijs nepastāv</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Nevar ievietot mapi sevī vai tās pēcnācējos</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekts satur īpašas ierīces vai kontaktligzdas, un to nevar kopēt</string>
+    <string name="native_6c36955b068b" formatted="false">Atlasiet parastu failu</string>
+    <string name="native_49191d7d489f" formatted="false">Šis fails pārsniedz 2 MB. Rediģējiet to, izmantojot OpenCode vai termināli.</string>
+    <string name="native_ee42414d36c2" formatted="false">fails ir pārāk liels</string>
+    <string name="native_f0a979f87157" formatted="false">Eksportējiet bināros failus, lai tos atvērtu citā lietotnē</string>
+    <string name="native_88a9c82651fc" formatted="false">Rediģējiet failus, kas nav UTF-8, izmantojot OpenCode vai termināli</string>
+    <string name="native_0189a5c3418c" formatted="false">Cits rīks mainīja šo failu. Atkārtoti atveriet to pirms rediģēšanas.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Sākotnējais direktorijs vairs nepastāv. Vispirms atjaunojiet to.</string>
+    <string name="native_46eae321049e" formatted="false">Nav pieejama koplietošanas lietotne</string>
+    <string name="native_87d699d3a26c" formatted="false">Miskaste</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Projekta faili</string>
+    <string name="native_4dcf914f0b64" formatted="false">Izdzēstos failus var atjaunot to sākotnējos direktorijos</string>
+    <string name="native_c5b81b02354f" formatted="false">Aizmugure</string>
+    <string name="native_e56b99379169">Kopēti %1$s faili · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Notiek kopēšana…</string>
+    <string name="native_85199bb36b04" formatted="false">Atceliet darbību</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Aizvērt</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Jauna sesija</string>
+    <string name="native_23c250cc8e0b" formatted="false">Sāciet OpenCode sesiju šeit</string>
+    <string name="native_f22da21fd54f" formatted="false">terminālis</string>
+    <string name="native_3645f30b3412" formatted="false">Nesaglabātas izmaiņas</string>
+    <string name="native_2266227605c4" formatted="false">Saglabāt</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Miskaste ir tukša</string>
+    <string name="native_a9e739b13e52" formatted="false">Atjaunot</string>
+    <string name="native_45985dc2183e" formatted="false">kustība:</string>
+    <string name="native_31214130b5b7" formatted="false">kopija:</string>
+    <string name="native_07e5c3158f35" formatted="false">pasta</string>
+    <string name="native_831b4e0fb574" formatted="false">Jauns</string>
+    <string name="native_ff65a22d7087" formatted="false">Jauna mape</string>
+    <string name="native_71faed44a86c" formatted="false">Jauns fails</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importēt</string>
+    <string name="native_d85825123e60" formatted="false">Atsvaidzināt</string>
+    <string name="native_ac9d73843736" formatted="false">Meklēt šajā direktorijā</string>
+    <string name="native_21eef82963ee" formatted="false">Šis direktorijs ir tukšs. Importējiet failus vai izveidojiet projektu.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Nav atbilstošu failu</string>
+    <string name="native_d674bc0f86b8" formatted="false">Failu darbības</string>
+    <string name="native_d04a47c87cc8" formatted="false">Simboliskā saite\nMape</string>
+    <string name="native_e0ba66f5246a" formatted="false">Mape</string>
+    <string name="native_f170b42599e8" formatted="false">Pārdēvēt</string>
+    <string name="native_4cdacf57ead2" formatted="false">kopija</string>
+    <string name="native_124aa030694e" formatted="false">Pārvietot uz…</string>
+    <string name="native_ac990518ed87" formatted="false">Atveriet termināli šeit</string>
+    <string name="native_87bc93932d8a" formatted="false">Eksportēt uz sistēmas failiem</string>
+    <string name="native_dd37f132172f" formatted="false">Pārvietot uz miskasti</string>
+    <string name="native_7318746d337c" formatted="false">Vai pārvietot uz miskasti?</string>
+    <string name="native_2b5ee3f10a56">Varat atjaunot “%1$s” no atkritnes.</string>
+    <string name="native_e49730c9e7e1" formatted="false">kustība</string>
+    <string name="native_4e47aaa113fc" formatted="false">Vai atmest nesaglabātās izmaiņas?</string>
+    <string name="native_63b75399ef1a" formatted="false">Atmest izmaiņas</string>
+    <string name="native_d9618f7b8d25" formatted="false">Turpināt rediģēšanu</string>
+    <string name="native_76ce6aef5479" formatted="false">nosaukums</string>
+    <string name="native_35b0fc30b909" formatted="false">Labi</string>
+    <string name="native_11b319774788" formatted="false">Vide atjaunota. Atkārtoti atveriet darbvietu.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Vispirms pabeidziet pārtrauktās darbības atkopšanu izpildlaikā</string>
+    <string name="native_f29af06e7c99" formatted="false">Notiek vides apkope. Vēlāk mēģiniet vēlreiz.</string>
+    <string name="native_3bd28258feb0" formatted="false">Darbība ir atcelta</string>
+    <string name="native_c508721eb3cd" formatted="false">Fails ar šādu nosaukumu jau pastāv. Izvēlieties citu nosaukumu.</string>
+    <string name="native_1e8274fe468a" formatted="false">Fails vairs nepastāv. Atsvaidziniet direktoriju.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Failu piekļuves atļauja liegta</string>
+    <string name="native_cd808e4c321e" formatted="false">Nevarēja pabeigt darbību</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Darbība nav pabeigta. Pārbaudiet pieejamo krātuvi vai atlasiet failus vēlreiz.</string>
+    <string name="native_3f9983126fd7" formatted="false">Pārbaudiet OpenCode startēšanas statusu programmā Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nevarēja atvērt jaunu termināli. Pārbaudiet sesiju skaitu.</string>
+    <string name="native_2160fde3813a" formatted="false">Pārvaldiet simboliskās saites terminālī. Failu pārvaldnieks neseko saitēm.</string>
+    <string name="native_7a844e9d4017" formatted="false">Pārvietošana ir pabeigta</string>
+    <string name="native_573877894fcf" formatted="false">Kopēšana ir pabeigta</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Pārvietots uz miskasti</string>
+    <string name="native_862330af933f" formatted="false">Atjaunots sākotnējā direktorijā</string>
+    <string name="native_beda23c9d52b" formatted="false">Notikusi vides apkope vai nomaiņa. Pirms rediģēšanas atkārtoti atveriet darbvietu.</string>
+    <string name="native_678c6953bb2b" formatted="false">Saglabāts</string>
+    <string name="native_8063159f2178" formatted="false">Nevar nolasīt atlasīto failu</string>
+    <string name="native_4cdc2180d2ac">Importēti %1$s faili</string>
+    <string name="native_e98763643b93" formatted="false">Nevar rakstīt atlasītajā vietā</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksportēšana ir pabeigta</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kods un sesijas</string>
+    <string name="native_8745ed51cadd" formatted="false">galddators</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafiska darbvieta</string>
+    <string name="native_770d49c5f689" formatted="false">faili</string>
+    <string name="native_6a9b6480b58f" formatted="false">izpildlaiks</string>
+    <string name="native_b561fe9204cc" formatted="false">Pakalpojumi un izstrādātāju rīki</string>
+    <string name="native_70850bdeeabd" formatted="false">Aizvērt lapas izvēlni</string>
+    <string name="native_b4549acb48e8" formatted="false">darbvieta</string>
+    <string name="native_3d3551f4660f">Peldošās pogas necaurredzamība %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Zemākas vērtības padara peldošo pogu caurspīdīgāku</string>
+    <string name="native_e031beabfc9a" formatted="false">Atvērt lapas izvēlni</string>
+    <string name="native_106ee775b538" formatted="false">Notiek savienojuma izveide ar vietējo OpenCode…</string>
+    <string name="native_a021adc1f449" formatted="false">Vietējais savienojums ir jāatjauno</string>
+    <string name="native_dacb8837471c" formatted="false">Atkārtoti pievienojiet</string>
+    <string name="native_17584aa60ae6" formatted="false">Nevarēja sagatavot vietējo resursu kešatmiņu</string>
+    <string name="native_3b3b80064ccb" formatted="false">Notiek vietējā OpenCode sagatavošana…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Mēģiniet vēlreiz</string>
+    <string name="native_b07809340403" formatted="false">Darbvietas atrašanās vieta vēl nav saglabāta. Vēlāk mēģiniet vēlreiz.</string>
+    <string name="native_e4ab10392d05" formatted="false">Vietējais pakalpojums gatavojas. Jūsu darbvieta tiks atvērta automātiski, kad būs izveidots savienojums.</string>
+    <string name="native_20ea15973287" formatted="false">Iepriekšējais skrējiens tika pārtraukts. Restartēt no Runtime; termināļa komandas netiks atskaņotas automātiski.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Sāciet OpenCode no Runtime, lai atvērtu kodu un sesijas.</string>
+    <string name="native_abbac5c22111" formatted="false">Vai iziet no lietotnes?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Izstrādes vide var turpināt darboties fonā. Atgriezties vēlāk no paziņojuma.</string>
+    <string name="native_814a8fb24b62" formatted="false">Vai iziet no pašreizējās darbvietas?</string>
+    <string name="native_a76464945c2d" formatted="false">Apturiet arī izstrādes vidi</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Izeja</string>
+    <string name="native_b00143b08ff1" formatted="false">Izstrādes darbstacija gatava</string>
+    <string name="native_51bca456a350" formatted="false">Jūsu Debian izstrādes darbstacija</string>
+    <string name="native_0c2acd0b6057" formatted="false">Skriešana</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Iedarbināšana</string>
+    <string name="native_44da7f6a451d" formatted="false">Apstāšanās</string>
+    <string name="native_b7e1503a7239" formatted="false">Remonta izstrādes vide</string>
+    <string name="native_7c91bd67ff14" formatted="false">Instalējiet izstrādes vidi</string>
+    <string name="native_cfd73bb04860" formatted="false">Apstāšanās vide</string>
+    <string name="native_e7ec95694dce" formatted="false">Sāciet OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Pārbaudiet vidi</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Atjauniniet Debian izstrādātāja rīkus</string>
+    <string name="native_c114ec62712b" formatted="false">Iepriekšējās vides dublējums, projekti un sesijas dati tiek saglabāti.</string>
+    <string name="native_eb3114155716" formatted="false">Valodas serveru instalēšana/atjaunināšana</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) un Python (pylsp), kas instalētas tiešsaistē no parakstītām Debian krātuvēm. Vispirms apturiet OpenCode un darbvirsmu.</string>
+    <string name="native_2c7251cce661" formatted="false">Pieskarieties peldošajai pogai, lai pārslēgtu lapas. Velciet to, lai to pārvietotu.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime informācija tiek parādīta šeit pēc palaišanas.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">komplektā iekļautā APK versija</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode atjauninājumi</string>
+    <string name="native_36ab16248f65" formatted="false">Importējiet .ocaupdate, ko parakstījis šīs lietotnes izdevējs. Oficiālais priekšgals un aizmugursistēmas atjauninājums kopā.</string>
+    <string name="native_8aad48b0508d" formatted="false">Atjaunināšanas avots (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Pārbaudiet atjaunināšanas avotu</string>
+    <string name="native_f73973cfadbb">Parakstīts laidiens: %1$s\nApstiprināt: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Lejupielādējiet un pārbaudiet</string>
+    <string name="native_f2ef7965bf12" formatted="false">Izvēlieties atjaunināšanas pakotni</string>
+    <string name="native_165111adfe2c">Gatavs instalēšanai: %1$s\nApstiprināt: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Instalējiet šo atjauninājumu</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Atjaunojiet versiju un sesijas pirms atjaunināšanas</string>
+    <string name="native_6864335de653" formatted="false">Atcelt atjaunināšanu</string>
+    <string name="native_5e3472cf084e" formatted="false">Vai instalēt OpenCode atjauninājumu?</string>
+    <string name="native_816bf3635d53" formatted="false">Vai atjaunot stāvokli pirms atjaunināšanas?</string>
+    <string name="native_11beb4a42abc">Instalējiet %1$s. Programma saglabā sesijas momentuzņēmumu, pārbauda parakstīto programmu un atjauno iepriekšējo versiju, ja tā neizdodas. Projekta faili tiek saglabāti.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sesijas atgriežas stāvoklī pirms šī atjauninājuma. Jaunākās sesijas paliek privātā dublējumkopijā. Projekta faili tiek saglabāti.</string>
+    <string name="native_def5e273616d" formatted="false">Apstipriniet uzstādīšanu</string>
+    <string name="native_369d2eefccde" formatted="false">Nevarēja izolēt priekšskatījuma pārlūkprogrammas datus. Atkārtoti atveriet priekšskatījumu.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Nevarēja ielādēt projekta lapu. Pārbaudiet izstrādes serveri savā terminālī.</string>
+    <string name="native_6e7408950cf5" formatted="false">Priekšskatījuma projekta vietne</string>
+    <string name="native_bfb4951e071d" formatted="false">Projekta priekšskatījums</string>
+    <string name="native_f80652913d06" formatted="false">Sāciet izstrādes serveri terminālī, pēc tam ievadiet tā vietējo portu. Priekšskatījuma pārlūkprogrammas dati ir izolēti no OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">ports</string>
+    <string name="native_77c3a828a5c5" formatted="false">Ievadiet izstrādes portu no 1024 līdz 65535, izņemot OpenCode un darbvirsmas pakalpojumus.</string>
+    <string name="native_7311a9dfea51" formatted="false">Šajā portā nekas neklausās. Pārbaudiet pakalpojumu savā terminālī.</string>
+    <string name="native_4f8d84105475" formatted="false">Pārbauda…</string>
+    <string name="native_4923c272b68e" formatted="false">Izstrādes portam ir jābūt veselam skaitlim</string>
+    <string name="native_04a87026e81f" formatted="false">Izvēlieties derīgu projekta izstrādes portu</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode izstrādes sesija</string>
+    <string name="native_e87a4529ab82" formatted="false">Attīstības vides uzstādīšana</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian atjauninājums</string>
+    <string name="native_0c6301bc295d" formatted="false">Attīstības vides remonts</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Izstrādes vides pārbaude</string>
+    <string name="native_9612d4419bb6" formatted="false">Valodas servera uzstādīšana</string>
+    <string name="native_f72fba77f87a" formatted="false">Vides atjaunošana</string>
+    <string name="native_7c8162195c7c" formatted="false">Darbvirsmas uzstādīšana</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Iepriekšējais skrējiens tika pārtraukts. Restartējiet tieši no Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Šāda veida izstrādes uzdevums joprojām darbojas</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Darbības ieraksta labošana</string>
+    <string name="native_b66749ed72ea" formatted="false">Process ir iziets</string>
+    <string name="native_6b25042064e2" formatted="false">Izbeidz ar signālu</string>
+    <string name="native_d6febdf1752b" formatted="false">Atgūts nepietiekamas atmiņas dēļ</string>
+    <string name="native_1d13790f3c89" formatted="false">lietotnes avārija</string>
+    <string name="native_28db94d1850d" formatted="false">Native procesa avārija</string>
+    <string name="native_86919539f7f1" formatted="false">Lietotne nereaģē</string>
+    <string name="native_90fb8d6098a5" formatted="false">Inicializācija neizdevās</string>
+    <string name="native_38c60ab6654c" formatted="false">Atļaujas mainītas</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resursu ierobežojums</string>
+    <string name="native_19b2090b01a8" formatted="false">Lietotājs pieprasīja apturēšanu</string>
+    <string name="native_120d96445f1a" formatted="false">Apturēja lietotājs</string>
+    <string name="native_3c8af14f66bc" formatted="false">Atkarīgais process ir iziets</string>
+    <string name="native_ca0941ce04ae" formatted="false">Cits sistēmas iemesls</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Procesa iesaldēšana</string>
+    <string name="native_0d48373023a8" formatted="false">Lietotnes statuss ir mainīts</string>
+    <string name="native_c752307db26b" formatted="false">lietotnes atjauninājums</string>
+    <string name="native_b5015951cbdf" formatted="false">Sistēma nenorādīja izejas iemeslu</string>
+    <string name="native_b62737b826ad">Sistēmas izeja (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nevarēja atvērt projekta direktoriju</string>
+    <string name="native_faf5d983c13e" formatted="false">Nevarēja izveidot OpenCode sesiju</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode sesijas direktorijs neatbilst</string>
+    <string name="native_ac19736908a2" formatted="false">Nevarēja nolasīt OpenCode sesiju</string>
+    <string name="native_2642997cfeec" formatted="false">Vides uzturēšana</string>
+    <string name="native_f992d735d932" formatted="false">Apturiet OpenCode, termināļus un Debian darbvirsmu, pēc tam gaidiet, līdz tiks pabeigtas failu darbības</string>
+    <string name="native_489f137f1080" formatted="false">Vides apkopes bloķēšana vairs nav derīga</string>
+    <string name="native_42380e2567fc" formatted="false">Pārtrauktā darbība ir atjaunota. Atkārtoti atveriet darbvietu.</string>
+    <string name="native_17b00cac2b91" formatted="false">Vietējā savienojuma atkopšana neizdevās. Mēģiniet vēlreiz no izpildlaika.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Notiek vides apkope. Vēlāk mēģiniet vēlreiz.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Pirms izstrādes vides atjaunināšanas apturiet Debian darbvirsmu</string>
+    <string name="native_548085b144c9" formatted="false">Pārtrauktā darbība ir atjaunota. Varat sākt izstrādes vidi.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Iepriekšējais skrējiens tika pārtraukts. Termināļa komandas netiks atskaņotas automātiski. Restartējiet tieši no Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Pagaidu savienojuma konfigurācijas tīrīšana ir nepilnīga. Procesa tīrīšana turpinājās.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nevarēja izveidot helloworld darbvietu. Pārbaudiet direktoriju un pieejamo vietu.</string>
+    <string name="native_68301868225a" formatted="false">Iepriekšējais darbvietas direktorijs nav pieejams. Atvērts helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Noklusējuma projekts vēl nav gatavs. Mēģiniet vēlreiz no sadaļas Faili.</string>
+    <string name="native_45d6ab452622" formatted="false">Instalējiet valodu serverus</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ un Python valodu serveri ir gatavi. Sāciet OpenCode, lai izmantotu LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Termināļa darbības ieraksts netika saglabāts. Pēc procesa pārtraukšanas izveidojiet jaunu termināli.</string>
+    <string name="native_1978b311a9ff" formatted="false">Nevarēja pabeigt termināļa izejas ieraksta saglabāšanu.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode atjauninājuma lejupielāde</string>
+    <string name="native_06f76cca8fb9" formatted="false">Notiek savienojuma izveide ar atjaunināšanas avotu…</string>
+    <string name="native_8c39baf28e08" formatted="false">Nevar izveidot savienojumu ar atjaunināšanas avotu. Pārbaudiet tīklu, izdevēja parakstu, resursdatora versiju un brīvo vietu.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Lejupielādes noildze</string>
+    <string name="native_f75850093535">Lejupielāde: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Notiek izdevēja paraksta pārbaude…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Notiek atjauninājumu pakotnes lejupielāde…</string>
+    <string name="native_2f9cd52dc66a">Derīgs izdevēja paraksts: %1$s. Pārskatiet pirms lejupielādes.</string>
+    <string name="native_17548865632c" formatted="false">Lejupielādējiet, izlaidiet metadatus un pakotnes parakstu. Apstipriniet uzstādīšanu.</string>
+    <string name="native_180cec958e7a" formatted="false">Lejupielāde ir atcelta. Saglabāta sākotnējā versija.</string>
+    <string name="native_8df045f8ac12" formatted="false">Lejupielāde apturēta. Saglabāta sākotnējā versija.</string>
+    <string name="native_778803f1c6bb" formatted="false">Atcelt lejupielādi</string>
+    <string name="native_2958898ce6f4" formatted="false">Jaunajai versijai neizdevās vietējās startēšanas, versijas vai autentifikācijas pārbaudes. Iepriekšējā versija tiks atjaunota.</string>
+    <string name="native_cc876dfbb261" formatted="false">Izmēģinājuma process joprojām tiek pārtraukts. Pirms atkārtotas mēģinājuma pagaidiet atkopšanu.</string>
+    <string name="native_adf977dcb47e" formatted="false">Nederīgs atjaunināšanas ieraksta identifikators</string>
+    <string name="native_5207cac670b7" formatted="false">Instalētā savrupā OpenCode izmērs neatbilst</string>
+    <string name="native_cf5b81887589" formatted="false">Instalētā savrupā OpenCode kontrolsumma neatbilst. Atjaunot iepriekšējo versiju.</string>
+    <string name="native_393049b506cc" formatted="false">Sākotnējai programmai nav atbilstoša izdevēja apliecinājuma. Iepriekšējais stāvoklis nemainīgs.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Vispirms atkopiet iepriekšējo pārtraukto atjauninājumu</string>
+    <string name="native_91d8da5525fa" formatted="false">Atjauninājumu pakotne tika mainīta pēc apstiprināšanas</string>
+    <string name="native_093f2c091a30" formatted="false">Nepietiekama uzglabāšanas vieta. Sākotnējā versija nemainīga.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Nav pieejams atjaunināšanas dublējums, ko atjaunot</string>
+    <string name="native_a9f4d9903c14" formatted="false">Dublējums neatbilst darbības versijai</string>
+    <string name="native_6caa23763a42" formatted="false">Iepriekšējās programmas pārbaude neizdevās. Pašreizējās sesijas nav mainītas.</string>
+    <string name="native_c8b71b876695" formatted="false">Komplektā iekļauto programmu aizstāja vēlāks APK vai Debian atjauninājums. Sākotnējā sesijas dublējums tiek saglabāts; vispirms atjaunojiet atbilstošo programmu.</string>
+    <string name="native_c443df40964b" formatted="false">Nederīga atjaunināšanas atkopšanas darbība</string>
+    <string name="native_9071f05d58b3" formatted="false">Notiek OpenCode atjauninājuma sagatavošana…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Apturiet OpenCode, termināļus un darbvirsmu, pēc tam pagaidiet, līdz tie iziet.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Stāvokļa saglabāšana, programmu pārbaude un versiju pārslēgšana</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nevarēja palaist atjaunināšanas apkopes pakalpojumu.</string>
+    <string name="native_f7b560c8c820" formatted="false">Oficiālās programmas pārbaude un iestudēšana…</string>
+    <string name="native_9606191c82dc" formatted="false">Tiek saglabāta sākotnējā programma un izdevēja paraksts…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Notiek sesijas stāvokļa momentuzņēmuma saglabāšana…</string>
+    <string name="native_0c8cf4632889" formatted="false">Versiju pārslēgšana un vietējā pakalpojuma pārbaude…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Notiek versijas un sesiju atjaunošana pirms atjaunināšanas…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode atjaunošana</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode atjaunināšana</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Atjaunota iepriekšējā versija un sesijas. Jaunākās sesijas paliek privātā dublējumkopijā.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode atjaunināšana ir pabeigta. Startēšana izmantos atbilstošo oficiālo priekšgalu un aizmugursistēmu.</string>
+    <string name="native_4693930f5802" formatted="false">atjauninājums ir atcelts. Apstiprinot, ka sākotnējais stāvoklis ir atjaunots.</string>
+    <string name="native_d0e37bc26edd" formatted="false">atjauninājums nav pabeigts. Atgūstos tagad; oriģinālās programmas un sesijas dublējumkopijas tiek saglabātas.</string>
+    <string name="native_9a32d6c2d207" formatted="false">atkopšana ir nepilnīga. Visi valsts direktoriji tiek saglabāti. Saglabājiet savus datus un mēģiniet startēt vēlreiz, lai tos atgūtu.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Sesijas atkopšana ir pabeigta. Jaunāks stāvoklis paliek rezerves kopijā.</string>
+    <string name="native_67c08a2911e1" formatted="false">Atkopšanu nevarēja turpināt ar šo dublējumu vai sākotnējo programmu. Pašreizējās sesijas un dublējumkopijas nav mainītas.</string>
+    <string name="native_976d8c169cfa" formatted="false">Atjaunināšana ir atcelta vai neizdevās. Atjaunota sākotnējā versija un sesijas.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Atjaunināšanas pakotnes paraksta un integritātes pārbaude…</string>
+    <string name="native_0aa018b7337b" formatted="false">Nevar nolasīt atlasīto failu</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">atjaunināšanas pakotne ir pārāk liela</string>
+    <string name="native_f068b83f40bf" formatted="false">Paraksts un iepakojums pārbaudīts. Pirms instalēšanas pārskatiet versiju.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nevar importēt: nederīgs fails, paraksta neatbilstība, nesaderīga resursdatora versija vai nepietiek vietas krātuves.</string>
+    <string name="native_616412e65df4" formatted="false">Oficiālā programma neatbilst tās izdevēja pierādījumam</string>
+    <string name="native_4bf19a158f27" formatted="false">Savrupās izpildlaika pakotnes atbalsta tikai ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Atjauninājuma paraksts nepieder šim APK</string>
+    <string name="native_c7273354727f" formatted="false">Atjauninājuma fails pārsniedz deklarēto izmēru</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Atjaunināšanas programmas kontrolsumma neatbilst</string>
+    <string name="native_dd619076d456" formatted="false">Nederīgs atjauninājumu pakotnes izmērs</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Saspiestā atjauninājuma pakotnes izmērs neatbilst</string>
+    <string name="native_1de24edffcf5" formatted="false">Atjaunināšanas pakotnē ir papildu ieraksti</string>
+    <string name="native_c5b339aa77e8" formatted="false">Nesaderīga atjauninājuma izcelsme vai arhitektūra</string>
+    <string name="native_89d585f3661f" formatted="false">Pirms šī atjauninājuma instalēšanas jauniniet Android lietotni</string>
+    <string name="native_800df084dea0" formatted="false">Atjaunināšanas arhīva kontrolsumma neatbilst</string>
+    <string name="native_ddf1a005e310" formatted="false">Šis APK parakstīšanas formāts neatbalsta atsevišķus izpildlaika atjauninājumus</string>
+    <string name="native_172e063db474" formatted="false">Nederīgs atjaunināšanas pakotnes ieraksts</string>
+    <string name="native_1c08780aa99f" formatted="false">Atjaunināšanas metadatos ir jāizmanto veseli skaitļi</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Atjaunināšanas programma nav 64 bitu Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Atjaunināšanas programma neatbilst 16 KiB ELF līdzinājumam</string>
+    <string name="native_3afa3741911b" formatted="false">Atjaunināšanas programmai trūkst Debian glibc ielādes</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Ievadiet derīgu HTTPS atjaunināšanas avotu</string>
+    <string name="native_c274c7dd5900" formatted="false">Atjaunināšanas avotiem ir nepieciešami HTTPS URL bez lietotāja akreditācijas datiem</string>
+    <string name="native_f459f5ec9dac" formatted="false">Nederīgs atjaunināšanas avota lauks</string>
+    <string name="native_bde2a736e30a" formatted="false">Vispirms jauniniet Android saimniekdatoru</string>
+    <string name="native_b980fd021bef" formatted="false">Nederīgs atjaunināšanas direktorijs</string>
+    <string name="native_c0e96727553e" formatted="false">Nederīgs atjaunināšanas fails</string>
+    <string name="native_86ff542c68ed" formatted="false">Šajā stāvoklī nevar pārslēgt atjaunināšanas direktorijus</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Sesijas stāvoklis attiecas uz ārēju direktoriju. Atjauninājumu nevar droši pārbaudīt.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Nepietiekama uzglabāšanas vieta. Sākotnējais stāvoklis nemainīgs.</string>
+    <string name="native_099801d672b1" formatted="false">Lejupielāde ir atcelta</string>
+    <string name="native_f1304f707ec9" formatted="false">Pārāk daudz atjauninājumu novirzīšanas</string>
+    <string name="native_0d07f458b607" formatted="false">Atjaunināšanas serveris nepārsūtīja sākotnējos baitus</string>
+    <string name="native_de331dfd8908" formatted="false">Atjauninājuma faila garums neatbilst</string>
+    <string name="native_416b8c87e69e" formatted="false">Atjauninājuma fails netika pilnībā lejupielādēts</string>
+    <string name="native_e1e74b76c427" formatted="false">Atjaunināšanas serveris neatgrieza visu failu</string>
+    <string name="native_6afcf03cb130" formatted="false">Nepietiekama atjaunināšanas iestudējuma vieta</string>
+    <string name="native_be1c695d9241" formatted="false">Atjaunināšanas fails SHA-256 neatbilst</string>
+    <string name="native_a0133d117bb0" formatted="false">Atjaunināšanas pakotne neatbilst apstiprinātajai laidiena informācijai</string>
+    <string name="native_8635a43ce28a" formatted="false">Nederīgs projekta direktorijs</string>
+    <string name="native_d32ab8b004e6" formatted="false">Nevarēja saglabāt darbvietas atrašanās vietu</string>
+    <string name="native_43a5447014fd" formatted="false">Pirms termināļa atvēršanas palaidiet izstrādes vidi no Runtime.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Jauns terminālis</string>
+    <string name="native_b3b7108a568f" formatted="false">Aizvērt strāvu</string>
+    <string name="native_0e822affd5da">Sākotnējais direktorijs: %1$s</string>
+    <string name="native_72d769e3888d">Jauns termināļa direktorijs: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Sistēmas failu atlasītājs nav pieejams</string>
+    <string name="native_179a57921f91" formatted="false">WebView renderēšanas iestatījumi</string>
+    <string name="native_3024ec603eb7" formatted="false">Renderēšanas kadru ātrums</string>
+    <string name="native_55b6d7f645f3" formatted="false">Dod priekšroku 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Sekojiet displeja atsvaidzes intensitātei</string>
+    <string name="native_d4ecf38c341d" formatted="false">Dodiet priekšroku 60 Hz, lai samazinātu renderēšanas slodzi augsta atsvaidzes intensitātes displejos. Sekojot displejam, sistēma var ieplānot kadrus. Attiecas tikai uz šīs lietotnes logu.</string>
+    <string name="native_bf0d3a407418" formatted="false">Nav instalēts</string>
+    <string name="native_2fb8edc75b25" formatted="false">Gatavs</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Pārbaudes iekrāvējs</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian instalēšana</string>
+    <string name="native_f863d955fa6e" formatted="false">Vietējās attīstības vide</string>
+    <string name="native_55aa84065de2" formatted="false">Vietējā Debian izstrādes sesija</string>
+    <string name="native_6e75b1822ebc" formatted="false">Stop</string>
+    <string name="native_5f73a4e1e494" formatted="false">uzstādīts</string>
+    <string name="native_147e90d2ec02" formatted="false">Atveseļošanās</string>
+</resources>

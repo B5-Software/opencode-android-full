@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">개발 작업 공간</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + 데스크탑</string>
+    <string name="native_7f1c02616d60" formatted="false">단일 페이지</string>
+    <string name="native_651ae6ea52ae" formatted="false">분할 보기 복원</string>
+    <string name="native_d7e97cfac66f" formatted="false">작업공간 레이아웃</string>
+    <string name="native_2a03e2ed30f9" formatted="false">여러 패널을 함께 보려면 창을 넓힙니다.</string>
+    <string name="native_e792dd4cfa78" formatted="false">프로젝트 파일 표시</string>
+    <string name="native_712d956931d1" formatted="false">터미널 표시</string>
+    <string name="native_073cc20d9ed9" formatted="false">아래 터미널</string>
+    <string name="native_5de225480fa7" formatted="false">오른쪽 터미널</string>
+    <string name="native_35cdb3eacdc6" formatted="false">공간이 제한되면 패널이 축소되고 부동 메뉴에서 계속 액세스할 수 있습니다. 측면 터미널이 더 넓은 창에 나타납니다. 패널 크기를 조정하려면 구분선을 드래그하세요.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + 왼쪽 Alt: 1-5 페이지 · B 파일 · T 터미널 · M 데스크톱 · 단일/분할 입력 · \\\\ 레이아웃</string>
+    <string name="native_7a129a94c6ff" formatted="false">완료</string>
+    <string name="native_bcec2218fc21" formatted="false">비율 재설정</string>
+    <string name="native_da88c62d1217">단일 페이지에 %1$s 표시</string>
+    <string name="native_1b4b3afbe52d" formatted="false">프로젝트 파일 구분선</string>
+    <string name="native_707c0891a0e6" formatted="false">터미널 분배기</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode 및 데스크탑 분배기</string>
+    <string name="native_50407ad8dfa8" formatted="false">이전 패널 축소</string>
+    <string name="native_b72c5c02a666" formatted="false">이전 패널 확대</string>
+    <string name="native_3f3685e8d731" formatted="false">이 아카이브 형식에 대한 PRoot 링크가 너무 많습니다.</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux 하드 링크에는 완전한 rootfs가 필요합니다.</string>
+    <string name="native_f336f1e17596" formatted="false">백업 디렉터리 중첩이 너무 깊습니다.</string>
+    <string name="native_b6f744737a45" formatted="false">잘못된 백업 비밀번호 길이</string>
+    <string name="native_13bde5dd1812" formatted="false">백업 비밀번호는 12자 이상이어야 합니다.</string>
+    <string name="native_be02cbd55932" formatted="false">지원되지 않는 백업 형식</string>
+    <string name="native_7a91a3d586ae" formatted="false">잘못된 백업 헤더</string>
+    <string name="native_2bbd318a5667" formatted="false">지원되지 않는 백업 암호화 매개변수</string>
+    <string name="native_18868da27841" formatted="false">백업 비밀번호가 잘못되었거나 파일이 손상되었습니다.</string>
+    <string name="native_e41d6440468d" formatted="false">복구 기록이 너무 큽니다.</string>
+    <string name="native_282692502f14" formatted="false">백업 메타데이터가 너무 큽니다.</string>
+    <string name="native_61fdca8d6c82" formatted="false">백업 메타데이터 중첩이 너무 깊습니다.</string>
+    <string name="native_8cefb30732d4" formatted="false">잘못된 백업 메타데이터</string>
+    <string name="native_5d3037708cad" formatted="false">지원되지 않는 기본 설정</string>
+    <string name="native_81a57c382f9d" formatted="false">기본 설정을 저장할 수 없습니다.</string>
+    <string name="native_50603e683d4a" formatted="false">백업 경로의 상위 디렉터리가 잘못되었습니다.</string>
+    <string name="native_c3f838a46b8e" formatted="false">워크스테이션 루트는 심볼릭 링크가 아니어야 합니다.</string>
+    <string name="native_9ddd2d8280c8" formatted="false">백업 중에 파일이 변경되었습니다.</string>
+    <string name="native_77e1e85147db" formatted="false">지원되지 않는 워크스테이션 데이터 형식</string>
+    <string name="native_a927b5a565af" formatted="false">백업에 추가 데이터가 포함되어 있습니다.</string>
+    <string name="native_c2b886d508f2" formatted="false">백업에 중복된 경로가 포함되어 있습니다.</string>
+    <string name="native_3dab8cd60102" formatted="false">백업에 마이그레이션할 수 없는 런타임 설정이 포함되어 있습니다.</string>
+    <string name="native_f45ba674a630" formatted="false">백업이 너무 크거나 저장 공간이 부족합니다.</string>
+    <string name="native_140073e8e77b" formatted="false">심볼릭 링크 타임스탬프를 복원할 수 없습니다.</string>
+    <string name="native_b0d411aaf62c" formatted="false">명명된 파이프 타임스탬프를 복원할 수 없습니다.</string>
+    <string name="native_0daee8026db1" formatted="false">워크스테이션 백업 및 복원</string>
+    <string name="native_1acc18928c5f" formatted="false">Debian, 개발자 도구, 프로젝트, 홈, OpenCode 세션 및 설정, Linux 브라우저 데이터, 기본 레이아웃 설정이 포함됩니다.</string>
+    <string name="native_62254d31a535" formatted="false">임시 파일과 오래된 백업은 제외됩니다. Android WebView 저장소와 전송되지 않은 초안은 이 기기에 남아 있으며 이 백업과 함께 전송되지 않습니다.</string>
+    <string name="native_808eabc7811f" formatted="false">암호화된 백업 생성</string>
+    <string name="native_201c10b38296" formatted="false">백업 가져오기</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">먼저 파일 편집기에서 변경 사항을 저장하세요.</string>
+    <string name="native_0559cd596453" formatted="false">OpenCode, 터미널 및 데스크톱 중지</string>
+    <string name="native_fdf2be8e3b93" formatted="false">환경 작업이 완료되지 않았습니다. 먼저 복구하세요.</string>
+    <string name="native_185f58156330" formatted="false">불완전한 작업 복구</string>
+    <string name="native_20831b6f67a7" formatted="false">마지막 환경 복원 실행 취소</string>
+    <string name="native_4f392d5d6141">암호화된 로컬 사본: %1$s</string>
+    <string name="native_80077c694212" formatted="false">파일에 저장</string>
+    <string name="native_f09619351eb9" formatted="false">로컬 복사본 삭제</string>
+    <string name="native_85c686eb9841">%1$s 처리됨</string>
+    <string name="native_28d567b926cc" formatted="false">백업 작업 취소</string>
+    <string name="native_66c9d896407b" formatted="false">워크스테이션 백업 암호화</string>
+    <string name="native_548cd9f0831e" formatted="false">백업 암호 해독 및 확인</string>
+    <string name="native_d248f5eca9a5" formatted="false">백업에는 SSH 개인 키, API 키 및 계정 데이터가 포함될 수 있습니다. 12자 이상을 사용하세요. 잊어버린 비밀번호는 복구할 수 없습니다.</string>
+    <string name="native_f249422b9ec1" formatted="false">백업은 개인 디렉터리에서 해독되고 확인됩니다. 복원을 확인한 후에만 환경이 교체됩니다.</string>
+    <string name="native_e7be6841703a" formatted="false">백업 비밀번호</string>
+    <string name="native_9f6aeedc5a00" formatted="false">비밀번호를 반복하세요</string>
+    <string name="native_eafdc5cd4882" formatted="false">암호화 시작</string>
+    <string name="native_2986b88beade" formatted="false">복호화 및 확인</string>
+    <string name="native_0eddf4ad9b94" formatted="false">취소</string>
+    <string name="native_f46c5ed7412d" formatted="false">이전 환경 전체를 복원하시겠습니까?</string>
+    <string name="native_33eda0946a5b" formatted="false">암호화된 로컬 복사본을 삭제하시겠습니까?</string>
+    <string name="native_26db24150f2e" formatted="false">프로젝트, 홈, Debian 및 세션은 마지막 복원 이전의 상태로 돌아갑니다. 최신 작업은 앱 내부의 비공개 백업에 유지됩니다.</string>
+    <string name="native_1153b30d51d5" formatted="false">앱 내부의 암호화된 로컬 복사본만 삭제됩니다. 다른 곳에 저장된 파일은 계속 사용할 수 있습니다.</string>
+    <string name="native_427a78a4e69a" formatted="false">확인하다</string>
+    <string name="native_7af46d7ee003" formatted="false">이 워크스테이션 백업을 복원하시겠습니까?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s 항목 · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">백업에는 실행 가능한 Linux 소프트웨어가 포함되어 있습니다. 해당 소스를 신뢰하는지 확인하세요. 복원은 전체 환경을 대체하고 로컬 서비스를 확인합니다. 복구를 위해 이전 환경이 유지됩니다.</string>
+    <string name="native_c3d74ed0c054" formatted="false">백업이 확인되었습니다. 복원 확인을 기다리고 있습니다.</string>
+    <string name="native_97076078c749" formatted="false">Chromium 호환 모드도 활성화합니다(Linux 프로세스 샌드박스 비활성화).</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">기본적으로 꺼져 있습니다. 나중에 데스크톱 설정에서 활성화할 수 있습니다.</string>
+    <string name="native_ddf09383413c" formatted="false">복원 확인</string>
+    <string name="native_8e6056b0f629" formatted="false">가져오기 취소</string>
+    <string name="native_63a895901c76" formatted="false">워크스테이션 환경이 변경되었습니다.</string>
+    <string name="native_a4c994348a39" formatted="false">작업공간 다시 열기</string>
+    <string name="native_774947f0653e" formatted="false">작업 취소</string>
+    <string name="native_e09a22b18445" formatted="false">작업이 중단되었습니다. 작업을 다시 선택하고 비밀번호를 입력하세요.</string>
+    <string name="native_38c5fcc634db" formatted="false">먼저 모든 창에서 파일 편집 내용을 저장하십시오. 다시 시도하기 전에 기존 가져오기를 취소하세요.</string>
+    <string name="native_029bfa8ff772" formatted="false">워크스테이션 복원 및 프로그램 확인</string>
+    <string name="native_e4f04df818f8" formatted="false">선택한 백업 작업 처리 중</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCode, 터미널 및 데스크톱을 중지한 다음 파일 작업이 완료될 때까지 기다립니다.</string>
+    <string name="native_1a5cde18c609" formatted="false">백업 작업을 시작할 수 없습니다. 포그라운드에서 앱을 사용하여 다시 시도하세요.</string>
+    <string name="native_1553b714941d" formatted="false">백업의 암호를 해독하고 확인합니다. 원래 환경은 복구 가능한 상태로 유지됩니다…</string>
+    <string name="native_dafd005e953e" formatted="false">백업이 확인되었습니다. 앱에서 복원을 확인하세요.</string>
+    <string name="native_9fb236184596" formatted="false">앱 내부의 암호화된 로컬 복사본을 삭제했습니다.</string>
+    <string name="native_f98e9ac348b6" formatted="false">작업이 취소되었습니다. 원래 환경 데이터가 유지됩니다.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">작업이 완료되지 않았습니다. 비밀번호, 백업 무결성, 호스트 버전, 여유 공간을 확인하세요. 원래 환경 데이터가 유지됩니다.</string>
+    <string name="native_29deabd28960" formatted="false">암호화된 워크스테이션 백업 생성 중…</string>
+    <string name="native_3d137e243806" formatted="false">암호화된 백업이 생성되었습니다. 저장할 위치를 선택하세요.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">환경을 복원하고 로컬 서비스를 확인합니다. 앱 데이터를 그대로 유지하세요…</string>
+    <string name="native_840a6a8bf2e6" formatted="false">워크스테이션이 복원되었습니다. 이전 환경은 비공개 백업에 유지됩니다. 작업공간을 다시 엽니다.</string>
+    <string name="native_0392cd6152d2" formatted="false">복원 확인에 실패했습니다. 이전 환경으로 돌아왔습니다. 가져온 데이터는 개인 백업에 남아 있습니다.</string>
+    <string name="native_5dc7410b600e" formatted="false">복원이 불완전합니다. 모든 데이터 디렉터리는 유지됩니다. 앱 데이터를 유지하고 복구를 다시 시도하세요.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">이전 워크스테이션 환경을 복원하는 중…</string>
+    <string name="native_15821323ff89" formatted="false">이전 환경이 복원되었습니다. 최신 작업은 개인 백업에 남아 있습니다. 작업공간을 다시 엽니다.</string>
+    <string name="native_56dd94f47870" formatted="false">이 복원은 취소할 수 없습니다. 현재 환경과 백업이 유지됩니다.</string>
+    <string name="native_93530f3fa029" formatted="false">실행 취소가 완료되지 않았습니다. 모든 데이터 디렉터리는 유지됩니다. 앱 데이터를 유지하고 복구를 다시 시도하세요.</string>
+    <string name="native_f12963c80def" formatted="false">암호화된 백업 저장 중…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">암호화된 백업이 저장되었습니다. 로컬 복사본을 다시 저장하거나 수동으로 삭제할 수 있습니다.</string>
+    <string name="native_d660cccf65e0" formatted="false">확인되지 않은 가져오기를 정리하는 중…</string>
+    <string name="native_800592163979" formatted="false">가져오기가 취소되었습니다. 원래 환경은 변경되지 않았습니다.</string>
+    <string name="native_5a90367eb834" formatted="false">가져오기가 취소되었습니다. 원래 환경은 변경되지 않았습니다. 일부 임시 가져오기 데이터는 앱의 개인 디렉터리에 남아 있습니다.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">복호화 및 확인 준비 중…</string>
+    <string name="native_e9f2bea3118c" formatted="false">암호화된 백업 준비 중…</string>
+    <string name="native_7bd5a0c93818" formatted="false">백업 서비스를 시작할 수 없습니다. 포그라운드에서 다시 시도하세요.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">불완전한 환경 작업을 먼저 복구</string>
+    <string name="native_f14aea7c819c" formatted="false">잘못된 복구 기록</string>
+    <string name="native_7c284c55ee08" formatted="false">복구 디렉터리 누락</string>
+    <string name="native_bfc4792df15b" formatted="false">기본 설정이 복구 기록 제한을 초과합니다.</string>
+    <string name="native_8d93770ba8c9">이전 환경 디렉터리 누락: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">알 수 없는 복구 단계</string>
+    <string name="native_20c5124fe175" formatted="false">알 수 없는 복구 작업</string>
+    <string name="native_1c457322b624" formatted="false">복원할 수 있는 이전 환경이 없습니다.</string>
+    <string name="native_30db1666c8e5" formatted="false">이 백업은 다른 앱에 속합니다</string>
+    <string name="native_6687d1c64d75" formatted="false">백업 프로세서 아키텍처가 일치하지 않습니다.</string>
+    <string name="native_b9b37d57fe6b" formatted="false">먼저 이 백업에서 사용되는 버전으로 Android 호스트를 업데이트하세요.</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">백업 디렉터리가 불완전합니다.</string>
+    <string name="native_66106ab3e254" formatted="false">이전 백업에는 확인 가능한 OpenCode 게시자 증명이 없습니다. 다시 백업하기 전에 이 호스트로 원래 환경을 시작하십시오.</string>
+    <string name="native_bec13cc92982" formatted="false">개발 환경 시스템 작업</string>
+    <string name="native_65de80229626" formatted="false">Debian가 시스템 작업을 요청했습니다.</string>
+    <string name="native_5e38581cf19c" formatted="false">탭하여 요청을 검토하고 처리하세요.</string>
+    <string name="native_749d406d2c67" formatted="false">Debian 개발 환경에서</string>
+    <string name="native_4032d33b2afd" formatted="false">시스템 브라우저를 여시겠습니까?</string>
+    <string name="native_ce9491abbc6c" formatted="false">로컬 프로젝트 미리보기를 여시겠습니까?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">클립보드를 읽으시겠습니까?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">시스템 클립보드에 복사하시겠습니까?</string>
+    <string name="native_77f761eb70aa" formatted="false">지역 알림을 보내시겠습니까?</string>
+    <string name="native_e6b29e80abb7" formatted="false">프로젝트 파일을 공유하시겠습니까?</string>
+    <string name="native_9d36f698b3c1" formatted="false">시스템 파일을 가져오시겠습니까?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">프로젝트 파일을 내보내시겠습니까?</string>
+    <string name="native_7ac295421c6d" formatted="false">브라우저에서 열기</string>
+    <string name="native_bbdb6043b5e9" formatted="false">미리보기 열기</string>
+    <string name="native_14792d6cd7a6" formatted="false">읽기 허용</string>
+    <string name="native_b4caf8b99ddd" formatted="false">클립보드에 복사</string>
+    <string name="native_4b3361a8c3a3" formatted="false">알림 보내기</string>
+    <string name="native_88152a09fa02" formatted="false">공유 앱 선택</string>
+    <string name="native_7a49a79c57f9" formatted="false">파일 선택</string>
+    <string name="native_99d9f87419c5" formatted="false">저장할 위치를 선택하세요</string>
+    <string name="native_23e5bb2090aa">%1$s\nOpenCode에서 격리된 브라우저 데이터로 열립니다.</string>
+    <string name="native_ecf17eaad49e" formatted="false">시스템 클립보드의 텍스트를 현재 Debian 프로그램에 제공합니다.</string>
+    <string name="native_dcc6bec24e43">%1$s로 가져올 파일을 선택하세요. 기존 파일은 유지되고 중복 파일의 이름은 변경됩니다.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium 브라우저 모드</string>
+    <string name="native_4767f37900f6" formatted="false">호환성 모드는 별도의 브라우저 프로필을 사용하고 Chromium의 Linux 프로세스 샌드박스를 비활성화합니다. 브라우저는 이 앱 내부의 파일에 계속 액세스할 수 있습니다. 신뢰할 수 없는 웹사이트를 피하고 중요한 계정에는 Android 시스템 브라우저를 사용하세요. 모드를 변경한 후 Chromium을 다시 엽니다.</string>
+    <string name="native_a4317f2699a2" formatted="false">표준 Linux 샌드박스는 기본적으로 활성화되어 있습니다. Chromium을 시작할 수 없는 경우 호환성 모드를 선택할 수 있습니다. Linux 프로세스 샌드박스를 비활성화하고 별도의 프로필을 사용하는 동시에 앱 파일에 대한 액세스를 유지합니다. 신뢰할 수 없는 웹사이트를 피하세요. 중요한 계정에는 Android 시스템 브라우저를 사용하세요.</string>
+    <string name="native_3a2596fa9517" formatted="false">복원 표준 모드</string>
+    <string name="native_eeb5e46d62ae" formatted="false">호환 모드 활성화</string>
+    <string name="native_9a45442649f5" formatted="false">Debian 데스크탑</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · 공유 /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">첫 번째 설치에서는 그래픽 구성 요소를 다운로드합니다. 설치 후 데스크톱은 OpenCode와 독립적으로 시작 및 중지될 수 있습니다.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC 미러</string>
+    <string name="native_41e865941e16" formatted="false">공식 Debian 미러</string>
+    <string name="native_ea341b8a102b" formatted="false">초기 해상도</string>
+    <string name="native_ff1cde9ba35d" formatted="false">페이지를 전환해도 데스크탑이 계속 실행됩니다. 런타임에서 중지하십시오.</string>
+    <string name="native_aadf816e2dc8" formatted="false">데스크탑 작업 중지</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">데스크탑 시작</string>
+    <string name="native_ea27a25e5114" formatted="false">데스크탑 구성 요소 설치</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: 호환 모드</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: 표준 모드</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">먼저 런타임에서 Debian 개발자 도구를 설치하십시오.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">활동 로그</string>
+    <string name="native_bfaa904aa4d4" formatted="false">프로젝트 폴더를 열 수 없습니다. 디렉토리가 존재하는지 확인하십시오.</string>
+    <string name="native_83c76743b29d" formatted="false">중단된 환경 작업 복구</string>
+    <string name="native_739a730ae247" formatted="false">환경 유지 관리</string>
+    <string name="native_049281329843" formatted="false">업데이트 유지 관리 또는 현재 작업이 완료될 때까지 기다립니다.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">현재 개발 환경 작업이 완료될 때까지 기다립니다.</string>
+    <string name="native_83099168971c" formatted="false">데스크탑 설치</string>
+    <string name="native_85e0c18dde8d" formatted="false">데스크탑 시작</string>
+    <string name="native_9a48f8196d8f" formatted="false">주의가 필요함</string>
+    <string name="native_75470fb13121" formatted="false">중지됨</string>
+    <string name="native_51a53c8109d5" formatted="false">활동 기록을 읽거나 저장할 수 없습니다. 런타임에서 복구하거나 일부 저장 공간을 확보하세요.</string>
+    <string name="native_d36a018cc619" formatted="false">Debian 개발 환경을 먼저 설치하십시오.</string>
+    <string name="native_80be4c2928a5" formatted="false">먼저 네트워크에 연결하세요</string>
+    <string name="native_a065d81014b1" formatted="false">데스크탑 설치가 완료되지 않았습니다. 설치를 다시 시도하십시오.</string>
+    <string name="native_721c38b32c35" formatted="false">데스크탑이 설치되었습니다. 필요할 때 시작하세요.</string>
+    <string name="native_6c1c52771115" formatted="false">데스크탑 구성 요소를 먼저 설치하십시오.</string>
+    <string name="native_693d90a47827" formatted="false">데스크탑 작업이 실패했습니다. 세부정보가 너무 길거나 사용할 수 없습니다.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">정지 마커 저장을 완료할 수 없습니다. 프로세스 정리가 계속되었습니다.</string>
+    <string name="native_06083621a6ce" formatted="false">활동 기록 저장을 완료할 수 없습니다. 다음 출시에서는 이를 중단으로 처리합니다.</string>
+    <string name="native_04d721a3819a" formatted="false">데스크탑 실행 중</string>
+    <string name="native_c3f0acaf7a73" formatted="false">데스크탑 작업 시간이 초과되었습니다. 로그를 검토하고 다시 시도하세요.</string>
+    <string name="native_e70d328a3ca9">데스크탑 프로세스가 종료되었습니다(%1$s). 활동 로그를 검토합니다.</string>
+    <string name="native_df5c878f2852" formatted="false">로컬 그래픽 작업 공간</string>
+    <string name="native_7b0455a8daa4" formatted="false">데스크탑 중지</string>
+    <string name="native_a62123cde9c7" formatted="false">중단된 작업 및 복구</string>
+    <string name="native_279308947a14" formatted="false">활동 기록을 읽을 수 없습니다. 복구는 손상된 기록의 복사본을 유지하고 프로젝트, 세션 및 Linux 환경을 보존합니다.</string>
+    <string name="native_2bd92fae24e5" formatted="false">수리 활동 기록</string>
+    <string name="native_6b43650c2c82" formatted="false">작업이 예기치 않게 종료되었습니다.</string>
+    <string name="native_acb0c970aaa6">%1$s 터미널이 정상적으로 닫히지 않았습니다. 실행 명령이 중단되었습니다.</string>
+    <string name="native_4ba153d8dff5" formatted="false">재시작이 확인되었습니다. 이전 명령이 재생되지 않았습니다.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">저장된 프로젝트와 세션은 유지됩니다. 터미널을 수동으로 다시 엽니다. 완료되지 않은 명령은 자동으로 재개되지 않습니다.</string>
+    <string name="native_fa9669296762" formatted="false">OpenCode 다시 시작</string>
+    <string name="native_bd8130bec5d9" formatted="false">데스크탑이 자동으로 다시 시작되지 않습니다. 데스크톱 페이지에서 다시 시작하세요.</string>
+    <string name="native_644f8f44251f" formatted="false">파일 열기</string>
+    <string name="native_9dfb5569d609" formatted="false">파일 공유</string>
+    <string name="native_a4500cff3a86" formatted="false">작업 디렉토리는 심볼릭 링크가 아니어야 합니다.</string>
+    <string name="native_8657d27661bd" formatted="false">잘못된 작업 디렉터리 경로</string>
+    <string name="native_02b702a9adff" formatted="false">파일 선택</string>
+    <string name="native_924874b746cc" formatted="false">터미널에서 심볼릭 링크 관리</string>
+    <string name="native_efea6e422a54" formatted="false">잘못된 파일 이름</string>
+    <string name="native_c4989dc37aab" formatted="false">디렉토리가 존재하지 않습니다</string>
+    <string name="native_d613dba39b44" formatted="false">대상 디렉터리가 존재하지 않습니다.</string>
+    <string name="native_4f9b3fb4920b" formatted="false">폴더 자체 또는 하위 항목 안에 폴더를 배치할 수 없습니다.</string>
+    <string name="native_c3acd5a3254c" formatted="false">프로젝트에 특수 장치나 소켓이 포함되어 있어 복사할 수 없습니다.</string>
+    <string name="native_6c36955b068b" formatted="false">일반 파일을 선택하세요</string>
+    <string name="native_49191d7d489f" formatted="false">이 파일은 2 MB를 초과합니다. OpenCode 또는 터미널로 편집하세요.</string>
+    <string name="native_ee42414d36c2" formatted="false">파일이 너무 큽니다.</string>
+    <string name="native_f0a979f87157" formatted="false">바이너리 파일을 내보내 다른 앱에서 열 수 있음</string>
+    <string name="native_88a9c82651fc" formatted="false">OpenCode 또는 터미널을 사용하여 UTF-8이 아닌 파일 편집</string>
+    <string name="native_0189a5c3418c" formatted="false">다른 도구가 이 파일을 변경했습니다. 편집하기 전에 다시 엽니다.</string>
+    <string name="native_0ce79256f4ac" formatted="false">원래 디렉터리가 더 이상 존재하지 않습니다. 먼저 복원하세요.</string>
+    <string name="native_46eae321049e" formatted="false">사용할 수 있는 공유 앱이 없습니다.</string>
+    <string name="native_87d699d3a26c" formatted="false">휴지통</string>
+    <string name="native_d0a8c03d6c07" formatted="false">프로젝트 파일</string>
+    <string name="native_4dcf914f0b64" formatted="false">삭제된 파일을 원래 디렉터리로 복원할 수 있습니다.</string>
+    <string name="native_c5b81b02354f" formatted="false">돌아가기</string>
+    <string name="native_e56b99379169">%1$s 파일을 복사했습니다 · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">복사 중…</string>
+    <string name="native_85199bb36b04" formatted="false">작업 취소</string>
+    <string name="native_e9dc52d1c24b" formatted="false">닫기</string>
+    <string name="native_4e1e5aacac7f" formatted="false">새 세션</string>
+    <string name="native_23c250cc8e0b" formatted="false">여기에서 OpenCode 세션을 시작하세요</string>
+    <string name="native_f22da21fd54f" formatted="false">터미널</string>
+    <string name="native_3645f30b3412" formatted="false">저장되지 않은 변경 사항</string>
+    <string name="native_2266227605c4" formatted="false">저장하기</string>
+    <string name="native_064fbc7ad3f3" formatted="false">휴지통이 비어 있습니다</string>
+    <string name="native_a9e739b13e52" formatted="false">복원</string>
+    <string name="native_45985dc2183e" formatted="false">이동:</string>
+    <string name="native_31214130b5b7" formatted="false">복사:</string>
+    <string name="native_07e5c3158f35" formatted="false">페이스트</string>
+    <string name="native_831b4e0fb574" formatted="false">새로운</string>
+    <string name="native_ff65a22d7087" formatted="false">새 폴더</string>
+    <string name="native_71faed44a86c" formatted="false">새 파일</string>
+    <string name="native_8dddd460f6ae" formatted="false">가져오기</string>
+    <string name="native_d85825123e60" formatted="false">새로 고침</string>
+    <string name="native_ac9d73843736" formatted="false">이 디렉토리 검색</string>
+    <string name="native_21eef82963ee" formatted="false">이 디렉터리는 비어 있습니다. 파일을 가져오거나 프로젝트를 만듭니다.</string>
+    <string name="native_e8a4cecaa371" formatted="false">일치하는 파일이 없습니다.</string>
+    <string name="native_d674bc0f86b8" formatted="false">파일 작업</string>
+    <string name="native_d04a47c87cc8" formatted="false">심볼릭 링크</string>
+    <string name="native_e0ba66f5246a" formatted="false">폴더</string>
+    <string name="native_f170b42599e8" formatted="false">이름 바꾸기</string>
+    <string name="native_4cdacf57ead2" formatted="false">복사</string>
+    <string name="native_124aa030694e" formatted="false">다음으로 이동…</string>
+    <string name="native_ac990518ed87" formatted="false">여기서 터미널 열기</string>
+    <string name="native_87bc93932d8a" formatted="false">시스템 파일로 내보내기</string>
+    <string name="native_dd37f132172f" formatted="false">휴지통으로 이동</string>
+    <string name="native_7318746d337c" formatted="false">휴지통으로 이동하시겠습니까?</string>
+    <string name="native_2b5ee3f10a56">휴지통에서 \"%1$s\"을(를) 복원할 수 있습니다.</string>
+    <string name="native_e49730c9e7e1" formatted="false">이동</string>
+    <string name="native_4e47aaa113fc" formatted="false">저장되지 않은 변경 사항을 삭제하시겠습니까?</string>
+    <string name="native_63b75399ef1a" formatted="false">변경 사항 취소</string>
+    <string name="native_d9618f7b8d25" formatted="false">계속 편집</string>
+    <string name="native_76ce6aef5479" formatted="false">이름</string>
+    <string name="native_35b0fc30b909" formatted="false">확인</string>
+    <string name="native_11b319774788" formatted="false">환경이 복원되었습니다. 작업공간을 다시 엽니다.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">먼저 런타임에서 중단된 작업 복구를 완료합니다.</string>
+    <string name="native_f29af06e7c99" formatted="false">환경 점검이 진행 중입니다. 나중에 다시 시도하세요.</string>
+    <string name="native_3bd28258feb0" formatted="false">작업이 취소되었습니다.</string>
+    <string name="native_c508721eb3cd" formatted="false">같은 이름의 파일이 이미 존재합니다. 다른 이름을 선택하세요.</string>
+    <string name="native_1e8274fe468a" formatted="false">파일이 더 이상 존재하지 않습니다. 디렉터리를 새로 고칩니다.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">파일 액세스 권한이 거부되었습니다.</string>
+    <string name="native_cd808e4c321e" formatted="false">작업을 완료할 수 없습니다.</string>
+    <string name="native_01cbe9be8b9f" formatted="false">작업이 완료되지 않았습니다. 사용 가능한 저장 공간을 확인하거나 파일을 다시 선택하세요.</string>
+    <string name="native_3f9983126fd7" formatted="false">런타임에서 OpenCode 시작 상태 확인</string>
+    <string name="native_6ed9fe2281bb" formatted="false">새 터미널을 열 수 없습니다. 세션 수를 확인하세요.</string>
+    <string name="native_2160fde3813a" formatted="false">터미널에서 심볼릭 링크를 관리합니다. 파일 관리자는 링크를 따르지 않습니다.</string>
+    <string name="native_7a844e9d4017" formatted="false">이동 완료</string>
+    <string name="native_573877894fcf" formatted="false">복사 완료</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">휴지통으로 이동됨</string>
+    <string name="native_862330af933f" formatted="false">원래 디렉터리로 복원됨</string>
+    <string name="native_beda23c9d52b" formatted="false">환경 유지보수 또는 교체가 발생했습니다. 편집하기 전에 작업공간을 다시 엽니다.</string>
+    <string name="native_678c6953bb2b" formatted="false">저장됨</string>
+    <string name="native_8063159f2178" formatted="false">선택한 파일을 읽을 수 없습니다</string>
+    <string name="native_4cdc2180d2ac">가져온 %1$s 파일</string>
+    <string name="native_e98763643b93" formatted="false">선택한 위치에 쓸 수 없습니다.</string>
+    <string name="native_5afd173be7fa" formatted="false">수출 완료</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">코드 및 세션</string>
+    <string name="native_8745ed51cadd" formatted="false">데스크탑</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">그래픽 작업 공간</string>
+    <string name="native_770d49c5f689" formatted="false">파일</string>
+    <string name="native_6a9b6480b58f" formatted="false">런타임</string>
+    <string name="native_b561fe9204cc" formatted="false">서비스 및 개발자 도구</string>
+    <string name="native_70850bdeeabd" formatted="false">페이지 메뉴 닫기</string>
+    <string name="native_b4549acb48e8" formatted="false">작업 공간</string>
+    <string name="native_3d3551f4660f">플로팅 버튼 불투명도 %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">값이 낮을수록 플로팅 버튼이 더 투명해집니다.</string>
+    <string name="native_e031beabfc9a" formatted="false">페이지 메뉴 열기</string>
+    <string name="native_106ee775b538" formatted="false">로컬 OpenCode에 연결하는 중…</string>
+    <string name="native_a021adc1f449" formatted="false">로컬 연결 복구 필요</string>
+    <string name="native_dacb8837471c" formatted="false">다시 연결</string>
+    <string name="native_17584aa60ae6" formatted="false">로컬 리소스 캐시를 준비할 수 없습니다.</string>
+    <string name="native_3b3b80064ccb" formatted="false">로컬 OpenCode 준비 중…</string>
+    <string name="native_2560ee8fdd16" formatted="false">재시도</string>
+    <string name="native_b07809340403" formatted="false">작업공간 위치가 아직 저장되지 않았습니다. 나중에 다시 시도하세요.</string>
+    <string name="native_e4ab10392d05" formatted="false">로컬 서비스가 준비 중입니다. 연결되면 작업 공간이 자동으로 열립니다.</string>
+    <string name="native_20ea15973287" formatted="false">이전 실행이 중단되었습니다. 런타임에서 다시 시작하십시오. 터미널 명령은 자동으로 재생되지 않습니다.</string>
+    <string name="native_f2f2f6d32544" formatted="false">런타임에서 OpenCode를 시작하여 코드와 세션을 엽니다.</string>
+    <string name="native_abbac5c22111" formatted="false">앱을 종료하시겠습니까?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">개발 환경은 백그라운드에서 계속 실행될 수 있습니다. 나중에 알림에서 돌아오세요.</string>
+    <string name="native_814a8fb24b62" formatted="false">현재 작업공간을 종료하시겠습니까?</string>
+    <string name="native_a76464945c2d" formatted="false">개발 환경도 중지합니다</string>
+    <string name="native_b814fd8d6bc5" formatted="false">종료</string>
+    <string name="native_b00143b08ff1" formatted="false">개발 워크스테이션 준비됨</string>
+    <string name="native_51bca456a350" formatted="false">Debian 개발 워크스테이션</string>
+    <string name="native_0c2acd0b6057" formatted="false">실행 중</string>
+    <string name="native_cb40c67e7cb1" formatted="false">시작 중</string>
+    <string name="native_44da7f6a451d" formatted="false">정지 중</string>
+    <string name="native_b7e1503a7239" formatted="false">수리 개발 환경</string>
+    <string name="native_7c91bd67ff14" formatted="false">개발 환경 설치</string>
+    <string name="native_cfd73bb04860" formatted="false">정지 환경</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode 시작</string>
+    <string name="native_5d4600a269e9" formatted="false">환경 확인</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Debian 개발자 도구 업데이트</string>
+    <string name="native_c114ec62712b" formatted="false">이전 환경 백업, 프로젝트 및 세션 데이터가 유지됩니다.</string>
+    <string name="native_eb3114155716" formatted="false">언어 서버 설치/업데이트</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++(clangd) 및 Python(pylsp)은 서명된 Debian 저장소에서 온라인으로 설치됩니다. OpenCode와 데스크탑을 먼저 중지하십시오.</string>
+    <string name="native_2c7251cce661" formatted="false">페이지를 전환하려면 플로팅 버튼을 탭하세요. 위치를 변경하려면 드래그하세요.</string>
+    <string name="native_dcef145e6a9b" formatted="false">런타임 정보는 시작 후 여기에 표시됩니다.</string>
+    <string name="native_a8243a4e0d22" formatted="false">오픈 런타임</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">번들 APK 버전</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode 업데이트</string>
+    <string name="native_36ab16248f65" formatted="false">이 앱 게시자가 서명한 .ocaupdate를 가져옵니다. 공식 프론트엔드와 백엔드가 함께 업데이트됩니다.</string>
+    <string name="native_8aad48b0508d" formatted="false">업데이트 소스(HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">업데이트 소스 확인</string>
+    <string name="native_f73973cfadbb">서명된 릴리스: %1$s\n커밋: %2$s · %3$sMiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">다운로드 및 확인</string>
+    <string name="native_f2ef7965bf12" formatted="false">업데이트 패키지 선택</string>
+    <string name="native_165111adfe2c">설치 준비 완료: %1$s\n커밋: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">이 업데이트 설치</string>
+    <string name="native_f9432c4d9b1e" formatted="false">업데이트 이전 버전 및 세션 복원</string>
+    <string name="native_6864335de653" formatted="false">업데이트 취소</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode 업데이트를 설치하시겠습니까?</string>
+    <string name="native_816bf3635d53" formatted="false">업데이트 이전 상태를 복원하시겠습니까?</string>
+    <string name="native_11beb4a42abc">%1$s을(를) 설치합니다. 앱은 세션 스냅샷을 저장하고, 서명된 프로그램을 확인하고, 실패할 경우 이전 버전을 복원합니다. 프로젝트 파일은 유지됩니다.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">세션은 이 업데이트 이전의 상태로 돌아갑니다. 최신 세션은 개인 백업에 남아 있습니다. 프로젝트 파일은 유지됩니다.</string>
+    <string name="native_def5e273616d" formatted="false">설치 확인</string>
+    <string name="native_369d2eefccde" formatted="false">미리보기 브라우저 데이터를 분리할 수 없습니다. 미리보기를 다시 엽니다.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">프로젝트 페이지를 로드할 수 없습니다. 터미널에서 개발 서버를 확인하세요.</string>
+    <string name="native_6e7408950cf5" formatted="false">미리보기 프로젝트 웹사이트</string>
+    <string name="native_bfb4951e071d" formatted="false">프로젝트 미리보기</string>
+    <string name="native_f80652913d06" formatted="false">터미널에서 개발 서버를 시작한 다음 로컬 포트를 입력하십시오. 미리보기 브라우저 데이터는 OpenCode에서 격리됩니다.</string>
+    <string name="native_2c41e85af61f" formatted="false">포트</string>
+    <string name="native_77c3a828a5c5" formatted="false">OpenCode 및 데스크톱 서비스를 제외하고 1024~65535 사이의 개발 포트를 입력하세요.</string>
+    <string name="native_7311a9dfea51" formatted="false">이 포트에서는 수신 대기 중인 항목이 없습니다. 터미널에서 서비스를 확인하세요.</string>
+    <string name="native_4f8d84105475" formatted="false">확인 중…</string>
+    <string name="native_4923c272b68e" formatted="false">개발 포트는 정수여야 합니다.</string>
+    <string name="native_04a87026e81f" formatted="false">유효한 프로젝트 개발 포트를 선택하세요</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode 개발 세션</string>
+    <string name="native_e87a4529ab82" formatted="false">개발 환경 설치</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian 업데이트</string>
+    <string name="native_0c6301bc295d" formatted="false">개발 환경 복구</string>
+    <string name="native_0ddf3d4297eb" formatted="false">개발환경 확인</string>
+    <string name="native_9612d4419bb6" formatted="false">언어 서버 설치</string>
+    <string name="native_f72fba77f87a" formatted="false">환경 복구</string>
+    <string name="native_7c8162195c7c" formatted="false">데스크탑 설치</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">이전 실행이 중단되었습니다. 런타임에서 명시적으로 다시 시작하십시오.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">이 유형의 개발 작업이 아직 실행 중입니다.</string>
+    <string name="native_95a56e0a3fe2" formatted="false">활동 기록 복구 중</string>
+    <string name="native_b66749ed72ea" formatted="false">프로세스가 종료되었습니다.</string>
+    <string name="native_6b25042064e2" formatted="false">신호에 의해 종료됨</string>
+    <string name="native_d6febdf1752b" formatted="false">메모리 부족으로 인해 회수됨</string>
+    <string name="native_1d13790f3c89" formatted="false">앱 충돌</string>
+    <string name="native_28db94d1850d" formatted="false">기본 프로세스 충돌</string>
+    <string name="native_86919539f7f1" formatted="false">앱이 응답하지 않습니다</string>
+    <string name="native_90fb8d6098a5" formatted="false">초기화 실패</string>
+    <string name="native_38c60ab6654c" formatted="false">권한이 변경됨</string>
+    <string name="native_6d2a6c71334d" formatted="false">리소스 제한</string>
+    <string name="native_19b2090b01a8" formatted="false">사용자가 중지를 요청했습니다.</string>
+    <string name="native_120d96445f1a" formatted="false">사용자에 의해 중지됨</string>
+    <string name="native_3c8af14f66bc" formatted="false">종속 프로세스가 종료되었습니다.</string>
+    <string name="native_ca0941ce04ae" formatted="false">기타 시스템 이유</string>
+    <string name="native_2df1ac3c1d38" formatted="false">공정 동결</string>
+    <string name="native_0d48373023a8" formatted="false">앱 상태가 변경됨</string>
+    <string name="native_c752307db26b" formatted="false">앱 업데이트</string>
+    <string name="native_b5015951cbdf" formatted="false">시스템이 종료 이유를 제공하지 않았습니다.</string>
+    <string name="native_b62737b826ad">시스템 종료(%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">프로젝트 디렉터리를 열 수 없습니다.</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode 세션을 생성할 수 없습니다.</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode 세션 디렉터리가 일치하지 않습니다.</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode 세션을 읽을 수 없습니다.</string>
+    <string name="native_2642997cfeec" formatted="false">환경 유지 관리</string>
+    <string name="native_f992d735d932" formatted="false">OpenCode, 터미널 및 Debian 데스크탑을 중지한 다음 파일 작업이 완료될 때까지 기다립니다.</string>
+    <string name="native_489f137f1080" formatted="false">환경 유지 관리 잠금이 더 이상 유효하지 않습니다.</string>
+    <string name="native_42380e2567fc" formatted="false">중단된 작업이 복구되었습니다. 작업공간을 다시 엽니다.</string>
+    <string name="native_17b00cac2b91" formatted="false">로컬 연결 복구에 실패했습니다. 런타임에서 재시도하세요.</string>
+    <string name="native_77e9ca4e944c" formatted="false">환경 점검이 진행 중입니다. 나중에 다시 시도하세요.</string>
+    <string name="native_dbaebe3ce243" formatted="false">개발 환경을 업데이트하기 전에 Debian 데스크탑을 중지하십시오.</string>
+    <string name="native_548085b144c9" formatted="false">중단된 작업이 복구되었습니다. 개발 환경을 시작할 수 있습니다.</string>
+    <string name="native_b4a1531f9eac" formatted="false">이전 실행이 중단되었습니다. 터미널 명령은 자동으로 재생되지 않습니다. 런타임에서 명시적으로 다시 시작하십시오.</string>
+    <string name="native_295cafdfd512" formatted="false">임시 연결 구성 정리가 완료되지 않았습니다. 프로세스 정리가 계속되었습니다.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld 작업 공간을 생성할 수 없습니다. 디렉터리와 사용 가능한 공간을 확인하세요.</string>
+    <string name="native_68301868225a" formatted="false">이전 작업 공간 디렉터리를 사용할 수 없습니다. helloworld를 열었습니다.</string>
+    <string name="native_b33b3ca277eb" formatted="false">기본 프로젝트가 아직 준비되지 않았습니다. 파일에서 다시 시도하세요.</string>
+    <string name="native_45d6ab452622" formatted="false">언어 서버 설치</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ 및 Python 언어 서버가 준비되었습니다. LSP를 사용하려면 OpenCode를 시작하세요.</string>
+    <string name="native_5ea1653deef8" formatted="false">단말기 활동 기록이 저장되지 않았습니다. 프로세스 종료 후 새 터미널을 생성합니다.</string>
+    <string name="native_1978b311a9ff" formatted="false">터미널 종료 기록 저장을 완료할 수 없습니다.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode 업데이트 다운로드</string>
+    <string name="native_06f76cca8fb9" formatted="false">업데이트 소스에 연결하는 중…</string>
+    <string name="native_8c39baf28e08" formatted="false">업데이트 소스에 연결할 수 없습니다. 네트워크, 게시자 서명, 호스트 버전 및 여유 공간을 확인하세요.</string>
+    <string name="native_0bedbc8d185d" formatted="false">다운로드 시간이 초과되었습니다.</string>
+    <string name="native_f75850093535">다운로드 중: %1$s / %2$sMiB</string>
+    <string name="native_30a778f1389a" formatted="false">게시자 서명을 확인하는 중…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">업데이트 패키지 다운로드 중…</string>
+    <string name="native_2f9cd52dc66a">유효한 게시자 서명: %1$s. 다운로드하기 전에 검토하세요.</string>
+    <string name="native_17548865632c" formatted="false">다운로드, 릴리스 메타데이터 및 패키지 서명이 확인되었습니다. 설치를 확인하세요.</string>
+    <string name="native_180cec958e7a" formatted="false">다운로드가 취소되었습니다. 원본 버전이 유지됩니다.</string>
+    <string name="native_8df045f8ac12" formatted="false">다운로드가 중지되었습니다. 원본 버전이 유지됩니다.</string>
+    <string name="native_778803f1c6bb" formatted="false">다운로드 취소</string>
+    <string name="native_2958898ce6f4" formatted="false">새 버전이 로컬 시작, 버전 또는 인증 확인에 실패했습니다. 이전 버전이 복원됩니다.</string>
+    <string name="native_cc876dfbb261" formatted="false">평가판 프로세스가 아직 종료 중입니다. 다시 시도하기 전에 복구될 때까지 기다리십시오.</string>
+    <string name="native_adf977dcb47e" formatted="false">잘못된 업데이트 레코드 식별자</string>
+    <string name="native_5207cac670b7" formatted="false">설치된 독립형 OpenCode 크기가 일치하지 않습니다.</string>
+    <string name="native_cf5b81887589" formatted="false">설치된 독립형 OpenCode 체크섬이 일치하지 않습니다. 이전 버전을 복원하세요.</string>
+    <string name="native_393049b506cc" formatted="false">원본 프로그램에는 일치하는 게시자 증명이 없습니다. 이전 상태는 변경되지 않았습니다.</string>
+    <string name="native_c5853bcfd56c" formatted="false">이전에 중단된 업데이트를 먼저 복구하십시오.</string>
+    <string name="native_91d8da5525fa" formatted="false">업데이트 패키지 확인 후 변경됨</string>
+    <string name="native_093f2c091a30" formatted="false">저장 공간이 부족합니다. 원본 버전은 변경되지 않았습니다.</string>
+    <string name="native_fc9bc82e0872" formatted="false">복원할 수 있는 업데이트 백업이 없습니다.</string>
+    <string name="native_a9f4d9903c14" formatted="false">백업이 실행 중인 버전과 일치하지 않습니다.</string>
+    <string name="native_6caa23763a42" formatted="false">이전 프로그램 검증에 실패했습니다. 현재 세션은 변경되지 않았습니다.</string>
+    <string name="native_c8b71b876695" formatted="false">최신 APK 또는 Debian 업데이트가 번들 프로그램을 대체했습니다. 원래 세션 백업은 유지됩니다. 해당 프로그램을 먼저 복원하십시오.</string>
+    <string name="native_c443df40964b" formatted="false">잘못된 업데이트 복구 작업</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode 업데이트 준비 중…</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCode, 터미널 및 데스크탑을 중지한 다음 종료될 때까지 기다립니다.</string>
+    <string name="native_90c07b54f8f8" formatted="false">상태 저장, 프로그램 확인 및 버전 전환</string>
+    <string name="native_5fc065ef6f50" formatted="false">업데이트 유지 관리 서비스를 시작할 수 없습니다.</string>
+    <string name="native_f7b560c8c820" formatted="false">공식 프로그램 검증 및 준비 중…</string>
+    <string name="native_9606191c82dc" formatted="false">원본 프로그램 및 게시자 서명 보존…</string>
+    <string name="native_5c0d7787ee51" formatted="false">세션 상태 스냅샷 저장 중…</string>
+    <string name="native_0c8cf4632889" formatted="false">버전 전환 및 로컬 서비스 확인 중…</string>
+    <string name="native_3e81ea691a4a" formatted="false">업데이트 이전 버전과 세션을 복원하는 중…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode 복원</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode 업데이트 중</string>
+    <string name="native_6b1ccd3778fa" formatted="false">이전 버전과 세션을 복원했습니다. 최신 세션은 개인 백업에 남아 있습니다.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode 업데이트가 완료되었습니다. Startup은 일치하는 공식 프런트엔드와 백엔드를 사용합니다.</string>
+    <string name="native_4693930f5802" formatted="false">업데이트가 취소되었습니다. 원래 상태로 복원되었음을 확인합니다.</string>
+    <string name="native_d0e37bc26edd" formatted="false">업데이트가 완료되지 않았습니다. 지금 회복 중입니다. 원본 프로그램 및 세션 백업은 유지됩니다.</string>
+    <string name="native_9a32d6c2d207" formatted="false">복구가 완료되지 않았습니다. 모든 상태 디렉터리는 유지됩니다. 데이터를 유지하고 시동을 다시 시도하여 복구하세요.</string>
+    <string name="native_49ad3eeae83d" formatted="false">세션 복구가 완료되었습니다. 최신 상태는 백업에 남아 있습니다.</string>
+    <string name="native_67c08a2911e1" formatted="false">이 백업 또는 원본 프로그램으로 복구를 진행할 수 없습니다. 현재 세션과 백업은 변경되지 않습니다.</string>
+    <string name="native_976d8c169cfa" formatted="false">업데이트가 취소되었거나 실패했습니다. 원래 버전과 세션이 복원되었습니다.</string>
+    <string name="native_7ac77d1513fc" formatted="false">업데이트 패키지 서명 및 무결성 확인 중…</string>
+    <string name="native_0aa018b7337b" formatted="false">선택한 파일을 읽을 수 없습니다</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">업데이트 패키지가 너무 큽니다.</string>
+    <string name="native_f068b83f40bf" formatted="false">서명 및 패키지가 확인되었습니다. 설치하기 전에 버전을 검토하세요.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">가져올 수 없습니다: 잘못된 파일, 서명 불일치, 호환되지 않는 호스트 버전 또는 저장 공간 부족.</string>
+    <string name="native_616412e65df4" formatted="false">공식 프로그램이 게시자 증명과 일치하지 않습니다.</string>
+    <string name="native_4bf19a158f27" formatted="false">독립 실행형 런타임 패키지는 ARM64만 지원합니다.</string>
+    <string name="native_63b1fc6fffc9" formatted="false">업데이트 서명이 이 APK에 속하지 않습니다.</string>
+    <string name="native_c7273354727f" formatted="false">업데이트 파일이 선언된 크기를 초과합니다.</string>
+    <string name="native_2aa6c8e74abb" formatted="false">업데이트 프로그램 체크섬이 일치하지 않습니다.</string>
+    <string name="native_dd619076d456" formatted="false">잘못된 업데이트 패키지 크기</string>
+    <string name="native_20c5bdfeffc0" formatted="false">압축 업데이트 패키지 크기가 일치하지 않습니다.</string>
+    <string name="native_1de24edffcf5" formatted="false">업데이트 패키지에 추가 항목이 포함되어 있습니다.</string>
+    <string name="native_c5b339aa77e8" formatted="false">호환되지 않는 업데이트 원본 또는 아키텍처</string>
+    <string name="native_89d585f3661f" formatted="false">이 업데이트를 설치하기 전에 Android 앱을 업그레이드하세요.</string>
+    <string name="native_800df084dea0" formatted="false">업데이트 아카이브 체크섬이 일치하지 않습니다.</string>
+    <string name="native_ddf1a005e310" formatted="false">이 APK 서명 형식은 독립형 런타임 업데이트를 지원하지 않습니다.</string>
+    <string name="native_172e063db474" formatted="false">잘못된 업데이트 패키지 항목</string>
+    <string name="native_1c08780aa99f" formatted="false">업데이트 메타데이터는 정수를 사용해야 합니다.</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">업데이트 프로그램이 64비트 Linux ELF가 아닙니다.</string>
+    <string name="native_d51ff4ed57b4" formatted="false">업데이트 프로그램이 16 KiB ELF 정렬을 충족하지 않습니다.</string>
+    <string name="native_3afa3741911b" formatted="false">업데이트 프로그램에 Debian glibc 로더가 없습니다.</string>
+    <string name="native_6b0b9e864f5b" formatted="false">유효한 HTTPS 업데이트 소스를 입력하세요.</string>
+    <string name="native_c274c7dd5900" formatted="false">업데이트 소스에는 사용자 자격 증명 없이 HTTPS URL이 필요합니다.</string>
+    <string name="native_f459f5ec9dac" formatted="false">잘못된 업데이트 소스 필드</string>
+    <string name="native_bde2a736e30a" formatted="false">먼저 Android 호스트를 업그레이드하세요.</string>
+    <string name="native_b980fd021bef" formatted="false">잘못된 업데이트 디렉터리</string>
+    <string name="native_c0e96727553e" formatted="false">잘못된 업데이트 파일</string>
+    <string name="native_86ff542c68ed" formatted="false">이 상태에서는 업데이트 디렉터리를 전환할 수 없습니다.</string>
+    <string name="native_fbf82dc7ef22" formatted="false">세션 상태는 외부 디렉터리를 나타냅니다. 업데이트를 안전하게 테스트할 수 없습니다.</string>
+    <string name="native_796dc6b7ca29" formatted="false">저장 공간이 부족합니다. 원래 상태는 변경되지 않았습니다.</string>
+    <string name="native_099801d672b1" formatted="false">다운로드가 취소되었습니다.</string>
+    <string name="native_f1304f707ec9" formatted="false">업데이트 리디렉션이 너무 많습니다.</string>
+    <string name="native_0d07f458b607" formatted="false">업데이트 서버가 원본 바이트를 전송하지 않았습니다.</string>
+    <string name="native_de331dfd8908" formatted="false">업데이트 파일 길이가 일치하지 않습니다.</string>
+    <string name="native_416b8c87e69e" formatted="false">업데이트 파일이 완전히 다운로드되지 않았습니다.</string>
+    <string name="native_e1e74b76c427" formatted="false">업데이트 서버가 전체 파일을 반환하지 않았습니다.</string>
+    <string name="native_6afcf03cb130" formatted="false">업데이트 준비 공간이 부족함</string>
+    <string name="native_be1c695d9241" formatted="false">업데이트 파일 SHA-256이 일치하지 않습니다.</string>
+    <string name="native_a0133d117bb0" formatted="false">업데이트 패키지가 확인된 릴리스 정보와 일치하지 않습니다.</string>
+    <string name="native_8635a43ce28a" formatted="false">잘못된 프로젝트 디렉토리</string>
+    <string name="native_d32ab8b004e6" formatted="false">작업공간 위치를 저장할 수 없습니다.</string>
+    <string name="native_43a5447014fd" formatted="false">터미널을 열기 전에 런타임에서 개발 환경을 시작하십시오.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ 신규 터미널</string>
+    <string name="native_b3b7108a568f" formatted="false">폐쇄 전류</string>
+    <string name="native_0e822affd5da">초기 디렉터리: %1$s</string>
+    <string name="native_72d769e3888d">새 터미널 디렉터리: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">시스템 파일 선택기를 사용할 수 없습니다.</string>
+    <string name="native_179a57921f91" formatted="false">WebView 렌더링 설정</string>
+    <string name="native_3024ec603eb7" formatted="false">렌더링 프레임 속도</string>
+    <string name="native_55b6d7f645f3" formatted="false">60Hz 선호</string>
+    <string name="native_66f8bafa9f7f" formatted="false">디스플레이 새로 고침 빈도 따르기</string>
+    <string name="native_d4ecf38c341d" formatted="false">새로 고침 빈도가 높은 디스플레이에서 렌더링 부하를 줄이려면 60Hz를 선호합니다. 디스플레이에 따라 시스템이 프레임을 예약할 수 있습니다. 이 앱의 창에만 적용됩니다.</string>
+    <string name="native_bf0d3a407418" formatted="false">설치되지 않음</string>
+    <string name="native_2fb8edc75b25" formatted="false">준비</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">로더 확인 중</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian 설치</string>
+    <string name="native_f863d955fa6e" formatted="false">로컬 개발 환경</string>
+    <string name="native_55aa84065de2" formatted="false">로컬 Debian 개발 세션</string>
+    <string name="native_6e75b1822ebc" formatted="false">정지</string>
+    <string name="native_5f73a4e1e494" formatted="false">설치됨</string>
+    <string name="native_147e90d2ec02" formatted="false">복구 중</string>
+</resources>

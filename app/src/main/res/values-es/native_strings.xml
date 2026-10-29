@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Espacio de trabajo de desarrollo</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Escritorio</string>
+    <string name="native_7f1c02616d60" formatted="false">Una sola página</string>
+    <string name="native_651ae6ea52ae" formatted="false">Restaurar vista dividida</string>
+    <string name="native_d7e97cfac66f" formatted="false">Diseño del espacio de trabajo</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Amplíe la ventana para ver varios paneles juntos.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Mostrar archivos de proyecto</string>
+    <string name="native_712d956931d1" formatted="false">Mostrar terminal</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminal inferior</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal a la derecha</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Los paneles colapsan cuando el espacio es limitado y permanecen accesibles desde el menú flotante. El terminal lateral aparece en ventanas más amplias. Arrastre los divisores para cambiar el tamaño de los paneles.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt izquierda: 1–5 páginas · Archivos B · Terminal T · Escritorio M · Ingresar simple/dividido · \\\\ Diseño</string>
+    <string name="native_7a129a94c6ff" formatted="false">Hecho</string>
+    <string name="native_bcec2218fc21" formatted="false">Restablecer proporciones</string>
+    <string name="native_da88c62d1217">Mostrar %1$s en una sola página</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Divisor de archivos de proyecto</string>
+    <string name="native_707c0891a0e6" formatted="false">Divisor de terminales</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode y divisor de escritorio</string>
+    <string name="native_50407ad8dfa8" formatted="false">Reducir el panel anterior</string>
+    <string name="native_b72c5c02a666" formatted="false">Ampliar panel anterior</string>
+    <string name="native_3f3685e8d731" formatted="false">Demasiados enlaces PRoot para este formato de archivo</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Los enlaces físicos de Linux requieren un rootfs completo</string>
+    <string name="native_f336f1e17596" formatted="false">El anidamiento del directorio de respaldo es demasiado profundo</string>
+    <string name="native_b6f744737a45" formatted="false">Longitud de contraseña de respaldo no válida</string>
+    <string name="native_13bde5dd1812" formatted="false">La contraseña de respaldo debe contener al menos 12 caracteres</string>
+    <string name="native_be02cbd55932" formatted="false">Formato de copia de seguridad no compatible</string>
+    <string name="native_7a91a3d586ae" formatted="false">Encabezado de copia de seguridad no válido</string>
+    <string name="native_2bbd318a5667" formatted="false">Parámetros de cifrado de respaldo no admitidos</string>
+    <string name="native_18868da27841" formatted="false">Contraseña de respaldo incorrecta o archivo dañado</string>
+    <string name="native_e41d6440468d" formatted="false">El registro de recuperación es demasiado grande</string>
+    <string name="native_282692502f14" formatted="false">Los metadatos de la copia de seguridad son demasiado grandes</string>
+    <string name="native_61fdca8d6c82" formatted="false">El anidamiento de metadatos de copia de seguridad es demasiado profundo</string>
+    <string name="native_8cefb30732d4" formatted="false">Metadatos de copia de seguridad no válidos</string>
+    <string name="native_5d3037708cad" formatted="false">Configuraciones nativas no admitidas</string>
+    <string name="native_81a57c382f9d" formatted="false">No se pudo guardar la configuración nativa</string>
+    <string name="native_50603e683d4a" formatted="false">Directorio principal no válido en la ruta de respaldo</string>
+    <string name="native_c3f838a46b8e" formatted="false">La raíz de la estación de trabajo no debe ser un enlace simbólico</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Un archivo cambiado durante la copia de seguridad</string>
+    <string name="native_77e1e85147db" formatted="false">Formato de datos de estación de trabajo no compatible</string>
+    <string name="native_a927b5a565af" formatted="false">La copia de seguridad contiene datos adicionales</string>
+    <string name="native_c2b886d508f2" formatted="false">La copia de seguridad contiene rutas duplicadas</string>
+    <string name="native_3dab8cd60102" formatted="false">La copia de seguridad contiene configuraciones de tiempo de ejecución que no se pueden migrar</string>
+    <string name="native_f45ba674a630" formatted="false">La copia de seguridad es demasiado grande o el almacenamiento es insuficiente</string>
+    <string name="native_140073e8e77b" formatted="false">No se pudieron restaurar las marcas de tiempo de los enlaces simbólicos</string>
+    <string name="native_b0d411aaf62c" formatted="false">No se pudieron restaurar las marcas de tiempo de canalización con nombre</string>
+    <string name="native_0daee8026db1" formatted="false">Copia de seguridad y restauración de la estación de trabajo</string>
+    <string name="native_1acc18928c5f" formatted="false">Incluye Debian, herramientas de desarrollo, proyectos, inicio, sesiones y configuraciones de OpenCode, datos del navegador Linux y configuraciones de diseño nativo.</string>
+    <string name="native_62254d31a535" formatted="false">Se excluyen los archivos temporales y las copias de seguridad antiguas. El almacenamiento de Android WebView y los borradores no enviados permanecen en este dispositivo y no se transfieren con esta copia de seguridad.</string>
+    <string name="native_808eabc7811f" formatted="false">Crear copia de seguridad cifrada</string>
+    <string name="native_201c10b38296" formatted="false">Importar copia de seguridad</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Primero guarde sus cambios en el editor de archivos.</string>
+    <string name="native_0559cd596453" formatted="false">Detener OpenCode, terminales y escritorio</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Una operación del entorno está incompleta. Recupéralo primero.</string>
+    <string name="native_185f58156330" formatted="false">Recuperar operación incompleta</string>
+    <string name="native_20831b6f67a7" formatted="false">Deshacer la última restauración del entorno</string>
+    <string name="native_4f392d5d6141">Copia local cifrada: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Guardar en archivo</string>
+    <string name="native_f09619351eb9" formatted="false">Eliminar copia local</string>
+    <string name="native_85c686eb9841">Procesado %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Cancelar tarea de copia de seguridad</string>
+    <string name="native_66c9d896407b" formatted="false">Cifrar copia de seguridad de la estación de trabajo</string>
+    <string name="native_548cd9f0831e" formatted="false">Descifrar y verificar copia de seguridad</string>
+    <string name="native_d248f5eca9a5" formatted="false">Las copias de seguridad pueden contener claves privadas SSH, claves API y datos de cuenta. Utilice al menos 12 caracteres. Una contraseña olvidada no se puede recuperar.</string>
+    <string name="native_f249422b9ec1" formatted="false">La copia de seguridad se descifra y se verifica en un directorio privado. Su entorno se reemplaza solo después de que confirme la restauración.</string>
+    <string name="native_e7be6841703a" formatted="false">Contraseña de respaldo</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Repetir contraseña</string>
+    <string name="native_eafdc5cd4882" formatted="false">Iniciar cifrado</string>
+    <string name="native_2986b88beade" formatted="false">Descifrar y verificar</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Cancelar</string>
+    <string name="native_f46c5ed7412d" formatted="false">¿Restaurar todo el entorno anterior?</string>
+    <string name="native_33eda0946a5b" formatted="false">¿Eliminar la copia local cifrada?</string>
+    <string name="native_26db24150f2e" formatted="false">Los proyectos, el hogar, Debian y las sesiones volverán a su estado antes de la última restauración. El trabajo más reciente permanecerá en una copia de seguridad privada dentro de la aplicación.</string>
+    <string name="native_1153b30d51d5" formatted="false">Solo se elimina la copia local cifrada dentro de la aplicación. Los archivos guardados en otro lugar siguen estando disponibles.</string>
+    <string name="native_427a78a4e69a" formatted="false">Confirmar</string>
+    <string name="native_7af46d7ee003" formatted="false">¿Restaurar la copia de seguridad de esta estación de trabajo?</string>
+    <string name="native_ed40940162d0">%1$s\nEntradas %2$s · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">La copia de seguridad contiene software ejecutable de Linux. Confirma que confías en su fuente. La restauración sustituye todo el entorno y comprueba los servicios locales; el entorno anterior se conserva para su recuperación.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Copia de seguridad verificada. Esperando confirmación de restauración.</string>
+    <string name="native_97076078c749" formatted="false">También habilita el modo de compatibilidad con Chromium (deshabilita el sandbox de procesos de Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Desactivado de forma predeterminada. Puede habilitarlo más tarde en la configuración del escritorio.</string>
+    <string name="native_ddf09383413c" formatted="false">Confirmar restauración</string>
+    <string name="native_8e6056b0f629" formatted="false">Cancelar importación</string>
+    <string name="native_63a895901c76" formatted="false">El entorno de la estación de trabajo cambió</string>
+    <string name="native_a4c994348a39" formatted="false">Reabrir el espacio de trabajo</string>
+    <string name="native_774947f0653e" formatted="false">Cancelar tarea</string>
+    <string name="native_e09a22b18445" formatted="false">La tarea fue interrumpida. Seleccione una operación nuevamente e ingrese la contraseña.</string>
+    <string name="native_38c5fcc634db" formatted="false">Guarde primero las ediciones de archivos en todas las ventanas. Cancele una importación existente antes de volver a intentarlo.</string>
+    <string name="native_029bfa8ff772" formatted="false">Restaurando la estación de trabajo y verificando programas</string>
+    <string name="native_e4f04df818f8" formatted="false">Procesando su operación de respaldo seleccionada</string>
+    <string name="native_8206f072d5ee" formatted="false">Detenga OpenCode, terminales y escritorio, luego espere a que finalicen las operaciones con archivos.</string>
+    <string name="native_1a5cde18c609" formatted="false">No se pudo iniciar la tarea de copia de seguridad. Vuelve a intentarlo con la aplicación en primer plano.</string>
+    <string name="native_1553b714941d" formatted="false">Descifrando y verificando la copia de seguridad. El entorno original sigue siendo recuperable…</string>
+    <string name="native_dafd005e953e" formatted="false">Copia de seguridad verificada. Confirme la restauración en la aplicación.</string>
+    <string name="native_9fb236184596" formatted="false">Se eliminó la copia local cifrada dentro de la aplicación.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operación cancelada. Se conservan los datos del entorno original.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operación incompleta. Verifique la contraseña, la integridad de la copia de seguridad, la versión del host y el espacio libre. Se conservan los datos del entorno original.</string>
+    <string name="native_29deabd28960" formatted="false">Creando copia de seguridad cifrada de la estación de trabajo…</string>
+    <string name="native_3d137e243806" formatted="false">Copia de seguridad cifrada creada. Elige dónde guardarlo.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Restaurar el entorno y comprobar los servicios locales. Mantenga los datos de la aplicación intactos...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Estación de trabajo restaurada. El entorno anterior permanece en una copia de seguridad privada. Vuelva a abrir el espacio de trabajo.</string>
+    <string name="native_0392cd6152d2" formatted="false">Las comprobaciones de restauración fallaron. Regresó al entorno anterior; Los datos importados permanecen en una copia de seguridad privada.</string>
+    <string name="native_5dc7410b600e" formatted="false">La restauración está incompleta. Todos los directorios de datos se conservan. Conserve los datos de la aplicación y vuelva a intentar la recuperación.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Restaurando el entorno de la estación de trabajo anterior…</string>
+    <string name="native_15821323ff89" formatted="false">Entorno anterior restaurado. El trabajo más reciente permanece en una copia de seguridad privada. Vuelva a abrir el espacio de trabajo.</string>
+    <string name="native_56dd94f47870" formatted="false">No se puede deshacer esta restauración. Entorno actual y copias de seguridad retenidas.</string>
+    <string name="native_93530f3fa029" formatted="false">Deshacer está incompleto. Todos los directorios de datos se conservan. Conserve los datos de la aplicación y vuelva a intentar la recuperación.</string>
+    <string name="native_f12963c80def" formatted="false">Guardando copia de seguridad cifrada…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Copia de seguridad cifrada guardada. Puede guardar la copia local nuevamente o eliminarla manualmente.</string>
+    <string name="native_d660cccf65e0" formatted="false">Limpiando una importación no confirmada…</string>
+    <string name="native_800592163979" formatted="false">Importación cancelada. Entorno original sin cambios.</string>
+    <string name="native_5a90367eb834" formatted="false">Importación cancelada. Entorno original sin cambios; algunos datos de importación temporales permanecen en el directorio privado de la aplicación.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Preparando el descifrado y la verificación…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Preparando copia de seguridad cifrada…</string>
+    <string name="native_7bd5a0c93818" formatted="false">No se pudo iniciar el servicio de respaldo. Vuelva a intentarlo en primer plano.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Recuperar primero la operación del entorno incompleto</string>
+    <string name="native_f14aea7c819c" formatted="false">Registro de recuperación no válido</string>
+    <string name="native_7c284c55ee08" formatted="false">Falta directorio de recuperación</string>
+    <string name="native_bfc4792df15b" formatted="false">La configuración nativa excede el límite de registros de recuperación</string>
+    <string name="native_8d93770ba8c9">Falta el directorio del entorno anterior: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Etapa de recuperación desconocida</string>
+    <string name="native_20c5124fe175" formatted="false">Operación de recuperación desconocida</string>
+    <string name="native_1c457322b624" formatted="false">No hay ningún entorno anterior disponible para restaurar</string>
+    <string name="native_30db1666c8e5" formatted="false">Esta copia de seguridad pertenece a una aplicación diferente</string>
+    <string name="native_6687d1c64d75" formatted="false">La arquitectura del procesador de respaldo no coincide</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Actualice primero el host de Android a la versión utilizada por esta copia de seguridad</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">El directorio de respaldo está incompleto</string>
+    <string name="native_66106ab3e254" formatted="false">La copia de seguridad anterior no tiene pruebas verificables del editor OpenCode. Inicie el entorno original con este host antes de realizar una copia de seguridad nuevamente.</string>
+    <string name="native_bec13cc92982" formatted="false">Acciones del sistema del entorno de desarrollo</string>
+    <string name="native_65de80229626" formatted="false">Debian solicitó una acción del sistema</string>
+    <string name="native_5e38581cf19c" formatted="false">Toque para revisar y manejar la solicitud</string>
+    <string name="native_749d406d2c67" formatted="false">Del entorno de desarrollo Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">¿Abrir el navegador del sistema?</string>
+    <string name="native_ce9491abbc6c" formatted="false">¿Abrir una vista previa del proyecto local?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">¿Leer el portapapeles?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">¿Copiar al portapapeles del sistema?</string>
+    <string name="native_77f761eb70aa" formatted="false">¿Enviar una notificación local?</string>
+    <string name="native_e6b29e80abb7" formatted="false">¿Compartir un archivo de proyecto?</string>
+    <string name="native_9d36f698b3c1" formatted="false">¿Importar archivos del sistema?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">¿Exportar un archivo de proyecto?</string>
+    <string name="native_7ac295421c6d" formatted="false">Abrir en el navegador</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Abrir vista previa</string>
+    <string name="native_14792d6cd7a6" formatted="false">Permitir lectura</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Copiar al portapapeles</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Enviar notificación</string>
+    <string name="native_88152a09fa02" formatted="false">Elija una aplicación para compartir</string>
+    <string name="native_7a49a79c57f9" formatted="false">Elegir archivos</string>
+    <string name="native_99d9f87419c5" formatted="false">Elige dónde guardar</string>
+    <string name="native_23e5bb2090aa">%1$s\nSe abre con datos del navegador aislados de OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Pasar texto del portapapeles del sistema al programa Debian actual.</string>
+    <string name="native_dcc6bec24e43">Elija archivos para importar a %1$s. Los archivos existentes se conservan y se cambia el nombre de los duplicados.</string>
+    <string name="native_efdb26088f68" formatted="false">Modo navegador Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">El modo de compatibilidad utiliza un perfil de navegador separado y deshabilita el entorno limitado de procesos de Linux de Chromium. El navegador aún puede acceder a los archivos dentro de esta aplicación. Evite sitios web que no sean de confianza y utilice el navegador del sistema Android para cuentas importantes. Vuelva a abrir Chromium después de cambiar de modo.</string>
+    <string name="native_a4317f2699a2" formatted="false">La zona de pruebas estándar de Linux está habilitada de forma predeterminada. Si Chromium no puede iniciarse, puede seleccionar el modo de compatibilidad. Deshabilita el entorno limitado de procesos de Linux y utiliza un perfil separado, al tiempo que conserva el acceso a los archivos de la aplicación. Evite sitios web que no sean de confianza; utilice el navegador del sistema Android para cuentas importantes.</string>
+    <string name="native_3a2596fa9517" formatted="false">Restaurar modo estándar</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Habilitar el modo de compatibilidad</string>
+    <string name="native_9a45442649f5" formatted="false">Escritorio Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Compartido /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">La primera instalación descarga componentes gráficos. Después de la instalación, el escritorio puede iniciarse y detenerse independientemente de OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">espejo USTC</string>
+    <string name="native_41e865941e16" formatted="false">Espejo oficial de Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Resolución inicial</string>
+    <string name="native_ff1cde9ba35d" formatted="false">El escritorio sigue ejecutándose cuando cambias de página. Detenlo desde Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Detener tarea de escritorio</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Iniciar escritorio</string>
+    <string name="native_ea27a25e5114" formatted="false">Instalar componentes de escritorio</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: modo de compatibilidad</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: modo estándar</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Primero instale las herramientas de desarrollo de Debian desde Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Registro de actividad</string>
+    <string name="native_bfaa904aa4d4" formatted="false">No se pudo abrir la carpeta del proyecto. Compruebe que el directorio exista.</string>
+    <string name="native_83c76743b29d" formatted="false">Recuperando la operación del entorno interrumpido</string>
+    <string name="native_739a730ae247" formatted="false">Mantenimiento del entorno</string>
+    <string name="native_049281329843" formatted="false">Espere a que finalice el mantenimiento de actualización o la tarea actual.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Espere a que finalice la tarea del entorno de desarrollo actual</string>
+    <string name="native_83099168971c" formatted="false">Instalando escritorio</string>
+    <string name="native_85e0c18dde8d" formatted="false">Iniciando escritorio</string>
+    <string name="native_9a48f8196d8f" formatted="false">Necesita atención</string>
+    <string name="native_75470fb13121" formatted="false">Detenido</string>
+    <string name="native_51a53c8109d5" formatted="false">No se puede leer ni guardar el registro de actividad. Repárelo desde Runtime o libere algo de almacenamiento.</string>
+    <string name="native_d36a018cc619" formatted="false">Instale primero el entorno de desarrollo Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Conéctese primero a una red</string>
+    <string name="native_a065d81014b1" formatted="false">La instalación del escritorio está incompleta. Vuelva a intentar la instalación.</string>
+    <string name="native_721c38b32c35" formatted="false">Escritorio instalado. Inícielo cuando sea necesario.</string>
+    <string name="native_6c1c52771115" formatted="false">Instale los componentes del escritorio primero</string>
+    <string name="native_693d90a47827" formatted="false">La operación del escritorio falló. Los detalles son demasiado largos o no están disponibles.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">No se pudo terminar de guardar el marcador de parada. Continuó la limpieza del proceso.</string>
+    <string name="native_06083621a6ce" formatted="false">No se pudo terminar de guardar el registro de actividad. El próximo lanzamiento tratará esto como una interrupción.</string>
+    <string name="native_04d721a3819a" formatted="false">Escritorio ejecutándose</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Se agotó el tiempo de espera de la operación del escritorio. Revise el registro y vuelva a intentarlo.</string>
+    <string name="native_e70d328a3ca9">Proceso de escritorio cerrado (%1$s). Revisa el registro de actividades.</string>
+    <string name="native_df5c878f2852" formatted="false">Espacio de trabajo gráfico local</string>
+    <string name="native_7b0455a8daa4" formatted="false">Detener escritorio</string>
+    <string name="native_a62123cde9c7" formatted="false">Tareas interrumpidas y recuperación</string>
+    <string name="native_279308947a14" formatted="false">No se puede leer el registro de actividad. Repair guarda una copia del registro dañado y preserva los proyectos, las sesiones y el entorno Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Registro de actividad de reparación</string>
+    <string name="native_6b43650c2c82" formatted="false">La tarea terminó inesperadamente.</string>
+    <string name="native_acb0c970aaa6">%1$s terminales no estaban cerradas normalmente. Sus comandos de ejecución fueron interrumpidos.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Reinicio confirmado. Los comandos anteriores no se reprodujeron.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Los proyectos y sesiones guardados se conservan. Reabrir terminales manualmente; Los comandos no finalizados no se reanudarán automáticamente.</string>
+    <string name="native_fa9669296762" formatted="false">Reiniciar OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">El escritorio no se reiniciará automáticamente. Inícielo nuevamente desde la página del Escritorio.</string>
+    <string name="native_644f8f44251f" formatted="false">Abrir archivo</string>
+    <string name="native_9dfb5569d609" formatted="false">Compartir archivo</string>
+    <string name="native_a4500cff3a86" formatted="false">El directorio de trabajo no debe ser un enlace simbólico</string>
+    <string name="native_8657d27661bd" formatted="false">Ruta del directorio de trabajo no válida</string>
+    <string name="native_02b702a9adff" formatted="false">Seleccione un archivo</string>
+    <string name="native_924874b746cc" formatted="false">Administrar enlaces simbólicos en la terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Nombre de archivo no válido</string>
+    <string name="native_c4989dc37aab" formatted="false">El directorio no existe</string>
+    <string name="native_d613dba39b44" formatted="false">El directorio de destino no existe</string>
+    <string name="native_4f9b3fb4920b" formatted="false">No se puede colocar una carpeta dentro de sí misma o de sus descendientes</string>
+    <string name="native_c3acd5a3254c" formatted="false">El proyecto contiene dispositivos o enchufes especiales y no se puede copiar</string>
+    <string name="native_6c36955b068b" formatted="false">Seleccione un archivo normal</string>
+    <string name="native_49191d7d489f" formatted="false">Este archivo supera los 2 MB. Edítalo con OpenCode o la terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">El archivo es demasiado grande</string>
+    <string name="native_f0a979f87157" formatted="false">Exportar archivos binarios para abrirlos en otra aplicación</string>
+    <string name="native_88a9c82651fc" formatted="false">Editar archivos que no sean UTF-8 con OpenCode o la terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Otra herramienta cambió este archivo. Vuelva a abrirlo antes de editarlo.</string>
+    <string name="native_0ce79256f4ac" formatted="false">El directorio original ya no existe. Restaurarlo primero.</string>
+    <string name="native_46eae321049e" formatted="false">No hay ninguna aplicación para compartir disponible</string>
+    <string name="native_87d699d3a26c" formatted="false">Papelera</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Archivos de proyecto</string>
+    <string name="native_4dcf914f0b64" formatted="false">Los archivos eliminados se pueden restaurar a sus directorios originales</string>
+    <string name="native_c5b81b02354f" formatted="false">Atrás</string>
+    <string name="native_e56b99379169">Copiado %1$s archivos · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Copiando…</string>
+    <string name="native_85199bb36b04" formatted="false">Cancelar operación</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Cerrar</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Nueva sesión</string>
+    <string name="native_23c250cc8e0b" formatted="false">Inicie una sesión OpenCode aquí</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminal</string>
+    <string name="native_3645f30b3412" formatted="false">Cambios no guardados</string>
+    <string name="native_2266227605c4" formatted="false">Guardar</string>
+    <string name="native_064fbc7ad3f3" formatted="false">La papelera está vacía</string>
+    <string name="native_a9e739b13e52" formatted="false">Restaurar</string>
+    <string name="native_45985dc2183e" formatted="false">Mover:</string>
+    <string name="native_31214130b5b7" formatted="false">Copiar:</string>
+    <string name="native_07e5c3158f35" formatted="false">Pegar</string>
+    <string name="native_831b4e0fb574" formatted="false">Nuevo</string>
+    <string name="native_ff65a22d7087" formatted="false">Nueva carpeta</string>
+    <string name="native_71faed44a86c" formatted="false">Nuevo archivo</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importar</string>
+    <string name="native_d85825123e60" formatted="false">Actualizar</string>
+    <string name="native_ac9d73843736" formatted="false">Buscar en este directorio</string>
+    <string name="native_21eef82963ee" formatted="false">Este directorio está vacío. Importa archivos o crea un proyecto.</string>
+    <string name="native_e8a4cecaa371" formatted="false">No hay archivos coincidentes</string>
+    <string name="native_d674bc0f86b8" formatted="false">Acciones de archivo</string>
+    <string name="native_d04a47c87cc8" formatted="false">Enlace simbólico</string>
+    <string name="native_e0ba66f5246a" formatted="false">Carpeta</string>
+    <string name="native_f170b42599e8" formatted="false">Cambiar nombre</string>
+    <string name="native_4cdacf57ead2" formatted="false">Copiar</string>
+    <string name="native_124aa030694e" formatted="false">Mover a…</string>
+    <string name="native_ac990518ed87" formatted="false">Abrir terminal aquí</string>
+    <string name="native_87bc93932d8a" formatted="false">Exportar a archivos del sistema</string>
+    <string name="native_dd37f132172f" formatted="false">Mover a la papelera</string>
+    <string name="native_7318746d337c" formatted="false">¿Mover a la papelera?</string>
+    <string name="native_2b5ee3f10a56">Puedes restaurar “%1$s” desde la papelera.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Mover</string>
+    <string name="native_4e47aaa113fc" formatted="false">¿Descartar cambios no guardados?</string>
+    <string name="native_63b75399ef1a" formatted="false">Descartar cambios</string>
+    <string name="native_d9618f7b8d25" formatted="false">Continuar editando</string>
+    <string name="native_76ce6aef5479" formatted="false">Nombre</string>
+    <string name="native_35b0fc30b909" formatted="false">Aceptar</string>
+    <string name="native_11b319774788" formatted="false">Entorno restaurado. Vuelva a abrir el espacio de trabajo.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Primero termine de recuperar la operación interrumpida en Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">El mantenimiento del entorno está en progreso. Vuelva a intentarlo más tarde.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operación cancelada</string>
+    <string name="native_c508721eb3cd" formatted="false">Ya existe un archivo con este nombre. Elige otro nombre.</string>
+    <string name="native_1e8274fe468a" formatted="false">El archivo ya no existe. Actualiza el directorio.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Permiso de acceso a archivos denegado</string>
+    <string name="native_cd808e4c321e" formatted="false">No se pudo completar la operación</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operación incompleta. Verifique el almacenamiento disponible o seleccione los archivos nuevamente.</string>
+    <string name="native_3f9983126fd7" formatted="false">Verificar el estado de inicio de OpenCode en Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">No se pudo abrir una nueva terminal. Consulta el número de sesiones.</string>
+    <string name="native_2160fde3813a" formatted="false">Administrar enlaces simbólicos en el terminal. El administrador de archivos no sigue enlaces.</string>
+    <string name="native_7a844e9d4017" formatted="false">Movimiento completado</string>
+    <string name="native_573877894fcf" formatted="false">Copia completada</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Movido a la papelera</string>
+    <string name="native_862330af933f" formatted="false">Restaurado al directorio original</string>
+    <string name="native_beda23c9d52b" formatted="false">Se produjo el mantenimiento o reemplazo del entorno. Vuelva a abrir el espacio de trabajo antes de editar.</string>
+    <string name="native_678c6953bb2b" formatted="false">Guardado</string>
+    <string name="native_8063159f2178" formatted="false">No se puede leer el archivo seleccionado</string>
+    <string name="native_4cdc2180d2ac">Archivos %1$s importados</string>
+    <string name="native_e98763643b93" formatted="false">No se puede escribir en la ubicación seleccionada</string>
+    <string name="native_5afd173be7fa" formatted="false">Exportación completada</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Código y sesiones</string>
+    <string name="native_8745ed51cadd" formatted="false">Escritorio</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Espacio de trabajo gráfico</string>
+    <string name="native_770d49c5f689" formatted="false">Archivos</string>
+    <string name="native_6a9b6480b58f" formatted="false">Tiempo de ejecución</string>
+    <string name="native_b561fe9204cc" formatted="false">Servicios y herramientas para desarrolladores</string>
+    <string name="native_70850bdeeabd" formatted="false">Cerrar menú de página</string>
+    <string name="native_b4549acb48e8" formatted="false">Espacio de trabajo</string>
+    <string name="native_3d3551f4660f">Opacidad del botón flotante %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Los valores más bajos hacen que el botón flotante sea más transparente</string>
+    <string name="native_e031beabfc9a" formatted="false">Abrir menú de página</string>
+    <string name="native_106ee775b538" formatted="false">Conectándose a OpenCode local…</string>
+    <string name="native_a021adc1f449" formatted="false">La conexión local necesita recuperación</string>
+    <string name="native_dacb8837471c" formatted="false">Reconectar</string>
+    <string name="native_17584aa60ae6" formatted="false">No se pudo preparar el caché de recursos local</string>
+    <string name="native_3b3b80064ccb" formatted="false">Preparando OpenCode local…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Reintentar</string>
+    <string name="native_b07809340403" formatted="false">La ubicación del espacio de trabajo aún no se ha guardado. Vuelva a intentarlo más tarde.</string>
+    <string name="native_e4ab10392d05" formatted="false">El servicio local se está preparando. Su espacio de trabajo se abrirá automáticamente una vez conectado.</string>
+    <string name="native_20ea15973287" formatted="false">La ejecución anterior fue interrumpida. Reinicie desde Runtime; Los comandos del terminal no se reproducirán automáticamente.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Inicie OpenCode desde Runtime para abrir código y sesiones.</string>
+    <string name="native_abbac5c22111" formatted="false">¿Salir de la aplicación?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">El entorno de desarrollo puede seguir ejecutándose en segundo plano. Regrese más tarde de la notificación.</string>
+    <string name="native_814a8fb24b62" formatted="false">¿Salir del espacio de trabajo actual?</string>
+    <string name="native_a76464945c2d" formatted="false">También detener el entorno de desarrollo.</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Salir</string>
+    <string name="native_b00143b08ff1" formatted="false">Estación de trabajo de desarrollo lista</string>
+    <string name="native_51bca456a350" formatted="false">Su estación de trabajo de desarrollo Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">Corriendo</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Iniciando</string>
+    <string name="native_44da7f6a451d" formatted="false">Deteniendo</string>
+    <string name="native_b7e1503a7239" formatted="false">Reparar entorno de desarrollo</string>
+    <string name="native_7c91bd67ff14" formatted="false">Instalar entorno de desarrollo</string>
+    <string name="native_cfd73bb04860" formatted="false">Detener entorno</string>
+    <string name="native_e7ec95694dce" formatted="false">Inicio OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Comprobar entorno</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Actualizar herramientas de desarrollo de Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Se conservan la copia de seguridad del entorno anterior, los proyectos y los datos de la sesión.</string>
+    <string name="native_eb3114155716" formatted="false">Instalar/actualizar servidores de idiomas</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) y Python (pylsp), instalados en línea desde repositorios Debian firmados. Primero detenga OpenCode y el escritorio.</string>
+    <string name="native_2c7251cce661" formatted="false">Toque el botón flotante para cambiar de página. Arrástrelo para reposicionarlo.</string>
+    <string name="native_dcef145e6a9b" formatted="false">La información del tiempo de ejecución aparece aquí después del inicio.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Abrir tiempo de ejecución</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Versión APK incluida</string>
+    <string name="native_e6b986511faf" formatted="false">Actualizaciones de OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Importe un .ocaupdate firmado por el editor de esta aplicación. La interfaz oficial y el backend se actualizan juntos.</string>
+    <string name="native_8aad48b0508d" formatted="false">Fuente de actualización (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Verificar fuente de actualización</string>
+    <string name="native_f73973cfadbb">Autorización firmada: %1$s\nConfirmar: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Descargar y verificar</string>
+    <string name="native_f2ef7965bf12" formatted="false">Seleccionar paquete de actualización</string>
+    <string name="native_165111adfe2c">Listo para instalar: %1$s\nConfirmar: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Instalar esta actualización</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Restaurar la versión y sesiones anteriores a la actualización</string>
+    <string name="native_6864335de653" formatted="false">Cancelar actualización</string>
+    <string name="native_5e3472cf084e" formatted="false">¿Instalar la actualización de OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">¿Restaurar el estado anterior a la actualización?</string>
+    <string name="native_11beb4a42abc">Instalar %1$s. La aplicación guarda una instantánea de la sesión, verifica el programa firmado y restaura la versión anterior si falla. Los archivos del proyecto se conservan.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Las sesiones vuelven a su estado antes de esta actualización. Las sesiones más recientes permanecen en una copia de seguridad privada. Los archivos del proyecto se conservan.</string>
+    <string name="native_def5e273616d" formatted="false">Confirmar instalación</string>
+    <string name="native_369d2eefccde" formatted="false">No se pudieron aislar los datos del navegador de vista previa. Vuelva a abrir la vista previa.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">No se pudo cargar la página del proyecto. Consulta el servidor de desarrollo en tu terminal.</string>
+    <string name="native_6e7408950cf5" formatted="false">Vista previa del sitio web del proyecto</string>
+    <string name="native_bfb4951e071d" formatted="false">Vista previa del proyecto</string>
+    <string name="native_f80652913d06" formatted="false">Inicie un servidor de desarrollo en la terminal, luego ingrese su puerto local. Los datos del navegador de vista previa están aislados de OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Puerto</string>
+    <string name="native_77c3a828a5c5" formatted="false">Ingrese un puerto de desarrollo del 1024 al 65535, excluyendo OpenCode y servicios de escritorio.</string>
+    <string name="native_7311a9dfea51" formatted="false">No hay nada escuchando en este puerto. Consulta el servicio en tu terminal.</string>
+    <string name="native_4f8d84105475" formatted="false">Comprobando…</string>
+    <string name="native_4923c272b68e" formatted="false">El puerto de desarrollo debe ser un número entero</string>
+    <string name="native_04a87026e81f" formatted="false">Elija un puerto de desarrollo de proyecto válido</string>
+    <string name="native_a8a305819e54" formatted="false">Sesión de desarrollo OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Instalación del entorno de desarrollo</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Actualización de Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Reparación del entorno de desarrollo</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Verificación del entorno de desarrollo</string>
+    <string name="native_9612d4419bb6" formatted="false">Instalación del servidor de idiomas</string>
+    <string name="native_f72fba77f87a" formatted="false">Recuperación del entorno</string>
+    <string name="native_7c8162195c7c" formatted="false">Instalación de escritorio</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">La ejecución anterior fue interrumpida. Reinicie explícitamente desde Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Aún se está ejecutando una tarea de desarrollo de este tipo</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Reparando el registro de actividad</string>
+    <string name="native_b66749ed72ea" formatted="false">Proceso salido</string>
+    <string name="native_6b25042064e2" formatted="false">Terminado por señal</string>
+    <string name="native_d6febdf1752b" formatted="false">Reclamado debido a poca memoria</string>
+    <string name="native_1d13790f3c89" formatted="false">Fallo de la aplicación</string>
+    <string name="native_28db94d1850d" formatted="false">Fallo del proceso nativo</string>
+    <string name="native_86919539f7f1" formatted="false">La aplicación no responde</string>
+    <string name="native_90fb8d6098a5" formatted="false">La inicialización falló</string>
+    <string name="native_38c60ab6654c" formatted="false">Permisos cambiados</string>
+    <string name="native_6d2a6c71334d" formatted="false">Límite de recursos</string>
+    <string name="native_19b2090b01a8" formatted="false">Detención solicitada por el usuario</string>
+    <string name="native_120d96445f1a" formatted="false">Detenido por el usuario</string>
+    <string name="native_3c8af14f66bc" formatted="false">Proceso dependiente salido</string>
+    <string name="native_ca0941ce04ae" formatted="false">Otro motivo del sistema</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Proceso de congelación</string>
+    <string name="native_0d48373023a8" formatted="false">Estado de la aplicación cambiado</string>
+    <string name="native_c752307db26b" formatted="false">Actualización de la aplicación</string>
+    <string name="native_b5015951cbdf" formatted="false">El sistema no proporcionó un motivo de salida</string>
+    <string name="native_b62737b826ad">Salida del sistema (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">No se pudo abrir el directorio del proyecto</string>
+    <string name="native_faf5d983c13e" formatted="false">No se pudo crear una sesión OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">El directorio de sesión de OpenCode no coincide</string>
+    <string name="native_ac19736908a2" formatted="false">No se pudo leer la sesión OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Mantenimiento del entorno</string>
+    <string name="native_f992d735d932" formatted="false">Detenga OpenCode, las terminales y el escritorio Debian, luego espere a que finalicen las operaciones con archivos</string>
+    <string name="native_489f137f1080" formatted="false">El bloqueo de mantenimiento del entorno ya no es válido</string>
+    <string name="native_42380e2567fc" formatted="false">Operación interrumpida recuperada. Vuelva a abrir el espacio de trabajo.</string>
+    <string name="native_17b00cac2b91" formatted="false">Falló la recuperación de la conexión local. Vuelva a intentarlo desde el tiempo de ejecución.</string>
+    <string name="native_77e9ca4e944c" formatted="false">El mantenimiento del entorno está en progreso. Vuelva a intentarlo más tarde.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Detenga el escritorio de Debian antes de actualizar el entorno de desarrollo</string>
+    <string name="native_548085b144c9" formatted="false">Operación interrumpida recuperada. Puede iniciar el entorno de desarrollo.</string>
+    <string name="native_b4a1531f9eac" formatted="false">La ejecución anterior fue interrumpida. Los comandos de terminal no se reproducirán automáticamente. Reinicie explícitamente desde Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">La limpieza de la configuración de la conexión temporal está incompleta. Continuó la limpieza del proceso.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">No se pudo crear el espacio de trabajo de helloworld. Consulta el directorio y el espacio disponible.</string>
+    <string name="native_68301868225a" formatted="false">El directorio del espacio de trabajo anterior no está disponible. Abierto helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">El proyecto predeterminado aún no está listo. Reintentar desde Archivos.</string>
+    <string name="native_45d6ab452622" formatted="false">Instalar servidores de idiomas</string>
+    <string name="native_9793c4a83295" formatted="false">Los servidores de lenguaje C/C++ y Python están listos. Inicie OpenCode para usar LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">El registro de actividad del terminal no fue guardado. Cree una nueva terminal después de la finalización del proceso.</string>
+    <string name="native_1978b311a9ff" formatted="false">No se pudo terminar de guardar el registro de salida del terminal.</string>
+    <string name="native_66dee11c3194" formatted="false">Descarga de actualización de OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Conectándose a la fuente de actualización…</string>
+    <string name="native_8c39baf28e08" formatted="false">No se puede conectar a la fuente de actualización. Verifique la red, la firma del editor, la versión del host y el espacio libre.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Tiempo de descarga agotado</string>
+    <string name="native_f75850093535">Descargando: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Verificando la firma del editor…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Descargando paquete de actualización…</string>
+    <string name="native_2f9cd52dc66a">Firma del editor válida: %1$s. Revisar antes de descargar.</string>
+    <string name="native_17548865632c" formatted="false">Descarga, liberación de metadatos y firma del paquete verificada. Confirmar la instalación.</string>
+    <string name="native_180cec958e7a" formatted="false">Descarga cancelada. Se conserva la versión original.</string>
+    <string name="native_8df045f8ac12" formatted="false">Descarga detenida. Se conserva la versión original.</string>
+    <string name="native_778803f1c6bb" formatted="false">Cancelar descarga</string>
+    <string name="native_2958898ce6f4" formatted="false">La nueva versión falló en las comprobaciones de autenticación, versión o inicio local. Se restaurará la versión anterior.</string>
+    <string name="native_cc876dfbb261" formatted="false">El proceso de prueba aún está saliendo. Espere a que se recupere antes de volver a intentarlo.</string>
+    <string name="native_adf977dcb47e" formatted="false">Identificador de registro de actualización no válido</string>
+    <string name="native_5207cac670b7" formatted="false">El tamaño del OpenCode independiente instalado no coincide</string>
+    <string name="native_cf5b81887589" formatted="false">La suma de comprobación de OpenCode independiente instalada no coincide. Restaurar la versión anterior.</string>
+    <string name="native_393049b506cc" formatted="false">El programa original no tiene ninguna prueba del editor que coincida. Estado anterior sin cambios.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Recuperar primero la actualización anterior interrumpida</string>
+    <string name="native_91d8da5525fa" formatted="false">El paquete de actualización cambió después de la confirmación.</string>
+    <string name="native_093f2c091a30" formatted="false">Almacenamiento insuficiente. Versión original sin cambios.</string>
+    <string name="native_fc9bc82e0872" formatted="false">No hay ninguna copia de seguridad de actualización disponible para restaurar</string>
+    <string name="native_a9f4d9903c14" formatted="false">La copia de seguridad no coincide con la versión en ejecución</string>
+    <string name="native_6caa23763a42" formatted="false">La verificación del programa anterior falló. Sesiones actuales sin cambios.</string>
+    <string name="native_c8b71b876695" formatted="false">Una actualización posterior de APK o Debian reemplazó el programa incluido. Se conserva la copia de seguridad de la sesión original; Primero restaure el programa correspondiente.</string>
+    <string name="native_c443df40964b" formatted="false">Operación de recuperación de actualización no válida</string>
+    <string name="native_9071f05d58b3" formatted="false">Preparando actualización de OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Detenga OpenCode, las terminales y el escritorio, luego espere a que salgan.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Guardando estado, verificando programas y cambiando versiones</string>
+    <string name="native_5fc065ef6f50" formatted="false">No se pudo iniciar el servicio de mantenimiento de actualizaciones.</string>
+    <string name="native_f7b560c8c820" formatted="false">Verificando y montando el programa oficial…</string>
+    <string name="native_9606191c82dc" formatted="false">Preservando el programa original y la firma del editor…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Guardando instantánea del estado de la sesión…</string>
+    <string name="native_0c8cf4632889" formatted="false">Cambiando versiones y verificando el servicio local…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Restaurando la versión y sesiones anteriores a la actualización…</string>
+    <string name="native_856de41d3bf3" formatted="false">Restaurando OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Actualizando OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Se restauró la versión y sesiones anteriores. Las sesiones más recientes permanecen en una copia de seguridad privada.</string>
+    <string name="native_07367ff18068" formatted="false">Actualización de OpenCode completada. El inicio utilizará el frontend y el backend oficiales correspondientes.</string>
+    <string name="native_4693930f5802" formatted="false">Actualización cancelada. Confirmando que se ha restablecido el estado original.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Actualización incompleta. Recuperandose ahora; Se conservan las copias de seguridad originales del programa y de la sesión.</string>
+    <string name="native_9a32d6c2d207" formatted="false">La recuperación está incompleta. Se conservan todos los directorios estatales. Conserve sus datos y vuelva a intentar iniciar para recuperarlos.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Recuperación de sesión completada. El estado más reciente permanece en una copia de seguridad.</string>
+    <string name="native_67c08a2911e1" formatted="false">La recuperación no pudo continuar con esta copia de seguridad o programa original. Sesiones actuales y copias de seguridad sin cambios.</string>
+    <string name="native_976d8c169cfa" formatted="false">Actualización cancelada o fallida. Versión original y sesiones restauradas.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Verificando la firma e integridad del paquete de actualización…</string>
+    <string name="native_0aa018b7337b" formatted="false">No se puede leer el archivo seleccionado</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">El paquete de actualización es demasiado grande</string>
+    <string name="native_f068b83f40bf" formatted="false">Firma y paquete verificados. Revise la versión antes de instalar.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">No se puede importar: archivo no válido, firma que no coincide, versión de host incompatible o almacenamiento insuficiente.</string>
+    <string name="native_616412e65df4" formatted="false">El programa oficial no coincide con la prueba de su editor</string>
+    <string name="native_4bf19a158f27" formatted="false">Los paquetes de tiempo de ejecución independientes solo admiten ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">La firma de actualización no pertenece a este APK</string>
+    <string name="native_c7273354727f" formatted="false">El archivo de actualización excede su tamaño declarado</string>
+    <string name="native_2aa6c8e74abb" formatted="false">La suma de comprobación del programa de actualización no coincide</string>
+    <string name="native_dd619076d456" formatted="false">Tamaño del paquete de actualización no válido</string>
+    <string name="native_20c5bdfeffc0" formatted="false">El tamaño del paquete de actualización comprimido no coincide</string>
+    <string name="native_1de24edffcf5" formatted="false">El paquete de actualización contiene entradas adicionales</string>
+    <string name="native_c5b339aa77e8" formatted="false">Origen o arquitectura de actualización incompatible</string>
+    <string name="native_89d585f3661f" formatted="false">Actualice la aplicación de Android antes de instalar esta actualización</string>
+    <string name="native_800df084dea0" formatted="false">La suma de comprobación del archivo de actualización no coincide</string>
+    <string name="native_ddf1a005e310" formatted="false">Este formato de firma de APK no admite actualizaciones de tiempo de ejecución independientes</string>
+    <string name="native_172e063db474" formatted="false">Entrada de paquete de actualización no válida</string>
+    <string name="native_1c08780aa99f" formatted="false">Los metadatos de actualización deben usar números enteros</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">El programa de actualización no es un ELF de Linux de 64 bits</string>
+    <string name="native_d51ff4ed57b4" formatted="false">El programa de actualización no cumple con la alineación ELF de 16 KiB</string>
+    <string name="native_3afa3741911b" formatted="false">Al programa de actualización le falta el cargador glibc de Debian</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Ingrese una fuente de actualización HTTPS válida</string>
+    <string name="native_c274c7dd5900" formatted="false">Las fuentes de actualización requieren URL HTTPS sin credenciales de usuario</string>
+    <string name="native_f459f5ec9dac" formatted="false">Campo de fuente de actualización no válido</string>
+    <string name="native_bde2a736e30a" formatted="false">Actualice primero el host de Android</string>
+    <string name="native_b980fd021bef" formatted="false">Directorio de actualización no válido</string>
+    <string name="native_c0e96727553e" formatted="false">Archivo de actualización no válido</string>
+    <string name="native_86ff542c68ed" formatted="false">No se pueden cambiar los directorios de actualización en este estado</string>
+    <string name="native_fbf82dc7ef22" formatted="false">El estado de la sesión se refiere a un directorio externo. La actualización no se puede probar de forma segura.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Almacenamiento insuficiente. Estado original sin cambios.</string>
+    <string name="native_099801d672b1" formatted="false">Descarga cancelada</string>
+    <string name="native_f1304f707ec9" formatted="false">Demasiadas redirecciones de actualización</string>
+    <string name="native_0d07f458b607" formatted="false">El servidor de actualización no transfirió los bytes originales</string>
+    <string name="native_de331dfd8908" formatted="false">La longitud del archivo de actualización no coincide</string>
+    <string name="native_416b8c87e69e" formatted="false">El archivo de actualización no se descargó por completo</string>
+    <string name="native_e1e74b76c427" formatted="false">El servidor de actualización no devolvió el archivo completo</string>
+    <string name="native_6afcf03cb130" formatted="false">Espacio de preparación de actualización insuficiente</string>
+    <string name="native_be1c695d9241" formatted="false">El archivo de actualización SHA-256 no coincide</string>
+    <string name="native_a0133d117bb0" formatted="false">El paquete de actualización no coincide con la información de lanzamiento confirmada</string>
+    <string name="native_8635a43ce28a" formatted="false">Directorio de proyecto no válido</string>
+    <string name="native_d32ab8b004e6" formatted="false">No se pudo guardar la ubicación del espacio de trabajo</string>
+    <string name="native_43a5447014fd" formatted="false">Inicie el entorno de desarrollo desde Runtime antes de abrir una terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Nueva terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Cerrar corriente</string>
+    <string name="native_0e822affd5da">Directorio inicial: %1$s</string>
+    <string name="native_72d769e3888d">Nuevo directorio de terminal: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">El selector de archivos del sistema no está disponible</string>
+    <string name="native_179a57921f91" formatted="false">Configuración de renderizado de WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Velocidad de fotogramas de renderizado</string>
+    <string name="native_55b6d7f645f3" formatted="false">Prefiere 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Seguir la frecuencia de actualización de la pantalla</string>
+    <string name="native_d4ecf38c341d" formatted="false">Prefiera 60 Hz para reducir la carga de renderizado en pantallas de alta frecuencia de actualización. Seguir la pantalla permite al sistema programar fotogramas. Se aplica solo a la ventana de esta aplicación.</string>
+    <string name="native_bf0d3a407418" formatted="false">No instalado</string>
+    <string name="native_2fb8edc75b25" formatted="false">Listo</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Verificando cargador</string>
+    <string name="native_d1017c1eac80" formatted="false">Instalando Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Entorno de desarrollo local</string>
+    <string name="native_55aa84065de2" formatted="false">Sesión de desarrollo local de Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">Detener</string>
+    <string name="native_5f73a4e1e494" formatted="false">Instalado</string>
+    <string name="native_147e90d2ec02" formatted="false">Recuperando</string>
+</resources>

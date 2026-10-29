@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "bunVersion": "1.4.4",
+  "sources": [
+    {
+      "name": "bun",
+      "repository": "oven-sh/bun",
+      "commit": "38afee6c84fcf48c0edb2466aa4b27d287a59c30",
+      "url": "https://codeload.github.com/oven-sh/bun/tar.gz/38afee6c84fcf48c0edb2466aa4b27d287a59c30",
+      "file": "bun-source.tar.gz",
+      "sha256": "64c0d268a6fa9f5e6e5ac40761dacb6b0825b2092f02cd07d772a9018f39e520",
+      "size": 92996071
+    },
+    {
+      "name": "bun-tinycc",
+      "repository": "oven-sh/tinycc",
+      "commit": "05f0fafaa3be31e31d7b4b5c17dc60f62c991171",
+      "url": "https://codeload.github.com/oven-sh/tinycc/tar.gz/05f0fafaa3be31e31d7b4b5c17dc60f62c991171",
+      "file": "bun-tinycc-source.tar.gz",
+      "sha256": "50750680312923a59fdd36ae41f7091d8e35e51909d0e0b25b0b33ea9534bc08",
+      "size": 1036641
+    },
+    {
+      "name": "opencode",
+      "repository": "anomalyco/opencode",
+      "commit": "f993a89d13c73ff6f6537d6b97e78e138a3ea363",
+      "url": "https://codeload.github.com/anomalyco/opencode/tar.gz/f993a89d13c73ff6f6537d6b97e78e138a3ea363",
+      "file": "opencode-source.tar.gz",
+      "sha256": "eab532c96085a7401981d0efb641b5fcf4d5be6f844b428d2efb6068d529d7e3",
+      "size": 81465342
+    }
+  ],
+  "externalSourceReferences": [
+    {
+      "name": "bun-webkit",
+      "repository": "https://github.com/oven-sh/WebKit",
+      "commit": "d6375c72affe0f70222cdcb45012b10f0bf3a9d5",
+      "sourceArchiveCollected": false,
+      "archiveEndpointStatus": "HTTP 422: Content creation is blocked",
+      "instructions": "Bun upstream documents git clone and bun sync-webkit-source; archive availability and relink verification remain open."
+    }
+  ],
+  "fullReleaseAuditComplete": false
+}

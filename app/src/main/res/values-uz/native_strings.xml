@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Ishlab chiqish ish maydoni</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Ish stoli</string>
+    <string name="native_7f1c02616d60" formatted="false">Yagona sahifa</string>
+    <string name="native_651ae6ea52ae" formatted="false">Bo\'lingan ko\'rinishni tiklash</string>
+    <string name="native_d7e97cfac66f" formatted="false">Ish maydoni tartibi</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Bir nechta panellarni birgalikda ko\'rish uchun oynani kengaytiring.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Loyiha fayllarini ko\'rsatish</string>
+    <string name="native_712d956931d1" formatted="false">Terminalni ko\'rsatish\nQuyida</string>
+    <string name="native_073cc20d9ed9" formatted="false">terminali</string>
+    <string name="native_5de225480fa7" formatted="false">terminali o\'ngda</string>
+    <string name="native_35cdb3eacdc6" formatted="false">bo\'sh joy cheklangan bo\'lsa, panellar qulab tushadi va suzuvchi menyudan kirish mumkin bo\'lib qoladi. Yon terminal kengroq oynalarda paydo bo\'ladi. Panellar hajmini o\'zgartirish uchun ajratgichlarni torting.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Chap Alt: 1–5 Sahifalar · B Fayllar · T Terminal · M Ish stoli · Yagona/Split kiriting · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">Bajarildi</string>
+    <string name="native_bcec2218fc21" formatted="false">Proportionlarni tiklash</string>
+    <string name="native_da88c62d1217">%1$s ni bitta sahifada ko‘rsatish</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Loyiha fayllarini ajratuvchi</string>
+    <string name="native_707c0891a0e6" formatted="false">Terminalni ajratuvchi</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode va ish stolini ajratuvchi</string>
+    <string name="native_50407ad8dfa8" formatted="false">Oldingi panelni qisqartirish</string>
+    <string name="native_b72c5c02a666" formatted="false">Oldingi panelni kattalashtirish</string>
+    <string name="native_3f3685e8d731" formatted="false">Ushbu arxiv formati uchun juda ko\'p PRoot havolalari</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux qattiq havolalar to\'liq rootfs talab qiladi</string>
+    <string name="native_f336f1e17596" formatted="false">Zaxira katalogini joylashtirish juda chuqur</string>
+    <string name="native_b6f744737a45" formatted="false">Zaxira parol uzunligi yaroqsiz</string>
+    <string name="native_13bde5dd1812" formatted="false">Zaxira paroli kamida 12 ta belgidan iborat bo\'lishi kerak</string>
+    <string name="native_be02cbd55932" formatted="false">Qo\'llab-quvvatlanmaydigan zaxira formati</string>
+    <string name="native_7a91a3d586ae" formatted="false">Zaxira sarlavhasi yaroqsiz</string>
+    <string name="native_2bbd318a5667" formatted="false">Qo\'llab-quvvatlanmaydigan zaxira shifrlash parametrlari</string>
+    <string name="native_18868da27841" formatted="false">Zaxira paroli noto\'g\'ri yoki shikastlangan fayl</string>
+    <string name="native_e41d6440468d" formatted="false">Qayta tiklash yozuvi juda katta</string>
+    <string name="native_282692502f14" formatted="false">Zaxira metamaʼlumotlari juda katta</string>
+    <string name="native_61fdca8d6c82" formatted="false">Zaxira metamaʼlumotlarini joylashtirish juda chuqur</string>
+    <string name="native_8cefb30732d4" formatted="false">Yaroqsiz zahiraviy metamaʼlumotlar</string>
+    <string name="native_5d3037708cad" formatted="false">Qo\'llab-quvvatlanmaydigan mahalliy sozlamalar</string>
+    <string name="native_81a57c382f9d" formatted="false">Mahalliy sozlamalarni saqlab bo‘lmadi</string>
+    <string name="native_50603e683d4a" formatted="false">Zaxira yo\'lidagi noto\'g\'ri ota-katalog</string>
+    <string name="native_c3f838a46b8e" formatted="false">Ish stantsiyasining ildizi ramziy havola bo\'lmasligi kerak</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Zaxiralash paytida fayl o\'zgartirildi</string>
+    <string name="native_77e1e85147db" formatted="false">Qo\'llab-quvvatlanmaydigan ish stantsiyasining ma\'lumotlar formati</string>
+    <string name="native_a927b5a565af" formatted="false">Zaxira qo\'shimcha ma\'lumotlarni o\'z ichiga oladi</string>
+    <string name="native_c2b886d508f2" formatted="false">The backup contains duplicate paths</string>
+    <string name="native_3dab8cd60102" formatted="false">Zaxira nusxada ko‘chirib bo‘lmaydigan ish vaqti sozlamalari mavjud</string>
+    <string name="native_f45ba674a630" formatted="false">Zaxira juda katta yoki xotira yetarli emas</string>
+    <string name="native_140073e8e77b" formatted="false">Belgili havola vaqt belgilarini tiklab bo‘lmadi</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nomlangan quvur vaqt belgilarini tiklab bo‘lmadi</string>
+    <string name="native_0daee8026db1" formatted="false">Ish stantsiyasini zaxiralash va tiklash</string>
+    <string name="native_1acc18928c5f" formatted="false">Debian, ishlab chiquvchi vositalari, loyihalar, uy, OpenCode seanslari va sozlamalari, Linux brauzeri maʼlumotlari va mahalliy tartib sozlamalarini oʻz ichiga oladi.</string>
+    <string name="native_62254d31a535" formatted="false">Vaqtinchalik fayllar va eski zaxira nusxalari bundan mustasno. Android WebView xotirasi va yuborilmagan qoralamalar ushbu qurilmada qoladi va bu zaxira bilan o‘tkazilmaydi.</string>
+    <string name="native_808eabc7811f" formatted="false">Create encrypted backup</string>
+    <string name="native_201c10b38296" formatted="false">Import zahirasi</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">O\'zgartirishlaringizni avval fayl muharririda saqlang.</string>
+    <string name="native_0559cd596453" formatted="false">OpenCode, terminallar va ish stolini to\'xtating</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Atrof-muhit operatsiyasi tugallanmagan. Avval uni tiklang.</string>
+    <string name="native_185f58156330" formatted="false">Tugallanmagan operatsiyani tiklang</string>
+    <string name="native_20831b6f67a7" formatted="false">Oxirgi muhitni tiklashni bekor qiling</string>
+    <string name="native_4f392d5d6141">Shifrlangan mahalliy nusxa: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Faylga saqlash</string>
+    <string name="native_f09619351eb9" formatted="false">Delete local copy</string>
+    <string name="native_85c686eb9841">Processed %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Zaxira vazifasini bekor qilish</string>
+    <string name="native_66c9d896407b" formatted="false">Ish stantsiyasining zaxira nusxasini shifrlash</string>
+    <string name="native_548cd9f0831e" formatted="false">shifrini yechish va zaxira nusxasini tekshirish</string>
+    <string name="native_d248f5eca9a5" formatted="false">Zaxira nusxalarida SSH shaxsiy kalitlari, API kalitlari va hisob maʼlumotlari boʻlishi mumkin. Kamida 12 ta belgidan foydalaning. Unutilgan parolni qayta tiklab bo\'lmaydi.</string>
+    <string name="native_f249422b9ec1" formatted="false">Zaxira nusxasi shifrlangan va shaxsiy katalogda tasdiqlangan. Qayta tiklashni tasdiqlaganingizdan keyingina muhitingiz almashtiriladi.</string>
+    <string name="native_e7be6841703a" formatted="false">Backup password</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Parolni takrorlang</string>
+    <string name="native_eafdc5cd4882" formatted="false">Shifrlashni boshlang</string>
+    <string name="native_2986b88beade" formatted="false">shifrini yechish va tasdiqlang</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Bekor qilish</string>
+    <string name="native_f46c5ed7412d" formatted="false">Oldingi muhit qayta tiklansinmi?</string>
+    <string name="native_33eda0946a5b" formatted="false">Shifrlangan mahalliy nusxa oʻchirilsinmi?</string>
+    <string name="native_26db24150f2e" formatted="false">Loyihalar, uy, Debian va sessiyalar oxirgi tiklashdan oldin oʻz holatiga qaytadi. Oxirgi ishlar ilova ichidagi shaxsiy zaxirada qoladi.</string>
+    <string name="native_1153b30d51d5" formatted="false">Faqat ilova ichidagi shifrlangan mahalliy nusxa o\'chiriladi. Boshqa joyda saqlangan fayllar mavjud bo\'lib qoladi.</string>
+    <string name="native_427a78a4e69a" formatted="false">Tasdiqlang</string>
+    <string name="native_7af46d7ee003" formatted="false">Restore this workstation backup?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s yozuv · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Zaxirada bajariladigan Linux dasturi mavjud. Confirm that you trust its source. Qayta tiklash butun atrof-muhitni almashtiradi va mahalliy xizmatlarni tekshiradi; the previous environment is kept for recovery.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Backup verified. Waiting for restoration confirmation.</string>
+    <string name="native_97076078c749" formatted="false">Shuningdek, Chromium moslik rejimini yoqing (Linux jarayonining sinov muhitini o\'chiradi)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">sukut bo\'yicha o\'chirilgan. You can enable it later in desktop settings.</string>
+    <string name="native_ddf09383413c" formatted="false">Qayta tiklashni tasdiqlang</string>
+    <string name="native_8e6056b0f629" formatted="false">Importni bekor qilish</string>
+    <string name="native_63a895901c76" formatted="false">Ish stantsiyasining muhiti o\'zgartirildi</string>
+    <string name="native_a4c994348a39" formatted="false">Ish joyini qayta oching</string>
+    <string name="native_774947f0653e" formatted="false">Vazifani bekor qilish</string>
+    <string name="native_e09a22b18445" formatted="false">Vazifa uzildi. Qayta operatsiyani tanlang va parolni kiriting.</string>
+    <string name="native_38c5fcc634db" formatted="false">Avval barcha oynalarda fayl tahrirlarini saqlang. Qayta urinishdan oldin mavjud importni bekor qiling.</string>
+    <string name="native_029bfa8ff772" formatted="false">Ish stantsiyasini tiklash va dasturlarni tekshirish</string>
+    <string name="native_e4f04df818f8" formatted="false">Tanlangan zaxira operatsiyangiz qayta ishlanmoqda</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCode, terminallar va ish stolini to\'xtating, so\'ngra fayl operatsiyalari tugashini kuting.</string>
+    <string name="native_1a5cde18c609" formatted="false">Zaxiralash vazifasini ishga tushirib bo‘lmadi. Ilovani oldingi planda qaytadan urinib ko\'ring.</string>
+    <string name="native_1553b714941d" formatted="false">Zaxira nusxasini ochish va tekshirish. Asl muhit qayta tiklanadigan bo\'lib qoladi ...</string>
+    <string name="native_dafd005e953e" formatted="false">Zaxira nusxasi tasdiqlandi. Ilovada tiklashni tasdiqlang.</string>
+    <string name="native_9fb236184596" formatted="false">Ilova ichidagi shifrlangan mahalliy nusxa o‘chirib tashlandi.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operatsiya bekor qilindi. Asl atrof-muhit ma\'lumotlari saqlanadi.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Amaliyot tugallanmagan. Parolni, zaxira yaxlitligini, xost versiyasini va bo\'sh joyni tekshiring. Asl atrof-muhit ma\'lumotlari saqlanadi.</string>
+    <string name="native_29deabd28960" formatted="false">Shifrlangan ish stantsiyasining zaxira nusxasi yaratilmoqda…</string>
+    <string name="native_3d137e243806" formatted="false">Shifrlangan zaxira yaratildi. Uni qaerga saqlashni tanlang.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Atrof muhitni tiklash va mahalliy xizmatlarni tekshirish. Ilova maʼlumotlarini saqlang...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">Ish stantsiyasi tiklandi. Oldingi muhit shaxsiy zaxirada qoladi. Ish joyini qayta oching.</string>
+    <string name="native_0392cd6152d2" formatted="false">Qayta tiklash tekshiruvlari amalga oshmadi. Oldingi muhitga qaytish; import qilingan ma\'lumotlar shaxsiy zaxirada qoladi.</string>
+    <string name="native_5dc7410b600e" formatted="false">Qayta tiklash tugallanmagan. Barcha ma\'lumotlar kataloglari saqlanadi. Ilova maʼlumotlarini saqlang va qayta tiklashga urinib koʻring.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Oldingi ish stantsiyasi muhiti tiklanmoqda…</string>
+    <string name="native_15821323ff89" formatted="false">Oldingi muhit tiklandi. Oxirgi ishlar shaxsiy zaxirada qoladi. Ish joyini qayta oching.</string>
+    <string name="native_56dd94f47870" formatted="false">Bu tiklashni bekor qilib bo‘lmaydi. Joriy muhit va zaxira nusxalari saqlanib qoldi.</string>
+    <string name="native_93530f3fa029" formatted="false">Bekor qilish tugallanmagan. Barcha ma\'lumotlar kataloglari saqlanadi. Ilova maʼlumotlarini saqlang va qayta tiklashga urinib koʻring.</string>
+    <string name="native_f12963c80def" formatted="false">Shifrlangan zaxira saqlanmoqda…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Shifrlangan zahira saqlandi. Mahalliy nusxani qayta saqlashingiz yoki uni qo\'lda o\'chirishingiz mumkin.</string>
+    <string name="native_d660cccf65e0" formatted="false">Tasdiqlanmagan import tozalanmoqda…</string>
+    <string name="native_800592163979" formatted="false">Import bekor qilindi. Asl muhit o\'zgarmagan.</string>
+    <string name="native_5a90367eb834" formatted="false">Import bekor qilindi. Asl muhit o\'zgarmagan; ba\'zi vaqtinchalik import ma\'lumotlari ilovaning shaxsiy katalogida qoladi.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Shifrni ochish va tekshirish tayyorlanmoqda…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Shifrlangan zaxira tayyorlanmoqda…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Zaxira xizmatini ishga tushirib bo‘lmadi. Oldindan urinib ko\'ring.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Avval tugallanmagan muhit ishini tiklang</string>
+    <string name="native_f14aea7c819c" formatted="false">Qayta tiklash yozuvi noto\'g\'ri</string>
+    <string name="native_7c284c55ee08" formatted="false">Qayta tiklash katalogi etishmayapti</string>
+    <string name="native_bfc4792df15b" formatted="false">Native sozlamalari tiklash yozuvi chegarasidan oshib ketadi</string>
+    <string name="native_8d93770ba8c9">Oldingi muhit katalogi yetishmayapti: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Noma\'lum tiklash bosqichi</string>
+    <string name="native_20c5124fe175" formatted="false">noma\'lum tiklash operatsiyasi</string>
+    <string name="native_1c457322b624" formatted="false">Qayta tiklash uchun avvalgi muhit mavjud emas</string>
+    <string name="native_30db1666c8e5" formatted="false">Bu zahira boshqa ilovaga tegishli</string>
+    <string name="native_6687d1c64d75" formatted="false">Zaxira protsessor arxitekturasi mos kelmaydi</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Android xostini avval ushbu zahira tomonidan foydalaniladigan versiyaga yangilang</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Zaxira katalogi to\'liq emas</string>
+    <string name="native_66106ab3e254" formatted="false">Eski zahirada tekshiriladigan OpenCode nashriyot isboti yo\'q. Qayta zaxiralashdan oldin ushbu xost bilan asl muhitni ishga tushiring.</string>
+    <string name="native_bec13cc92982" formatted="false">Rivojlanish muhiti tizimi harakatlari</string>
+    <string name="native_65de80229626" formatted="false">Debian tizim harakatini talab qildi</string>
+    <string name="native_5e38581cf19c" formatted="false">So‘rovni ko‘rib chiqish va ko‘rib chiqish uchun bosing</string>
+    <string name="native_749d406d2c67" formatted="false">Debian ishlab chiqish muhitidan</string>
+    <string name="native_4032d33b2afd" formatted="false">Tizim brauzerini ochingmi?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Mahalliy loyihani oldindan ko\'rish ochilsinmi?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Buferni o\'qiyapsizmi?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Tizim almashish xotirasiga nusxalansinmi?</string>
+    <string name="native_77f761eb70aa" formatted="false">Mahalliy bildirishnoma yuborilsinmi?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Loyiha fayli ulashilsinmi?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Tizim fayllari import qilinsinmi?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Loyiha fayli eksport qilinsinmi?</string>
+    <string name="native_7ac295421c6d" formatted="false">Brauzerda oching</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Ko\'rib chiqishni ochish</string>
+    <string name="native_14792d6cd7a6" formatted="false">Oʻqishga ruxsat bering</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Buferga nusxalash</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Bildirishnoma yuborish</string>
+    <string name="native_88152a09fa02" formatted="false">Ulashish ilovasini tanlang</string>
+    <string name="native_7a49a79c57f9" formatted="false">Fayllarni tanlang</string>
+    <string name="native_99d9f87419c5" formatted="false">Saqlash joyini tanlang</string>
+    <string name="native_23e5bb2090aa">%1$s\nOpenCode-dan ajratilgan brauzer ma\'lumotlari bilan ochiladi.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Joriy Debian dasturiga tizim buferidan matn bering.</string>
+    <string name="native_dcc6bec24e43">%1$s ichiga import qilinadigan fayllarni tanlang. Mavjud fayllar saqlanadi va dublikatlar nomi o\'zgartiriladi.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium brauzer rejimi</string>
+    <string name="native_4767f37900f6" formatted="false">Moslik rejimi alohida brauzer profilidan foydalanadi va Chromium\'ning Linux jarayoni sinov muhitini o\'chiradi. Brauzer hali ham ushbu ilova ichidagi fayllarga kira oladi. Ishonchsiz veb-saytlardan qoching va muhim hisoblar uchun Android tizimi brauzeridan foydalaning. Rejimlarni o\'zgartirgandan so\'ng Chromium-ni qayta oching.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standart Linux sandboxing sukut bo\'yicha yoqilgan. Agar Chromium ishga tushmasa, moslik rejimini tanlashingiz mumkin. U Linux jarayonining sinov muhitini o\'chiradi va ilova fayllariga kirish huquqini saqlab qolgan holda alohida profildan foydalanadi. Ishonchsiz veb-saytlardan saqlaning; muhim hisoblar uchun Android tizimi brauzeridan foydalaning.</string>
+    <string name="native_3a2596fa9517" formatted="false">Standart rejimni tiklash</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Moslik rejimini yoqish</string>
+    <string name="native_9a45442649f5" formatted="false">Debian ish stoli</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Umumiy /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Birinchi o\'rnatish grafik komponentlarni yuklab oladi. O\'rnatishdan so\'ng, ish stoli OpenCode-dan mustaqil ravishda ishga tushishi va to\'xtashi mumkin.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC oynasi</string>
+    <string name="native_41e865941e16" formatted="false">Debianning rasmiy oynasi</string>
+    <string name="native_ea341b8a102b" formatted="false">Dastlabki ruxsat</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Sahifalarni almashtirganingizda ish stoli ishlashda davom etadi. Uni Runtime-dan to\'xtating.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Ish stoli vazifasini toʻxtatish</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Ish stolini ishga tushirish</string>
+    <string name="native_ea27a25e5114" formatted="false">Ish stoli komponentlarini o\'rnating</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: moslik rejimi</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standart rejim</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Avval Debian dasturchi vositalarini Runtime-dan o\'rnating.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Faoliyat jurnali</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Loyiha jildini ochib bo‘lmadi. Katalog mavjudligini tekshiring.</string>
+    <string name="native_83c76743b29d" formatted="false">To\'xtatilgan muhit ishini tiklash</string>
+    <string name="native_739a730ae247" formatted="false">Atrof-muhitni saqlash</string>
+    <string name="native_049281329843" formatted="false">Yangilanishga texnik xizmat koʻrsatish yoki joriy vazifa tugashini kuting.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Joriy ishlab chiqish muhiti vazifasi tugashini kuting</string>
+    <string name="native_83099168971c" formatted="false">Ish stoli o\'rnatilmoqda</string>
+    <string name="native_85e0c18dde8d" formatted="false">Ish stolini ishga tushirish</string>
+    <string name="native_9a48f8196d8f" formatted="false">Diqqat kerak</string>
+    <string name="native_75470fb13121" formatted="false">to\'xtatildi</string>
+    <string name="native_51a53c8109d5" formatted="false">Faoliyat yozuvini o‘qib bo‘lmaydi yoki saqlay olmaydi. Uni Runtime-dan tuzating yoki biroz xotiradan bo\'shating.</string>
+    <string name="native_d36a018cc619" formatted="false">Avval Debian ishlab chiqish muhitini o\'rnating</string>
+    <string name="native_80be4c2928a5" formatted="false">Avval tarmoqqa ulaning</string>
+    <string name="native_a065d81014b1" formatted="false">Ish stolini o‘rnatish tugallanmagan. Oʻrnatishni qaytadan urinib koʻring.</string>
+    <string name="native_721c38b32c35" formatted="false">Ish stoli oʻrnatilgan. Zarur bo\'lganda uni boshlang.</string>
+    <string name="native_6c1c52771115" formatted="false">Avval ish stoli komponentlarini o\'rnating</string>
+    <string name="native_693d90a47827" formatted="false">Ish stolida ishlash muvaffaqiyatsiz tugadi. Tafsilotlar juda uzun yoki mavjud emas.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">To\'xtash belgisini saqlashni tugatib bo\'lmadi. Jarayonni tozalash davom etdi.</string>
+    <string name="native_06083621a6ce" formatted="false">Faoliyat yozuvini saqlashni tugatib bo‘lmadi. Keyingi ishga tushirish buni uzilish sifatida ko\'radi.</string>
+    <string name="native_04d721a3819a" formatted="false">Ish stoli ishlaydi</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Ish stolida ishlash vaqti tugadi. Jurnalni ko\'rib chiqing va qayta urinib ko\'ring.</string>
+    <string name="native_e70d328a3ca9">Ish stoli jarayonidan chiqdi (%1$s). Faoliyat jurnalini ko\'rib chiqing.</string>
+    <string name="native_df5c878f2852" formatted="false">Mahalliy grafik ish maydoni</string>
+    <string name="native_7b0455a8daa4" formatted="false">Ish stolini to\'xtatish</string>
+    <string name="native_a62123cde9c7" formatted="false">To\'xtatilgan vazifalar va tiklash</string>
+    <string name="native_279308947a14" formatted="false">Faoliyat yozuvini o\'qib bo\'lmadi. Repair shikastlangan yozuvning nusxasini saqlaydi va loyihalar, seanslar va Linux muhitini saqlaydi.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Ta\'mirlash faoliyati rekordi</string>
+    <string name="native_6b43650c2c82" formatted="false">Vazifa kutilmaganda tugadi.</string>
+    <string name="native_acb0c970aaa6">%1$s terminallari odatdagidek yopilmagan. Ularning yugurish buyruqlari uzilib qoldi.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Qayta ishga tushirish tasdiqlandi. Oldingi buyruqlar takrorlanmadi.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Saqlangan loyihalar va sessiyalar saqlanadi. Terminallarni qo\'lda qayta oching; tugallanmagan buyruqlar avtomatik ravishda davom etmaydi.</string>
+    <string name="native_fa9669296762" formatted="false">OpenCode-ni qayta ishga tushiring</string>
+    <string name="native_bd8130bec5d9" formatted="false">Ish stoli avtomatik ravishda qayta ishga tushmaydi. Uni ish stoli sahifasidan qaytadan boshlang.</string>
+    <string name="native_644f8f44251f" formatted="false">Faylni oching</string>
+    <string name="native_9dfb5569d609" formatted="false">Faylni almashish</string>
+    <string name="native_a4500cff3a86" formatted="false">Ishchi katalog ramziy havola bo\'lmasligi kerak</string>
+    <string name="native_8657d27661bd" formatted="false">Ishchi katalog yo‘li yaroqsiz</string>
+    <string name="native_02b702a9adff" formatted="false">Faylni tanlang</string>
+    <string name="native_924874b746cc" formatted="false">Terminaldagi ramziy havolalarni boshqaring</string>
+    <string name="native_efea6e422a54" formatted="false">Fayl nomi noto‘g‘ri</string>
+    <string name="native_c4989dc37aab" formatted="false">katalogi mavjud emas</string>
+    <string name="native_d613dba39b44" formatted="false">Belgilangan manzil katalogi mavjud emas</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Jildni o\'zi yoki uning avlodlari ichiga joylashtira olmaydi</string>
+    <string name="native_c3acd5a3254c" formatted="false">Loyihada maxsus qurilmalar yoki rozetkalar mavjud va ularni nusxalab bo‘lmaydi</string>
+    <string name="native_6c36955b068b" formatted="false">Oddiy faylni tanlang</string>
+    <string name="native_49191d7d489f" formatted="false">Bu fayl 2 MB dan oshadi. Uni OpenCode yoki terminal yordamida tahrirlang.</string>
+    <string name="native_ee42414d36c2" formatted="false">fayl juda katta</string>
+    <string name="native_f0a979f87157" formatted="false">Ikkilik fayllarni boshqa ilovada ochish uchun eksport qiling</string>
+    <string name="native_88a9c82651fc" formatted="false">OpenCode yoki terminal yordamida UTF-8 bo\'lmagan fayllarni tahrirlang</string>
+    <string name="native_0189a5c3418c" formatted="false">Boshqa vosita bu faylni o\'zgartirdi. Tahrirlashdan oldin uni qayta oching.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Asl katalog endi mavjud emas. Avval uni qayta tiklang.</string>
+    <string name="native_46eae321049e" formatted="false">Hech qanday almashish ilovasi mavjud emas</string>
+    <string name="native_87d699d3a26c" formatted="false">Chiqindi</string>
+    <string name="native_d0a8c03d6c07" formatted="false">loyiha fayllari</string>
+    <string name="native_4dcf914f0b64" formatted="false">O\'chirilgan fayllarni asl kataloglariga qaytarish mumkin</string>
+    <string name="native_c5b81b02354f" formatted="false">Orqaga</string>
+    <string name="native_e56b99379169">%1$s fayldan nusxa olindi · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Nusxa olinmoqda…</string>
+    <string name="native_85199bb36b04" formatted="false">Operatsiyani bekor qilish</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Yopish</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Yangi sessiya</string>
+    <string name="native_23c250cc8e0b" formatted="false">OpenCode seansini shu yerda boshlang</string>
+    <string name="native_f22da21fd54f" formatted="false">terminali</string>
+    <string name="native_3645f30b3412" formatted="false">Saqlanmagan o\'zgarishlar</string>
+    <string name="native_2266227605c4" formatted="false">Saqlash</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Chiqindi bo\'sh</string>
+    <string name="native_a9e739b13e52" formatted="false">tiklash</string>
+    <string name="native_45985dc2183e" formatted="false">Harakati:</string>
+    <string name="native_31214130b5b7" formatted="false">Nusxa:</string>
+    <string name="native_07e5c3158f35" formatted="false">joylashtirish</string>
+    <string name="native_831b4e0fb574" formatted="false">Yangi</string>
+    <string name="native_ff65a22d7087" formatted="false">Yangi jild</string>
+    <string name="native_71faed44a86c" formatted="false">Yangi fayl</string>
+    <string name="native_8dddd460f6ae" formatted="false">Import</string>
+    <string name="native_d85825123e60" formatted="false">yangilash</string>
+    <string name="native_ac9d73843736" formatted="false">Ushbu katalogdan qidiring</string>
+    <string name="native_21eef82963ee" formatted="false">Bu katalog bo\'sh. Fayllarni import qiling yoki loyiha yarating.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Mos fayllar yo\'q</string>
+    <string name="native_d674bc0f86b8" formatted="false">Fayl harakatlari</string>
+    <string name="native_d04a47c87cc8" formatted="false">Ramziy havola</string>
+    <string name="native_e0ba66f5246a" formatted="false">papkasi</string>
+    <string name="native_f170b42599e8" formatted="false">Nomini o\'zgartirish</string>
+    <string name="native_4cdacf57ead2" formatted="false">Nusxa</string>
+    <string name="native_124aa030694e" formatted="false">Ko‘chirish…</string>
+    <string name="native_ac990518ed87" formatted="false">Bu yerda terminalni oching</string>
+    <string name="native_87bc93932d8a" formatted="false">Tizim fayllariga eksport qilish</string>
+    <string name="native_dd37f132172f" formatted="false">Chiqindiga o\'tkazing</string>
+    <string name="native_7318746d337c" formatted="false">Chiqindiga tashlansinmi?</string>
+    <string name="native_2b5ee3f10a56">“%1$s”ni axlat qutisidan tiklashingiz mumkin.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Harakat</string>
+    <string name="native_4e47aaa113fc" formatted="false">Saqlanmagan o\'zgarishlar bekor qilinsinmi?</string>
+    <string name="native_63b75399ef1a" formatted="false">O\'zgarishlarni bekor qiling</string>
+    <string name="native_d9618f7b8d25" formatted="false">Tahrirlashni davom ettiring</string>
+    <string name="native_76ce6aef5479" formatted="false">nomi</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Atrof-muhit tiklandi. Ish joyini qayta oching.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Avval Runtime\'da uzilgan operatsiyani tiklashni tugating</string>
+    <string name="native_f29af06e7c99" formatted="false">Atrof-muhitni saqlash ishlari olib borilmoqda. Keyinroq qayta urining.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operatsiya bekor qilindi</string>
+    <string name="native_c508721eb3cd" formatted="false">Bunday nomli fayl allaqachon mavjud. Boshqa nom tanlang.</string>
+    <string name="native_1e8274fe468a" formatted="false">fayl endi mavjud emas. Katalogni yangilang.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Faylga kirish ruxsati rad etildi</string>
+    <string name="native_cd808e4c321e" formatted="false">Amaliyotni yakunlab bo‘lmadi</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Amaliyot tugallanmagan. Mavjud xotirani tekshiring yoki fayllarni qayta tanlang.</string>
+    <string name="native_3f9983126fd7" formatted="false">Runtime-da OpenCode ishga tushirish holatini tekshiring</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Yangi terminalni ochib bo\'lmadi. Seanslar sonini tekshiring.</string>
+    <string name="native_2160fde3813a" formatted="false">Terminaldagi ramziy havolalarni boshqaring. Fayl menejeri havolalarga amal qilmaydi.</string>
+    <string name="native_7a844e9d4017" formatted="false">Ko‘chirish tugallandi</string>
+    <string name="native_573877894fcf" formatted="false">Nusxalash tugallandi</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Chiqindiga tashlandi</string>
+    <string name="native_862330af933f" formatted="false">Asl katalogga tiklandi</string>
+    <string name="native_beda23c9d52b" formatted="false">Atrof-muhitga texnik xizmat ko\'rsatish yoki almashtirish amalga oshirildi. Tahrirlashdan oldin ish maydonini qayta oching.</string>
+    <string name="native_678c6953bb2b" formatted="false">Saqlandi</string>
+    <string name="native_8063159f2178" formatted="false">Tanlangan faylni oʻqib boʻlmaydi</string>
+    <string name="native_4cdc2180d2ac">Import qilingan %1$s fayl</string>
+    <string name="native_e98763643b93" formatted="false">Tanlangan joyga yozish mumkin emas</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksport tugallandi</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">kodi va sessiyalar</string>
+    <string name="native_8745ed51cadd" formatted="false">ish stoli</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Grafik ish maydoni</string>
+    <string name="native_770d49c5f689" formatted="false">fayllari</string>
+    <string name="native_6a9b6480b58f" formatted="false">ish vaqti</string>
+    <string name="native_b561fe9204cc" formatted="false">Xizmatlar va ishlab chiquvchi vositalari</string>
+    <string name="native_70850bdeeabd" formatted="false">Sahifa menyusini yopish</string>
+    <string name="native_b4549acb48e8" formatted="false">ish maydoni</string>
+    <string name="native_3d3551f4660f">Suzuvchi tugmaning shaffofligi %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Pastroq qiymatlar suzuvchi tugmani shaffofroq qiladi</string>
+    <string name="native_e031beabfc9a" formatted="false">Sahifa menyusini ochish</string>
+    <string name="native_106ee775b538" formatted="false">Mahalliy OpenCode ga ulanmoqda…</string>
+    <string name="native_a021adc1f449" formatted="false">Mahalliy ulanishni tiklash kerak</string>
+    <string name="native_dacb8837471c" formatted="false">qayta ulaning</string>
+    <string name="native_17584aa60ae6" formatted="false">Mahalliy resurs keshini tayyorlab bo‘lmadi</string>
+    <string name="native_3b3b80064ccb" formatted="false">Mahalliy OpenCode tayyorlanmoqda…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Qayta urinib ko‘ring</string>
+    <string name="native_b07809340403" formatted="false">Workspace joylashuvi hali saqlanmadi. Keyinroq qayta urining.</string>
+    <string name="native_e4ab10392d05" formatted="false">Mahalliy xizmat tayyorlanmoqda. Ish joyingiz ulangandan keyin avtomatik ravishda ochiladi.</string>
+    <string name="native_20ea15973287" formatted="false">Oldingi ish uzilib qoldi. Runtime-dan qayta ishga tushirish; terminal buyruqlari avtomatik ravishda takrorlanmaydi.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Kod va seanslarni ochish uchun Runtime dan OpenCode dasturini ishga tushiring.</string>
+    <string name="native_abbac5c22111" formatted="false">Ilovadan chiqasizmi?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Ishlab chiqish muhiti fonda ishlashda davom etishi mumkin. Bildirishnomadan keyinroq qayting.</string>
+    <string name="native_814a8fb24b62" formatted="false">Joriy ish joyidan chiqasizmi?</string>
+    <string name="native_a76464945c2d" formatted="false">Shuningdek, rivojlanish muhitini to\'xtating</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Chiqish</string>
+    <string name="native_b00143b08ff1" formatted="false">Development ish stantsiyasi tayyor</string>
+    <string name="native_51bca456a350" formatted="false">Debian ishlab chiqish ish stantsiyangiz</string>
+    <string name="native_0c2acd0b6057" formatted="false">Ishlayotgan</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Boshlanmoqda</string>
+    <string name="native_44da7f6a451d" formatted="false">To\'xtatilmoqda</string>
+    <string name="native_b7e1503a7239" formatted="false">Rivojlanish muhitini ta\'mirlash</string>
+    <string name="native_7c91bd67ff14" formatted="false">Rivojlanish muhitini o\'rnating</string>
+    <string name="native_cfd73bb04860" formatted="false">To\'xtash muhiti</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode dasturini ishga tushiring</string>
+    <string name="native_5d4600a269e9" formatted="false">Atrof-muhitni tekshiring</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Debian dasturchi vositalarini yangilang</string>
+    <string name="native_c114ec62712b" formatted="false">Oldingi muhitning zaxira nusxasi, loyihalar va seans ma\'lumotlari saqlanadi.</string>
+    <string name="native_eb3114155716" formatted="false">Til serverlarini o\'rnatish / yangilash</string>
+    <string name="native_01af25e5a7d9" formatted="false">Imzolangan Debian omborlaridan onlayn oʻrnatilgan C/C++ (clangd) va Python (pylsp). Avval OpenCode va ish stolini to\'xtating.</string>
+    <string name="native_2c7251cce661" formatted="false">Sahifalarni almashtirish uchun suzuvchi tugmani bosing. Qayta joylashtirish uchun uni torting.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Ish vaqti haqida ma\'lumot ishga tushirilgandan so\'ng shu yerda paydo bo\'ladi.</string>
+    <string name="native_a8243a4e0d22" formatted="false">ochiq ish vaqti</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Paketli APK versiyasi</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode yangilanishlari</string>
+    <string name="native_36ab16248f65" formatted="false">Ushbu ilova noshiri tomonidan imzolangan .ocaupdate faylini import qiling. Rasmiy frontend va backend yangilanishi birgalikda.</string>
+    <string name="native_8aad48b0508d" formatted="false">Yangilash manbai (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Yangilanish manbasini tekshiring</string>
+    <string name="native_f73973cfadbb">Imzolangan nashr: %1$s\nQabul qilish: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Yuklab oling va tekshiring</string>
+    <string name="native_f2ef7965bf12" formatted="false">Yangilash paketini tanlang</string>
+    <string name="native_165111adfe2c">O‘rnatishga tayyor: %1$s\nQabul qilish: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Ushbu yangilanishni o\'rnating</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Yangilanishdan oldingi versiya va seanslarni tiklang</string>
+    <string name="native_6864335de653" formatted="false">Yangilashni bekor qilish</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode yangilanishi o\'rnatilsinmi?</string>
+    <string name="native_816bf3635d53" formatted="false">Yangilanishdan oldingi holat tiklansinmi?</string>
+    <string name="native_11beb4a42abc">%1$s ni oʻrnating. Ilova seans suratini saqlaydi, imzolangan dasturni tekshiradi va agar u muvaffaqiyatsiz bo\'lsa, oldingi versiyani tiklaydi. Loyiha fayllari saqlanadi.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">sessiyalari ushbu yangilanishdan oldin oʻz holatiga qaytadi. Soʻnggi seanslar shaxsiy zaxirada qoladi. Loyiha fayllari saqlanadi.</string>
+    <string name="native_def5e273616d" formatted="false">O\'rnatishni tasdiqlang</string>
+    <string name="native_369d2eefccde" formatted="false">Ko\'rib chiqish brauzer ma\'lumotlarini ajratib bo\'lmadi. Oldindan ko\'rishni qayta oching.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Loyiha sahifasini yuklab bo‘lmadi. Terminalingizdagi ishlab chiqish serverini tekshiring.</string>
+    <string name="native_6e7408950cf5" formatted="false">loyihasi veb-saytini oldindan ko\'rish</string>
+    <string name="native_bfb4951e071d" formatted="false">Loyihani oldindan ko\'rish</string>
+    <string name="native_f80652913d06" formatted="false">Terminalda ishlab chiqish serverini ishga tushiring, so\'ngra uning mahalliy portiga kiring. Brauzer ma\'lumotlarini oldindan ko\'rish OpenCode\'dan ajratilgan.</string>
+    <string name="native_2c41e85af61f" formatted="false">porti</string>
+    <string name="native_77c3a828a5c5" formatted="false">OpenCode va ish stoli xizmatlaridan tashqari 1024 dan 65535 gacha ishlab chiqish portini kiriting.</string>
+    <string name="native_7311a9dfea51" formatted="false">Bu portda hech narsa eshitmayapti. Terminalingizdagi xizmatni tekshiring.</string>
+    <string name="native_4f8d84105475" formatted="false">tekshirilmoqda…</string>
+    <string name="native_4923c272b68e" formatted="false">Ishlab chiqish porti butun son bo\'lishi kerak</string>
+    <string name="native_04a87026e81f" formatted="false">Yaroqli loyiha ishlab chiqish portini tanlang</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode ishlab chiqish seansi</string>
+    <string name="native_e87a4529ab82" formatted="false">Rivojlanish muhitini o\'rnatish</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian yangilanishi</string>
+    <string name="native_0c6301bc295d" formatted="false">Rivojlanish muhitini ta\'mirlash</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Rivojlanish muhitini tekshirish</string>
+    <string name="native_9612d4419bb6" formatted="false">til serverini o\'rnatish</string>
+    <string name="native_f72fba77f87a" formatted="false">Atrof-muhitni tiklash</string>
+    <string name="native_7c8162195c7c" formatted="false">Ish stoliga o\'rnatish</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Oldingi ish uzilib qoldi. Runtime\'dan aniq qayta ishga tushiring.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Ushbu turdagi ishlab chiqish vazifasi hali ham ishlamoqda</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Faoliyat yozuvini tiklash</string>
+    <string name="native_b66749ed72ea" formatted="false">Jarayon tugadi</string>
+    <string name="native_6b25042064e2" formatted="false">Signal bilan tugatilgan</string>
+    <string name="native_d6febdf1752b" formatted="false">Xotira kamligi tufayli qayta tiklandi</string>
+    <string name="native_1d13790f3c89" formatted="false">ilovasi ishdan chiqdi</string>
+    <string name="native_28db94d1850d" formatted="false">Native jarayonning ishdan chiqishi</string>
+    <string name="native_86919539f7f1" formatted="false">Ilova javob bermayapti</string>
+    <string name="native_90fb8d6098a5" formatted="false">Boshlash amalga oshmadi</string>
+    <string name="native_38c60ab6654c" formatted="false">Ruxsatlar o\'zgartirildi</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resurs chegarasi</string>
+    <string name="native_19b2090b01a8" formatted="false">Foydalanuvchi toʻxtatishni soʻradi</string>
+    <string name="native_120d96445f1a" formatted="false">Foydalanuvchi tomonidan to\'xtatildi</string>
+    <string name="native_3c8af14f66bc" formatted="false">Bog\'liq jarayondan chiqdi</string>
+    <string name="native_ca0941ce04ae" formatted="false">Boshqa tizim sababi</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Muzlatish jarayoni</string>
+    <string name="native_0d48373023a8" formatted="false">Ilova holati oʻzgardi</string>
+    <string name="native_c752307db26b" formatted="false">ilovasini yangilash</string>
+    <string name="native_b5015951cbdf" formatted="false">Tizim chiqish sababini keltirmadi</string>
+    <string name="native_b62737b826ad">Tizimdan chiqish (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Loyiha katalogini ochib bo‘lmadi</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode seansini yaratib boʻlmadi</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode seans katalogi mos emas</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode seansini o‘qib bo‘lmadi</string>
+    <string name="native_2642997cfeec" formatted="false">Atrof-muhitni saqlash</string>
+    <string name="native_f992d735d932" formatted="false">OpenCode, terminallar va Debian ish stolini to\'xtating, so\'ngra fayl operatsiyalari tugashini kuting.</string>
+    <string name="native_489f137f1080" formatted="false">Atrof-muhitga texnik xizmat ko\'rsatish bloki endi yaroqsiz</string>
+    <string name="native_42380e2567fc" formatted="false">To\'xtatilgan operatsiya tiklandi. Ish joyini qayta oching.</string>
+    <string name="native_17b00cac2b91" formatted="false">Mahalliy ulanishni tiklash amalga oshmadi. Runtime dan qayta urinib ko\'ring.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Atrof-muhitga texnik xizmat ko\'rsatilmoqda. Keyinroq qayta urining.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Debian ish stolini ishlab chiqish muhitini yangilashdan oldin to\'xtating</string>
+    <string name="native_548085b144c9" formatted="false">To\'xtatilgan operatsiya tiklandi. Rivojlanish muhitini boshlashingiz mumkin.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Oldingi ish uzilib qoldi. Terminal buyruqlari avtomatik ravishda takrorlanmaydi. Runtime\'dan aniq qayta ishga tushiring.</string>
+    <string name="native_295cafdfd512" formatted="false">Vaqtinchalik ulanish konfiguratsiyasini tozalash tugallanmagan. Jarayonni tozalash davom etdi.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld ish maydonini yaratib bo\'lmadi. Katalogni va mavjud bo\'sh joyni tekshiring.</string>
+    <string name="native_68301868225a" formatted="false">Oldingi ish maydoni katalogi mavjud emas. helloworld ochildi.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Standart loyiha hali tayyor emas. Fayllardan qayta urinib ko\'ring.</string>
+    <string name="native_45d6ab452622" formatted="false">Til serverlarini o\'rnating</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ va Python tili serverlari tayyor. LSP-dan foydalanish uchun OpenCode-ni ishga tushiring.</string>
+    <string name="native_5ea1653deef8" formatted="false">Terminal faoliyati yozuvi saqlanmadi. Jarayon tugagandan so\'ng yangi terminal yarating.</string>
+    <string name="native_1978b311a9ff" formatted="false">Terminaldan chiqish yozuvini saqlashni tugatib boʻlmadi.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode yangilanishini yuklab oling</string>
+    <string name="native_06f76cca8fb9" formatted="false">Yangilanish manbasiga ulanmoqda…</string>
+    <string name="native_8c39baf28e08" formatted="false">Yangilanish manbasiga ulanib bo\'lmadi. Tarmoqni, nashriyot imzosini, xost versiyasini va bo\'sh joyni tekshiring.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Yuklab olish vaqti tugadi</string>
+    <string name="native_f75850093535">Yuklab olinmoqda: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Noshir imzosi tekshirilmoqda…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Yangilash paketi yuklab olinmoqda…</string>
+    <string name="native_2f9cd52dc66a">Yaroqli noshir imzosi: %1$s. Yuklab olishdan oldin ko\'rib chiqing.</string>
+    <string name="native_17548865632c" formatted="false">Yuklab oling, metadata chiqaring va paket imzosi tasdiqlandi. O\'rnatishni tasdiqlang.</string>
+    <string name="native_180cec958e7a" formatted="false">Yuklab olish bekor qilindi. Asl versiya saqlanib qolgan.</string>
+    <string name="native_8df045f8ac12" formatted="false">Yuklab olish toʻxtatildi. Asl versiya saqlanib qolgan.</string>
+    <string name="native_778803f1c6bb" formatted="false">Yuklashni bekor qilish</string>
+    <string name="native_2958898ce6f4" formatted="false">Yangi versiya mahalliy ishga tushirish, versiya yoki autentifikatsiya tekshiruvlarida muvaffaqiyatsiz tugadi. Oldingi versiya tiklanadi.</string>
+    <string name="native_cc876dfbb261" formatted="false">Sinov jarayoni hali ham davom etmoqda. Qayta urinishdan oldin tiklanishni kuting.</string>
+    <string name="native_adf977dcb47e" formatted="false">Yaroqsiz yangilanish yozuvi identifikatori</string>
+    <string name="native_5207cac670b7" formatted="false">O\'rnatilgan mustaqil OpenCode hajmi mos kelmaydi</string>
+    <string name="native_cf5b81887589" formatted="false">O\'rnatilgan mustaqil OpenCode nazorat summasi mos kelmaydi. Oldingi versiyani tiklang.</string>
+    <string name="native_393049b506cc" formatted="false">Asl dasturda mos keladigan nashriyot isboti yo\'q. Oldingi holat o\'zgarmadi.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Avval avvalgi uzilgan yangilanishni tiklang</string>
+    <string name="native_91d8da5525fa" formatted="false">Tasdiqlangandan keyin yangilanish paketi o\'zgartirildi</string>
+    <string name="native_093f2c091a30" formatted="false">Xotira yetarli emas. Asl versiya o\'zgarishsiz.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Qayta tiklash uchun yangilanish zaxirasi mavjud emas</string>
+    <string name="native_a9f4d9903c14" formatted="false">Zaxira ishlayotgan versiyaga mos kelmaydi</string>
+    <string name="native_6caa23763a42" formatted="false">Avvalgi dasturni tekshirish amalga oshmadi. Joriy sessiyalar o\'zgarmadi.</string>
+    <string name="native_c8b71b876695" formatted="false">Keyinchalik APK yoki Debian yangilanishi birlashtirilgan dasturni almashtirdi. Asl seansning zaxira nusxasi saqlanadi; avval tegishli dasturni tiklang.</string>
+    <string name="native_c443df40964b" formatted="false">Yaroqsiz yangilanishni tiklash operatsiyasi</string>
+    <string name="native_9071f05d58b3" formatted="false">OpenCode yangilanishi tayyorlanmoqda…</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCode, terminallar va ish stolini to\'xtating, so\'ngra ularning chiqishini kuting.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Saqlash holati, dasturlarni tekshirish va versiyalarni almashtirish</string>
+    <string name="native_5fc065ef6f50" formatted="false">Yangilanishga texnik xizmat ko‘rsatishni ishga tushirib bo‘lmadi.</string>
+    <string name="native_f7b560c8c820" formatted="false">Rasmiy dasturni tekshirish va sahnalashtirish…</string>
+    <string name="native_9606191c82dc" formatted="false">Asl dastur va nashriyot imzosi saqlanmoqda…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Seans holati snapshoti saqlanmoqda…</string>
+    <string name="native_0c8cf4632889" formatted="false">Versiyalarni almashtirish va mahalliy xizmatni tekshirish…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Yangilanishdan oldingi versiya va seanslar tiklanmoqda…</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode tiklanmoqda</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode yangilanmoqda</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Oldingi versiya va seanslar tiklandi. Soʻnggi seanslar shaxsiy zaxirada qoladi.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode yangilanishi tugallandi. Ishga tushirish mos keladigan rasmiy frontend va backenddan foydalanadi.</string>
+    <string name="native_4693930f5802" formatted="false">yangilanishi bekor qilindi. Dastlabki holat tiklanganligini tasdiqlash.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Yangilash tugallanmagan. Hozir tiklanmoqda; asl dastur va seansning zaxira nusxalari saqlanadi.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Qayta tiklash tugallanmagan. Barcha davlat ma\'lumotnomalari saqlanadi. Ma\'lumotlaringizni saqlang va tiklash uchun qayta ishga tushirishga urinib ko\'ring.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Seansni tiklash tugallandi. Eng oxirgi holat zaxirada qolmoqda.</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery ushbu zaxira yoki asl dastur bilan davom eta olmadi. Joriy seanslar va zaxira nusxalari o\'zgarmadi.</string>
+    <string name="native_976d8c169cfa" formatted="false">Yangilash bekor qilindi yoki amalga oshmadi. Asl versiya va seanslar tiklandi.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Yangilanish paketi imzosi va yaxlitligi tekshirilmoqda…</string>
+    <string name="native_0aa018b7337b" formatted="false">Tanlangan faylni o‘qib bo‘lmaydi</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Yangilash paketi juda katta</string>
+    <string name="native_f068b83f40bf" formatted="false">Imzo va paket tasdiqlangan. O\'rnatishdan oldin versiyani ko\'rib chiqing.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Import qilib bo‘lmaydi: fayl noto‘g‘ri, imzo mos kelmasligi, xost versiyasi mos emas yoki xotira yetarli emas.</string>
+    <string name="native_616412e65df4" formatted="false">Rasmiy dastur nashriyot isbotiga mos kelmaydi</string>
+    <string name="native_4bf19a158f27" formatted="false">Mustaqil ish vaqti paketlari faqat ARM64 ni qo\'llab-quvvatlaydi</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Yangilash imzosi ushbu APKga tegishli emas</string>
+    <string name="native_c7273354727f" formatted="false">Yangilash fayli e\'lon qilingan hajmdan oshib ketdi</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Yangilash dasturi nazorat summasi mos kelmaydi</string>
+    <string name="native_dd619076d456" formatted="false">Yangilash paketi hajmi noto‘g‘ri</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Siqilgan yangilanish paketi hajmi mos kelmaydi</string>
+    <string name="native_1de24edffcf5" formatted="false">Yangilash paketi qo\'shimcha yozuvlarni o\'z ichiga oladi</string>
+    <string name="native_c5b339aa77e8" formatted="false">Mos kelmaydigan yangilanish kelib chiqishi yoki arxitekturasi</string>
+    <string name="native_89d585f3661f" formatted="false">Ushbu yangilanishni o\'rnatishdan oldin Android ilovasini yangilang</string>
+    <string name="native_800df084dea0" formatted="false">Yangilanish arxivini tekshirish summasi mos kelmaydi</string>
+    <string name="native_ddf1a005e310" formatted="false">Ushbu APK imzolash formati mustaqil ish vaqti yangilanishlarini qo\'llab-quvvatlamaydi</string>
+    <string name="native_172e063db474" formatted="false">Yangilash paketi yozuvi noto‘g‘ri</string>
+    <string name="native_1c08780aa99f" formatted="false">Yangilash metamaʼlumotlari butun sonlardan foydalanishi kerak</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Yangilash dasturi 64-bitli Linux ELF emas</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Yangilash dasturi 16 KiB ELF moslashuviga mos kelmaydi</string>
+    <string name="native_3afa3741911b" formatted="false">Yangilash dasturida Debian glibc yuklagichi yoʻq</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Yaroqli HTTPS yangilanish manbasini kiriting</string>
+    <string name="native_c274c7dd5900" formatted="false">Yangilash manbalari foydalanuvchi hisob ma\'lumotlarisiz HTTPS URL manzillarini talab qiladi</string>
+    <string name="native_f459f5ec9dac" formatted="false">Yangilash manbasi maydoni yaroqsiz</string>
+    <string name="native_bde2a736e30a" formatted="false">Avval Android xostini yangilang</string>
+    <string name="native_b980fd021bef" formatted="false">Yaroqsiz yangilash katalogi</string>
+    <string name="native_c0e96727553e" formatted="false">Yaroqsiz yangilash fayli</string>
+    <string name="native_86ff542c68ed" formatted="false">Bu holatda yangilash kataloglarini almashtirib bo‘lmaydi</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Sessiya holati tashqi katalogga ishora qiladi. Yangilanishni xavfsiz sinovdan o\'tkazib bo\'lmaydi.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Xotira yetarli emas. Asl holati o\'zgarmagan.</string>
+    <string name="native_099801d672b1" formatted="false">Yuklab olish bekor qilindi</string>
+    <string name="native_f1304f707ec9" formatted="false">Juda koʻp yangilanish yoʻnaltirishlari</string>
+    <string name="native_0d07f458b607" formatted="false">Yangilash serveri asl baytlarni uzatmadi</string>
+    <string name="native_de331dfd8908" formatted="false">Yangilash fayl uzunligi mos emas</string>
+    <string name="native_416b8c87e69e" formatted="false">Yangilash fayli toʻliq yuklab olinmagan</string>
+    <string name="native_e1e74b76c427" formatted="false">Yangilash serveri to\'liq faylni qaytarmadi</string>
+    <string name="native_6afcf03cb130" formatted="false">Yangilanish uchun joy yetarli emas</string>
+    <string name="native_be1c695d9241" formatted="false">SHA-256 yangilash fayli mos kelmaydi</string>
+    <string name="native_a0133d117bb0" formatted="false">Yangilash paketi tasdiqlangan nashr ma\'lumotlariga mos kelmaydi</string>
+    <string name="native_8635a43ce28a" formatted="false">Yaroqsiz loyiha katalogi</string>
+    <string name="native_d32ab8b004e6" formatted="false">Ish joyi joylashuvini saqlab bo‘lmadi</string>
+    <string name="native_43a5447014fd" formatted="false">Terminalni ochishdan oldin ishlab chiqish muhitini Runtime-dan boshlang.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Yangi terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Yopiladigan oqim</string>
+    <string name="native_0e822affd5da">Dastlabki katalog: %1$s</string>
+    <string name="native_72d769e3888d">Yangi terminal katalogi: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Tizim fayl tanlovi mavjud emas</string>
+    <string name="native_179a57921f91" formatted="false">WebView renderlash sozlamalari</string>
+    <string name="native_3024ec603eb7" formatted="false">Renderlash kadr tezligi</string>
+    <string name="native_55b6d7f645f3" formatted="false">60 Gts ni afzal ko\'radi</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Displeyni yangilash tezligiga rioya qiling</string>
+    <string name="native_d4ecf38c341d" formatted="false">Yuqori yangilanish tezligi displeylarida renderlash yukini kamaytirish uchun 60 Gts ni afzal qiling. Displeydan keyin tizim ramkalarni rejalashtirish imkonini beradi. Faqat ushbu ilova oynasiga tegishli.</string>
+    <string name="native_bf0d3a407418" formatted="false">o\'rnatilmagan</string>
+    <string name="native_2fb8edc75b25" formatted="false">tayyor</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Yuklagichni tekshirish</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian o\'rnatilmoqda</string>
+    <string name="native_f863d955fa6e" formatted="false">Mahalliy rivojlanish muhiti</string>
+    <string name="native_55aa84065de2" formatted="false">Mahalliy Debian ishlab chiqish sessiyasi</string>
+    <string name="native_6e75b1822ebc" formatted="false">To\'xtash</string>
+    <string name="native_5f73a4e1e494" formatted="false">o\'rnatilgan</string>
+    <string name="native_147e90d2ec02" formatted="false">Qayta tiklanmoqda</string>
+</resources>

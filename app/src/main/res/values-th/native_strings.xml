@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">พื้นที่ทำงานการพัฒนา</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + เดสก์ท็อป</string>
+    <string name="native_7f1c02616d60" formatted="false">หน้าเดียว</string>
+    <string name="native_651ae6ea52ae" formatted="false">คืนค่ามุมมองแบบแยก</string>
+    <string name="native_d7e97cfac66f" formatted="false">เค้าโครงพื้นที่ทำงาน</string>
+    <string name="native_2a03e2ed30f9" formatted="false">ขยายหน้าต่างเพื่อดูหลายแผงพร้อมกัน</string>
+    <string name="native_e792dd4cfa78" formatted="false">แสดงไฟล์โครงการ</string>
+    <string name="native_712d956931d1" formatted="false">แสดงเทอร์มินัล</string>
+    <string name="native_073cc20d9ed9" formatted="false">เทอร์มินัลด้านล่าง</string>
+    <string name="native_5de225480fa7" formatted="false">ขั้วต่อด้านขวา</string>
+    <string name="native_35cdb3eacdc6" formatted="false">แผงจะยุบลงเมื่อพื้นที่มีจำกัดและยังคงเข้าถึงได้จากเมนูแบบลอย ขั้วต่อด้านข้างจะปรากฏในหน้าต่างที่กว้างขึ้น ลากตัวแบ่งเพื่อปรับขนาดแผง</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt ซ้าย: 1–5 หน้า · ไฟล์ B · เทอร์มินัล T · เดสก์ท็อป M · ป้อนเดี่ยว/แยก · \\\\ เค้าโครง</string>
+    <string name="native_7a129a94c6ff" formatted="false">เสร็จแล้ว</string>
+    <string name="native_bcec2218fc21" formatted="false">รีเซ็ตสัดส่วน</string>
+    <string name="native_da88c62d1217">แสดง %1$s ในหน้าเดียว</string>
+    <string name="native_1b4b3afbe52d" formatted="false">ตัวแบ่งไฟล์โปรเจ็กต์</string>
+    <string name="native_707c0891a0e6" formatted="false">ตัวแบ่งขั้วต่อ</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode และตัวแบ่งเดสก์ท็อป</string>
+    <string name="native_50407ad8dfa8" formatted="false">ย่อแผงก่อนหน้า</string>
+    <string name="native_b72c5c02a666" formatted="false">ขยายแผงก่อนหน้า</string>
+    <string name="native_3f3685e8d731" formatted="false">มีลิงก์ PRoot มากเกินไปสำหรับรูปแบบไฟล์เก็บถาวรนี้</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux จำเป็นต้องมี rootfs ที่สมบูรณ์</string>
+    <string name="native_f336f1e17596" formatted="false">การซ้อนไดเร็กทอรีสำรองลึกเกินไป</string>
+    <string name="native_b6f744737a45" formatted="false">ความยาวรหัสผ่านสำรองไม่ถูกต้อง</string>
+    <string name="native_13bde5dd1812" formatted="false">รหัสผ่านสำรองต้องมีอักขระอย่างน้อย 12 ตัว</string>
+    <string name="native_be02cbd55932" formatted="false">ไม่รองรับรูปแบบการสำรองข้อมูล</string>
+    <string name="native_7a91a3d586ae" formatted="false">ส่วนหัวสำรองไม่ถูกต้อง</string>
+    <string name="native_2bbd318a5667" formatted="false">พารามิเตอร์การเข้ารหัสข้อมูลสำรองที่ไม่รองรับ</string>
+    <string name="native_18868da27841" formatted="false">รหัสผ่านสำรองไม่ถูกต้องหรือไฟล์เสียหาย</string>
+    <string name="native_e41d6440468d" formatted="false">บันทึกการกู้คืนมีขนาดใหญ่เกินไป</string>
+    <string name="native_282692502f14" formatted="false">ข้อมูลเมตาสำรองมีขนาดใหญ่เกินไป</string>
+    <string name="native_61fdca8d6c82" formatted="false">การซ้อนข้อมูลเมตาสำรองลึกเกินไป</string>
+    <string name="native_8cefb30732d4" formatted="false">ข้อมูลเมตาสำรองไม่ถูกต้อง</string>
+    <string name="native_5d3037708cad" formatted="false">ไม่รองรับการตั้งค่าดั้งเดิม</string>
+    <string name="native_81a57c382f9d" formatted="false">ไม่สามารถบันทึกการตั้งค่าดั้งเดิมได้</string>
+    <string name="native_50603e683d4a" formatted="false">ไดเรกทอรีหลักไม่ถูกต้องในเส้นทางสำรอง</string>
+    <string name="native_c3f838a46b8e" formatted="false">รูทของเวิร์กสเตชันต้องไม่ใช่ลิงก์สัญลักษณ์</string>
+    <string name="native_9ddd2d8280c8" formatted="false">ไฟล์มีการเปลี่ยนแปลงระหว่างการสำรองข้อมูล</string>
+    <string name="native_77e1e85147db" formatted="false">รูปแบบข้อมูลเวิร์กสเตชันที่ไม่รองรับ</string>
+    <string name="native_a927b5a565af" formatted="false">ข้อมูลสำรองมีข้อมูลเพิ่มเติม</string>
+    <string name="native_c2b886d508f2" formatted="false">ข้อมูลสำรองมีเส้นทางที่ซ้ำกัน</string>
+    <string name="native_3dab8cd60102" formatted="false">ข้อมูลสำรองมีการตั้งค่ารันไทม์ที่ไม่สามารถย้ายได้</string>
+    <string name="native_f45ba674a630" formatted="false">ข้อมูลสำรองมีขนาดใหญ่เกินไปหรือพื้นที่เก็บข้อมูลไม่เพียงพอ</string>
+    <string name="native_140073e8e77b" formatted="false">ไม่สามารถกู้คืนการประทับเวลาลิงก์สัญลักษณ์ได้</string>
+    <string name="native_b0d411aaf62c" formatted="false">ไม่สามารถกู้คืนการประทับเวลาไปป์ที่มีชื่อได้</string>
+    <string name="native_0daee8026db1" formatted="false">การสำรองและกู้คืนเวิร์กสเตชัน</string>
+    <string name="native_1acc18928c5f" formatted="false">รวมถึง Debian, เครื่องมือสำหรับนักพัฒนา, โปรเจ็กต์, หน้าแรก, เซสชันและการตั้งค่า OpenCode, ข้อมูลเบราว์เซอร์ Linux และการตั้งค่าเค้าโครงดั้งเดิม</string>
+    <string name="native_62254d31a535" formatted="false">ไม่รวมไฟล์ชั่วคราวและข้อมูลสำรองเก่า พื้นที่เก็บข้อมูล Android WebView และฉบับร่างที่ยังไม่ได้ส่งจะยังคงอยู่ในอุปกรณ์นี้ และจะไม่โอนพร้อมกับข้อมูลสำรองนี้</string>
+    <string name="native_808eabc7811f" formatted="false">สร้างข้อมูลสำรองที่เข้ารหัส</string>
+    <string name="native_201c10b38296" formatted="false">นำเข้าข้อมูลสำรอง</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">บันทึกการเปลี่ยนแปลงในตัวแก้ไขไฟล์ก่อน</string>
+    <string name="native_0559cd596453" formatted="false">หยุด OpenCode เทอร์มินัล และเดสก์ท็อป</string>
+    <string name="native_fdf2be8e3b93" formatted="false">การดำเนินการกับสภาพแวดล้อมไม่สมบูรณ์ ให้กู้คืนก่อน</string>
+    <string name="native_185f58156330" formatted="false">กู้คืนการทำงานที่ไม่สมบูรณ์</string>
+    <string name="native_20831b6f67a7" formatted="false">เลิกทำการกู้คืนสภาพแวดล้อมครั้งล่าสุด</string>
+    <string name="native_4f392d5d6141">สำเนาในเครื่องที่เข้ารหัส: %1$s</string>
+    <string name="native_80077c694212" formatted="false">บันทึกลงไฟล์</string>
+    <string name="native_f09619351eb9" formatted="false">ลบสำเนาในเครื่อง</string>
+    <string name="native_85c686eb9841">ประมวลผลแล้ว %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">ยกเลิกงานสำรองข้อมูล</string>
+    <string name="native_66c9d896407b" formatted="false">เข้ารหัสการสำรองข้อมูลเวิร์กสเตชัน</string>
+    <string name="native_548cd9f0831e" formatted="false">ถอดรหัสและตรวจสอบข้อมูลสำรอง</string>
+    <string name="native_d248f5eca9a5" formatted="false">การสำรองข้อมูลอาจมีคีย์ส่วนตัว SSH, คีย์ API และข้อมูลบัญชี ใช้อักขระอย่างน้อย 12 ตัว รหัสผ่านที่ลืมไม่สามารถกู้คืนได้</string>
+    <string name="native_f249422b9ec1" formatted="false">ข้อมูลสำรองถูกถอดรหัสและตรวจสอบในไดเร็กทอรีส่วนตัว สภาพแวดล้อมของคุณจะถูกแทนที่หลังจากที่คุณยืนยันการกู้คืนเท่านั้น</string>
+    <string name="native_e7be6841703a" formatted="false">รหัสผ่านสำรอง</string>
+    <string name="native_9f6aeedc5a00" formatted="false">ทำซ้ำรหัสผ่าน</string>
+    <string name="native_eafdc5cd4882" formatted="false">เริ่มการเข้ารหัส</string>
+    <string name="native_2986b88beade" formatted="false">ถอดรหัสและตรวจสอบ</string>
+    <string name="native_0eddf4ad9b94" formatted="false">ยกเลิก</string>
+    <string name="native_f46c5ed7412d" formatted="false">คืนค่าสภาพแวดล้อมก่อนหน้าทั้งหมดหรือไม่</string>
+    <string name="native_33eda0946a5b" formatted="false">ลบสำเนาในเครื่องที่เข้ารหัสหรือไม่</string>
+    <string name="native_26db24150f2e" formatted="false">โปรเจ็กต์ บ้าน Debian และเซสชันจะกลับสู่สถานะก่อนการกู้คืนครั้งล่าสุด งานล่าสุดจะยังคงอยู่ในการสำรองข้อมูลส่วนตัวภายในแอป</string>
+    <string name="native_1153b30d51d5" formatted="false">เฉพาะสำเนาในเครื่องที่เข้ารหัสภายในแอปเท่านั้นที่ถูกลบ ไฟล์ที่บันทึกไว้ที่อื่นจะยังคงมีอยู่</string>
+    <string name="native_427a78a4e69a" formatted="false">ยืนยัน</string>
+    <string name="native_7af46d7ee003" formatted="false">กู้คืนข้อมูลสำรองของเวิร์กสเตชันนี้หรือไม่</string>
+    <string name="native_ed40940162d0">%1$s\nรายการ %2$s · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">ข้อมูลสำรองประกอบด้วยซอฟต์แวร์ Linux ที่ปฏิบัติการได้ ยืนยันว่าคุณเชื่อถือแหล่งที่มาของมัน การฟื้นฟูจะแทนที่สภาพแวดล้อมทั้งหมดและตรวจสอบบริการในพื้นที่ สภาพแวดล้อมก่อนหน้านี้จะถูกเก็บไว้เพื่อการกู้คืน</string>
+    <string name="native_c3d74ed0c054" formatted="false">ยืนยันการสำรองข้อมูลแล้ว กำลังรอการยืนยันการคืนค่า</string>
+    <string name="native_97076078c749" formatted="false">เปิดใช้งานโหมดความเข้ากันได้ของ Chromium ด้วย (ปิดใช้งานแซนด์บ็อกซ์กระบวนการ Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">ปิดตามค่าเริ่มต้น คุณสามารถเปิดใช้งานได้ในภายหลังในการตั้งค่าเดสก์ท็อป</string>
+    <string name="native_ddf09383413c" formatted="false">ยืนยันการคืนค่า</string>
+    <string name="native_8e6056b0f629" formatted="false">ยกเลิกการนำเข้า</string>
+    <string name="native_63a895901c76" formatted="false">สภาพแวดล้อมเวิร์กสเตชันเปลี่ยนไป</string>
+    <string name="native_a4c994348a39" formatted="false">เปิดพื้นที่ทำงานอีกครั้ง</string>
+    <string name="native_774947f0653e" formatted="false">ยกเลิกงาน</string>
+    <string name="native_e09a22b18445" formatted="false">งานถูกขัดจังหวะ เลือกการดำเนินการอีกครั้งและป้อนรหัสผ่าน</string>
+    <string name="native_38c5fcc634db" formatted="false">บันทึกการแก้ไขไฟล์ในทุกหน้าต่างก่อน ยกเลิกการนำเข้าที่มีอยู่ก่อนที่จะลองอีกครั้ง</string>
+    <string name="native_029bfa8ff772" formatted="false">การคืนค่าเวิร์กสเตชันและการตรวจสอบโปรแกรม</string>
+    <string name="native_e4f04df818f8" formatted="false">กำลังประมวลผลการสำรองข้อมูลที่คุณเลือก</string>
+    <string name="native_8206f072d5ee" formatted="false">หยุด OpenCode เทอร์มินัล และเดสก์ท็อป จากนั้นรอให้การทำงานของไฟล์เสร็จสิ้น</string>
+    <string name="native_1a5cde18c609" formatted="false">ไม่สามารถเริ่มงานสำรองข้อมูลได้ ลองอีกครั้งโดยให้แอปอยู่เบื้องหน้า</string>
+    <string name="native_1553b714941d" formatted="false">กำลังถอดรหัสและตรวจสอบข้อมูลสำรอง สภาพแวดล้อมเดิมยังคงสามารถกู้คืนได้...</string>
+    <string name="native_dafd005e953e" formatted="false">ยืนยันการสำรองข้อมูลแล้ว ยืนยันการคืนค่าในแอป</string>
+    <string name="native_9fb236184596" formatted="false">ลบสำเนาในเครื่องที่เข้ารหัสภายในแอป</string>
+    <string name="native_f98e9ac348b6" formatted="false">การดำเนินการถูกยกเลิก ข้อมูลสภาพแวดล้อมดั้งเดิมยังคงอยู่</string>
+    <string name="native_2a7a367ee0d2" formatted="false">การดำเนินการไม่สมบูรณ์ ตรวจสอบรหัสผ่าน ความสมบูรณ์ของการสำรองข้อมูล เวอร์ชันของโฮสต์ และพื้นที่ว่าง ข้อมูลสภาพแวดล้อมดั้งเดิมยังคงอยู่</string>
+    <string name="native_29deabd28960" formatted="false">กำลังสร้างการสำรองข้อมูลเวิร์กสเตชันที่เข้ารหัส...</string>
+    <string name="native_3d137e243806" formatted="false">สร้างข้อมูลสำรองที่เข้ารหัสแล้ว เลือกตำแหน่งที่จะบันทึก</string>
+    <string name="native_0e2ac9266ad6" formatted="false">ฟื้นฟูสภาพแวดล้อมและตรวจสอบบริการในพื้นที่ เก็บข้อมูลแอปไว้เหมือนเดิม...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">กู้คืนเวิร์กสเตชันแล้ว สภาพแวดล้อมก่อนหน้านี้ยังคงอยู่ในการสำรองข้อมูลส่วนตัว เปิดพื้นที่ทำงานอีกครั้ง</string>
+    <string name="native_0392cd6152d2" formatted="false">การตรวจสอบการคืนค่าล้มเหลว กลับไปสู่สภาพแวดล้อมก่อนหน้า ข้อมูลที่นำเข้ายังคงอยู่ในการสำรองข้อมูลส่วนตัว</string>
+    <string name="native_5dc7410b600e" formatted="false">การคืนค่าไม่สมบูรณ์ ไดเร็กทอรีข้อมูลทั้งหมดจะถูกเก็บไว้ เก็บข้อมูลแอปไว้แล้วลองกู้คืนอีกครั้ง</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">กำลังกู้คืนสภาพแวดล้อมเวิร์กสเตชันก่อนหน้า...</string>
+    <string name="native_15821323ff89" formatted="false">กู้คืนสภาพแวดล้อมก่อนหน้าแล้ว งานล่าสุดยังคงอยู่ในการสำรองข้อมูลส่วนตัว เปิดพื้นที่ทำงานอีกครั้ง</string>
+    <string name="native_56dd94f47870" formatted="false">ไม่สามารถยกเลิกการคืนค่านี้ได้ สภาพแวดล้อมปัจจุบันและการสำรองข้อมูลยังคงอยู่</string>
+    <string name="native_93530f3fa029" formatted="false">การเลิกทำไม่สมบูรณ์ ไดเร็กทอรีข้อมูลทั้งหมดจะถูกเก็บไว้ เก็บข้อมูลแอปไว้แล้วลองกู้คืนอีกครั้ง</string>
+    <string name="native_f12963c80def" formatted="false">กำลังบันทึกข้อมูลสำรองที่เข้ารหัส...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">บันทึกข้อมูลสำรองที่เข้ารหัสแล้ว คุณสามารถบันทึกสำเนาในเครื่องอีกครั้งหรือลบออกด้วยตนเอง</string>
+    <string name="native_d660cccf65e0" formatted="false">กำลังล้างการนำเข้าที่ไม่ได้รับการยืนยัน...</string>
+    <string name="native_800592163979" formatted="false">การนำเข้าถูกยกเลิก สภาพแวดล้อมเดิมไม่เปลี่ยนแปลง</string>
+    <string name="native_5a90367eb834" formatted="false">การนำเข้าถูกยกเลิก สภาพแวดล้อมดั้งเดิมไม่เปลี่ยนแปลง ข้อมูลนำเข้าชั่วคราวบางส่วนยังคงอยู่ในไดเร็กทอรีส่วนตัวของแอป</string>
+    <string name="native_5cd50eb8b75b" formatted="false">กำลังเตรียมการถอดรหัสและการตรวจสอบ...</string>
+    <string name="native_e9f2bea3118c" formatted="false">กำลังเตรียมการสำรองข้อมูลที่เข้ารหัส...</string>
+    <string name="native_7bd5a0c93818" formatted="false">ไม่สามารถเริ่มบริการสำรองข้อมูลได้ ลองอีกครั้งในเบื้องหน้า</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">ให้กู้คืนการดำเนินการสภาพแวดล้อมที่ไม่สมบูรณ์ก่อน</string>
+    <string name="native_f14aea7c819c" formatted="false">บันทึกการกู้คืนไม่ถูกต้อง</string>
+    <string name="native_7c284c55ee08" formatted="false">ไดเร็กทอรีการกู้คืนหายไป</string>
+    <string name="native_bfc4792df15b" formatted="false">การตั้งค่าดั้งเดิมเกินขีดจำกัดบันทึกการกู้คืน</string>
+    <string name="native_8d93770ba8c9">ไม่มีไดเรกทอรีสภาพแวดล้อมก่อนหน้า: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">ไม่ทราบระยะการกู้คืน</string>
+    <string name="native_20c5124fe175" formatted="false">การดำเนินการกู้คืนที่ไม่รู้จัก</string>
+    <string name="native_1c457322b624" formatted="false">ไม่มีสภาพแวดล้อมก่อนหน้านี้ที่จะกู้คืนได้</string>
+    <string name="native_30db1666c8e5" formatted="false">ข้อมูลสำรองนี้เป็นของแอปอื่น</string>
+    <string name="native_6687d1c64d75" formatted="false">สถาปัตยกรรมตัวประมวลผลสำรองไม่ตรงกัน</string>
+    <string name="native_b9b37d57fe6b" formatted="false">อัปเดตโฮสต์ Android เป็นเวอร์ชันที่ใช้โดยการสำรองข้อมูลนี้ก่อน</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">ไดเร็กทอรีสำรองไม่สมบูรณ์</string>
+    <string name="native_66106ab3e254" formatted="false">ข้อมูลสำรองเก่าไม่มีหลักฐานผู้เผยแพร่ OpenCode ที่ตรวจสอบได้ เริ่มต้นสภาพแวดล้อมเดิมกับโฮสต์นี้ก่อนที่จะสำรองข้อมูลอีกครั้ง</string>
+    <string name="native_bec13cc92982" formatted="false">การดำเนินการของระบบสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_65de80229626" formatted="false">Debian ร้องขอให้ระบบดำเนินการ</string>
+    <string name="native_5e38581cf19c" formatted="false">แตะเพื่อตรวจสอบและจัดการคำขอ</string>
+    <string name="native_749d406d2c67" formatted="false">จากสภาพแวดล้อมการพัฒนา Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">เปิดเบราว์เซอร์ระบบหรือไม่?</string>
+    <string name="native_ce9491abbc6c" formatted="false">เปิดตัวอย่างโครงการในเครื่องหรือไม่</string>
+    <string name="native_53ce0dec7ef3" formatted="false">อ่านคลิปบอร์ดเหรอ?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">คัดลอกไปยังคลิปบอร์ดของระบบหรือไม่</string>
+    <string name="native_77f761eb70aa" formatted="false">ส่งการแจ้งเตือนในพื้นที่หรือไม่</string>
+    <string name="native_e6b29e80abb7" formatted="false">แชร์ไฟล์โครงการหรือไม่</string>
+    <string name="native_9d36f698b3c1" formatted="false">นำเข้าไฟล์ระบบหรือไม่</string>
+    <string name="native_8f05ff8c2dea" formatted="false">ส่งออกไฟล์โครงการหรือไม่</string>
+    <string name="native_7ac295421c6d" formatted="false">เปิดในเบราว์เซอร์</string>
+    <string name="native_bbdb6043b5e9" formatted="false">เปิดตัวอย่าง</string>
+    <string name="native_14792d6cd7a6" formatted="false">อนุญาตให้อ่าน</string>
+    <string name="native_b4caf8b99ddd" formatted="false">คัดลอกไปยังคลิปบอร์ด</string>
+    <string name="native_4b3361a8c3a3" formatted="false">ส่งการแจ้งเตือน</string>
+    <string name="native_88152a09fa02" formatted="false">เลือกแอปการแชร์</string>
+    <string name="native_7a49a79c57f9" formatted="false">เลือกไฟล์</string>
+    <string name="native_99d9f87419c5" formatted="false">เลือกตำแหน่งที่จะบันทึก</string>
+    <string name="native_23e5bb2090aa">%1$s\nเปิดด้วยข้อมูลเบราว์เซอร์ที่แยกจาก OpenCode</string>
+    <string name="native_ecf17eaad49e" formatted="false">ส่งข้อความจากคลิปบอร์ดของระบบไปยังโปรแกรม Debian ปัจจุบัน</string>
+    <string name="native_dcc6bec24e43">เลือกไฟล์ที่จะนำเข้าไปยัง %1$s ไฟล์ที่มีอยู่จะถูกเก็บไว้และเปลี่ยนชื่อไฟล์ที่ซ้ำกัน</string>
+    <string name="native_efdb26088f68" formatted="false">โหมดเบราว์เซอร์ Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">โหมดความเข้ากันได้ใช้โปรไฟล์เบราว์เซอร์แยกต่างหากและปิดใช้งานแซนด์บ็อกซ์กระบวนการ Linux ของ Chromium เบราว์เซอร์ยังคงสามารถเข้าถึงไฟล์ภายในแอปนี้ได้ หลีกเลี่ยงเว็บไซต์ที่ไม่น่าเชื่อถือและใช้เบราว์เซอร์ระบบ Android สำหรับบัญชีที่สำคัญ เปิด Chromium อีกครั้งหลังจากเปลี่ยนโหมด</string>
+    <string name="native_a4317f2699a2" formatted="false">แซนด์บ็อกซ์ Linux มาตรฐานเปิดใช้งานตามค่าเริ่มต้น หาก Chromium ไม่สามารถเริ่มทำงานได้ คุณสามารถเลือกโหมดที่เข้ากันได้ โดยจะปิดใช้งานแซนด์บ็อกซ์กระบวนการ Linux และใช้โปรไฟล์แยกต่างหาก ในขณะที่ยังคงสามารถเข้าถึงไฟล์แอปได้ หลีกเลี่ยงเว็บไซต์ที่ไม่น่าเชื่อถือ ใช้เบราว์เซอร์ระบบ Android สำหรับบัญชีที่สำคัญ</string>
+    <string name="native_3a2596fa9517" formatted="false">คืนค่าโหมดมาตรฐาน</string>
+    <string name="native_eeb5e46d62ae" formatted="false">เปิดใช้งานโหมดความเข้ากันได้</string>
+    <string name="native_9a45442649f5" formatted="false">Debian เดสก์ท็อป</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · /workspace ที่แชร์</string>
+    <string name="native_fb7f60a63fac" formatted="false">การติดตั้งครั้งแรกจะดาวน์โหลดส่วนประกอบกราฟิก หลังการติดตั้ง เดสก์ท็อปสามารถเริ่มและหยุดได้โดยอิสระจาก OpenCode</string>
+    <string name="native_d8eb56c08cd5" formatted="false">กระจกเงา USTC</string>
+    <string name="native_41e865941e16" formatted="false">กระจก Debian อย่างเป็นทางการ</string>
+    <string name="native_ea341b8a102b" formatted="false">ความละเอียดเริ่มต้น</string>
+    <string name="native_ff1cde9ba35d" formatted="false">เดสก์ท็อปทำงานต่อไปเมื่อคุณสลับหน้า หยุดมันจากรันไทม์</string>
+    <string name="native_aadf816e2dc8" formatted="false">หยุดงานเดสก์ท็อป</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">เริ่มเดสก์ท็อป</string>
+    <string name="native_ea27a25e5114" formatted="false">ติดตั้งส่วนประกอบเดสก์ท็อป</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: โหมดความเข้ากันได้</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: โหมดมาตรฐาน\nอัพเดต</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">ติดตั้งเครื่องมือสำหรับนักพัฒนา Debian จาก Runtime ก่อน</string>
+    <string name="native_d1fa7ef127a7" formatted="false">บันทึกกิจกรรม</string>
+    <string name="native_bfaa904aa4d4" formatted="false">ไม่สามารถเปิดโฟลเดอร์โปรเจ็กต์ได้ ตรวจสอบว่ามีไดเร็กทอรีอยู่</string>
+    <string name="native_83c76743b29d" formatted="false">การกู้คืนการดำเนินการของสภาพแวดล้อมที่ถูกขัดจังหวะ</string>
+    <string name="native_739a730ae247" formatted="false">การบำรุงรักษาสิ่งแวดล้อม</string>
+    <string name="native_049281329843" formatted="false">รอให้การบำรุงรักษาการอัปเดตหรืองานปัจจุบันเสร็จสิ้น</string>
+    <string name="native_07d5bdf94f1d" formatted="false">รอให้งานสภาพแวดล้อมการพัฒนาปัจจุบันเสร็จสิ้น</string>
+    <string name="native_83099168971c" formatted="false">กำลังติดตั้งเดสก์ท็อป</string>
+    <string name="native_85e0c18dde8d" formatted="false">กำลังเริ่มเดสก์ท็อป</string>
+    <string name="native_9a48f8196d8f" formatted="false">ต้องการความสนใจ</string>
+    <string name="native_75470fb13121" formatted="false">หยุดแล้ว</string>
+    <string name="native_51a53c8109d5" formatted="false">ไม่สามารถอ่านหรือบันทึกบันทึกกิจกรรมได้ ซ่อมแซมจากรันไทม์หรือเพิ่มพื้นที่เก็บข้อมูลบางส่วน</string>
+    <string name="native_d36a018cc619" formatted="false">ติดตั้งสภาพแวดล้อมการพัฒนา Debian ก่อน</string>
+    <string name="native_80be4c2928a5" formatted="false">เชื่อมต่อกับเครือข่ายก่อน</string>
+    <string name="native_a065d81014b1" formatted="false">การติดตั้งเดสก์ท็อปไม่สมบูรณ์ ลองติดตั้งอีกครั้ง</string>
+    <string name="native_721c38b32c35" formatted="false">ติดตั้งเดสก์ท็อปแล้ว เริ่มต้นเมื่อจำเป็น</string>
+    <string name="native_6c1c52771115" formatted="false">ติดตั้งส่วนประกอบเดสก์ท็อปก่อน</string>
+    <string name="native_693d90a47827" formatted="false">การทำงานของเดสก์ท็อปล้มเหลว รายละเอียดยาวเกินไปหรือไม่พร้อมใช้งาน</string>
+    <string name="native_d3e7be3c38fd" formatted="false">ไม่สามารถบันทึกเครื่องหมายหยุดให้เสร็จสิ้นได้ กระบวนการล้างข้อมูลดำเนินต่อไป</string>
+    <string name="native_06083621a6ce" formatted="false">ไม่สามารถบันทึกบันทึกกิจกรรมให้เสร็จสิ้นได้ การเปิดตัวครั้งถัดไปจะถือว่าสิ่งนี้เป็นการหยุดชะงัก</string>
+    <string name="native_04d721a3819a" formatted="false">เดสก์ท็อปทำงานอยู่</string>
+    <string name="native_c3f0acaf7a73" formatted="false">การทำงานของเดสก์ท็อปหมดเวลา ตรวจสอบบันทึกและลองอีกครั้ง</string>
+    <string name="native_e70d328a3ca9">ออกจากกระบวนการเดสก์ท็อปแล้ว (%1$s) ตรวจสอบบันทึกกิจกรรม</string>
+    <string name="native_df5c878f2852" formatted="false">พื้นที่ทำงานกราฟิกในเครื่อง</string>
+    <string name="native_7b0455a8daa4" formatted="false">หยุดเดสก์ท็อป</string>
+    <string name="native_a62123cde9c7" formatted="false">งานขัดจังหวะและการกู้คืน</string>
+    <string name="native_279308947a14" formatted="false">ไม่สามารถอ่านบันทึกกิจกรรมได้ การซ่อมแซมจะเก็บสำเนาของบันทึกที่เสียหายและเก็บรักษาโปรเจ็กต์ เซสชัน และสภาพแวดล้อม Linux</string>
+    <string name="native_2bd92fae24e5" formatted="false">บันทึกกิจกรรมการซ่อมแซม</string>
+    <string name="native_6b43650c2c82" formatted="false">งานสิ้นสุดลงอย่างกะทันหัน</string>
+    <string name="native_acb0c970aaa6">เทอร์มินัล %1$s ไม่ได้ปิดตามปกติ คำสั่งการทำงานของพวกเขาถูกขัดจังหวะ</string>
+    <string name="native_4ba153d8dff5" formatted="false">ยืนยันการรีสตาร์ทแล้ว คำสั่งก่อนหน้านี้ไม่ได้เล่นซ้ำ</string>
+    <string name="native_f03a2adbf5cd" formatted="false">โปรเจ็กต์และเซสชันที่บันทึกไว้จะยังคงอยู่ เปิดเทอร์มินัลอีกครั้งด้วยตนเอง คำสั่งที่ยังไม่เสร็จสิ้นจะไม่ทำงานต่อโดยอัตโนมัติ</string>
+    <string name="native_fa9669296762" formatted="false">รีสตาร์ท OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">เดสก์ท็อปจะไม่รีสตาร์ทโดยอัตโนมัติ เริ่มต้นใหม่อีกครั้งจากหน้าเดสก์ท็อป</string>
+    <string name="native_644f8f44251f" formatted="false">เปิดไฟล์</string>
+    <string name="native_9dfb5569d609" formatted="false">แชร์ไฟล์</string>
+    <string name="native_a4500cff3a86" formatted="false">ไดเร็กทอรีการทำงานต้องไม่ใช่ลิงก์สัญลักษณ์</string>
+    <string name="native_8657d27661bd" formatted="false">เส้นทางไดเร็กทอรีการทำงานไม่ถูกต้อง</string>
+    <string name="native_02b702a9adff" formatted="false">เลือกไฟล์</string>
+    <string name="native_924874b746cc" formatted="false">จัดการลิงก์สัญลักษณ์ในเทอร์มินัล</string>
+    <string name="native_efea6e422a54" formatted="false">ชื่อไฟล์ไม่ถูกต้อง</string>
+    <string name="native_c4989dc37aab" formatted="false">ไม่มีไดเร็กทอรี</string>
+    <string name="native_d613dba39b44" formatted="false">ไม่มีไดเรกทอรีปลายทาง</string>
+    <string name="native_4f9b3fb4920b" formatted="false">ไม่สามารถวางโฟลเดอร์ภายในโฟลเดอร์นั้นหรือโฟลเดอร์ย่อยได้</string>
+    <string name="native_c3acd5a3254c" formatted="false">โปรเจ็กต์มีอุปกรณ์หรือซ็อกเก็ตพิเศษและไม่สามารถคัดลอกได้</string>
+    <string name="native_6c36955b068b" formatted="false">เลือกไฟล์ปกติ</string>
+    <string name="native_49191d7d489f" formatted="false">ไฟล์นี้มีขนาดเกิน 2 MB แก้ไขด้วย OpenCode หรือเทอร์มินัล</string>
+    <string name="native_ee42414d36c2" formatted="false">ไฟล์ใหญ่เกินไป</string>
+    <string name="native_f0a979f87157" formatted="false">ส่งออกไฟล์ไบนารีเพื่อเปิดในแอปอื่น</string>
+    <string name="native_88a9c82651fc" formatted="false">แก้ไขไฟล์ที่ไม่ใช่ UTF-8 ด้วย OpenCode หรือเทอร์มินัล</string>
+    <string name="native_0189a5c3418c" formatted="false">เครื่องมืออื่นเปลี่ยนไฟล์นี้ เปิดใหม่ก่อนที่จะแก้ไข</string>
+    <string name="native_0ce79256f4ac" formatted="false">ไม่มีไดเร็กทอรีดั้งเดิมอีกต่อไป คืนค่ามันก่อน</string>
+    <string name="native_46eae321049e" formatted="false">ไม่มีแอปสำหรับแชร์</string>
+    <string name="native_87d699d3a26c" formatted="false">ถังขยะ</string>
+    <string name="native_d0a8c03d6c07" formatted="false">ไฟล์โครงการ</string>
+    <string name="native_4dcf914f0b64" formatted="false">ไฟล์ที่ถูกลบสามารถกู้คืนไปยังไดเร็กทอรีดั้งเดิมได้</string>
+    <string name="native_c5b81b02354f" formatted="false">กลับ</string>
+    <string name="native_e56b99379169">คัดลอก %1$s ไฟล์ · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">กำลังคัดลอก...</string>
+    <string name="native_85199bb36b04" formatted="false">ยกเลิกการทำงาน</string>
+    <string name="native_e9dc52d1c24b" formatted="false">ปิด</string>
+    <string name="native_4e1e5aacac7f" formatted="false">เซสชันใหม่</string>
+    <string name="native_23c250cc8e0b" formatted="false">เริ่มเซสชัน OpenCode ที่นี่</string>
+    <string name="native_f22da21fd54f" formatted="false">เทอร์มินัล</string>
+    <string name="native_3645f30b3412" formatted="false">การเปลี่ยนแปลงที่ยังไม่ได้บันทึก</string>
+    <string name="native_2266227605c4" formatted="false">บันทึก</string>
+    <string name="native_064fbc7ad3f3" formatted="false">ถังขยะว่างเปล่า</string>
+    <string name="native_a9e739b13e52" formatted="false">คืนค่า</string>
+    <string name="native_45985dc2183e" formatted="false">ย้าย:</string>
+    <string name="native_31214130b5b7" formatted="false">สำเนา:</string>
+    <string name="native_07e5c3158f35" formatted="false">วาง</string>
+    <string name="native_831b4e0fb574" formatted="false">ใหม่</string>
+    <string name="native_ff65a22d7087" formatted="false">โฟลเดอร์ใหม่</string>
+    <string name="native_71faed44a86c" formatted="false">ไฟล์ใหม่</string>
+    <string name="native_8dddd460f6ae" formatted="false">นำเข้า</string>
+    <string name="native_d85825123e60" formatted="false">รีเฟรช</string>
+    <string name="native_ac9d73843736" formatted="false">ค้นหาไดเร็กทอรีนี้</string>
+    <string name="native_21eef82963ee" formatted="false">ไดเร็กทอรีนี้ว่างเปล่า นำเข้าไฟล์หรือสร้างโครงการ</string>
+    <string name="native_e8a4cecaa371" formatted="false">ไม่มีไฟล์ที่ตรงกัน</string>
+    <string name="native_d674bc0f86b8" formatted="false">การทำงานของไฟล์</string>
+    <string name="native_d04a47c87cc8" formatted="false">ลิงก์สัญลักษณ์</string>
+    <string name="native_e0ba66f5246a" formatted="false">โฟลเดอร์</string>
+    <string name="native_f170b42599e8" formatted="false">เปลี่ยนชื่อ</string>
+    <string name="native_4cdacf57ead2" formatted="false">คัดลอก</string>
+    <string name="native_124aa030694e" formatted="false">ย้ายไปที่...</string>
+    <string name="native_ac990518ed87" formatted="false">เปิดเทอร์มินัลที่นี่</string>
+    <string name="native_87bc93932d8a" formatted="false">ส่งออกไปยังไฟล์ระบบ</string>
+    <string name="native_dd37f132172f" formatted="false">ย้ายไปที่ถังขยะ</string>
+    <string name="native_7318746d337c" formatted="false">ย้ายไปถังขยะเหรอ?</string>
+    <string name="native_2b5ee3f10a56">คุณสามารถกู้คืน “%1$s” จากถังขยะได้</string>
+    <string name="native_e49730c9e7e1" formatted="false">ย้าย</string>
+    <string name="native_4e47aaa113fc" formatted="false">ยกเลิกการเปลี่ยนแปลงที่ยังไม่ได้บันทึกใช่ไหม</string>
+    <string name="native_63b75399ef1a" formatted="false">ยกเลิกการเปลี่ยนแปลง</string>
+    <string name="native_d9618f7b8d25" formatted="false">แก้ไขต่อ</string>
+    <string name="native_76ce6aef5479" formatted="false">ชื่อ</string>
+    <string name="native_35b0fc30b909" formatted="false">โอเค</string>
+    <string name="native_11b319774788" formatted="false">ฟื้นฟูสภาพแวดล้อมแล้ว เปิดพื้นที่ทำงานอีกครั้ง</string>
+    <string name="native_7e4a5bcb0461" formatted="false">ให้เสร็จสิ้นการกู้คืนการดำเนินการที่ถูกขัดจังหวะในรันไทม์ก่อน</string>
+    <string name="native_f29af06e7c99" formatted="false">อยู่ระหว่างการบำรุงรักษาสภาพแวดล้อม ลองอีกครั้งในภายหลัง</string>
+    <string name="native_3bd28258feb0" formatted="false">การดำเนินการถูกยกเลิก</string>
+    <string name="native_c508721eb3cd" formatted="false">มีไฟล์ชื่อนี้อยู่แล้ว เลือกชื่ออื่น</string>
+    <string name="native_1e8274fe468a" formatted="false">ไม่มีไฟล์นี้อีกต่อไป รีเฟรชไดเร็กทอรี</string>
+    <string name="native_ac05dcaad6ed" formatted="false">สิทธิ์การเข้าถึงไฟล์ถูกปฏิเสธ</string>
+    <string name="native_cd808e4c321e" formatted="false">ไม่สามารถดำเนินการให้เสร็จสิ้นได้</string>
+    <string name="native_01cbe9be8b9f" formatted="false">การดำเนินการไม่สมบูรณ์ ตรวจสอบพื้นที่เก็บข้อมูลที่มีอยู่หรือเลือกไฟล์อีกครั้ง</string>
+    <string name="native_3f9983126fd7" formatted="false">ตรวจสอบสถานะการเริ่มต้น OpenCode ในรันไทม์</string>
+    <string name="native_6ed9fe2281bb" formatted="false">ไม่สามารถเปิดเทอร์มินัลใหม่ได้ ตรวจสอบจำนวนเซสชัน</string>
+    <string name="native_2160fde3813a" formatted="false">จัดการลิงก์สัญลักษณ์ในเทอร์มินัล ตัวจัดการไฟล์ไม่ติดตามลิงก์</string>
+    <string name="native_7a844e9d4017" formatted="false">ย้ายเสร็จสิ้น</string>
+    <string name="native_573877894fcf" formatted="false">คัดลอกเสร็จแล้ว</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">ย้ายไปที่ถังขยะ</string>
+    <string name="native_862330af933f" formatted="false">กู้คืนไปยังไดเร็กทอรีดั้งเดิม</string>
+    <string name="native_beda23c9d52b" formatted="false">มีการบำรุงรักษาหรือเปลี่ยนสภาพแวดล้อม เปิดพื้นที่ทำงานอีกครั้งก่อนที่จะแก้ไข</string>
+    <string name="native_678c6953bb2b" formatted="false">บันทึกแล้ว</string>
+    <string name="native_8063159f2178" formatted="false">ไม่สามารถอ่านไฟล์ที่เลือกได้</string>
+    <string name="native_4cdc2180d2ac">นำเข้าไฟล์ %1$s แล้ว</string>
+    <string name="native_e98763643b93" formatted="false">ไม่สามารถเขียนไปยังตำแหน่งที่เลือกได้</string>
+    <string name="native_5afd173be7fa" formatted="false">การส่งออกเสร็จสมบูรณ์</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">รหัสและเซสชัน</string>
+    <string name="native_8745ed51cadd" formatted="false">เดสก์ท็อป</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">พื้นที่ทำงานแบบกราฟิก</string>
+    <string name="native_770d49c5f689" formatted="false">ไฟล์</string>
+    <string name="native_6a9b6480b58f" formatted="false">รันไทม์</string>
+    <string name="native_b561fe9204cc" formatted="false">บริการและเครื่องมือสำหรับนักพัฒนา</string>
+    <string name="native_70850bdeeabd" formatted="false">ปิดเมนูหน้า</string>
+    <string name="native_b4549acb48e8" formatted="false">พื้นที่ทำงาน</string>
+    <string name="native_3d3551f4660f">ความทึบของปุ่มลอย %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">ค่าที่ต่ำกว่าจะทำให้ปุ่มลอยโปร่งใสมากขึ้น</string>
+    <string name="native_e031beabfc9a" formatted="false">เปิดเมนูหน้า</string>
+    <string name="native_106ee775b538" formatted="false">กำลังเชื่อมต่อกับ OpenCode ในเครื่อง...</string>
+    <string name="native_a021adc1f449" formatted="false">การเชื่อมต่อท้องถิ่นจำเป็นต้องได้รับการกู้คืน</string>
+    <string name="native_dacb8837471c" formatted="false">เชื่อมต่อใหม่</string>
+    <string name="native_17584aa60ae6" formatted="false">ไม่สามารถเตรียมแคชทรัพยากรในเครื่องได้</string>
+    <string name="native_3b3b80064ccb" formatted="false">กำลังเตรียม OpenCode ในเครื่อง...</string>
+    <string name="native_2560ee8fdd16" formatted="false">ลองอีกครั้ง</string>
+    <string name="native_b07809340403" formatted="false">ยังไม่ได้บันทึกตำแหน่งพื้นที่ทำงาน ลองอีกครั้งในภายหลัง</string>
+    <string name="native_e4ab10392d05" formatted="false">บริการในพื้นที่กำลังเตรียมพร้อม พื้นที่ทำงานของคุณจะเปิดขึ้นโดยอัตโนมัติเมื่อเชื่อมต่อแล้ว</string>
+    <string name="native_20ea15973287" formatted="false">การรันครั้งก่อนถูกขัดจังหวะ รีสตาร์ทจากรันไทม์ คำสั่งเทอร์มินัลจะไม่ถูกเล่นซ้ำโดยอัตโนมัติ</string>
+    <string name="native_f2f2f6d32544" formatted="false">เริ่ม OpenCode จาก Runtime เพื่อเปิดโค้ดและเซสชัน</string>
+    <string name="native_abbac5c22111" formatted="false">ออกจากแอปหรือไม่</string>
+    <string name="native_fd8eb11aab0a" formatted="false">สภาพแวดล้อมการพัฒนาสามารถทำงานต่อไปในพื้นหลังได้ กลับภายหลังจากการแจ้งเตือน</string>
+    <string name="native_814a8fb24b62" formatted="false">ออกจากพื้นที่ทำงานปัจจุบันหรือไม่</string>
+    <string name="native_a76464945c2d" formatted="false">และหยุดสภาพแวดล้อมการพัฒนาด้วย</string>
+    <string name="native_b814fd8d6bc5" formatted="false">ออก</string>
+    <string name="native_b00143b08ff1" formatted="false">เวิร์กสเตชันการพัฒนาพร้อมแล้ว</string>
+    <string name="native_51bca456a350" formatted="false">เวิร์กสเตชันการพัฒนา Debian ของคุณ</string>
+    <string name="native_0c2acd0b6057" formatted="false">กำลังดำเนินการ</string>
+    <string name="native_cb40c67e7cb1" formatted="false">กำลังเริ่มต้น</string>
+    <string name="native_44da7f6a451d" formatted="false">กำลังหยุด</string>
+    <string name="native_b7e1503a7239" formatted="false">ซ่อมแซมสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_7c91bd67ff14" formatted="false">ติดตั้งสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_cfd73bb04860" formatted="false">หยุดสภาพแวดล้อม</string>
+    <string name="native_e7ec95694dce" formatted="false">เริ่ม OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">ตรวจสอบสภาพแวดล้อม</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">อัปเดตเครื่องมือสำหรับนักพัฒนา Debian</string>
+    <string name="native_c114ec62712b" formatted="false">การสำรองข้อมูลสภาพแวดล้อม โปรเจ็กต์ และเซสชันก่อนหน้านี้จะยังคงอยู่</string>
+    <string name="native_eb3114155716" formatted="false">ติดตั้ง / อัปเดตเซิร์ฟเวอร์ภาษา</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) และ Python (pylsp) ติดตั้งออนไลน์จากที่เก็บ Debian ที่ลงนามแล้ว หยุด OpenCode และเดสก์ท็อปก่อน</string>
+    <string name="native_2c7251cce661" formatted="false">แตะปุ่มลอยเพื่อสลับหน้า ลากเพื่อเปลี่ยนตำแหน่ง</string>
+    <string name="native_dcef145e6a9b" formatted="false">ข้อมูลรันไทม์ปรากฏที่นี่หลังจากเริ่มต้นระบบ</string>
+    <string name="native_a8243a4e0d22" formatted="false">เปิดรันไทม์</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">เวอร์ชัน APK ที่แถมมา</string>
+    <string name="native_e6b986511faf" formatted="false">อัปเดต OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">นำเข้า .ocaupdate ที่ลงนามโดยผู้เผยแพร่แอปนี้ อัปเดตส่วนหน้าและส่วนหลังอย่างเป็นทางการพร้อมกัน</string>
+    <string name="native_8aad48b0508d" formatted="false">แหล่งอัปเดต (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">ตรวจสอบแหล่งอัพเดต</string>
+    <string name="native_f73973cfadbb">รุ่นที่ลงนามแล้ว: %1$s\nคอมมิต: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">ดาวน์โหลดและตรวจสอบ</string>
+    <string name="native_f2ef7965bf12" formatted="false">เลือกแพ็คเกจอัพเดต</string>
+    <string name="native_165111adfe2c">พร้อมติดตั้ง: %1$s\nคอมมิต: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">ติดตั้งการอัปเดตนี้</string>
+    <string name="native_f9432c4d9b1e" formatted="false">คืนค่าเวอร์ชันและเซสชันก่อนการอัปเดต</string>
+    <string name="native_6864335de653" formatted="false">ยกเลิกการอัพเดต</string>
+    <string name="native_5e3472cf084e" formatted="false">ติดตั้งอัพเดต OpenCode หรือไม่</string>
+    <string name="native_816bf3635d53" formatted="false">คืนค่าสถานะก่อนการอัปเดตหรือไม่</string>
+    <string name="native_11beb4a42abc">ติดตั้ง %1$s แอปจะบันทึกสแนปชอตเซสชัน ตรวจสอบโปรแกรมที่เซ็นชื่อ และกู้คืนเวอร์ชันก่อนหน้าหากล้มเหลว ไฟล์โครงการจะถูกเก็บไว้</string>
+    <string name="native_bc7b4149e7d2" formatted="false">เซสชันกลับสู่สถานะก่อนการอัปเดตนี้ เซสชันล่าสุดยังคงอยู่ในการสำรองข้อมูลส่วนตัว ไฟล์โครงการจะถูกเก็บไว้</string>
+    <string name="native_def5e273616d" formatted="false">ยืนยันการติดตั้ง</string>
+    <string name="native_369d2eefccde" formatted="false">ไม่สามารถแยกข้อมูลเบราว์เซอร์ตัวอย่างได้ เปิดตัวอย่างอีกครั้ง</string>
+    <string name="native_c3ac77c50f0b" formatted="false">ไม่สามารถโหลดหน้าโครงการได้ ตรวจสอบเซิร์ฟเวอร์การพัฒนาในเทอร์มินัลของคุณ</string>
+    <string name="native_6e7408950cf5" formatted="false">ดูตัวอย่างเว็บไซต์โครงการ</string>
+    <string name="native_bfb4951e071d" formatted="false">ตัวอย่างโครงการ</string>
+    <string name="native_f80652913d06" formatted="false">เริ่มต้นเซิร์ฟเวอร์การพัฒนาในเทอร์มินัล จากนั้นป้อนพอร์ตในเครื่อง ดูตัวอย่างข้อมูลเบราว์เซอร์แยกจาก OpenCode</string>
+    <string name="native_2c41e85af61f" formatted="false">พอร์ต</string>
+    <string name="native_77c3a828a5c5" formatted="false">ป้อนพอร์ตการพัฒนาตั้งแต่ 1024 ถึง 65535 ไม่รวม OpenCode และบริการเดสก์ท็อป</string>
+    <string name="native_7311a9dfea51" formatted="false">ไม่มีอะไรกำลังฟังบนพอร์ตนี้ ตรวจสอบบริการในเครื่องเทอร์มินัลของคุณ</string>
+    <string name="native_4f8d84105475" formatted="false">กำลังตรวจสอบ...</string>
+    <string name="native_4923c272b68e" formatted="false">พอร์ตการพัฒนาต้องเป็นจำนวนเต็ม</string>
+    <string name="native_04a87026e81f" formatted="false">เลือกพอร์ตการพัฒนาโครงการที่ถูกต้อง</string>
+    <string name="native_a8a305819e54" formatted="false">เซสชันการพัฒนา OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">การติดตั้งสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">การซ่อมแซมสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_0ddf3d4297eb" formatted="false">การตรวจสอบสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_9612d4419bb6" formatted="false">การติดตั้งเซิร์ฟเวอร์ภาษา</string>
+    <string name="native_f72fba77f87a" formatted="false">การฟื้นฟูสภาพแวดล้อม</string>
+    <string name="native_7c8162195c7c" formatted="false">การติดตั้งเดสก์ท็อป</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">การรันครั้งก่อนถูกขัดจังหวะ รีสตาร์ทอย่างชัดเจนจากรันไทม์</string>
+    <string name="native_22b3b2e8ffad" formatted="false">งานการพัฒนาประเภทนี้ยังคงดำเนินอยู่</string>
+    <string name="native_95a56e0a3fe2" formatted="false">กำลังซ่อมแซมบันทึกกิจกรรม</string>
+    <string name="native_b66749ed72ea" formatted="false">ออกจากกระบวนการแล้ว</string>
+    <string name="native_6b25042064e2" formatted="false">สิ้นสุดด้วยสัญญาณ</string>
+    <string name="native_d6febdf1752b" formatted="false">เรียกคืนเนื่องจากหน่วยความจำเหลือน้อย</string>
+    <string name="native_1d13790f3c89" formatted="false">แอปขัดข้อง</string>
+    <string name="native_28db94d1850d" formatted="false">กระบวนการดั้งเดิมขัดข้อง</string>
+    <string name="native_86919539f7f1" formatted="false">แอปไม่ตอบสนอง</string>
+    <string name="native_90fb8d6098a5" formatted="false">การเริ่มต้นล้มเหลว</string>
+    <string name="native_38c60ab6654c" formatted="false">สิทธิ์เปลี่ยนแปลงแล้ว</string>
+    <string name="native_6d2a6c71334d" formatted="false">ขีดจำกัดทรัพยากร</string>
+    <string name="native_19b2090b01a8" formatted="false">ผู้ใช้ร้องขอให้หยุด</string>
+    <string name="native_120d96445f1a" formatted="false">หยุดโดยผู้ใช้</string>
+    <string name="native_3c8af14f66bc" formatted="false">ออกจากกระบวนการที่ขึ้นต่อกัน</string>
+    <string name="native_ca0941ce04ae" formatted="false">เหตุผลของระบบอื่น</string>
+    <string name="native_2df1ac3c1d38" formatted="false">กระบวนการแช่แข็ง</string>
+    <string name="native_0d48373023a8" formatted="false">สถานะของแอปเปลี่ยนไป</string>
+    <string name="native_c752307db26b" formatted="false">อัปเดตแอป</string>
+    <string name="native_b5015951cbdf" formatted="false">ระบบไม่ได้ระบุเหตุผลในการออก</string>
+    <string name="native_b62737b826ad">ออกจากระบบ (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">ไม่สามารถเปิดไดเรกทอรีโครงการได้</string>
+    <string name="native_faf5d983c13e" formatted="false">ไม่สามารถสร้างเซสชัน OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">ไดเรกทอรีเซสชัน OpenCode ไม่ตรงกัน</string>
+    <string name="native_ac19736908a2" formatted="false">ไม่สามารถอ่านเซสชัน OpenCode ได้</string>
+    <string name="native_2642997cfeec" formatted="false">การบำรุงรักษาสิ่งแวดล้อม</string>
+    <string name="native_f992d735d932" formatted="false">หยุด OpenCode เทอร์มินัล และเดสก์ท็อป Debian จากนั้นรอให้การทำงานของไฟล์เสร็จสิ้น</string>
+    <string name="native_489f137f1080" formatted="false">การล็อคเพื่อการบำรุงรักษาสภาพแวดล้อมใช้ไม่ได้อีกต่อไป</string>
+    <string name="native_42380e2567fc" formatted="false">กู้คืนการดำเนินการที่ถูกขัดจังหวะแล้ว เปิดพื้นที่ทำงานอีกครั้ง</string>
+    <string name="native_17b00cac2b91" formatted="false">การกู้คืนการเชื่อมต่อภายในล้มเหลว ลองอีกครั้งจากรันไทม์</string>
+    <string name="native_77e9ca4e944c" formatted="false">อยู่ระหว่างการบำรุงรักษาสภาพแวดล้อม ลองอีกครั้งในภายหลัง</string>
+    <string name="native_dbaebe3ce243" formatted="false">หยุดเดสก์ท็อป Debian ก่อนที่จะอัปเดตสภาพแวดล้อมการพัฒนา</string>
+    <string name="native_548085b144c9" formatted="false">กู้คืนการดำเนินการที่ถูกขัดจังหวะแล้ว คุณสามารถเริ่มต้นสภาพแวดล้อมการพัฒนาได้</string>
+    <string name="native_b4a1531f9eac" formatted="false">การรันครั้งก่อนถูกขัดจังหวะ คำสั่งเทอร์มินัลจะไม่เล่นซ้ำโดยอัตโนมัติ รีสตาร์ทอย่างชัดเจนจากรันไทม์</string>
+    <string name="native_295cafdfd512" formatted="false">การล้างข้อมูลการกำหนดค่าการเชื่อมต่อชั่วคราวไม่สมบูรณ์ กระบวนการล้างข้อมูลดำเนินต่อไป</string>
+    <string name="native_ab16cdc08a8e" formatted="false">ไม่สามารถสร้างพื้นที่ทำงานของ helloworld ตรวจสอบไดเร็กทอรีและพื้นที่ว่าง</string>
+    <string name="native_68301868225a" formatted="false">ไดเร็กทอรีเวิร์กสเปซก่อนหน้านี้ไม่พร้อมใช้งาน เปิด helloworld แล้ว</string>
+    <string name="native_b33b3ca277eb" formatted="false">โปรเจ็กต์เริ่มต้นยังไม่พร้อม ลองอีกครั้งจากไฟล์</string>
+    <string name="native_45d6ab452622" formatted="false">ติดตั้งเซิร์ฟเวอร์ภาษา</string>
+    <string name="native_9793c4a83295" formatted="false">เซิร์ฟเวอร์ภาษา C/C++ และ Python พร้อมใช้งานแล้ว เริ่ม OpenCode เพื่อใช้ LSP</string>
+    <string name="native_5ea1653deef8" formatted="false">บันทึกกิจกรรมเทอร์มินัลไม่ได้รับการบันทึก สร้างเทอร์มินัลใหม่หลังจากสิ้นสุดกระบวนการ</string>
+    <string name="native_1978b311a9ff" formatted="false">ไม่สามารถบันทึกบันทึกการออกจากเทอร์มินัลให้เสร็จสิ้นได้</string>
+    <string name="native_66dee11c3194" formatted="false">ดาวน์โหลดอัปเดต OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">กำลังเชื่อมต่อกับแหล่งอัพเดต...</string>
+    <string name="native_8c39baf28e08" formatted="false">ไม่สามารถเชื่อมต่อกับแหล่งอัพเดตได้ ตรวจสอบเครือข่าย ลายเซ็นของผู้เผยแพร่ เวอร์ชันโฮสต์ และพื้นที่ว่าง</string>
+    <string name="native_0bedbc8d185d" formatted="false">การดาวน์โหลดหมดเวลา</string>
+    <string name="native_f75850093535">กำลังดาวน์โหลด: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">กำลังตรวจสอบลายเซ็นของผู้จัดพิมพ์...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">กำลังดาวน์โหลดแพ็คเกจอัพเดต...</string>
+    <string name="native_2f9cd52dc66a">ลายเซ็นผู้จัดพิมพ์ที่ถูกต้อง: %1$s ตรวจสอบก่อนที่จะดาวน์โหลด</string>
+    <string name="native_17548865632c" formatted="false">ดาวน์โหลด เผยแพร่ข้อมูลเมตา และลายเซ็นแพ็คเกจที่ได้รับการยืนยันแล้ว ยืนยันการติดตั้ง</string>
+    <string name="native_180cec958e7a" formatted="false">การดาวน์โหลดถูกยกเลิก ฉบับเดิมเก็บไว้</string>
+    <string name="native_8df045f8ac12" formatted="false">การดาวน์โหลดหยุดลง ฉบับเดิมเก็บไว้</string>
+    <string name="native_778803f1c6bb" formatted="false">ยกเลิกการดาวน์โหลด</string>
+    <string name="native_2958898ce6f4" formatted="false">เวอร์ชันใหม่ล้มเหลวในการตรวจสอบการเริ่มต้นระบบ เวอร์ชัน หรือการตรวจสอบสิทธิ์ เวอร์ชันก่อนหน้าจะถูกกู้คืน</string>
+    <string name="native_cc876dfbb261" formatted="false">กระบวนการทดลองใช้ยังคงออกอยู่ รอการกู้คืนก่อนลองอีกครั้ง</string>
+    <string name="native_adf977dcb47e" formatted="false">ตัวระบุบันทึกการอัปเดตไม่ถูกต้อง</string>
+    <string name="native_5207cac670b7" formatted="false">ขนาด OpenCode แบบสแตนด์อโลนที่ติดตั้งไม่ตรงกัน</string>
+    <string name="native_cf5b81887589" formatted="false">การตรวจสอบผลรวม OpenCode แบบสแตนด์อโลนที่ติดตั้งไม่ตรงกัน คืนค่าเวอร์ชันก่อนหน้า</string>
+    <string name="native_393049b506cc" formatted="false">โปรแกรมต้นฉบับไม่มีหลักฐานจากผู้จัดพิมพ์ที่ตรงกัน สถานะก่อนหน้าไม่เปลี่ยนแปลง</string>
+    <string name="native_c5853bcfd56c" formatted="false">กู้คืนการอัปเดตที่ถูกขัดจังหวะก่อนหน้านี้ก่อน</string>
+    <string name="native_91d8da5525fa" formatted="false">แพ็คเกจอัพเดตมีการเปลี่ยนแปลงหลังจากการยืนยัน</string>
+    <string name="native_093f2c091a30" formatted="false">พื้นที่เก็บข้อมูลไม่เพียงพอ ฉบับเดิมไม่เปลี่ยนแปลง</string>
+    <string name="native_fc9bc82e0872" formatted="false">ไม่มีการสำรองข้อมูลอัพเดตให้กู้คืนได้</string>
+    <string name="native_a9f4d9903c14" formatted="false">ข้อมูลสำรองไม่ตรงกับเวอร์ชันที่กำลังทำงานอยู่</string>
+    <string name="native_6caa23763a42" formatted="false">การตรวจสอบโปรแกรมก่อนหน้าล้มเหลว เซสชันปัจจุบันไม่เปลี่ยนแปลง</string>
+    <string name="native_c8b71b876695" formatted="false">การอัปเดต APK หรือ Debian ในภายหลังแทนที่โปรแกรมที่ให้มา การสำรองข้อมูลเซสชันเดิมจะยังคงอยู่ คืนค่าโปรแกรมที่เกี่ยวข้องก่อน</string>
+    <string name="native_c443df40964b" formatted="false">การดำเนินการกู้คืนการอัปเดตไม่ถูกต้อง</string>
+    <string name="native_9071f05d58b3" formatted="false">กำลังเตรียมการอัปเดต OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">หยุด OpenCode เทอร์มินัล และเดสก์ท็อป จากนั้นรอให้ออก</string>
+    <string name="native_90c07b54f8f8" formatted="false">บันทึกสถานะ การตรวจสอบโปรแกรม และการสลับเวอร์ชัน</string>
+    <string name="native_5fc065ef6f50" formatted="false">ไม่สามารถเริ่มบริการบำรุงรักษาอัพเดตได้</string>
+    <string name="native_f7b560c8c820" formatted="false">กำลังตรวจสอบและจัดเตรียมโปรแกรมอย่างเป็นทางการ...</string>
+    <string name="native_9606191c82dc" formatted="false">กำลังรักษาโปรแกรมต้นฉบับและลายเซ็นของผู้จัดพิมพ์...</string>
+    <string name="native_5c0d7787ee51" formatted="false">กำลังบันทึกสแนปชอตสถานะเซสชัน...</string>
+    <string name="native_0c8cf4632889" formatted="false">กำลังสลับเวอร์ชันและยืนยันบริการในพื้นที่...</string>
+    <string name="native_3e81ea691a4a" formatted="false">กำลังกู้คืนเวอร์ชันและเซสชันก่อนการอัปเดต...</string>
+    <string name="native_856de41d3bf3" formatted="false">กำลังกู้คืน OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">กำลังอัปเดต OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">กู้คืนเวอร์ชันและเซสชันก่อนหน้า เซสชันล่าสุดยังคงอยู่ในการสำรองข้อมูลส่วนตัว</string>
+    <string name="native_07367ff18068" formatted="false">การอัปเดต OpenCode เสร็จสมบูรณ์ สตาร์ทอัพจะใช้ส่วนหน้าและแบ็กเอนด์อย่างเป็นทางการที่ตรงกัน</string>
+    <string name="native_4693930f5802" formatted="false">ยกเลิกการอัพเดตแล้ว ยืนยันว่าได้คืนสภาพเดิมแล้ว</string>
+    <string name="native_d0e37bc26edd" formatted="false">การอัปเดตไม่สมบูรณ์ ตอนนี้กำลังฟื้นตัว; โปรแกรมดั้งเดิมและการสำรองข้อมูลเซสชันจะยังคงอยู่</string>
+    <string name="native_9a32d6c2d207" formatted="false">การกู้คืนไม่สมบูรณ์ ไดเร็กทอรีสถานะทั้งหมดจะถูกเก็บไว้ เก็บข้อมูลของคุณและลองเริ่มต้นใหม่อีกครั้งเพื่อกู้คืน</string>
+    <string name="native_49ad3eeae83d" formatted="false">การกู้คืนเซสชันเสร็จสมบูรณ์ สถานะล่าสุดยังคงอยู่ในข้อมูลสำรอง</string>
+    <string name="native_67c08a2911e1" formatted="false">การกู้คืนไม่สามารถดำเนินการสำรองข้อมูลหรือโปรแกรมดั้งเดิมได้ เซสชันปัจจุบันและการสำรองข้อมูลไม่เปลี่ยนแปลง</string>
+    <string name="native_976d8c169cfa" formatted="false">การอัปเดตถูกยกเลิกหรือล้มเหลว กู้คืนเวอร์ชันและเซสชันดั้งเดิมแล้ว</string>
+    <string name="native_7ac77d1513fc" formatted="false">กำลังตรวจสอบลายเซ็นและความสมบูรณ์ของแพ็คเกจการอัปเดต...</string>
+    <string name="native_0aa018b7337b" formatted="false">ไม่สามารถอ่านไฟล์ที่เลือกได้</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">แพ็คเกจการอัปเดตมีขนาดใหญ่เกินไป</string>
+    <string name="native_f068b83f40bf" formatted="false">ตรวจสอบลายเซ็นและพัสดุแล้ว ตรวจสอบเวอร์ชันก่อนการติดตั้ง</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">ไม่สามารถนำเข้า: ไฟล์ไม่ถูกต้อง, ลายเซ็นไม่ตรงกัน, เวอร์ชันโฮสต์ที่เข้ากันไม่ได้ หรือที่เก็บข้อมูลไม่เพียงพอ</string>
+    <string name="native_616412e65df4" formatted="false">โปรแกรมอย่างเป็นทางการไม่ตรงกับหลักฐานของผู้จัดพิมพ์</string>
+    <string name="native_4bf19a158f27" formatted="false">แพ็คเกจรันไทม์แบบสแตนด์อโลนรองรับ ARM64 เท่านั้น</string>
+    <string name="native_63b1fc6fffc9" formatted="false">ลายเซ็นการอัปเดตไม่ได้เป็นของ APK นี้</string>
+    <string name="native_c7273354727f" formatted="false">ไฟล์อัพเดตมีขนาดเกินขนาดที่ประกาศไว้</string>
+    <string name="native_2aa6c8e74abb" formatted="false">การตรวจสอบผลรวมของโปรแกรมอัปเดตไม่ตรงกัน</string>
+    <string name="native_dd619076d456" formatted="false">ขนาดแพ็คเกจการอัปเดตไม่ถูกต้อง</string>
+    <string name="native_20c5bdfeffc0" formatted="false">ขนาดแพ็คเกจการอัปเดตที่บีบอัดไม่ตรงกัน</string>
+    <string name="native_1de24edffcf5" formatted="false">แพ็คเกจอัพเดตประกอบด้วยรายการเพิ่มเติม</string>
+    <string name="native_c5b339aa77e8" formatted="false">ต้นกำเนิดหรือสถาปัตยกรรมการอัปเดตที่เข้ากันไม่ได้</string>
+    <string name="native_89d585f3661f" formatted="false">อัปเกรดแอป Android ก่อนติดตั้งอัปเดตนี้</string>
+    <string name="native_800df084dea0" formatted="false">การตรวจสอบผลรวมของไฟล์อัปเดตไม่ตรงกัน</string>
+    <string name="native_ddf1a005e310" formatted="false">รูปแบบการลงนาม APK นี้ไม่รองรับการอัปเดตรันไทม์แบบสแตนด์อโลน</string>
+    <string name="native_172e063db474" formatted="false">รายการแพ็คเกจการอัปเดตไม่ถูกต้อง</string>
+    <string name="native_1c08780aa99f" formatted="false">ข้อมูลเมตาที่อัปเดตต้องใช้จำนวนเต็ม</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">โปรแกรมอัพเดตไม่ใช่ Linux ELF 64 บิต</string>
+    <string name="native_d51ff4ed57b4" formatted="false">โปรแกรมอัพเดตไม่ตรงตามการจัดตำแหน่ง 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">โปรแกรมอัปเดตไม่มีตัวโหลด Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">ป้อนแหล่งอัปเดต HTTPS ที่ถูกต้อง</string>
+    <string name="native_c274c7dd5900" formatted="false">แหล่งที่มาของการอัปเดตต้องใช้ URL แบบ HTTPS โดยไม่มีข้อมูลรับรองผู้ใช้</string>
+    <string name="native_f459f5ec9dac" formatted="false">ฟิลด์แหล่งอัปเดตไม่ถูกต้อง</string>
+    <string name="native_bde2a736e30a" formatted="false">อัปเกรดโฮสต์ Android ก่อน</string>
+    <string name="native_b980fd021bef" formatted="false">ไดเร็กทอรีอัพเดตไม่ถูกต้อง</string>
+    <string name="native_c0e96727553e" formatted="false">ไฟล์อัพเดตไม่ถูกต้อง</string>
+    <string name="native_86ff542c68ed" formatted="false">ไม่สามารถสลับไดเร็กทอรีการอัพเดตในสถานะนี้ได้</string>
+    <string name="native_fbf82dc7ef22" formatted="false">สถานะเซสชันอ้างถึงไดเร็กทอรีภายนอก ไม่สามารถทดสอบการอัปเดตได้อย่างปลอดภัย</string>
+    <string name="native_796dc6b7ca29" formatted="false">พื้นที่เก็บข้อมูลไม่เพียงพอ สภาพเดิมไม่เปลี่ยนแปลง</string>
+    <string name="native_099801d672b1" formatted="false">การดาวน์โหลดถูกยกเลิก</string>
+    <string name="native_f1304f707ec9" formatted="false">มีการเปลี่ยนเส้นทางการอัปเดตมากเกินไป</string>
+    <string name="native_0d07f458b607" formatted="false">เซิร์ฟเวอร์การอัพเดตไม่ได้ถ่ายโอนไบต์ดั้งเดิม</string>
+    <string name="native_de331dfd8908" formatted="false">อัปเดตความยาวของไฟล์ไม่ตรงกัน</string>
+    <string name="native_416b8c87e69e" formatted="false">ไฟล์อัพเดตไม่ได้รับการดาวน์โหลดอย่างสมบูรณ์</string>
+    <string name="native_e1e74b76c427" formatted="false">เซิร์ฟเวอร์การอัพเดตไม่ได้ส่งคืนไฟล์ทั้งหมด</string>
+    <string name="native_6afcf03cb130" formatted="false">พื้นที่จัดเตรียมการอัปเดตไม่เพียงพอ</string>
+    <string name="native_be1c695d9241" formatted="false">อัปเดตไฟล์ SHA-256 ไม่ตรงกัน</string>
+    <string name="native_a0133d117bb0" formatted="false">แพ็คเกจการอัปเดตไม่ตรงกับข้อมูลการเผยแพร่ที่ยืนยันแล้ว</string>
+    <string name="native_8635a43ce28a" formatted="false">ไดเรกทอรีโครงการไม่ถูกต้อง</string>
+    <string name="native_d32ab8b004e6" formatted="false">ไม่สามารถบันทึกตำแหน่งพื้นที่ทำงาน</string>
+    <string name="native_43a5447014fd" formatted="false">เริ่มต้นสภาพแวดล้อมการพัฒนาจากรันไทม์ก่อนที่จะเปิดเทอร์มินัล</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ เทอร์มินัลใหม่</string>
+    <string name="native_b3b7108a568f" formatted="false">ปิดปัจจุบัน</string>
+    <string name="native_0e822affd5da">ไดเรกทอรีเริ่มต้น: %1$s</string>
+    <string name="native_72d769e3888d">ไดเร็กทอรีเทอร์มินัลใหม่: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">ตัวเลือกไฟล์ระบบไม่พร้อมใช้งาน</string>
+    <string name="native_179a57921f91" formatted="false">การตั้งค่าการแสดงผล WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">อัตราเฟรมการแสดงผล</string>
+    <string name="native_55b6d7f645f3" formatted="false">ต้องการ 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">ติดตามอัตราการรีเฟรชของจอแสดงผล</string>
+    <string name="native_d4ecf38c341d" formatted="false">ต้องการ 60 Hz เพื่อลดภาระการเรนเดอร์บนจอแสดงผลที่มีอัตราการรีเฟรชสูง การติดตามจอแสดงผลจะทำให้กรอบกำหนดการของระบบ ใช้กับหน้าต่างของแอปนี้เท่านั้น</string>
+    <string name="native_bf0d3a407418" formatted="false">ไม่ได้ติดตั้ง</string>
+    <string name="native_2fb8edc75b25" formatted="false">พร้อมแล้ว</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">กำลังตรวจสอบตัวโหลด</string>
+    <string name="native_d1017c1eac80" formatted="false">กำลังติดตั้ง Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">สภาพแวดล้อมการพัฒนาท้องถิ่น</string>
+    <string name="native_55aa84065de2" formatted="false">เซสชันการพัฒนา Debian ในเครื่อง</string>
+    <string name="native_6e75b1822ebc" formatted="false">หยุด</string>
+    <string name="native_5f73a4e1e494" formatted="false">ติดตั้งแล้ว</string>
+    <string name="native_147e90d2ec02" formatted="false">กำลังฟื้นตัว</string>
+</resources>

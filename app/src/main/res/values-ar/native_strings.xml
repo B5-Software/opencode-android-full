@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">مساحة عمل التطوير</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + سطح المكتب</string>
+    <string name="native_7f1c02616d60" formatted="false">صفحة واحدة</string>
+    <string name="native_651ae6ea52ae" formatted="false">استعادة العرض المنقسم</string>
+    <string name="native_d7e97cfac66f" formatted="false">تخطيط مساحة العمل</string>
+    <string name="native_2a03e2ed30f9" formatted="false">قم بتوسيع النافذة لعرض لوحات متعددة معًا.</string>
+    <string name="native_e792dd4cfa78" formatted="false">إظهار ملفات المشروع</string>
+    <string name="native_712d956931d1" formatted="false">إظهار المحطة الطرفية</string>
+    <string name="native_073cc20d9ed9" formatted="false">المحطة الطرفية أدناه</string>
+    <string name="native_5de225480fa7" formatted="false">المحطة الطرفية على اليمين</string>
+    <string name="native_35cdb3eacdc6" formatted="false">تنهار اللوحات عندما تكون المساحة محدودة ويظل الوصول إليها متاحًا من القائمة العائمة. تظهر المحطة الجانبية في النوافذ الأوسع. اسحب الفواصل لتغيير حجم اللوحات.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt الأيسر: 1–5 صفحات · ملفات B · T Terminal · M Desktop · أدخل فردي/مقسم · \\\\ التخطيط</string>
+    <string name="native_7a129a94c6ff" formatted="false">تم</string>
+    <string name="native_bcec2218fc21" formatted="false">إعادة ضبط النسب</string>
+    <string name="native_da88c62d1217">إظهار %1$s في صفحة واحدة</string>
+    <string name="native_1b4b3afbe52d" formatted="false">مقسم ملفات المشروع</string>
+    <string name="native_707c0891a0e6" formatted="false">مقسم طرفي</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode ومقسم سطح المكتب</string>
+    <string name="native_50407ad8dfa8" formatted="false">تقليص اللوحة السابقة</string>
+    <string name="native_b72c5c02a666" formatted="false">تكبير اللوحة السابقة</string>
+    <string name="native_3f3685e8d731" formatted="false">عدد كبير جدًا من روابط PRoot لتنسيق الأرشيف هذا\nتتطلب الروابط الصلبة</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux rootfs كاملة</string>
+    <string name="native_f336f1e17596" formatted="false">تداخل دليل النسخ الاحتياطي عميق جدًا</string>
+    <string name="native_b6f744737a45" formatted="false">طول كلمة المرور الاحتياطية غير صالح</string>
+    <string name="native_13bde5dd1812" formatted="false">يجب أن تحتوي كلمة المرور الاحتياطية على 12 حرفًا على الأقل</string>
+    <string name="native_be02cbd55932" formatted="false">تنسيق النسخ الاحتياطي غير مدعوم</string>
+    <string name="native_7a91a3d586ae" formatted="false">رأس النسخ الاحتياطي غير صالح</string>
+    <string name="native_2bbd318a5667" formatted="false">معلمات تشفير النسخ الاحتياطي غير مدعومة</string>
+    <string name="native_18868da27841" formatted="false">كلمة مرور النسخ الاحتياطي غير صحيحة أو ملف تالف</string>
+    <string name="native_e41d6440468d" formatted="false">سجل الاسترداد كبير جدًا</string>
+    <string name="native_282692502f14" formatted="false">بيانات تعريف النسخ الاحتياطي كبيرة جدًا</string>
+    <string name="native_61fdca8d6c82" formatted="false">تداخل بيانات تعريف النسخ الاحتياطي عميق جدًا</string>
+    <string name="native_8cefb30732d4" formatted="false">بيانات تعريف النسخ الاحتياطي غير صالحة</string>
+    <string name="native_5d3037708cad" formatted="false">الإعدادات الأصلية غير مدعومة</string>
+    <string name="native_81a57c382f9d" formatted="false">لا يمكن حفظ الإعدادات الأصلية</string>
+    <string name="native_50603e683d4a" formatted="false">الدليل الأصلي غير صالح في مسار النسخ الاحتياطي</string>
+    <string name="native_c3f838a46b8e" formatted="false">يجب ألا يكون جذر محطة العمل رابطًا رمزيًا</string>
+    <string name="native_9ddd2d8280c8" formatted="false">تم تغيير ملف أثناء النسخ الاحتياطي</string>
+    <string name="native_77e1e85147db" formatted="false">تنسيق بيانات محطة العمل غير مدعوم</string>
+    <string name="native_a927b5a565af" formatted="false">تحتوي النسخة الاحتياطية على بيانات إضافية</string>
+    <string name="native_c2b886d508f2" formatted="false">تحتوي النسخة الاحتياطية على مسارات مكررة</string>
+    <string name="native_3dab8cd60102" formatted="false">تحتوي النسخة الاحتياطية على إعدادات وقت التشغيل التي لا يمكن ترحيلها</string>
+    <string name="native_f45ba674a630" formatted="false">النسخة الاحتياطية كبيرة جدًا أو مساحة التخزين غير كافية</string>
+    <string name="native_140073e8e77b" formatted="false">لا يمكن استعادة الطوابع الزمنية للارتباط الرمزي</string>
+    <string name="native_b0d411aaf62c" formatted="false">تعذر استعادة الطوابع الزمنية للأنبوب المسمى</string>
+    <string name="native_0daee8026db1" formatted="false">النسخ الاحتياطي والاستعادة لمحطة العمل</string>
+    <string name="native_1acc18928c5f" formatted="false">يتضمن Debian وأدوات المطورين والمشاريع والصفحة الرئيسية وجلسات OpenCode وإعداداتها وبيانات متصفح Linux وإعدادات التخطيط الأصلية.</string>
+    <string name="native_62254d31a535" formatted="false">يتم استبعاد الملفات المؤقتة والنسخ الاحتياطية القديمة. تظل مساحة تخزين Android WebView والمسودات غير المرسلة على هذا الجهاز ولا يتم نقلها باستخدام هذه النسخة الاحتياطية.</string>
+    <string name="native_808eabc7811f" formatted="false">إنشاء نسخة احتياطية مشفرة</string>
+    <string name="native_201c10b38296" formatted="false">استيراد نسخة احتياطية</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">احفظ التغييرات في محرر الملفات أولاً.</string>
+    <string name="native_0559cd596453" formatted="false">قم بإيقاف OpenCode والمحطات الطرفية وسطح المكتب</string>
+    <string name="native_fdf2be8e3b93" formatted="false">عملية البيئة غير كاملة. استعادته أولا.</string>
+    <string name="native_185f58156330" formatted="false">استرداد العملية غير المكتملة</string>
+    <string name="native_20831b6f67a7" formatted="false">التراجع عن آخر استعادة للبيئة</string>
+    <string name="native_4f392d5d6141">نسخة محلية مشفرة: %1$s</string>
+    <string name="native_80077c694212" formatted="false">حفظ في الملف</string>
+    <string name="native_f09619351eb9" formatted="false">حذف النسخة المحلية</string>
+    <string name="native_85c686eb9841">تمت معالجة %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">إلغاء مهمة النسخ الاحتياطي</string>
+    <string name="native_66c9d896407b" formatted="false">تشفير النسخة الاحتياطية لمحطة العمل</string>
+    <string name="native_548cd9f0831e" formatted="false">فك تشفير النسخة الاحتياطية والتحقق منها</string>
+    <string name="native_d248f5eca9a5" formatted="false">قد تحتوي النسخ الاحتياطية على مفاتيح SSH الخاصة ومفاتيح API وبيانات الحساب. استخدم 12 حرفًا على الأقل. لا يمكن استعادة كلمة المرور المنسية.</string>
+    <string name="native_f249422b9ec1" formatted="false">يتم فك تشفير النسخة الاحتياطية والتحقق منها في دليل خاص. يتم استبدال البيئة الخاصة بك فقط بعد تأكيد الاستعادة.</string>
+    <string name="native_e7be6841703a" formatted="false">كلمة المرور الاحتياطية</string>
+    <string name="native_9f6aeedc5a00" formatted="false">كرر كلمة المرور</string>
+    <string name="native_eafdc5cd4882" formatted="false">ابدأ التشفير</string>
+    <string name="native_2986b88beade" formatted="false">فك التشفير والتحقق</string>
+    <string name="native_0eddf4ad9b94" formatted="false">إلغاء</string>
+    <string name="native_f46c5ed7412d" formatted="false">هل تريد استعادة البيئة السابقة بالكامل؟</string>
+    <string name="native_33eda0946a5b" formatted="false">هل تريد حذف النسخة المحلية المشفرة؟</string>
+    <string name="native_26db24150f2e" formatted="false">ستعود المشاريع والمنزل وDebian والجلسات إلى حالتها قبل آخر عملية استعادة. سيبقى العمل الأحدث في نسخة احتياطية خاصة داخل التطبيق.</string>
+    <string name="native_1153b30d51d5" formatted="false">يتم حذف النسخة المحلية المشفرة فقط داخل التطبيق. تظل الملفات المحفوظة في مكان آخر متاحة.</string>
+    <string name="native_427a78a4e69a" formatted="false">تأكيد</string>
+    <string name="native_7af46d7ee003" formatted="false">هل تريد استعادة النسخة الاحتياطية لمحطة العمل هذه؟</string>
+    <string name="native_ed40940162d0">%1$s\nإدخالات %2$s · %3$s\nOpenCode: %4$s\nطلب</string>
+    <string name="native_8370cb5d4818" formatted="false">تحتوي النسخة الاحتياطية على برنامج Linux قابل للتنفيذ. تأكد من ثقتك بمصدره. تستبدل عملية الاستعادة البيئة بأكملها وتفحص الخدمات المحلية؛ يتم الاحتفاظ بالبيئة السابقة للتعافي.</string>
+    <string name="native_c3d74ed0c054" formatted="false">تم التحقق من النسخ الاحتياطي. في انتظار تأكيد الاستعادة.</string>
+    <string name="native_97076078c749" formatted="false">قم أيضًا بتمكين وضع التوافق مع Chromium (تعطيل وضع الحماية لعملية Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">معطل بشكل افتراضي. يمكنك تمكينه لاحقًا في إعدادات سطح المكتب.</string>
+    <string name="native_ddf09383413c" formatted="false">تأكيد الاستعادة</string>
+    <string name="native_8e6056b0f629" formatted="false">إلغاء الاستيراد</string>
+    <string name="native_63a895901c76" formatted="false">تغيرت بيئة محطة العمل</string>
+    <string name="native_a4c994348a39" formatted="false">أعد فتح مساحة العمل</string>
+    <string name="native_774947f0653e" formatted="false">إلغاء المهمة</string>
+    <string name="native_e09a22b18445" formatted="false">تمت مقاطعة المهمة. حدد عملية مرة أخرى وأدخل كلمة المرور.</string>
+    <string name="native_38c5fcc634db" formatted="false">احفظ تعديلات الملفات في كافة النوافذ أولاً. قم بإلغاء عملية استيراد موجودة قبل إعادة المحاولة.</string>
+    <string name="native_029bfa8ff772" formatted="false">استعادة محطة العمل والتحقق من البرامج</string>
+    <string name="native_e4f04df818f8" formatted="false">معالجة عملية النسخ الاحتياطي المحددة</string>
+    <string name="native_8206f072d5ee" formatted="false">قم بإيقاف OpenCode والمحطات الطرفية وسطح المكتب، ثم انتظر حتى تنتهي عمليات الملف.</string>
+    <string name="native_1a5cde18c609" formatted="false">تعذر بدء مهمة النسخ الاحتياطي. أعد المحاولة باستخدام التطبيق في المقدمة.</string>
+    <string name="native_1553b714941d" formatted="false">فك تشفير النسخة الاحتياطية والتحقق منها. تظل البيئة الأصلية قابلة للاسترداد…</string>
+    <string name="native_dafd005e953e" formatted="false">تم التحقق من النسخ الاحتياطي. تأكيد الاستعادة في التطبيق.</string>
+    <string name="native_9fb236184596" formatted="false">تم حذف النسخة المحلية المشفرة داخل التطبيق.</string>
+    <string name="native_f98e9ac348b6" formatted="false">تم إلغاء العملية. تم الاحتفاظ ببيانات البيئة الأصلية.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">العملية غير مكتملة. تحقق من كلمة المرور وسلامة النسخة الاحتياطية وإصدار المضيف والمساحة الحرة. تم الاحتفاظ ببيانات البيئة الأصلية.</string>
+    <string name="native_29deabd28960" formatted="false">إنشاء نسخة احتياطية مشفرة لمحطة العمل...</string>
+    <string name="native_3d137e243806" formatted="false">تم إنشاء نسخة احتياطية مشفرة. اختر مكان حفظه.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">استعادة البيئة والتحقق من الخدمات المحلية. حافظ على بيانات التطبيق سليمة...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">تمت استعادة محطة العمل. تظل البيئة السابقة في نسخة احتياطية خاصة. أعد فتح مساحة العمل.</string>
+    <string name="native_0392cd6152d2" formatted="false">فشلت عمليات التحقق من الاستعادة. عاد إلى البيئة السابقة؛ تظل البيانات المستوردة في نسخة احتياطية خاصة.</string>
+    <string name="native_5dc7410b600e" formatted="false">الاستعادة غير كاملة. يتم الاحتفاظ بكافة أدلة البيانات. احتفظ ببيانات التطبيق وأعد محاولة الاسترداد.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">استعادة بيئة محطة العمل السابقة...</string>
+    <string name="native_15821323ff89" formatted="false">تمت استعادة البيئة السابقة. ويظل العمل الأحدث في نسخة احتياطية خاصة. أعد فتح مساحة العمل.</string>
+    <string name="native_56dd94f47870" formatted="false">لا يمكن التراجع عن هذه الاستعادة. تم الاحتفاظ بالبيئة الحالية والنسخ الاحتياطية.</string>
+    <string name="native_93530f3fa029" formatted="false">التراجع غير كامل. يتم الاحتفاظ بجميع أدلة البيانات. احتفظ ببيانات التطبيق وأعد محاولة الاسترداد.</string>
+    <string name="native_f12963c80def" formatted="false">جارٍ حفظ النسخة الاحتياطية المشفرة…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">تم حفظ النسخة الاحتياطية المشفرة. يمكنك حفظ النسخة المحلية مرة أخرى أو حذفها يدويًا.</string>
+    <string name="native_d660cccf65e0" formatted="false">تنظيف عملية استيراد غير مؤكدة...</string>
+    <string name="native_800592163979" formatted="false">تم إلغاء الاستيراد. البيئة الأصلية لم تتغير.</string>
+    <string name="native_5a90367eb834" formatted="false">تم إلغاء الاستيراد. البيئة الأصلية لم تتغير؛ تظل بعض بيانات الاستيراد المؤقتة في الدليل الخاص للتطبيق.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">جارٍ تحضير فك التشفير والتحقق…</string>
+    <string name="native_e9f2bea3118c" formatted="false">جارٍ تحضير النسخة الاحتياطية المشفرة…</string>
+    <string name="native_7bd5a0c93818" formatted="false">تعذر بدء خدمة النسخ الاحتياطي. أعد المحاولة في المقدمة.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">قم باسترداد عملية البيئة غير المكتملة أولاً</string>
+    <string name="native_f14aea7c819c" formatted="false">سجل الاسترداد غير صالح</string>
+    <string name="native_7c284c55ee08" formatted="false">دليل الاسترداد مفقود</string>
+    <string name="native_bfc4792df15b" formatted="false">تتجاوز الإعدادات الأصلية حد سجل الاسترداد</string>
+    <string name="native_8d93770ba8c9">دليل البيئة السابق مفقود: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">مرحلة التعافي غير معروفة</string>
+    <string name="native_20c5124fe175" formatted="false">عملية استرداد غير معروفة</string>
+    <string name="native_1c457322b624" formatted="false">لا توجد بيئة سابقة متاحة لاستعادتها</string>
+    <string name="native_30db1666c8e5" formatted="false">تنتمي هذه النسخة الاحتياطية إلى تطبيق مختلف</string>
+    <string name="native_6687d1c64d75" formatted="false">بنية معالج النسخ الاحتياطي غير متطابقة</string>
+    <string name="native_b9b37d57fe6b" formatted="false">قم بتحديث مضيف Android إلى الإصدار الذي تستخدمه هذه النسخة الاحتياطية أولاً</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">دليل النسخ الاحتياطي غير كامل</string>
+    <string name="native_66106ab3e254" formatted="false">لا تحتوي النسخة الاحتياطية القديمة على دليل ناشر OpenCode يمكن التحقق منه. ابدأ تشغيل البيئة الأصلية مع هذا المضيف قبل عمل نسخة احتياطية لها مرة أخرى.</string>
+    <string name="native_bec13cc92982" formatted="false">إجراءات نظام بيئة التطوير</string>
+    <string name="native_65de80229626" formatted="false">Debian إجراءً للنظام</string>
+    <string name="native_5e38581cf19c" formatted="false">اضغط لمراجعة الطلب والتعامل معه</string>
+    <string name="native_749d406d2c67" formatted="false">من بيئة التطوير Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">فتح متصفح النظام؟</string>
+    <string name="native_ce9491abbc6c" formatted="false">هل تريد فتح معاينة مشروع محلي؟</string>
+    <string name="native_53ce0dec7ef3" formatted="false">قراءة الحافظة؟</string>
+    <string name="native_8dfca23f0aa0" formatted="false">هل تريد النسخ إلى حافظة النظام؟</string>
+    <string name="native_77f761eb70aa" formatted="false">إرسال إشعار محلي؟</string>
+    <string name="native_e6b29e80abb7" formatted="false">مشاركة ملف المشروع؟</string>
+    <string name="native_9d36f698b3c1" formatted="false">استيراد ملفات النظام؟</string>
+    <string name="native_8f05ff8c2dea" formatted="false">تصدير ملف المشروع؟</string>
+    <string name="native_7ac295421c6d" formatted="false">فتح في المتصفح</string>
+    <string name="native_bbdb6043b5e9" formatted="false">فتح المعاينة</string>
+    <string name="native_14792d6cd7a6" formatted="false">السماح بالقراءة</string>
+    <string name="native_b4caf8b99ddd" formatted="false">نسخ إلى الحافظة</string>
+    <string name="native_4b3361a8c3a3" formatted="false">إرسال إشعار</string>
+    <string name="native_88152a09fa02" formatted="false">اختر تطبيق مشاركة</string>
+    <string name="native_7a49a79c57f9" formatted="false">اختر الملفات</string>
+    <string name="native_99d9f87419c5" formatted="false">اختر مكان الحفظ</string>
+    <string name="native_23e5bb2090aa">%1$s\nيفتح ببيانات المتصفح المعزولة من OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">قم بإعطاء نص من حافظة النظام إلى برنامج Debian الحالي.\nوضع المتصفح</string>
+    <string name="native_dcc6bec24e43">اختر الملفات التي تريد استيرادها إلى %1$s. يتم الاحتفاظ بالملفات الموجودة وتتم إعادة تسمية الملفات المكررة.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium</string>
+    <string name="native_4767f37900f6" formatted="false">يستخدم وضع التوافق ملفًا تعريفيًا منفصلاً للمتصفح ويقوم بتعطيل وضع حماية عملية Linux الخاص بـ Chromium. لا يزال بإمكان المتصفح الوصول إلى الملفات الموجودة داخل هذا التطبيق. تجنب مواقع الويب غير الموثوقة واستخدم متصفح نظام Android للحسابات المهمة. أعد فتح Chromium بعد تغيير الأوضاع.</string>
+    <string name="native_a4317f2699a2" formatted="false">يتم تمكين وضع الحماية Linux القياسي بشكل افتراضي. إذا تعذر بدء تشغيل Chromium، فيمكنك تحديد وضع التوافق. فهو يقوم بتعطيل وضع الحماية لعملية Linux ويستخدم ملف تعريف منفصل، مع الاحتفاظ بإمكانية الوصول إلى ملفات التطبيق. تجنب المواقع غير الموثوقة؛ استخدم متصفح النظام Android للحسابات المهمة.</string>
+    <string name="native_3a2596fa9517" formatted="false">استعادة الوضع القياسي</string>
+    <string name="native_eeb5e46d62ae" formatted="false">تمكين وضع التوافق</string>
+    <string name="native_9a45442649f5" formatted="false">Debian سطح المكتب</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · مشتركة /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">يقوم التثبيت الأول بتنزيل المكونات الرسومية. بعد التثبيت، يمكن لسطح المكتب أن يبدأ ويتوقف بشكل مستقل عن OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">مرآة USTC</string>
+    <string name="native_41e865941e16" formatted="false">مرآة Debian الرسمية</string>
+    <string name="native_ea341b8a102b" formatted="false">الحل الأولي</string>
+    <string name="native_ff1cde9ba35d" formatted="false">يستمر تشغيل سطح المكتب عند تبديل الصفحات. أوقفه من وقت التشغيل.</string>
+    <string name="native_aadf816e2dc8" formatted="false">إيقاف مهمة سطح المكتب</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">ابدأ تشغيل سطح المكتب</string>
+    <string name="native_ea27a25e5114" formatted="false">تثبيت مكونات سطح المكتب</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: وضع التوافق</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: الوضع القياسي</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">قم بتثبيت أدوات المطور Debian من Runtime أولاً.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">سجل النشاط</string>
+    <string name="native_bfaa904aa4d4" formatted="false">تعذر فتح مجلد المشروع. تأكد من وجود الدليل.</string>
+    <string name="native_83c76743b29d" formatted="false">استعادة عملية البيئة التي تمت مقاطعتها</string>
+    <string name="native_739a730ae247" formatted="false">صيانة البيئة</string>
+    <string name="native_049281329843" formatted="false">انتظر حتى تنتهي صيانة التحديث أو المهمة الحالية.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">انتظر حتى تنتهي مهمة بيئة التطوير الحالية</string>
+    <string name="native_83099168971c" formatted="false">تثبيت سطح المكتب</string>
+    <string name="native_85e0c18dde8d" formatted="false">بدء تشغيل سطح المكتب</string>
+    <string name="native_9a48f8196d8f" formatted="false">يحتاج إلى الاهتمام</string>
+    <string name="native_75470fb13121" formatted="false">توقف</string>
+    <string name="native_51a53c8109d5" formatted="false">لا يمكن قراءة أو حفظ سجل النشاط. قم بإصلاحه من Runtime أو قم بتحرير بعض مساحة التخزين.</string>
+    <string name="native_d36a018cc619" formatted="false">قم بتثبيت بيئة التطوير Debian أولاً</string>
+    <string name="native_80be4c2928a5" formatted="false">اتصل بالشبكة أولاً</string>
+    <string name="native_a065d81014b1" formatted="false">التثبيت على سطح المكتب غير مكتمل. أعد محاولة التثبيت.</string>
+    <string name="native_721c38b32c35" formatted="false">تم تثبيت سطح المكتب. ابدأ به عند الحاجة.</string>
+    <string name="native_6c1c52771115" formatted="false">قم بتثبيت مكونات سطح المكتب أولاً</string>
+    <string name="native_693d90a47827" formatted="false">فشلت عملية سطح المكتب. التفاصيل طويلة جدًا أو غير متوفرة.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">تعذر إنهاء حفظ علامة التوقف. استمرت عملية التنظيف.</string>
+    <string name="native_06083621a6ce" formatted="false">تعذر إنهاء حفظ سجل النشاط. سوف يتعامل الإطلاق التالي مع هذا باعتباره انقطاعًا.</string>
+    <string name="native_04d721a3819a" formatted="false">تشغيل سطح المكتب</string>
+    <string name="native_c3f0acaf7a73" formatted="false">انتهت مهلة عملية سطح المكتب. قم بمراجعة السجل ثم أعد المحاولة.</string>
+    <string name="native_e70d328a3ca9">تم الخروج من عملية سطح المكتب (%1$s). قم بمراجعة سجل النشاط.</string>
+    <string name="native_df5c878f2852" formatted="false">مساحة العمل الرسومية المحلية</string>
+    <string name="native_7b0455a8daa4" formatted="false">إيقاف سطح المكتب</string>
+    <string name="native_a62123cde9c7" formatted="false">تمت مقاطعة المهام والاسترداد</string>
+    <string name="native_279308947a14" formatted="false">لا يمكن قراءة سجل النشاط. يحتفظ برنامج الإصلاح بنسخة من السجل التالف ويحافظ على المشروعات والجلسات وبيئة Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">سجل نشاط الإصلاح</string>
+    <string name="native_6b43650c2c82" formatted="false">انتهت المهمة بشكل غير متوقع.</string>
+    <string name="native_acb0c970aaa6">%1$s لم يتم إغلاق المحطات بشكل طبيعي. تمت مقاطعة أوامر التشغيل الخاصة بهم.</string>
+    <string name="native_4ba153d8dff5" formatted="false">تم تأكيد إعادة التشغيل. لم يتم إعادة تشغيل الأوامر السابقة.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">يتم الاحتفاظ بالمشروعات والجلسات المحفوظة. إعادة فتح المحطات يدويا؛ لن يتم استئناف الأوامر غير المكتملة تلقائيًا.</string>
+    <string name="native_fa9669296762" formatted="false">أعد تشغيل OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">لن يتم إعادة تشغيل سطح المكتب تلقائيًا. ابدأ تشغيله مرة أخرى من صفحة سطح المكتب.</string>
+    <string name="native_644f8f44251f" formatted="false">فتح الملف</string>
+    <string name="native_9dfb5569d609" formatted="false">مشاركة الملف</string>
+    <string name="native_a4500cff3a86" formatted="false">يجب ألا يكون دليل العمل رابطًا رمزيًا</string>
+    <string name="native_8657d27661bd" formatted="false">مسار دليل العمل غير صالح</string>
+    <string name="native_02b702a9adff" formatted="false">حدد ملفًا</string>
+    <string name="native_924874b746cc" formatted="false">إدارة الروابط الرمزية في الوحدة الطرفية</string>
+    <string name="native_efea6e422a54" formatted="false">اسم ملف غير صالح</string>
+    <string name="native_c4989dc37aab" formatted="false">الدليل غير موجود</string>
+    <string name="native_d613dba39b44" formatted="false">دليل الوجهة غير موجود</string>
+    <string name="native_4f9b3fb4920b" formatted="false">لا يمكن وضع مجلد داخل نفسه أو داخل فروعه</string>
+    <string name="native_c3acd5a3254c" formatted="false">يحتوي المشروع على أجهزة أو مآخذ توصيل خاصة ولا يمكن نسخها</string>
+    <string name="native_6c36955b068b" formatted="false">حدد ملفًا عاديًا</string>
+    <string name="native_49191d7d489f" formatted="false">يتجاوز هذا الملف 2 MB. قم بتحريره باستخدام OpenCode أو الجهاز الطرفي.</string>
+    <string name="native_ee42414d36c2" formatted="false">الملف كبير جدًا</string>
+    <string name="native_f0a979f87157" formatted="false">قم بتصدير الملفات الثنائية لفتحها في تطبيق آخر</string>
+    <string name="native_88a9c82651fc" formatted="false">قم بتحرير الملفات التي ليست UTF-8 باستخدام OpenCode أو الوحدة الطرفية</string>
+    <string name="native_0189a5c3418c" formatted="false">أداة أخرى غيرت هذا الملف. أعد فتحه قبل التحرير.</string>
+    <string name="native_0ce79256f4ac" formatted="false">الدليل الأصلي لم يعد موجودًا. استعادته أولا.</string>
+    <string name="native_46eae321049e" formatted="false">لا يوجد تطبيق مشاركة متاح</string>
+    <string name="native_87d699d3a26c" formatted="false">سلة المهملات</string>
+    <string name="native_d0a8c03d6c07" formatted="false">ملفات المشروع</string>
+    <string name="native_4dcf914f0b64" formatted="false">يمكن استعادة الملفات المحذوفة إلى أدلةها الأصلية</string>
+    <string name="native_c5b81b02354f" formatted="false">العودة</string>
+    <string name="native_e56b99379169">تم نسخ ملفات %1$s · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">النسخ…</string>
+    <string name="native_85199bb36b04" formatted="false">إلغاء العملية</string>
+    <string name="native_e9dc52d1c24b" formatted="false">إغلاق</string>
+    <string name="native_4e1e5aacac7f" formatted="false">جلسة جديدة</string>
+    <string name="native_23c250cc8e0b" formatted="false">ابدأ جلسة OpenCode هنا</string>
+    <string name="native_f22da21fd54f" formatted="false">المحطة الطرفية</string>
+    <string name="native_3645f30b3412" formatted="false">التغييرات غير المحفوظة</string>
+    <string name="native_2266227605c4" formatted="false">حفظ</string>
+    <string name="native_064fbc7ad3f3" formatted="false">سلة المهملات فارغة</string>
+    <string name="native_a9e739b13e52" formatted="false">استعادة</string>
+    <string name="native_45985dc2183e" formatted="false">نقل:</string>
+    <string name="native_31214130b5b7" formatted="false">نسخة:</string>
+    <string name="native_07e5c3158f35" formatted="false">لصق</string>
+    <string name="native_831b4e0fb574" formatted="false">جديد</string>
+    <string name="native_ff65a22d7087" formatted="false">مجلد جديد</string>
+    <string name="native_71faed44a86c" formatted="false">ملف جديد</string>
+    <string name="native_8dddd460f6ae" formatted="false">استيراد</string>
+    <string name="native_d85825123e60" formatted="false">تحديث</string>
+    <string name="native_ac9d73843736" formatted="false">ابحث في هذا الدليل</string>
+    <string name="native_21eef82963ee" formatted="false">هذا الدليل فارغ. استيراد الملفات أو إنشاء مشروع.</string>
+    <string name="native_e8a4cecaa371" formatted="false">لا توجد ملفات مطابقة</string>
+    <string name="native_d674bc0f86b8" formatted="false">إجراءات الملف</string>
+    <string name="native_d04a47c87cc8" formatted="false">رابط رمزي</string>
+    <string name="native_e0ba66f5246a" formatted="false">المجلد</string>
+    <string name="native_f170b42599e8" formatted="false">إعادة التسمية</string>
+    <string name="native_4cdacf57ead2" formatted="false">نسخة</string>
+    <string name="native_124aa030694e" formatted="false">انتقل إلى...</string>
+    <string name="native_ac990518ed87" formatted="false">افتح المحطة هنا</string>
+    <string name="native_87bc93932d8a" formatted="false">التصدير إلى ملفات النظام</string>
+    <string name="native_dd37f132172f" formatted="false">الانتقال إلى سلة المهملات</string>
+    <string name="native_7318746d337c" formatted="false">هل تريد الانتقال إلى سلة المهملات؟</string>
+    <string name="native_2b5ee3f10a56">يمكنك استعادة \"%1$s\" من سلة المهملات.</string>
+    <string name="native_e49730c9e7e1" formatted="false">تحرك</string>
+    <string name="native_4e47aaa113fc" formatted="false">هل تريد تجاهل التغييرات غير المحفوظة؟</string>
+    <string name="native_63b75399ef1a" formatted="false">تجاهل التغييرات</string>
+    <string name="native_d9618f7b8d25" formatted="false">تابع التحرير</string>
+    <string name="native_76ce6aef5479" formatted="false">الاسم</string>
+    <string name="native_35b0fc30b909" formatted="false">حسنًا</string>
+    <string name="native_11b319774788" formatted="false">تمت استعادة البيئة. أعد فتح مساحة العمل.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">قم بإنهاء استرداد العملية التي تمت مقاطعتها في وقت التشغيل أولاً</string>
+    <string name="native_f29af06e7c99" formatted="false">صيانة البيئة قيد التقدم. أعد المحاولة لاحقًا.</string>
+    <string name="native_3bd28258feb0" formatted="false">تم إلغاء العملية</string>
+    <string name="native_c508721eb3cd" formatted="false">يوجد ملف بهذا الاسم بالفعل. اختر اسمًا آخر.</string>
+    <string name="native_1e8274fe468a" formatted="false">الملف لم يعد موجودا. قم بتحديث الدليل.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">تم رفض إذن الوصول إلى الملف</string>
+    <string name="native_cd808e4c321e" formatted="false">تعذر إكمال العملية</string>
+    <string name="native_01cbe9be8b9f" formatted="false">العملية غير مكتملة. تحقق من مساحة التخزين المتوفرة أو حدد الملفات مرة أخرى.</string>
+    <string name="native_3f9983126fd7" formatted="false">تحقق من حالة بدء تشغيل OpenCode في وقت التشغيل</string>
+    <string name="native_6ed9fe2281bb" formatted="false">تعذر فتح محطة طرفية جديدة. التحقق من عدد الجلسات.</string>
+    <string name="native_2160fde3813a" formatted="false">إدارة الروابط الرمزية في الوحدة الطرفية. مدير الملفات لا يتبع الروابط.</string>
+    <string name="native_7a844e9d4017" formatted="false">اكتمل النقل</string>
+    <string name="native_573877894fcf" formatted="false">اكتملت النسخة</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">تم النقل إلى سلة المهملات</string>
+    <string name="native_862330af933f" formatted="false">تمت الاستعادة إلى الدليل الأصلي</string>
+    <string name="native_beda23c9d52b" formatted="false">حدثت صيانة للبيئة أو استبدالها. أعد فتح مساحة العمل قبل التحرير.</string>
+    <string name="native_678c6953bb2b" formatted="false">محفوظ</string>
+    <string name="native_8063159f2178" formatted="false">لا يمكن قراءة الملف المحدد</string>
+    <string name="native_4cdc2180d2ac">تم استيراد %1$s من الملفات</string>
+    <string name="native_e98763643b93" formatted="false">لا يمكن الكتابة إلى الموقع المحدد</string>
+    <string name="native_5afd173be7fa" formatted="false">اكتمل التصدير</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">الكود والجلسات</string>
+    <string name="native_8745ed51cadd" formatted="false">سطح المكتب</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">مساحة العمل الرسومية</string>
+    <string name="native_770d49c5f689" formatted="false">الملفات</string>
+    <string name="native_6a9b6480b58f" formatted="false">وقت التشغيل</string>
+    <string name="native_b561fe9204cc" formatted="false">الخدمات وأدوات المطورين</string>
+    <string name="native_70850bdeeabd" formatted="false">إغلاق قائمة الصفحة</string>
+    <string name="native_b4549acb48e8" formatted="false">مساحة العمل</string>
+    <string name="native_3d3551f4660f">عتامة الزر العائم %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">القيم المنخفضة تجعل الزر العائم أكثر شفافية</string>
+    <string name="native_e031beabfc9a" formatted="false">فتح قائمة الصفحة</string>
+    <string name="native_106ee775b538" formatted="false">الاتصال بـ OpenCode المحلي...</string>
+    <string name="native_a021adc1f449" formatted="false">يحتاج الاتصال المحلي إلى الاسترداد</string>
+    <string name="native_dacb8837471c" formatted="false">إعادة الاتصال</string>
+    <string name="native_17584aa60ae6" formatted="false">تعذر تحضير ذاكرة التخزين المؤقت للمورد المحلي</string>
+    <string name="native_3b3b80064ccb" formatted="false">جارٍ تحضير OpenCode المحلي...</string>
+    <string name="native_2560ee8fdd16" formatted="false">أعد المحاولة</string>
+    <string name="native_b07809340403" formatted="false">لم يتم حفظ موقع مساحة العمل بعد. أعد المحاولة لاحقًا.</string>
+    <string name="native_e4ab10392d05" formatted="false">الخدمة المحلية تستعد. سيتم فتح مساحة العمل الخاصة بك تلقائيًا بمجرد الاتصال.</string>
+    <string name="native_20ea15973287" formatted="false">تمت مقاطعة التشغيل السابق. إعادة التشغيل من وقت التشغيل؛ لن يتم إعادة تشغيل الأوامر الطرفية تلقائيًا.</string>
+    <string name="native_f2f2f6d32544" formatted="false">ابدأ تشغيل OpenCode من وقت التشغيل لفتح التعليمات البرمجية والجلسات.</string>
+    <string name="native_abbac5c22111" formatted="false">هل تريد الخروج من التطبيق؟</string>
+    <string name="native_fd8eb11aab0a" formatted="false">يمكن أن تستمر بيئة التطوير في العمل في الخلفية. العودة لاحقا من الإخطار.</string>
+    <string name="native_814a8fb24b62" formatted="false">هل تريد الخروج من مساحة العمل الحالية؟</string>
+    <string name="native_a76464945c2d" formatted="false">قم أيضًا بإيقاف بيئة التطوير</string>
+    <string name="native_b814fd8d6bc5" formatted="false">خروج</string>
+    <string name="native_b00143b08ff1" formatted="false">محطة عمل التطوير جاهزة</string>
+    <string name="native_51bca456a350" formatted="false">محطة عمل التطوير Debian الخاصة بك</string>
+    <string name="native_0c2acd0b6057" formatted="false">قيد التشغيل</string>
+    <string name="native_cb40c67e7cb1" formatted="false">البدء</string>
+    <string name="native_44da7f6a451d" formatted="false">التوقف</string>
+    <string name="native_b7e1503a7239" formatted="false">إصلاح بيئة التطوير</string>
+    <string name="native_7c91bd67ff14" formatted="false">قم بتثبيت بيئة التطوير</string>
+    <string name="native_cfd73bb04860" formatted="false">إيقاف البيئة</string>
+    <string name="native_e7ec95694dce" formatted="false">ابدأ تشغيل OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">فحص البيئة</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">تحديث أدوات المطور Debian</string>
+    <string name="native_c114ec62712b" formatted="false">يتم الاحتفاظ بالنسخ الاحتياطي السابق للبيئة والمشروعات وبيانات الجلسة.</string>
+    <string name="native_eb3114155716" formatted="false">تثبيت/تحديث خوادم اللغة</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) وPython (pylsp)، تم تثبيتهما عبر الإنترنت من مستودعات Debian الموقعة. قم بإيقاف OpenCode وسطح المكتب أولاً.\nتحديث</string>
+    <string name="native_2c7251cce661" formatted="false">اضغط على الزر العائم لتبديل الصفحات. اسحبه لتغيير موضعه.</string>
+    <string name="native_dcef145e6a9b" formatted="false">تظهر معلومات وقت التشغيل هنا بعد بدء التشغيل.</string>
+    <string name="native_a8243a4e0d22" formatted="false">فتح وقت التشغيل</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">نسخة APK المجمعة</string>
+    <string name="native_e6b986511faf" formatted="false">تحديثات OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">قم باستيراد ملف .ocaupdate موقع من ناشر هذا التطبيق. التحديث الرسمي للواجهة الأمامية والخلفية معًا.</string>
+    <string name="native_8aad48b0508d" formatted="false">مصدر التحديث (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">تحقق من مصدر التحديث</string>
+    <string name="native_f73973cfadbb">الإصدار الموقع: %1$s\nالالتزام: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">التنزيل والتحقق</string>
+    <string name="native_f2ef7965bf12" formatted="false">حدد حزمة التحديث</string>
+    <string name="native_165111adfe2c">جاهز للتثبيت: %1$s\nالالتزام: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">قم بتثبيت هذا التحديث</string>
+    <string name="native_f9432c4d9b1e" formatted="false">استعادة الإصدار وجلسات العمل قبل التحديث</string>
+    <string name="native_6864335de653" formatted="false">إلغاء التحديث</string>
+    <string name="native_5e3472cf084e" formatted="false">هل تريد تثبيت تحديث OpenCode؟</string>
+    <string name="native_816bf3635d53" formatted="false">هل تريد استعادة الحالة التي كانت عليها قبل التحديث؟</string>
+    <string name="native_11beb4a42abc">قم بتثبيت %1$s. يحفظ التطبيق لقطة من الجلسة، ويتحقق من البرنامج الموقع ويستعيد الإصدار السابق في حالة فشله. يتم الاحتفاظ بملفات المشروع.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">تعود الجلسات إلى حالتها قبل هذا التحديث. تظل الجلسات الأحدث في نسخة احتياطية خاصة. يتم الاحتفاظ بملفات المشروع.</string>
+    <string name="native_def5e273616d" formatted="false">تأكيد التثبيت</string>
+    <string name="native_369d2eefccde" formatted="false">لا يمكن عزل بيانات متصفح المعاينة. أعد فتح المعاينة.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">تعذر تحميل صفحة المشروع. تحقق من خادم التطوير في جهازك الطرفي.</string>
+    <string name="native_6e7408950cf5" formatted="false">معاينة موقع المشروع</string>
+    <string name="native_bfb4951e071d" formatted="false">معاينة المشروع</string>
+    <string name="native_f80652913d06" formatted="false">ابدأ تشغيل خادم تطوير في الوحدة الطرفية، ثم أدخل المنفذ المحلي الخاص به. يتم عزل بيانات متصفح المعاينة عن OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">المنفذ</string>
+    <string name="native_77c3a828a5c5" formatted="false">أدخل منفذ التطوير من 1024 إلى 65535، باستثناء OpenCode وخدمات سطح المكتب.</string>
+    <string name="native_7311a9dfea51" formatted="false">لا يوجد شيء يتم الاستماع إليه على هذا المنفذ. تحقق من الخدمة في المحطة الخاصة بك.</string>
+    <string name="native_4f8d84105475" formatted="false">التحقق…</string>
+    <string name="native_4923c272b68e" formatted="false">يجب أن يكون منفذ التطوير عددًا صحيحًا</string>
+    <string name="native_04a87026e81f" formatted="false">اختر منفذ تطوير مشروع صالح</string>
+    <string name="native_a8a305819e54" formatted="false">جلسة تطوير OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">تثبيت بيئة التطوير</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">إصلاح بيئة التطوير</string>
+    <string name="native_0ddf3d4297eb" formatted="false">فحص بيئة التطوير</string>
+    <string name="native_9612d4419bb6" formatted="false">تثبيت خادم اللغة</string>
+    <string name="native_f72fba77f87a" formatted="false">استعادة البيئة</string>
+    <string name="native_7c8162195c7c" formatted="false">التثبيت على سطح المكتب</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">تمت مقاطعة التشغيل السابق. أعد التشغيل بشكل صريح من وقت التشغيل.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">لا تزال مهمة التطوير من هذا النوع قيد التشغيل</string>
+    <string name="native_95a56e0a3fe2" formatted="false">إصلاح سجل النشاط</string>
+    <string name="native_b66749ed72ea" formatted="false">تم الخروج من العملية</string>
+    <string name="native_6b25042064e2" formatted="false">تم الإنهاء بالإشارة</string>
+    <string name="native_d6febdf1752b" formatted="false">تمت استعادته بسبب انخفاض الذاكرة</string>
+    <string name="native_1d13790f3c89" formatted="false">تعطل التطبيق</string>
+    <string name="native_28db94d1850d" formatted="false">تعطل العملية الأصلية</string>
+    <string name="native_86919539f7f1" formatted="false">التطبيق لا يستجيب</string>
+    <string name="native_90fb8d6098a5" formatted="false">فشلت التهيئة</string>
+    <string name="native_38c60ab6654c" formatted="false">تم تغيير الأذونات</string>
+    <string name="native_6d2a6c71334d" formatted="false">حد الموارد</string>
+    <string name="native_19b2090b01a8" formatted="false">طلب المستخدم التوقف</string>
+    <string name="native_120d96445f1a" formatted="false">تم الإيقاف بواسطة المستخدم</string>
+    <string name="native_3c8af14f66bc" formatted="false">تم الخروج من العملية التابعة</string>
+    <string name="native_ca0941ce04ae" formatted="false">سبب آخر للنظام</string>
+    <string name="native_2df1ac3c1d38" formatted="false">عملية التجميد</string>
+    <string name="native_0d48373023a8" formatted="false">تم تغيير حالة التطبيق</string>
+    <string name="native_c752307db26b" formatted="false">تحديث التطبيق</string>
+    <string name="native_b5015951cbdf" formatted="false">لم يوفر النظام سببًا للخروج</string>
+    <string name="native_b62737b826ad">خروج النظام (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">لا يمكن فتح دليل المشروع</string>
+    <string name="native_faf5d983c13e" formatted="false">تعذر إنشاء جلسة OpenCode</string>
+    <string name="native_2152aab78ab8" formatted="false">دليل جلسة OpenCode غير متطابق</string>
+    <string name="native_ac19736908a2" formatted="false">تعذر قراءة جلسة OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">صيانة البيئة</string>
+    <string name="native_f992d735d932" formatted="false">أوقف OpenCode والمحطات الطرفية وسطح المكتب Debian، ثم انتظر حتى تنتهي عمليات الملف</string>
+    <string name="native_489f137f1080" formatted="false">لم يعد قفل صيانة البيئة صالحًا</string>
+    <string name="native_42380e2567fc" formatted="false">تم استرداد العملية التي تمت مقاطعتها. أعد فتح مساحة العمل.</string>
+    <string name="native_17b00cac2b91" formatted="false">فشل استرداد الاتصال المحلي. أعد المحاولة من وقت التشغيل.</string>
+    <string name="native_77e9ca4e944c" formatted="false">صيانة البيئة قيد التقدم. أعد المحاولة لاحقًا.</string>
+    <string name="native_dbaebe3ce243" formatted="false">قم بإيقاف سطح المكتب Debian قبل تحديث بيئة التطوير</string>
+    <string name="native_548085b144c9" formatted="false">تم استرداد العملية التي تمت مقاطعتها. يمكنك البدء في بيئة التطوير.</string>
+    <string name="native_b4a1531f9eac" formatted="false">تمت مقاطعة التشغيل السابق. لن يتم إعادة تشغيل الأوامر الطرفية تلقائيًا. أعد التشغيل بشكل صريح من وقت التشغيل.</string>
+    <string name="native_295cafdfd512" formatted="false">عملية تنظيف تكوين الاتصال المؤقتة غير كاملة. استمرت عملية التنظيف.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">تعذر إنشاء مساحة عمل helloworld. تحقق من الدليل والمساحة المتوفرة.</string>
+    <string name="native_68301868225a" formatted="false">دليل مساحة العمل السابق غير متاح. تم فتح helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">المشروع الافتراضي ليس جاهزًا بعد. أعد المحاولة من الملفات.</string>
+    <string name="native_45d6ab452622" formatted="false">تثبيت خوادم اللغة</string>
+    <string name="native_9793c4a83295" formatted="false">خوادم لغة C/C++ وPython جاهزة. ابدأ تشغيل OpenCode لاستخدام LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">لم يتم حفظ سجل النشاط الطرفي. قم بإنشاء محطة جديدة بعد إنهاء العملية.</string>
+    <string name="native_1978b311a9ff" formatted="false">تعذر إنهاء حفظ سجل الخروج للمحطة الطرفية.</string>
+    <string name="native_66dee11c3194" formatted="false">تنزيل تحديث OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">الاتصال بمصدر التحديث...</string>
+    <string name="native_8c39baf28e08" formatted="false">لا يمكن الاتصال بمصدر التحديث. تحقق من الشبكة وتوقيع الناشر وإصدار المضيف والمساحة الحرة.</string>
+    <string name="native_0bedbc8d185d" formatted="false">انتهت مهلة التنزيل</string>
+    <string name="native_f75850093535">التنزيل: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">التحقق من توقيع الناشر...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">جارٍ تنزيل حزمة التحديث...</string>
+    <string name="native_2f9cd52dc66a">توقيع الناشر الصالح: %1$s. المراجعة قبل التنزيل.</string>
+    <string name="native_17548865632c" formatted="false">تم التحقق من تنزيل بيانات التعريف وإصدارها وتوقيع الحزمة. تأكيد التثبيت.</string>
+    <string name="native_180cec958e7a" formatted="false">تم إلغاء التنزيل. تم الاحتفاظ بالنسخة الأصلية.</string>
+    <string name="native_8df045f8ac12" formatted="false">توقف التنزيل. تم الاحتفاظ بالنسخة الأصلية.</string>
+    <string name="native_778803f1c6bb" formatted="false">إلغاء التنزيل</string>
+    <string name="native_2958898ce6f4" formatted="false">فشل الإصدار الجديد في عمليات التحقق من بدء التشغيل المحلي أو الإصدار أو المصادقة. سيتم استعادة الإصدار السابق.</string>
+    <string name="native_cc876dfbb261" formatted="false">لا تزال عملية المحاكمة قيد الخروج. انتظر حتى يتم الاسترداد قبل إعادة المحاولة.</string>
+    <string name="native_adf977dcb47e" formatted="false">معرف سجل التحديث غير صالح</string>
+    <string name="native_5207cac670b7" formatted="false">حجم OpenCode المستقل المثبت غير متطابق</string>
+    <string name="native_cf5b81887589" formatted="false">المجموع الاختباري المستقل المثبت لـ OpenCode غير متطابق. استعادة الإصدار السابق.</string>
+    <string name="native_393049b506cc" formatted="false">لا يحتوي البرنامج الأصلي على إثبات ناشر مطابق. الحالة السابقة دون تغيير.</string>
+    <string name="native_c5853bcfd56c" formatted="false">قم باسترداد التحديث السابق المتقطع أولاً</string>
+    <string name="native_91d8da5525fa" formatted="false">تم تغيير حزمة التحديث بعد التأكيد</string>
+    <string name="native_093f2c091a30" formatted="false">مساحة تخزين غير كافية. النسخة الأصلية دون تغيير.</string>
+    <string name="native_fc9bc82e0872" formatted="false">لا تتوفر نسخة احتياطية للتحديث لاستعادتها</string>
+    <string name="native_a9f4d9903c14" formatted="false">النسخة الاحتياطية لا تتطابق مع الإصدار قيد التشغيل</string>
+    <string name="native_6caa23763a42" formatted="false">فشل التحقق من البرنامج السابق. الدورات الحالية دون تغيير.</string>
+    <string name="native_c8b71b876695" formatted="false">حل تحديث APK أو Debian اللاحق محل البرنامج المجمع. يتم الاحتفاظ بالنسخة الاحتياطية الأصلية للجلسة؛ استعادة البرنامج المقابل أولا.</string>
+    <string name="native_c443df40964b" formatted="false">عملية استرداد التحديث غير صالحة</string>
+    <string name="native_9071f05d58b3" formatted="false">جارٍ تحضير تحديث OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">قم بإيقاف OpenCode والمحطات الطرفية وسطح المكتب، ثم انتظر حتى يتم الخروج.</string>
+    <string name="native_90c07b54f8f8" formatted="false">حفظ الحالة والتحقق من البرامج وتبديل الإصدارات</string>
+    <string name="native_5fc065ef6f50" formatted="false">تعذر بدء خدمة صيانة التحديث.</string>
+    <string name="native_f7b560c8c820" formatted="false">التحقق من البرنامج الرسمي وتنظيمه…</string>
+    <string name="native_9606191c82dc" formatted="false">الحفاظ على البرنامج الأصلي وتوقيع الناشر...</string>
+    <string name="native_5c0d7787ee51" formatted="false">حفظ لقطة حالة الجلسة...</string>
+    <string name="native_0c8cf4632889" formatted="false">تبديل الإصدارات والتحقق من الخدمة المحلية...</string>
+    <string name="native_3e81ea691a4a" formatted="false">استعادة الإصدار والجلسات من ما قبل التحديث...</string>
+    <string name="native_856de41d3bf3" formatted="false">استعادة OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">تحديث OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">تمت استعادة الإصدار والجلسات السابقة. تظل الجلسات الأحدث في نسخة احتياطية خاصة.</string>
+    <string name="native_07367ff18068" formatted="false">اكتمل تحديث OpenCode. سيستخدم بدء التشغيل الواجهة الأمامية والخلفية الرسمية المتطابقة.</string>
+    <string name="native_4693930f5802" formatted="false">تم إلغاء التحديث. التأكد من استعادة الحالة الأصلية.</string>
+    <string name="native_d0e37bc26edd" formatted="false">التحديث غير مكتمل. يتعافى الآن؛ يتم الاحتفاظ بالنسخ الاحتياطية للبرنامج الأصلي والجلسة.</string>
+    <string name="native_9a32d6c2d207" formatted="false">الاسترداد غير كامل. يتم الاحتفاظ بجميع أدلة الدولة. احتفظ ببياناتك وأعد محاولة بدء التشغيل للتعافي.</string>
+    <string name="native_49ad3eeae83d" formatted="false">اكتمل استرداد الجلسة. تظل الحالة الأحدث في نسخة احتياطية.</string>
+    <string name="native_67c08a2911e1" formatted="false">تعذر متابعة عملية الاسترداد مع هذا البرنامج الاحتياطي أو الأصلي. الجلسات الحالية والنسخ الاحتياطية لم تتغير.</string>
+    <string name="native_976d8c169cfa" formatted="false">تم إلغاء التحديث أو فشله. تمت استعادة النسخة الأصلية والجلسات.</string>
+    <string name="native_7ac77d1513fc" formatted="false">التحقق من توقيع حزمة التحديث وتكاملها...</string>
+    <string name="native_0aa018b7337b" formatted="false">لا يمكن قراءة الملف المحدد</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">حزمة التحديث كبيرة جدًا</string>
+    <string name="native_f068b83f40bf" formatted="false">تم التحقق من التوقيع والحزمة. قم بمراجعة الإصدار قبل التثبيت.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">لا يمكن الاستيراد: ملف غير صالح، أو عدم تطابق التوقيع، أو إصدار مضيف غير متوافق، أو مساحة تخزين غير كافية.</string>
+    <string name="native_616412e65df4" formatted="false">البرنامج الرسمي لا يطابق إثبات الناشر الخاص به</string>
+    <string name="native_4bf19a158f27" formatted="false">تدعم حزم وقت التشغيل المستقلة ARM64 فقط</string>
+    <string name="native_63b1fc6fffc9" formatted="false">توقيع التحديث لا ينتمي إلى ملف APK هذا</string>
+    <string name="native_c7273354727f" formatted="false">يتجاوز حجم ملف التحديث الحجم المعلن</string>
+    <string name="native_2aa6c8e74abb" formatted="false">المجموع الاختباري لبرنامج التحديث غير متطابق</string>
+    <string name="native_dd619076d456" formatted="false">حجم حزمة التحديث غير صالح</string>
+    <string name="native_20c5bdfeffc0" formatted="false">حجم حزمة التحديث المضغوطة غير متطابق</string>
+    <string name="native_1de24edffcf5" formatted="false">تحتوي حزمة التحديث على إدخالات إضافية</string>
+    <string name="native_c5b339aa77e8" formatted="false">أصل التحديث أو بنيته غير متوافقة</string>
+    <string name="native_89d585f3661f" formatted="false">قم بترقية تطبيق Android قبل تثبيت هذا التحديث</string>
+    <string name="native_800df084dea0" formatted="false">المجموع الاختباري لأرشيف التحديث غير متطابق</string>
+    <string name="native_ddf1a005e310" formatted="false">لا يدعم تنسيق توقيع APK هذا تحديثات وقت التشغيل المستقلة</string>
+    <string name="native_172e063db474" formatted="false">إدخال حزمة التحديث غير صالح</string>
+    <string name="native_1c08780aa99f" formatted="false">يجب أن تستخدم بيانات تعريف التحديث الأعداد الصحيحة</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">برنامج التحديث ليس Linux ELF إصدار 64 بت</string>
+    <string name="native_d51ff4ed57b4" formatted="false">لا يتوافق برنامج التحديث مع محاذاة 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">يفتقد برنامج التحديث لمحمل Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">أدخل مصدر تحديث HTTPS صالحًا</string>
+    <string name="native_c274c7dd5900" formatted="false">تتطلب مصادر التحديث عناوين URL HTTPS بدون بيانات اعتماد المستخدم</string>
+    <string name="native_f459f5ec9dac" formatted="false">حقل مصدر التحديث غير صالح</string>
+    <string name="native_bde2a736e30a" formatted="false">قم بترقية مضيف Android أولاً</string>
+    <string name="native_b980fd021bef" formatted="false">دليل التحديث غير صالح</string>
+    <string name="native_c0e96727553e" formatted="false">ملف التحديث غير صالح</string>
+    <string name="native_86ff542c68ed" formatted="false">لا يمكن تبديل أدلة التحديث في هذه الحالة</string>
+    <string name="native_fbf82dc7ef22" formatted="false">تشير حالة الجلسة إلى دليل خارجي. لا يمكن اختبار التحديث بأمان.</string>
+    <string name="native_796dc6b7ca29" formatted="false">مساحة تخزين غير كافية. الحالة الأصلية دون تغيير.</string>
+    <string name="native_099801d672b1" formatted="false">تم إلغاء التنزيل</string>
+    <string name="native_f1304f707ec9" formatted="false">هناك عدد كبير جدًا من عمليات إعادة توجيه التحديث</string>
+    <string name="native_0d07f458b607" formatted="false">لم ينقل خادم التحديث البايتات الأصلية</string>
+    <string name="native_de331dfd8908" formatted="false">طول ملف التحديث غير متطابق</string>
+    <string name="native_416b8c87e69e" formatted="false">لم يتم تنزيل ملف التحديث بالكامل</string>
+    <string name="native_e1e74b76c427" formatted="false">لم يُرجع خادم التحديث الملف الكامل</string>
+    <string name="native_6afcf03cb130" formatted="false">مساحة مرحلية غير كافية للتحديث</string>
+    <string name="native_be1c695d9241" formatted="false">ملف التحديث SHA-256 غير متطابق</string>
+    <string name="native_a0133d117bb0" formatted="false">لا تتطابق حزمة التحديث مع معلومات الإصدار المؤكدة</string>
+    <string name="native_8635a43ce28a" formatted="false">دليل المشروع غير صالح</string>
+    <string name="native_d32ab8b004e6" formatted="false">لا يمكن حفظ موقع مساحة العمل</string>
+    <string name="native_43a5447014fd" formatted="false">ابدأ بيئة التطوير من وقت التشغيل قبل فتح الوحدة الطرفية.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">+ محطة جديدة</string>
+    <string name="native_b3b7108a568f" formatted="false">إغلاق التيار</string>
+    <string name="native_0e822affd5da">الدليل الأولي: %1$s</string>
+    <string name="native_72d769e3888d">دليل المحطة الطرفية الجديد: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">منتقي ملفات النظام غير متوفر</string>
+    <string name="native_179a57921f91" formatted="false">إعدادات عرض WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">معدل عرض الإطارات</string>
+    <string name="native_55b6d7f645f3" formatted="false">يفضل 60 هرتز</string>
+    <string name="native_66f8bafa9f7f" formatted="false">متابعة معدل تحديث العرض</string>
+    <string name="native_d4ecf38c341d" formatted="false">يفضل 60 هرتز لتقليل حمل العرض على شاشات العرض ذات معدل التحديث العالي. يتيح اتباع الشاشة للنظام جدولة الإطارات. ينطبق فقط على نافذة هذا التطبيق.</string>
+    <string name="native_bf0d3a407418" formatted="false">غير مثبت</string>
+    <string name="native_2fb8edc75b25" formatted="false">جاهز</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">التحقق من أداة التحميل</string>
+    <string name="native_d1017c1eac80" formatted="false">تثبيت Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">بيئة التطوير المحلية</string>
+    <string name="native_55aa84065de2" formatted="false">جلسة تطوير Debian المحلية</string>
+    <string name="native_6e75b1822ebc" formatted="false">توقف</string>
+    <string name="native_5f73a4e1e494" formatted="false">تم التثبيت</string>
+    <string name="native_147e90d2ec02" formatted="false">يتم الاسترداد</string>
+</resources>

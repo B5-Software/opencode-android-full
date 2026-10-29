@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Hapësira e punës për zhvillim</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Faqe e vetme</string>
+    <string name="native_651ae6ea52ae" formatted="false">Rivendos pamjen e ndarë</string>
+    <string name="native_d7e97cfac66f" formatted="false">Paraqitja e hapësirës së punës</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Zgjeroni dritaren për të parë panele të shumta së bashku.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Shfaq skedarët e projektit</string>
+    <string name="native_712d956931d1" formatted="false">Trego terminalin\nTerminali</string>
+    <string name="native_073cc20d9ed9" formatted="false">më poshtë\nTerminali</string>
+    <string name="native_5de225480fa7" formatted="false">në të djathtë\nPanelet</string>
+    <string name="native_35cdb3eacdc6" formatted="false">shemben kur hapësira është e kufizuar dhe mbeten të aksesueshme nga menyja lundruese. Terminali anësor shfaqet në dritare më të gjera. Zvarritni ndarësit për të ndryshuar madhësinë e paneleve.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt majtas: 1–5 faqe · Skedarë B · Terminal T · M Desktop · Hyr Single/Split · \\\\ Layout</string>
+    <string name="native_7a129a94c6ff" formatted="false">U krye</string>
+    <string name="native_bcec2218fc21" formatted="false">Rivendos përmasat</string>
+    <string name="native_da88c62d1217">Shfaq %1$s në një faqe të vetme</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Ndarësi i skedarëve të projektit</string>
+    <string name="native_707c0891a0e6" formatted="false">Ndarës i terminalit</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode dhe ndarës desktop</string>
+    <string name="native_50407ad8dfa8" formatted="false">Tkurrja e panelit të mëparshëm</string>
+    <string name="native_b72c5c02a666" formatted="false">Zmadhoni panelin e mëparshëm</string>
+    <string name="native_3f3685e8d731" formatted="false">Shumë lidhje PRoot për këtë format arkivi\nLidhjet e forta</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux kërkojnë një rootfs të plotë</string>
+    <string name="native_f336f1e17596" formatted="false">Mbështjellja e direktorisë rezervë është shumë e thellë</string>
+    <string name="native_b6f744737a45" formatted="false">Gjatësi e pavlefshme e fjalëkalimit rezervë</string>
+    <string name="native_13bde5dd1812" formatted="false">Fjalëkalimi rezervë duhet të përmbajë të paktën 12 karaktere</string>
+    <string name="native_be02cbd55932" formatted="false">Format rezervë i pambështetur</string>
+    <string name="native_7a91a3d586ae" formatted="false">Titulli rezervë i pavlefshëm</string>
+    <string name="native_2bbd318a5667" formatted="false">Parametra të pambështetur të enkriptimit rezervë</string>
+    <string name="native_18868da27841" formatted="false">Fjalëkalim i pasaktë rezervë ose skedar i dëmtuar\nRegjistri i rikuperimit</string>
+    <string name="native_e41d6440468d" formatted="false">është shumë i madh</string>
+    <string name="native_282692502f14" formatted="false">Meta të dhënat rezervë janë shumë të mëdha</string>
+    <string name="native_61fdca8d6c82" formatted="false">Mbështjellja e meta të dhënave rezervë është shumë e thellë</string>
+    <string name="native_8cefb30732d4" formatted="false">Meta të dhëna rezervë të pavlefshme</string>
+    <string name="native_5d3037708cad" formatted="false">Cilësimet origjinale të pambështetura</string>
+    <string name="native_81a57c382f9d" formatted="false">Cilësimet origjinale nuk mund të ruheshin</string>
+    <string name="native_50603e683d4a" formatted="false">Drejtoria e pavlefshme prind në shtegun rezervë</string>
+    <string name="native_c3f838a46b8e" formatted="false">Rrënja e stacionit të punës nuk duhet të jetë një lidhje simbolike</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Një skedar i ndryshuar gjatë kopjimit</string>
+    <string name="native_77e1e85147db" formatted="false">Format i pambështetur i të dhënave të stacionit të punës</string>
+    <string name="native_a927b5a565af" formatted="false">Rezervimi përmban të dhëna shtesë</string>
+    <string name="native_c2b886d508f2" formatted="false">Rezervimi përmban shtigje të dyfishta</string>
+    <string name="native_3dab8cd60102" formatted="false">Rezervimi përmban cilësime të kohës së ekzekutimit që nuk mund të migrohen</string>
+    <string name="native_f45ba674a630" formatted="false">Rezervimi është shumë i madh ose ruajtja është e pamjaftueshme</string>
+    <string name="native_140073e8e77b" formatted="false">Nuk mund të rivendoste stampat kohore simbolike të lidhjeve</string>
+    <string name="native_b0d411aaf62c" formatted="false">Nuk mundi të rivendoste stampat kohore të tubave me emër\nRezervimi dhe rivendosja e stacionit të punës</string>
+    <string name="native_0daee8026db1" formatted="false">Rezervimi dhe rivendosja e stacionit të punës</string>
+    <string name="native_1acc18928c5f" formatted="false">Përfshin Debian, mjetet e zhvilluesit, projektet, shtëpinë, sesionet dhe cilësimet e OpenCode, të dhënat e shfletuesit Linux dhe cilësimet e paraqitjes origjinale.</string>
+    <string name="native_62254d31a535" formatted="false">Skedarët e përkohshëm dhe kopjet rezervë të vjetra janë të përjashtuara. Hapësira ruajtëse e Android WebView dhe draftet e padërguara mbeten në këtë pajisje dhe nuk transferohen me këtë kopje rezervë.</string>
+    <string name="native_808eabc7811f" formatted="false">Krijo kopje rezervë të koduar</string>
+    <string name="native_201c10b38296" formatted="false">Importoni kopje rezervë</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Ruani fillimisht ndryshimet tuaja në redaktuesin e skedarëve.</string>
+    <string name="native_0559cd596453" formatted="false">Ndalo OpenCode, terminalet dhe desktopin</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Një veprim mjedisor nuk është i plotë. Rikuperoni atë së pari.</string>
+    <string name="native_185f58156330" formatted="false">Rikuperoni funksionimin e paplotë</string>
+    <string name="native_20831b6f67a7" formatted="false">Zhbër rikthimin e fundit të mjedisit</string>
+    <string name="native_4f392d5d6141">Kopje lokale e koduar: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Ruaje në skedar</string>
+    <string name="native_f09619351eb9" formatted="false">Fshi kopjen lokale</string>
+    <string name="native_85c686eb9841">Përpunuar %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Anulo detyrën e rezervimit</string>
+    <string name="native_66c9d896407b" formatted="false">Kripto rezervimin e stacionit të punës</string>
+    <string name="native_548cd9f0831e" formatted="false">Deshifroni dhe verifikoni kopjen rezervë\nRezervimet e</string>
+    <string name="native_d248f5eca9a5" formatted="false">mund të përmbajnë çelësa privatë SSH, çelësa API dhe të dhëna llogarie. Përdorni të paktën 12 karaktere. Një fjalëkalim i harruar nuk mund të rikuperohet.</string>
+    <string name="native_f249422b9ec1" formatted="false">Rezervimi deshifrohet dhe verifikohet në një drejtori private. Mjedisi juaj zëvendësohet vetëm pasi të konfirmoni restaurimin.</string>
+    <string name="native_e7be6841703a" formatted="false">Fjalëkalimi rezervë</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Përsëritni fjalëkalimin</string>
+    <string name="native_eafdc5cd4882" formatted="false">Filloni enkriptimin</string>
+    <string name="native_2986b88beade" formatted="false">Deshifroni dhe verifikoni</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Anulo</string>
+    <string name="native_f46c5ed7412d" formatted="false">Të rivendoset i gjithë mjedisi i mëparshëm?</string>
+    <string name="native_33eda0946a5b" formatted="false">Të fshihet kopja lokale e koduar?</string>
+    <string name="native_26db24150f2e" formatted="false">Projektet, shtëpia, Debian dhe seancat do të kthehen në gjendjen e tyre përpara rivendosjes së fundit. Puna më e fundit do të mbetet në një rezervë private brenda aplikacionit.</string>
+    <string name="native_1153b30d51d5" formatted="false">Vetëm kopja lokale e koduar brenda aplikacionit fshihet. Skedarët e ruajtur diku tjetër mbeten të disponueshëm.</string>
+    <string name="native_427a78a4e69a" formatted="false">Konfirmo</string>
+    <string name="native_7af46d7ee003" formatted="false">Të restaurohet ky rezervim i stacionit të punës?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s hyrje · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Rezervimi përmban softuer Linux të ekzekutueshëm. Konfirmoni se i besoni burimit të tij. Restaurimi zëvendëson të gjithë mjedisin dhe kontrollon shërbimet lokale; ambienti i mëparshëm mbahet për rikuperim.\nRezervimi i</string>
+    <string name="native_c3d74ed0c054" formatted="false">u verifikua. Në pritje të konfirmimit të restaurimit.</string>
+    <string name="native_97076078c749" formatted="false">Aktivizo gjithashtu modalitetin e përputhshmërisë Chromium (çaktivizon sandboxin e procesit Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Joaktiv si parazgjedhje. Mund ta aktivizoni më vonë në cilësimet e desktopit.</string>
+    <string name="native_ddf09383413c" formatted="false">Konfirmo rivendosjen</string>
+    <string name="native_8e6056b0f629" formatted="false">Anulo importin\nMjedisi i stacionit të punës</string>
+    <string name="native_63a895901c76" formatted="false">ndryshoi</string>
+    <string name="native_a4c994348a39" formatted="false">Rihap hapësirën e punës</string>
+    <string name="native_774947f0653e" formatted="false">Anulo detyrën</string>
+    <string name="native_e09a22b18445" formatted="false">Detyra u ndërpre. Zgjidhni përsëri një operacion dhe futni fjalëkalimin.</string>
+    <string name="native_38c5fcc634db" formatted="false">Ruani fillimisht modifikimet e skedarëve në të gjitha dritaret. Anulo një import ekzistues përpara se të provosh sërish.</string>
+    <string name="native_029bfa8ff772" formatted="false">Rivendosja e stacionit të punës dhe verifikimi i programeve</string>
+    <string name="native_e4f04df818f8" formatted="false">Po përpunon operacionin e zgjedhur të rezervimit</string>
+    <string name="native_8206f072d5ee" formatted="false">Ndalo OpenCode, terminalet dhe desktopin, më pas prisni që operacionet e skedarëve të përfundojnë.</string>
+    <string name="native_1a5cde18c609" formatted="false">Nuk mund të fillonte detyrën e rezervimit. Provo sërish me aplikacionin në plan të parë.</string>
+    <string name="native_1553b714941d" formatted="false">Deshifrimi dhe verifikimi i kopjes rezervë. Mjedisi origjinal mbetet i rikuperueshëm…</string>
+    <string name="native_dafd005e953e" formatted="false">Rezervimi i verifikuar. Konfirmo restaurimin në aplikacion.</string>
+    <string name="native_9fb236184596" formatted="false">Fshiu kopjen lokale të koduar brenda aplikacionit.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Operacioni u anulua. Të dhënat origjinale të mjedisit janë ruajtur.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Operacioni i paplotë. Kontrolloni fjalëkalimin, integritetin e rezervës, versionin e hostit dhe hapësirën e lirë. Të dhënat origjinale të mjedisit janë ruajtur.</string>
+    <string name="native_29deabd28960" formatted="false">Krijimi i rezervës së stacionit të punës të koduar…</string>
+    <string name="native_3d137e243806" formatted="false">U krijua një kopje rezervë e koduar. Zgjidhni ku ta ruani.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Rivendosja e mjedisit dhe kontrollimi i shërbimeve lokale. Mbani të paprekura të dhënat e aplikacionit…\nStacioni i punës</string>
+    <string name="native_840a6a8bf2e6" formatted="false">u rivendos. Mjedisi i mëparshëm mbetet në një kopje rezervë private. Rihapni hapësirën e punës.</string>
+    <string name="native_0392cd6152d2" formatted="false">Kontrollet e rivendosjes dështuan. U kthye në mjedisin e mëparshëm; të dhënat e importuara mbeten në një kopje rezervë private.</string>
+    <string name="native_5dc7410b600e" formatted="false">Restaurimi nuk është i plotë. Të gjitha drejtoritë e të dhënave ruhen. Ruani të dhënat e aplikacionit dhe provoni rikuperimin.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Rivendosja e mjedisit të mëparshëm të stacionit të punës…</string>
+    <string name="native_15821323ff89" formatted="false">Mjedisi i mëparshëm është restauruar. Puna më e fundit mbetet në një rezervë private. Rihapni hapësirën e punës.</string>
+    <string name="native_56dd94f47870" formatted="false">Ky rivendosje nuk mund të zhbëhet. Mjedisi aktual dhe kopjet rezervë të ruajtura.</string>
+    <string name="native_93530f3fa029" formatted="false">Zhbërja është e paplotë. Të gjitha drejtoritë e të dhënave ruhen. Ruani të dhënat e aplikacionit dhe provoni rikuperimin.</string>
+    <string name="native_f12963c80def" formatted="false">Ruajtja e kopjes rezervë të enkriptuar…</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Rezervimi i koduar u ruajt. Mund ta ruani përsëri kopjen lokale ose ta fshini manualisht.</string>
+    <string name="native_d660cccf65e0" formatted="false">Po pastron një import të pakonfirmuar…</string>
+    <string name="native_800592163979" formatted="false">Importi u anulua. Ambienti origjinal i pandryshuar.</string>
+    <string name="native_5a90367eb834" formatted="false">Importi u anulua. Mjedisi origjinal i pandryshuar; disa të dhëna të përkohshme të importit mbeten në drejtorinë private të aplikacionit.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Po përgatit deshifrimin dhe verifikimin…</string>
+    <string name="native_e9f2bea3118c" formatted="false">Po përgatit rezervimin e enkriptuar…</string>
+    <string name="native_7bd5a0c93818" formatted="false">Shërbimi rezervë nuk mund të nisej. Provo sërish në plan të parë.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Rikuperoni fillimisht funksionimin jo të plotë të mjedisit</string>
+    <string name="native_f14aea7c819c" formatted="false">Regjistrim i pavlefshëm rikuperimi</string>
+    <string name="native_7c284c55ee08" formatted="false">Mungon drejtoria e rikuperimit</string>
+    <string name="native_bfc4792df15b" formatted="false">Cilësimet origjinale tejkalojnë kufirin e rekordit të rikuperimit</string>
+    <string name="native_8d93770ba8c9">Mungon drejtoria e mëparshme e mjedisit: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Faza e panjohur e rikuperimit</string>
+    <string name="native_20c5124fe175" formatted="false">Operacion i panjohur rikuperimi</string>
+    <string name="native_1c457322b624" formatted="false">Asnjë mjedis i mëparshëm nuk është i disponueshëm për t\'u restauruar</string>
+    <string name="native_30db1666c8e5" formatted="false">Ky kopje rezervë i përket një aplikacioni tjetër\nArkitektura e procesorit rezervë</string>
+    <string name="native_6687d1c64d75" formatted="false">nuk përputhet</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Përditësoni së pari hostin Android në versionin e përdorur nga ky rezervë</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Drejtoria rezervë nuk është e plotë</string>
+    <string name="native_66106ab3e254" formatted="false">Rezervimi i vjetër nuk ka prova të verifikueshme të botuesit OpenCode. Nis mjedisin origjinal me këtë host përpara se ta rezervosh sërish.</string>
+    <string name="native_bec13cc92982" formatted="false">Veprimet e sistemit të mjedisit të zhvillimit</string>
+    <string name="native_65de80229626" formatted="false">Debian kërkoi një veprim sistemi</string>
+    <string name="native_5e38581cf19c" formatted="false">Prekni për të rishikuar dhe trajtuar kërkesën</string>
+    <string name="native_749d406d2c67" formatted="false">Nga mjedisi i zhvillimit të Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Të hapet shfletuesi i sistemit?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Të hapet një pamje paraprake e projektit lokal?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Lexoni kujtesën e fragmenteve?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Të kopjohet në kujtesën e sistemit?</string>
+    <string name="native_77f761eb70aa" formatted="false">Dërgo një njoftim lokal?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Ndani një skedar projekti?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Të importohen skedarët e sistemit?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Të eksportohet një skedar projekti?</string>
+    <string name="native_7ac295421c6d" formatted="false">Hape në shfletues</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Hap pamjen paraprake</string>
+    <string name="native_14792d6cd7a6" formatted="false">Lejo leximin</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Kopjo në kujtesën e fragmenteve</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Dërgo njoftim</string>
+    <string name="native_88152a09fa02" formatted="false">Zgjidhni një aplikacion për ndarjen</string>
+    <string name="native_7a49a79c57f9" formatted="false">Zgjidhni skedarët</string>
+    <string name="native_99d9f87419c5" formatted="false">Zgjidhni ku të ruani</string>
+    <string name="native_23e5bb2090aa">%1$s\nHapet me të dhënat e shfletuesit të izoluara nga OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Jepni tekst nga kujtesa e sistemit programit aktual Debian.</string>
+    <string name="native_dcc6bec24e43">Zgjidhni skedarët për t\'i importuar në %1$s. Skedarët ekzistues mbahen dhe dublikatat riemërohen.</string>
+    <string name="native_efdb26088f68" formatted="false">Modaliteti i shfletuesit Chromium\nModaliteti i përputhshmërisë</string>
+    <string name="native_4767f37900f6" formatted="false">përdor një profil të veçantë shfletuesi dhe çaktivizon sandboxin e procesit Linux të Chromium. Shfletuesi mund të ketë ende qasje te skedarët brenda këtij aplikacioni. Shmangni faqet e internetit të pabesueshme dhe përdorni shfletuesin e sistemit Android për llogari të rëndësishme. Rihap Chromium pasi të ndryshosh modalitetet.</string>
+    <string name="native_a4317f2699a2" formatted="false">Sandbox-i standard Linux është aktivizuar si parazgjedhje. Nëse Chromium nuk mund të fillojë, mund të zgjidhni modalitetin e përputhshmërisë. Ai çaktivizon sandboxin e procesit Linux dhe përdor një profil të veçantë, ndërsa ruan aksesin në skedarët e aplikacionit. Shmangni faqet e internetit të pabesueshme; përdorni shfletuesin e sistemit Android për llogari të rëndësishme.</string>
+    <string name="native_3a2596fa9517" formatted="false">Rivendos modalitetin standard</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Aktivizo modalitetin e përputhshmërisë</string>
+    <string name="native_9a45442649f5" formatted="false">Debian desktop</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Të përbashkëta /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Instalimi i parë shkarkon komponentë grafikë. Pas instalimit, desktopi mund të fillojë dhe të ndalojë pavarësisht nga OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">pasqyrë USTC</string>
+    <string name="native_41e865941e16" formatted="false">Pasqyra zyrtare e Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Rezolucioni fillestar</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Desktopi vazhdon të funksionojë kur ndërroni faqet. Ndalo nga Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Ndalo detyrën e desktopit</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Nis desktopin</string>
+    <string name="native_ea27a25e5114" formatted="false">Instaloni komponentët e desktopit</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: modaliteti i përputhshmërisë</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: modaliteti standard</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Instaloni fillimisht veglat e zhvilluesve Debian nga Runtime.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Regjistri i aktiviteteve</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Nuk mund të hapej dosja e projektit. Kontrolloni nëse drejtoria ekziston.</string>
+    <string name="native_83c76743b29d" formatted="false">Rikuperimi i funksionimit të mjedisit të ndërprerë</string>
+    <string name="native_739a730ae247" formatted="false">Mirëmbajtja e mjedisit</string>
+    <string name="native_049281329843" formatted="false">Prisni që mirëmbajtja e përditësimit ose detyra aktuale të përfundojë.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Prisni që detyra aktuale e mjedisit të zhvillimit të përfundojë</string>
+    <string name="native_83099168971c" formatted="false">Instalimi i desktopit</string>
+    <string name="native_85e0c18dde8d" formatted="false">Nisja e desktopit</string>
+    <string name="native_9a48f8196d8f" formatted="false">Ka nevojë për vëmendje</string>
+    <string name="native_75470fb13121" formatted="false">U ndal</string>
+    <string name="native_51a53c8109d5" formatted="false">Nuk mund të lexojë ose të ruajë regjistrimin e aktivitetit. Riparojeni atë nga Runtime ose lironi pak hapësirë.</string>
+    <string name="native_d36a018cc619" formatted="false">Instaloni së pari mjedisin e zhvillimit Debian</string>
+    <string name="native_80be4c2928a5" formatted="false">Lidhu fillimisht me një rrjet\nInstalimi i</string>
+    <string name="native_a065d81014b1" formatted="false">në desktop nuk është i plotë. Riprovoni instalimin.</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop i instaluar. Filloni atë kur është e nevojshme.</string>
+    <string name="native_6c1c52771115" formatted="false">Instaloni së pari komponentët e desktopit</string>
+    <string name="native_693d90a47827" formatted="false">funksionimi i desktopit dështoi. Detajet janë shumë të gjata ose të padisponueshme.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Nuk mund të përfundonte ruajtjen e shënuesit të ndalimit. Procesi i pastrimit vazhdoi.</string>
+    <string name="native_06083621a6ce" formatted="false">Ruajtja e regjistrimit të aktivitetit nuk mund të përfundojë. Nisja tjetër do ta trajtojë këtë si një ndërprerje.</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop po funksionon\nKoha e funksionimit të desktopit</string>
+    <string name="native_c3f0acaf7a73" formatted="false">mbaroi. Rishikoni regjistrin dhe provoni përsëri.</string>
+    <string name="native_e70d328a3ca9">procesi i desktopit doli (%1$s). Rishikoni regjistrin e aktiviteteve.</string>
+    <string name="native_df5c878f2852" formatted="false">Hapësira e punës grafike lokale</string>
+    <string name="native_7b0455a8daa4" formatted="false">Ndalo desktopin</string>
+    <string name="native_a62123cde9c7" formatted="false">Detyrat e ndërprera dhe rikuperimi</string>
+    <string name="native_279308947a14" formatted="false">Nuk mund të lexohet regjistrimi i aktivitetit. Riparimi ruan një kopje të rekordit të dëmtuar dhe ruan projektet, sesionet dhe mjedisin Linux.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Regjistrimi i aktivitetit të riparimit</string>
+    <string name="native_6b43650c2c82" formatted="false">Detyra përfundoi papritur.</string>
+    <string name="native_acb0c970aaa6">Terminalet %1$s nuk u mbyllën normalisht. Komandat e tyre të drejtimit u ndërprenë.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Rinisja u konfirmua. Komandat e mëparshme nuk u riprodhuan.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Projektet dhe seancat e ruajtura ruhen. Rihapni terminalet me dorë; komandat e papërfunduara nuk do të rifillojnë automatikisht.</string>
+    <string name="native_fa9669296762" formatted="false">Rinis OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Desktopi nuk do të riniset automatikisht. Niseni përsëri nga faqja e Desktopit.</string>
+    <string name="native_644f8f44251f" formatted="false">Hap skedarin</string>
+    <string name="native_9dfb5569d609" formatted="false">Ndani skedarin</string>
+    <string name="native_a4500cff3a86" formatted="false">Drejtoria e punës nuk duhet të jetë një lidhje simbolike</string>
+    <string name="native_8657d27661bd" formatted="false">Shteg i pavlefshëm i drejtorisë së punës</string>
+    <string name="native_02b702a9adff" formatted="false">Zgjidhni një skedar</string>
+    <string name="native_924874b746cc" formatted="false">Menaxhoni lidhjet simbolike në terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Emër i pavlefshëm skedari\nDrejtoria</string>
+    <string name="native_c4989dc37aab" formatted="false">nuk ekziston\nDrejtoria e destinacionit</string>
+    <string name="native_d613dba39b44" formatted="false">nuk ekziston</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Nuk mund të vendosë një dosje brenda vetes ose pasardhësve të saj</string>
+    <string name="native_c3acd5a3254c" formatted="false">Projekti përmban pajisje ose priza speciale dhe nuk mund të kopjohet</string>
+    <string name="native_6c36955b068b" formatted="false">Zgjidhni një skedar të rregullt</string>
+    <string name="native_49191d7d489f" formatted="false">Ky skedar i kalon 2 MB. Ndryshoni atë me OpenCode ose terminal.\nSkedari</string>
+    <string name="native_ee42414d36c2" formatted="false">është shumë i madh</string>
+    <string name="native_f0a979f87157" formatted="false">Eksporto skedarë binare për t\'i hapur ato në një aplikacion tjetër</string>
+    <string name="native_88a9c82651fc" formatted="false">Redakto skedarët që nuk janë UTF-8 me OpenCode ose terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Një mjet tjetër e ndryshoi këtë skedar. Rihape atë përpara se ta modifikosh.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Drejtoria origjinale nuk ekziston më. Rivendosni së pari.</string>
+    <string name="native_46eae321049e" formatted="false">Nuk disponohet asnjë aplikacion për ndarje</string>
+    <string name="native_87d699d3a26c" formatted="false">Plehra\nSkedarët e projektit</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Skedarët e projektit</string>
+    <string name="native_4dcf914f0b64" formatted="false">Skedarët e fshirë mund të rikthehen në drejtoritë e tyre origjinale</string>
+    <string name="native_c5b81b02354f" formatted="false">Mbrapa</string>
+    <string name="native_e56b99379169">Skedarët e kopjuar %1$s · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Po kopjohet…</string>
+    <string name="native_85199bb36b04" formatted="false">Anuloni funksionimin</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Mbylle</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Sesion i ri</string>
+    <string name="native_23c250cc8e0b" formatted="false">Filloni një sesion OpenCode këtu\nTerminali</string>
+    <string name="native_f22da21fd54f" formatted="false">Terminali</string>
+    <string name="native_3645f30b3412" formatted="false">Ndryshime të paruajtura</string>
+    <string name="native_2266227605c4" formatted="false">Ruaj</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Koshi është bosh</string>
+    <string name="native_a9e739b13e52" formatted="false">Rivendos</string>
+    <string name="native_45985dc2183e" formatted="false">Lëvizja: \nKopjo</string>
+    <string name="native_31214130b5b7" formatted="false">:</string>
+    <string name="native_07e5c3158f35" formatted="false">Paste</string>
+    <string name="native_831b4e0fb574" formatted="false">E re</string>
+    <string name="native_ff65a22d7087" formatted="false">Dosje e re</string>
+    <string name="native_71faed44a86c" formatted="false">Skedar i ri</string>
+    <string name="native_8dddd460f6ae" formatted="false">Importi</string>
+    <string name="native_d85825123e60" formatted="false">Rifresko</string>
+    <string name="native_ac9d73843736" formatted="false">Kërko në këtë direktori</string>
+    <string name="native_21eef82963ee" formatted="false">Kjo direktori është bosh. Importoni skedarë ose krijoni një projekt.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Nuk ka skedarë që përputhen</string>
+    <string name="native_d674bc0f86b8" formatted="false">Veprimet e skedarit</string>
+    <string name="native_d04a47c87cc8" formatted="false">Lidhje simbolike\nDosja</string>
+    <string name="native_e0ba66f5246a" formatted="false">Dosja</string>
+    <string name="native_f170b42599e8" formatted="false">Riemërto</string>
+    <string name="native_4cdacf57ead2" formatted="false">Kopje</string>
+    <string name="native_124aa030694e" formatted="false">Zhvendos te…</string>
+    <string name="native_ac990518ed87" formatted="false">Hap terminalin këtu</string>
+    <string name="native_87bc93932d8a" formatted="false">Eksporto te skedarët e sistemit</string>
+    <string name="native_dd37f132172f" formatted="false">Zhvendosni te koshi</string>
+    <string name="native_7318746d337c" formatted="false">Të zhvendoset te koshi?</string>
+    <string name="native_2b5ee3f10a56">Mund të rivendosni \"%1$s\" nga koshi.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Lëviz</string>
+    <string name="native_4e47aaa113fc" formatted="false">Të hiqen ndryshimet e paruajtura?</string>
+    <string name="native_63b75399ef1a" formatted="false">Hiq ndryshimet</string>
+    <string name="native_d9618f7b8d25" formatted="false">Vazhdo modifikimin</string>
+    <string name="native_76ce6aef5479" formatted="false">Emri</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Mjedisi është restauruar. Rihapni hapësirën e punës.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Përfundoni fillimisht rikuperimin e funksionimit të ndërprerë në Runtime</string>
+    <string name="native_f29af06e7c99" formatted="false">Mirëmbajtja e mjedisit është në progres. Provo sërish më vonë.</string>
+    <string name="native_3bd28258feb0" formatted="false">Operacioni u anulua</string>
+    <string name="native_c508721eb3cd" formatted="false">Një skedar me këtë emër ekziston tashmë. Zgjidhni një emër tjetër.</string>
+    <string name="native_1e8274fe468a" formatted="false">Skedari nuk ekziston më. Rifresko drejtorinë.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Leja e qasjes në skedar u refuzua</string>
+    <string name="native_cd808e4c321e" formatted="false">Operacioni nuk mund të përfundojë</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Operacioni i paplotë. Kontrolloni hapësirën e disponueshme ose zgjidhni skedarët përsëri.</string>
+    <string name="native_3f9983126fd7" formatted="false">Kontrolloni statusin e fillimit të OpenCode në Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Nuk mund të hapej një terminal i ri. Kontrolloni numrin e seancave.</string>
+    <string name="native_2160fde3813a" formatted="false">Menaxhoni lidhjet simbolike në terminal. Menaxheri i skedarëve nuk ndjek lidhjet.</string>
+    <string name="native_7a844e9d4017" formatted="false">Lëvizja përfundoi</string>
+    <string name="native_573877894fcf" formatted="false">Kopjimi përfundoi</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">U zhvendos në kosh</string>
+    <string name="native_862330af933f" formatted="false">Restaurohet në drejtorinë origjinale</string>
+    <string name="native_beda23c9d52b" formatted="false">Ka ndodhur mirëmbajtja ose zëvendësimi i mjedisit. Rihapni hapësirën e punës përpara se të redaktoni.</string>
+    <string name="native_678c6953bb2b" formatted="false">i ruajtur</string>
+    <string name="native_8063159f2178" formatted="false">Nuk mund të lexohet skedari i zgjedhur</string>
+    <string name="native_4cdc2180d2ac">%1$s skedarë të importuar</string>
+    <string name="native_e98763643b93" formatted="false">Nuk mund të shkruhet në vendndodhjen e zgjedhur</string>
+    <string name="native_5afd173be7fa" formatted="false">Eksporti përfundoi\nKodi</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">dhe seancat</string>
+    <string name="native_8745ed51cadd" formatted="false">Desktop</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Hapësira grafike e punës\nSkedarët</string>
+    <string name="native_770d49c5f689" formatted="false">Skedarët</string>
+    <string name="native_6a9b6480b58f" formatted="false">Koha e ekzekutimit</string>
+    <string name="native_b561fe9204cc" formatted="false">Shërbimet dhe mjetet e zhvilluesit</string>
+    <string name="native_70850bdeeabd" formatted="false">Mbyll menynë e faqes</string>
+    <string name="native_b4549acb48e8" formatted="false">Hapësira e punës</string>
+    <string name="native_3d3551f4660f">Opaciteti i butonit lundrues %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Vlerat më të ulëta e bëjnë butonin lundrues më transparent</string>
+    <string name="native_e031beabfc9a" formatted="false">Hap menynë e faqeve</string>
+    <string name="native_106ee775b538" formatted="false">Po lidhet me OpenCode lokale…</string>
+    <string name="native_a021adc1f449" formatted="false">Lidhja lokale ka nevojë për rikuperim</string>
+    <string name="native_dacb8837471c" formatted="false">Rilidheni</string>
+    <string name="native_17584aa60ae6" formatted="false">Nuk mund të përgatitej memoria e memories lokale e burimeve</string>
+    <string name="native_3b3b80064ccb" formatted="false">Po përgatit OpenCode lokale…</string>
+    <string name="native_2560ee8fdd16" formatted="false">Provo sërish\nVendndodhja e hapësirës së punës</string>
+    <string name="native_b07809340403" formatted="false">nuk është ruajtur ende. Provo sërish më vonë.</string>
+    <string name="native_e4ab10392d05" formatted="false">Shërbimi lokal po bëhet gati. Hapësira juaj e punës do të hapet automatikisht pasi të lidhet.</string>
+    <string name="native_20ea15973287" formatted="false">Ekzekutimi i mëparshëm u ndërpre. Rinisni nga Runtime; komandat e terminalit nuk do të rishikohen automatikisht.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Nisni OpenCode nga Runtime për të hapur kodin dhe seancat.</string>
+    <string name="native_abbac5c22111" formatted="false">Të dalësh nga aplikacioni?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Mjedisi i zhvillimit mund të vazhdojë të funksionojë në sfond. Kthehu më vonë nga njoftimi.</string>
+    <string name="native_814a8fb24b62" formatted="false">Të dilni nga hapësira aktuale e punës?</string>
+    <string name="native_a76464945c2d" formatted="false">Ndaloni gjithashtu mjedisin e zhvillimit</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Dil</string>
+    <string name="native_b00143b08ff1" formatted="false">Stacioni i punës për zhvillim gati</string>
+    <string name="native_51bca456a350" formatted="false">Stacioni juaj i punës për zhvillimin e Debian</string>
+    <string name="native_0c2acd0b6057" formatted="false">Vrapon</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Nisja</string>
+    <string name="native_44da7f6a451d" formatted="false">Ndalimi</string>
+    <string name="native_b7e1503a7239" formatted="false">Mjedisi i zhvillimit të riparimit</string>
+    <string name="native_7c91bd67ff14" formatted="false">Instaloni mjedisin e zhvillimit</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop mjedis</string>
+    <string name="native_e7ec95694dce" formatted="false">Filloni OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Kontrolloni mjedisin</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Përditësoni mjetet e zhvilluesve të Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Rezervimi i mjedisit të mëparshëm, projektet dhe të dhënat e sesionit ruhen.</string>
+    <string name="native_eb3114155716" formatted="false">Instaloni / përditësoni serverët e gjuhës</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) dhe Python (pylsp), të instaluara në internet nga depot e nënshkruara të Debian. Së pari ndaloni OpenCode dhe desktopin.</string>
+    <string name="native_2c7251cce661" formatted="false">Prekni butonin lundrues për të ndërruar faqet. Zvarriteni për ta ripozicionuar.\nInformacioni i</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime shfaqet këtu pas nisjes.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Koha e hapur e funksionimit</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">versioni APK i paketuar\nPërditësimet e</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Importoni një .ocaupdate të nënshkruar nga botuesi i këtij aplikacioni. Përditësimi zyrtar i pjesës së përparme dhe pjesës së pasme së bashku.\nBurimi i përditësimit</string>
+    <string name="native_8aad48b0508d" formatted="false">(HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Kontrolloni burimin e përditësimit</string>
+    <string name="native_f73973cfadbb">Publikimi i nënshkruar: %1$s\nAngazhimi: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Shkarkoni dhe verifikoni</string>
+    <string name="native_f2ef7965bf12" formatted="false">Zgjidhni paketën e përditësimit</string>
+    <string name="native_165111adfe2c">Gati për instalim: %1$s\nAngazhimi: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Instaloni këtë përditësim</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Rikthe versionin dhe seancat nga përpara përditësimit</string>
+    <string name="native_6864335de653" formatted="false">Anulo përditësimin</string>
+    <string name="native_5e3472cf084e" formatted="false">Të instalohet përditësimi i OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Të rivendoset gjendja para përditësimit?</string>
+    <string name="native_11beb4a42abc">Instalo %1$s. Aplikacioni ruan një fotografi të sesionit, kontrollon programin e nënshkruar dhe rikthen versionin e mëparshëm nëse dështon. Dosjet e projektit ruhen.\nSesionet</string>
+    <string name="native_bc7b4149e7d2" formatted="false">kthehen në gjendjen e tyre përpara këtij përditësimi. Sesionet më të fundit mbeten në një rezervë private. Dosjet e projektit ruhen.</string>
+    <string name="native_def5e273616d" formatted="false">Konfirmo instalimin</string>
+    <string name="native_369d2eefccde" formatted="false">Nuk mundi të izolonte të dhënat e shikimit paraprak të shfletuesit. Rihap pamjen paraprake.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Faqja e projektit nuk mund të ngarkohej. Kontrolloni serverin e zhvillimit në terminalin tuaj.</string>
+    <string name="native_6e7408950cf5" formatted="false">Shikoni paraprakisht faqen e internetit të projektit\nVështrim paraprak i projektit</string>
+    <string name="native_bfb4951e071d" formatted="false">Pamja paraprake e projektit</string>
+    <string name="native_f80652913d06" formatted="false">Nisni një server zhvillimi në terminal dhe më pas futni portin e tij lokal. Të dhënat e paraafishimit të shfletuesit janë të izoluara nga OpenCode.</string>
+    <string name="native_2c41e85af61f" formatted="false">Port</string>
+    <string name="native_77c3a828a5c5" formatted="false">Futni një port zhvillimi nga 1024 në 65535, duke përjashtuar shërbimet e OpenCode dhe desktop.</string>
+    <string name="native_7311a9dfea51" formatted="false">Asgjë nuk po dëgjon në këtë portë. Kontrolloni shërbimin në terminalin tuaj.</string>
+    <string name="native_4f8d84105475" formatted="false">Po kontrollon…</string>
+    <string name="native_4923c272b68e" formatted="false">Porta e zhvillimit duhet të jetë një numër i plotë</string>
+    <string name="native_04a87026e81f" formatted="false">Zgjidhni një port të vlefshëm të zhvillimit të projektit\nSesioni i zhvillimit të</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">Instalimi i mjedisit zhvillimor</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Përditësimi i Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Riparimi i mjedisit zhvillimor</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Kontrolli i mjedisit të zhvillimit\nInstalimi i serverit të gjuhës</string>
+    <string name="native_9612d4419bb6" formatted="false">Instalimi i serverit të gjuhës</string>
+    <string name="native_f72fba77f87a" formatted="false">Rimëkëmbja e mjedisit</string>
+    <string name="native_7c8162195c7c" formatted="false">Instalimi i desktopit</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Ekzekutimi i mëparshëm u ndërpre. Rinisni në mënyrë të qartë nga Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Një detyrë zhvillimi e këtij lloji është ende duke u ekzekutuar</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Riparimi i regjistrimit të aktivitetit</string>
+    <string name="native_b66749ed72ea" formatted="false">Procesi doli</string>
+    <string name="native_6b25042064e2" formatted="false">Përfundohet me sinjal</string>
+    <string name="native_d6febdf1752b" formatted="false">Rikuperuar për shkak të memories së ulët\nDëmtimi i aplikacionit</string>
+    <string name="native_1d13790f3c89" formatted="false">Dështimi i aplikacionit</string>
+    <string name="native_28db94d1850d" formatted="false">Ndërprerja e procesit origjinal\nAplikacioni</string>
+    <string name="native_86919539f7f1" formatted="false">nuk përgjigjet</string>
+    <string name="native_90fb8d6098a5" formatted="false">Inicializimi dështoi</string>
+    <string name="native_38c60ab6654c" formatted="false">Lejet ndryshuan</string>
+    <string name="native_6d2a6c71334d" formatted="false">Kufiri i burimeve</string>
+    <string name="native_19b2090b01a8" formatted="false">Përdoruesi kërkoi ndalesë</string>
+    <string name="native_120d96445f1a" formatted="false">Ndaluar nga përdoruesi</string>
+    <string name="native_3c8af14f66bc" formatted="false">Procesi i varur doli</string>
+    <string name="native_ca0941ce04ae" formatted="false">Arsye tjetër e sistemit</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Procesi i ngrirjes</string>
+    <string name="native_0d48373023a8" formatted="false">gjendja e aplikacionit ndryshoi\nPërditësimi i aplikacionit</string>
+    <string name="native_c752307db26b" formatted="false">Përditësimi i aplikacionit</string>
+    <string name="native_b5015951cbdf" formatted="false">Sistemi nuk dha një arsye daljeje</string>
+    <string name="native_b62737b826ad">Dalje nga sistemi (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Nuk mundi të hapte drejtorinë e projektit</string>
+    <string name="native_faf5d983c13e" formatted="false">Nuk mundi të krijonte një sesion OpenCode\nDrejtoria e sesioneve</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode nuk përputhet</string>
+    <string name="native_ac19736908a2" formatted="false">Nuk mund të lexohej sesioni OpenCode\nPërditësimi i</string>
+    <string name="native_2642997cfeec" formatted="false">Mirëmbajtja e mjedisit</string>
+    <string name="native_f992d735d932" formatted="false">Ndalo OpenCode, terminalet dhe desktopin Debian, më pas prit që operacionet e skedarëve të përfundojnë</string>
+    <string name="native_489f137f1080" formatted="false">Bllokimi i mirëmbajtjes së mjedisit nuk është më i vlefshëm</string>
+    <string name="native_42380e2567fc" formatted="false">U rikuperua operacioni i ndërprerë. Rihapni hapësirën e punës.</string>
+    <string name="native_17b00cac2b91" formatted="false">Rikuperimi i lidhjes lokale dështoi. Riprovoni nga Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Mirëmbajtja e mjedisit është në progres. Provo sërish më vonë.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Ndaloni desktopin Debian përpara se të përditësoni mjedisin e zhvillimit</string>
+    <string name="native_548085b144c9" formatted="false">U rikuperua operacioni i ndërprerë. Ju mund të filloni mjedisin e zhvillimit.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Ekzekutimi i mëparshëm u ndërpre. Komandat e terminalit nuk do të riprodhohen automatikisht. Rinisni në mënyrë të qartë nga Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Pastrimi i përkohshëm i konfigurimit të lidhjes nuk është i plotë. Procesi i pastrimit vazhdoi.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Nuk mund të krijohej hapësira e punës helloworld. Kontrolloni drejtorinë dhe hapësirën e disponueshme.</string>
+    <string name="native_68301868225a" formatted="false">Drejtoria e mëparshme e hapësirës së punës nuk është e disponueshme. U hap helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Projekti i paracaktuar nuk është ende gati. Provo sërish nga Files.</string>
+    <string name="native_45d6ab452622" formatted="false">Instaloni serverët e gjuhës\nServerët e gjuhës</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ dhe Python janë gati. Filloni OpenCode për të përdorur LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Regjistri i aktivitetit të terminalit nuk u ruajt. Krijoni një terminal të ri pas përfundimit të procesit.</string>
+    <string name="native_1978b311a9ff" formatted="false">Ruajtja e rekordit të daljes nga terminali nuk mund të përfundonte.\nShkarkimi i përditësimit të</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Po lidhet me burimin e përditësimit…</string>
+    <string name="native_8c39baf28e08" formatted="false">Nuk mund të lidhet me burimin e përditësimit. Kontrolloni rrjetin, nënshkrimin e botuesit, versionin e hostit dhe hapësirën e lirë.</string>
+    <string name="native_0bedbc8d185d" formatted="false">mbaroi koha e shkarkimit</string>
+    <string name="native_f75850093535">Po shkarkohet: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Po verifikon nënshkrimin e botuesit…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Po shkarkon paketën e përditësimit…</string>
+    <string name="native_2f9cd52dc66a">Nënshkrimi i vlefshëm i botuesit: %1$s. Rishikoni përpara se të shkarkoni.</string>
+    <string name="native_17548865632c" formatted="false">Shkarkimi, lëshimi i meta të dhënave dhe nënshkrimi i paketës u verifikua. Konfirmo instalimin.</string>
+    <string name="native_180cec958e7a" formatted="false">Shkarkimi u anulua. Versioni origjinal është ruajtur.</string>
+    <string name="native_8df045f8ac12" formatted="false">Shkarkimi u ndal. Versioni origjinal është ruajtur.</string>
+    <string name="native_778803f1c6bb" formatted="false">Anulo shkarkimin</string>
+    <string name="native_2958898ce6f4" formatted="false">Versioni i ri dështoi në fillimin lokal, kontrollet e versionit ose të vërtetimit. Versioni i mëparshëm do të rikthehet.</string>
+    <string name="native_cc876dfbb261" formatted="false">Procesi i provës është ende në përfundim. Prisni për rikuperim përpara se të provoni përsëri.</string>
+    <string name="native_adf977dcb47e" formatted="false">Identifikues i pavlefshëm i regjistrimit të përditësimit</string>
+    <string name="native_5207cac670b7" formatted="false">Madhësia e instaluar e pavarur e OpenCode nuk përputhet</string>
+    <string name="native_cf5b81887589" formatted="false">Shuma e kontrollit të pavarur të OpenCode të instaluar nuk përputhet. Rivendosni versionin e mëparshëm.</string>
+    <string name="native_393049b506cc" formatted="false">Programi origjinal nuk ka prova të botuesit që përputhen. Gjendja e mëparshme e pandryshuar.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Rikuperoni së pari përditësimin e mëparshëm të ndërprerë</string>
+    <string name="native_91d8da5525fa" formatted="false">Paketa e përditësimit ndryshoi pas konfirmimit</string>
+    <string name="native_093f2c091a30" formatted="false">Memorie e pamjaftueshme. Versioni origjinal i pandryshuar.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Nuk disponohet asnjë kopje rezervë e përditësimeve për t\'u rivendosur</string>
+    <string name="native_a9f4d9903c14" formatted="false">Rezervimi nuk përputhet me versionin e ekzekutimit</string>
+    <string name="native_6caa23763a42" formatted="false">Verifikimi i programit të mëparshëm dështoi. Seancat aktuale të pandryshuara.</string>
+    <string name="native_c8b71b876695" formatted="false">Një përditësim i mëvonshëm APK ose Debian zëvendësoi programin e bashkuar. Rezervimi origjinal i sesionit ruhet; rivendosni fillimisht programin përkatës.</string>
+    <string name="native_c443df40964b" formatted="false">Operacion i pavlefshëm i rikuperimit të përditësimit</string>
+    <string name="native_9071f05d58b3" formatted="false">Po përgatit përditësimin e OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">Ndalo OpenCode, terminalet dhe desktopin, më pas prit që të dalin.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Ruajtja e gjendjes, verifikimi i programeve dhe ndërrimi i versioneve</string>
+    <string name="native_5fc065ef6f50" formatted="false">Nuk mund të niste shërbimin e mirëmbajtjes së përditësimeve.</string>
+    <string name="native_f7b560c8c820" formatted="false">Verifikimi dhe vënia në skenë e programit zyrtar…</string>
+    <string name="native_9606191c82dc" formatted="false">Ruajtja e programit origjinal dhe nënshkrimi i botuesit…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Po ruan pamjen e gjendjes së sesionit…</string>
+    <string name="native_0c8cf4632889" formatted="false">Ndërrimi i versioneve dhe verifikimi i shërbimit lokal…</string>
+    <string name="native_3e81ea691a4a" formatted="false">Rivendosja e versionit dhe seancave nga përpara përditësimit…</string>
+    <string name="native_856de41d3bf3" formatted="false">Rivendos OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Po përditëson OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Rivendos versionin dhe seancat e mëparshme. Sesionet më të fundit mbeten në një rezervë private.\nPërditësimi i kodit të hapur</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode përfundoi. Fillimi do të përdorë pjesën e përparme zyrtare dhe fundin e përputhshëm.</string>
+    <string name="native_4693930f5802" formatted="false">Përditësimi u anulua. Duke konfirmuar që gjendja origjinale është rivendosur.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Përditësimi nuk është i plotë. Duke u rikuperuar tani; Programi origjinal dhe kopjet rezervë të sesioneve ruhen.\nRikuperimi</string>
+    <string name="native_9a32d6c2d207" formatted="false">nuk është i plotë. Të gjitha drejtoritë shtetërore ruhen. Mbani të dhënat tuaja dhe provoni rifillimin për t\'i rikuperuar.\nRikuperimi i sesionit</string>
+    <string name="native_49ad3eeae83d" formatted="false">përfundoi. Gjendja më e fundit mbetet në një kopje rezervë.\nRimëkëmbja</string>
+    <string name="native_67c08a2911e1" formatted="false">nuk mund të vazhdonte me këtë program rezervë ose origjinal. Seancat aktuale dhe kopjet rezervë të pandryshuara.</string>
+    <string name="native_976d8c169cfa" formatted="false">Përditësimi u anulua ose dështoi. Versioni origjinal dhe seancat u restauruan.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Po verifikon nënshkrimin dhe integritetin e paketës së përditësimit…</string>
+    <string name="native_0aa018b7337b" formatted="false">Nuk mund të lexohet skedari i zgjedhur\nPaketa e përditësimit</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">është shumë e madhe</string>
+    <string name="native_f068b83f40bf" formatted="false">Nënshkrimi dhe paketa e verifikuar. Rishikoni versionin përpara se ta instaloni.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Nuk mund të importojë: skedar i pavlefshëm, mospërputhje nënshkrimi, version i papajtueshëm i hostit ose ruajtje e pamjaftueshme.</string>
+    <string name="native_616412e65df4" formatted="false">Programi zyrtar nuk përputhet me provat e botuesit të tij</string>
+    <string name="native_4bf19a158f27" formatted="false">Paketat e pavarura të funksionimit mbështesin vetëm ARM64</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Nënshkrimi i përditësimit nuk i përket kësaj APK</string>
+    <string name="native_c7273354727f" formatted="false">Skedari i përditësimit tejkalon madhësinë e tij të deklaruar</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Shuma e kontrollit të programit të përditësimit nuk përputhet</string>
+    <string name="native_dd619076d456" formatted="false">Madhësi e pavlefshme e paketës së përditësimit</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Madhësia e paketës së përditësimit të ngjeshur nuk përputhet</string>
+    <string name="native_1de24edffcf5" formatted="false">Paketa e përditësimit përmban hyrje shtesë</string>
+    <string name="native_c5b339aa77e8" formatted="false">Origjina ose arkitektura e përditësuar e papajtueshme</string>
+    <string name="native_89d585f3661f" formatted="false">Përmirësoni aplikacionin Android përpara se të instaloni këtë përditësim</string>
+    <string name="native_800df084dea0" formatted="false">Shuma e kontrollit të arkivit të përditësimit nuk përputhet</string>
+    <string name="native_ddf1a005e310" formatted="false">Ky format nënshkrimi APK nuk mbështet përditësime të pavarura të kohës së ekzekutimit</string>
+    <string name="native_172e063db474" formatted="false">Regjistrim i pavlefshëm i paketës së përditësimit</string>
+    <string name="native_1c08780aa99f" formatted="false">Të dhënat meta të përditësimit duhet të përdorin numra të plotë</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Programi i përditësimit nuk është një Linux ELF 64-bit</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Programi i përditësimit nuk plotëson shtrirjen ELF 16 KiB</string>
+    <string name="native_3afa3741911b" formatted="false">Programit të përditësimit i mungon ngarkuesi i Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Futni një burim të vlefshëm përditësimi HTTPS\nBurimet e përditësimit</string>
+    <string name="native_c274c7dd5900" formatted="false">kërkojnë URL HTTPS pa kredencialet e përdoruesit</string>
+    <string name="native_f459f5ec9dac" formatted="false">Fushë e pavlefshme e burimit të përditësimit</string>
+    <string name="native_bde2a736e30a" formatted="false">Përmirësoni së pari hostin e Android</string>
+    <string name="native_b980fd021bef" formatted="false">Drejtoria e përditësimit të pavlefshme</string>
+    <string name="native_c0e96727553e" formatted="false">Skedar përditësimi i pavlefshëm</string>
+    <string name="native_86ff542c68ed" formatted="false">Nuk mund të ndërrohet drejtoritë e përditësimeve në këtë gjendje</string>
+    <string name="native_fbf82dc7ef22" formatted="false">i referohet një drejtorie të jashtme. Përditësimi nuk mund të testohet në mënyrë të sigurt.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Memorie e pamjaftueshme. Gjendja origjinale e pandryshuar.</string>
+    <string name="native_099801d672b1" formatted="false">Shkarkimi u anulua</string>
+    <string name="native_f1304f707ec9" formatted="false">Shumë ridrejtime të përditësimeve</string>
+    <string name="native_0d07f458b607" formatted="false">Serveri i përditësimit nuk i transferoi bajtet origjinale</string>
+    <string name="native_de331dfd8908" formatted="false">Gjatësia e skedarit të përditësimit nuk përputhet</string>
+    <string name="native_416b8c87e69e" formatted="false">Skedari i përditësimit nuk u shkarkua plotësisht</string>
+    <string name="native_e1e74b76c427" formatted="false">Serveri i përditësimit nuk e ktheu skedarin e plotë</string>
+    <string name="native_6afcf03cb130" formatted="false">Hapësirë e pamjaftueshme e organizimit të përditësimit\nSkedari i përditësimit</string>
+    <string name="native_be1c695d9241" formatted="false">SHA-256 nuk përputhet</string>
+    <string name="native_a0133d117bb0" formatted="false">Paketa e përditësimit nuk përputhet me informacionin e konfirmuar të lëshimit</string>
+    <string name="native_8635a43ce28a" formatted="false">Drejtoria e projektit e pavlefshme</string>
+    <string name="native_d32ab8b004e6" formatted="false">Vendndodhja e hapësirës së punës nuk mund të ruhej</string>
+    <string name="native_43a5447014fd" formatted="false">Nisni mjedisin e zhvillimit nga Runtime përpara se të hapni një terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Terminali i ri</string>
+    <string name="native_b3b7108a568f" formatted="false">Mbyll rrymën</string>
+    <string name="native_0e822affd5da">Drejtoria fillestare: %1$s</string>
+    <string name="native_72d769e3888d">Drejtoria e re e terminalit: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Zgjedhësi i skedarëve të sistemit nuk është i disponueshëm\nCilësimet e interpretimit të</string>
+    <string name="native_179a57921f91" formatted="false">WebView</string>
+    <string name="native_3024ec603eb7" formatted="false">Shpejtësia e kuadrove të interpretimit</string>
+    <string name="native_55b6d7f645f3" formatted="false">Preferoni 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Ndiqni shpejtësinë e rifreskimit të ekranit</string>
+    <string name="native_d4ecf38c341d" formatted="false">Preferoni 60 Hz për të reduktuar ngarkesën e interpretimit në ekranet me shpejtësi të lartë rifreskimi. Ndjekja e ekranit lejon që sistemi të planifikojë kornizat. Zbatohet vetëm për dritaren e këtij aplikacioni.</string>
+    <string name="native_bf0d3a407418" formatted="false">Nuk është instaluar</string>
+    <string name="native_2fb8edc75b25" formatted="false">Gati</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Ngarkuesi verifikues</string>
+    <string name="native_d1017c1eac80" formatted="false">Instalimi i Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Mjedisi i zhvillimit lokal</string>
+    <string name="native_55aa84065de2" formatted="false">Sesioni i zhvillimit lokal të Debian-it</string>
+    <string name="native_6e75b1822ebc" formatted="false">Ndaloni</string>
+    <string name="native_5f73a4e1e494" formatted="false">i instaluar</string>
+    <string name="native_147e90d2ec02" formatted="false">Rikuperimi</string>
+</resources>

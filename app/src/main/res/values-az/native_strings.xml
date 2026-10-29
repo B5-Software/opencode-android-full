@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">İnkişaf iş sahəsi</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Masaüstü</string>
+    <string name="native_7f1c02616d60" formatted="false">Tək səhifə</string>
+    <string name="native_651ae6ea52ae" formatted="false">Ayrılmış görünüşü bərpa edin</string>
+    <string name="native_d7e97cfac66f" formatted="false">İş sahəsinin tərtibatı</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Çox panelləri birlikdə görmək üçün pəncərəni genişləndirin.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Layihə fayllarını göstərin</string>
+    <string name="native_712d956931d1" formatted="false">Terminalı göstərin\nAşağıda</string>
+    <string name="native_073cc20d9ed9" formatted="false">Terminalı</string>
+    <string name="native_5de225480fa7" formatted="false">Terminal sağda</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Yer məhdud olduqda panellər dağılır və üzən menyudan əlçatan qalır. Yan terminal daha geniş pəncərələrdə görünür. Panellərin ölçüsünü dəyişmək üçün ayırıcıları dartın.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Sol Alt: 1–5 Səhifə · B Fayllar · T Terminal · M Masaüstü · Tək/Bölünmüş daxil edin · \\\\ Düzəldici</string>
+    <string name="native_7a129a94c6ff" formatted="false">Hazırdır</string>
+    <string name="native_bcec2218fc21" formatted="false">Proporsiyaları sıfırlayın</string>
+    <string name="native_da88c62d1217">%1$s-ı bir səhifədə göstərin</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Layihə fayl bölücü</string>
+    <string name="native_707c0891a0e6" formatted="false">Terminal bölücü</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode və masa üstü bölücü</string>
+    <string name="native_50407ad8dfa8" formatted="false">Əvvəlki paneli kiçil</string>
+    <string name="native_b72c5c02a666" formatted="false">Əvvəlki paneli böyüt</string>
+    <string name="native_3f3685e8d731" formatted="false">Bu arxiv formatı üçün çoxlu PRoot keçidləri</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux sərt keçidləri tam rootfs tələb edir</string>
+    <string name="native_f336f1e17596" formatted="false">Yedək kataloqunun yerləşdirilməsi çox dərindir</string>
+    <string name="native_b6f744737a45" formatted="false">Yanlış ehtiyat parol uzunluğu</string>
+    <string name="native_13bde5dd1812" formatted="false">Yedək parol ən azı 12 simvoldan ibarət olmalıdır</string>
+    <string name="native_be02cbd55932" formatted="false">Dəstəklənməyən ehtiyat nüsxə formatı</string>
+    <string name="native_7a91a3d586ae" formatted="false">Etibarsız ehtiyat başlığı</string>
+    <string name="native_2bbd318a5667" formatted="false">Dəstəklənməyən ehtiyat şifrələmə parametrləri</string>
+    <string name="native_18868da27841" formatted="false">Yanlış ehtiyat parolu və ya zədələnmiş fayl</string>
+    <string name="native_e41d6440468d" formatted="false">Bərpa rekordu çox böyükdür</string>
+    <string name="native_282692502f14" formatted="false">Yedək metadata çox böyükdür</string>
+    <string name="native_61fdca8d6c82" formatted="false">Yedək metadata yuvası çox dərindir</string>
+    <string name="native_8cefb30732d4" formatted="false">Etibarsız ehtiyat metadata</string>
+    <string name="native_5d3037708cad" formatted="false">Dəstəklənməyən yerli parametrlər</string>
+    <string name="native_81a57c382f9d" formatted="false">Doğma parametrləri saxlamaq mümkün olmadı</string>
+    <string name="native_50603e683d4a" formatted="false">Ehtiyat yolunda etibarsız əsas kataloq</string>
+    <string name="native_c3f838a46b8e" formatted="false">İş stansiyasının kökü simvolik keçid olmamalıdır</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Yedəkləmə zamanı fayl dəyişdirildi</string>
+    <string name="native_77e1e85147db" formatted="false">Dəstəklənməyən iş stansiyası məlumat formatı</string>
+    <string name="native_a927b5a565af" formatted="false">Yedək əlavə məlumat ehtiva edir</string>
+    <string name="native_c2b886d508f2" formatted="false">Yedəkdə dublikat yollar var</string>
+    <string name="native_3dab8cd60102" formatted="false">Ehtiyat nüsxə köçürülə bilməyən icra vaxtı parametrlərini ehtiva edir</string>
+    <string name="native_f45ba674a630" formatted="false">Yedək çox böyükdür və ya yaddaş kifayət deyil</string>
+    <string name="native_140073e8e77b" formatted="false">Simvolik keçid vaxt ştamplarını bərpa etmək mümkün olmadı</string>
+    <string name="native_b0d411aaf62c" formatted="false">Adlandırılmış boru vaxt damğalarını bərpa etmək mümkün olmadı</string>
+    <string name="native_0daee8026db1" formatted="false">İş Stansiyasının ehtiyat nüsxəsi və bərpası</string>
+    <string name="native_1acc18928c5f" formatted="false">Debian, tərtibatçı alətləri, layihələr, ev, OpenCode seansları və parametrləri, Linux brauzer məlumatları və yerli tərtibat parametrləri daxildir.</string>
+    <string name="native_62254d31a535" formatted="false">Müvəqqəti fayllar və köhnə ehtiyat nüsxələr xaric edilir. Android WebView yaddaşı və göndərilməmiş qaralamalar bu cihazda qalır və bu yedəkləmə ilə ötürülmür.</string>
+    <string name="native_808eabc7811f" formatted="false">Şifrələnmiş ehtiyat nüsxəsini yaradın</string>
+    <string name="native_201c10b38296" formatted="false">İdxal ehtiyat nüsxəsi</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Dəyişikliklərinizi əvvəlcə fayl redaktorunda saxlayın.</string>
+    <string name="native_0559cd596453" formatted="false">OpenCode, terminallar və iş masasını dayandırın</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Ətraf əməliyyatı natamamdır. Əvvəlcə onu bərpa edin.</string>
+    <string name="native_185f58156330" formatted="false">Natamam əməliyyatı bərpa edin</string>
+    <string name="native_20831b6f67a7" formatted="false">Son mühit bərpasını geri qaytarın</string>
+    <string name="native_4f392d5d6141">Şifrələnmiş yerli nüsxə: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Faylda saxla</string>
+    <string name="native_f09619351eb9" formatted="false">Yerli nüsxəni silin</string>
+    <string name="native_85c686eb9841">İşlənmiş %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Yedəkləmə tapşırığını ləğv edin</string>
+    <string name="native_66c9d896407b" formatted="false">İş stansiyasının ehtiyat nüsxəsini şifrələyin</string>
+    <string name="native_548cd9f0831e" formatted="false">Şifrəni açın və ehtiyat nüsxəsini yoxlayın</string>
+    <string name="native_d248f5eca9a5" formatted="false">Yedəkləmələr SSH şəxsi açarlarını, API açarlarını və hesab məlumatlarını ehtiva edə bilər. Ən azı 12 simvol istifadə edin. Unudulmuş parol bərpa edilə bilməz.</string>
+    <string name="native_f249422b9ec1" formatted="false">Ehtiyat nüsxənin şifrəsi deşifrə olunub və şəxsi kataloqda yoxlanılıb. Ətrafınız yalnız bərpanı təsdiqlədikdən sonra dəyişdirilir.</string>
+    <string name="native_e7be6841703a" formatted="false">Yedək parol</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Şifrəni təkrarlayın</string>
+    <string name="native_eafdc5cd4882" formatted="false">Şifrələməyə başlayın</string>
+    <string name="native_2986b88beade" formatted="false">Şifrəni açın və yoxlayın</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Ləğv et</string>
+    <string name="native_f46c5ed7412d" formatted="false">Bütün əvvəlki mühit bərpa edilsin?</string>
+    <string name="native_33eda0946a5b" formatted="false">Şifrələnmiş yerli nüsxə silinsin?</string>
+    <string name="native_26db24150f2e" formatted="false">Layihələr, ev, Debian və sessiyalar son bərpadan əvvəl öz vəziyyətinə qayıdacaq. Ən son iş proqram daxilində şəxsi yedəkləmədə qalacaq.</string>
+    <string name="native_1153b30d51d5" formatted="false">Yalnız proqram daxilində şifrələnmiş yerli nüsxə silinir. Başqa yerdə saxlanılan fayllar əlçatan qalır.</string>
+    <string name="native_427a78a4e69a" formatted="false">Təsdiq edin</string>
+    <string name="native_7af46d7ee003" formatted="false">Bu iş stansiyasının ehtiyat nüsxəsi bərpa edilsin?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s qeydləri · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Yedəkdə icra edilə bilən Linux proqram təminatı var. Mənbəsinə etibar etdiyinizi təsdiqləyin. Bərpa bütün ətraf mühiti əvəz edir və yerli xidmətləri yoxlayır; əvvəlki mühit bərpa üçün saxlanılır.</string>
+    <string name="native_c3d74ed0c054" formatted="false">Yedəkləmə təsdiqləndi. Bərpa təsdiqlənməsi gözlənilir.</string>
+    <string name="native_97076078c749" formatted="false">Həmçinin Chromium uyğunluq rejimini aktivləşdirin (Linux prosesinin sandboxunu deaktiv edir)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Defolt olaraq söndürülür. Onu daha sonra masa üstü parametrlərində aktivləşdirə bilərsiniz.</string>
+    <string name="native_ddf09383413c" formatted="false">Bərpanı təsdiqləyin</string>
+    <string name="native_8e6056b0f629" formatted="false">İdxalı ləğv edin</string>
+    <string name="native_63a895901c76" formatted="false">Workstation mühiti dəyişdirildi</string>
+    <string name="native_a4c994348a39" formatted="false">İş yerini yenidən açın</string>
+    <string name="native_774947f0653e" formatted="false">Tapşırığı ləğv edin</string>
+    <string name="native_e09a22b18445" formatted="false">Tapşırıq dayandırıldı. Yenidən əməliyyat seçin və parolu daxil edin.</string>
+    <string name="native_38c5fcc634db" formatted="false">Əvvəlcə fayl redaktələrini bütün pəncərələrdə saxlayın. Yenidən cəhd etməzdən əvvəl mövcud idxalı ləğv edin.</string>
+    <string name="native_029bfa8ff772" formatted="false">İş stansiyasının bərpası və proqramların yoxlanması</string>
+    <string name="native_e4f04df818f8" formatted="false">Seçdiyiniz ehtiyat əməliyyatı emal edilir</string>
+    <string name="native_8206f072d5ee" formatted="false">OpenCode-u, terminalları və iş masasını dayandırın, sonra fayl əməliyyatlarının bitməsini gözləyin.</string>
+    <string name="native_1a5cde18c609" formatted="false">Yedəkləmə tapşırığını başlatmaq mümkün olmadı. Ön planda olan proqramla yenidən cəhd edin.</string>
+    <string name="native_1553b714941d" formatted="false">Şifrənin açılması və ehtiyat nüsxənin yoxlanması. Orijinal mühit bərpa edilə bilən olaraq qalır...</string>
+    <string name="native_dafd005e953e" formatted="false">Yedəkləmə təsdiqləndi. Proqramda bərpanı təsdiqləyin.</string>
+    <string name="native_9fb236184596" formatted="false">Proqram daxilində şifrələnmiş yerli nüsxə silindi.</string>
+    <string name="native_f98e9ac348b6" formatted="false">Əməliyyat ləğv edildi. Orijinal mühit məlumatları saxlanılır.</string>
+    <string name="native_2a7a367ee0d2" formatted="false">Əməliyyat natamamdır. Şifrəni, ehtiyat nüsxəsinin bütövlüyünü, host versiyasını və boş yeri yoxlayın. Orijinal mühit məlumatları saxlanılır.</string>
+    <string name="native_29deabd28960" formatted="false">Şifrələnmiş iş stansiyasının ehtiyat nüsxəsi yaradılır...</string>
+    <string name="native_3d137e243806" formatted="false">Şifrələnmiş ehtiyat nüsxəsi yaradıldı. Harada saxlanacağını seçin.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Ətraf mühitin bərpası və yerli xidmətlərin yoxlanılması. Tətbiq datasını toxunulmaz saxlayın...</string>
+    <string name="native_840a6a8bf2e6" formatted="false">İş Stansiyası bərpa edildi. Əvvəlki mühit şəxsi ehtiyat nüsxəsində qalır. İş yerini yenidən açın.</string>
+    <string name="native_0392cd6152d2" formatted="false">Bərpa yoxlamaları uğursuz oldu. Əvvəlki mühitə qayıtmaq; idxal edilmiş məlumatlar şəxsi ehtiyat nüsxəsində qalır.</string>
+    <string name="native_5dc7410b600e" formatted="false">Bərpa tamamlanmayıb. Bütün məlumat qovluqları saxlanılır. Proqram məlumatlarını saxlayın və bərpa etməyə yenidən cəhd edin.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Əvvəlki iş stansiyası mühiti bərpa olunur...</string>
+    <string name="native_15821323ff89" formatted="false">Əvvəlki mühit bərpa edildi. Ən son iş şəxsi ehtiyat nüsxədə qalır. İş yerini yenidən açın.</string>
+    <string name="native_56dd94f47870" formatted="false">Bu bərpanı geri qaytarmaq mümkün deyil. Cari mühit və ehtiyat nüsxələri saxlanılır.</string>
+    <string name="native_93530f3fa029" formatted="false">Geri qaytarma tamamlanmayıb. Bütün məlumat qovluqları saxlanılır. Proqram məlumatlarını saxlayın və bərpa etməyə yenidən cəhd edin.</string>
+    <string name="native_f12963c80def" formatted="false">Şifrələnmiş yedəkləmə yadda saxlanılır...</string>
+    <string name="native_0c1c02e2deb6" formatted="false">Şifrələnmiş ehtiyat nüsxəsi saxlanıldı. Siz yerli nüsxəni yenidən saxlaya və ya əl ilə silə bilərsiniz.</string>
+    <string name="native_d660cccf65e0" formatted="false">Təsdiqlənməmiş idxal təmizlənir...</string>
+    <string name="native_800592163979" formatted="false">İdxal ləğv edildi. Orijinal mühit dəyişməz.</string>
+    <string name="native_5a90367eb834" formatted="false">İdxal ləğv edildi. Orijinal mühit dəyişməz; bəzi müvəqqəti idxal məlumatları tətbiqin şəxsi kataloqunda qalır.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Şifrənin açılması və doğrulanması hazırlanır...</string>
+    <string name="native_e9f2bea3118c" formatted="false">Şifrələnmiş yedəkləmə hazırlanır...</string>
+    <string name="native_7bd5a0c93818" formatted="false">Yedəkləmə xidmətini başlatmaq mümkün olmadı. Ön planda yenidən cəhd edin.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Əvvəlcə natamam mühit əməliyyatını bərpa edin</string>
+    <string name="native_f14aea7c819c" formatted="false">Yanlış bərpa qeydi</string>
+    <string name="native_7c284c55ee08" formatted="false">Bərpa kataloqu çatışmır</string>
+    <string name="native_bfc4792df15b" formatted="false">Yerli parametrlər bərpa rekordu limitini keçir</string>
+    <string name="native_8d93770ba8c9">Əvvəlki mühit kataloqu yoxdur: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Naməlum bərpa mərhələsi</string>
+    <string name="native_20c5124fe175" formatted="false">Naməlum bərpa əməliyyatı</string>
+    <string name="native_1c457322b624" formatted="false">Bərpa etmək üçün əvvəlki mühit yoxdur</string>
+    <string name="native_30db1666c8e5" formatted="false">Bu ehtiyat nüsxə başqa proqrama məxsusdur</string>
+    <string name="native_6687d1c64d75" formatted="false">Ehtiyat prosessor arxitekturası uyğun gəlmir</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Android hostunu əvvəlcə bu ehtiyat nüsxənin istifadə etdiyi versiyaya yeniləyin</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Yedək kataloqu natamamdır</string>
+    <string name="native_66106ab3e254" formatted="false">Köhnə ehtiyat nüsxənin yoxlanıla bilən OpenCode nəşriyyat sübutu yoxdur. Yenidən yedəkləməzdən əvvəl bu hostla orijinal mühiti işə salın.</string>
+    <string name="native_bec13cc92982" formatted="false">İnkişaf mühiti sistemi hərəkətləri</string>
+    <string name="native_65de80229626" formatted="false">Debian sistem əməliyyatı tələb etdi</string>
+    <string name="native_5e38581cf19c" formatted="false">Sorğunu nəzərdən keçirmək və idarə etmək üçün toxunun</string>
+    <string name="native_749d406d2c67" formatted="false">Debian inkişaf mühitindən</string>
+    <string name="native_4032d33b2afd" formatted="false">Sistem brauzeri açılsın?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Yerli layihənin önizləməsi açılsın?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Buferi oxuyun?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Sistemin buferinə kopyalansın?</string>
+    <string name="native_77f761eb70aa" formatted="false">Yerli bildiriş göndərilsin?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Layihə faylı paylaşılsın?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Sistem faylları idxal edilsin?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Layihə faylı ixrac edilsin?</string>
+    <string name="native_7ac295421c6d" formatted="false">Brauzerdə açın</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Önizləməni açın</string>
+    <string name="native_14792d6cd7a6" formatted="false">Oxumağa icazə verin</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Buferə kopyalayın</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Bildiriş göndər</string>
+    <string name="native_88152a09fa02" formatted="false">Paylaşım proqramı seçin</string>
+    <string name="native_7a49a79c57f9" formatted="false">Faylları seçin</string>
+    <string name="native_99d9f87419c5" formatted="false">Harada saxlanacağını seçin</string>
+    <string name="native_23e5bb2090aa">%1$s\nOpenCode-dan təcrid olunmuş brauzer məlumatları ilə açılır.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Sistem buferindən cari Debian proqramına mətn verin.</string>
+    <string name="native_dcc6bec24e43">%1$s-a idxal etmək üçün faylları seçin. Mövcud fayllar saxlanılır və dublikatların adı dəyişdirilir.</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium brauzer rejimi</string>
+    <string name="native_4767f37900f6" formatted="false">Uyğunluq rejimi ayrıca brauzer profilindən istifadə edir və Chromium-un Linux prosesinin qum qutusunu deaktiv edir. Brauzer hələ də bu proqram daxilindəki fayllara daxil ola bilər. Etibarsız saytlardan çəkinin və vacib hesablar üçün Android sistemi brauzerindən istifadə edin. Rejimləri dəyişdikdən sonra Chromium-u yenidən açın.</string>
+    <string name="native_a4317f2699a2" formatted="false">Standart Linux sandboxingi defolt olaraq aktivdir. Chromium başlaya bilmirsə, uyğunluq rejimini seçə bilərsiniz. O, Linux prosesinin qum qutusunu söndürür və proqram fayllarına girişi saxlayaraq ayrıca profildən istifadə edir. Etibarsız saytlardan çəkinin; mühüm hesablar üçün Android sistem brauzerindən istifadə edin.</string>
+    <string name="native_3a2596fa9517" formatted="false">Standart rejimi bərpa edin</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Uyğunluq rejimini aktivləşdirin</string>
+    <string name="native_9a45442649f5" formatted="false">Debian iş masası</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Paylaşılan /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">İlk quraşdırma qrafik komponentləri yükləyir. Quraşdırıldıqdan sonra iş masası OpenCode-dan asılı olmayaraq başlaya və dayandıra bilər.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC güzgüsü</string>
+    <string name="native_41e865941e16" formatted="false">Rəsmi Debian güzgüsü</string>
+    <string name="native_ea341b8a102b" formatted="false">İlkin rezolyusiya</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Siz səhifələri dəyişdiyiniz zaman iş masası işləməyə davam edir. Onu Runtime-dan dayandırın.</string>
+    <string name="native_aadf816e2dc8" formatted="false">İş masası tapşırığını dayandırın</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">İş masasını işə salın</string>
+    <string name="native_ea27a25e5114" formatted="false">İş masası komponentlərini quraşdırın</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: uyğunluq rejimi</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: standart rejim</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Əvvəlcə Runtime-dan Debian developer alətlərini quraşdırın.</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Fəaliyyət jurnalı</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Layihə qovluğunu açmaq mümkün olmadı. Kataloqun mövcud olduğunu yoxlayın.</string>
+    <string name="native_83c76743b29d" formatted="false">Kəsilmiş mühit əməliyyatının bərpası</string>
+    <string name="native_739a730ae247" formatted="false">Ətraf mühitə qulluq</string>
+    <string name="native_049281329843" formatted="false">Yeniləmə baxımını və ya cari tapşırığın bitməsini gözləyin.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Cari inkişaf mühiti tapşırığının tamamlanmasını gözləyin</string>
+    <string name="native_83099168971c" formatted="false">İş masası quraşdırılır</string>
+    <string name="native_85e0c18dde8d" formatted="false">İş masası işə salınır</string>
+    <string name="native_9a48f8196d8f" formatted="false">Diqqət lazımdır</string>
+    <string name="native_75470fb13121" formatted="false">Dayandı</string>
+    <string name="native_51a53c8109d5" formatted="false">Fəaliyyət qeydini oxumaq və ya saxlamaq mümkün deyil. Onu Runtime-dan təmir edin və ya bir qədər yaddaş boşaldın.</string>
+    <string name="native_d36a018cc619" formatted="false">Əvvəlcə Debian inkişaf mühitini quraşdırın</string>
+    <string name="native_80be4c2928a5" formatted="false">Əvvəlcə şəbəkəyə qoşulun</string>
+    <string name="native_a065d81014b1" formatted="false">Masaüstünün quraşdırılması tamamlanmayıb. Quraşdırmanı yenidən cəhd edin.</string>
+    <string name="native_721c38b32c35" formatted="false">Masaüstü quraşdırılıb. Lazım olduqda başlayın.</string>
+    <string name="native_6c1c52771115" formatted="false">Əvvəlcə masa üstü komponentlərini quraşdırın</string>
+    <string name="native_693d90a47827" formatted="false">Masaüstü əməliyyatı uğursuz oldu. Təfərrüatlar çox uzundur və ya əlçatan deyil.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Dayanma işarəsini saxlamağı bitirmək mümkün olmadı. Prosesin təmizlənməsi davam etdi.</string>
+    <string name="native_06083621a6ce" formatted="false">Fəaliyyət qeydini yadda saxlamağı tamamlamaq mümkün olmadı. Növbəti buraxılış bunu fasilə kimi qəbul edəcək.</string>
+    <string name="native_04d721a3819a" formatted="false">Masaüstü işləyir</string>
+    <string name="native_c3f0acaf7a73" formatted="false">Masaüstü əməliyyatının vaxtı bitdi. Qeydi nəzərdən keçirin və yenidən cəhd edin.</string>
+    <string name="native_e70d328a3ca9">Masaüstü prosesindən çıxdı (%1$s). Fəaliyyət jurnalını nəzərdən keçirin.</string>
+    <string name="native_df5c878f2852" formatted="false">Yerli qrafik iş sahəsi</string>
+    <string name="native_7b0455a8daa4" formatted="false">Masaüstünü dayandırın</string>
+    <string name="native_a62123cde9c7" formatted="false">Kəsilən tapşırıqlar və bərpa</string>
+    <string name="native_279308947a14" formatted="false">Fəaliyyət qeydini oxumaq olmur. Repair zədələnmiş qeydin surətini saxlayır və layihələri, sessiyaları və Linux mühitini qoruyur.</string>
+    <string name="native_2bd92fae24e5" formatted="false">Təmir fəaliyyəti qeydi</string>
+    <string name="native_6b43650c2c82" formatted="false">Tapşırıq gözlənilmədən başa çatdı.</string>
+    <string name="native_acb0c970aaa6">%1$s terminalları normal bağlanmayıb. Onların qaçış əmrləri kəsildi.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Yenidən başladın təsdiqləndi. Əvvəlki əmrlər təkrar oxunmadı.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Saxlanmış layihələr və sessiyalar saxlanılır. Terminalları əl ilə yenidən açın; tamamlanmamış əmrlər avtomatik olaraq davam etməyəcək.</string>
+    <string name="native_fa9669296762" formatted="false">OpenCode-u yenidən başladın</string>
+    <string name="native_bd8130bec5d9" formatted="false">İş masası avtomatik olaraq yenidən başlamayacaq. İş masası səhifəsindən yenidən başlayın.</string>
+    <string name="native_644f8f44251f" formatted="false">Faylı açın</string>
+    <string name="native_9dfb5569d609" formatted="false">Faylı paylaşın</string>
+    <string name="native_a4500cff3a86" formatted="false">İş kataloqu simvolik keçid olmamalıdır</string>
+    <string name="native_8657d27661bd" formatted="false">Yanlış iş kataloqu yolu</string>
+    <string name="native_02b702a9adff" formatted="false">Fayl seçin</string>
+    <string name="native_924874b746cc" formatted="false">Terminalda simvolik keçidləri idarə edin</string>
+    <string name="native_efea6e422a54" formatted="false">Yanlış fayl adı</string>
+    <string name="native_c4989dc37aab" formatted="false">kataloqu mövcud deyil</string>
+    <string name="native_d613dba39b44" formatted="false">Təyinat kataloqu mövcud deyil</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Qovluğu özünə və ya onun nəslinə yerləşdirə bilməz</string>
+    <string name="native_c3acd5a3254c" formatted="false">Layihədə xüsusi qurğular və ya rozetkalar var və onları kopyalamaq mümkün deyil</string>
+    <string name="native_6c36955b068b" formatted="false">Adi fayl seçin</string>
+    <string name="native_49191d7d489f" formatted="false">Bu fayl 2 MB-ı keçir. OpenCode və ya terminal ilə redaktə edin.</string>
+    <string name="native_ee42414d36c2" formatted="false">Fayl çox böyükdür</string>
+    <string name="native_f0a979f87157" formatted="false">İkili faylları başqa proqramda açmaq üçün ixrac edin</string>
+    <string name="native_88a9c82651fc" formatted="false">OpenCode və ya terminal ilə UTF-8 olmayan faylları redaktə edin</string>
+    <string name="native_0189a5c3418c" formatted="false">Başqa bir alət bu faylı dəyişdi. Redaktə etməzdən əvvəl onu yenidən açın.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Orijinal kataloq artıq mövcud deyil. Əvvəlcə onu bərpa edin.</string>
+    <string name="native_46eae321049e" formatted="false">Paylaşım proqramı mövcud deyil</string>
+    <string name="native_87d699d3a26c" formatted="false">Zibil</string>
+    <string name="native_d0a8c03d6c07" formatted="false">Layihə faylları</string>
+    <string name="native_4dcf914f0b64" formatted="false">Silinmiş fayllar orijinal qovluqlarına bərpa edilə bilər</string>
+    <string name="native_c5b81b02354f" formatted="false">Geri</string>
+    <string name="native_e56b99379169">Kopyalandı %1$s fayl · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Kopyalanır...</string>
+    <string name="native_85199bb36b04" formatted="false">Əməliyyatı ləğv edin</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Bağlayın</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Yeni sessiya</string>
+    <string name="native_23c250cc8e0b" formatted="false">Burada OpenCode sessiyasına başlayın</string>
+    <string name="native_f22da21fd54f" formatted="false">terminalı</string>
+    <string name="native_3645f30b3412" formatted="false">Saxlanmamış dəyişikliklər</string>
+    <string name="native_2266227605c4" formatted="false">Saxla</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Zibil qutusu boşdur</string>
+    <string name="native_a9e739b13e52" formatted="false">bərpa edin</string>
+    <string name="native_45985dc2183e" formatted="false">Hərəkət:</string>
+    <string name="native_31214130b5b7" formatted="false">Surəti:</string>
+    <string name="native_07e5c3158f35" formatted="false">Yapışdırın</string>
+    <string name="native_831b4e0fb574" formatted="false">Yeni</string>
+    <string name="native_ff65a22d7087" formatted="false">Yeni qovluq</string>
+    <string name="native_71faed44a86c" formatted="false">Yeni fayl</string>
+    <string name="native_8dddd460f6ae" formatted="false">İdxal</string>
+    <string name="native_d85825123e60" formatted="false">Yeniləyin</string>
+    <string name="native_ac9d73843736" formatted="false">Bu kataloqu axtarın</string>
+    <string name="native_21eef82963ee" formatted="false">Bu kataloq boşdur. Faylları idxal edin və ya layihə yaradın.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Uyğun fayl yoxdur</string>
+    <string name="native_d674bc0f86b8" formatted="false">Fayl hərəkətləri</string>
+    <string name="native_d04a47c87cc8" formatted="false">Simvolik keçid</string>
+    <string name="native_e0ba66f5246a" formatted="false">Qovluq</string>
+    <string name="native_f170b42599e8" formatted="false">Adını dəyişdirin</string>
+    <string name="native_4cdacf57ead2" formatted="false">Surəti</string>
+    <string name="native_124aa030694e" formatted="false">Köçürün...</string>
+    <string name="native_ac990518ed87" formatted="false">Terminalı burada açın</string>
+    <string name="native_87bc93932d8a" formatted="false">Sistem fayllarına ixrac edin</string>
+    <string name="native_dd37f132172f" formatted="false">Zibil qutusuna köçürün</string>
+    <string name="native_7318746d337c" formatted="false">Zibil qutusuna atılsın?</string>
+    <string name="native_2b5ee3f10a56">Siz “%1$s” zibil qutusundan bərpa edə bilərsiniz.</string>
+    <string name="native_e49730c9e7e1" formatted="false">Hərəkət edin</string>
+    <string name="native_4e47aaa113fc" formatted="false">Yadda saxlanmamış dəyişikliklər ləğv edilsin?</string>
+    <string name="native_63b75399ef1a" formatted="false">Dəyişiklikləri ləğv edin</string>
+    <string name="native_d9618f7b8d25" formatted="false">Redaktə etməyə davam edin</string>
+    <string name="native_76ce6aef5479" formatted="false">Adı</string>
+    <string name="native_35b0fc30b909" formatted="false">OK</string>
+    <string name="native_11b319774788" formatted="false">Ətraf mühit bərpa edildi. İş yerini yenidən açın.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Əvvəlcə Runtime-da kəsilmiş əməliyyatın bərpasını tamamlayın</string>
+    <string name="native_f29af06e7c99" formatted="false">Ətraf mühitə texniki qulluq davam edir. Daha sonra yenidən cəhd edin.</string>
+    <string name="native_3bd28258feb0" formatted="false">Əməliyyat ləğv edildi</string>
+    <string name="native_c508721eb3cd" formatted="false">Bu adda fayl artıq mövcuddur. Başqa ad seçin.</string>
+    <string name="native_1e8274fe468a" formatted="false">Fayl artıq mövcud deyil. Kataloqu yeniləyin.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Fayl giriş icazəsi rədd edildi</string>
+    <string name="native_cd808e4c321e" formatted="false">Əməliyyatı tamamlamaq mümkün olmadı</string>
+    <string name="native_01cbe9be8b9f" formatted="false">Əməliyyat tamamlanmayıb. Mövcud yaddaşı yoxlayın və ya faylları yenidən seçin.</string>
+    <string name="native_3f9983126fd7" formatted="false">Runtime-da OpenCode başlanğıc statusunu yoxlayın</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Yeni terminal aça bilmədi. Seansların sayını yoxlayın.</string>
+    <string name="native_2160fde3813a" formatted="false">Terminalda simvolik keçidləri idarə edin. Fayl meneceri linklərə əməl etmir.</string>
+    <string name="native_7a844e9d4017" formatted="false">Köçürmə tamamlandı</string>
+    <string name="native_573877894fcf" formatted="false">Kopyalama tamamlandı</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Zibil qutusuna atıldı</string>
+    <string name="native_862330af933f" formatted="false">Orijinal kataloqa bərpa edildi</string>
+    <string name="native_beda23c9d52b" formatted="false">Ətraf mühitə qulluq və ya dəyişdirmə baş verdi. Redaktə etməzdən əvvəl iş yerini yenidən açın.</string>
+    <string name="native_678c6953bb2b" formatted="false">Saxlanıldı</string>
+    <string name="native_8063159f2178" formatted="false">Seçilmiş faylı oxumaq olmur</string>
+    <string name="native_4cdc2180d2ac">Import edilmiş %1$s faylları</string>
+    <string name="native_e98763643b93" formatted="false">Seçilmiş yerə yazmaq olmur</string>
+    <string name="native_5afd173be7fa" formatted="false">İxrac tamamlandı</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">Kod və sessiyalar</string>
+    <string name="native_8745ed51cadd" formatted="false">İş masası</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Qrafik iş sahəsi</string>
+    <string name="native_770d49c5f689" formatted="false">Faylları</string>
+    <string name="native_6a9b6480b58f" formatted="false">İş vaxtı</string>
+    <string name="native_b561fe9204cc" formatted="false">Xidmətlər və developer alətləri</string>
+    <string name="native_70850bdeeabd" formatted="false">Səhifə menyusunu bağlayın</string>
+    <string name="native_b4549acb48e8" formatted="false">İş sahəsi</string>
+    <string name="native_3d3551f4660f">Üzən düymənin qeyri-şəffaflığı %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Aşağı dəyərlər üzən düyməni daha şəffaf edir</string>
+    <string name="native_e031beabfc9a" formatted="false">Səhifə menyusunu açın</string>
+    <string name="native_106ee775b538" formatted="false">Yerli OpenCode-a qoşulur...</string>
+    <string name="native_a021adc1f449" formatted="false">Yerli əlaqənin bərpası lazımdır</string>
+    <string name="native_dacb8837471c" formatted="false">Yenidən qoşun</string>
+    <string name="native_17584aa60ae6" formatted="false">Yerli resurs keşini hazırlamaq mümkün olmadı</string>
+    <string name="native_3b3b80064ccb" formatted="false">Yerli OpenCode hazırlanır...</string>
+    <string name="native_2560ee8fdd16" formatted="false">Yenidən cəhd edin</string>
+    <string name="native_b07809340403" formatted="false">Workspace məkanı hələ yadda saxlanılmayıb. Daha sonra yenidən cəhd edin.</string>
+    <string name="native_e4ab10392d05" formatted="false">Yerli xidmət hazırlanır. Qoşulduqdan sonra iş yeriniz avtomatik olaraq açılacaq.</string>
+    <string name="native_20ea15973287" formatted="false">Əvvəlki qaçış dayandırıldı. Runtime-dan yenidən başladın; terminal əmrləri avtomatik təkrarlanmayacaq.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Açıq kod və sessiyalar üçün Runtime-dan OpenCode-u işə salın.</string>
+    <string name="native_abbac5c22111" formatted="false">Proqramdan çıxın?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">İnkişaf mühiti fonda işləməyə davam edə bilər. Bildirişdən sonra qayıdın.</string>
+    <string name="native_814a8fb24b62" formatted="false">Cari iş yerindən çıxın?</string>
+    <string name="native_a76464945c2d" formatted="false">Həmçinin inkişaf mühitini dayandırın</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Çıxış</string>
+    <string name="native_b00143b08ff1" formatted="false">İnkişaf iş stansiyası hazırdır</string>
+    <string name="native_51bca456a350" formatted="false">Debian inkişaf iş stansiyanız</string>
+    <string name="native_0c2acd0b6057" formatted="false">Çalışır</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Başlanır</string>
+    <string name="native_44da7f6a451d" formatted="false">Dayanır</string>
+    <string name="native_b7e1503a7239" formatted="false">Təmir inkişaf mühiti</string>
+    <string name="native_7c91bd67ff14" formatted="false">İnkişaf mühitini quraşdırın</string>
+    <string name="native_cfd73bb04860" formatted="false">Stop mühiti</string>
+    <string name="native_e7ec95694dce" formatted="false">OpenCode işə salın</string>
+    <string name="native_5d4600a269e9" formatted="false">Ətraf mühiti yoxlayın</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Debian developer alətlərini yeniləyin</string>
+    <string name="native_c114ec62712b" formatted="false">Əvvəlki mühit ehtiyat nüsxəsi, layihələr və sessiya məlumatları saxlanılır.</string>
+    <string name="native_eb3114155716" formatted="false">Dil serverlərini quraşdırın / yeniləyin</string>
+    <string name="native_01af25e5a7d9" formatted="false">İmzalanmış Debian depolarından onlayn quraşdırılmış C/C++ (clangd) və Python (pylsp). Əvvəlcə OpenCode və masaüstünü dayandırın.</string>
+    <string name="native_2c7251cce661" formatted="false">Səhifələri dəyişmək üçün üzən düyməyə toxunun. Yerini dəyişmək üçün onu dartın.</string>
+    <string name="native_dcef145e6a9b" formatted="false">Runtime məlumatı işə salındıqdan sonra burada görünür.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Açıq İş vaxtı</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Paketli APK versiyası</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode yeniləmələri</string>
+    <string name="native_36ab16248f65" formatted="false">Bu proqramın naşiri tərəfindən imzalanmış .ocaupdate-i idxal edin. Rəsmi frontend və backend yeniləməsi birlikdə.</string>
+    <string name="native_8aad48b0508d" formatted="false">Yeniləmə mənbəyi (HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Yeniləmə mənbəyini yoxlayın</string>
+    <string name="native_f73973cfadbb">İmzalanmış buraxılış: %1$s\nQəbul edin: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Yükləyin və yoxlayın</string>
+    <string name="native_f2ef7965bf12" formatted="false">Yeniləmə paketini seçin</string>
+    <string name="native_165111adfe2c">Quraşdırmağa hazırdır: %1$s\nTəhvil verin: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Bu yeniləməni quraşdırın</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Yeniləmədən əvvəlki versiyanı və sessiyaları bərpa edin</string>
+    <string name="native_6864335de653" formatted="false">Yeniləməni ləğv edin</string>
+    <string name="native_5e3472cf084e" formatted="false">OpenCode yeniləməsini quraşdırın?</string>
+    <string name="native_816bf3635d53" formatted="false">Yeniləmədən əvvəlki vəziyyət bərpa edilsin?</string>
+    <string name="native_11beb4a42abc">%1$s quraşdırın. Tətbiq sessiyanın şəklini saxlayır, imzalanmış proqramı yoxlayır və uğursuz olarsa əvvəlki versiyanı bərpa edir. Layihə faylları saxlanılır.</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessiyalar bu yeniləmədən əvvəl öz vəziyyətinə qayıdır. Daha son sessiyalar şəxsi ehtiyat nüsxədə qalır. Layihə faylları saxlanılır.</string>
+    <string name="native_def5e273616d" formatted="false">Quraşdırmanı təsdiqləyin</string>
+    <string name="native_369d2eefccde" formatted="false">Önizləmə brauzer məlumatlarını təcrid etmək mümkün olmadı. Önizləməni yenidən açın.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Layihə səhifəsini yükləmək mümkün olmadı. Terminalınızdakı inkişaf serverini yoxlayın.</string>
+    <string name="native_6e7408950cf5" formatted="false">Preview layihəsi veb saytı</string>
+    <string name="native_bfb4951e071d" formatted="false">Layihəyə baxış</string>
+    <string name="native_f80652913d06" formatted="false">Terminalda inkişaf serverini işə salın, sonra onun yerli portunu daxil edin. Brauzer məlumatlarına ön baxış OpenCode-dan təcrid edilmişdir.</string>
+    <string name="native_2c41e85af61f" formatted="false">Portu</string>
+    <string name="native_77c3a828a5c5" formatted="false">OpenCode və masa üstü xidmətləri istisna olmaqla, 1024-dən 65535-ə qədər inkişaf portunu daxil edin.</string>
+    <string name="native_7311a9dfea51" formatted="false">Bu portda heç nə dinlənmir. Terminalınızdakı xidməti yoxlayın.</string>
+    <string name="native_4f8d84105475" formatted="false">Yoxlanır...</string>
+    <string name="native_4923c272b68e" formatted="false">İnkişaf portu tam ədəd olmalıdır</string>
+    <string name="native_04a87026e81f" formatted="false">Etibarlı layihə inkişaf portu seçin</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode inkişaf sessiyası</string>
+    <string name="native_e87a4529ab82" formatted="false">İnkişaf mühitinin quraşdırılması</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian yeniləməsi</string>
+    <string name="native_0c6301bc295d" formatted="false">İnkişaf mühitinin təmiri</string>
+    <string name="native_0ddf3d4297eb" formatted="false">İnkişaf mühitinin yoxlanılması</string>
+    <string name="native_9612d4419bb6" formatted="false">Dil serverinin quraşdırılması</string>
+    <string name="native_f72fba77f87a" formatted="false">Ətraf mühitin bərpası</string>
+    <string name="native_7c8162195c7c" formatted="false">Masaüstünün quraşdırılması</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Əvvəlki qaçış dayandırıldı. Runtime-dan açıq şəkildə yenidən başladın.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Bu tip inkişaf tapşırığı hələ də işləyir</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Fəaliyyət qeydinin təmiri</string>
+    <string name="native_b66749ed72ea" formatted="false">Prosesdən çıxdı</string>
+    <string name="native_6b25042064e2" formatted="false">Siqnalla dayandırıldı</string>
+    <string name="native_d6febdf1752b" formatted="false">Yaddaş az olduğuna görə geri qaytarıldı</string>
+    <string name="native_1d13790f3c89" formatted="false">Tətbiq qəzası</string>
+    <string name="native_28db94d1850d" formatted="false">Doğma proses qəzası</string>
+    <string name="native_86919539f7f1" formatted="false">Tətbiqi cavab vermir</string>
+    <string name="native_90fb8d6098a5" formatted="false">Başlatma uğursuz oldu</string>
+    <string name="native_38c60ab6654c" formatted="false">İcazələr dəyişdirildi</string>
+    <string name="native_6d2a6c71334d" formatted="false">Resurs limiti</string>
+    <string name="native_19b2090b01a8" formatted="false">İstifadəçi dayandırmağı tələb etdi</string>
+    <string name="native_120d96445f1a" formatted="false">İstifadəçi tərəfindən dayandırıldı</string>
+    <string name="native_3c8af14f66bc" formatted="false">Asılı prosesdən çıxdı</string>
+    <string name="native_ca0941ce04ae" formatted="false">Digər sistem səbəbi</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Dondurma prosesi</string>
+    <string name="native_0d48373023a8" formatted="false">Tətbiq vəziyyəti dəyişdi</string>
+    <string name="native_c752307db26b" formatted="false">Tətbiq yeniləməsi</string>
+    <string name="native_b5015951cbdf" formatted="false">Sistem çıxış səbəbi təqdim etməyib</string>
+    <string name="native_b62737b826ad">Sistem çıxışı (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Layihə kataloqunu açmaq mümkün olmadı</string>
+    <string name="native_faf5d983c13e" formatted="false">OpenCode sessiyası yaratmaq mümkün olmadı</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode sessiya kataloqu uyğun gəlmir</string>
+    <string name="native_ac19736908a2" formatted="false">OpenCode sessiyasını oxumaq mümkün olmadı</string>
+    <string name="native_2642997cfeec" formatted="false">Ətraf mühitə qulluq</string>
+    <string name="native_f992d735d932" formatted="false">OpenCode, terminallar və Debian iş masasını dayandırın, sonra fayl əməliyyatlarının bitməsini gözləyin</string>
+    <string name="native_489f137f1080" formatted="false">Ətraf mühitə qulluq kilidi artıq etibarlı deyil</string>
+    <string name="native_42380e2567fc" formatted="false">Kəsilmiş əməliyyat bərpa edildi. İş yerini yenidən açın.</string>
+    <string name="native_17b00cac2b91" formatted="false">Yerli əlaqənin bərpası uğursuz oldu. Runtime-dan yenidən cəhd edin.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Ətraf mühitə texniki qulluq davam edir. Daha sonra yenidən cəhd edin.</string>
+    <string name="native_dbaebe3ce243" formatted="false">İnkişaf mühitini yeniləməzdən əvvəl Debian iş masasını dayandırın</string>
+    <string name="native_548085b144c9" formatted="false">Kəsilmiş əməliyyat bərpa edildi. İnkişaf mühitinə başlaya bilərsiniz.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Əvvəlki qaçış dayandırıldı. Terminal əmrləri avtomatik olaraq təkrarlanmayacaq. Runtime-dan açıq şəkildə yenidən başladın.</string>
+    <string name="native_295cafdfd512" formatted="false">Müvəqqəti əlaqə konfiqurasiyasının təmizlənməsi tamamlanmayıb. Prosesin təmizlənməsi davam etdi.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">helloworld iş yerini yaratmaq mümkün olmadı. Kataloqu və mövcud yeri yoxlayın.</string>
+    <string name="native_68301868225a" formatted="false">Əvvəlki iş sahəsi kataloqu mövcud deyil. Açıldı helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Defolt layihə hələ hazır deyil. Fayllardan yenidən cəhd edin.</string>
+    <string name="native_45d6ab452622" formatted="false">Dil serverlərini quraşdırın</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ və Python dil serverləri hazırdır. Start OpenCode to use LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Terminal fəaliyyəti qeydi saxlanmadı. Proses başa çatdıqdan sonra yeni terminal yaradın.</string>
+    <string name="native_1978b311a9ff" formatted="false">Terminaldan çıxış qeydini saxlamağı tamamlamaq mümkün olmadı.</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode update download</string>
+    <string name="native_06f76cca8fb9" formatted="false">Yeniləmə mənbəyinə qoşulur...</string>
+    <string name="native_8c39baf28e08" formatted="false">Yeniləmə mənbəyinə qoşulmaq olmur. Şəbəkəni, naşir imzasını, host versiyasını və boş yeri yoxlayın.</string>
+    <string name="native_0bedbc8d185d" formatted="false">Endirmə vaxtı bitdi</string>
+    <string name="native_f75850093535">Endirilir: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Verifying publisher signature…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Güncəlləmə paketi endirilir...</string>
+    <string name="native_2f9cd52dc66a">Valid publisher signature: %1$s. Yükləməzdən əvvəl nəzərdən keçirin.</string>
+    <string name="native_17548865632c" formatted="false">Yükləyin, buraxın, metadata və paket imzası təsdiqləndi. Quraşdırmanı təsdiqləyin.</string>
+    <string name="native_180cec958e7a" formatted="false">Yükləmə ləğv edildi. Original version retained.</string>
+    <string name="native_8df045f8ac12" formatted="false">Download stopped. Original version retained.</string>
+    <string name="native_778803f1c6bb" formatted="false">Yükləməni ləğv edin</string>
+    <string name="native_2958898ce6f4" formatted="false">Yeni versiya yerli başlanğıc, versiya və ya autentifikasiya yoxlamalarında uğursuz oldu. Əvvəlki versiya bərpa olunacaq.</string>
+    <string name="native_cc876dfbb261" formatted="false">Sınaq prosesi hələ də davam edir. Wait for recovery before retrying.</string>
+    <string name="native_adf977dcb47e" formatted="false">Invalid update record identifier</string>
+    <string name="native_5207cac670b7" formatted="false">Quraşdırılmış müstəqil OpenCode ölçüsü uyğun gəlmir</string>
+    <string name="native_cf5b81887589" formatted="false">Quraşdırılmış müstəqil OpenCode yoxlama məbləği uyğun gəlmir. Əvvəlki versiyanı bərpa edin.</string>
+    <string name="native_393049b506cc" formatted="false">Orijinal proqramda uyğun gələn nəşriyyat sübutu yoxdur. Əvvəlki vəziyyət dəyişməyib.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Əvvəlcə əvvəlki kəsilmiş yeniləməni bərpa edin</string>
+    <string name="native_91d8da5525fa" formatted="false">Təsdiqdən sonra yeniləmə paketi dəyişdi</string>
+    <string name="native_093f2c091a30" formatted="false">Yaddaş kifayət deyil. Original version unchanged.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Bərpa etmək üçün heç bir yeniləmə ehtiyat nüsxəsi mövcud deyil</string>
+    <string name="native_a9f4d9903c14" formatted="false">Yedəkləmə işləyən versiyaya uyğun gəlmir</string>
+    <string name="native_6caa23763a42" formatted="false">Previous program verification failed. Current sessions unchanged.</string>
+    <string name="native_c8b71b876695" formatted="false">Sonrakı APK və ya Debian yeniləməsi yığılmış proqramı əvəz etdi. The original session backup is retained; restore the corresponding program first.</string>
+    <string name="native_c443df40964b" formatted="false">Invalid update recovery operation</string>
+    <string name="native_9071f05d58b3" formatted="false">Preparing OpenCode update…</string>
+    <string name="native_2968d4dfdc70" formatted="false">OpenCode, terminalları və iş masasını dayandırın, sonra onların çıxmasını gözləyin.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Saxlama vəziyyəti, proqramların yoxlanılması və versiyaların dəyişdirilməsi</string>
+    <string name="native_5fc065ef6f50" formatted="false">Yeniləmə texniki xidmətini başlatmaq mümkün olmadı.</string>
+    <string name="native_f7b560c8c820" formatted="false">Rəsmi proqram yoxlanılır və səhnələşdirilir...</string>
+    <string name="native_9606191c82dc" formatted="false">Orijinal proqram və naşir imzası qorunur...</string>
+    <string name="native_5c0d7787ee51" formatted="false">Sessiya vəziyyəti snapşotu yadda saxlanılır...</string>
+    <string name="native_0c8cf4632889" formatted="false">Versiyalar dəyişdirilir və yerli xidmət yoxlanılır...</string>
+    <string name="native_3e81ea691a4a" formatted="false">Yeniləmədən əvvəlki versiya və sessiyalar bərpa olunur...</string>
+    <string name="native_856de41d3bf3" formatted="false">OpenCode bərpa olunur</string>
+    <string name="native_8d0137ab8618" formatted="false">OpenCode yenilənir</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Əvvəlki versiyanı və sessiyaları bərpa etdi. Daha son sessiyalar şəxsi ehtiyat nüsxədə qalır.</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode yeniləməsi tamamlandı. Başlanğıc uyğun gələn rəsmi frontend və backenddən istifadə edəcək.</string>
+    <string name="native_4693930f5802" formatted="false">Güncəlləmə ləğv edildi. Orijinal vəziyyətin bərpa olunduğunu təsdiqləyir.</string>
+    <string name="native_d0e37bc26edd" formatted="false">Güncəlləmə tamamlanmayıb. İndi bərpa olunur; orijinal proqram və sessiya ehtiyat nüsxələri saxlanılır.</string>
+    <string name="native_9a32d6c2d207" formatted="false">Bərpa tamamlanmayıb. Bütün dövlət kataloqları saxlanılır. Məlumatlarınızı saxlayın və bərpa etmək üçün işə yenidən cəhd edin.</string>
+    <string name="native_49ad3eeae83d" formatted="false">Sessiyanın bərpası tamamlandı. Ən son vəziyyət ehtiyatda qalır.</string>
+    <string name="native_67c08a2911e1" formatted="false">Bərpa bu ehtiyat nüsxə və ya orijinal proqramla davam edə bilmədi. Cari sessiyalar və ehtiyat nüsxələr dəyişməyib.</string>
+    <string name="native_976d8c169cfa" formatted="false">Yeniləmə ləğv edildi və ya uğursuz oldu. Orijinal versiya və sessiyalar bərpa edildi.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Yeniləmə paketinin imzası və bütövlüyü yoxlanılır...</string>
+    <string name="native_0aa018b7337b" formatted="false">Seçilmiş faylı oxumaq olmur</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">Yeniləmə paketi çox böyükdür</string>
+    <string name="native_f068b83f40bf" formatted="false">İmza və paket təsdiqlənib. Quraşdırmadan əvvəl versiyanı nəzərdən keçirin.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Import edilə bilməz: etibarsız fayl, imza uyğunsuzluğu, uyğun olmayan host versiyası və ya qeyri-kafi yaddaş.</string>
+    <string name="native_616412e65df4" formatted="false">Rəsmi proqram onun nəşriyyat sübutu ilə uyğun gəlmir</string>
+    <string name="native_4bf19a158f27" formatted="false">Bağımsız iş vaxtı paketləri yalnız ARM64-ü dəstəkləyir</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Yeniləmə imzası bu APK-ya aid deyil</string>
+    <string name="native_c7273354727f" formatted="false">Yeniləmə faylı elan edilmiş ölçüsünü keçir</string>
+    <string name="native_2aa6c8e74abb" formatted="false">Yeniləmə proqramının yoxlama məbləği uyğun gəlmir</string>
+    <string name="native_dd619076d456" formatted="false">Yanlış yeniləmə paketinin ölçüsü</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Sıxılmış yeniləmə paketinin ölçüsü uyğun gəlmir</string>
+    <string name="native_1de24edffcf5" formatted="false">Yeniləmə paketində əlavə qeydlər var</string>
+    <string name="native_c5b339aa77e8" formatted="false">Uyğun olmayan yeniləmə mənşəyi və ya arxitekturası</string>
+    <string name="native_89d585f3661f" formatted="false">Bu yeniləməni quraşdırmadan əvvəl Android proqramını təkmilləşdirin</string>
+    <string name="native_800df084dea0" formatted="false">Yeniləmə arxivi yoxlama məbləği uyğun gəlmir</string>
+    <string name="native_ddf1a005e310" formatted="false">Bu APK imzalama formatı müstəqil iş vaxtı yeniləmələrini dəstəkləmir</string>
+    <string name="native_172e063db474" formatted="false">Yanlış yeniləmə paketi girişi</string>
+    <string name="native_1c08780aa99f" formatted="false">Yeniləmə metadatası tam ədədlərdən istifadə etməlidir</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Yeniləmə proqramı 64 bitlik Linux ELF deyil</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Yeniləmə proqramı 16 KiB ELF uyğunlamasına cavab vermir</string>
+    <string name="native_3afa3741911b" formatted="false">Yeniləmə proqramında Debian glibc yükləyicisi yoxdur</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Etibarlı HTTPS yeniləmə mənbəyi daxil edin</string>
+    <string name="native_c274c7dd5900" formatted="false">Yeniləmə mənbələri istifadəçi etimadnaməsi olmadan HTTPS URL-lərini tələb edir</string>
+    <string name="native_f459f5ec9dac" formatted="false">Yanlış yeniləmə mənbəyi sahəsi</string>
+    <string name="native_bde2a736e30a" formatted="false">Əvvəlcə Android hostunu təkmilləşdirin</string>
+    <string name="native_b980fd021bef" formatted="false">Yanlış yeniləmə kataloqu</string>
+    <string name="native_c0e96727553e" formatted="false">Yanlış yeniləmə faylı</string>
+    <string name="native_86ff542c68ed" formatted="false">Bu vəziyyətdə yeniləmə qovluqlarını dəyişmək mümkün deyil</string>
+    <string name="native_fbf82dc7ef22" formatted="false">Sessiya vəziyyəti xarici kataloqa aiddir. Yeniləmə təhlükəsiz şəkildə sınaqdan keçirilə bilməz.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Yaddaş kifayət deyil. Orijinal vəziyyəti dəyişməyib.</string>
+    <string name="native_099801d672b1" formatted="false">Yükləmə ləğv edildi</string>
+    <string name="native_f1304f707ec9" formatted="false">Həddindən artıq yeniləmə yönləndirmələri</string>
+    <string name="native_0d07f458b607" formatted="false">Yeniləmə serveri orijinal baytları köçürmədi</string>
+    <string name="native_de331dfd8908" formatted="false">Yeniləmə faylının uzunluğu uyğun gəlmir</string>
+    <string name="native_416b8c87e69e" formatted="false">Yeniləmə faylı tam endirilmədi</string>
+    <string name="native_e1e74b76c427" formatted="false">Yeniləmə serveri tam faylı qaytarmadı</string>
+    <string name="native_6afcf03cb130" formatted="false">Güncəlləmə üçün yer kifayət deyil</string>
+    <string name="native_be1c695d9241" formatted="false">Yeniləmə faylı SHA-256 uyğun gəlmir</string>
+    <string name="native_a0133d117bb0" formatted="false">Yeniləmə paketi təsdiqlənmiş buraxılış məlumatlarına uyğun gəlmir</string>
+    <string name="native_8635a43ce28a" formatted="false">Yanlış layihə kataloqu</string>
+    <string name="native_d32ab8b004e6" formatted="false">İş yerinin yerini saxlamaq mümkün olmadı</string>
+    <string name="native_43a5447014fd" formatted="false">Terminal açmadan əvvəl inkişaf mühitini Runtime-dan başlayın.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ Yeni terminal</string>
+    <string name="native_b3b7108a568f" formatted="false">Cərəyanı bağlayın</string>
+    <string name="native_0e822affd5da">İlkin kataloq: %1$s</string>
+    <string name="native_72d769e3888d">Yeni terminal kataloqu: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Sistem fayl seçicisi əlçatan deyil</string>
+    <string name="native_179a57921f91" formatted="false">WebView göstərilməsi parametrləri</string>
+    <string name="native_3024ec603eb7" formatted="false">Göstərilmə kadr sürəti</string>
+    <string name="native_55b6d7f645f3" formatted="false">60 Hz-ə üstünlük verir</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Ekran yeniləmə sürətini izləyin</string>
+    <string name="native_d4ecf38c341d" formatted="false">Yüksək yeniləmə sürəti olan displeylərdə göstərmə yükünü azaltmaq üçün 60 Hz-ə üstünlük verin. Ekrandan sonra sistem çərçivələri planlaşdırmağa imkan verir. Yalnız bu tətbiqin pəncərəsinə aiddir.</string>
+    <string name="native_bf0d3a407418" formatted="false">Quraşdırılmayıb</string>
+    <string name="native_2fb8edc75b25" formatted="false">Hazırdır</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Yükləyicinin yoxlanılması</string>
+    <string name="native_d1017c1eac80" formatted="false">Debian Quraşdırılır</string>
+    <string name="native_f863d955fa6e" formatted="false">Yerli inkişaf mühiti</string>
+    <string name="native_55aa84065de2" formatted="false">Yerli Debian inkişaf sessiyası</string>
+    <string name="native_6e75b1822ebc" formatted="false">Dayandırın</string>
+    <string name="native_5f73a4e1e494" formatted="false">Quraşdırılıb</string>
+    <string name="native_147e90d2ec02" formatted="false">Bərpa</string>
+</resources>

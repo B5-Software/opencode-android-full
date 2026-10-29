@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">កន្លែងធ្វើការអភិវឌ្ឍន៍</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">ទំព័រតែមួយ</string>
+    <string name="native_651ae6ea52ae" formatted="false">ស្តារទិដ្ឋភាពបំបែក\nប្លង់កន្លែងធ្វើការ</string>
+    <string name="native_d7e97cfac66f" formatted="false">ប្លង់កន្លែងធ្វើការ</string>
+    <string name="native_2a03e2ed30f9" formatted="false">ពង្រីកបង្អួចដើម្បីមើលបន្ទះច្រើនជាមួយគ្នា។</string>
+    <string name="native_e792dd4cfa78" formatted="false">បង្ហាញឯកសារគម្រោង</string>
+    <string name="native_712d956931d1" formatted="false">បង្ហាញស្ថានីយ\nស្ថានីយ</string>
+    <string name="native_073cc20d9ed9" formatted="false">ខាងក្រោម\nស្ថានីយ</string>
+    <string name="native_5de225480fa7" formatted="false">នៅខាងស្តាំ\nបន្ទះ</string>
+    <string name="native_35cdb3eacdc6" formatted="false">ដួលរលំនៅពេលដែលកន្លែងទំនេរមានកំណត់ ហើយនៅតែអាចចូលប្រើបានពីម៉ឺនុយអណ្តែត។ ស្ថានីយចំហៀងលេចឡើងនៅក្នុងបង្អួចធំទូលាយ។ អូសផ្នែកបែងចែកដើម្បីប្តូរទំហំបន្ទះ។</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Left Alt: 1–5 ទំព័រ · B Files · T Terminal · M Desktop · បញ្ចូលទោល/បំបែក · \\\\ ប្លង់</string>
+    <string name="native_7a129a94c6ff" formatted="false">រួចរាល់</string>
+    <string name="native_bcec2218fc21" formatted="false">កំណត់សមាមាត្រឡើងវិញ</string>
+    <string name="native_da88c62d1217">បង្ហាញ %1$s ក្នុងទំព័រតែមួយ\nការបែងចែកឯកសារគម្រោង</string>
+    <string name="native_1b4b3afbe52d" formatted="false">ឧបករណ៍បែងចែកស្ថានីយ</string>
+    <string name="native_707c0891a0e6" formatted="false">ការបែងចែកស្ថានីយ</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode និងផ្នែកបែងចែកផ្ទៃតុ</string>
+    <string name="native_50407ad8dfa8" formatted="false">បង្រួមបន្ទះមុន។</string>
+    <string name="native_b72c5c02a666" formatted="false">ពង្រីកបន្ទះមុន។</string>
+    <string name="native_3f3685e8d731" formatted="false">តំណភ្ជាប់ PRoot ច្រើនពេកសម្រាប់ទម្រង់ប័ណ្ណសារនេះ។\nតំណភ្ជាប់រឹងរបស់លីនុច</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux ទាមទារ rootfs ពេញលេញ</string>
+    <string name="native_f336f1e17596" formatted="false">ការដាក់សំបុកថតចម្លងគឺជ្រៅពេក</string>
+    <string name="native_b6f744737a45" formatted="false">ប្រវែងពាក្យសម្ងាត់បម្រុងទុកមិនត្រឹមត្រូវ</string>
+    <string name="native_13bde5dd1812" formatted="false">ពាក្យសម្ងាត់បម្រុងទុកត្រូវតែមានយ៉ាងហោចណាស់ 12 តួអក្សរ</string>
+    <string name="native_be02cbd55932" formatted="false">ទម្រង់បម្រុងទុកដែលមិនគាំទ្រ</string>
+    <string name="native_7a91a3d586ae" formatted="false">បឋមកថាបម្រុងទុកមិនត្រឹមត្រូវ</string>
+    <string name="native_2bbd318a5667" formatted="false">ប៉ារ៉ាម៉ែត្រអ៊ិនគ្រីបបម្រុងទុកដែលមិនគាំទ្រ</string>
+    <string name="native_18868da27841" formatted="false">ពាក្យសម្ងាត់បម្រុងទុកមិនត្រឹមត្រូវ ឬឯកសារខូច\nកំណត់ត្រាការងើបឡើងវិញ</string>
+    <string name="native_e41d6440468d" formatted="false">មានទំហំធំពេក\nទិន្នន័យមេតាបម្រុងទុក</string>
+    <string name="native_282692502f14" formatted="false">ធំពេក</string>
+    <string name="native_61fdca8d6c82" formatted="false">ការបម្រុងទុកទិន្នន័យមេតាគឺជ្រៅពេក</string>
+    <string name="native_8cefb30732d4" formatted="false">ទិន្នន័យមេតាបម្រុងទុកមិនត្រឹមត្រូវ</string>
+    <string name="native_5d3037708cad" formatted="false">មិនគាំទ្រការកំណត់ដើម</string>
+    <string name="native_81a57c382f9d" formatted="false">មិនអាចរក្សាទុកការកំណត់ដើមបានទេ។</string>
+    <string name="native_50603e683d4a" formatted="false">ថតមេមិនត្រឹមត្រូវនៅក្នុងផ្លូវបម្រុងទុក</string>
+    <string name="native_c3f838a46b8e" formatted="false">ឫសស្ថានីយការងារមិនត្រូវជាតំណនិមិត្តសញ្ញាទេ។\nឯកសារ</string>
+    <string name="native_9ddd2d8280c8" formatted="false">បានផ្លាស់ប្តូរកំឡុងពេលបម្រុងទុក\nទម្រង់ទិន្នន័យស្ថានីយការងារមិនគាំទ្រ</string>
+    <string name="native_77e1e85147db" formatted="false">ទម្រង់ទិន្នន័យស្ថានីយការងារដែលមិនគាំទ្រ</string>
+    <string name="native_a927b5a565af" formatted="false">ការបម្រុងទុកមានទិន្នន័យបន្ថែម</string>
+    <string name="native_c2b886d508f2" formatted="false">ការបម្រុងទុកមានផ្លូវស្ទួន</string>
+    <string name="native_3dab8cd60102" formatted="false">ការបម្រុងទុកមានការកំណត់ពេលដំណើរការដែលមិនអាចផ្ទេរបាន។</string>
+    <string name="native_f45ba674a630" formatted="false">ការបម្រុងទុកមានទំហំធំពេក ឬទំហំផ្ទុកមិនគ្រប់គ្រាន់</string>
+    <string name="native_140073e8e77b" formatted="false">មិន​អាច​ស្ដារ​ត្រា​ពេល​វេលា​នៃ​តំណ​និមិត្ត​សញ្ញា​បាន​ទេ។</string>
+    <string name="native_b0d411aaf62c" formatted="false">មិនអាចស្តារត្រាពេលវេលាបំពង់ដែលមានឈ្មោះបានទេ។\nការបម្រុងទុក និងស្តារស្ថានីយការងារ</string>
+    <string name="native_0daee8026db1" formatted="false">ការបម្រុងទុក និងស្ដារស្ថានីយការងារ</string>
+    <string name="native_1acc18928c5f" formatted="false">រួមបញ្ចូល Debian ឧបករណ៍អ្នកអភិវឌ្ឍន៍ គម្រោងផ្ទះ វគ្គ OpenCode និងការកំណត់ ទិន្នន័យកម្មវិធីរុករកតាមអ៊ីនធឺណិត Linux និងការកំណត់ប្លង់ដើម។</string>
+    <string name="native_62254d31a535" formatted="false">ឯកសារបណ្តោះអាសន្ន និងការបម្រុងទុកចាស់ត្រូវបានដកចេញ។ ឧបករណ៍ផ្ទុក Android WebView និងសេចក្តីព្រាងដែលមិនបានផ្ញើនៅតែមាននៅលើឧបករណ៍នេះ ហើយមិនត្រូវបានផ្ទេរជាមួយនឹងការបម្រុងទុកនេះទេ។</string>
+    <string name="native_808eabc7811f" formatted="false">បង្កើតការបម្រុងទុកដែលបានអ៊ិនគ្រីប</string>
+    <string name="native_201c10b38296" formatted="false">នាំចូលការបម្រុងទុក</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">រក្សាទុកការផ្លាស់ប្តូររបស់អ្នកនៅក្នុងកម្មវិធីនិពន្ធឯកសារជាមុនសិន។</string>
+    <string name="native_0559cd596453" formatted="false">បញ្ឈប់ OpenCode ស្ថានីយ និងកុំព្យូទ័រលើតុ</string>
+    <string name="native_fdf2be8e3b93" formatted="false">ប្រតិបត្តិការបរិស្ថានមិនពេញលេញទេ។ សង្គ្រោះវាជាមុនសិន។</string>
+    <string name="native_185f58156330" formatted="false">ស្តារប្រតិបត្តិការមិនពេញលេញ</string>
+    <string name="native_20831b6f67a7" formatted="false">មិនធ្វើវិញការស្តារបរិស្ថានចុងក្រោយ</string>
+    <string name="native_4f392d5d6141">ច្បាប់ចម្លងមូលដ្ឋានដែលបានអ៊ិនគ្រីប៖ %1$s</string>
+    <string name="native_80077c694212" formatted="false">រក្សាទុកក្នុងឯកសារ</string>
+    <string name="native_f09619351eb9" formatted="false">លុបច្បាប់ចម្លងក្នុងស្រុក</string>
+    <string name="native_85c686eb9841">ដំណើរការ %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">បោះបង់កិច្ចការបម្រុងទុក</string>
+    <string name="native_66c9d896407b" formatted="false">អ៊ិនគ្រីបការបម្រុងទុកស្ថានីយការងារ</string>
+    <string name="native_548cd9f0831e" formatted="false">ឌិគ្រីប និងផ្ទៀងផ្ទាត់ការបម្រុងទុក\nការបម្រុងទុក</string>
+    <string name="native_d248f5eca9a5" formatted="false">អាចមានសោឯកជន SSH សោ API និងទិន្នន័យគណនី។ ប្រើយ៉ាងហោចណាស់ 12 តួអក្សរ។ ពាក្យសម្ងាត់ដែលភ្លេចមិនអាចយកមកវិញបានទេ។</string>
+    <string name="native_f249422b9ec1" formatted="false">ការបម្រុងទុកត្រូវបានឌិគ្រីប និងផ្ទៀងផ្ទាត់នៅក្នុងថតឯកជន។ បរិស្ថានរបស់អ្នកត្រូវបានជំនួសបន្ទាប់ពីអ្នកបញ្ជាក់ការស្ដារឡើងវិញប៉ុណ្ណោះ។\nពាក្យសម្ងាត់បម្រុងទុក</string>
+    <string name="native_e7be6841703a" formatted="false">ពាក្យសម្ងាត់បម្រុងទុក</string>
+    <string name="native_9f6aeedc5a00" formatted="false">ពាក្យសម្ងាត់ម្តងទៀត</string>
+    <string name="native_eafdc5cd4882" formatted="false">ចាប់ផ្តើមការអ៊ិនគ្រីប</string>
+    <string name="native_2986b88beade" formatted="false">ឌិគ្រីប និងផ្ទៀងផ្ទាត់</string>
+    <string name="native_0eddf4ad9b94" formatted="false">បោះបង់</string>
+    <string name="native_f46c5ed7412d" formatted="false">ស្តារបរិស្ថានពីមុនទាំងមូល?</string>
+    <string name="native_33eda0946a5b" formatted="false">លុបច្បាប់ចម្លងមូលដ្ឋានដែលបានអ៊ិនគ្រីប?\nគម្រោង</string>
+    <string name="native_26db24150f2e" formatted="false">, home, Debian និង sessions នឹងត្រឡប់ទៅស្ថានភាពរបស់ពួកគេវិញ មុនពេលការស្ដារចុងក្រោយ។ ការងារថ្មីៗបន្ថែមទៀតនឹងនៅតែមាននៅក្នុងការបម្រុងទុកឯកជននៅក្នុងកម្មវិធី។</string>
+    <string name="native_1153b30d51d5" formatted="false">មានតែច្បាប់ចម្លងមូលដ្ឋានដែលបានអ៊ិនគ្រីបនៅខាងក្នុងកម្មវិធីប៉ុណ្ណោះដែលត្រូវបានលុប។ ឯកសារដែលបានរក្សាទុកនៅកន្លែងផ្សេងនៅតែមាន។</string>
+    <string name="native_427a78a4e69a" formatted="false">បញ្ជាក់</string>
+    <string name="native_7af46d7ee003" formatted="false">ស្តារការបម្រុងទុកស្ថានីយការងារនេះទេ?</string>
+    <string name="native_ed40940162d0">%1$s\nធាតុ %2$s · %3$s\nOpenCode៖ %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">ការបម្រុងទុកមានកម្មវិធី Linux ដែលអាចប្រតិបត្តិបាន។ បញ្ជាក់ថាអ្នកទុកចិត្តប្រភពរបស់វា។ ការស្ដារឡើងវិញជំនួសបរិស្ថានទាំងមូល និងពិនិត្យមើលសេវាកម្មក្នុងស្រុក។ បរិយាកាសពីមុនត្រូវបានរក្សាទុកសម្រាប់ការស្តារឡើងវិញ។</string>
+    <string name="native_c3d74ed0c054" formatted="false">ត្រូវបានផ្ទៀងផ្ទាត់។ កំពុងរង់ចាំការបញ្ជាក់អំពីការស្ដារឡើងវិញ។</string>
+    <string name="native_97076078c749" formatted="false">ក៏បើករបៀបភាពឆបគ្នា Chromium (បិទដំណើរការ Linux sandbox)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">បិទតាមលំនាំដើម។ អ្នកអាចបើកវានៅពេលក្រោយនៅក្នុងការកំណត់ផ្ទៃតុ។</string>
+    <string name="native_ddf09383413c" formatted="false">បញ្ជាក់ការស្ដារឡើងវិញ</string>
+    <string name="native_8e6056b0f629" formatted="false">បោះបង់ការនាំចូល\nបរិស្ថានស្ថានីយការងារ</string>
+    <string name="native_63a895901c76" formatted="false">បានផ្លាស់ប្តូរ</string>
+    <string name="native_a4c994348a39" formatted="false">បើកកន្លែងធ្វើការឡើងវិញ</string>
+    <string name="native_774947f0653e" formatted="false">បោះបង់កិច្ចការ</string>
+    <string name="native_e09a22b18445" formatted="false">កិច្ចការត្រូវបានរំខាន។ ជ្រើសរើសប្រតិបត្តិការម្តងទៀត ហើយបញ្ចូលពាក្យសម្ងាត់។</string>
+    <string name="native_38c5fcc634db" formatted="false">រក្សាទុកការកែសម្រួលឯកសារនៅក្នុងបង្អួចទាំងអស់ជាមុនសិន។ បោះបង់ការនាំចូលដែលមានស្រាប់ មុនពេលព្យាយាមម្តងទៀត។</string>
+    <string name="native_029bfa8ff772" formatted="false">ការស្ដារស្ថានីយការងារ និងកម្មវិធីផ្ទៀងផ្ទាត់</string>
+    <string name="native_e4f04df818f8" formatted="false">កំពុងដំណើរការប្រតិបត្តិការបម្រុងទុកដែលបានជ្រើសរើសរបស់អ្នក។</string>
+    <string name="native_8206f072d5ee" formatted="false">បញ្ឈប់ OpenCode ស្ថានីយ និងកុំព្យូទ័រលើតុ បន្ទាប់មករង់ចាំប្រតិបត្តិការឯកសារបញ្ចប់។</string>
+    <string name="native_1a5cde18c609" formatted="false">មិនអាចចាប់ផ្តើមកិច្ចការបម្រុងទុកបានទេ។ ព្យាយាមម្តងទៀតជាមួយកម្មវិធីនៅខាងមុខ។</string>
+    <string name="native_1553b714941d" formatted="false">ឌិគ្រីប និងផ្ទៀងផ្ទាត់ការបម្រុងទុក។ បរិស្ថាន​ដើម​នៅ​តែ​រស់​ឡើង​វិញ…\nការបម្រុងទុក</string>
+    <string name="native_dafd005e953e" formatted="false">ត្រូវបានផ្ទៀងផ្ទាត់។ បញ្ជាក់ការស្ដារឡើងវិញនៅក្នុងកម្មវិធី។</string>
+    <string name="native_9fb236184596" formatted="false">បានលុបច្បាប់ចម្លងមូលដ្ឋានដែលបានអ៊ិនគ្រីបនៅខាងក្នុងកម្មវិធី។\nប្រតិបត្តិការ</string>
+    <string name="native_f98e9ac348b6" formatted="false">ត្រូវបានលុបចោល។ ទិន្នន័យបរិស្ថានដើមត្រូវបានរក្សាទុក។\nប្រតិបត្តិការ</string>
+    <string name="native_2a7a367ee0d2" formatted="false">មិនពេញលេញទេ។ ពិនិត្យពាក្យសម្ងាត់ ភាពត្រឹមត្រូវនៃការបម្រុងទុក កំណែម៉ាស៊ីន និងទំហំទំនេរ។ ទិន្នន័យបរិស្ថានដើមត្រូវបានរក្សាទុក។</string>
+    <string name="native_29deabd28960" formatted="false">កំពុងបង្កើតការបម្រុងទុកស្ថានីយការងារដែលបានអ៊ិនគ្រីប…\nការបម្រុងទុកដែលបានអ៊ិនគ្រីប</string>
+    <string name="native_3d137e243806" formatted="false">ត្រូវបានបង្កើតឡើង។ ជ្រើសរើសកន្លែងដែលត្រូវរក្សាទុកវា។</string>
+    <string name="native_0e2ac9266ad6" formatted="false">ការស្តារបរិស្ថានឡើងវិញ និងពិនិត្យមើលសេវាកម្មក្នុងស្រុក។ រក្សាទិន្នន័យកម្មវិធីឱ្យនៅដដែល...\nស្ថានីយការងារ</string>
+    <string name="native_840a6a8bf2e6" formatted="false">ត្រូវបានស្ដារឡើងវិញ។ បរិយាកាសពីមុននៅតែស្ថិតក្នុងការបម្រុងទុកឯកជន។ បើកកន្លែងធ្វើការឡើងវិញ។\nការពិនិត្យមើលឡើងវិញ</string>
+    <string name="native_0392cd6152d2" formatted="false">បានបរាជ័យ។ ត្រលប់ទៅបរិយាកាសមុន; ទិន្នន័យដែលបាននាំចូលនៅតែមាននៅក្នុងការបម្រុងទុកឯកជន។\nការស្ដារ</string>
+    <string name="native_5dc7410b600e" formatted="false">មិនពេញលេញទេ។ ថតទិន្នន័យទាំងអស់ត្រូវបានរក្សាទុក។ រក្សាទិន្នន័យកម្មវិធី ហើយព្យាយាមស្ដារឡើងវិញ។</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">ការស្ដារបរិស្ថានស្ថានីយការងារពីមុន...</string>
+    <string name="native_15821323ff89" formatted="false">បរិស្ថានពីមុនបានស្ដារឡើងវិញ។ ការងារថ្មីៗបន្ថែមទៀតនៅតែស្ថិតក្នុងការបម្រុងទុកឯកជន។ បើកកន្លែងធ្វើការឡើងវិញ។</string>
+    <string name="native_56dd94f47870" formatted="false">មិនអាចលុបចោលការស្ដារនេះឡើងវិញបានទេ។ បរិស្ថានបច្ចុប្បន្ន និងការបម្រុងទុកត្រូវបានរក្សាទុក។</string>
+    <string name="native_93530f3fa029" formatted="false">មិនធ្វើវិញគឺមិនពេញលេញទេ។ ថតទិន្នន័យទាំងអស់ត្រូវបានរក្សាទុក។ រក្សាទិន្នន័យកម្មវិធី ហើយព្យាយាមស្ដារឡើងវិញ។</string>
+    <string name="native_f12963c80def" formatted="false">កំពុងរក្សាទុកការបម្រុងទុកដែលបានអ៊ិនគ្រីប…\nការបម្រុងទុកដែលបានអ៊ិនគ្រីប</string>
+    <string name="native_0c1c02e2deb6" formatted="false">ត្រូវបានរក្សាទុក។ អ្នកអាចរក្សាទុកច្បាប់ចម្លងក្នុងស្រុកម្តងទៀត ឬលុបវាដោយដៃ។</string>
+    <string name="native_d660cccf65e0" formatted="false">កំពុងសម្អាតការនាំចូលដែលមិនបានបញ្ជាក់…\nការនាំចូល</string>
+    <string name="native_800592163979" formatted="false">ត្រូវបានលុបចោល។ បរិស្ថានដើមមិនផ្លាស់ប្តូរ។\nការនាំចូល</string>
+    <string name="native_5a90367eb834" formatted="false">ត្រូវបានលុបចោល។ បរិស្ថានដើមមិនផ្លាស់ប្តូរ; ទិន្នន័យនាំចូលបណ្តោះអាសន្នមួយចំនួននៅតែមាននៅក្នុងថតឯកជនរបស់កម្មវិធី។</string>
+    <string name="native_5cd50eb8b75b" formatted="false">កំពុងរៀបចំការឌិគ្រីប និងការផ្ទៀងផ្ទាត់...</string>
+    <string name="native_e9f2bea3118c" formatted="false">កំពុងរៀបចំការបម្រុងទុកដែលបានអ៊ិនគ្រីប…</string>
+    <string name="native_7bd5a0c93818" formatted="false">មិនអាចចាប់ផ្តើមសេវាកម្មបម្រុងទុកបានទេ។ ព្យាយាមម្តងទៀតនៅផ្ទៃខាងមុខ។</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">ស្ដារប្រតិបត្តិការបរិស្ថានដែលមិនពេញលេញជាមុនសិន</string>
+    <string name="native_f14aea7c819c" formatted="false">កំណត់ត្រាការស្តារឡើងវិញមិនត្រឹមត្រូវ</string>
+    <string name="native_7c284c55ee08" formatted="false">បាត់ថតឯកសារសង្គ្រោះ\nការកំណត់ដើម</string>
+    <string name="native_bfc4792df15b" formatted="false">លើសពីដែនកំណត់កំណត់ត្រានៃការស្តារឡើងវិញ</string>
+    <string name="native_8d93770ba8c9">បាត់ថតបរិស្ថានពីមុន៖ %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">ដំណាក់កាលសង្គ្រោះមិនស្គាល់</string>
+    <string name="native_20c5124fe175" formatted="false">ប្រតិបត្តិការសង្គ្រោះមិនស្គាល់</string>
+    <string name="native_1c457322b624" formatted="false">មិនមានបរិស្ថានពីមុនអាចស្តារឡើងវិញបានទេ។</string>
+    <string name="native_30db1666c8e5" formatted="false">ការបម្រុងទុកនេះជាកម្មសិទ្ធិរបស់កម្មវិធីផ្សេង\nស្ថាបត្យកម្មដំណើរការបម្រុងទុក</string>
+    <string name="native_6687d1c64d75" formatted="false">មិនត្រូវគ្នាទេ។</string>
+    <string name="native_b9b37d57fe6b" formatted="false">ធ្វើបច្ចុប្បន្នភាពម៉ាស៊ីនមេ Android ទៅកំណែដែលបានប្រើដោយការបម្រុងទុកនេះជាមុនសិន</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">ថតចម្លងមិនពេញលេញទេ។</string>
+    <string name="native_66106ab3e254" formatted="false">ការបម្រុងទុកចាស់មិនមានភស្តុតាងអ្នកបោះពុម្ព OpenCode ដែលអាចផ្ទៀងផ្ទាត់បានទេ។ ចាប់ផ្តើមបរិស្ថានដើមជាមួយម៉ាស៊ីននេះ មុនពេលបម្រុងទុកវាម្តងទៀត។</string>
+    <string name="native_bec13cc92982" formatted="false">សកម្មភាពប្រព័ន្ធបរិស្ថានអភិវឌ្ឍន៍</string>
+    <string name="native_65de80229626" formatted="false">Debian បានស្នើសុំសកម្មភាពប្រព័ន្ធ</string>
+    <string name="native_5e38581cf19c" formatted="false">ប៉ះដើម្បីពិនិត្យ និងដោះស្រាយសំណើ</string>
+    <string name="native_749d406d2c67" formatted="false">ពីបរិយាកាសអភិវឌ្ឍន៍ Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">បើកកម្មវិធីរុករកប្រព័ន្ធ?</string>
+    <string name="native_ce9491abbc6c" formatted="false">បើកការមើលគម្រោងក្នុងតំបន់?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">អានក្តារតម្បៀតខ្ទាស់?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">ចម្លងទៅក្ដារតម្បៀតខ្ទាស់ប្រព័ន្ធ?</string>
+    <string name="native_77f761eb70aa" formatted="false">ផ្ញើការជូនដំណឹងក្នុងតំបន់?</string>
+    <string name="native_e6b29e80abb7" formatted="false">ចែករំលែកឯកសារគម្រោង?</string>
+    <string name="native_9d36f698b3c1" formatted="false">នាំចូលឯកសារប្រព័ន្ធ?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">នាំចេញឯកសារគម្រោង?</string>
+    <string name="native_7ac295421c6d" formatted="false">បើកនៅក្នុងកម្មវិធីរុករក</string>
+    <string name="native_bbdb6043b5e9" formatted="false">បើកការមើលជាមុន</string>
+    <string name="native_14792d6cd7a6" formatted="false">អនុញ្ញាតឱ្យអាន</string>
+    <string name="native_b4caf8b99ddd" formatted="false">ចម្លងទៅក្ដារតម្បៀតខ្ទាស់</string>
+    <string name="native_4b3361a8c3a3" formatted="false">ផ្ញើការជូនដំណឹង</string>
+    <string name="native_88152a09fa02" formatted="false">ជ្រើសរើសកម្មវិធីចែករំលែក</string>
+    <string name="native_7a49a79c57f9" formatted="false">ជ្រើសរើសឯកសារ</string>
+    <string name="native_99d9f87419c5" formatted="false">ជ្រើសរើសកន្លែងដែលត្រូវរក្សាទុក</string>
+    <string name="native_23e5bb2090aa">%1$s\nបើកជាមួយទិន្នន័យកម្មវិធីរុករកដាច់ដោយឡែកពី OpenCode ។</string>
+    <string name="native_ecf17eaad49e" formatted="false">ផ្តល់អត្ថបទពីក្តារតម្បៀតខ្ទាស់ប្រព័ន្ធទៅកម្មវិធី Debian បច្ចុប្បន្ន។\nរបៀបភាពឆបគ្នា</string>
+    <string name="native_dcc6bec24e43">ជ្រើសរើសឯកសារដើម្បីនាំចូលទៅក្នុង %1$s ។ ឯកសារដែលមានស្រាប់ត្រូវបានរក្សាទុក ហើយស្ទួនត្រូវបានប្តូរឈ្មោះ។\nរបៀបកម្មវិធីរុករក</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium\nរបៀបភាពឆបគ្នា</string>
+    <string name="native_4767f37900f6" formatted="false">ប្រើទម្រង់កម្មវិធីរុករកតាមអ៊ីនធឺណិតដាច់ដោយឡែក ហើយបិទប្រអប់ខ្សាច់ដំណើរការ Linux របស់ Chromium ។ កម្មវិធីរុករកនៅតែអាចចូលប្រើឯកសារនៅក្នុងកម្មវិធីនេះ។ ជៀសវាងគេហទំព័រដែលមិនគួរឱ្យទុកចិត្ត ហើយប្រើកម្មវិធីរុករកប្រព័ន្ធ Android សម្រាប់គណនីសំខាន់ៗ។ បើក Chromium ឡើងវិញបន្ទាប់ពីផ្លាស់ប្តូររបៀប។</string>
+    <string name="native_a4317f2699a2" formatted="false">ស្តង់ដារ Linux ប្រអប់ខ្សាច់ត្រូវបានបើកតាមលំនាំដើម។ ប្រសិនបើ Chromium មិនអាចចាប់ផ្តើមបានទេ អ្នកអាចជ្រើសរើសរបៀបភាពឆបគ្នា។ វាបិទដំណើរការ Linux sandbox និងប្រើទម្រង់ដាច់ដោយឡែក ខណៈពេលដែលរក្សាការចូលប្រើឯកសារកម្មវិធី។ ជៀសវាងគេហទំព័រដែលមិនគួរឱ្យទុកចិត្ត; ប្រើកម្មវិធីរុករកប្រព័ន្ធ Android សម្រាប់គណនីសំខាន់ៗ។</string>
+    <string name="native_3a2596fa9517" formatted="false">ស្តាររបៀបស្តង់ដារ</string>
+    <string name="native_eeb5e46d62ae" formatted="false">បើករបៀបភាពឆបគ្នា។\nផ្ទៃតុ</string>
+    <string name="native_9a45442649f5" formatted="false">Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · បានចែករំលែក ការប្រកាស របស់ /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">ការដំឡើងដំបូងទាញយកសមាសធាតុក្រាហ្វិក។ បន្ទាប់ពីដំឡើងរួច ផ្ទៃតុអាចចាប់ផ្តើម និងបញ្ឈប់ដោយឯករាជ្យពី OpenCode ។\nកញ្ចក់</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC</string>
+    <string name="native_41e865941e16" formatted="false">កញ្ចក់ Debian ផ្លូវការ</string>
+    <string name="native_ea341b8a102b" formatted="false">ដំណោះស្រាយដំបូង</string>
+    <string name="native_ff1cde9ba35d" formatted="false">ផ្ទៃតុបន្តដំណើរការនៅពេលអ្នកប្តូរទំព័រ។ បញ្ឈប់វាពី Runtime ។</string>
+    <string name="native_aadf816e2dc8" formatted="false">បញ្ឈប់កិច្ចការផ្ទៃតុ</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">ចាប់ផ្តើមផ្ទៃតុ</string>
+    <string name="native_ea27a25e5114" formatted="false">ដំឡើងសមាសភាគផ្ទៃតុ</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium៖ របៀបភាពឆបគ្នា។</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium៖ របៀបស្តង់ដារ</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">ដំឡើងឧបករណ៍អ្នកអភិវឌ្ឍន៍ Debian ពី Runtime ជាមុនសិន។\nកំណត់ហេតុសកម្មភាព</string>
+    <string name="native_d1fa7ef127a7" formatted="false">កំណត់ហេតុសកម្មភាព</string>
+    <string name="native_bfaa904aa4d4" formatted="false">មិនអាចបើកថតគម្រោងបានទេ។ ពិនិត្យមើលថាមានថតឯកសារ។</string>
+    <string name="native_83c76743b29d" formatted="false">ស្ដារប្រតិបត្តិការបរិស្ថានដែលរំខាន</string>
+    <string name="native_739a730ae247" formatted="false">ការថែរក្សាបរិស្ថាន</string>
+    <string name="native_049281329843" formatted="false">រង់ចាំការថែទាំអាប់ដេត ឬកិច្ចការបច្ចុប្បន្នដើម្បីបញ្ចប់។</string>
+    <string name="native_07d5bdf94f1d" formatted="false">រង់ចាំឱ្យកិច្ចការបរិស្ថានអភិវឌ្ឍន៍បច្ចុប្បន្នបញ្ចប់</string>
+    <string name="native_83099168971c" formatted="false">កំពុងដំឡើងផ្ទៃតុ</string>
+    <string name="native_85e0c18dde8d" formatted="false">ចាប់ផ្តើមផ្ទៃតុ</string>
+    <string name="native_9a48f8196d8f" formatted="false">ត្រូវការការយកចិត្តទុកដាក់</string>
+    <string name="native_75470fb13121" formatted="false">ឈប់</string>
+    <string name="native_51a53c8109d5" formatted="false">មិនអាចអាន ឬរក្សាទុកកំណត់ត្រាសកម្មភាពបានទេ។ ជួសជុល​វា​ពី​ពេល​រត់ ឬ​បង្កើន​ទំហំ​ផ្ទុក​មួយ​ចំនួន។</string>
+    <string name="native_d36a018cc619" formatted="false">ដំឡើងបរិស្ថានអភិវឌ្ឍន៍ Debian ជាមុនសិន</string>
+    <string name="native_80be4c2928a5" formatted="false">ភ្ជាប់ទៅបណ្តាញជាមុនសិន\nការដំឡើងផ្ទៃតុ</string>
+    <string name="native_a065d81014b1" formatted="false">មិនពេញលេញទេ។ ព្យាយាមដំឡើងម្តងទៀត។</string>
+    <string name="native_721c38b32c35" formatted="false">Desktop ត្រូវបានដំឡើង។ ចាប់ផ្តើមវានៅពេលចាំបាច់។</string>
+    <string name="native_6c1c52771115" formatted="false">ដំឡើងសមាសភាគផ្ទៃតុជាមុនសិន\nប្រតិបត្តិការ</string>
+    <string name="native_693d90a47827" formatted="false">Desktop បានបរាជ័យ។ ព័ត៌មានលម្អិតវែងពេក ឬមិនមាន។</string>
+    <string name="native_d3e7be3c38fd" formatted="false">មិនអាចបញ្ចប់ការរក្សាទុកសញ្ញាសម្គាល់ឈប់បានទេ។ ការសម្អាតដំណើរការបានបន្ត។</string>
+    <string name="native_06083621a6ce" formatted="false">មិនអាចបញ្ចប់ការរក្សាទុកកំណត់ត្រាសកម្មភាពបានទេ។ ការបាញ់បង្ហោះលើកក្រោយនឹងចាត់ទុកវាថាជាការរំខាន។</string>
+    <string name="native_04d721a3819a" formatted="false">Desktop កំពុងដំណើរការ\nប្រតិបត្តិការ</string>
+    <string name="native_c3f0acaf7a73" formatted="false">អស់ពេល។ ពិនិត្យមើលកំណត់ហេតុ ហើយព្យាយាមម្តងទៀត។</string>
+    <string name="native_e70d328a3ca9">ដំណើរការផ្ទៃតុបានចាកចេញ (%1$s)។ ពិនិត្យមើលកំណត់ហេតុសកម្មភាព។</string>
+    <string name="native_df5c878f2852" formatted="false">កន្លែងធ្វើការក្រាហ្វិកក្នុងតំបន់</string>
+    <string name="native_7b0455a8daa4" formatted="false">បញ្ឈប់ផ្ទៃតុ</string>
+    <string name="native_a62123cde9c7" formatted="false">កិច្ចការរំខាន និងការស្តារឡើងវិញ</string>
+    <string name="native_279308947a14" formatted="false">មិនអាចអានកំណត់ត្រាសកម្មភាពបានទេ។ ការជួសជុលរក្សាច្បាប់ចម្លងនៃកំណត់ត្រាដែលខូច និងរក្សាគម្រោង វគ្គ និងបរិស្ថាន Linux ។</string>
+    <string name="native_2bd92fae24e5" formatted="false">ជួសជុលកំណត់ត្រាសកម្មភាព</string>
+    <string name="native_6b43650c2c82" formatted="false">កិច្ចការបានបញ្ចប់ដោយមិននឹកស្មានដល់។\nស្ថានីយ</string>
+    <string name="native_acb0c970aaa6">%1$s មិនត្រូវបានបិទជាធម្មតាទេ។ ពាក្យបញ្ជាដែលកំពុងដំណើរការរបស់ពួកគេត្រូវបានរំខាន។</string>
+    <string name="native_4ba153d8dff5" formatted="false">ចាប់ផ្តើមឡើងវិញត្រូវបានបញ្ជាក់។ ពាក្យបញ្ជាពីមុនមិនត្រូវបានចាក់ឡើងវិញទេ។</string>
+    <string name="native_f03a2adbf5cd" formatted="false">គម្រោង និងវគ្គដែលបានរក្សាទុកត្រូវបានរក្សាទុក។ បើកស្ថានីយឡើងវិញដោយដៃ; ពាក្យ​បញ្ជា​ដែល​មិន​បាន​បញ្ចប់​នឹង​មិន​បន្ត​ដោយ​ស្វ័យ​ប្រវត្តិ​ទេ។</string>
+    <string name="native_fa9669296762" formatted="false">ចាប់ផ្ដើម OpenCode ឡើងវិញ</string>
+    <string name="native_bd8130bec5d9" formatted="false">ផ្ទៃតុនឹងមិនចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិទេ។ ចាប់ផ្តើមវាម្តងទៀតពីទំព័រផ្ទៃតុ។</string>
+    <string name="native_644f8f44251f" formatted="false">បើកឯកសារ</string>
+    <string name="native_9dfb5569d609" formatted="false">បានចែករំលែក ឯកសារ</string>
+    <string name="native_a4500cff3a86" formatted="false">ថតការងារមិនត្រូវជាតំណភ្ជាប់និមិត្តសញ្ញាទេ។</string>
+    <string name="native_8657d27661bd" formatted="false">ផ្លូវថតការងារមិនត្រឹមត្រូវ</string>
+    <string name="native_02b702a9adff" formatted="false">ជ្រើសរើសឯកសារមួយ។</string>
+    <string name="native_924874b746cc" formatted="false">គ្រប់គ្រងតំណភ្ជាប់និមិត្តសញ្ញានៅក្នុងស្ថានីយ</string>
+    <string name="native_efea6e422a54" formatted="false">ឈ្មោះឯកសារមិនត្រឹមត្រូវ\nបញ្ជីឈ្មោះ</string>
+    <string name="native_c4989dc37aab" formatted="false">មិនមានទេ។\nថតទិសដៅ</string>
+    <string name="native_d613dba39b44" formatted="false">មិនមានទេ។</string>
+    <string name="native_4f9b3fb4920b" formatted="false">មិនអាចដាក់ Folder នៅខាងក្នុងខ្លួនវា ឬកូនចៅរបស់វាបានទេ។</string>
+    <string name="native_c3acd5a3254c" formatted="false">គម្រោងនេះមានឧបករណ៍ ឬរន្ធពិសេស ហើយមិនអាចចម្លងបានទេ។</string>
+    <string name="native_6c36955b068b" formatted="false">ជ្រើសរើសឯកសារធម្មតា។</string>
+    <string name="native_49191d7d489f" formatted="false">ឯកសារនេះលើសពី 2 MB ។ កែសម្រួលវាដោយប្រើ OpenCode ឬស្ថានីយ។\nឯកសារ</string>
+    <string name="native_ee42414d36c2" formatted="false">ធំពេក</string>
+    <string name="native_f0a979f87157" formatted="false">នាំចេញឯកសារគោលពីរដើម្បីបើកពួកវានៅក្នុងកម្មវិធីផ្សេងទៀត។</string>
+    <string name="native_88a9c82651fc" formatted="false">កែសម្រួលឯកសារដែលមិនមែនជា UTF-8 ជាមួយ OpenCode ឬស្ថានីយ</string>
+    <string name="native_0189a5c3418c" formatted="false">ឧបករណ៍មួយផ្សេងទៀតបានផ្លាស់ប្តូរឯកសារនេះ។ បើកវាឡើងវិញមុនពេលកែសម្រួល។</string>
+    <string name="native_0ce79256f4ac" formatted="false">ថតដើមលែងមានទៀតហើយ។ ស្តារវាជាមុនសិន។</string>
+    <string name="native_46eae321049e" formatted="false">មិនមានកម្មវិធីចែករំលែកទេ។\nធុងសំរាម</string>
+    <string name="native_87d699d3a26c" formatted="false">ឯកសារគម្រោង</string>
+    <string name="native_d0a8c03d6c07" formatted="false">ឯកសារគម្រោង</string>
+    <string name="native_4dcf914f0b64" formatted="false">ឯកសារដែលបានលុបអាចត្រូវបានស្ដារឡើងវិញទៅថតដើមរបស់ពួកគេ។</string>
+    <string name="native_c5b81b02354f" formatted="false">ត្រឡប់មកវិញ</string>
+    <string name="native_e56b99379169">បានចម្លងឯកសារ %1$s · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">កំពុងចម្លង...</string>
+    <string name="native_85199bb36b04" formatted="false">បោះបង់ប្រតិបត្តិការ</string>
+    <string name="native_e9dc52d1c24b" formatted="false">បិទ</string>
+    <string name="native_4e1e5aacac7f" formatted="false">វគ្គថ្មី។</string>
+    <string name="native_23c250cc8e0b" formatted="false">ចាប់ផ្តើមវគ្គ OpenCode នៅទីនេះ\nស្ថានីយ</string>
+    <string name="native_f22da21fd54f" formatted="false">ស្ថានីយ</string>
+    <string name="native_3645f30b3412" formatted="false">ការផ្លាស់ប្តូរដែលមិនបានរក្សាទុក</string>
+    <string name="native_2266227605c4" formatted="false">រក្សាទុក</string>
+    <string name="native_064fbc7ad3f3" formatted="false">ធុងសំរាមទទេ\nស្តារ</string>
+    <string name="native_a9e739b13e52" formatted="false">ផ្លាស់ទី</string>
+    <string name="native_45985dc2183e" formatted="false">៖</string>
+    <string name="native_31214130b5b7" formatted="false">ចម្លង៖ \nបិទភ្ជាប់</string>
+    <string name="native_07e5c3158f35" formatted="false">បិទភ្ជាប់</string>
+    <string name="native_831b4e0fb574" formatted="false">ថ្មី។</string>
+    <string name="native_ff65a22d7087" formatted="false">ថតថ្មី។</string>
+    <string name="native_71faed44a86c" formatted="false">ឯកសារថ្មី។</string>
+    <string name="native_8dddd460f6ae" formatted="false">នាំចូល</string>
+    <string name="native_d85825123e60" formatted="false">ធ្វើឱ្យស្រស់</string>
+    <string name="native_ac9d73843736" formatted="false">ស្វែងរកថតនេះ។</string>
+    <string name="native_21eef82963ee" formatted="false">ថតនេះគឺទទេ។ នាំចូលឯកសារ ឬបង្កើតគម្រោង។</string>
+    <string name="native_e8a4cecaa371" formatted="false">គ្មានឯកសារដែលត្រូវគ្នាទេ។</string>
+    <string name="native_d674bc0f86b8" formatted="false">សកម្មភាពឯកសារ\nតំណភ្ជាប់និមិត្តសញ្ញា</string>
+    <string name="native_d04a47c87cc8" formatted="false">ថតឯកសារ</string>
+    <string name="native_e0ba66f5246a" formatted="false">ថតឯកសារ</string>
+    <string name="native_f170b42599e8" formatted="false">ប្តូរឈ្មោះ</string>
+    <string name="native_4cdacf57ead2" formatted="false">ចម្លង</string>
+    <string name="native_124aa030694e" formatted="false">ផ្លាស់ទីទៅ…</string>
+    <string name="native_ac990518ed87" formatted="false">បើកស្ថានីយនៅទីនេះ</string>
+    <string name="native_87bc93932d8a" formatted="false">នាំចេញទៅឯកសារប្រព័ន្ធ</string>
+    <string name="native_dd37f132172f" formatted="false">ផ្លាស់ទីទៅធុងសំរាម</string>
+    <string name="native_7318746d337c" formatted="false">ផ្លាស់ទីទៅធុងសំរាម?</string>
+    <string name="native_2b5ee3f10a56">អ្នកអាចស្តារ “%1$s” ពីធុងសំរាម។\nផ្លាស់ទី</string>
+    <string name="native_e49730c9e7e1" formatted="false">ផ្លាស់ទី</string>
+    <string name="native_4e47aaa113fc" formatted="false">បោះបង់ការផ្លាស់ប្តូរដែលមិនបានរក្សាទុក?</string>
+    <string name="native_63b75399ef1a" formatted="false">បោះបង់ការផ្លាស់ប្តូរ</string>
+    <string name="native_d9618f7b8d25" formatted="false">បន្តការកែសម្រួល\nឈ្មោះ</string>
+    <string name="native_76ce6aef5479" formatted="false">ឈ្មោះ</string>
+    <string name="native_35b0fc30b909" formatted="false">យល់ព្រម</string>
+    <string name="native_11b319774788" formatted="false">បរិស្ថានត្រូវបានស្ដារឡើងវិញ។ បើកកន្លែងធ្វើការឡើងវិញ។</string>
+    <string name="native_7e4a5bcb0461" formatted="false">បញ្ចប់ការទាញយកប្រតិបត្តិការដែលរំខាននៅក្នុង Runtime ជាមុនសិន\nការថែរក្សាបរិស្ថាន</string>
+    <string name="native_f29af06e7c99" formatted="false">កំពុងដំណើរការ។ ព្យាយាមម្តងទៀតនៅពេលក្រោយ។\nប្រតិបត្តិការ</string>
+    <string name="native_3bd28258feb0" formatted="false">ត្រូវបានលុបចោល</string>
+    <string name="native_c508721eb3cd" formatted="false">ឯកសារដែលមានឈ្មោះនេះមានរួចហើយ។ ជ្រើសរើសឈ្មោះផ្សេងទៀត។</string>
+    <string name="native_1e8274fe468a" formatted="false">ឯកសារលែងមានទៀតហើយ។ ធ្វើឱ្យថតឡើងវិញ។</string>
+    <string name="native_ac05dcaad6ed" formatted="false">ការអនុញ្ញាតចូលប្រើឯកសារត្រូវបានបដិសេធ</string>
+    <string name="native_cd808e4c321e" formatted="false">មិនអាចបញ្ចប់ប្រតិបត្តិការបានទេ។\nប្រតិបត្តិការ</string>
+    <string name="native_01cbe9be8b9f" formatted="false">មិនពេញលេញទេ។ ពិនិត្យទំហំផ្ទុកដែលមាន ឬជ្រើសរើសឯកសារម្តងទៀត។</string>
+    <string name="native_3f9983126fd7" formatted="false">ពិនិត្យមើលស្ថានភាពចាប់ផ្តើម OpenCode នៅក្នុងពេលដំណើរការ</string>
+    <string name="native_6ed9fe2281bb" formatted="false">មិនអាចបើកស្ថានីយថ្មីបានទេ។ ពិនិត្យចំនួនវគ្គ។</string>
+    <string name="native_2160fde3813a" formatted="false">គ្រប់គ្រងតំណភ្ជាប់និមិត្តសញ្ញានៅក្នុងស្ថានីយ។ កម្មវិធីគ្រប់គ្រងឯកសារមិនធ្វើតាមតំណទេ។\nការផ្លាស់ទី</string>
+    <string name="native_7a844e9d4017" formatted="false">បានបញ្ចប់</string>
+    <string name="native_573877894fcf" formatted="false">ចម្លងបានបញ្ចប់</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">បានផ្លាស់ទីទៅធុងសំរាម</string>
+    <string name="native_862330af933f" formatted="false">បានស្ដារឡើងវិញទៅថតដើម</string>
+    <string name="native_beda23c9d52b" formatted="false">ការថែទាំបរិស្ថាន ឬការជំនួសបានកើតឡើង។ បើកកន្លែងធ្វើការឡើងវិញមុនពេលកែសម្រួល។</string>
+    <string name="native_678c6953bb2b" formatted="false">បានរក្សាទុក</string>
+    <string name="native_8063159f2178" formatted="false">មិនអាចអានឯកសារដែលបានជ្រើសរើសទេ។</string>
+    <string name="native_4cdc2180d2ac">បាននាំចូលឯកសារ %1$s</string>
+    <string name="native_e98763643b93" formatted="false">មិនអាចសរសេរទៅទីតាំងដែលបានជ្រើសរើសទេ។\nការនាំចេញ</string>
+    <string name="native_5afd173be7fa" formatted="false">បានបញ្ចប់\nលេខកូដ</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">និងវគ្គ\nផ្ទៃតុ</string>
+    <string name="native_8745ed51cadd" formatted="false">ផ្ទៃតុ</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">កន្លែងធ្វើការក្រាហ្វិក\nឯកសារ</string>
+    <string name="native_770d49c5f689" formatted="false">រយៈពេលដំណើរការ</string>
+    <string name="native_6a9b6480b58f" formatted="false">សេវាកម្ម</string>
+    <string name="native_b561fe9204cc" formatted="false">និងឧបករណ៍អ្នកអភិវឌ្ឍន៍</string>
+    <string name="native_70850bdeeabd" formatted="false">បិទម៉ឺនុយទំព័រ\nកន្លែងធ្វើការ</string>
+    <string name="native_b4549acb48e8" formatted="false">កន្លែងធ្វើការ</string>
+    <string name="native_3d3551f4660f">ភាពស្រអាប់នៃប៊ូតុងអណ្តែត %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">តម្លៃទាបធ្វើឱ្យប៊ូតុងអណ្តែតមានតម្លាភាពជាងមុន</string>
+    <string name="native_e031beabfc9a" formatted="false">បើកម៉ឺនុយទំព័រ</string>
+    <string name="native_106ee775b538" formatted="false">កំពុងភ្ជាប់ទៅកាន់ OpenCode ក្នុងស្រុក...</string>
+    <string name="native_a021adc1f449" formatted="false">ការតភ្ជាប់ក្នុងតំបន់ត្រូវការការស្តារឡើងវិញ</string>
+    <string name="native_dacb8837471c" formatted="false">ភ្ជាប់ឡើងវិញ</string>
+    <string name="native_17584aa60ae6" formatted="false">មិនអាចរៀបចំឃ្លាំងផ្ទុកទិន្នន័យមូលដ្ឋានបានទេ។</string>
+    <string name="native_3b3b80064ccb" formatted="false">កំពុងរៀបចំ OpenCode ក្នុងស្រុក…</string>
+    <string name="native_2560ee8fdd16" formatted="false">ព្យាយាមម្តងទៀត\nទីតាំងកន្លែងធ្វើការ</string>
+    <string name="native_b07809340403" formatted="false">មិនទាន់ត្រូវបានរក្សាទុកនៅឡើយទេ។ ព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="native_e4ab10392d05" formatted="false">សេវាកម្មក្នុងស្រុកកំពុងរៀបចំរួចរាល់ហើយ។ កន្លែងធ្វើការរបស់អ្នកនឹងបើកដោយស្វ័យប្រវត្តិនៅពេលភ្ជាប់។</string>
+    <string name="native_20ea15973287" formatted="false">ការរត់ពីមុនត្រូវបានរំខាន។ ចាប់ផ្តើមឡើងវិញពីពេលរត់; ពាក្យបញ្ជាស្ថានីយនឹងមិនត្រូវបានចាក់ឡើងវិញដោយស្វ័យប្រវត្តិទេ។</string>
+    <string name="native_f2f2f6d32544" formatted="false">ចាប់ផ្តើម OpenCode ពី Runtime ដើម្បីបើកកូដ និងវគ្គ។</string>
+    <string name="native_abbac5c22111" formatted="false">ចាកចេញពីកម្មវិធី?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">បរិយាកាសអភិវឌ្ឍន៍អាចបន្តដំណើរការក្នុងផ្ទៃខាងក្រោយ។ ត្រឡប់ក្រោយពីការជូនដំណឹង។</string>
+    <string name="native_814a8fb24b62" formatted="false">ចាកចេញពីកន្លែងធ្វើការបច្ចុប្បន្ន?</string>
+    <string name="native_a76464945c2d" formatted="false">ក៏បញ្ឈប់បរិយាកាសអភិវឌ្ឍន៍ផងដែរ។</string>
+    <string name="native_b814fd8d6bc5" formatted="false">ចេញ\nស្ថានីយការងារអភិវឌ្ឍន៍</string>
+    <string name="native_b00143b08ff1" formatted="false">រួចរាល់ហើយ។</string>
+    <string name="native_51bca456a350" formatted="false">ស្ថានីយការងារអភិវឌ្ឍន៍ Debian របស់អ្នក។</string>
+    <string name="native_0c2acd0b6057" formatted="false">កំពុងដំណើរការ</string>
+    <string name="native_cb40c67e7cb1" formatted="false">ចាប់ផ្តើម\nការបញ្ឈប់</string>
+    <string name="native_44da7f6a451d" formatted="false">ការបញ្ឈប់</string>
+    <string name="native_b7e1503a7239" formatted="false">ជួសជុលបរិស្ថានអភិវឌ្ឍន៍</string>
+    <string name="native_7c91bd67ff14" formatted="false">ដំឡើងបរិស្ថានអភិវឌ្ឍន៍</string>
+    <string name="native_cfd73bb04860" formatted="false">បញ្ឈប់បរិស្ថាន</string>
+    <string name="native_e7ec95694dce" formatted="false">ចាប់ផ្តើម OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">ពិនិត្យបរិស្ថាន</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">ធ្វើបច្ចុប្បន្នភាពឧបករណ៍អ្នកអភិវឌ្ឍន៍ Debian</string>
+    <string name="native_c114ec62712b" formatted="false">ការបម្រុងទុកបរិស្ថានពីមុន គម្រោង និងទិន្នន័យសម័យត្រូវបានរក្សាទុក។</string>
+    <string name="native_eb3114155716" formatted="false">ដំឡើង/ធ្វើបច្ចុប្បន្នភាពម៉ាស៊ីនមេភាសា</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) និង Python (pylsp) ត្រូវបានដំឡើងតាមអ៊ីនធឺណិតពីឃ្លាំង Debian ដែលបានចុះហត្ថលេខា។ បញ្ឈប់ OpenCode និងផ្ទៃតុជាមុនសិន។</string>
+    <string name="native_2c7251cce661" formatted="false">ប៉ះប៊ូតុងអណ្តែតដើម្បីប្តូរទំព័រ។ អូសវាដើម្បីដាក់ទីតាំងឡើងវិញ។\nព័ត៌មានអំពីពេលវេលាដំណើរការ</string>
+    <string name="native_dcef145e6a9b" formatted="false">បង្ហាញនៅទីនេះបន្ទាប់ពីការចាប់ផ្តើម។</string>
+    <string name="native_a8243a4e0d22" formatted="false">បើកដំណើរការ</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">កញ្ចប់ APK កំណែ</string>
+    <string name="native_e6b986511faf" formatted="false">ការធ្វើបច្ចុប្បន្នភាពកូដ OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">នាំចូល .ocaupdate ដែលចុះហត្ថលេខាដោយអ្នកបោះពុម្ពផ្សាយកម្មវិធីនេះ។ ការអាប់ដេតផ្នែកខាងមុខ និងផ្នែកខាងក្រោយផ្លូវការរួមគ្នា។\nប្រភពអាប់ដេត</string>
+    <string name="native_8aad48b0508d" formatted="false">(HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">ពិនិត្យប្រភពបច្ចុប្បន្នភាព</string>
+    <string name="native_f73973cfadbb">បានចុះហត្ថលេខាលើការចេញផ្សាយ៖ %1$s\nសន្យា៖ %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">ទាញយក និងផ្ទៀងផ្ទាត់</string>
+    <string name="native_f2ef7965bf12" formatted="false">ជ្រើសរើសកញ្ចប់អាប់ដេត</string>
+    <string name="native_165111adfe2c">រួចរាល់ក្នុងការដំឡើង៖ %1$s\nប្តេជ្ញា៖ %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">ដំឡើងបច្ចុប្បន្នភាពនេះ។</string>
+    <string name="native_f9432c4d9b1e" formatted="false">ស្តារកំណែ និងវគ្គពីមុនពេលធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="native_6864335de653" formatted="false">បោះបង់ការធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="native_5e3472cf084e" formatted="false">ដំឡើងបច្ចុប្បន្នភាព OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">ស្តារស្ថានភាពឡើងវិញមុនពេលធ្វើបច្ចុប្បន្នភាព?</string>
+    <string name="native_11beb4a42abc">ដំឡើង %1$s ។ កម្មវិធីនេះរក្សាទុករូបថតនៃវគ្គ ពិនិត្យកម្មវិធីដែលបានចុះហត្ថលេខា និងស្ដារកំណែមុនប្រសិនបើវាបរាជ័យ។ ឯកសារគម្រោងត្រូវបានរក្សាទុក។</string>
+    <string name="native_bc7b4149e7d2" formatted="false">Sessions ត្រឡប់ទៅស្ថានភាពរបស់ពួកគេវិញមុនពេលអាប់ដេតនេះ។ វគ្គថ្មីៗបន្ថែមទៀតនៅតែមាននៅក្នុងការបម្រុងទុកឯកជន។ ឯកសារគម្រោងត្រូវបានរក្សាទុក។</string>
+    <string name="native_def5e273616d" formatted="false">បញ្ជាក់ការដំឡើង</string>
+    <string name="native_369d2eefccde" formatted="false">មិនអាចបំបែកទិន្នន័យកម្មវិធីរុករកតាមអ៊ីនធឺណិតបានទេ។ បើកការមើលជាមុនឡើងវិញ។</string>
+    <string name="native_c3ac77c50f0b" formatted="false">មិនអាចផ្ទុកទំព័រគម្រោងបានទេ។ ពិនិត្យម៉ាស៊ីនមេអភិវឌ្ឍន៍នៅក្នុងស្ថានីយរបស់អ្នក។\nគេហទំព័រគម្រោងមើលជាមុន</string>
+    <string name="native_6e7408950cf5" formatted="false">ការមើលគម្រោង</string>
+    <string name="native_bfb4951e071d" formatted="false">ការមើលគម្រោងជាមុន</string>
+    <string name="native_f80652913d06" formatted="false">ចាប់ផ្តើមម៉ាស៊ីនមេអភិវឌ្ឍន៍នៅក្នុងស្ថានីយ បន្ទាប់មកបញ្ចូលច្រកមូលដ្ឋានរបស់វា។ ទិន្នន័យកម្មវិធីរុករកតាមអ៊ីនធឺណិតមើលជាមុនគឺដាច់ដោយឡែកពី OpenCode ។\nច្រក</string>
+    <string name="native_2c41e85af61f" formatted="false">ច្រក</string>
+    <string name="native_77c3a828a5c5" formatted="false">បញ្ចូលច្រកអភិវឌ្ឍន៍ពី 1024 ដល់ 65535 ដោយមិនរាប់បញ្ចូលសេវាកម្ម OpenCode និងផ្ទៃតុ។</string>
+    <string name="native_7311a9dfea51" formatted="false">គ្មានអ្វីកំពុងស្តាប់នៅលើច្រកនេះទេ។ ពិនិត្យសេវាកម្មនៅក្នុងស្ថានីយរបស់អ្នក។</string>
+    <string name="native_4f8d84105475" formatted="false">កំពុងពិនិត្យ...</string>
+    <string name="native_4923c272b68e" formatted="false">ច្រកអភិវឌ្ឍន៍ត្រូវតែជាចំនួនគត់</string>
+    <string name="native_04a87026e81f" formatted="false">ជ្រើសរើសច្រកអភិវឌ្ឍន៍គម្រោងត្រឹមត្រូវ។\nវគ្គអភិវឌ្ឍន៍</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode</string>
+    <string name="native_e87a4529ab82" formatted="false">ការធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian\nការជួសជុលបរិស្ថានអភិវឌ្ឍន៍</string>
+    <string name="native_0c6301bc295d" formatted="false">ការជួសជុលបរិស្ថានអភិវឌ្ឍន៍</string>
+    <string name="native_0ddf3d4297eb" formatted="false">ការដំឡើងម៉ាស៊ីនមេភាសា</string>
+    <string name="native_9612d4419bb6" formatted="false">ការស្តារបរិស្ថាន</string>
+    <string name="native_f72fba77f87a" formatted="false">ការដំឡើង</string>
+    <string name="native_7c8162195c7c" formatted="false">Desktop</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">ការរត់ពីមុនត្រូវបានរំខាន។ ចាប់ផ្តើមឡើងវិញយ៉ាងច្បាស់ពីពេលរត់។</string>
+    <string name="native_22b3b2e8ffad" formatted="false">ភារកិច្ចអភិវឌ្ឍន៍នៃប្រភេទនេះនៅតែដំណើរការ</string>
+    <string name="native_95a56e0a3fe2" formatted="false">ជួសជុលកំណត់ត្រាសកម្មភាព\nដំណើរការ</string>
+    <string name="native_b66749ed72ea" formatted="false">បានចេញ</string>
+    <string name="native_6b25042064e2" formatted="false">បញ្ចប់ដោយសញ្ញា</string>
+    <string name="native_d6febdf1752b" formatted="false">បានទាមទារមកវិញ ដោយសារមានអង្គចងចាំទាប\nកម្មវិធី</string>
+    <string name="native_1d13790f3c89" formatted="false">គាំង</string>
+    <string name="native_28db94d1850d" formatted="false">ដំណើរការដើមគាំង\nកម្មវិធី</string>
+    <string name="native_86919539f7f1" formatted="false">មិនឆ្លើយតប</string>
+    <string name="native_90fb8d6098a5" formatted="false">ការចាប់ផ្តើមបានបរាជ័យ\nការអនុញ្ញាត</string>
+    <string name="native_38c60ab6654c" formatted="false">ត្រូវបានផ្លាស់ប្តូរ\nដែនកំណត់ធនធាន</string>
+    <string name="native_6d2a6c71334d" formatted="false">អ្នកប្រើប្រាស់</string>
+    <string name="native_19b2090b01a8" formatted="false">បានស្នើសុំបញ្ឈប់</string>
+    <string name="native_120d96445f1a" formatted="false">បានបញ្ឈប់ដោយអ្នកប្រើប្រាស់</string>
+    <string name="native_3c8af14f66bc" formatted="false">ដំណើរការអាស្រ័យបានចេញ</string>
+    <string name="native_ca0941ce04ae" formatted="false">ហេតុផលប្រព័ន្ធផ្សេងទៀត។\nការបង្កកដំណើរការ</string>
+    <string name="native_2df1ac3c1d38" formatted="false">ស្ថានភាពកម្មវិធី</string>
+    <string name="native_0d48373023a8" formatted="false">បានផ្លាស់ប្តូរ\nអាប់ដេតកម្មវិធី</string>
+    <string name="native_c752307db26b" formatted="false">អាប់ដេតកម្មវិធី</string>
+    <string name="native_b5015951cbdf" formatted="false">ប្រព័ន្ធមិនបានផ្តល់នូវហេតុផលចាកចេញទេ។\nការចាកចេញពីប្រព័ន្ធ</string>
+    <string name="native_b62737b826ad">(%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">មិនអាចបើកថតគម្រោងបានទេ។</string>
+    <string name="native_faf5d983c13e" formatted="false">មិនអាចបង្កើតវគ្គ OpenCode បានទេ។</string>
+    <string name="native_2152aab78ab8" formatted="false">ថតសម័យ OpenCode មិនត្រូវគ្នាទេ។</string>
+    <string name="native_ac19736908a2" formatted="false">មិនអាចអានវគ្គ OpenCode បានទេ។</string>
+    <string name="native_2642997cfeec" formatted="false">ការថែរក្សាបរិស្ថាន</string>
+    <string name="native_f992d735d932" formatted="false">បញ្ឈប់ OpenCode ស្ថានីយ និងផ្ទៃតុ Debian បន្ទាប់មករង់ចាំប្រតិបត្តិការឯកសារបញ្ចប់</string>
+    <string name="native_489f137f1080" formatted="false">ការចាក់សោរថែទាំបរិស្ថានលែងមានសុពលភាពទៀតហើយ</string>
+    <string name="native_42380e2567fc" formatted="false">ប្រតិបត្តិការរំខានត្រូវបានសង្គ្រោះ។ បើកកន្លែងធ្វើការឡើងវិញ។</string>
+    <string name="native_17b00cac2b91" formatted="false">ការស្តារការតភ្ជាប់មូលដ្ឋានបានបរាជ័យ។ ព្យាយាមម្តងទៀតពីពេលរត់។\nការថែរក្សាបរិស្ថាន</string>
+    <string name="native_77e9ca4e944c" formatted="false">កំពុងដំណើរការ។ ព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="native_dbaebe3ce243" formatted="false">បញ្ឈប់ផ្ទៃតុ Debian មុនពេលធ្វើបច្ចុប្បន្នភាពបរិស្ថានអភិវឌ្ឍន៍</string>
+    <string name="native_548085b144c9" formatted="false">ប្រតិបត្តិការរំខានត្រូវបានសង្គ្រោះ។ អ្នកអាចចាប់ផ្តើមបរិស្ថានអភិវឌ្ឍន៍។</string>
+    <string name="native_b4a1531f9eac" formatted="false">ការរត់ពីមុនត្រូវបានរំខាន។ ពាក្យបញ្ជាស្ថានីយនឹងមិនចាក់ឡើងវិញដោយស្វ័យប្រវត្តិទេ។ ចាប់ផ្តើមឡើងវិញយ៉ាងច្បាស់ពីពេលរត់។</string>
+    <string name="native_295cafdfd512" formatted="false">ការសម្អាតការកំណត់រចនាសម្ព័ន្ធការតភ្ជាប់បណ្តោះអាសន្នមិនពេញលេញទេ។ ការសម្អាតដំណើរការបានបន្ត។</string>
+    <string name="native_ab16cdc08a8e" formatted="false">មិនអាចបង្កើតកន្លែងធ្វើការ helloworld បានទេ។ ពិនិត្យបញ្ជីឈ្មោះ និងកន្លែងទំនេរ។</string>
+    <string name="native_68301868225a" formatted="false">ថតកន្លែងធ្វើការពីមុនមិនអាចប្រើបានទេ។ បានបើក helloworld ។</string>
+    <string name="native_b33b3ca277eb" formatted="false">គម្រោងលំនាំដើមមិនទាន់រួចរាល់នៅឡើយទេ។ ព្យាយាមម្តងទៀតពីឯកសារ។</string>
+    <string name="native_45d6ab452622" formatted="false">ដំឡើងម៉ាស៊ីនមេភាសា</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ និងម៉ាស៊ីនមេភាសា Python រួចរាល់ហើយ។ ចាប់ផ្តើម OpenCode ដើម្បីប្រើ LSP ។</string>
+    <string name="native_5ea1653deef8" formatted="false">កំណត់ត្រាសកម្មភាពស្ថានីយមិនត្រូវបានរក្សាទុកទេ។ បង្កើតស្ថានីយថ្មីបន្ទាប់ពីការបញ្ចប់ដំណើរការ។</string>
+    <string name="native_1978b311a9ff" formatted="false">មិនអាចបញ្ចប់ការរក្សាទុកកំណត់ត្រាការចាកចេញរបស់ស្ថានីយបានទេ។</string>
+    <string name="native_66dee11c3194" formatted="false">ការទាញយកបច្ចុប្បន្នភាព OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">កំពុងភ្ជាប់ទៅប្រភពអាប់ដេត...</string>
+    <string name="native_8c39baf28e08" formatted="false">មិនអាចភ្ជាប់ទៅប្រភពអាប់ដេតបានទេ។ ពិនិត្យបណ្តាញ ហត្ថលេខាអ្នកបោះពុម្ពផ្សាយ កំណែម៉ាស៊ីន និងទំហំទំនេរ។\nការទាញយក</string>
+    <string name="native_0bedbc8d185d" formatted="false">អស់ពេលហើយ។</string>
+    <string name="native_f75850093535">កំពុងទាញយក៖ %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">ផ្ទៀងផ្ទាត់ហត្ថលេខាអ្នកបោះពុម្ពផ្សាយ...</string>
+    <string name="native_9b989e7bcd6c" formatted="false">កំពុងទាញយកកញ្ចប់អាប់ដេត...</string>
+    <string name="native_2f9cd52dc66a">ហត្ថលេខាអ្នកបោះពុម្ពដែលមានសុពលភាព៖ %1$s ។ ពិនិត្យមុនពេលទាញយក។</string>
+    <string name="native_17548865632c" formatted="false">ទាញយក ចេញផ្សាយទិន្នន័យមេតា និងហត្ថលេខាកញ្ចប់ដែលបានផ្ទៀងផ្ទាត់។ បញ្ជាក់ការដំឡើង។\nការទាញយក</string>
+    <string name="native_180cec958e7a" formatted="false">ត្រូវបានលុបចោល។ កំណែដើមត្រូវបានរក្សាទុក។\nការទាញយក</string>
+    <string name="native_8df045f8ac12" formatted="false">បានបញ្ឈប់។ កំណែដើមត្រូវបានរក្សាទុក។</string>
+    <string name="native_778803f1c6bb" formatted="false">បោះបង់ការទាញយក</string>
+    <string name="native_2958898ce6f4" formatted="false">កំណែថ្មីបានបរាជ័យក្នុងការត្រួតពិនិត្យការចាប់ផ្ដើម កំណែ ឬការផ្ទៀងផ្ទាត់ក្នុងមូលដ្ឋាន។ កំណែមុននឹងត្រូវបានស្តារឡើងវិញ។</string>
+    <string name="native_cc876dfbb261" formatted="false">ដំណើរការសាកល្បងនៅតែចេញ។ រង់ចាំការស្តារឡើងវិញ មុនពេលព្យាយាមម្តងទៀត។</string>
+    <string name="native_adf977dcb47e" formatted="false">ការកំណត់អត្តសញ្ញាណកំណត់ត្រាអាប់ដេតមិនត្រឹមត្រូវ</string>
+    <string name="native_5207cac670b7" formatted="false">ទំហំ OpenCode ឯករាជ្យដែលបានដំឡើងមិនត្រូវគ្នាទេ។</string>
+    <string name="native_cf5b81887589" formatted="false">ដែលបានដំឡើងតែឯង OpenCode checksum មិនត្រូវគ្នាទេ។ ស្តារកំណែមុន។</string>
+    <string name="native_393049b506cc" formatted="false">កម្មវិធីដើមមិនមានភស្តុតាងអ្នកបោះពុម្ពផ្សាយដែលត្រូវគ្នាទេ។ ស្ថានភាពពីមុនមិនផ្លាស់ប្តូរទេ។</string>
+    <string name="native_c5853bcfd56c" formatted="false">ស្ដារការអាប់ដេតដែលរំខានពីមុនមកជាមុនសិន</string>
+    <string name="native_91d8da5525fa" formatted="false">កញ្ចប់អាប់ដេតបានផ្លាស់ប្តូរបន្ទាប់ពីការបញ្ជាក់</string>
+    <string name="native_093f2c091a30" formatted="false">ទំហំផ្ទុកមិនគ្រប់គ្រាន់។ កំណែដើមមិនផ្លាស់ប្តូរទេ។</string>
+    <string name="native_fc9bc82e0872" formatted="false">គ្មាន​ការ​បម្រុង​ទុក​ការ​អាប់ដេត​ដើម្បី​ស្ដារ​ឡើង​វិញ​ទេ។</string>
+    <string name="native_a9f4d9903c14" formatted="false">ការបម្រុងទុកមិនត្រូវគ្នានឹងកំណែដែលកំពុងដំណើរការទេ។</string>
+    <string name="native_6caa23763a42" formatted="false">ការផ្ទៀងផ្ទាត់កម្មវិធីពីមុនបានបរាជ័យ។ វគ្គបច្ចុប្បន្នមិនផ្លាស់ប្តូរទេ។</string>
+    <string name="native_c8b71b876695" formatted="false">A ក្រោយមក APK ឬការអាប់ដេត Debian បានជំនួសកម្មវិធីដែលបានបាច់។ ការបម្រុងទុកសម័យដើមត្រូវបានរក្សាទុក។ ស្ដារកម្មវិធីដែលត្រូវគ្នាជាមុនសិន។</string>
+    <string name="native_c443df40964b" formatted="false">ប្រតិបត្តិការស្តារបច្ចុប្បន្នភាពមិនត្រឹមត្រូវ</string>
+    <string name="native_9071f05d58b3" formatted="false">កំពុងរៀបចំការធ្វើបច្ចុប្បន្នភាព OpenCode…</string>
+    <string name="native_2968d4dfdc70" formatted="false">បញ្ឈប់ OpenCode ស្ថានីយ និងផ្ទៃតុ បន្ទាប់មករង់ចាំឱ្យពួកវាចេញ។</string>
+    <string name="native_90c07b54f8f8" formatted="false">កំពុងរក្សាទុកស្ថានភាព ផ្ទៀងផ្ទាត់កម្មវិធី និងប្តូរកំណែ</string>
+    <string name="native_5fc065ef6f50" formatted="false">មិនអាចចាប់ផ្តើមសេវាកម្មថែទាំអាប់ដេតបានទេ។</string>
+    <string name="native_f7b560c8c820" formatted="false">ផ្ទៀងផ្ទាត់ និងដំណើរការកម្មវិធីផ្លូវការ...</string>
+    <string name="native_9606191c82dc" formatted="false">រក្សាកម្មវិធីដើម និងហត្ថលេខាអ្នកបោះពុម្ព…</string>
+    <string name="native_5c0d7787ee51" formatted="false">កំពុងរក្សាទុករូបថតស្ថានភាពសម័យ...</string>
+    <string name="native_0c8cf4632889" formatted="false">កំពុងប្តូរកំណែ និងផ្ទៀងផ្ទាត់សេវាមូលដ្ឋាន...</string>
+    <string name="native_3e81ea691a4a" formatted="false">កំពុងស្តារកំណែ និងវគ្គមុនការអាប់ដេត...</string>
+    <string name="native_856de41d3bf3" formatted="false">ស្តារកូដ OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">ធ្វើបច្ចុប្បន្នភាព OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">បានស្ដារកំណែមុន និងវគ្គ។ វគ្គថ្មីៗបន្ថែមទៀតនៅតែមាននៅក្នុងការបម្រុងទុកឯកជន។\nការធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode បានបញ្ចប់។ ការចាប់ផ្តើមនឹងប្រើផ្នែកខាងមុខ និងផ្នែកខាងក្រោយផ្លូវការដែលត្រូវគ្នា។</string>
+    <string name="native_4693930f5802" formatted="false">ត្រូវបានលុបចោល។ ការ​បញ្ជាក់​ថា​ស្ថានភាព​ដើម​ត្រូវ​បាន​ស្ដារ​ឡើង​វិញ​។\nការអាប់ដេត</string>
+    <string name="native_d0e37bc26edd" formatted="false">មិនពេញលេញទេ។ ការងើបឡើងវិញឥឡូវនេះ; កម្មវិធីដើម និងការបម្រុងទុកវគ្គត្រូវបានរក្សាទុក។\nការងើបឡើងវិញ</string>
+    <string name="native_9a32d6c2d207" formatted="false">មិនពេញលេញទេ។ បញ្ជីឈ្មោះរដ្ឋទាំងអស់ត្រូវបានរក្សាទុក។ រក្សាទិន្នន័យរបស់អ្នក ហើយព្យាយាមចាប់ផ្តើមឡើងវិញដើម្បីសង្គ្រោះ។\nការស្តារវគ្គ</string>
+    <string name="native_49ad3eeae83d" formatted="false">បានបញ្ចប់។ ស្ថានភាពថ្មីៗបន្ថែមទៀតនៅតែស្ថិតក្នុងការបម្រុងទុក។</string>
+    <string name="native_67c08a2911e1" formatted="false">Recovery មិនអាចបន្តជាមួយការបម្រុងទុក ឬកម្មវិធីដើមនេះបានទេ។ វគ្គបច្ចុប្បន្ន និងការបម្រុងទុកមិនផ្លាស់ប្តូរទេ។\nការអាប់ដេត</string>
+    <string name="native_976d8c169cfa" formatted="false">ត្រូវបានលុបចោល ឬបរាជ័យ។ កំណែដើម និងសម័យត្រូវបានស្ដារឡើងវិញ។</string>
+    <string name="native_7ac77d1513fc" formatted="false">ផ្ទៀងផ្ទាត់ហត្ថលេខាកញ្ចប់អាប់ដេត និងភាពសុចរិត...</string>
+    <string name="native_0aa018b7337b" formatted="false">មិនអាចអានឯកសារដែលបានជ្រើសរើសទេ។\nកញ្ចប់អាប់ដេត</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">ធំពេក</string>
+    <string name="native_f068b83f40bf" formatted="false">ហត្ថលេខា និងកញ្ចប់ត្រូវបានផ្ទៀងផ្ទាត់។ ពិនិត្យមើលកំណែមុនពេលដំឡើង។</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">មិនអាចនាំចូល៖ ឯកសារមិនត្រឹមត្រូវ ហត្ថលេខាមិនស៊ីគ្នា កំណែម៉ាស៊ីនមិនត្រូវគ្នា ឬទំហំផ្ទុកមិនគ្រប់គ្រាន់។</string>
+    <string name="native_616412e65df4" formatted="false">កម្មវិធីផ្លូវការមិនត្រូវគ្នានឹងភស្តុតាងរបស់អ្នកបោះពុម្ពផ្សាយរបស់វាទេ។</string>
+    <string name="native_4bf19a158f27" formatted="false">កញ្ចប់ពេលវេលាដំណើរការតែឯងគាំទ្រ ARM64 ប៉ុណ្ណោះ។</string>
+    <string name="native_63b1fc6fffc9" formatted="false">ហត្ថលេខាអាប់ដេតមិនមែនជារបស់ APK នេះទេ។</string>
+    <string name="native_c7273354727f" formatted="false">ឯកសារអាប់ដេតលើសពីទំហំដែលបានប្រកាសរបស់វា។\nការពិនិត្យកម្មវិធីអាប់ដេត</string>
+    <string name="native_2aa6c8e74abb" formatted="false">មិនត្រូវគ្នាទេ។</string>
+    <string name="native_dd619076d456" formatted="false">ទំហំកញ្ចប់អាប់ដេតមិនត្រឹមត្រូវ\nទំហំកញ្ចប់អាប់ដេតដែលបានបង្ហាប់</string>
+    <string name="native_20c5bdfeffc0" formatted="false">មិនត្រូវគ្នាទេ។</string>
+    <string name="native_1de24edffcf5" formatted="false">កញ្ចប់អាប់ដេតមានធាតុបន្ថែម</string>
+    <string name="native_c5b339aa77e8" formatted="false">ប្រភពដើមអាប់ដេត ឬស្ថាបត្យកម្មមិនឆបគ្នា។</string>
+    <string name="native_89d585f3661f" formatted="false">ដំឡើងកំណែកម្មវិធី Android មុនពេលដំឡើងកំណែនេះ។</string>
+    <string name="native_800df084dea0" formatted="false">ការធ្វើបច្ចុប្បន្នភាពប័ណ្ណសារពិនិត្យមិនត្រូវគ្នា។</string>
+    <string name="native_ddf1a005e310" formatted="false">ទម្រង់ការចុះហត្ថលេខា APK នេះមិនគាំទ្រការអាប់ដេតពេលដំណើរការតែម្នាក់ឯងទេ។</string>
+    <string name="native_172e063db474" formatted="false">ធាតុកញ្ចប់អាប់ដេតមិនត្រឹមត្រូវ\nទិន្នន័យមេតាអាប់ដេត</string>
+    <string name="native_1c08780aa99f" formatted="false">ត្រូវតែប្រើចំនួនគត់</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">កម្មវិធីអាប់ដេតមិនមែនជា Linux ELF 64 ប៊ីតទេ\nវគ្គអភិវឌ្ឍន៍</string>
+    <string name="native_d51ff4ed57b4" formatted="false">កម្មវិធីអាប់ដេតមិនបំពេញតាម 16 KiB ELF តម្រឹមទេ។</string>
+    <string name="native_3afa3741911b" formatted="false">កម្មវិធីអាប់ដេតបាត់កម្មវិធីទាញយក Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">បញ្ចូលប្រភពបច្ចុប្បន្នភាព HTTPS ត្រឹមត្រូវ។\nប្រភពអាប់ដេត</string>
+    <string name="native_c274c7dd5900" formatted="false">ទាមទារ HTTPS URLs ដោយគ្មានអត្តសញ្ញាណអ្នកប្រើប្រាស់</string>
+    <string name="native_f459f5ec9dac" formatted="false">វាលប្រភពអាប់ដេតមិនត្រឹមត្រូវ</string>
+    <string name="native_bde2a736e30a" formatted="false">ដំឡើងប្រព័ន្ធប្រតិបត្តិការ Android ជាមុនសិន</string>
+    <string name="native_b980fd021bef" formatted="false">ថតបច្ចុប្បន្នភាពមិនត្រឹមត្រូវ</string>
+    <string name="native_c0e96727553e" formatted="false">ឯកសារអាប់ដេតមិនត្រឹមត្រូវ</string>
+    <string name="native_86ff542c68ed" formatted="false">មិនអាចប្តូរថតបច្ចុប្បន្នភាពនៅក្នុងស្ថានភាពនេះបានទេ។</string>
+    <string name="native_fbf82dc7ef22" formatted="false">សំដៅលើថតខាងក្រៅ។ ការអាប់ដេតមិនអាចត្រូវបានសាកល្បងដោយសុវត្ថិភាពទេ។</string>
+    <string name="native_796dc6b7ca29" formatted="false">ទំហំផ្ទុកមិនគ្រប់គ្រាន់។ ស្ថានភាពដើមមិនផ្លាស់ប្តូរ។\nការទាញយក</string>
+    <string name="native_099801d672b1" formatted="false">ត្រូវបានលុបចោល</string>
+    <string name="native_f1304f707ec9" formatted="false">ការបញ្ជូនបន្តការធ្វើបច្ចុប្បន្នភាពច្រើនពេក</string>
+    <string name="native_0d07f458b607" formatted="false">ម៉ាស៊ីនមេអាប់ដេតមិនបានផ្ទេរបៃដើមទេ។\nប្រវែងឯកសារអាប់ដេត</string>
+    <string name="native_de331dfd8908" formatted="false">មិនត្រូវគ្នាទេ។</string>
+    <string name="native_416b8c87e69e" formatted="false">ឯកសារអាប់ដេតមិនត្រូវបានទាញយកពេញលេញទេ។</string>
+    <string name="native_e1e74b76c427" formatted="false">ម៉ាស៊ីនមេអាប់ដេតមិនត្រឡប់ឯកសារពេញលេញទេ។</string>
+    <string name="native_6afcf03cb130" formatted="false">កន្លែងធ្វើបច្ចុប្បន្នភាពមិនគ្រប់គ្រាន់\nឯកសារអាប់ដេត</string>
+    <string name="native_be1c695d9241" formatted="false">SHA-256 មិនត្រូវគ្នាទេ។</string>
+    <string name="native_a0133d117bb0" formatted="false">កញ្ចប់អាប់ដេតមិនត្រូវគ្នានឹងព័ត៌មានចេញផ្សាយដែលបានបញ្ជាក់ទេ។</string>
+    <string name="native_8635a43ce28a" formatted="false">ថតគម្រោងមិនត្រឹមត្រូវ</string>
+    <string name="native_d32ab8b004e6" formatted="false">មិនអាចរក្សាទុកទីតាំងកន្លែងធ្វើការបានទេ។</string>
+    <string name="native_43a5447014fd" formatted="false">ចាប់ផ្តើមបរិយាកាសអភិវឌ្ឍន៍ពី Runtime មុនពេលបើកស្ថានីយ។</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ ស្ថានីយថ្មី។</string>
+    <string name="native_b3b7108a568f" formatted="false">បិទចរន្ត</string>
+    <string name="native_0e822affd5da">ថតដំបូង៖ %1$s</string>
+    <string name="native_72d769e3888d">ថតស្ថានីយថ្មី៖ %1$s\nកម្មវិធីជ្រើសរើសឯកសារប្រព័ន្ធ</string>
+    <string name="native_16e83ec84bca" formatted="false">មិនអាចប្រើបានទេ។</string>
+    <string name="native_179a57921f91" formatted="false">ការកំណត់ការបង្ហាញ WebView\nអត្រាស៊ុមបង្ហាញ</string>
+    <string name="native_3024ec603eb7" formatted="false">អត្រាស៊ុមបង្ហាញ</string>
+    <string name="native_55b6d7f645f3" formatted="false">ចូលចិត្ត 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">ធ្វើតាមអត្រាធ្វើឱ្យស្រស់អេក្រង់</string>
+    <string name="native_d4ecf38c341d" formatted="false">ចូលចិត្ត 60 Hz ដើម្បីកាត់បន្ថយការផ្ទុកការបង្ហាញនៅលើអេក្រង់ដែលមានអត្រាធ្វើឱ្យស្រស់ខ្ពស់។ ការធ្វើតាមការបង្ហាញអនុញ្ញាតឱ្យប្រព័ន្ធកំណត់ពេលស៊ុម។ អនុវត្តចំពោះតែបង្អួចរបស់កម្មវិធីនេះប៉ុណ្ណោះ។</string>
+    <string name="native_bf0d3a407418" formatted="false">មិនត្រូវបានដំឡើងទេ។</string>
+    <string name="native_2fb8edc75b25" formatted="false">រួចរាល់</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">ផ្ទៀងផ្ទាត់កម្មវិធីផ្ទុក</string>
+    <string name="native_d1017c1eac80" formatted="false">ដំឡើង Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">បរិយាកាសអភិវឌ្ឍន៍ក្នុងស្រុក</string>
+    <string name="native_55aa84065de2" formatted="false">មូលដ្ឋាន Debian</string>
+    <string name="native_6e75b1822ebc" formatted="false">ឈប់\nបានដំឡើង</string>
+    <string name="native_5f73a4e1e494" formatted="false">ការងើបឡើងវិញ</string>
+    <string name="native_147e90d2ec02" formatted="false">ការងើបឡើងវិញ</string>
+</resources>

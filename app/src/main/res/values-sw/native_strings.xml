@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native application messages. Edit app/src/main/i18n/catalog.json, then run tools/native_i18n.py resources. -->
+<resources>
+    <string name="native_900a3d90c179" formatted="false">Nafasi ya kazi ya Maendeleo</string>
+    <string name="native_e1e32462ea43" formatted="false">OpenCode + Desktop</string>
+    <string name="native_7f1c02616d60" formatted="false">Ukurasa Mmoja</string>
+    <string name="native_651ae6ea52ae" formatted="false">Rejesha mwonekano uliogawanyika\nMpangilio wa nafasi ya kazi ya</string>
+    <string name="native_d7e97cfac66f" formatted="false">Mpangilio wa nafasi ya kazi</string>
+    <string name="native_2a03e2ed30f9" formatted="false">Panua dirisha ili kutazama paneli nyingi pamoja.</string>
+    <string name="native_e792dd4cfa78" formatted="false">Onyesha faili za mradi</string>
+    <string name="native_712d956931d1" formatted="false">Onyesha terminal\nKituo cha</string>
+    <string name="native_073cc20d9ed9" formatted="false">hapa chini\nKituo cha</string>
+    <string name="native_5de225480fa7" formatted="false">upande wa kulia</string>
+    <string name="native_35cdb3eacdc6" formatted="false">Paneli huanguka nafasi ikiwa chache na kubaki kufikiwa kutoka kwa menyu inayoelea. terminal upande inaonekana katika madirisha pana. Buruta vigawanyiko ili kubadilisha ukubwa wa vidirisha.</string>
+    <string name="native_babbb870cf97" formatted="false">Ctrl + Alt ya Kushoto: Kurasa 1-5 · Faili za B · Kituo cha T · Eneo-kazi la M · Ingiza Mmoja/Mgawanyiko · \\\\ Mpangilio</string>
+    <string name="native_7a129a94c6ff" formatted="false">Imekamilika</string>
+    <string name="native_bcec2218fc21" formatted="false">Weka upya uwiano</string>
+    <string name="native_da88c62d1217">Onyesha %1$s katika ukurasa mmoja\nKigawanya faili za mradi</string>
+    <string name="native_1b4b3afbe52d" formatted="false">Mgawanyiko wa Kituo cha</string>
+    <string name="native_707c0891a0e6" formatted="false">Kigawanyaji cha terminal</string>
+    <string name="native_ea8048b59238" formatted="false">OpenCode na kigawanyaji cha eneo-kazi</string>
+    <string name="native_50407ad8dfa8" formatted="false">Punguza paneli iliyotangulia</string>
+    <string name="native_b72c5c02a666" formatted="false">Panua paneli iliyotangulia</string>
+    <string name="native_3f3685e8d731" formatted="false">Viungo vingi mno vya PRoot kwa umbizo hili la kumbukumbu</string>
+    <string name="native_8ef36dd4de1f" formatted="false">Linux viungo ngumu vinahitaji rootfs kamili</string>
+    <string name="native_f336f1e17596" formatted="false">Uwekaji wa saraka ya chelezo ni wa kina sana</string>
+    <string name="native_b6f744737a45" formatted="false">Urefu wa nenosiri la chelezo batili</string>
+    <string name="native_13bde5dd1812" formatted="false">Nenosiri la chelezo lazima liwe na angalau vibambo 12\nMuundo mbadala wa</string>
+    <string name="native_be02cbd55932" formatted="false">ambao hautumiki</string>
+    <string name="native_7a91a3d586ae" formatted="false">Kichwa chelezo batili</string>
+    <string name="native_2bbd318a5667" formatted="false">Vigezo vya usimbaji mbadala visivyotumika</string>
+    <string name="native_18868da27841" formatted="false">Nenosiri la chelezo si sahihi au faili iliyoharibika\nRekodi ya urejeshi ya</string>
+    <string name="native_e41d6440468d" formatted="false">ni kubwa mno\nMetadata ya chelezo ya</string>
+    <string name="native_282692502f14" formatted="false">ni kubwa mno</string>
+    <string name="native_61fdca8d6c82" formatted="false">Uwekaji chelezo wa metadata ni wa kina sana</string>
+    <string name="native_8cefb30732d4" formatted="false">metadata ya chelezo batili</string>
+    <string name="native_5d3037708cad" formatted="false">Mipangilio asili isiyotumika</string>
+    <string name="native_81a57c382f9d" formatted="false">Haikuweza kuhifadhi mipangilio asili</string>
+    <string name="native_50603e683d4a" formatted="false">Saraka ya mzazi si sahihi katika njia mbadala</string>
+    <string name="native_c3f838a46b8e" formatted="false">Mzizi wa kituo cha kazi lazima kiwe kiungo cha ishara</string>
+    <string name="native_9ddd2d8280c8" formatted="false">Faili ilibadilishwa wakati wa kuhifadhi nakala\nUmbizo la data la kituo cha kazi</string>
+    <string name="native_77e1e85147db" formatted="false">lisilotumika</string>
+    <string name="native_a927b5a565af" formatted="false">Hifadhi rudufu ina data ya ziada</string>
+    <string name="native_c2b886d508f2" formatted="false">Hifadhi rudufu ina njia rudufu</string>
+    <string name="native_3dab8cd60102" formatted="false">Hifadhi rudufu ina mipangilio ya wakati wa utekelezaji ambayo haiwezi kuhamishwa</string>
+    <string name="native_f45ba674a630" formatted="false">Hifadhi rudufu ni kubwa sana au hifadhi haitoshi</string>
+    <string name="native_140073e8e77b" formatted="false">Haikuweza kurejesha mihuri ya muda ya kiungo</string>
+    <string name="native_b0d411aaf62c" formatted="false">Haikuweza kurejesha mihuri ya saa ya bomba iliyotajwa\nHifadhi nakala na urejeshaji wa</string>
+    <string name="native_0daee8026db1" formatted="false">Workstation</string>
+    <string name="native_1acc18928c5f" formatted="false">Inajumuisha Debian, zana za wasanidi programu, miradi, nyumba, vipindi na mipangilio ya OpenCode, data ya kivinjari cha Linux, na mipangilio asilia ya mpangilio.</string>
+    <string name="native_62254d31a535" formatted="false">Faili za muda na chelezo za zamani hazijajumuishwa. Hifadhi ya Android WebView na rasimu ambazo hazijatumwa husalia kwenye kifaa hiki na hazihamishwi kwa kutumia nakala hii.</string>
+    <string name="native_808eabc7811f" formatted="false">Unda nakala rudufu iliyosimbwa</string>
+    <string name="native_201c10b38296" formatted="false">Ingiza nakala rudufu</string>
+    <string name="native_b0e4e4eb7ebd" formatted="false">Hifadhi mabadiliko yako kwenye kihariri faili kwanza.</string>
+    <string name="native_0559cd596453" formatted="false">Acha OpenCode, vituo na eneo-kazi</string>
+    <string name="native_fdf2be8e3b93" formatted="false">Uendeshaji wa mazingira haujakamilika. Irejeshe kwanza.</string>
+    <string name="native_185f58156330" formatted="false">Rejesha operesheni isiyokamilika</string>
+    <string name="native_20831b6f67a7" formatted="false">Tendua urejeshaji wa mwisho wa mazingira</string>
+    <string name="native_4f392d5d6141">Nakala ya ndani iliyosimbwa kwa njia fiche: %1$s</string>
+    <string name="native_80077c694212" formatted="false">Hifadhi kwenye faili</string>
+    <string name="native_f09619351eb9" formatted="false">Futa nakala ya ndani</string>
+    <string name="native_85c686eb9841">Imechakatwa %1$s</string>
+    <string name="native_28d567b926cc" formatted="false">Ghairi kazi ya kuhifadhi nakala</string>
+    <string name="native_66c9d896407b" formatted="false">Simba nakala rudufu ya kituo cha kazi</string>
+    <string name="native_548cd9f0831e" formatted="false">Simbua na uthibitishe nakala rudufu\nHifadhi rudufu za</string>
+    <string name="native_d248f5eca9a5" formatted="false">zinaweza kuwa na funguo za faragha za SSH, funguo za API na data ya akaunti. Tumia angalau vibambo 12. Nenosiri lililosahaulika haliwezi kurejeshwa.</string>
+    <string name="native_f249422b9ec1" formatted="false">Hifadhi rudufu imesimbwa na kuthibitishwa katika saraka ya kibinafsi. Mazingira yako yanabadilishwa tu baada ya kuthibitisha urejeshaji.\nNenosiri la chelezo la</string>
+    <string name="native_e7be6841703a" formatted="false">Hifadhi nakala ya nenosiri</string>
+    <string name="native_9f6aeedc5a00" formatted="false">Rudia nenosiri</string>
+    <string name="native_eafdc5cd4882" formatted="false">Anza usimbaji fiche</string>
+    <string name="native_2986b88beade" formatted="false">Simbua na uthibitishe\nKufuta kwa</string>
+    <string name="native_0eddf4ad9b94" formatted="false">Ghairi</string>
+    <string name="native_f46c5ed7412d" formatted="false">Rejesha mazingira yote ya awali?</string>
+    <string name="native_33eda0946a5b" formatted="false">Je, ungependa kufuta nakala ya ndani iliyosimbwa kwa njia fiche?</string>
+    <string name="native_26db24150f2e" formatted="false">Miradi, nyumba, Debian na vipindi vitarejea katika hali yao kabla ya urejeshaji wa mwisho. Kazi ya hivi majuzi zaidi itasalia katika nakala ya faragha ndani ya programu.</string>
+    <string name="native_1153b30d51d5" formatted="false">Nakala ya ndani iliyosimbwa kwa njia fiche ndani ya programu pekee ndiyo inafutwa. Faili zilizohifadhiwa mahali pengine bado zinapatikana.</string>
+    <string name="native_427a78a4e69a" formatted="false">Thibitisha</string>
+    <string name="native_7af46d7ee003" formatted="false">Rejesha nakala rudufu hii ya kituo cha kazi?</string>
+    <string name="native_ed40940162d0">%1$s\n%2$s maingizo · %3$s\nOpenCode: %4$s</string>
+    <string name="native_8370cb5d4818" formatted="false">Hifadhi rudufu ina programu ya Linux inayoweza kutekelezeka. Thibitisha kuwa unaamini chanzo chake. Marejesho huchukua nafasi ya mazingira yote na hundi huduma za ndani; mazingira ya awali huwekwa kwa ajili ya kurejesha.\nHifadhi Nakala ya</string>
+    <string name="native_c3d74ed0c054" formatted="false">imethibitishwa. Inasubiri uthibitisho wa kurejesha.</string>
+    <string name="native_97076078c749" formatted="false">Pia washa hali ya uoanifu ya Chromium (huzima kisanduku cha mchanga cha mchakato wa Linux)</string>
+    <string name="native_1bfcd9fe12e4" formatted="false">Imezimwa kwa chaguo-msingi. Unaweza kuiwezesha baadaye katika mipangilio ya eneo-kazi.</string>
+    <string name="native_ddf09383413c" formatted="false">Thibitisha urejeshaji</string>
+    <string name="native_8e6056b0f629" formatted="false">Ghairi uingizaji\nMazingira ya kituo cha kazi cha</string>
+    <string name="native_63a895901c76" formatted="false">yamebadilika</string>
+    <string name="native_a4c994348a39" formatted="false">Fungua tena nafasi ya kazi</string>
+    <string name="native_774947f0653e" formatted="false">Ghairi kazi</string>
+    <string name="native_e09a22b18445" formatted="false">Kazi ilikatizwa. Teua operesheni tena na uweke nenosiri.</string>
+    <string name="native_38c5fcc634db" formatted="false">Hifadhi mabadiliko ya faili katika madirisha yote kwanza. Ghairi uletaji uliopo kabla ya kujaribu tena.</string>
+    <string name="native_029bfa8ff772" formatted="false">Inarejesha kituo cha kazi na programu za uthibitishaji</string>
+    <string name="native_e4f04df818f8" formatted="false">Inachakata utendakazi wako wa kuhifadhi nakala uliochaguliwa</string>
+    <string name="native_8206f072d5ee" formatted="false">Acha OpenCode, vituo na eneo-kazi, kisha usubiri utendakazi wa faili umalizike.</string>
+    <string name="native_1a5cde18c609" formatted="false">Haikuweza kuanzisha kazi ya kuhifadhi nakala. Jaribu tena ukitumia programu kwenye mandhari ya mbele.</string>
+    <string name="native_1553b714941d" formatted="false">Inasimbua na kuthibitisha nakala rudufu. Mazingira asilia bado yanaweza kurejeshwa…\nHifadhi Nakala ya</string>
+    <string name="native_dafd005e953e" formatted="false">imethibitishwa. Thibitisha urejeshaji katika programu.</string>
+    <string name="native_9fb236184596" formatted="false">Ilifuta nakala ya ndani iliyosimbwa kwa njia fiche ndani ya programu.\nOperesheni ya</string>
+    <string name="native_f98e9ac348b6" formatted="false">imeghairiwa. Data asili ya mazingira imehifadhiwa.\nUendeshaji wa</string>
+    <string name="native_2a7a367ee0d2" formatted="false">haujakamilika. Angalia nenosiri, uadilifu wa chelezo, toleo la mwenyeji na nafasi ya bure. Data asili ya mazingira imehifadhiwa.</string>
+    <string name="native_29deabd28960" formatted="false">Inaunda nakala rudufu ya kituo cha kazi kilichosimbwa...\nHifadhi rudufu iliyosimbwa kwa</string>
+    <string name="native_3d137e243806" formatted="false">imeundwa. Chagua mahali pa kuhifadhi.</string>
+    <string name="native_0e2ac9266ad6" formatted="false">Kurejesha mazingira na kuangalia huduma za ndani. Weka data ya programu...\nKituo cha kazi cha</string>
+    <string name="native_840a6a8bf2e6" formatted="false">kimerejeshwa. Mazingira ya hapo awali yanabaki kwenye nakala ya kibinafsi. Fungua tena nafasi ya kazi.</string>
+    <string name="native_0392cd6152d2" formatted="false">Rejesha hundi imeshindwa. Kurudi kwenye mazingira ya awali; data iliyoingizwa inasalia katika nakala ya faragha.\nUrejeshaji wa</string>
+    <string name="native_5dc7410b600e" formatted="false">haujakamilika. Saraka zote za data zimehifadhiwa. Weka data ya programu na ujaribu kurejesha tena.</string>
+    <string name="native_6d0d4efb0bc4" formatted="false">Inarejesha mazingira ya awali ya kituo cha kazi…</string>
+    <string name="native_15821323ff89" formatted="false">Mazingira ya awali yamerejeshwa. Kazi ya hivi majuzi zaidi inasalia katika nakala ya faragha. Fungua tena nafasi ya kazi.</string>
+    <string name="native_56dd94f47870" formatted="false">Haiwezi kutendua urejeshaji huu. Mazingira ya sasa na nakala rudufu zimehifadhiwa.</string>
+    <string name="native_93530f3fa029" formatted="false">Tendua haijakamilika. Saraka zote za data zimehifadhiwa. Weka data ya programu na ujaribu kurejesha tena.</string>
+    <string name="native_f12963c80def" formatted="false">Inahifadhi nakala rudufu iliyosimbwa...\nHifadhi rudufu iliyosimbwa kwa</string>
+    <string name="native_0c1c02e2deb6" formatted="false">imehifadhiwa. Unaweza kuhifadhi nakala ya ndani tena au kuifuta wewe mwenyewe.</string>
+    <string name="native_d660cccf65e0" formatted="false">Inasafisha uagizaji ambao haujathibitishwa...\nUagizaji wa</string>
+    <string name="native_800592163979" formatted="false">umeghairiwa. Mazingira asilia hayajabadilika.\nUagizaji wa</string>
+    <string name="native_5a90367eb834" formatted="false">umeghairiwa. Mazingira asilia bila kubadilika; baadhi ya data ya kuagiza kwa muda inasalia kwenye saraka ya faragha ya programu.</string>
+    <string name="native_5cd50eb8b75b" formatted="false">Inatayarisha usimbuaji na uthibitishaji...</string>
+    <string name="native_e9f2bea3118c" formatted="false">Inatayarisha nakala rudufu iliyosimbwa...</string>
+    <string name="native_7bd5a0c93818" formatted="false">Haikuweza kuanzisha huduma ya kuhifadhi nakala. Jaribu tena mbele.</string>
+    <string name="native_fa2a1b7be3ec" formatted="false">Rejesha utendakazi wa mazingira ambao haujakamilika kwanza</string>
+    <string name="native_f14aea7c819c" formatted="false">Rekodi batili ya urejeshaji</string>
+    <string name="native_7c284c55ee08" formatted="false">Saraka ya urejeshaji haipo</string>
+    <string name="native_bfc4792df15b" formatted="false">Mipangilio asili imezidi kikomo cha rekodi ya urejeshaji</string>
+    <string name="native_8d93770ba8c9">Inakosa saraka ya mazingira ya awali: %1$s</string>
+    <string name="native_46c0dc084c29" formatted="false">Hatua ya uokoaji isiyojulikana</string>
+    <string name="native_20c5124fe175" formatted="false">Operesheni ya uokoaji isiyojulikana</string>
+    <string name="native_1c457322b624" formatted="false">Hakuna mazingira ya awali yanayopatikana ili kurejesha</string>
+    <string name="native_30db1666c8e5" formatted="false">Hifadhi rudufu hii ni ya programu tofauti\nUsanifu wa kichakataji chelezo cha</string>
+    <string name="native_6687d1c64d75" formatted="false">haulingani</string>
+    <string name="native_b9b37d57fe6b" formatted="false">Sasisha seva pangishi ya Android hadi toleo linalotumiwa na hifadhi rudufu hii kwanza</string>
+    <string name="native_ba5e0a4a9deb" formatted="false">Saraka ya chelezo haijakamilika</string>
+    <string name="native_66106ab3e254" formatted="false">Hifadhi rudufu ya zamani haina uthibitisho wa mchapishaji wa OpenCode unaoweza kuthibitishwa. Anzisha mazingira asili na seva pangishi kabla ya kukihifadhi tena.</string>
+    <string name="native_bec13cc92982" formatted="false">Vitendo vya mfumo wa maendeleo ya mazingira</string>
+    <string name="native_65de80229626" formatted="false">Debian iliomba kitendo cha mfumo</string>
+    <string name="native_5e38581cf19c" formatted="false">Gusa ili ukague na kushughulikia ombi</string>
+    <string name="native_749d406d2c67" formatted="false">Kutoka kwa mazingira ya maendeleo ya Debian</string>
+    <string name="native_4032d33b2afd" formatted="false">Fungua kivinjari cha mfumo?</string>
+    <string name="native_ce9491abbc6c" formatted="false">Fungua onyesho la kukagua mradi wa ndani?</string>
+    <string name="native_53ce0dec7ef3" formatted="false">Umesoma ubao wa kunakili?</string>
+    <string name="native_8dfca23f0aa0" formatted="false">Je, ungependa kunakili kwenye ubao wa kunakili wa mfumo?</string>
+    <string name="native_77f761eb70aa" formatted="false">Je, ungependa kutuma arifa ya karibu nawe?</string>
+    <string name="native_e6b29e80abb7" formatted="false">Ungependa kushiriki faili ya mradi?</string>
+    <string name="native_9d36f698b3c1" formatted="false">Leta faili za mfumo?</string>
+    <string name="native_8f05ff8c2dea" formatted="false">Hamisha faili ya mradi?</string>
+    <string name="native_7ac295421c6d" formatted="false">Fungua kwenye kivinjari\nOnyesho la wazi la</string>
+    <string name="native_bbdb6043b5e9" formatted="false">Fungua onyesho la kukagua</string>
+    <string name="native_14792d6cd7a6" formatted="false">Ruhusu kusoma</string>
+    <string name="native_b4caf8b99ddd" formatted="false">Nakili kwenye ubao wa kunakili</string>
+    <string name="native_4b3361a8c3a3" formatted="false">Tuma arifa</string>
+    <string name="native_88152a09fa02" formatted="false">Chagua programu ya kushiriki</string>
+    <string name="native_7a49a79c57f9" formatted="false">Chagua faili</string>
+    <string name="native_99d9f87419c5" formatted="false">Chagua mahali pa kuhifadhi</string>
+    <string name="native_23e5bb2090aa">%1$s\nHufungua na data ya kivinjari iliyotengwa na OpenCode.</string>
+    <string name="native_ecf17eaad49e" formatted="false">Toa maandishi kutoka kwa ubao wa kunakili wa mfumo hadi kwa programu ya sasa ya Debian.</string>
+    <string name="native_dcc6bec24e43">Chagua faili za kuingiza katika %1$s. Faili zilizopo huhifadhiwa na nakala hupewa jina jipya.\nHali ya kivinjari ya</string>
+    <string name="native_efdb26088f68" formatted="false">Chromium\nHali ya Upatanifu ya</string>
+    <string name="native_4767f37900f6" formatted="false">hutumia wasifu tofauti wa kivinjari na kuzima sandbox ya mchakato wa Linux ya Chromium. Kivinjari bado kinaweza kufikia faili ndani ya programu hii. Epuka tovuti zisizoaminika na utumie kivinjari cha mfumo wa Android kwa akaunti muhimu. Fungua Chromium upya baada ya kubadilisha hali.</string>
+    <string name="native_a4317f2699a2" formatted="false">Uwekaji sandbox wa kawaida wa Linux umewezeshwa kwa chaguo-msingi. Ikiwa Chromium haiwezi kuanza, unaweza kuchagua modi uoanifu. Huzima kisanduku cha kuchakata cha Linux na hutumia wasifu tofauti, huku ikihifadhi ufikiaji wa faili za programu. Epuka tovuti zisizoaminika; tumia kivinjari cha mfumo wa Android kwa akaunti muhimu.</string>
+    <string name="native_3a2596fa9517" formatted="false">Rejesha hali ya kawaida</string>
+    <string name="native_eeb5e46d62ae" formatted="false">Washa hali ya uoanifu\nEneo-kazi la</string>
+    <string name="native_9a45442649f5" formatted="false">la Debian</string>
+    <string name="native_db276240d492" formatted="false">XFCE · Chromium · Imeshirikiwa /workspace</string>
+    <string name="native_fb7f60a63fac" formatted="false">Usakinishaji wa kwanza hupakua vipengee vya picha. Baada ya usakinishaji, eneo-kazi linaweza kuanza na kuacha bila kutegemea OpenCode.</string>
+    <string name="native_d8eb56c08cd5" formatted="false">USTC kioo</string>
+    <string name="native_41e865941e16" formatted="false">Kioo Rasmi cha Debian</string>
+    <string name="native_ea341b8a102b" formatted="false">Azimio la awali</string>
+    <string name="native_ff1cde9ba35d" formatted="false">Kompyuta ya mezani inaendelea kufanya kazi unapobadilisha kurasa. Komesha kutoka kwa Runtime.</string>
+    <string name="native_aadf816e2dc8" formatted="false">Acha kazi ya eneo-kazi</string>
+    <string name="native_ba6d7f6c69ac" formatted="false">Anzisha eneo-kazi</string>
+    <string name="native_ea27a25e5114" formatted="false">Sakinisha vipengee vya eneo-kazi</string>
+    <string name="native_d3034f064ed3" formatted="false">Chromium: hali ya utangamano</string>
+    <string name="native_d708b8c308e2" formatted="false">Chromium: hali ya kawaida</string>
+    <string name="native_0cffb5b0c8e8" formatted="false">Sakinisha zana za msanidi wa Debian kutoka Runtime kwanza.\nKaratasi ya data ya</string>
+    <string name="native_d1fa7ef127a7" formatted="false">Kumbukumbu ya shughuli</string>
+    <string name="native_bfaa904aa4d4" formatted="false">Haikuweza kufungua folda ya mradi. Angalia ikiwa saraka iko.</string>
+    <string name="native_83c76743b29d" formatted="false">Inarejesha utendakazi wa mazingira ulioingiliwa</string>
+    <string name="native_739a730ae247" formatted="false">Matengenezo ya Mazingira</string>
+    <string name="native_049281329843" formatted="false">Subiri urekebishaji wa sasisho au kazi ya sasa imalize.</string>
+    <string name="native_07d5bdf94f1d" formatted="false">Subiri hadi kazi ya sasa ya mazingira ya ukuzaji imalizike</string>
+    <string name="native_83099168971c" formatted="false">Inasakinisha eneo-kazi</string>
+    <string name="native_85e0c18dde8d" formatted="false">Kompyuta ya mezani</string>
+    <string name="native_9a48f8196d8f" formatted="false">Inahitaji umakini</string>
+    <string name="native_75470fb13121" formatted="false">Imesimamishwa</string>
+    <string name="native_51a53c8109d5" formatted="false">Haiwezi kusoma au kuhifadhi rekodi ya shughuli. Irekebishe kutoka kwa Muda wa Kuendesha au uondoe hifadhi fulani.</string>
+    <string name="native_d36a018cc619" formatted="false">Sakinisha mazingira ya ukuzaji wa Debian kwanza</string>
+    <string name="native_80be4c2928a5" formatted="false">Unganisha kwenye mtandao kwanza\nUsakinishaji wa Eneo-kazi la</string>
+    <string name="native_a065d81014b1" formatted="false">haujakamilika. Jaribu tena usakinishaji.\nEneo-kazi la</string>
+    <string name="native_721c38b32c35" formatted="false">limesakinishwa. Anza inapohitajika.</string>
+    <string name="native_6c1c52771115" formatted="false">Sakinisha vipengee vya eneo-kazi kwanza\nUendeshaji wa Eneo-kazi la</string>
+    <string name="native_693d90a47827" formatted="false">haukufaulu. Maelezo ni marefu sana au hayapatikani.</string>
+    <string name="native_d3e7be3c38fd" formatted="false">Haikuweza kumaliza kuhifadhi kialama. Mchakato wa kusafisha uliendelea.</string>
+    <string name="native_06083621a6ce" formatted="false">Haikuweza kumaliza kuhifadhi rekodi ya shughuli. Uzinduzi unaofuata utachukulia hili kama usumbufu.\nEneo-kazi la</string>
+    <string name="native_04d721a3819a" formatted="false">linaendesha\nUendeshaji wa Eneo-kazi la</string>
+    <string name="native_c3f0acaf7a73" formatted="false">umekwisha. Kagua kumbukumbu na ujaribu tena.\nMchakato wa</string>
+    <string name="native_e70d328a3ca9">wa Eneo-kazi umeondolewa (%1$s). Kagua kumbukumbu ya shughuli.</string>
+    <string name="native_df5c878f2852" formatted="false">Nafasi ya kazi ya picha ya ndani</string>
+    <string name="native_7b0455a8daa4" formatted="false">Acha eneo-kazi</string>
+    <string name="native_a62123cde9c7" formatted="false">Kazi na uokoaji zimekatizwa</string>
+    <string name="native_279308947a14" formatted="false">Haiwezi kusoma rekodi ya shughuli. Urekebishaji huhifadhi nakala ya rekodi iliyoharibiwa na huhifadhi miradi, vipindi na mazingira ya Linux.\nRekodi ya shughuli ya urekebishaji ya</string>
+    <string name="native_2bd92fae24e5" formatted="false">Rekodi ya shughuli</string>
+    <string name="native_6b43650c2c82" formatted="false">Kazi iliisha bila kutarajiwa.</string>
+    <string name="native_acb0c970aaa6">%1$s vituo havikufungwa kawaida. Amri zao za kukimbia zilikatishwa.</string>
+    <string name="native_4ba153d8dff5" formatted="false">Anzisha upya imethibitishwa. Amri za awali hazikuchezwa tena.</string>
+    <string name="native_f03a2adbf5cd" formatted="false">Miradi na vipindi vilivyohifadhiwa huhifadhiwa. Fungua tena vituo kwa mikono; amri ambazo hazijakamilika hazitaanza tena kiotomatiki.</string>
+    <string name="native_fa9669296762" formatted="false">Anzisha tena OpenCode</string>
+    <string name="native_bd8130bec5d9" formatted="false">Eneo-kazi halitajiwasha upya kiotomatiki. Anzisha tena kutoka kwa ukurasa wa Eneo-kazi.\nFungua faili</string>
+    <string name="native_644f8f44251f" formatted="false">Shiriki faili:</string>
+    <string name="native_9dfb5569d609" formatted="false">Shiriki faili</string>
+    <string name="native_a4500cff3a86" formatted="false">Saraka ya kufanya kazi lazima isiwe kiungo cha ishara</string>
+    <string name="native_8657d27661bd" formatted="false">Njia ya saraka ya kufanya kazi si sahihi</string>
+    <string name="native_02b702a9adff" formatted="false">Teua faili</string>
+    <string name="native_924874b746cc" formatted="false">Dhibiti viungo vya ishara kwenye terminal</string>
+    <string name="native_efea6e422a54" formatted="false">Jina la faili batili\nSaraka ya</string>
+    <string name="native_c4989dc37aab" formatted="false">haipo\nSaraka Lengwa la</string>
+    <string name="native_d613dba39b44" formatted="false">haipo</string>
+    <string name="native_4f9b3fb4920b" formatted="false">Haiwezi kuweka folda ndani yake au vizazi vyake</string>
+    <string name="native_c3acd5a3254c" formatted="false">Mradi una vifaa au soketi maalum na hauwezi kunakiliwa</string>
+    <string name="native_6c36955b068b" formatted="false">Chagua faili ya kawaida</string>
+    <string name="native_49191d7d489f" formatted="false">Faili hii inazidi 2 MB. Ihariri na OpenCode au terminal.</string>
+    <string name="native_ee42414d36c2" formatted="false">ni kubwa mno</string>
+    <string name="native_f0a979f87157" formatted="false">Hamisha faili za jozi ili kuzifungua katika programu nyingine</string>
+    <string name="native_88a9c82651fc" formatted="false">Badilisha faili ambazo si UTF-8 na OpenCode au terminal</string>
+    <string name="native_0189a5c3418c" formatted="false">Zana nyingine ilibadilisha faili hii. Ifungue upya kabla ya kuihariri.</string>
+    <string name="native_0ce79256f4ac" formatted="false">Saraka asili haipo tena. Irejeshe kwanza.</string>
+    <string name="native_46eae321049e" formatted="false">Hakuna programu ya kushiriki inayopatikana\nTakataka za</string>
+    <string name="native_87d699d3a26c" formatted="false">Takataka</string>
+    <string name="native_d0a8c03d6c07" formatted="false">faili za mradi</string>
+    <string name="native_4dcf914f0b64" formatted="false">Faili zilizofutwa zinaweza kurejeshwa kwa saraka zao asili</string>
+    <string name="native_c5b81b02354f" formatted="false">Nyuma</string>
+    <string name="native_e56b99379169">Imenakili faili %1$s · %2$s</string>
+    <string name="native_00d9f8ffd4a2" formatted="false">Inanakili...</string>
+    <string name="native_85199bb36b04" formatted="false">Ghairi operesheni</string>
+    <string name="native_e9dc52d1c24b" formatted="false">Funga\nKipindi kipya cha</string>
+    <string name="native_4e1e5aacac7f" formatted="false">Kipindi kipya</string>
+    <string name="native_23c250cc8e0b" formatted="false">Anzisha kipindi cha OpenCode hapa\nKituo cha</string>
+    <string name="native_f22da21fd54f" formatted="false">Kituo</string>
+    <string name="native_3645f30b3412" formatted="false">Mabadiliko ambayo hayajahifadhiwa</string>
+    <string name="native_2266227605c4" formatted="false">Hifadhi</string>
+    <string name="native_064fbc7ad3f3" formatted="false">Tupio ni tupu\nUtoaji wa</string>
+    <string name="native_a9e739b13e52" formatted="false">Uhamisho wa</string>
+    <string name="native_45985dc2183e" formatted="false">Nakala ya</string>
+    <string name="native_31214130b5b7" formatted="false">Weka</string>
+    <string name="native_07e5c3158f35" formatted="false">Bandika</string>
+    <string name="native_831b4e0fb574" formatted="false">Mpya</string>
+    <string name="native_ff65a22d7087" formatted="false">Folda mpya</string>
+    <string name="native_71faed44a86c" formatted="false">faili mpya\nIngiza</string>
+    <string name="native_8dddd460f6ae" formatted="false">Onyesha upya</string>
+    <string name="native_d85825123e60" formatted="false">Onyesha upya</string>
+    <string name="native_ac9d73843736" formatted="false">Tafuta saraka hii</string>
+    <string name="native_21eef82963ee" formatted="false">Saraka hii haina chochote. Ingiza faili au unda mradi.</string>
+    <string name="native_e8a4cecaa371" formatted="false">Hakuna faili zinazolingana\nFaili za faili</string>
+    <string name="native_d674bc0f86b8" formatted="false">Kiungo cha Alama cha</string>
+    <string name="native_d04a47c87cc8" formatted="false">Karatasi ya data ya</string>
+    <string name="native_e0ba66f5246a" formatted="false">Badilisha jina</string>
+    <string name="native_f170b42599e8" formatted="false">Nakala ya</string>
+    <string name="native_4cdacf57ead2" formatted="false">Nakili</string>
+    <string name="native_124aa030694e" formatted="false">Hamisha hadi...</string>
+    <string name="native_ac990518ed87" formatted="false">Fungua terminal hapa</string>
+    <string name="native_87bc93932d8a" formatted="false">Hamisha kwa faili za mfumo</string>
+    <string name="native_dd37f132172f" formatted="false">Hamisha hadi kwenye tupio</string>
+    <string name="native_7318746d337c" formatted="false">Ungependa kuhamishia kwenye tupio?</string>
+    <string name="native_2b5ee3f10a56">Unaweza kurejesha “%1$s” kutoka kwenye tupio.\nUhamisho wa</string>
+    <string name="native_e49730c9e7e1" formatted="false">Sogeza</string>
+    <string name="native_4e47aaa113fc" formatted="false">Tupa mabadiliko ambayo hayajahifadhiwa?</string>
+    <string name="native_63b75399ef1a" formatted="false">Tupa mabadiliko</string>
+    <string name="native_d9618f7b8d25" formatted="false">Endelea kuhariri\nJina la</string>
+    <string name="native_76ce6aef5479" formatted="false">Jina</string>
+    <string name="native_35b0fc30b909" formatted="false">sawa\nMazingira ya</string>
+    <string name="native_11b319774788" formatted="false">yamerejeshwa. Fungua tena nafasi ya kazi.</string>
+    <string name="native_7e4a5bcb0461" formatted="false">Maliza kurejesha utendakazi uliokatizwa katika Muda wa Kuendesha kwanza</string>
+    <string name="native_f29af06e7c99" formatted="false">Matengenezo ya mazingira yanaendelea. Jaribu tena baadaye.\nOperesheni ya</string>
+    <string name="native_3bd28258feb0" formatted="false">imeghairiwa</string>
+    <string name="native_c508721eb3cd" formatted="false">Faili yenye jina hili tayari ipo. Chagua jina lingine.</string>
+    <string name="native_1e8274fe468a" formatted="false">Faili haipo tena. Onyesha upya saraka.</string>
+    <string name="native_ac05dcaad6ed" formatted="false">Ruhusa ya kufikia faili imekataliwa</string>
+    <string name="native_cd808e4c321e" formatted="false">Haikuweza kukamilisha operesheni\nUendeshaji wa</string>
+    <string name="native_01cbe9be8b9f" formatted="false">haujakamilika. Angalia hifadhi inayopatikana au chagua faili tena.</string>
+    <string name="native_3f9983126fd7" formatted="false">Angalia hali ya kuanzisha OpenCode katika Runtime</string>
+    <string name="native_6ed9fe2281bb" formatted="false">Haikuweza kufungua terminal mpya. Angalia idadi ya vikao.</string>
+    <string name="native_2160fde3813a" formatted="false">Dhibiti viungo vya mfano kwenye terminal. Kidhibiti faili hafuati viungo.</string>
+    <string name="native_7a844e9d4017" formatted="false">Hoja imekamilika\nNakala ya</string>
+    <string name="native_573877894fcf" formatted="false">imekamilika</string>
+    <string name="native_cc9b4d8d36ad" formatted="false">Imehamishwa hadi kwenye tupio</string>
+    <string name="native_862330af933f" formatted="false">Imerejeshwa kwa saraka asili</string>
+    <string name="native_beda23c9d52b" formatted="false">Matengenezo au uingizwaji wa mazingira ulifanyika. Fungua upya nafasi ya kazi kabla ya kuhariri.</string>
+    <string name="native_678c6953bb2b" formatted="false">Imehifadhiwa</string>
+    <string name="native_8063159f2178" formatted="false">Haiwezi kusoma faili iliyochaguliwa</string>
+    <string name="native_4cdc2180d2ac">Imeingiza faili %1$s</string>
+    <string name="native_e98763643b93" formatted="false">Haiwezi kuandika kwa eneo lililochaguliwa\nUsafirishaji wa</string>
+    <string name="native_5afd173be7fa" formatted="false">umekamilika\nNambari ya</string>
+    <string name="native_05fc7dc7dd9b" formatted="false">na vikao\nEneo-kazi la</string>
+    <string name="native_8745ed51cadd" formatted="false">Eneo-kazi</string>
+    <string name="native_3dcdcfc4b80d" formatted="false">Nafasi ya kazi ya picha\nFaili za</string>
+    <string name="native_770d49c5f689" formatted="false">Muda wa utekelezaji wa</string>
+    <string name="native_6a9b6480b58f" formatted="false">Muda wa kukimbia</string>
+    <string name="native_b561fe9204cc" formatted="false">Huduma na zana za wasanidi</string>
+    <string name="native_70850bdeeabd" formatted="false">Funga menyu ya ukurasa\nNafasi ya kazi ya</string>
+    <string name="native_b4549acb48e8" formatted="false">Nafasi ya kazi</string>
+    <string name="native_3d3551f4660f">uwazi wa vitufe vinavyoelea %1$s%%</string>
+    <string name="native_26b155693efb" formatted="false">Thamani za chini hufanya kitufe cha kuelea kuwa wazi zaidi</string>
+    <string name="native_e031beabfc9a" formatted="false">Fungua menyu ya ukurasa</string>
+    <string name="native_106ee775b538" formatted="false">Inaunganisha kwa OpenCode ya ndani...</string>
+    <string name="native_a021adc1f449" formatted="false">Muunganisho wa ndani unahitaji kurejeshwa</string>
+    <string name="native_dacb8837471c" formatted="false">Unganisha tena</string>
+    <string name="native_17584aa60ae6" formatted="false">Haikuweza kuandaa akiba ya rasilimali ya ndani</string>
+    <string name="native_3b3b80064ccb" formatted="false">Inatayarisha OpenCode ya ndani...\nJaribu tena</string>
+    <string name="native_2560ee8fdd16" formatted="false">Eneo la nafasi ya kazi la</string>
+    <string name="native_b07809340403" formatted="false">bado halijahifadhiwa. Jaribu tena baadaye.</string>
+    <string name="native_e4ab10392d05" formatted="false">Huduma ya ndani inajiandaa. Nafasi yako ya kazi itafunguka kiotomatiki baada ya kuunganishwa.</string>
+    <string name="native_20ea15973287" formatted="false">Uendeshaji uliopita ulikatizwa. Anzisha tena kutoka Runtime; amri za wastaafu hazitachezwa tena kiotomatiki.</string>
+    <string name="native_f2f2f6d32544" formatted="false">Anzisha OpenCode kutoka Runtime ili kufungua msimbo na vipindi.</string>
+    <string name="native_abbac5c22111" formatted="false">Ondoka kwenye programu?</string>
+    <string name="native_fd8eb11aab0a" formatted="false">Mazingira ya ukuzaji yanaweza kuendelea kufanya kazi chinichini. Rudi baadaye kutoka kwa arifa.</string>
+    <string name="native_814a8fb24b62" formatted="false">Ondoka kwenye nafasi ya kazi ya sasa?</string>
+    <string name="native_a76464945c2d" formatted="false">Pia acha mazingira ya maendeleo\nToka kwa</string>
+    <string name="native_b814fd8d6bc5" formatted="false">Kituo cha kazi cha Maendeleo cha</string>
+    <string name="native_b00143b08ff1" formatted="false">tayari</string>
+    <string name="native_51bca456a350" formatted="false">Kituo chako cha kazi cha ukuzaji cha Debian\nMbio za</string>
+    <string name="native_0c2acd0b6057" formatted="false">Kukimbia</string>
+    <string name="native_cb40c67e7cb1" formatted="false">Inaanza\nKuacha</string>
+    <string name="native_44da7f6a451d" formatted="false">Kuacha</string>
+    <string name="native_b7e1503a7239" formatted="false">Kukarabati mazingira ya maendeleo</string>
+    <string name="native_7c91bd67ff14" formatted="false">Weka mazingira ya maendeleo</string>
+    <string name="native_cfd73bb04860" formatted="false">Acha mazingira</string>
+    <string name="native_e7ec95694dce" formatted="false">Anzisha OpenCode</string>
+    <string name="native_5d4600a269e9" formatted="false">Angalia mazingira</string>
+    <string name="native_67b4d4b8d1c0" formatted="false">Sasisha zana za msanidi wa Debian</string>
+    <string name="native_c114ec62712b" formatted="false">Hifadhi rudufu ya awali ya mazingira, miradi na data ya kipindi huhifadhiwa.</string>
+    <string name="native_eb3114155716" formatted="false">Sakinisha / sasisha seva za lugha</string>
+    <string name="native_01af25e5a7d9" formatted="false">C/C++ (clangd) na Python (pylsp), iliyosakinishwa mtandaoni kutoka kwa hazina za Debian zilizotiwa saini. Acha OpenCode na eneo-kazi kwanza.</string>
+    <string name="native_2c7251cce661" formatted="false">Gusa kitufe kinachoelea ili kubadilisha kurasa. Iburute ili kuiweka upya.\nMaelezo ya</string>
+    <string name="native_dcef145e6a9b" formatted="false">Muda wa Kutumika huonekana hapa baada ya kuanza.</string>
+    <string name="native_a8243a4e0d22" formatted="false">Open Runtime\nToleo la</string>
+    <string name="native_6c5d2fe4f42a" formatted="false">Lililounganishwa APK</string>
+    <string name="native_e6b986511faf" formatted="false">OpenCode</string>
+    <string name="native_36ab16248f65" formatted="false">Leta .ocaupdate iliyotiwa saini na mchapishaji wa programu hii. Sasisho rasmi la mbele na nyuma pamoja.\nChanzo cha Usasishaji cha</string>
+    <string name="native_8aad48b0508d" formatted="false">(HTTPS .ocafeed)</string>
+    <string name="native_7932c7a883eb" formatted="false">Angalia chanzo cha sasisho</string>
+    <string name="native_f73973cfadbb">Toleo lililotiwa saini: %1$s\nAhadi: %2$s · %3$s MiB</string>
+    <string name="native_a9fe3a2301f5" formatted="false">Pakua na uthibitishe</string>
+    <string name="native_f2ef7965bf12" formatted="false">Chagua kifurushi cha sasisho</string>
+    <string name="native_165111adfe2c">Tayari kusakinisha: %1$s\nAhadi: %2$s</string>
+    <string name="native_fdf1c88487d1" formatted="false">Sakinisha sasisho hili</string>
+    <string name="native_f9432c4d9b1e" formatted="false">Rejesha toleo na vipindi kutoka kabla ya sasisho</string>
+    <string name="native_6864335de653" formatted="false">Ghairi sasisho</string>
+    <string name="native_5e3472cf084e" formatted="false">Sakinisha sasisho la OpenCode?</string>
+    <string name="native_816bf3635d53" formatted="false">Rejesha hali kutoka kabla ya sasisho?</string>
+    <string name="native_11beb4a42abc">Sakinisha %1$s. Programu huhifadhi muhtasari wa kikao, huangalia programu iliyosainiwa na kurejesha toleo la awali ikiwa itashindwa. Faili za mradi huhifadhiwa.\nVikao vya</string>
+    <string name="native_bc7b4149e7d2" formatted="false">vinarudi katika hali yao kabla ya sasisho hili. Vipindi vya hivi majuzi zaidi vinasalia katika nakala rudufu ya faragha. Faili za mradi huhifadhiwa.</string>
+    <string name="native_def5e273616d" formatted="false">Thibitisha usakinishaji</string>
+    <string name="native_369d2eefccde" formatted="false">Haikuweza kutenga onyesho la kukagua data ya kivinjari. Fungua onyesho la kukagua tena.</string>
+    <string name="native_c3ac77c50f0b" formatted="false">Haikuweza kupakia ukurasa wa mradi. Angalia seva ya ukuzaji kwenye terminal yako.</string>
+    <string name="native_6e7408950cf5" formatted="false">Hakiki tovuti ya mradi\nOnyesho la kukagua mradi wa</string>
+    <string name="native_bfb4951e071d" formatted="false">Onyesho la kukagua mradi</string>
+    <string name="native_f80652913d06" formatted="false">Anzisha seva ya ukuzaji kwenye terminal, kisha ingiza bandari yake ya ndani. Onyesho la kukagua data ya kivinjari imetengwa kutoka kwa OpenCode.\nBandari ya</string>
+    <string name="native_2c41e85af61f" formatted="false">Bandari</string>
+    <string name="native_77c3a828a5c5" formatted="false">Ingiza lango la usanidi kutoka 1024 hadi 65535, bila kujumuisha OpenCode na huduma za eneo-kazi.</string>
+    <string name="native_7311a9dfea51" formatted="false">Hakuna kinachosikiza kwenye bandari hii. Angalia huduma kwenye terminal yako.</string>
+    <string name="native_4f8d84105475" formatted="false">Inaangalia...</string>
+    <string name="native_4923c272b68e" formatted="false">Lango la ukuzaji lazima liwe nambari kamili</string>
+    <string name="native_04a87026e81f" formatted="false">Chagua bandari halali ya ukuzaji wa mradi\nKipindi cha ukuzaji cha</string>
+    <string name="native_a8a305819e54" formatted="false">OpenCode\nUfungaji wa mazingira wa</string>
+    <string name="native_e87a4529ab82" formatted="false">Sasisho la</string>
+    <string name="native_dafb9bf1e3ae" formatted="false">Debian</string>
+    <string name="native_0c6301bc295d" formatted="false">Maendeleo ya matengenezo ya mazingira</string>
+    <string name="native_0ddf3d4297eb" formatted="false">Angalia mazingira ya Maendeleo</string>
+    <string name="native_9612d4419bb6" formatted="false">Usakinishaji wa seva ya lugha</string>
+    <string name="native_f72fba77f87a" formatted="false">Urejeshaji wa Mazingira\nUfungaji wa Eneo-kazi la</string>
+    <string name="native_7c8162195c7c" formatted="false">Ufungaji wa eneo-kazi</string>
+    <string name="native_1a6f8bc8cb71" formatted="false">Uendeshaji uliopita ulikatizwa. Anzisha upya kwa uwazi kutoka kwa Runtime.</string>
+    <string name="native_22b3b2e8ffad" formatted="false">Kazi ya ukuzaji ya aina hii bado inaendelea</string>
+    <string name="native_95a56e0a3fe2" formatted="false">Kukarabati rekodi ya shughuli\nMchakato wa</string>
+    <string name="native_b66749ed72ea" formatted="false">umetoka</string>
+    <string name="native_6b25042064e2" formatted="false">Imesimamishwa na mawimbi</string>
+    <string name="native_d6febdf1752b" formatted="false">Imedaiwa tena kwa sababu ya kumbukumbu ndogo\nKuacha kufanya kazi kwa programu ya</string>
+    <string name="native_1d13790f3c89" formatted="false">Kuacha kufanya kazi kwa mchakato wa</string>
+    <string name="native_28db94d1850d" formatted="false">Asilia\nProgramu ya</string>
+    <string name="native_86919539f7f1" formatted="false">haijibu</string>
+    <string name="native_90fb8d6098a5" formatted="false">Uanzishaji haukufaulu\nRuhusa za</string>
+    <string name="native_38c60ab6654c" formatted="false">zimebadilishwa</string>
+    <string name="native_6d2a6c71334d" formatted="false">Kikomo cha Rasilimali\nMtumiaji wa</string>
+    <string name="native_19b2090b01a8" formatted="false">aliomba kusimamishwa</string>
+    <string name="native_120d96445f1a" formatted="false">Imesimamishwa na mtumiaji\nMchakato tegemezi wa</string>
+    <string name="native_3c8af14f66bc" formatted="false">umetoka</string>
+    <string name="native_ca0941ce04ae" formatted="false">Sababu nyingine ya mfumo</string>
+    <string name="native_2df1ac3c1d38" formatted="false">Mchakato wa kufungia\nHali ya programu ya</string>
+    <string name="native_0d48373023a8" formatted="false">imebadilishwa\nSasisho la programu ya</string>
+    <string name="native_c752307db26b" formatted="false">Sasisho la programu</string>
+    <string name="native_b5015951cbdf" formatted="false">Mfumo haukutoa sababu ya kutoka</string>
+    <string name="native_b62737b826ad">Toka kwenye Mfumo (%1$s)</string>
+    <string name="native_342b2b592f34" formatted="false">Haikuweza kufungua saraka ya mradi</string>
+    <string name="native_faf5d983c13e" formatted="false">Haikuweza kuunda kipindi cha OpenCode\nSaraka ya kipindi cha</string>
+    <string name="native_2152aab78ab8" formatted="false">OpenCode hailingani</string>
+    <string name="native_ac19736908a2" formatted="false">Haikuweza kusoma kipindi cha OpenCode</string>
+    <string name="native_2642997cfeec" formatted="false">Matengenezo ya mazingira</string>
+    <string name="native_f992d735d932" formatted="false">Acha OpenCode, vituo na eneo-kazi la Debian, kisha subiri shughuli za faili zikamilike.</string>
+    <string name="native_489f137f1080" formatted="false">Kufuli ya matengenezo ya mazingira si halali tena</string>
+    <string name="native_42380e2567fc" formatted="false">Operesheni iliyokatizwa imepatikana. Fungua tena nafasi ya kazi.</string>
+    <string name="native_17b00cac2b91" formatted="false">Urejeshaji wa muunganisho wa ndani haukufaulu. Jaribu tena kutoka Runtime.</string>
+    <string name="native_77e9ca4e944c" formatted="false">Matengenezo ya mazingira yanaendelea. Jaribu tena baadaye.</string>
+    <string name="native_dbaebe3ce243" formatted="false">Simamisha eneo-kazi la Debian kabla ya kusasisha mazingira ya usanidi</string>
+    <string name="native_548085b144c9" formatted="false">Operesheni iliyokatizwa imepatikana. Unaweza kuanza mazingira ya maendeleo.</string>
+    <string name="native_b4a1531f9eac" formatted="false">Uendeshaji uliopita ulikatizwa. Amri za terminal hazitacheza tena kiotomatiki. Anzisha upya kwa uwazi kutoka kwa Runtime.</string>
+    <string name="native_295cafdfd512" formatted="false">Usafishaji wa usanidi wa muunganisho wa muda haujakamilika. Mchakato wa kusafisha uliendelea.</string>
+    <string name="native_ab16cdc08a8e" formatted="false">Haikuweza kuunda nafasi ya kazi ya helloworld. Angalia saraka na nafasi inayopatikana.</string>
+    <string name="native_68301868225a" formatted="false">Saraka ya awali ya nafasi ya kazi haipatikani. Ilifunguliwa helloworld.</string>
+    <string name="native_b33b3ca277eb" formatted="false">Mradi chaguo-msingi bado hauko tayari. Jaribu tena kutoka kwa Faili.</string>
+    <string name="native_45d6ab452622" formatted="false">Sakinisha seva za lugha</string>
+    <string name="native_9793c4a83295" formatted="false">C/C++ na seva za lugha za Python ziko tayari. Anzisha OpenCode ili kutumia LSP.</string>
+    <string name="native_5ea1653deef8" formatted="false">Rekodi ya shughuli ya wastaafu haikuhifadhiwa. Unda terminal mpya baada ya kusitisha mchakato.</string>
+    <string name="native_1978b311a9ff" formatted="false">Haikuweza kumaliza kuhifadhi rekodi ya kutoka kwenye terminal.\nUpakuaji wa sasisho wa</string>
+    <string name="native_66dee11c3194" formatted="false">OpenCode</string>
+    <string name="native_06f76cca8fb9" formatted="false">Inaunganisha kwa chanzo cha sasisho…</string>
+    <string name="native_8c39baf28e08" formatted="false">Haiwezi kuunganisha kwenye chanzo cha sasisho. Angalia mtandao, saini ya mchapishaji, toleo la mwenyeji na nafasi ya bure.\nUpakuaji wa</string>
+    <string name="native_0bedbc8d185d" formatted="false">umeisha</string>
+    <string name="native_f75850093535">Inapakua: %1$s / %2$s MiB</string>
+    <string name="native_30a778f1389a" formatted="false">Inathibitisha saini ya mchapishaji…</string>
+    <string name="native_9b989e7bcd6c" formatted="false">Inapakua kifurushi cha sasisho…</string>
+    <string name="native_2f9cd52dc66a">Sahihi halali ya mchapishaji: %1$s. Kagua kabla ya kupakua.</string>
+    <string name="native_17548865632c" formatted="false">Pakua, toa metadata na sahihi ya kifurushi imethibitishwa. Thibitisha usakinishaji.\nUpakuaji wa</string>
+    <string name="native_180cec958e7a" formatted="false">umeghairiwa. Toleo asili limehifadhiwa.\nUpakuaji wa</string>
+    <string name="native_8df045f8ac12" formatted="false">umesimamishwa. Toleo asili limehifadhiwa.</string>
+    <string name="native_778803f1c6bb" formatted="false">Ghairi upakuaji</string>
+    <string name="native_2958898ce6f4" formatted="false">Toleo jipya limeshindwa kuanzishwa kwa ndani, toleo au ukaguzi wa uthibitishaji. Toleo la awali litarejeshwa.</string>
+    <string name="native_cc876dfbb261" formatted="false">Mchakato wa majaribio bado unatoka. Subiri urejeshaji kabla ya kujaribu tena.\nKitambulisho batili cha rekodi ya sasisho</string>
+    <string name="native_adf977dcb47e" formatted="false">Kitambulishi cha rekodi ya sasisho si sahihi</string>
+    <string name="native_5207cac670b7" formatted="false">Ukubwa wa OpenCode iliyosakinishwa hailingani</string>
+    <string name="native_cf5b81887589" formatted="false">hundi iliyosakinishwa ya OpenCode hailingani. Rejesha toleo la awali.</string>
+    <string name="native_393049b506cc" formatted="false">Mpango asilia hauna uthibitisho unaolingana wa mchapishaji. Hali ya awali haijabadilishwa.</string>
+    <string name="native_c5853bcfd56c" formatted="false">Rejesha sasisho la awali lililokatizwa kwanza</string>
+    <string name="native_91d8da5525fa" formatted="false">Kifurushi cha sasisho kilibadilika baada ya uthibitisho</string>
+    <string name="native_093f2c091a30" formatted="false">Hifadhi haitoshi. Toleo la asili halijabadilika.</string>
+    <string name="native_fc9bc82e0872" formatted="false">Hakuna nakala ya sasisho inayopatikana ili kurejesha</string>
+    <string name="native_a9f4d9903c14" formatted="false">Hifadhi rudufu hailingani na toleo linaloendeshwa</string>
+    <string name="native_6caa23763a42" formatted="false">Uthibitishaji wa mpango uliopita haukufaulu. Vipindi vya sasa havijabadilika.</string>
+    <string name="native_c8b71b876695" formatted="false">A APK ya baadaye au sasisho la Debian lilichukua nafasi ya programu iliyounganishwa. Nakala asilia ya kikao imehifadhiwa; kurejesha programu inayolingana kwanza.</string>
+    <string name="native_c443df40964b" formatted="false">Operesheni batili ya kurejesha sasisho</string>
+    <string name="native_9071f05d58b3" formatted="false">Inatayarisha sasisho la OpenCode...</string>
+    <string name="native_2968d4dfdc70" formatted="false">Acha OpenCode, vituo na eneo-kazi, kisha usubiri zitoke.</string>
+    <string name="native_90c07b54f8f8" formatted="false">Hali ya kuokoa, programu za kuthibitisha na kubadili matoleo</string>
+    <string name="native_5fc065ef6f50" formatted="false">Haikuweza kuanzisha huduma ya urekebishaji wa sasisho.</string>
+    <string name="native_f7b560c8c820" formatted="false">Inathibitisha na kuweka programu rasmi…</string>
+    <string name="native_9606191c82dc" formatted="false">Inahifadhi programu asili na saini ya mchapishaji…</string>
+    <string name="native_5c0d7787ee51" formatted="false">Inahifadhi muhtasari wa hali ya kipindi...</string>
+    <string name="native_0c8cf4632889" formatted="false">Inabadilisha matoleo na kuthibitisha huduma ya ndani...</string>
+    <string name="native_3e81ea691a4a" formatted="false">Inarejesha toleo na vipindi kutoka kabla ya sasisho…</string>
+    <string name="native_856de41d3bf3" formatted="false">Kurejesha OpenCode</string>
+    <string name="native_8d0137ab8618" formatted="false">Inasasisha OpenCode</string>
+    <string name="native_6b1ccd3778fa" formatted="false">Imerejesha toleo la awali na vipindi. Vipindi vya hivi majuzi zaidi vinasalia katika nakala rudufu ya faragha.\nSasisho la</string>
+    <string name="native_07367ff18068" formatted="false">OpenCode limekamilika. Kuanzisha kutatumia mandhari ya mbele na ya nyuma inayolingana.\nSasisho la</string>
+    <string name="native_4693930f5802" formatted="false">limeghairiwa. Inathibitisha kuwa hali asili imerejeshwa.\nUsasishaji wa</string>
+    <string name="native_d0e37bc26edd" formatted="false">haujakamilika. Kupona sasa; programu asili na chelezo za kikao huhifadhiwa.\nUrejeshaji wa</string>
+    <string name="native_9a32d6c2d207" formatted="false">haujakamilika. Saraka zote za serikali zimehifadhiwa. Weka data yako na ujaribu kuanzisha upya ili urejeshe.\nUrejeshaji wa Kikao cha</string>
+    <string name="native_49ad3eeae83d" formatted="false">umekamilika. Hali ya hivi majuzi zaidi inasalia katika nakala rudufu.\nUrejeshaji wa</string>
+    <string name="native_67c08a2911e1" formatted="false">haukuweza kuendelea na nakala hii au programu asili. Vipindi vya sasa na nakala rudufu hazijabadilika.\nSasisho la</string>
+    <string name="native_976d8c169cfa" formatted="false">limeghairiwa au halikufaulu. Toleo asili na vipindi vimerejeshwa.</string>
+    <string name="native_7ac77d1513fc" formatted="false">Inathibitisha saini ya kifurushi cha sasisho na uadilifu…</string>
+    <string name="native_0aa018b7337b" formatted="false">Haiwezi kusoma faili iliyochaguliwa\nKifurushi cha Usasishaji cha</string>
+    <string name="native_19e9ad1e1f6e" formatted="false">ni kikubwa mno</string>
+    <string name="native_f068b83f40bf" formatted="false">Sahihi na kifurushi zimethibitishwa. Kagua toleo kabla ya kusakinisha.</string>
+    <string name="native_0c0b0b3f04e0" formatted="false">Haiwezi kuleta: faili batili, sahihi kutolingana, toleo la seva pangishi lisiooana au hifadhi isiyotosha.</string>
+    <string name="native_616412e65df4" formatted="false">Programu rasmi hailingani na uthibitisho wa mchapishaji wake\nVifurushi vya wakati wa kukimbia vya</string>
+    <string name="native_4bf19a158f27" formatted="false">pekee vinaweza kutumia ARM64 pekee</string>
+    <string name="native_63b1fc6fffc9" formatted="false">Sahihi ya sasisho si ya APK hii</string>
+    <string name="native_c7273354727f" formatted="false">Faili ya sasisho inazidi saizi yake iliyotangazwa</string>
+    <string name="native_2aa6c8e74abb" formatted="false">hundi ya kusasisha mpango hailingani</string>
+    <string name="native_dd619076d456" formatted="false">Saizi ya kifurushi cha sasisho si sahihi</string>
+    <string name="native_20c5bdfeffc0" formatted="false">Saizi ya kifurushi kilichobanwa hailingani</string>
+    <string name="native_1de24edffcf5" formatted="false">Kifurushi cha sasisho kina maingizo ya ziada</string>
+    <string name="native_c5b339aa77e8" formatted="false">Asili au usanifu wa sasisho usiolingana</string>
+    <string name="native_89d585f3661f" formatted="false">Pata toleo jipya la programu ya Android kabla ya kusakinisha sasisho hili</string>
+    <string name="native_800df084dea0" formatted="false">Usasishaji wa ukaguzi wa kumbukumbu haulingani</string>
+    <string name="native_ddf1a005e310" formatted="false">Umbizo hili la kuambatisha cheti kwenye APK halitumii masasisho ya pekee ya wakati wa utekelezaji</string>
+    <string name="native_172e063db474" formatted="false">Ingizo batili la kifurushi cha sasisho</string>
+    <string name="native_1c08780aa99f" formatted="false">metadata ya Usasishaji lazima itumie nambari kamili</string>
+    <string name="native_fabfcb8b5f0e" formatted="false">Programu ya sasisho sio 64-bit Linux ELF</string>
+    <string name="native_d51ff4ed57b4" formatted="false">Programu ya sasisho haifikii mpangilio wa 16 KiB ELF</string>
+    <string name="native_3afa3741911b" formatted="false">Programu ya kusasisha inakosa kipakiaji cha Debian glibc</string>
+    <string name="native_6b0b9e864f5b" formatted="false">Weka chanzo halali cha kusasisha HTTPS\nVyanzo vya sasisho vya</string>
+    <string name="native_c274c7dd5900" formatted="false">vinahitaji URL za HTTPS bila vitambulisho vya mtumiaji</string>
+    <string name="native_f459f5ec9dac" formatted="false">Sehemu ya chanzo cha sasisho si sahihi</string>
+    <string name="native_bde2a736e30a" formatted="false">Boresha kipangishi cha Android kwanza</string>
+    <string name="native_b980fd021bef" formatted="false">saraka batili ya sasisho</string>
+    <string name="native_c0e96727553e" formatted="false">faili ya sasisho batili</string>
+    <string name="native_86ff542c68ed" formatted="false">Haiwezi kubadilisha saraka za sasisho katika hali hii</string>
+    <string name="native_fbf82dc7ef22" formatted="false">inarejelea saraka ya nje. Sasisho haliwezi kujaribiwa kwa usalama.</string>
+    <string name="native_796dc6b7ca29" formatted="false">Hifadhi haitoshi. Hali ya asili haijabadilika.\nUpakuaji wa</string>
+    <string name="native_099801d672b1" formatted="false">umeghairiwa</string>
+    <string name="native_f1304f707ec9" formatted="false">Maelekezo mengi sana ya sasisho</string>
+    <string name="native_0d07f458b607" formatted="false">Seva ya sasisho haikuhamisha baiti asili</string>
+    <string name="native_de331dfd8908" formatted="false">Urefu wa faili ya kusasisha haulingani</string>
+    <string name="native_416b8c87e69e" formatted="false">Faili ya sasisho haikupakuliwa kikamilifu</string>
+    <string name="native_e1e74b76c427" formatted="false">Seva ya sasisho haikurudisha faili kamili</string>
+    <string name="native_6afcf03cb130" formatted="false">Nafasi ya kusasisha haitoshi</string>
+    <string name="native_be1c695d9241" formatted="false">Faili ya kusasisha SHA-256 hailingani</string>
+    <string name="native_a0133d117bb0" formatted="false">Kifurushi cha sasisho hakilingani na maelezo ya kutolewa yaliyothibitishwa</string>
+    <string name="native_8635a43ce28a" formatted="false">Saraka batili ya mradi</string>
+    <string name="native_d32ab8b004e6" formatted="false">Haikuweza kuhifadhi eneo la nafasi ya kazi</string>
+    <string name="native_43a5447014fd" formatted="false">Anzisha mazingira ya ukuzaji kutoka Runtime kabla ya kufungua terminal.</string>
+    <string name="native_8fdcba6ce35a" formatted="false">＋ terminal mpya</string>
+    <string name="native_b3b7108a568f" formatted="false">Funga sasa</string>
+    <string name="native_0e822affd5da">Saraka ya awali: %1$s</string>
+    <string name="native_72d769e3888d">Saraka mpya ya terminal: %1$s</string>
+    <string name="native_16e83ec84bca" formatted="false">Kiteua faili cha mfumo hakipatikani\nMipangilio ya utoaji ya</string>
+    <string name="native_179a57921f91" formatted="false">WebView\nKiwango cha fremu cha utoaji</string>
+    <string name="native_3024ec603eb7" formatted="false">Kiwango cha utoaji wa fremu</string>
+    <string name="native_55b6d7f645f3" formatted="false">Pendelea 60 Hz</string>
+    <string name="native_66f8bafa9f7f" formatted="false">Fuata kiwango cha kuonyesha upya</string>
+    <string name="native_d4ecf38c341d" formatted="false">Pendelea 60 Hz ili kupunguza mzigo wa uwasilishaji kwenye maonyesho ya kiwango cha juu cha kuonyesha upya. Kufuatia onyesho huruhusu mfumo kuratibu fremu. Inatumika kwa dirisha la programu hii pekee.</string>
+    <string name="native_bf0d3a407418" formatted="false">Haijasakinishwa</string>
+    <string name="native_2fb8edc75b25" formatted="false">Tayari</string>
+    <string name="native_4d4e2f76dd8d" formatted="false">Inathibitisha kipakiaji</string>
+    <string name="native_d1017c1eac80" formatted="false">Inasakinisha Debian</string>
+    <string name="native_f863d955fa6e" formatted="false">Mazingira ya maendeleo ya ndani\nKikao cha ukuzaji cha</string>
+    <string name="native_55aa84065de2" formatted="false">Karibuni cha ukuzaji wa Debian\nAcha</string>
+    <string name="native_6e75b1822ebc" formatted="false">Acha</string>
+    <string name="native_5f73a4e1e494" formatted="false">Imesakinishwa\nUokoaji wa</string>
+    <string name="native_147e90d2ec02" formatted="false">Kupona</string>
+</resources>

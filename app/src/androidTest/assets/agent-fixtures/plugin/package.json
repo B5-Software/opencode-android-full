@@ -1,0 +1,6 @@
+{
+  "name": "android-acceptance-fixture",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": { "./server": "./index.mjs" }
+}

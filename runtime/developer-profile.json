@@ -1,0 +1,14 @@
+{
+  "id": "developer-v1",
+  "suite": "trixie",
+  "snapshot": "20261027T000000Z",
+  "packages": [
+    "build-essential", "gcc", "g++", "clang", "lld", "make", "cmake", "ninja-build", "pkg-config",
+    "git", "gh", "openssh-client", "curl", "wget", "ca-certificates",
+    "nodejs", "npm", "python3", "python3-pip", "python3-venv", "python3-dev",
+    "rustc", "cargo", "rustfmt", "gdb", "strace", "file", "patch", "diffutils",
+    "jq", "ripgrep", "fd-find", "less", "nano", "vim-tiny", "tmux",
+    "zip", "unzip", "xz-utils", "bzip2", "tar", "gzip"
+  ],
+  "capabilities": ["c-cpp", "node-npm", "python-venv-pip", "rust-cargo", "git-gh-ssh", "debugging", "search", "archives"]
+}

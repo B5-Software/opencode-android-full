@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(opencode_host C)
+add_library(runtime-host SHARED runtime_host.c)
+target_compile_options(runtime-host PRIVATE -Wall -Wextra -Werror)
+target_link_options(runtime-host PRIVATE -Wl,-z,max-page-size=16384 -Wl,-z,common-page-size=16384)
