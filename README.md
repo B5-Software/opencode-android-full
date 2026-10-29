@@ -4,6 +4,7 @@ English | [简体中文](README.zh-CN.md)
 
 [![Android CI](https://github.com/B5-Software/opencode-android-full/actions/workflows/android.yml/badge.svg)](https://github.com/B5-Software/opencode-android-full/actions/workflows/android.yml)
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE)
+[![GitHub release downloads](https://img.shields.io/github/downloads/B5-Software/opencode-android-full/total?label=Downloads "All release assets, all releases")](https://github.com/B5-Software/opencode-android-full/releases)
 
 A local development workstation for Android: the official OpenCode CLI and WebUI, Debian 13 ARM64 development tools, terminals, files, and an optional Linux desktop in one application.
 

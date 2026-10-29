@@ -2,6 +2,8 @@
 
 # OpenCode Android Full
 
+[![GitHub 发布下载量](https://img.shields.io/github/downloads/B5-Software/opencode-android-full/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F "所有 Release 资产的累计下载次数")](https://github.com/B5-Software/opencode-android-full/releases)
+
 非官方 Android 本地开发工作站，按 [v2.0 项目计划书](docs/PROJECT_PLAN.zh-CN.md) 实施。
 
 本项目正在开发，**当前不是 M0–M5 全部完成的成品**。Android Host 使用 Kotlin/Compose，`minSdk=29`、`targetSdk=36`、`compileSdk=36`，正式运行包仅 ARM64。x86_64 是显式启用的工程诊断版本。
