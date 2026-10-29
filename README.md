@@ -29,6 +29,8 @@ The Android container handles input, navigation, lifecycle, and rendering integr
 
 Download signed engineering builds from [Releases](https://github.com/B5-Software/opencode-android-full/releases). Verify the APK against `SHA256SUMS-signed.txt` and its certificate record. Actions artifacts also contain debug, test, and unsigned APKs for development.
 
+The first signed engineering prerelease is [v0.1.0-beta.1](https://github.com/B5-Software/opencode-android-full/releases/tag/v0.1.0-beta.1). Its 35 assets were downloaded and checked, including the APK signature, matched OpenCode update/feed signatures, and source checksums. The project signing-certificate SHA-256 is `76d8185709761f45e880fda75bf8f20674659484e4ac66e60f3cf80b9cd71b71`. This release retains the validation and audit limits above.
+
 1. Install the ARM64 APK and open the app.
 2. Prepare/start the bundled runtime from Runtime settings. The app starts and pairs with the local OpenCode service.
 3. Configure your model provider in the official OpenCode interface. Inference uses your chosen cloud provider or compatible local model service.

@@ -271,3 +271,13 @@ K30 更新包验证层新增 7 项、9.458 秒通过，含以已安装 APK 证�
 随后追加本地分发材料验证：68 个唯一 release 运行库的二进制摘要与 POM/source JAR 配对，收集 4329 份原始说明/版权头；官方清单依赖超集的 Linux ARM64 production 输入产生 685 条记录，其中四项为明示的标准声明审查项；两份字体元数据和 r26b/r29 NDK 原始说明也按摘要配对。43 项 Python 测试、Android debug/release 构建、既有 JVM 单元测试、lintDebug/lintRelease 通过，实际两份 APK 的新增内嵌材料契约、ABI/SDK/对齐检查通过。npm SPDX 清单通过已固定的官方 2.3 Schema。证据在 `.cache/evidence/dependency-notices-*.txt`、`ci-canonical-export-tests.txt` 与对应 artifacts 下；新增分发流程仍需下一轮托管 CI 验证。
 
 完整许可证适用性/兼容性结论、修改 WebKit/Bun 的重链接链路及 M0–M5 中其他设备/真实服务/压力验收继续保持未完成状态，不将材料收集与完整审计混同。
+
+## 2026-10-30 首个正式签名工程预发布
+
+`8d0c399fcddb3466f17bc01ae491920b601890fc` 的 main [Actions 40947115361](https://github.com/B5-Software/opencode-android-full/actions/runs/40947115361) 全部通过后，创建了 `v0.1.0-beta.1` 标签。[标签 Actions 40948942584](https://github.com/B5-Software/opencode-android-full/actions/runs/40948942584) 的源码、ARM64 运行包、APK 检查及正式签名发布任务均成功；[公开 Release](https://github.com/B5-Software/opencode-android-full/releases/tag/v0.1.0-beta.1) 为 prerelease，35 个资产均为 uploaded。
+
+实际下载全部 35 个资产（2,690,988,263 字节），逐一核对 GitHub 资产摘要、两份 SHA-256 清单，验证正式 APK 签名/内置程序证明、更新包与更新源 RSA 签名、匹配的官方程序和源提交，以及 Maven/npm 内嵌材料和两份 SPDX 2.3 Schema。实际 APK 证书与仓库外保存的项目密钥证书一致：SHA-256 `76d8185709761f45e880fda75bf8f20674659484e4ac66e60f3cf80b9cd71b71`。
+
+正式 APK 为 627,750,491 字节，SHA-256 `cdc35f96e865f55da5477934f752717be2c5ab2956ac47c8a901fbbd5a9ca9db`。下载证据在 `.cache/evidence/published-v0.1.0-beta.1-verification.json` 与 `published-v0.1.0-beta.1-apksigner.txt`；本地原始下载位于 `artifacts/release-v0.1.0-beta.1/`。工程发布保留 485 个 Debian 源包/2209 个文件、68 份唯一 Maven 配对以及 685 条 npm 清单超集的范围记录，四项声明审查仍显式保留。
+
+这些是宿主与分发验证，不新增正式签名 APK 的真机安装证据；已安装的开发签名版本和用户数据保持保留。完整许可证兼容性、修改运行库重链接及其余 M0–M5 验收继续未完成。

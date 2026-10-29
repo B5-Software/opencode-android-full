@@ -39,6 +39,8 @@ K30 已验证网页实际连接 Debian Python 服务，预览与 OpenCode Cookie
 
 ## 构建
 
+首个正式签名的工程预发布为 [v0.1.0-beta.1](https://github.com/B5-Software/opencode-android-full/releases/tag/v0.1.0-beta.1)。35 个资产已实际下载，APK 签名、匹配的 OpenCode 更新包/更新源签名及源码校验值均已核对。项目签名证书 SHA-256：`76d8185709761f45e880fda75bf8f20674659484e4ac66e60f3cf80b9cd71b71`。该版本仍保留本文列出的设备和审计验收边界。
+
 push/PR 的 APK 自动构建、标签签名及工程预发布配置见 [CI 说明](docs/CI.md)，实际托管构建状态见 [GitHub Actions](https://github.com/B5-Software/opencode-android-full/actions)。签名预发布的下载入口为 [Releases](https://github.com/B5-Software/opencode-android-full/releases)。工作流成功不代替完整设备验收；现有开发签名安装与正式签名可能不同，请保留原安装、先导出项目，不同签名间的备份迁移尚未确立。[OpenCode 独立更新](docs/OPENCODE_UPDATES.md)已接入签名 HTTPS 更新源、下载、本地签名包导入、原生确认、会话快照、启动检查和回退；发布者证明保留内置基线，支持后续 Host/rootfs 改变后独立验证旧程序。不同 Host/官方 schema 的完整矩阵仍待完成。
 
 [工作站加密备份与恢复](docs/BACKUP_RESTORE.md)已加入原生运行环境页面，覆盖持久化 Linux 环境与项目/会话、独立暂存验证、确认后多目录事务恢复，以及保留较新工作的整环境还原。K30 已用全新独立 Debian 环境通过约 1.71 GB 数据的真实编译、会话和还原验收；WebView 网页存储不随 v1 备份跨设备迁移，更多设备/provider/生命周期矩阵仍待完成。
@@ -85,7 +87,7 @@ adb -s <serial> shell am instrument -w -e includeNetwork true io.github.opencode
 
 ## 仍需完成
 
-ARM64 16 KB 实机验证；真实模型驱动的 Agent 工程开发与恢复；终端和桌面 IME/TUI/外设交互矩阵；真实 GitHub 登录/远端推送、LSP 配置与语言覆盖；AndroidBridge 长时间/系统回收压力与完整文件操作矩阵；桌面 Chromium 沙箱兼容与隔离评估；真实平板、折叠屏和外接显示器的多面板验收；跨设备/provider/长期压力下的备份恢复矩阵；Android 10–16 生命周期与压力验证；发布签名与许可证清单审计。
+ARM64 16 KB 实机验证；真实模型驱动的 Agent 工程开发与恢复；终端和桌面 IME/TUI/外设交互矩阵；真实 GitHub 登录/远端推送、LSP 配置与语言覆盖；AndroidBridge 长时间/系统回收压力与完整文件操作矩阵；桌面 Chromium 沙箱兼容与隔离评估；真实平板、折叠屏和外接显示器的多面板验收；跨设备/provider/长期压力下的备份恢复矩阵；Android 10–16 生命周期与压力验证；持续发布验证与完整许可证兼容性审计。
 
 本项目以 GPL-3.0-or-later 提供新代码。参考与复用组件的版权、许可证见 [第三方说明](THIRD_PARTY_NOTICES.md)。OpenCode 保留上游 MIT 许可证，Debian 内各软件包保留其各自许可证。
 
