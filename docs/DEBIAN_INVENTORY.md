@@ -26,3 +26,8 @@ python3 tools/debian_sources.py package --lock source-plan.json --objects .cache
 ```
 
 把所有分卷解压到同一新目录后，可运行其中的 `python tools/debian_sources.py verify --lock SOURCE_MANIFEST.json --objects objects` 离线校验，再使用 `materialize --name <源包名> --output <新目录>` 恢复 Debian 原文件名，由用户选择是否运行 `dpkg-source -x`。源码分发不是整个 APK 的许可证兼容性结论；Bun/WebKit、npm、Maven 和其他构件仍有单独审计边界，见第三方说明。
+
+
+2026-10-30：实际 K30 工程 APK（SHA-256 `3f6973721003046e9527836c01539804ab489c5d638466b8873aadc48a08fac7`）对应 rootfs 的 485/485 个源包、2209/2209 个源文件已全部校验，原始文件总计 1,297,114,021 字节；无失败或不完整项。实际分发试包形成三个分卷，大小分别为 512,605,627、504,218,337、289,641,168 字节。证据为本地 `artifacts/debian-source-collection.json` 和 `artifacts/debian-source-delivery/`，不把本地试包等同于已完成线上 Release。根目录 SDK/上游组件审计仍有独立未完成项。
+
+同一快照 URI 的 trixie-updates 在托管 CI 返回另一份 Debian 有效签名信封：日期从 2026-10-26 14:08:17 变为 20:08:23，但锁定 binary-arm64 Packages.xz 摘要保持不变。现将此前已核验的三份 InRelease 原始字节保存在 `runtime/apt-metadata/`，用 Git `-text` 保持字节，仍按原 SHA-256、公钥与索引摘要验证；不自动接受重新签署的信封或重解析依赖图。

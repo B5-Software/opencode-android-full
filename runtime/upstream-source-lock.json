@@ -30,15 +30,55 @@
       "size": 81465342
     }
   ],
-  "externalSourceReferences": [
+  "externalSourceReferences": [],
+  "fullReleaseAuditComplete": false,
+  "gitSources": [
     {
       "name": "bun-webkit",
-      "repository": "https://github.com/oven-sh/WebKit",
+      "repository": "oven-sh/WebKit",
       "commit": "d6375c72affe0f70222cdcb45012b10f0bf3a9d5",
-      "sourceArchiveCollected": false,
-      "archiveEndpointStatus": "HTTP 422: Content creation is blocked",
-      "instructions": "Bun upstream documents git clone and bun sync-webkit-source; archive availability and relink verification remain open."
+      "file": "bun-webkit-source.tar.gz",
+      "paths": [
+        "Source",
+        "Tools",
+        "WebKitLibraries",
+        ".ccls",
+        ".clang-format",
+        ".dir-locals.el",
+        ".dockerignore",
+        ".editorconfig",
+        ".gitattributes",
+        ".gitignore",
+        ".metadata_never_index",
+        ".sourcefilters",
+        ".submitproject",
+        ".submitproject-append",
+        ".submitproject-tools",
+        ".swift-format",
+        ".wkdev-sdk-version",
+        "CLAUDE.md",
+        "CMakeLists.txt",
+        "CMakePresets.json",
+        "Dockerfile",
+        "Dockerfile.android",
+        "Dockerfile.freebsd",
+        "Dockerfile.macos",
+        "Dockerfile.musl",
+        "Dockerfile.windows",
+        "Introduction.md",
+        "Makefile",
+        "Makefile.shared",
+        "ReadMe.md",
+        "a.patch",
+        "build-icu.ps1",
+        "jsc.md",
+        "vcpkg-configuration.json",
+        "vcpkg.json"
+      ],
+      "tarSha256": "1a284a9da675dcbd2e2a80726d2e4abd341e61b2231a6dde8b278aacf0ad9bef",
+      "tarSize": 1426841600,
+      "scope": "Bun JavaScriptCore build source: Source, Tools, WebKitLibraries and root files; unrelated top-level test/site trees omitted",
+      "modifiedRuntimeRelinkVerified": false
     }
-  ],
-  "fullReleaseAuditComplete": false
+  ]
 }

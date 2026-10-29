@@ -18,7 +18,7 @@ NOTES
 files=(artifacts/opencode-android-full-arm64.apk artifacts/opencode-android-full-arm64.ocaupdate artifacts/opencode-android-full-arm64.ocafeed artifacts/SHA256SUMS-signed.txt artifacts/signing-certificate.txt artifacts/build-info.json artifacts/opencode-android-full-source.tar.gz artifacts/ci-native-sources.tar.gz artifacts/THIRD_PARTY_NOTICES.md artifacts/developer-packages-arm64.tsv artifacts/developer-deb-lock.json artifacts/gradle-runtime-dependencies.txt)
 files+=(artifacts/debian-components.spdx.json artifacts/debian-inventory-coverage.json artifacts/debian-source-requests.json artifacts/debian-license-texts.zip)
 files+=(artifacts/debian-source-archive-lock.json artifacts/debian-source-collection.json artifacts/debian-source-delivery.json artifacts/SHA256SUMS-debian-sources.txt artifacts/debian-source-part-*.tar.gz)
-files+=(artifacts/bun-source.tar.gz artifacts/bun-tinycc-source.tar.gz artifacts/opencode-source.tar.gz artifacts/upstream-source-delivery.json artifacts/upstream-license-texts.zip)
+files+=(artifacts/bun-source.tar.gz artifacts/bun-tinycc-source.tar.gz artifacts/bun-webkit-source.tar.gz artifacts/opencode-source.tar.gz artifacts/upstream-source-delivery.json artifacts/upstream-license-texts.zip)
 if gh release view "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --json isDraft >/dev/null 2>&1; then
     echo 'This tag already has a release; its assets were preserved. Use a new reviewed tag.' >&2
     exit 1

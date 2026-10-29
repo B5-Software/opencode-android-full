@@ -5,11 +5,14 @@ Only the sources listed as collected in the lock are delivered. External source
 references are retained explicitly and never counted as collected archives.
 """
 import argparse
+import gzip
 import hashlib
 import json
+import os
 from pathlib import Path, PurePosixPath
 import re
 import shutil
+import subprocess
 import tempfile
 from urllib.parse import urlsplit
 from urllib.request import HTTPRedirectHandler, Request, build_opener
@@ -53,6 +56,68 @@ def acquire(record,cache):
     finally:
         if temporary:temporary.unlink(missing_ok=True)
 
+def verify_git_archive(path,record):
+    if path.is_symlink():raise ValueError('Git source archive is a symlink')
+    if path.stat().st_size>MAX:raise ValueError('Compressed Git source exceeds bound')
+    checksum=hashlib.sha256();count=0
+    with gzip.open(path,'rb') as source:
+        while block:=source.read(1024**2):
+            count+=len(block)
+            if count>record['tarSize']:raise ValueError('Git source tar exceeds its pin')
+            checksum.update(block)
+    if count!=record['tarSize'] or checksum.hexdigest()!=record['tarSha256']:raise ValueError('Git source tar differs from its pin')
+
+def acquire_git(record,cache):
+    if record['name']!='bun-webkit' or record['repository']!='oven-sh/WebKit' or record['file']!='bun-webkit-source.tar.gz':raise ValueError('Unexpected Git source')
+    if not re.fullmatch(r'[a-f0-9]{40}',record['commit']) or not re.fullmatch(r'[a-f0-9]{64}',record['tarSha256']) or type(record['tarSize']) is not int or not 0<record['tarSize']<=8*1024**3:raise ValueError('Invalid Git source pin')
+    if record['paths'][:3]!=['Source','Tools','WebKitLibraries'] or len(record['paths'])>100:raise ValueError('Invalid Git source selection')
+    for path in record['paths']:
+        if not re.fullmatch(r'[A-Za-z0-9_.-]+',path) or path in ('.','..'):raise ValueError('Unsafe Git source selector')
+    cache.mkdir(parents=True,exist_ok=True);target=cache/record['file']
+    if target.exists():verify_git_archive(target,record);return target
+    # Follow Bun's documented public Git source path; no source code is run.
+    # Ignore personal Git filters/hooks and credential helpers in this isolated
+    # acquisition checkout. The original blob bytes come from git archive.
+    environment=dict(os.environ,GIT_CONFIG_GLOBAL=os.devnull,GIT_CONFIG_NOSYSTEM='1',GIT_TERMINAL_PROMPT='0')
+    with tempfile.TemporaryDirectory(prefix='webkit-source-',dir=cache,ignore_cleanup_errors=True) as directory:
+        repo=Path(directory)
+        repo.resolve().relative_to(cache.resolve())
+        def git(*arguments,**kwargs):return subprocess.run(['git','-c','core.longpaths=true','-c','credential.helper=','-C',str(repo),*arguments],env=environment,check=True,**kwargs)
+        git('init',stdout=subprocess.DEVNULL);git('remote','add','origin','https://github.com/oven-sh/WebKit.git')
+        git('fetch','--no-tags','--depth=1','--filter=blob:none','origin',record['commit'])
+        git('sparse-checkout','init','--cone');git('sparse-checkout','set',*record['paths'][:3]);git('checkout','--detach',record['commit'])
+        temporary=cache/(record['file']+'.partial')
+        try:
+            with temporary.open('xb') as raw,gzip.GzipFile(filename='',fileobj=raw,mode='wb',mtime=0,compresslevel=1) as output:
+                process=subprocess.Popen(['git','-C',str(repo),'archive','--format=tar','--prefix=bun-webkit/',record['commit'],'--',*record['paths']],stdout=subprocess.PIPE,env=environment)
+                try:
+                    count=0
+                    while block:=process.stdout.read(1024**2):
+                        count+=len(block)
+                        if count>record['tarSize']:raise ValueError('Generated Git tar exceeds pin')
+                        output.write(block)
+                    if process.wait():raise ValueError('git archive failed')
+                finally:
+                    process.stdout.close()
+                    if process.poll() is None:process.terminate();process.wait(timeout=10)
+            verify_git_archive(temporary,record);temporary.replace(target)
+        finally:temporary.unlink(missing_ok=True)
+    return target
+
+def verify_bun_source(archive,lock):
+    wanted={'package.json','scripts/build/deps/webkit.ts','scripts/build/deps/tinycc.ts'};found={}
+    with tarfile.open(archive,'r|gz') as source:
+        for entry in source:
+            name='/'.join(PurePosixPath(entry.name).parts[1:])
+            if name not in wanted:continue
+            if not entry.isfile() or entry.size>256*1024 or name in found:raise ValueError('Invalid Bun version metadata')
+            found[name]=source.extractfile(entry).read().decode('utf-8')
+    if set(found)!=wanted or json.loads(found['package.json'])['version']!=lock['bunVersion']:raise ValueError('Bun source version does not match the locked runtime')
+    records={r['name']:r for r in lock['sources']+lock.get('gitSources',[])}
+    for file,constant,name in [('scripts/build/deps/webkit.ts','WEBKIT_VERSION','bun-webkit'),('scripts/build/deps/tinycc.ts','TINYCC_COMMIT','bun-tinycc')]:
+        match=re.search(r'const '+constant+r'\s*=\s*"([a-f0-9]{40})"',found[file])
+        if not match or match.group(1)!=records[name]['commit']:raise ValueError('Bun dependency source pin differs from its actual build script')
+
 def notices(archive,component,output):
     count=total=0
     with tarfile.open(archive,'r|gz') as source:
@@ -73,14 +138,21 @@ def collect(lock,cache,output):
         validate(record)
         if record['name'] in names:raise ValueError('Duplicate source component')
         names.add(record['name'])
-    output.mkdir(parents=True,exist_ok=False);records=[]
+    upstream=json.loads((ROOT/'runtime/opencode-dev.lock.json').read_text(encoding='utf-8'))
+    if lock['bunVersion']!=upstream['bunVersion'] or next(r['commit'] for r in lock['sources'] if r['name']=='opencode')!=upstream['commit']:raise ValueError('Source delivery does not match the packaged official pair/runtime')
+    output.mkdir(parents=True,exist_ok=False);records=[];git_records=[]
     with zipfile.ZipFile(output/'upstream-license-texts.zip','x',compression=zipfile.ZIP_DEFLATED) as license_zip:
         for record in lock['sources']:
             archive=acquire(record,cache);count=notices(archive,record['name'],license_zip)
+            if record['name']=='bun':verify_bun_source(archive,lock)
             shutil.copyfile(archive,output/record['file']);records.append(dict(record,licenseTextFiles=count))
-    result=dict(lock,sources=records,sourceArchivesCollected=len(records),fullReleaseAuditComplete=False)
+        for record in lock.get('gitSources',[]):
+            if record['name'] in names:raise ValueError('Duplicate Git source component')
+            names.add(record['name']);archive=acquire_git(record,cache);count=notices(archive,record['name'],license_zip)
+            shutil.copyfile(archive,output/record['file']);git_records.append(dict(record,licenseTextFiles=count,sha256=digest(archive),size=archive.stat().st_size))
+    result=dict(lock,sources=records,gitSources=git_records,sourceArchivesCollected=len(records)+len(git_records),fullReleaseAuditComplete=False)
     (output/'upstream-source-delivery.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
-    print(json.dumps({'sourceArchivesCollected':len(records),'licenseTextFiles':sum(r['licenseTextFiles'] for r in records),'externalSourceReferences':len(lock.get('externalSourceReferences',[]))}))
+    print(json.dumps({'sourceArchivesCollected':len(records)+len(git_records),'licenseTextFiles':sum(r['licenseTextFiles'] for r in records+git_records),'externalSourceReferences':len(lock.get('externalSourceReferences',[]))}))
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--lock',type=Path,default=ROOT/'runtime/upstream-source-lock.json');parser.add_argument('--cache',type=Path,default=ROOT/'.cache/upstream-source-objects');parser.add_argument('--output',type=Path,required=True)

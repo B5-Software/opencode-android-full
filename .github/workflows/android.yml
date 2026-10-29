@@ -29,6 +29,8 @@ jobs:
           python3 -m unittest discover -s tools -p test_update_feed.py
           python3 -m unittest discover -s tools -p test_debian_sbom.py
           python3 -m unittest discover -s tools -p test_debian_sources.py
+          python3 -m unittest discover -s tools -p test_upstream_sources.py
+          python3 -m unittest discover -s tools -p test_devkit_mirror.py
           python3 -m unittest discover -s tools -p test_native_i18n.py
           node --test tools/test_lsp.mjs
           bash -n tools/ci_prepare_assets.sh tools/ci_sign_apk.sh tools/ci_release_draft.sh tools/ci_debian_sources.sh

@@ -9,7 +9,7 @@
 | OpenCode | [dev f993a89d](https://github.com/anomalyco/opencode/tree/f993a89d13c73ff6f6537d6b97e78e138a3ea363) | MIT; full server and official WebUI built from the same unmodified source commit |
 | Embedded Bun runtime | [1.4.4 / 38afee6c](https://github.com/oven-sh/bun/tree/38afee6c84fcf48c0edb2466aa4b27d287a59c30) | Upstream license/third-party notice retained verbatim in APK assets; source archive and extracted notices included with release materials |
 | Bun TinyCC | [05f0fafa](https://github.com/oven-sh/tinycc/tree/05f0fafaa3be31e31d7b4b5c17dc60f62c991171) | LGPL-2.1; source archive and Bun patch/build recipe retained |
-| Bun JavaScriptCore / WebKit | [d6375c72](https://github.com/oven-sh/WebKit/tree/d6375c72affe0f70222cdcb45012b10f0bf3a9d5) | LGPL and other per-file terms; exact pin comes from Bun's build script. Upstream archive endpoint returned HTTP 422; source archive collection and modified-runtime relink verification remain open, explicitly recorded in `runtime/upstream-source-lock.json` |
+| Bun JavaScriptCore / WebKit | [d6375c72](https://github.com/oven-sh/WebKit/tree/d6375c72affe0f70222cdcb45012b10f0bf3a9d5) | LGPL and other per-file terms; exact pin cross-checked against Bun's build script. Source/Tools/WebKitLibraries plus root files collected through upstream's documented public Git path and pinned by uncompressed tar SHA-256; unrelated top-level test/site trees omitted. Modified-runtime relink validation remains open |
 | Debian 13 ARM64 / diagnostic amd64 | `runtime/debian-*.json` | Official debuerreotype Docker Debian artifacts; individual package copyrights remain in `/usr/share/doc/*/copyright` |
 | Gradle wrapper | 8.11.1 | Apache-2.0; official Gradle source; distribution SHA-256 pinned |
 | AndroidX / Compose | See `app/build.gradle.kts` | Apache-2.0; published Maven dependencies |
@@ -34,7 +34,7 @@ documented in `docs/DEBIAN_INVENTORY.md`.
 TinyCC archives by SHA-256/size. `tools/upstream_sources.py` preserves original
 bytes and extracts license/notice texts without unpacking or executing sources.
 External source references are not counted as collected archives. Transitive
-npm/Maven notice completeness, WebKit source/relink delivery and full compatibility
+npm/Maven notice completeness, modified WebKit/Bun relink validation and full compatibility
 review remain open; `fullReleaseAuditComplete` remains false.
 Before external distribution, generate the full transitive dependency/SBOM inventory and
 include the applicable licence texts plus the corresponding source/build materials for

@@ -24,7 +24,8 @@ SOURCES = [("debian", "trixie"), ("debian", "trixie-updates"), ("debian-security
 def acquire(url, destination, expected=None, size=None):
     destination.parent.mkdir(parents=True, exist_ok=True)
     if destination.exists():
-        digest = hashlib.file_digest(destination.open("rb"), "sha256").hexdigest()
+        with destination.open("rb") as existing:
+            digest = hashlib.file_digest(existing, "sha256").hexdigest()
         if expected is None or digest == expected:
             return digest
         raise ValueError(f"Cached checksum mismatch: {destination}")

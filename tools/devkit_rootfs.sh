@@ -72,6 +72,9 @@ if [ "$phase" = resolve ]; then
     chroot "$SYSROOT" apt-get -o Acquire::ForceHash=sha256 --yes --no-install-recommends --print-uris install "${packages[@]}" > "$ROOT/.cache/developer-arm64-uris.txt"
     echo 'Developer dependency graph resolved against signed Debian indexes'
 elif [ "$phase" = install ]; then
+    # A locked dependency graph skips the optional resolve phase, but a clean
+    # base image still needs apt's local package lists and signature checks.
+    chroot "$SYSROOT" apt-get -o Acquire::Languages=none -o Acquire::PDiffs=false -o Acquire::By-Hash=false update
     chroot "$SYSROOT" /usr/bin/env DEBIAN_FRONTEND=noninteractive apt-get -o Acquire::ForceHash=sha256 --yes --no-install-recommends install "${packages[@]}"
     mkdir -p "$SYSROOT/usr/share/opencode-android"
     chroot "$SYSROOT" dpkg-query -W '-f=${binary:Package}\t${Version}\t${Architecture}\n' > "$SYSROOT/usr/share/opencode-android/developer-packages.tsv"
