@@ -72,6 +72,13 @@ class SourceTests(unittest.TestCase):
         self.assertEqual('c'*64,actual['rootfsSha256'])
         actual['sourcePackages'][0]['version']='1:2.3-2'
         with self.assertRaises(ValueError):sources.compare_source_graph(actual,expected)
+    def test_complete_request_file_hash_remains_enforced(self):
+        expected,*_=self.fixture();actual=copy.deepcopy(expected);actual['requestsSha256']='e'*64
+        with self.assertRaisesRegex(ValueError,'requestsSha256'):sources.compare_source_graph(actual,expected)
+    def test_source_plan_json_bytes_use_utf8_and_lf(self):
+        path=self.work/'source-plan.json';value={'name':'fixture 作者','lines':['one','two']}
+        sources.write_json(path,value)
+        self.assertEqual((json.dumps(value,ensure_ascii=False,indent=2)+'\n').encode('utf-8'),path.read_bytes())
     def test_download_checks_before_publishing_and_rejects_a_changed_cache(self):
         data=b'fixture source';target=self.work/sha(data)
         with mock.patch.object(sources,'build_opener') as opener:

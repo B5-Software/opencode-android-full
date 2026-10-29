@@ -2,7 +2,7 @@
   "format": 1,
   "scope": "Debian portion only",
   "rootfsSha256": "1347d2e42b67863aa53923a3d74b64157faa02c546a92b4b50fb5907260f8d28",
-  "requestsSha256": "2f2142084941e28e60a333d7c2f58874dc78801d112b4c7e487745ec4bc863b7",
+  "requestsSha256": "ffa9c6cf7816328d3ee74c0d906475b013b129cb89f1b27a00fccb4fbd21d879",
   "archiveKeyringSha256": "506b815cbb32d9b6066b4a2aa524071e071761e7e7f68c3ac74f3061ba852017",
   "indexes": [
     {

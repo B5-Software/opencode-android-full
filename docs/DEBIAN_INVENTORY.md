@@ -31,3 +31,6 @@ python3 tools/debian_sources.py package --lock source-plan.json --objects .cache
 2026-10-30：实际 K30 工程 APK（SHA-256 `3f6973721003046e9527836c01539804ab489c5d638466b8873aadc48a08fac7`）对应 rootfs 的 485/485 个源包、2209/2209 个源文件已全部校验，原始文件总计 1,297,114,021 字节；无失败或不完整项。实际分发试包形成三个分卷，大小分别为 512,605,627、504,218,337、289,641,168 字节。证据为本地 `artifacts/debian-source-collection.json` 和 `artifacts/debian-source-delivery/`，不把本地试包等同于已完成线上 Release。根目录 SDK/上游组件审计仍有独立未完成项。
 
 同一快照 URI 的 trixie-updates 在托管 CI 返回另一份 Debian 有效签名信封：日期从 2026-10-26 14:08:17 变为 20:08:23，但锁定 binary-arm64 Packages.xz 摘要保持不变。现将此前已核验的三份 InRelease 原始字节保存在 `runtime/apt-metadata/`，用 Git `-text` 保持字节，仍按原 SHA-256、公钥与索引摘要验证；不自动接受重新签署的信封或重解析依赖图。
+
+
+2026-10-30 托管源码图校验修正：Windows 生成的请求 JSON 原先使用 CRLF，Linux CI 使用 LF，导致同样的完整源码映射具有不同文件摘要。现统一清单和源码计划输出为 UTF-8/LF，并从实际 APK 重生成清单及认证源码计划。比对确认只有 `requestsSha256` 改变，485 个源码身份、2209 个对象及三份认证索引完全相同；仍严格校验请求文件摘要，没有放宽源码版本、对象或签名要求。原始本地 CRLF 试包保留为历史证据，新构建采用新的 LF 摘要。

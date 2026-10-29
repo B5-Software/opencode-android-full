@@ -57,7 +57,7 @@ def read_json(path):
 
 def write_json(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', dir=path.parent, prefix=path.name+'.', suffix='.partial', delete=False) as stream:
+    with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', newline='\n', dir=path.parent, prefix=path.name+'.', suffix='.partial', delete=False) as stream:
         temporary = Path(stream.name)
         json.dump(value, stream, ensure_ascii=False, indent=2); stream.write('\n')
     temporary.replace(path)
@@ -237,8 +237,9 @@ def compare_source_graph(actual, expected):
     including the complete binary-to-source request hash, must match exactly.
     """
     validate_plan(actual);validate_plan(expected)
-    if {k:v for k,v in actual.items() if k!='rootfsSha256'}!={k:v for k,v in expected.items() if k!='rootfsSha256'}:
-        raise ValueError('The authenticated source graph differs from the committed lock')
+    changed=sorted(k for k in set(actual)|set(expected) if k!='rootfsSha256' and actual.get(k)!=expected.get(k))
+    if changed:
+        raise ValueError('The authenticated source graph differs from the committed lock at: '+', '.join(changed))
 
 
 def validate_plan(plan):

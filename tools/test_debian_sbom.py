@@ -118,6 +118,11 @@ class ApkIntegrationTest(unittest.TestCase):
         self.assertEqual(0, self.run_tool().returncode)
         output = self.directory / "output"
         before = (output / "debian-components.spdx.json").read_bytes()
+        # The complete request file is locked by SHA-256 across Windows/Linux.
+        for name in ("debian-components.spdx.json", "debian-inventory-coverage.json", "debian-source-requests.json"):
+            data = (output / name).read_bytes()
+            self.assertNotIn(b"\r", data)
+            self.assertEqual((json.dumps(json.loads(data), ensure_ascii=False, indent=2) + "\n").encode("utf-8"), data)
         with zipfile.ZipFile(output / "debian-license-texts.zip") as texts:
             self.assertEqual(fixture()[0]["usr/share/doc/alpha/copyright"][1], texts.read("usr/share/doc/beta/copyright"))
         self.assertNotEqual(0, self.run_tool().returncode)

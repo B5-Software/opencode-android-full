@@ -239,7 +239,9 @@ def main():
     if any((args.output / name).exists() for name in names):
         raise FileExistsError("Inventory output already exists; select a fresh output directory")
     for name, value in outputs.items():
-        with (args.output / name).open("x", encoding="utf-8") as stream:
+        # Inventory bytes are hashed by the source lock. Use the same bytes on
+        # Windows maintainers' machines and Linux CI, including line endings.
+        with (args.output / name).open("x", encoding="utf-8", newline="\n") as stream:
             json.dump(value, stream, ensure_ascii=False, indent=2); stream.write("\n")
     with zipfile.ZipFile(args.output / "debian-license-texts.zip", "x", compression=zipfile.ZIP_DEFLATED) as archive:
         for name, data in sorted(texts.items()):
