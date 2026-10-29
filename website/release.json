@@ -1,0 +1,25 @@
+{
+  "repository": "B5-Software/opencode-android-full",
+  "tag": "v0.1.0-beta.1",
+  "prerelease": true,
+  "publishedAt": "2026-10-29T20:40:12Z",
+  "releaseUrl": "https://github.com/B5-Software/opencode-android-full/releases/tag/v0.1.0-beta.1",
+  "assets": {
+    "apk": {
+      "url": "https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/opencode-android-full-arm64.apk",
+      "size": 627750491,
+      "sha256": "cdc35f96e865f55da5477934f752717be2c5ab2956ac47c8a901fbbd5a9ca9db"
+    },
+    "core": {
+      "url": "https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/opencode-android-full-arm64.ocaupdate",
+      "size": 127769339,
+      "sha256": "0fe936c502d695c647772b837f7708d7b021e29ef30eae3c069d81df5018a03d"
+    },
+    "feed": {
+      "url": "https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/opencode-android-full-arm64.ocafeed",
+      "size": 1108,
+      "sha256": "c56789cc45639ebb67fabd737661a28d48fb9ce524ee27b7172cbe09379a55fb"
+    }
+  },
+  "downloadCount": 79
+}

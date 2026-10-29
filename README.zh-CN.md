@@ -4,6 +4,11 @@
 
 [![GitHub 发布下载量](https://img.shields.io/github/downloads/B5-Software/opencode-android-full/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F "所有 Release 资产的累计下载次数")](https://github.com/B5-Software/opencode-android-full/releases)
 
+[![点击下载 APK](https://img.shields.io/badge/点击下载-Android_APK-1c2820?style=for-the-badge&logo=android&logoColor=white)](https://b5-software.github.io/opencode-android-full/download.html?asset=apk)
+[![下载内核升级包](https://img.shields.io/badge/点击下载-内核升级包-496332?style=for-the-badge)](https://b5-software.github.io/opencode-android-full/download.html?asset=core)
+
+[多语言官网 · 一键下载](https://b5-software.github.io/opencode-android-full/) · 首次安装或更新 Android 宿主请选择 APK；内核升级包 `.ocaupdate` 一起更新匹配的 OpenCode 前后端。
+
 非官方 Android 本地开发工作站，按 [v2.0 项目计划书](docs/PROJECT_PLAN.zh-CN.md) 实施。
 
 本项目正在开发，**当前不是 M0–M5 全部完成的成品**。Android Host 使用 Kotlin/Compose，`minSdk=29`、`targetSdk=36`、`compileSdk=36`，正式运行包仅 ARM64。x86_64 是显式启用的工程诊断版本。

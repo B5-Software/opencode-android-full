@@ -13,6 +13,7 @@ app/src/main/assets/runtime/*.tar.gz
 app/runtime-assets/
 captures/
 artifacts/
+_site/
 __pycache__/
 *.pyc
 *.p12

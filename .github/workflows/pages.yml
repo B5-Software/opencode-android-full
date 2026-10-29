@@ -1,0 +1,62 @@
+name: Website
+
+on:
+  push:
+    branches: [main]
+    paths: ['website/**', 'tools/site_release.py', 'tools/test_site_release.py', 'tools/test_website.mjs', '.github/workflows/pages.yml']
+  release:
+    types: [published, edited]
+  workflow_run:
+    workflows: [Android]
+    types: [completed]
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && startsWith(github.event.workflow_run.head_branch, 'v') && github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Check release selection and languages
+        run: |
+          python3 -m unittest discover -s tools -p test_site_release.py
+          node --test tools/test_website.mjs
+      - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
+      - name: Prepare static site and current downloads
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir _site
+          cp -R website/. _site/
+          python3 tools/site_release.py --output _site/release.json
+      - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

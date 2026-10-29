@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="OpenCode Android Full: the official OpenCode experience, Debian development tools and a Linux desktop on Android. Download the ARM64 APK or signed OpenCode update.">
+  <meta name="theme-color" content="#f6f7f2" media="(prefers-color-scheme:light)">
+  <meta name="theme-color" content="#111713" media="(prefers-color-scheme:dark)">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+  <title>OpenCode Android Full — Your pocket workstation</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main" data-i18n="skip">Skip to content</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="OpenCode Android Full">
+        <span class="brand-icon"><img src="./assets/app-icon.png" width="64" height="64" alt=""></span>
+        <span>OpenCode<span class="brand-sub">Android Full</span></span>
+      </a>
+      <nav aria-label="OpenCode Android Full">
+        <label class="language-control"><span aria-hidden="true">◎</span><span class="sr-only" data-i18n="language">Language</span><select id="language" aria-label="Language"><option value="auto">System language</option></select></label>
+        <a class="github-link" href="https://github.com/B5-Software/opencode-android-full" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="status-dot"></span><span data-i18n="eyebrow">An open-source Android workstation</span></p>
+          <h1 data-i18n="headline">Your dev workstation.<br>Now on Android.</h1>
+          <p class="hero-description" data-i18n="intro">Official OpenCode. A real Debian environment. Your projects, terminal and tools, together on your phone.</p>
+          <div class="download-actions">
+            <a class="button primary" data-asset="apk" href="https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/opencode-android-full-arm64.apk"><span aria-hidden="true">↓</span><span data-i18n="apk">Download APK</span></a>
+            <a class="button secondary" data-asset="core" href="https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/opencode-android-full-arm64.ocaupdate"><span aria-hidden="true">↻</span><span data-i18n="core">OpenCode update</span></a>
+          </div>
+          <div class="release-meta"><span class="version" data-release-tag>v0.1.0-beta.1</span><span data-i18n="requirements">Android 10+ · ARM64 · No root</span></div>
+          <p class="download-sizes mono" dir="ltr">APK <span data-download-size="apk">598.7 MiB</span> · .ocaupdate <span data-download-size="core">121.9 MiB</span></p>
+          <p class="update-hint" data-i18n="updateHint">New installation? Choose the APK. The update package upgrades the OpenCode frontend and backend together.</p>
+          <button class="text-button copy-feed" id="copy-feed" type="button"><span aria-hidden="true">⧉</span><span data-i18n="copyFeed">Copy signed update feed</span></button>
+          <input class="feed-fallback" id="feed-fallback" aria-label="Signed update feed URL" readonly hidden>
+          <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
+        </div>
+
+        <div class="workbench" aria-label="Illustrative local development workspace">
+          <div class="workbench-top"><div class="window-dots" aria-hidden="true"><i></i><i></i><i></i></div><span>opencode / workspace</span><span class="local-pill"><span class="status-dot"></span>LOCAL</span></div>
+          <div class="workbench-body" dir="ltr">
+            <div class="workbench-intro"><div class="device-logo"><img src="./assets/app-icon.png" width="100" height="100" alt=""></div><div><span class="micro-label" data-i18n="workspace">ONE WORKSPACE</span><strong>hello, world<span class="lime">.</span></strong><span class="mono muted">/workspace/helloworld</span></div></div>
+            <div class="workbench-tabs" aria-hidden="true"><span class="active">OpenCode</span><span>Terminal</span><span>Files</span><span>Desktop</span></div>
+            <div class="terminal" aria-hidden="true"><p><span class="prompt">❯</span> uname -m</p><p class="output">aarch64</p><p><span class="prompt">❯</span> make test</p><p class="output">cc hello.c -o hello</p><p class="success">✓ All tests passed</p><p><span class="prompt">❯</span> <span class="cursor"></span></p></div>
+            <div class="workbench-footer"><span><span class="status-dot"></span>Debian 13</span><span>Git · Python · Rust · Clang</span></div>
+          </div>
+          <div class="workbench-caption" data-i18n="illustration">Illustrative workspace · Runs on your device</div>
+        </div>
+      </section>
+
+      <section class="capabilities" aria-labelledby="capabilities-title">
+        <div class="section-heading"><p class="eyebrow" data-i18n="toolsEyebrow">SMALL DEVICE. REAL TOOLS.</p><h2 id="capabilities-title" data-i18n="toolsTitle">More than a chat window.</h2></div>
+        <div class="capability-grid">
+          <article><span class="feature-number">01 / OpenCode</span><h3 data-i18n="agentTitle">The official experience</h3><p data-i18n="agentBody">Matching upstream CLI and WebUI, with Agent, sessions, shell, LSP, MCP and plugins.</p></article>
+          <article><span class="feature-number">02 / Debian</span><h3 data-i18n="toolsHeading">A complete toolbelt</h3><p data-i18n="toolsBody">curl, wget, Git, Node.js, Python, Rust and Clang are bundled. Keep building with apt.</p></article>
+          <article><span class="feature-number">03 / Workspace</span><h3 data-i18n="desktopTitle">Room to do more</h3><p data-i18n="desktopBody">Switch between terminals, files and an optional XFCE desktop. Your projects stay together.</p></article>
+        </div>
+      </section>
+
+      <section class="start-section" aria-labelledby="start-title">
+        <div><p class="eyebrow" data-i18n="startEyebrow">GET STARTED</p><h2 id="start-title" data-i18n="startTitle">Your next project starts here.</h2><a class="inline-link" data-docs href="https://github.com/B5-Software/opencode-android-full#requirements-and-installation" target="_blank" rel="noopener noreferrer"><span data-i18n="guide">Read the installation guide</span> <span aria-hidden="true">↗</span></a></div>
+        <ol class="steps"><li><span>1</span><p data-i18n="step1">Install the ARM64 APK and prepare the bundled runtime.</p></li><li><span>2</span><p data-i18n="step2">Connect your chosen cloud provider or compatible local model.</p></li><li><span>3</span><p data-i18n="step3">Open your workspace. Code, run commands, and build.</p></li></ol>
+      </section>
+
+      <aside class="preview-note"><span class="preview-label" data-i18n="preview">ENGINEERING PREVIEW</span><p data-i18n="previewBody">Physical-device validation currently centers on Android 16 / K30 / 4 KiB. The broader device, stability and audit matrix is still in progress.</p><a href="https://github.com/B5-Software/opencode-android-full/blob/main/docs/VALIDATION.md" target="_blank" rel="noopener noreferrer" data-i18n="validation">See validation</a></aside>
+    </main>
+
+    <footer class="site-footer"><div><span class="footer-brand">OpenCode Android Full</span><p data-i18n="unofficial">An independent, unofficial port. GPL-3.0-or-later.</p></div><div class="footer-links"><a data-release-link href="https://github.com/B5-Software/opencode-android-full/releases" data-i18n="allAssets">All release files</a><a href="https://github.com/B5-Software/opencode-android-full/issues" target="_blank" rel="noopener noreferrer" data-i18n="issues">Report an issue</a><span class="download-count"><span data-download-count>—</span><span data-i18n="downloads">asset downloads</span></span></div></footer>
+  </div>
+</body>
+</html>

@@ -6,6 +6,11 @@ English | [简体中文](README.zh-CN.md)
 [![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE)
 [![GitHub release downloads](https://img.shields.io/github/downloads/B5-Software/opencode-android-full/total?label=Downloads "All release assets, all releases")](https://github.com/B5-Software/opencode-android-full/releases)
 
+[![Download APK](https://img.shields.io/badge/Download-Android_APK-1c2820?style=for-the-badge&logo=android&logoColor=white)](https://b5-software.github.io/opencode-android-full/download.html?asset=apk)
+[![Download OpenCode update](https://img.shields.io/badge/Download-OpenCode_Update-496332?style=for-the-badge)](https://b5-software.github.io/opencode-android-full/download.html?asset=core)
+
+[Multilingual website & one-click downloads](https://b5-software.github.io/opencode-android-full/) · The update package upgrades OpenCode's matching frontend/backend; use the APK for a new installation or Android host update.
+
 A local development workstation for Android: the official OpenCode CLI and WebUI, Debian 13 ARM64 development tools, terminals, files, and an optional Linux desktop in one application.
 
 面向 Android 的本地开发工作站：官方 OpenCode 前后端、Debian 13 ARM64 开发套件、终端、文件管理与可选 Linux 桌面。完整说明见 [中文 README](README.zh-CN.md)。

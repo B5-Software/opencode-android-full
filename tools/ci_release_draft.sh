@@ -4,7 +4,16 @@ set -euo pipefail
 : "${RELEASE_TAG:?Missing release tag}"
 : "${GITHUB_REPOSITORY:?Missing repository}"
 [[ "$RELEASE_TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+(-[A-Za-z0-9.-]+)?$ ]] || exit 2
-cat > artifacts/RELEASE_NOTES.md <<'NOTES'
+cat > artifacts/RELEASE_NOTES.md <<BUTTONS
+<!-- opencode-downloads:start -->
+[![Download APK / 下载 APK](https://img.shields.io/badge/Download-Android_APK-1c2820?style=for-the-badge&logo=android&logoColor=white)](https://github.com/${GITHUB_REPOSITORY}/releases/download/${RELEASE_TAG}/opencode-android-full-arm64.apk)
+[![OpenCode update / 内核升级包](https://img.shields.io/badge/Download-OpenCode_Update-496332?style=for-the-badge)](https://github.com/${GITHUB_REPOSITORY}/releases/download/${RELEASE_TAG}/opencode-android-full-arm64.ocaupdate)
+
+[多语言官网 · Website & downloads](https://b5-software.github.io/opencode-android-full/)
+
+<!-- opencode-downloads:end -->
+BUTTONS
+cat >> artifacts/RELEASE_NOTES.md <<'NOTES'
 ARM64 Android engineering prerelease. Built from tagged source and pinned Debian/OpenCode inputs.
 
 Includes a signed APK, checksums, certificate record, matched official OpenCode updates, source/build materials, Debian SPDX/license inventory, and the exact Debian source descriptors, upstream archives and distribution patches. Verify SHA256SUMS-signed.txt after downloading.
