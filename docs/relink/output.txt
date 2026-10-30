@@ -1,0 +1,109 @@
+modified-bun-qemu.log
+OPENCODE_ANDROID_FULL_WEBKIT_RELINK_V1
+RELINK_BUN_ARM64_OK 1.4.4 38afee6c84fcf48c0edb2466aa4b27d287a59c30
+令和2年
+2020(庚子)正月8日
+RELINK_ICU_LOCALE_OK
+
+k30-relinked-with-ui.txt
+INSTRUMENTATION_STATUS: class=io.github.opencodeandroid.runtime.RelinkRuntimeAcceptanceTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+io.github.opencodeandroid.runtime.RelinkRuntimeAcceptanceTest:
+INSTRUMENTATION_STATUS: test=modifiedWebkitBunAndOfficialOpencodeRunThroughAndroidApkLoader
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: stream=
+PASS MODIFIED_RUNTIME_RELINK appUid=10333 targetSdk=36 pageSize=4096 binarySha256=ee4b62733f0bbce8b012222ce1d9e2b99530aa1d5181f606a6d750f8642a04c4 version=2.1.4-dev.f993a89d13c7 VM_MARKER_OBSERVED authenticatedApi=true officialFrontendBytes=9670 session=ses_e75e28100ffeG1MOAjOLNlT0Nj local developer program in fresh runtime; managed user program and signature verification unchanged
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: class=io.github.opencodeandroid.runtime.RelinkRuntimeAcceptanceTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=modifiedWebkitBunAndOfficialOpencodeRunThroughAndroidApkLoader
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 79.848
+
+OK (1 test)
+
+
+INSTRUMENTATION_CODE: -1
+
+k30-relinked-public-cloud.txt
+INSTRUMENTATION_STATUS: class=io.github.opencodeandroid.runtime.PublicCloudAgentAcceptanceTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+io.github.opencodeandroid.runtime.PublicCloudAgentAcceptanceTest:
+INSTRUMENTATION_STATUS: test=realPublicModelCreatesBuildsAndTestsAnArm64CProject
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: stream=
+REAL_CLOUD installing fresh APK-pinned Debian/developer kit; synthetic inputs only; model=opencode/glm-5.3-flash-free
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: stream=
+Debian 13 installed (49528 entries).
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: stream=
+PASS REAL_CLOUD model=opencode/glm-5.3-flash-free runtimeSha256=ee4b62733f0bbce8b012222ce1d9e2b99530aa1d5181f606a6d750f8642a04c4 sourceHashes={src/calc.h=9f55552f3795da1259cf34b1f001448b3528fa281134d7ad07e04971c0312e3a, src/calc.c=4ce3fba6b24444311f5e91079990d2864c34131c30f89e6bfeabe48807d29cfc, tests/test_calc.c=b566b1a7558e313742ffd171dff33ac6410618e6a98f56e35befe516f8b3995d, Makefile=d030e9ae44d878a7640763c35d4b55c1b3c780e715d08688babab8fff9cbaafd} appUid=10333 pageSize=4096 actual official Agent wrote four files, produced an AArch64 test program, and passed independent compiler/runtime assertions. No scripted model or private account credential.
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: class=io.github.opencodeandroid.runtime.PublicCloudAgentAcceptanceTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=realPublicModelCreatesBuildsAndTestsAnArm64CProject
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 103.221
+
+OK (1 test)
+
+
+INSTRUMENTATION_CODE: -1
+
+k30-public-cloud-agent.txt (APK-pinned program)
+INSTRUMENTATION_STATUS: class=io.github.opencodeandroid.runtime.PublicCloudAgentAcceptanceTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+io.github.opencodeandroid.runtime.PublicCloudAgentAcceptanceTest:
+INSTRUMENTATION_STATUS: test=realPublicModelCreatesBuildsAndTestsAnArm64CProject
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: stream=
+REAL_CLOUD installing fresh APK-pinned Debian/developer kit; synthetic inputs only; model=opencode/glm-5.3-flash-free
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: stream=
+Debian 13 installed (49528 entries).
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: stream=
+PASS REAL_CLOUD model=opencode/glm-5.3-flash-free sourceHashes={src/calc.h=9f55552f3795da1259cf34b1f001448b3528fa281134d7ad07e04971c0312e3a, src/calc.c=4ce3fba6b24444311f5e91079990d2864c34131c30f89e6bfeabe48807d29cfc, tests/test_calc.c=69f5229f5916f0a79a6052d26d59f323b5146f7ebf5bb311ffaa041117f0e538, Makefile=9a4721862e0e6687b2c1f32af0201237c88335d5b025ce9d57392cceb9abaaa6} appUid=10333 pageSize=4096 actual official Agent wrote four files, produced an AArch64 test program, and passed independent compiler/runtime assertions. No scripted model or private account credential.
+
+INSTRUMENTATION_STATUS_CODE: 2
+INSTRUMENTATION_STATUS: class=io.github.opencodeandroid.runtime.PublicCloudAgentAcceptanceTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=realPublicModelCreatesBuildsAndTestsAnArm64CProject
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 100.772
+
+OK (1 test)
+
+
+INSTRUMENTATION_CODE: -1

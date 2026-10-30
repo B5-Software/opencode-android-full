@@ -96,7 +96,12 @@
       "tarSha256": "0b1e16e1f31dff5224501cc52093e676cbffd3a55324b7bceef98b039b498819",
       "tarSize": 1405962240,
       "scope": "Bun JavaScriptCore source, build/ICU recipes and supporting resources; unrelated top-level tests/site trees omitted",
-      "modifiedRuntimeRelinkVerified": false
+      "modifiedRuntimeRelinkVerified": true,
+      "modifiedRuntimeRelinkEvidence": {
+        "file": "docs/relink/validation.json",
+        "sha256": "749aa8478ed703dad405638266be5a4035cda717ca2c02408359b10de03cace5",
+        "scope": "Pinned WebKit/Bun/OpenCode; K30 Android 16 ordinary UID, 4 KiB; local developer program, not replacement published APK"
+      }
     }
   ]
 }

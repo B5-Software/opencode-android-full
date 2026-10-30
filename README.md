@@ -95,6 +95,8 @@ Release assets include checksums, a public signing-certificate record, build met
 
 The first prerelease also has an [upstream build-source supplement](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip): five Bun/TinyCC/WebKit/ICU/OpenCode archives, 179 original notices, and a verifier. It adds omitted WebKit build/ICU recipes and ICU 78.3 sources. See [source materials and relinking status](docs/BUN_SOURCES.md).
 
+[Modified runtime proof](docs/relink/README.md): a rebuilt WebKit/Bun/OpenCode executable passed Android 16 on K30, including real GLM Agent development and independent ARM64 C tests. The official frontend archive is unchanged. This is a scoped developer-program test; full release and device-matrix acceptance remain open.
+
 The APK also includes Maven/npm notice archives. Release materials retain the exact Android library source JARs, a manifest-based OpenCode dependency notice superset, and original font attribution records. Declaration-only cases and review boundaries are explicit in [dependency notices](docs/DEPENDENCY_NOTICES.md).
 
 [OpenCode updates](docs/OPENCODE_UPDATES.md) update the matching frontend/backend pair together, with publisher authentication and explicit installation. [Backups](docs/BACKUP_RESTORE.md) encrypt persistent runtime/project state and restore it transactionally.

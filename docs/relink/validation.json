@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "recordedDate": "2026-10-30",
+  "scope": "Developer-built Linux executable through the installed APK read-only PRoot loader, fresh test profile; published APK and managed user program not replaced",
+  "sourcePins": {
+    "bun": "38afee6c84fcf48c0edb2466aa4b27d287a59c30",
+    "webkit": "d6375c72affe0f70222cdcb45012b10f0bf3a9d5",
+    "tinycc": "05f0fafaa3be31e31d7b4b5c17dc60f62c991171",
+    "icu": "78.3",
+    "opencode": "f993a89d13c73ff6f6537d6b97e78e138a3ea363"
+  },
+  "toolchain": {
+    "llvm": "23.1.1",
+    "rust": "nightly-2026-09-15",
+    "cmake": "3.30.5",
+    "node": "26.3.0",
+    "zstd": "1.5.7",
+    "bunBuildCommand": [
+      "bun",
+      "scripts/build.ts",
+      "--profile=release-local",
+      "--os=linux",
+      "--arch=aarch64",
+      "--abi=gnu",
+      "-j2"
+    ]
+  },
+  "patches": {
+    "bun-webkit-arm64.patch": "290a68b556acce219c05c82c552d99908aef14b3269c710fe9e5887e7b0b3e1a",
+    "opencode-bun-template.patch": "83f422b76b15ac71a422ac3599d25d64c5e12582dad7ab1d207b48186e5fa810"
+  },
+  "bun": {
+    "version": "1.4.4",
+    "sha256": "e0eeac34149b0db980769c9b7a29218de0e56713f18ad7d23b4fdbefd92cbfc9",
+    "size": 107590888,
+    "aarch64QemuPassed": true,
+    "vmConstructorMarkerObserved": true,
+    "japaneseAndChineseCalendarsPassed": true
+  },
+  "icu": {
+    "version": "78.3",
+    "droppedItems": 315,
+    "keptItems": 3990,
+    "reachableRbnfLocales": [
+      "ja",
+      "zh",
+      "zh_Hant"
+    ],
+    "staticLibraries": {
+      "libicudata.a": {
+        "size": 12249374,
+        "sha256": "5247e3a9633f4c3a9ad7ef04ddce34addb08cd3bf154acd1e93a365f6f648588"
+      },
+      "libicui18n.a": {
+        "size": 7812030,
+        "sha256": "c56d79335549844771b0a5afd5c41ccf86680c5270228807f0afec22238db56d"
+      },
+      "libicutu.a": {
+        "size": 399594,
+        "sha256": "063181f27a905b62bccfa9e34c1ffefe149188c51d2aa8934e99c7d5e70478c8"
+      },
+      "libicutest.a": {
+        "size": 130846,
+        "sha256": "45da5edc43f6af7208773a0414c378fa7eef1929591a649ab9251229aee744a3"
+      },
+      "libicuuc.a": {
+        "size": 3819060,
+        "sha256": "886af8f522dff3ffa321583c8b552219d7873905613b28f247a1490b061460f8"
+      }
+    }
+  },
+  "opencode": {
+    "version": "2.1.4-dev.f993a89d13c7",
+    "sha256": "ee4b62733f0bbce8b012222ce1d9e2b99530aa1d5181f606a6d750f8642a04c4",
+    "size": 259726416,
+    "elfStaticAlignmentCheckPassed": true,
+    "frontendArchiveSize": 25791333,
+    "frontendArchiveSha256": "777772240850c53be0c1c91ca1b14b608ac6acc6d48cb06f01fe8c6ed947864e",
+    "frontendArchiveByteIdenticalToOriginal": true,
+    "officialFrontendSourceModified": false
+  },
+  "android": {
+    "device": "Redmi K30 5G",
+    "api": 36,
+    "targetSdk": 36,
+    "applicationUid": 10333,
+    "pageSize": 4096,
+    "vmConstructorMarkerObserved": true,
+    "authenticatedApiPassed": true,
+    "officialFrontendHtmlBytes": 9670,
+    "sessionCreationPassed": true,
+    "privateSqliteDatabaseCreated": true,
+    "relinkTestSeconds": 79.848
+  },
+  "realCloud": {
+    "provider": "opencode",
+    "model": "glm-5.3-flash-free",
+    "privateCredentialsUsed": false,
+    "scriptedModelUsed": false,
+    "apkPinnedProgramPassed": true,
+    "rebuiltProgramPassed": true,
+    "rebuiltProgramSha256": "ee4b62733f0bbce8b012222ce1d9e2b99530aa1d5181f606a6d750f8642a04c4",
+    "rebuiltProgramTestSeconds": 103.221,
+    "modelCreatedFiles": [
+      "src/calc.h",
+      "src/calc.c",
+      "tests/test_calc.c",
+      "Makefile"
+    ],
+    "modelBuiltAarch64Executable": true,
+    "independentGccAssertionsPassed": true
+  },
+  "limitations": {
+    "upstreamCanonicalCheck": "Lint and 28 packages passed; Windows non-materialized frontend Git symlink blocked full monorepo check; affected CLI official typecheck:tsc passed",
+    "physical16KiBTested": false,
+    "fullDeviceMatrixComplete": false,
+    "githubAccountLoginAndRemotePushFromAndroidVerified": false
+  },
+  "outputSha256": "6c140121114c443a8f05d21e1e6688144316ee7213a20d1c056f90f005a95d06",
+  "modifiedRuntimeRelinkVerified": true,
+  "fullReleaseAuditComplete": false,
+  "completeProjectAcceptance": false
+}

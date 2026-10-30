@@ -1,0 +1,24 @@
+--- a/packages/cli/script/build.ts
++++ b/packages/cli/script/build.ts
+@@ -72,7 +72,7 @@
+ // Bun 1.4.4 skips native packages for the other libc by default, but the musl targets need them.
+ if (!skipInstall)
+   await $`bun install --os="*" --cpu="*" --libc="*" @opentui/core@${pkg.dependencies["@opentui/core"]} @opencode-ai/pty@${pkg.dependencies["@opencode-ai/pty"]}`
+-const appArchive = path.join(dir, ".cache", "bun-app-archive.bin")
++const appArchive = path.join(dir, ".cache", "bun-app-archive-relink-private.bin")
+ await Bun.write(appArchive, await buildAppArchive(Script.channel, { skipBuild: skipWebUi }))
+ const appAssetsPlugin: BunPlugin = {
+   name: "opencode-app-assets",
+@@ -231,6 +231,12 @@
+ }
+ 
+ async function compileExecutable(item: (typeof allTargets)[number]) {
++  const local = process.env.OPENCODE_RELINK_BUN_TEMPLATE
++  if (local) {
++    if (item.os !== "linux" || item.arch !== "arm64" || item.abi) throw new Error("Private template is ARM64 GNU only")
++    if (!(await Bun.file(local).exists())) throw new Error("Private runtime template missing")
++    return path.resolve(local)
++  }
+   const release = process.env.BUN_COMPILE_RELEASE
+   if (!release) return
+ 

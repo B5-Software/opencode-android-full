@@ -297,3 +297,14 @@ K30 更新包验证层新增 7 项、9.458 秒通过，含以已安装 APK 证�
 在独立 WSL 目录实际编译 ICU 78.3 宿主工具、带上游解压 hook 的 ARM64 静态库，按上游规则过滤 315 项、保留 3,990 项资源和三种可达算法编号 locale，并生成 12,249,374 字节的压缩数据静态库。Node 26.3.0 的 gzip 包匹配 Bun 源码固定 SHA；Zstd 1.5.7 匹配发布者 SHA；目标数据对象确认为 AArch64。证据：`relink-icu-host-result.json`、`relink-icu-arm64-result.json`、`relink-node.json`、`relink-zstd.json`，均在 `.cache/evidence/`。
 
 完整构建发现上游 local 模式会覆盖 GNU 目标参数并选择系统 ICU；独立验证副本保留 ARM64/sysroot，指定新编译 ICU 和数据解压源，并加入固定 VM 标记。Cargo 官方索引连续超时后，在任务独立 Cargo 目录使用可达的稀疏镜像，保留原 Cargo.lock 和校验值；Rust 编译已实际推进。完整 WebKit → Bun → OpenCode → Android 执行仍待完成，两个完成标记保持 false。
+
+
+## 2026-10-30 修改 WebKit/Bun 的实际 Android 重链与真实云 Agent
+
+完整源码构建成功（1,554 步），修改 VM 构造器的 ARM64 Bun 1.4.4 在 QEMU 输出实际标记并通过日语历/农历测试。再以该程序为 `compile.executablePath` 重编译固定 OpenCode `f993a89d13c7`，保留完整官方前端；前端归档 SHA-256 与原版相同。初次 `--skip-web-ui` 构建确实生成空资源包，在 Android 页面断言处失败，移除该参数并完整重建后通过，未以该失败包充当完成证据。
+
+K30 Android 16 / target36 / 普通应用 UID10333 / 4KiB，通过已安装 APK 的只读 PRoot Loader，在新建 Debian/config/HOME/data/state 中执行这份本地开发程序：实际 VM 标记、鉴权 API、版本、9670 字节官方 HTML、会话创建和私有 SQLite 文件验证，1 项、79.848 秒通过。正常用户受管程序、正式 APK、签名验证及工作区未切换。静态 16KiB ELF 对齐通过不等于 16KiB 物理设备验收。
+
+真实官方 `opencode/glm-5.3-flash-free` 先在 APK 固定程序上独立通过（100.772 秒）；API29 兼容 ELF 读取调整后，该云测试在混合测试组内再次通过，但该组另一个旧无前端构建失败，不把它计为整体通过。随后同一份完整前端的重链程序独立通过真实云模型测试（103.221 秒）：Agent 实际创建四个 C 工程文件、生成 AArch64 测试 ELF，独立 gcc 编译器使用固定六种输入验证其源码和结果。未使用脚本模型或私人 API 凭据。这不代替真实 GitHub 账号登录/远端推送及所有云服务矩阵。
+
+[公开补丁、构建步骤、记录和实际输出](relink/README.md)保存精确摘要与范围；源码锁的重链证据标记仅针对该记录为 true，完整发行审计和完整项目验收仍为 false。上游 monorepo `bun run check` 的 lint 和 28 个包通过，Windows 未物化 Git 符号链接导致前端声明解析失败；宿主创建链接权限被拒绝后恢复原始字节，未改官方前端规避，受影响 CLI 的官方 `typecheck:tsc` 通过。新增 Android opt-in 验收测试构建并在真机执行，默认 CI 不调用云模型。

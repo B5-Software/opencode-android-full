@@ -19,7 +19,7 @@ import java.util.UUID
 import java.util.concurrent.TimeUnit
 
 /** Test-only service namespace. Never changes the user's home, database, provider or credentials. */
-internal class IsolatedAgentRuntime(context: Context, modelPort: Int) : Closeable {
+internal class IsolatedAgentRuntime(context: Context, modelPort: Int, publicFreeModel: String? = null) : Closeable {
     private val paths = RuntimePaths(context).apply { prepare() }
     private val suffix = UUID.randomUUID().toString()
     private val root = File(paths.config, "agent-fixture-$suffix").apply { check(mkdir()) }
@@ -29,6 +29,7 @@ internal class IsolatedAgentRuntime(context: Context, modelPort: Int) : Closeabl
     private val password = UUID.randomUUID().toString()
     private val port = ServerSocket(0, 1, InetAddress.getByName("127.0.0.1")).use { it.localPort }
     private var child: NativeProcess? = null
+    private var executable = "/usr/local/bin/opencode"
     private var reader: Thread? = null
     private var extensionChild: NativeProcess? = null
     private var extensionReader: Thread? = null
@@ -50,9 +51,16 @@ internal class IsolatedAgentRuntime(context: Context, modelPort: Int) : Closeabl
             .put("settings", JSONObject().put("apiKey", "fixture-no-credentials")
                 .put("baseURL", "http://127.0.0.1:$modelPort/v1"))
             .put("models", JSONObject().put("fixture-chat", model))
-        privateFile("config/opencode/opencode.json", JSONObject()
+        val configuration = if (publicFreeModel == null) JSONObject()
             .put("model", "android-fixture/fixture-chat")
-            .put("providers", JSONObject().put("android-fixture", provider)))
+            .put("providers", JSONObject().put("android-fixture", provider))
+        else {
+            require(publicFreeModel in setOf("glm-5.3-flash-free", "deepseek-v4.1-flash-free"))
+            // The official provider supplies its anonymous public/free authentication.
+            // No account, host credential, custom endpoint or scripted model is used.
+            JSONObject().put("model", "opencode/$publicFreeModel")
+        }
+        privateFile("config/opencode/opencode.json", configuration)
     }
 
     private fun privateFile(name: String, json: JSONObject) {
@@ -100,10 +108,31 @@ internal class IsolatedAgentRuntime(context: Context, modelPort: Int) : Closeabl
 
     fun enableBundledLsp(context: Context) = BundledPlugins.install(context.assets, File(root, "config/opencode"))
 
+    fun useLocallyRebuiltExecutable(input: File, sha256: String) {
+        check(child == null && sha256.matches(Regex("[a-f0-9]{64}")))
+        val program = File(root, "relinked-opencode")
+        input.inputStream().use { source -> program.outputStream().use { source.copyTo(it) } }
+        check(io.github.opencodeandroid.runtime.update.UpdateFiles.sha(program) == sha256)
+        Os.chmod(program.path, 0x1ed)
+        executable = "$guest/relinked-opencode"
+    }
+
+    fun frontendHtml(): String {
+        val connection = URL("http://127.0.0.1:$port/").openConnection() as HttpURLConnection
+        connection.connectTimeout = 3000
+        connection.readTimeout = 15000
+        connection.setRequestProperty("Authorization", "Basic " + Base64.encodeToString("opencode:$password".toByteArray(), Base64.NO_WRAP))
+        try {
+            check(connection.responseCode == 200)
+            check(connection.contentType.orEmpty().contains("text/html"))
+            return connection.inputStream.bufferedReader().use { it.readText() }
+        } finally { connection.disconnect() }
+    }
+
     fun start() {
         check(child == null)
         synchronized(output) { output.setLength(0) }
-        val process = ProotCommand(paths).process(listOf("/usr/local/bin/opencode", "serve", "--service",
+        val process = ProotCommand(paths).process(listOf(executable, "serve", "--service",
             "--hostname", "127.0.0.1", "--port", port.toString()), mapOf(
             "HOME" to "$guest/home", "OPENCODE_TEST_HOME" to "$guest/home",
             "XDG_DATA_HOME" to "$guest/data", "XDG_CACHE_HOME" to "$guest/cache",

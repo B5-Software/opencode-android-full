@@ -94,10 +94,12 @@ adb -s <serial> shell am instrument -w -e includeNetwork true io.github.opencode
 
 ## 仍需完成
 
-ARM64 16 KB 实机验证；真实模型驱动的 Agent 工程开发与恢复；终端和桌面 IME/TUI/外设交互矩阵；真实 GitHub 登录/远端推送、LSP 配置与语言覆盖；AndroidBridge 长时间/系统回收压力与完整文件操作矩阵；桌面 Chromium 沙箱兼容与隔离评估；真实平板、折叠屏和外接显示器的多面板验收；跨设备/provider/长期压力下的备份恢复矩阵；Android 10–16 生命周期与压力验证；持续发布验证与完整许可证兼容性审计。
+ARM64 16 KB 实机验证；多模型/账号与复杂工程的 Agent 开发/恢复矩阵；终端和桌面 IME/TUI/外设交互矩阵；真实 GitHub 登录/远端推送、LSP 配置与语言覆盖；AndroidBridge 长时间/系统回收压力与完整文件操作矩阵；桌面 Chromium 沙箱兼容与隔离评估；真实平板、折叠屏和外接显示器的多面板验收；跨设备/provider/长期压力下的备份恢复矩阵；Android 10–16 生命周期与压力验证；持续发布验证与完整许可证兼容性审计。
 
 本项目以 GPL-3.0-or-later 提供新代码。参考与复用组件的版权、许可证见 [第三方说明](THIRD_PARTY_NOTICES.md)。OpenCode 保留上游 MIT 许可证，Debian 内各软件包保留其各自许可证。
 
 APK 内嵌 Maven/npm 说明归档，发布材料还包含实际 Android 运行库的完整 source JAR、OpenCode 清单依赖超集与原始字体署名。仅有许可证声明的条目及未完成审查范围见 [依赖材料](docs/DEPENDENCY_NOTICES.md)，不将工程预发布等同于完整审计通过。
 
 首个预发布另提供[上游构建源码补充包](https://github.com/B5-Software/opencode-android-full/releases/download/v0.1.0-beta.1/upstream-build-sources-v0.1.0-beta.1.zip)，包含五份 Bun/TinyCC/WebKit/ICU/OpenCode 归档、179 份原始说明及校验脚本，补齐初版遗漏的 WebKit 构建/ICU 配方和 ICU 78.3 源码。[源码与重链接进度](docs/BUN_SOURCES.md)记录验证范围。
+
+[修改运行库实测](docs/relink/README.md)：重编译 WebKit/Bun/OpenCode 已在 K30 Android 16 通过，包含真实 GLM Agent 工程开发和独立 ARM64 C 测试，官方前端归档保持一致。该结果限于本地开发程序及所列设备范围，完整发行与设备矩阵仍待完成。

@@ -10,3 +10,5 @@ runtime/apt-metadata/** -text
 third_party/common/** -text
 third_party/npm-notices/** -text
 app/src/main/assets/licenses/** -text
+# Unified patch context lines intentionally contain a leading space.
+docs/relink/*.patch -whitespace
